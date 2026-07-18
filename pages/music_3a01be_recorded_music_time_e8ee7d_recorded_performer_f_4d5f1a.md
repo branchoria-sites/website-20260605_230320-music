@@ -292,194 +292,194 @@ The broader distribution enabled by recording technology laid the groundwork for
 Moreover, recordings preserved performances indefinitely, allowing performers from earlier decades to be discovered long after their prime, a phenomenon impossible in the purely live context. The archive of recorded sound ensures that many 20th‑century musicians remain part of the cultural memory because their work continues to be replayed. This archival quality—distinct from live‑only fame—means that recorded music did not simply extend the range of fame but fundamentally anchored performers’ identities in recorded media in ways that still shape music culture today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Music recording</span><span class="citation-popover-snippet">Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact &#124; Britannica...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Recordings Carried Performer Fame Across Distances. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Recordings Carried Performer Fame Across Distances. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Explains how recorded music distribution transformed artist reach and fame.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how recorded music distribution transformed artist reach and fame.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Provides broader context for why recorded performances become memorable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for why recorded performances become memorable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Discusses recording, distribution, audiences and changing music ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses recording, distribution, audiences and changing music ecosystems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Love+for+sale+David+Hajdu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Love for sale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8881739-M.jpg" alt="Cover for Love for sale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Love+for+sale+David+Hajdu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Love for sale">Love for sale</a>
-        </h4>
-        <p class="fr-book-author">By David Hajdu</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Love+for+sale+David+Hajdu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Love for sale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8881739-M.jpg" alt="Cover for Love for sale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Love+for+sale+David+Hajdu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Love for sale">Love for sale</a>
+</h4>
+<p class="fr-book-author">By David Hajdu</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Popular music, History and criticism, Popular music, history and criticism, New York Times reviewed, MUSI...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Love+for+sale+David+Hajdu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Popular music, History and criticism, Popular music, history and criticism, New York Times reviewed, MUSI...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Love+for+sale+David+Hajdu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aaliyah, Music Artist Poster 24x36 inch"><img src="https://i.ebayimg.com/images/g/Y00AAOSwUJhhKmtD/s-l225.jpg" alt="Listing image for Aaliyah, Music Artist Poster 24x36 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">Aaliyah, Music Artist Poster 24x36 inch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aaliyah, Music Artist Poster 24x36 inch"><img src="https://i.ebayimg.com/images/g/Y00AAOSwUJhhKmtD/s-l225.jpg" alt="Listing image for Aaliyah, Music Artist Poster 24x36 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">Aaliyah, Music Artist Poster 24x36 inch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/GOkAAeSwjNloxIF-/s-l225.jpg" alt="Listing image for KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/GOkAAeSwjNloxIF-/s-l225.jpg" alt="Listing image for KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">KATE BUSH ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/y3EAAOSwaxJoLa7K/s-l225.jpg" alt="Listing image for BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/y3EAAOSwaxJoLa7K/s-l225.jpg" alt="Listing image for BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">BLOSSOMS BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/WD8AAeSwP-hoxIL9/s-l225.jpg" alt="Listing image for LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/WD8AAeSwP-hoxIL9/s-l225.jpg" alt="Listing image for LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">LED ZEPPELIN BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music artist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music artist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+artist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recordings-carried-performer-fame-across-distances-music-artist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music artist poster" data-ebay-reference="how-recordings-carried-performer-fame-across-distances-music-artist-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -495,7 +495,7 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -515,7 +515,7 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -547,7 +547,7 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -599,7 +599,7 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -644,7 +644,7 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -685,99 +685,99 @@ Moreover, recordings preserved performances indefinitely, allowing performers fr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Music recording  
-   Link: <a href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/The-influence-of-recording</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact | Britannica...</p></details>
+   Link:<a href="https://www.britannica.com/topic/music-recording/The-influence-of-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/The-influence-of-recording</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Technology, Artistry, Impact | Britannica...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Music recording  
-   Link: <a href="https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Technology, History, Impact | Britannica...</p></details>
+   Link:<a href="https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/Birth-of-a-mass-medium</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Technology, History, Impact | Britannica...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: race records bessie smith big bill broonzy music business  
-   Link: <a href="https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIAHow &#x27;Race Records&#x27; Turned Black Music Into Big Business | HISTORYAugust 7, 2018...</p></details>
+   Link:<a href="https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/race-records-bessie-smith-big-bill-broonzy-music-business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIAHow &#x27;Race Records&#x27; Turned Black Music Into Big Business | HISTORYAugust 7, 2018...</p></details>
    Published: August 7, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sibetrans.com  
    Title: TRAN S  
-   Link: <a href="https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow">https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS - Revista Transcultural de Música - Transcultural Music Review...</p></details>
+   Link:<a href="https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow">https://www.sibetrans.com/trans/article/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS - Revista Transcultural de Música - Transcultural Music Review...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: race records bessie smith big bill broonzy music business  
-   Link: <a href="https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Race Records&#x27; Turned Black Music Into Big Business | HISTORYAugust 7, 2018 — By: Erin Blakemore Black History HOW ‘RACE RECORDS’ TUR...</p></details>
+   Link:<a href="https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/race-records-bessie-smith-big-bill-broonzy-music-business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Race Records&#x27; Turned Black Music Into Big Business | HISTORYAugust 7, 2018 — By: Erin Blakemore Black History HOW ‘RACE RECORDS’ TUR...</p></details>
    Published: August 7, 2018  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Phonograph Changed Music ForeverHOW THE PHONOGRAPH CHANGED MUSIC FOREVER MUCH LIKE STREAMING MUSIC SERVICES TODAY ARE RESHAPING O...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Phonograph Changed Music ForeverHOW THE PHONOGRAPH CHANGED MUSIC FOREVER MUCH LIKE STREAMING MUSIC SERVICES TODAY ARE RESHAPING O...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: charm.kcl.ac.uk  
-   Link: <a href="https://charm.kcl.ac.uk/studies/chapters/chap2.html" target="_blank" rel="noopener noreferrer nofollow">https://charm.kcl.ac.uk/studies/chapters/chap2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Changing Sound of Music: Approaches to Studying Recorded Musical PerformancesThis in itself should have been enough, one might now think...</p></details>
+   Link:<a href="https://charm.kcl.ac.uk/studies/chapters/chap2.html" target="_blank" rel="noopener noreferrer nofollow">https://charm.kcl.ac.uk/studies/chapters/chap2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Changing Sound of Music: Approaches to Studying Recorded Musical PerformancesThis in itself should have been enough, one might now think...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gold.ac.uk  
    Title: Famous name makes same recording sound better | Goldsmiths, University of London  
-   Link: <a href="https://www.gold.ac.uk/news/repeated-tunes/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/repeated-tunes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2017 — FAMOUS NAME MAKES SAME RECORDING SOUND BETTER People rate identical recordings of the same piece of music differentl...</p></details>
+   Link:<a href="https://www.gold.ac.uk/news/repeated-tunes/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/repeated-tunes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 26, 2017 — FAMOUS NAME MAKES SAME RECORDING SOUND BETTER People rate identical recordings of the same piece of music differentl...</p></details>
    Published: September 26, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: independent.co.uk  
    Title: HAS IT CHANGED OUR MUSICAL UNIVERSE FOR BETTER OR WORSE? Bayan No  
-   Link: <a href="https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How music went on the record | The Independent | The IndependentNovember 3, 2000 — HOW MUSIC WENT ON THE RECORD AS A NEW HISTORY OF RECOR...</p></details>
+   Link:<a href="https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/features/how-music-went-on-the-record-5367441.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How music went on the record | The Independent | The IndependentNovember 3, 2000 — HOW MUSIC WENT ON THE RECORD AS A NEW HISTORY OF RECOR...</p></details>
    Published: November 3, 2000  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: charm.kcl.ac.uk  
-   Link: <a href="https://charm.kcl.ac.uk/studies/chapters/chap3.html" target="_blank" rel="noopener noreferrer nofollow">https://charm.kcl.ac.uk/studies/chapters/chap3.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recordings * Changing Sound of Music * 1. Introduction * 2. Performances * 3. Recordings * 4. Singing * 5. Violin playing * 6. Piano pla...</p></details>
+   Link:<a href="https://charm.kcl.ac.uk/studies/chapters/chap3.html" target="_blank" rel="noopener noreferrer nofollow">https://charm.kcl.ac.uk/studies/chapters/chap3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recordings * Changing Sound of Music * 1. Introduction * 2. Performances * 3. Recordings * 4. Singing * 5. Violin playing * 6. Piano pla...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: historytoday.com  
    Title: On the Record: Music Before Mass Production | History Today  
-   Link: <a href="https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2018 — As more phonographs were sold through the 1890s, the demand for recordings increased, but, without a reliable duplicatio...</p></details>
+   Link:<a href="https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/eva-moreda-rodriguez/record-music-mass-production</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2018 — As more phonographs were sold through the 1890s, the demand for recordings increased, but, without a reliable duplicatio...</p></details>
    Published: March 20, 2018  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: recordinghistory.org  
    Title: At the time of its invention, listening to the re  
-   Link: <a href="https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/" target="_blank" rel="noopener noreferrer nofollow">https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cultural Impact of Recorded Music – History of Sound Recording TechnologyTHE CULTURAL IMPACT OF RECORDED MUSIC Sound recording has be...</p></details>
+   Link:<a href="https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/" target="_blank" rel="noopener noreferrer nofollow">https://recordinghistory.org/the-history-of-sound-recording/culture/the-cultural-impact-of-recorded-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cultural Impact of Recorded Music – History of Sound Recording TechnologyTHE CULTURAL IMPACT OF RECORDED MUSIC Sound recording has be...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: smithsonianmag.com  
    Title: How the Bristol Sessions Created Country Music  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 4, 2017 — HOW THE BRISTOL SESSIONS CREATED COUNTRY MUSIC NINETY YEARS AGO, A YODELLER NAMED JIMMIE RODGERS LAID DOWN TWO OF THE TR...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/how-bristol-sessions-created-country-music-180964277/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 4, 2017 — HOW THE BRISTOL SESSIONS CREATED COUNTRY MUSIC NINETY YEARS AGO, A YODELLER NAMED JIMMIE RODGERS LAID DOWN TWO OF THE TR...</p></details>
    Published: August 4, 2017  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cambridge.org  
    Title: Reminder: A recording is not a performance  
-   Link: <a href="https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cambridge Companion to Recorded MusicSeptember 28, 2011 — REMINDER: A RECORDING IS NOT A PERFORMANCE Published online by Cambridge Un...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-recorded-music/reminder-a-recording-is-not-a-performance/7B90D7E1EC2C7A58D97E8B8F329041B6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cambridge Companion to Recorded MusicSeptember 28, 2011 — REMINDER: A RECORDING IS NOT A PERFORMANCE Published online by Cambridge Un...</p></details>
    Published: September 28, 2011  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cambridge.org  
    Title: The legacy of recordings (Chapter 14)  
-   Link: <a href="https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical PerformanceJune 5, 2012 — 14 - THE LEGACY OF RECORDINGS Published online by Cambridge University Press: 05 June 2012 By Peter Joh...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/musical-performance/legacy-of-recordings/19D3D342FE650928D82C2C637B3D3E1C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musical PerformanceJune 5, 2012 — 14 - THE LEGACY OF RECORDINGS Published online by Cambridge University Press: 05 June 2012 By Peter Joh...</p></details>
    Published: June 5, 2012

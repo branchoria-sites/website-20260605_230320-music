@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-streaming-artist-rev/
 description: Focused pages that expand on Royalties.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_streaming_artist_rev_0dcd6e
 parent_title: Royalties
@@ -16,7 +16,7 @@ parent_permalink: /royalties/
 
 # Explore Topics in Royalties
 
-The following pages expand on the main **[Royalties]({{ '/royalties/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Royalties]({{ '/royalties/' | relative_url }})** page and cover its key branches in.
 
 - [Payout rates]({{ '/payout-rates/' | relative_url }})
 - [Global plays]({{ '/global-plays/' | relative_url }})

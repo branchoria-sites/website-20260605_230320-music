@@ -274,12 +274,12 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_tr
 
 ## Introduction
 
-An earworm is not just a memorable [melody]({{ 'melody/' | relative_url }}). It is a melody that continues replaying in the mind without conscious effort, often as a short fragment such as a chorus, hook or riff. Research on involuntary musical imagery—the scientific term for songs getting stuck in the head—suggests that earworms emerge when a tune combines two qualities that rarely coexist: it is easy to process and sing internally, yet distinctive enough to stand out from countless other melodies. The most effective earworm melodies tend to rely on familiar shapes, strong repetition and a small number of unusual turns that keep the brain returning to them. Exposure also matters: the more often a listener encounters a tune, the more likely it is to become mentally available for replay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
+An earworm is not just a memorable [melody]({{ 'melody/' | relative_url }}). It is a melody that continues replaying in the mind without conscious effort, often as a short fragment such as a chorus, hook or riff. Research on involuntary musical imagery—the scientific term for songs getting stuck in the head—suggests that earworms emerge when a tune combines two qualities that rarely coexist: it is easy to process and sing internally, yet distinctive enough to stand out from countless other melodies. The most effective earworm melodies tend to rely on familiar shapes, strong repetition and a small number of unusual turns that keep the brain returning to them. Exposure also matters: the more often a listener encounters a tune, the more likely it is to become mentally available for replay.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1-dark.svg" | relative_url }}" alt="Earworms illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Common Melodic Traits of Earworms
 
-One of the strongest findings in earworm research comes from a large study led by Kelly Jakubowski and colleagues, which analysed songs frequently reported as earworms by thousands of participants. The researchers found that earworm songs often share surprisingly ordinary melodic foundations. They tend to use familiar contours and straightforward pitch patterns that listeners can quickly learn and predict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span>
+One of the strongest findings in earworm research comes from a large study led by Kelly Jakubowski and colleagues, which analysed songs frequently reported as earworms by thousands of participants. The researchers found that earworm songs often share surprisingly ordinary melodic foundations. They tend to use familiar contours and straightforward pitch patterns that listeners can quickly learn and predict.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span>
 
 However, simplicity alone is not enough. Many songs are simple but forgettable. Earworms usually add a distinctive feature that separates them from the average tune. Research identified several recurring characteristics:
 
@@ -287,24 +287,24 @@ However, simplicity alone is not enough. Many songs are simple but forgettable. 
 * Fast or energetic pacing.
 * Unusual interval jumps or melodic leaps.
 * Repeated notes or repeated short fragments.
-* Strong [hooks]({{ 'hooks/' | relative_url }}) concentrated in [choruses]({{ 'choruses/' | relative_url }}) or riffs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-title">scientists find key to writing catchy pop hits</span><span class="citation-popover-snippet">smiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</span></span></span>
+* Strong [hooks]({{ 'hooks/' | relative_url }}) concentrated in [choruses]({{ 'choruses/' | relative_url }}) or riffs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-title">scientists find key to writing catchy pop hits</span><span class="citation-popover-snippet">smiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</span></span></span>
 
 This combination helps explain why certain melodic fragments remain mentally active. A listener quickly understands the overall pattern, but the unusual detail creates a memorable landmark. In cognitive terms, the melody is both predictable and distinctive.
 
-Examples often cited by researchers include the opening riff of “Smoke on the Water”, the chorus of “Bad Romance”, and the hook of “Can't Get You Out of My Head”. These melodies are not complex. Instead, they pair familiar movement with a striking feature such as repeated notes or unexpectedly large pitch jumps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/555535" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!Psychologists identify key characteristics of earworms3 Nov 2016 — &quot;These musically sticky songs seem to have quite a fast tem...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4557229/earworm-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">earworm music</span><span class="citation-popover-snippet">This Is Why Songs Get Stuck In Your Head3 Nov 2016 — But earworms also tend to have some unique and unusual intervals... repeated notes...</span></span></span>
+Examples often cited by researchers include the opening riff of “Smoke on the Water”, the chorus of “Bad Romance”, and the hook of “Can't Get You Out of My Head”. These melodies are not complex. Instead, they pair familiar movement with a striking feature such as repeated notes or unexpectedly large pitch jumps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/555535" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!Psychologists identify key characteristics of earworms3 Nov 2016 — &quot;These musically sticky songs seem to have quite a fast tem...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4557229/earworm-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">earworm music</span><span class="citation-popover-snippet">This Is Why Songs Get Stuck In Your Head3 Nov 2016 — But earworms also tend to have some unique and unusual intervals... repeated notes...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-dark.svg" | relative_url }}" alt="Earworms illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Repetition and Exposure Matter
 
 A melody rarely becomes an earworm on its musical structure alone. Repeated exposure greatly increases the chances that a tune will enter involuntary recall.
 
-Studies of earworms consistently show that recent listening experiences are among the strongest predictors of what becomes stuck in the mind. Popular songs receive more radio play, streaming activity and social exposure, which increases the number of opportunities for the brain to encode and rehearse their melodic patterns. Jakubowski's research found that song popularity itself helped predict earworm likelihood alongside melodic characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
+Studies of earworms consistently show that recent listening experiences are among the strongest predictors of what becomes stuck in the mind. Popular songs receive more radio play, streaming activity and social exposure, which increases the number of opportunities for the brain to encode and rehearse their melodic patterns. Jakubowski's research found that song popularity itself helped predict earworm likelihood alongside melodic characteristics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
 
-More recent experiments have examined what happens when listeners repeatedly hear previously unfamiliar songs. These studies suggest that repeated exposure can help transform a novel melody into an earworm by strengthening mental representations of its chorus and vocal line. Researchers also found evidence that repeated listening promotes internal replay through mechanisms related to working [memory]({{ 'memory/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</span></span></span>
+More recent experiments have examined what happens when listeners repeatedly hear previously unfamiliar songs. These studies suggest that repeated exposure can help transform a novel melody into an earworm by strengthening mental representations of its chorus and vocal line. Researchers also found evidence that repeated listening promotes internal replay through mechanisms related to working [memory]({{ 'memory/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</span></span></span>
 
-This aligns with a broader psychological principle known as the mere exposure effect: repeated encounters with a stimulus often increase familiarity and ease of processing. In music, that familiarity can make a melodic fragment easier to retrieve and mentally repeat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Why catchy songs get stuck in your head (and how to stop it</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span>
+This aligns with a broader psychological principle known as the mere exposure effect: repeated encounters with a stimulus often increase familiarity and ease of processing. In music, that familiarity can make a melodic fragment easier to retrieve and mentally repeat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Why catchy songs get stuck in your head (and how to stop it</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span>
 
-Importantly, earworms are usually not entire songs. People often report only a brief section looping repeatedly. A highly repetitive chorus or hook provides a compact unit that the mind can easily cycle through again and again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</span></span></span>
+Importantly, earworms are usually not entire songs. People often report only a brief section looping repeatedly. A highly repetitive chorus or hook provides a compact unit that the mind can easily cycle through again and again.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gc5my6Lfipo" title="Involuntary Musical Imagery (earworms) - research by Lassi Liikkanen, Aalto University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gc5my6Lfipo" target="_blank" rel="noopener noreferrer">Involuntary Musical Imagery (earworms) - research by Lassi Liikkanen, Aalto University</a></p><p class="youtube-embed-meta">Channel: Aalto University &middot; Views: 4.1K &middot; Uploaded: June 2012 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gc5my6Lfipo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gc5my6Lfipo">Open on YouTube</a></p></div></div></div>
 
@@ -312,11 +312,11 @@ Importantly, earworms are usually not entire songs. People often report only a b
 
 An earworm persists because the brain does not merely remember the melody—it actively recreates it.
 
-Researchers describe earworms as a form of involuntary musical imagery. When people experience them, they often engage in what has been called “inner singing”: a silent mental performance of the melody. Experiments indicate that vocal earworms recruit working-memory processes similar to those used when imagining speech or singing internally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</span></span></span>
+Researchers describe earworms as a form of involuntary musical imagery. When people experience them, they often engage in what has been called “inner singing”: a silent mental performance of the melody. Experiments indicate that vocal earworms recruit working-memory processes similar to those used when imagining speech or singing internally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</span></span></span>
 
 This helps explain why melodies with clear vocal shapes are especially sticky. A tune that can be easily hummed, sung or imagined places relatively low demands on memory. Once activated, the melodic fragment can cycle repeatedly through the mind's rehearsal systems.
 
-Some researchers propose that earworms operate through chains of connected musical segments. When one segment becomes activated, it primes the next, creating a self-sustaining loop. Because many earworms consist of short, highly repetitive phrases, the sequence can repeatedly reactivate itself rather than progressing toward closure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</span></span></span>
+Some researchers propose that earworms operate through chains of connected musical segments. When one segment becomes activated, it primes the next, creating a self-sustaining loop. Because many earworms consist of short, highly repetitive phrases, the sequence can repeatedly reactivate itself rather than progressing toward closure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</span></span></span>
 
 The result is the familiar experience of hearing a melody internally even when no external music is present.
 
@@ -325,199 +325,199 @@ The result is the familiar experience of hearing a melody internally even when n
 
 A common misconception is that earworms succeed because they are musically sophisticated. The evidence points in the opposite direction. The melodies most likely to become earworms are often built from simple, familiar materials. Their power comes from a carefully balanced mixture of familiarity and novelty.
 
-If a melody is too ordinary, it blends into the [background]({{ 'background/' | relative_url }}). If it is too unusual, it becomes difficult to remember. Earworms occupy the middle ground: they are easy enough to learn after only a few listens but distinctive enough to attract [attention]({{ 'attention/' | relative_url }}) and remain identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span>
+If a melody is too ordinary, it blends into the [background]({{ 'background/' | relative_url }}). If it is too unusual, it becomes difficult to remember. Earworms occupy the middle ground: they are easy enough to learn after only a few listens but distinctive enough to attract [attention]({{ 'attention/' | relative_url }}) and remain identifiable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</span></span></span>
 
-This balance helps explain why certain short melodic fragments persist for days while others disappear immediately after a song ends. The most effective earworm melodies give the brain a pattern it can effortlessly replay—and a twist it does not want to forget. <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[2pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Why Do Songs Get Stuck in Your Head?</span><span class="citation-popover-snippet">New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</span></span></span>
+This balance helps explain why certain short melodic fragments persist for days while others disappear immediately after a song ends. The most effective earworm melodies give the brain a pattern it can effortlessly replay—and a twist it does not want to forget.<span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[2pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Why Do Songs Get Stuck in Your Head?</span><span class="citation-popover-snippet">New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes a Tune Become an Earworm?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes a Tune Become an Earworm?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Directly relevant to earworms, memory, and musical repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to earworms, memory, and musical repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
-        </h4>
-        <p class="fr-book-author">By John Seabrook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
+</h4>
+<p class="fr-book-author">By John Seabrook</p>
         
-        <p class="fr-book-desc">Shows how modern hits are designed to be unforgettable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how modern hits are designed to be unforgettable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Includes memorable examples of involuntary musical imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes memorable examples of involuntary musical imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
-        </h4>
-        <p class="fr-book-author">By David Huron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
+</h4>
+<p class="fr-book-author">By David Huron</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Note Clef Wall Sticker Mural Decal Art Home Decor Quote UK pq152"><img src="{{ '/assets/images/marketplace-covers/90869c24da3c2be52313.jpg' | relative_url }}" alt="Listing image for Music Note Clef Wall Sticker Mural Decal Art Home Decor Quote UK pq152" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">Music Note Clef Wall Sticker Mural Decal Art Home Decor Quote UK pq152</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Note Clef Wall Sticker Mural Decal Art Home Decor Quote UK pq152"><img src="{{ '/assets/images/marketplace-covers/90869c24da3c2be52313.jpg' | relative_url }}" alt="Listing image for Music Note Clef Wall Sticker Mural Decal Art Home Decor Quote UK pq152" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">Music Note Clef Wall Sticker Mural Decal Art Home Decor Quote UK pq152</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500pcs/roll Guitar Music Notes Instrument Stickers Guitar Decals DIY Bunlde Sale"><img src="{{ '/assets/images/marketplace-covers/cbfb36ec3bb920859449.jpg' | relative_url }}" alt="Listing image for 500pcs/roll Guitar Music Notes Instrument Stickers Guitar Decals DIY Bunlde Sale" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">500pcs/roll Guitar Music Notes Instrument Stickers Guitar Decals DIY Bunlde Sale</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 500pcs/roll Guitar Music Notes Instrument Stickers Guitar Decals DIY Bunlde Sale"><img src="{{ '/assets/images/marketplace-covers/cbfb36ec3bb920859449.jpg' | relative_url }}" alt="Listing image for 500pcs/roll Guitar Music Notes Instrument Stickers Guitar Decals DIY Bunlde Sale" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">500pcs/roll Guitar Music Notes Instrument Stickers Guitar Decals DIY Bunlde Sale</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Notes Lines Song Modern Wall Art Sticker Decal Decor MU22"><img src="{{ '/assets/images/marketplace-covers/dd8079976b7e415fb903.jpg' | relative_url }}" alt="Listing image for Music Notes Lines Song Modern Wall Art Sticker Decal Decor MU22" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">Music Notes Lines Song Modern Wall Art Sticker Decal Decor MU22</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Notes Lines Song Modern Wall Art Sticker Decal Decor MU22"><img src="{{ '/assets/images/marketplace-covers/dd8079976b7e415fb903.jpg' | relative_url }}" alt="Listing image for Music Notes Lines Song Modern Wall Art Sticker Decal Decor MU22" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">Music Notes Lines Song Modern Wall Art Sticker Decal Decor MU22</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26"><img src="{{ '/assets/images/marketplace-covers/31a1ccfa9a7d5cdae936.jpg' | relative_url }}" alt="Listing image for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26"><img src="{{ '/assets/images/marketplace-covers/31a1ccfa9a7d5cdae936.jpg' | relative_url }}" alt="Listing image for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music note sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: music note sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+note+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music note sticker" data-ebay-reference="earworms-what-makes-a-tune-become-an-earworm-music-music-note-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ This balance helps explain why certain short melodic fragments persist for days 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ This balance helps explain why certain short melodic fragments persist for days 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ This balance helps explain why certain short melodic fragments persist for days 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ This balance helps explain why certain short melodic fragments persist for days 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ This balance helps explain why certain short melodic fragments persist for days 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,142 +723,142 @@ This balance helps explain why certain short melodic fragments persist for days 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: <a href="https://www.eurekalert.org/news-releases/555535" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/555535</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EurekAlert!Psychologists identify key characteristics of earworms3 Nov 2016 — &quot;These musically sticky songs seem to have quite a fast tem...</p></details>
+   Link:<a href="https://www.eurekalert.org/news-releases/555535" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/555535</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EurekAlert!Psychologists identify key characteristics of earworms3 Nov 2016 — &quot;These musically sticky songs seem to have quite a fast tem...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: earworm music  
-   Link: <a href="https://time.com/4557229/earworm-music/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4557229/earworm-music/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Is Why Songs Get Stuck In Your Head3 Nov 2016 — But earworms also tend to have some unique and unusual intervals... repeated notes...</p></details>
+   Link:<a href="https://time.com/4557229/earworm-music/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4557229/earworm-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Is Why Songs Get Stuck In Your Head3 Nov 2016 — But earworms also tend to have some unique and unusual intervals... repeated notes...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An “earworm”—the experience of a catchy melody that repeats persistently in the mind—is a ubiquitous yet mysterious cognitive phenomenon...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Why Do Songs Get Stuck in Your Head?  
-   Link: <a href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</p></details>
+   Link:<a href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
    Title: song stuck in head earworm  
-   Link: <a href="https://time.com/5115013/song-stuck-in-head-earworm/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5115013/song-stuck-in-head-earworm/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Known scientifically as involuntary musical imagery, these tunes often persist for about 30 minutes, typically including [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) rather th...</p></details>
+   Link:<a href="https://time.com/5115013/song-stuck-in-head-earworm/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5115013/song-stuck-in-head-earworm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known scientifically as involuntary musical imagery, these tunes often persist for about 30 minutes, typically including [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) rather th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: <a href="https://www.eurekalert.org/news-releases/521894" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/521894</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why some songs get stuck in your head3 Nov 2016 — The opening riff of Moves Like Jagger by Maroon 5, one of the top-named earworm tunes i...</p></details>
+   Link:<a href="https://www.eurekalert.org/news-releases/521894" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/521894</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why some songs get stuck in your head3 Nov 2016 — The opening riff of Moves Like Jagger by Maroon 5, one of the top-named earworm tunes i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 132 — Involuntar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: durham-repository.worktribe.com  
-   Link: <a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</p></details>
+   Link:<a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/press/releases/2016/11/earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2016/11/earworms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationPsychologists identify key characteristics of earworms3 Nov 2016 — “These musically sticky songs seem t...</p></details>
+   Link:<a href="https://www.apa.org/news/press/releases/2016/11/earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2016/11/earworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationPsychologists identify key characteristics of earworms3 Nov 2016 — “These musically sticky songs seem t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gold.ac.uk  
    Title: scientists find key to writing catchy pop hits  
-   Link: <a href="https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</p></details>
+   Link:<a href="https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/scientists-find-key-to-writing-catchy-pop-hits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonScientists find key to writing catchy pop hitsNov 3, 2016 — A 3,000-person study led by Dr Kelly Jakubows...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Why catchy songs get stuck in your head (and how to stop it)  
-   Link: <a href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</p></details>
+   Link:<a href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043231165661</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20592043231165661" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043231165661</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsInvoluntary, Limited, and Contiguously Repeating Musical...by E Schubert · 2023 · Cited by 5 — “Earworms” have been propose...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: musicscience.net  
    Title: Music & Science Earworms  
-   Link: <a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworms - Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday t...</p></details>
+   Link:<a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earworms - Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Earworm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earworm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworma catchy or memorable piece of music or saying that continuously occupies a person&#x27;s mind even after it is no longer being play...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Earworm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earworm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earworma catchy or memorable piece of music or saying that continuously occupies a person&#x27;s mind even after it is no longer being play...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: illustratemagazine.com  
-   Link: <a href="https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/" target="_blank" rel="noopener noreferrer nofollow">https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Why Certain Songs Get Stuck in Your...20 Sept 2024 — This article will take a deep dive into the science of earworms...</p></details>
+   Link:<a href="https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/" target="_blank" rel="noopener noreferrer nofollow">https://illustratemagazine.com/the-science-behind-why-certain-songs-get-stuck-in-your-head-a-deep-dive-into-earworms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Why Certain Songs Get Stuck in Your...20 Sept 2024 — This article will take a deep dive into the science of earworms...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: Study shows repetition in a song is key to involuntary musical imagery  
-   Link: <a href="https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2023 — Study shows repetition in a song is key to involuntary musical imagery – the phenomenon of getting a song stuck in your head...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/12c2mco/study_shows_repetition_in_a_song_is_key_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2023 — Study shows repetition in a song is key to involuntary musical imagery – the phenomenon of getting a song stuck in your head...</p></details>
    Published: April 5, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pure.au.dk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: <a href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — Involuntary musical imagery (INMI or &quot;earworm...</p></details>
+   Link:<a href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — Involuntary musical imagery (INMI or &quot;earworm...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pure.roehampton.ac.uk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: <a href="https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creati...</p></details>
+   Link:<a href="https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.roehampton.ac.uk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creati...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: philpapers.org  
    Title: Melodic features and song popularity predict involuntary musical  
-   Link: <a href="https://philpapers.org/rec/JAKDAE" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JAKDAE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creati...</p></details>
+   Link:<a href="https://philpapers.org/rec/JAKDAE" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JAKDAE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creati...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cbsnews.com  
    Title: psychologists identify why certain songs get stuck in your head  
-   Link: <a href="https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>earworm tunes in the study — also follows this common [contour](&amp;#123;&amp;#123; &#x27;contour/&#x27; | relative_url &amp;#125;&amp;#125;) pattern. Additionally, earworms typically have an unusual interval structur...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/psychologists-identify-why-certain-songs-get-stuck-in-your-head/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>earworm tunes in the study — also follows this common [contour](&amp;#123;&amp;#123; &#x27;contour/&#x27; | relative_url &amp;#125;&amp;#125;) pattern. Additionally, earworms typically have an unusual interval structur...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: centaur.reading.ac.uk  
    Title: reading.ac.uk The classification of involuntary musical imagery  
-   Link: <a href="https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>classification of involuntary musical imagery - CentAURby TI Williams · 2015 · Cited by 80 — We consider the published literature on earw...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/40630/2/Classification%20of%20INMI%20revision%203%20-%20Centaur.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>classification of involuntary musical imagery - CentAURby TI Williams · 2015 · Cited by 80 — We consider the published literature on earw...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lead to more persistent imagery (Byron &amp; Fowles, 2015; Killingly &amp; Lacherez...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366984877_EXPRESS_The_Song_that_Never_Ends_The_Effect_of_Repeated_Exposure_on_the_Development_of_an_Earworm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lead to more persistent imagery (Byron &amp; Fowles, 2015; Killingly &amp; Lacherez...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: newswise.com  
    Title: psychologists identify key characteristics of earworms  
-   Link: <a href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Nov 2016 — The study found that the tunes most likely to get stuck in people&#x27;s heads were those with more common global melodic contour...</p></details>
+   Link:<a href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Nov 2016 — The study found that the tunes most likely to get stuck in people&#x27;s heads were those with more common global melodic contour...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: prsformusic.com  
    Title: New study uncovers why some songs become 'earworms'  
-   Link: <a href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 4, 2016 — According to a new academic study, earworms – the songs which get stuck in your head – have a common set of characteri...</p></details>
+   Link:<a href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 4, 2016 — According to a new academic study, earworms – the songs which get stuck in your head – have a common set of characteri...</p></details>
    Published: November 4, 2016

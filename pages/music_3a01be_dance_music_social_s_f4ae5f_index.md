@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-dance-music-social-s/
 description: Focused pages that expand on Dance Music.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_dance_music_social_s_f4ae5f
 parent_title: Dance Music
@@ -16,7 +16,7 @@ parent_permalink: /dance-music/
 
 # Explore Topics in Dance Music
 
-The following pages expand on the main **[Dance Music]({{ '/dance-music/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Dance Music]({{ '/dance-music/' | relative_url }})** page and cover its key branches in.
 
 - [Rhythmic Repetition]({{ '/rhythmic-repetition/' | relative_url }})
 - [Inclusion Boundaries]({{ '/inclusion-boundaries/' | relative_url }})

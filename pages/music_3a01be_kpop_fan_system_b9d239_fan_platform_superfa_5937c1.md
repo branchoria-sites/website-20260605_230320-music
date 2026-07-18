@@ -274,16 +274,16 @@ image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5
 
 ## Introduction
 
-K-pop’s fan economy increasingly runs through dedicated platforms that combine community, content, commerce and membership inside a single controlled environment. Rather than relying entirely on public social networks, entertainment companies have built private fan ecosystems where artists can post updates, livestream, sell merchandise, offer memberships and gather detailed data about fan behaviour. Weverse, created by HYBE, has become the most influential example of this model, but it sits alongside other private fan platforms such as Bubble and similar services developed across the industry. Together, these platforms help transform fandom from a scattered online activity into a measurable, direct-to-fan business. Weverse <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span>
+K-pop’s fan economy increasingly runs through dedicated platforms that combine community, content, commerce and membership inside a single controlled environment. Rather than relying entirely on public social networks, entertainment companies have built private fan ecosystems where artists can post updates, livestream, sell merchandise, offer memberships and gather detailed data about fan behaviour. Weverse, created by HYBE, has become the most influential example of this model, but it sits alongside other private fan platforms such as Bubble and similar services developed across the industry. Together, these platforms help transform fandom from a scattered online activity into a measurable, direct-to-fan business. Weverse<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-1-dark.svg" | relative_url }}" alt="Fan Platforms illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader K-pop system, fan platforms matter because they concentrate [attention]({{ 'attention/' | relative_url }}). Instead of sending fans from one app for videos, another for chat and a third for shopping, companies increasingly try to keep those activities in a single ecosystem that they control. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/629204632/A-Study-on-the-Business-Model-of-a-Fan-Community-Platform-Weverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Weverse: Evolving Fan Community Model &#124; PDFThis study examines the business model development of the fan community platform Weverse...</span></span></span>
+Within the broader K-pop system, fan platforms matter because they concentrate [attention]({{ 'attention/' | relative_url }}). Instead of sending fans from one app for videos, another for chat and a third for shopping, companies increasingly try to keep those activities in a single ecosystem that they control. Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/629204632/A-Study-on-the-Business-Model-of-a-Fan-Community-Platform-Weverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Weverse: Evolving Fan Community Model &#124; PDFThis study examines the business model development of the fan community platform Weverse...</span></span></span>
 
 ## What fan platforms bring into one place
 
-Weverse presents itself as a global fandom platform where artists and fans can interact through posts, comments, livestreams, memberships and commerce. The platform combines functions that would normally be spread across several digital services: community discussion, official announcements, livestream viewing, paid content, merchandise sales and fan-club management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse: Global Fandom PlatformGlobal Fandom Platform - Weverse. Enjoy every moment with your artists on Weverse, the global fando...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.weverse.co/weverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.weverse.co">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.weverse.co</span><span class="citation-popover-snippet">Join the artist&#x27;s Weverse LIVE and stay in the moment together. Enjoy exclusive Weverse Shop special benefits through special LIVE...</span></span></span>
+Weverse presents itself as a global fandom platform where artists and fans can interact through posts, comments, livestreams, memberships and commerce. The platform combines functions that would normally be spread across several digital services: community discussion, official announcements, livestream viewing, paid content, merchandise sales and fan-club management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse: Global Fandom PlatformGlobal Fandom Platform - Weverse. Enjoy every moment with your artists on Weverse, the global fando...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.weverse.co/weverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.weverse.co">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.weverse.co</span><span class="citation-popover-snippet">Join the artist&#x27;s Weverse LIVE and stay in the moment together. Enjoy exclusive Weverse Shop special benefits through special LIVE...</span></span></span>
 
-This consolidation is strategically important. Earlier generations of K-pop fandom often moved between Twitter, YouTube, fan cafés, online stores and separate livestream services. Dedicated platforms reduce that fragmentation by creating a single destination where companies can observe engagement, promote content and convert enthusiasm into revenue. HYBE executives have explicitly described Weverse as part of a strategy to deepen superfan engagement and build direct relationships with audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Launched in 2019, it enables artists to write posts, livestream, and sell merchandise, offering machine translation in 15 languages. With...</span></span></span>
+This consolidation is strategically important. Earlier generations of K-pop fandom often moved between Twitter, YouTube, fan cafés, online stores and separate livestream services. Dedicated platforms reduce that fragmentation by creating a single destination where companies can observe engagement, promote content and convert enthusiasm into revenue. HYBE executives have explicitly described Weverse as part of a strategy to deepen superfan engagement and build direct relationships with audiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Launched in 2019, it enables artists to write posts, livestream, and sell merchandise, offering machine translation in 15 languages. With...</span></span></span>
 
 Several features illustrate why these platforms became central to fandom:
 
@@ -292,9 +292,9 @@ Several features illustrate why these platforms became central to fandom:
 * **Automatic translation features** that reduce language barriers for international audiences.
 * **Membership systems** that unlock exclusive benefits.
 * **Integrated shops** for [albums]({{ 'albums/' | relative_url }}), merchandise and fan-club products.
-* **Digital content services** ranging from behind-the-scenes material to special events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store Weverse: Connect with Artists</span><span class="citation-popover-snippet">□ A Community for Fans and Artists · Check out the daily stories of the artists and leave...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en&amp;id=co.benx.weverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play Weverse: Connect with Artists</span><span class="citation-popover-snippet">Google PlayWeverse: Connect with Artists - Apps on Google PlayA community for fans and artists. Check out the daily moments of the artist...</span></span></span>
+* **Digital content services** ranging from behind-the-scenes material to special events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store Weverse: Connect with Artists</span><span class="citation-popover-snippet">□ A Community for Fans and Artists · Check out the daily stories of the artists and leave...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en&amp;id=co.benx.weverse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play Weverse: Connect with Artists</span><span class="citation-popover-snippet">Google PlayWeverse: Connect with Artists - Apps on Google PlayA community for fans and artists. Check out the daily moments of the artist...</span></span></span>
 
-For global fandoms, translation tools are particularly significant. A fan in Brazil, India or the United Kingdom can read artist messages and community discussions without needing Korean fluency, helping K-pop companies maintain worldwide communities within their own platforms rather than losing engagement to external social networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store Weverse: Connect with Artists</span><span class="citation-popover-snippet">□ A Community for Fans and Artists · Check out the daily stories of the artists and leave...Read more...</span></span></span>
+For global fandoms, translation tools are particularly significant. A fan in Brazil, India or the United Kingdom can read artist messages and community discussions without needing Korean fluency, helping K-pop companies maintain worldwide communities within their own platforms rather than losing engagement to external social networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Store Weverse: Connect with Artists</span><span class="citation-popover-snippet">□ A Community for Fans and Artists · Check out the daily stories of the artists and leave...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i05zLW3bqC8" title="Best Fan I&#x27;ve Ever Tested!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i05zLW3bqC8" target="_blank" rel="noopener noreferrer">Best Fan I&#x27;ve Ever Tested!</a></p><p class="youtube-embed-meta">Channel: Project Farm &middot; Views: 1.1M &middot; Uploaded: June 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i05zLW3bqC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i05zLW3bqC8">Open on YouTube</a></p></div></div></div>
 
@@ -302,35 +302,35 @@ For global fandoms, translation tools are particularly significant. A fan in Bra
 
 The commercial power of fan platforms comes from turning [access]({{ 'access/' | relative_url }}) itself into a product. Rather than selling only music, companies sell proximity, participation and belonging.
 
-Membership programmes are a key example. Fans can purchase official memberships that provide benefits such as exclusive content, early ticket opportunities, special merchandise access or participation [rights]({{ 'rights/' | relative_url }}) in selected events. The membership becomes an ongoing relationship rather than a one-time purchase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse Shop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span> - All Things for Fans! 2Weverse Shop - All Things for Fans! <span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[shop.weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span>
+Membership programmes are a key example. Fans can purchase official memberships that provide benefits such as exclusive content, early ticket opportunities, special merchandise access or participation [rights]({{ 'rights/' | relative_url }}) in selected events. The membership becomes an ongoing relationship rather than a one-time purchase.<span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse Shop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span> - All Things for Fans! 2Weverse Shop - All Things for Fans!<span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[shop.weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span>
 
-Livestreaming expands this model further. Artists can broadcast directly to fans through platform-native services, creating moments that feel more personal than conventional media appearances. Thousands of livestream sessions have been hosted on Weverse, generating billions of views and encouraging fans to return repeatedly to the platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/en/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">All Things for Fans!Official merch store for all fans around the world! Check out your favorite artist&#x27;s official fanclub membership and...</span></span></span>
+Livestreaming expands this model further. Artists can broadcast directly to fans through platform-native services, creating moments that feel more personal than conventional media appearances. Thousands of livestream sessions have been hosted on Weverse, generating billions of views and encouraging fans to return repeatedly to the platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/en/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">All Things for Fans!Official merch store for all fans around the world! Check out your favorite artist&#x27;s official fanclub membership and...</span></span></span>
 
-This repeated engagement has measurable business value. HYBE reported roughly 12 million monthly users on Weverse during 2025, with users spending substantial amounts of time on the platform and generating hundreds of millions of interactions. Those metrics matter because they show that fan attention itself has become an asset that can be retained, analysed and monetised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</span></span></span>
+This repeated engagement has measurable business value. HYBE reported roughly 12 million monthly users on Weverse during 2025, with users spending substantial amounts of time on the platform and generating hundreds of millions of interactions. Those metrics matter because they show that fan attention itself has become an asset that can be retained, analysed and monetised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</span></span></span>
 
-The integrated shop is equally important. A fan watching a livestream, reading an artist update or participating in a community discussion is only a few clicks away from purchasing merchandise, joining a membership programme or ordering a new release. Commerce is embedded into the fan experience rather than treated as a separate activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse Shop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span> - All Things for Fans! 2Weverse Shop - All Things for Fans! <span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[shop.weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span>
+The integrated shop is equally important. A fan watching a livestream, reading an artist update or participating in a community discussion is only a few clicks away from purchasing merchandise, joining a membership programme or ordering a new release. Commerce is embedded into the fan experience rather than treated as a separate activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse Shop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span> - All Things for Fans! 2Weverse Shop - All Things for Fans!<span class="citation-chip-wrap"><a class="citation-chip" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[shop.weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-2-dark.svg" | relative_url }}" alt="Fan Platforms illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why company-controlled spaces change fandom
 
-Private fan platforms shift power away from general-purpose social networks and towards entertainment companies. On public platforms, algorithms, advertising systems and [platform rules]({{ 'platform-rules/' | relative_url }}) belong to outside technology firms. On company-controlled fan platforms, the entertainment company gains much greater influence over visibility, moderation, commerce and data collection. Sage Journals ResearchGate This governance change creates several advantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Platform Fandom: Weverse and the Technological...by G Bollmer · 2025 · Cited by 12 — This article argues that Weverse represents a...</span></span></span>
+Private fan platforms shift power away from general-purpose social networks and towards entertainment companies. On public platforms, algorithms, advertising systems and [platform rules]({{ 'platform-rules/' | relative_url }}) belong to outside technology firms. On company-controlled fan platforms, the entertainment company gains much greater influence over visibility, moderation, commerce and data collection. Sage Journals ResearchGate This governance change creates several advantages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Platform Fandom: Weverse and the Technological...by G Bollmer · 2025 · Cited by 12 — This article argues that Weverse represents a...</span></span></span>
 
-First, companies gain direct access to audience information. Rather than relying entirely on third-party social media metrics, they can observe how fans interact with content, what they purchase and which features keep them engaged. HYBE executives have argued that fan data was previously fragmented across multiple services and that dedicated platforms solve this problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/lifestyle/bts-fandom-tech-firm-weverse-reaches-beyond-k-pop-2022-12-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">BTS fandom tech firm Weverse reaches beyond K-Pop23 Dec 2022 — The app has about 80 teams of artists represented including BTS, and about...</span></span></span>
+First, companies gain direct access to audience information. Rather than relying entirely on third-party social media metrics, they can observe how fans interact with content, what they purchase and which features keep them engaged. HYBE executives have argued that fan data was previously fragmented across multiple services and that dedicated platforms solve this problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/lifestyle/bts-fandom-tech-firm-weverse-reaches-beyond-k-pop-2022-12-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">BTS fandom tech firm Weverse reaches beyond K-Pop23 Dec 2022 — The app has about 80 teams of artists represented including BTS, and about...</span></span></span>
 
-Second, companies gain greater control over communication. Official announcements, artist messages and community interactions occur within spaces that the company can moderate and manage. This reduces dependence on constantly changing social-media algorithms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span>
+Second, companies gain greater control over communication. Official announcements, artist messages and community interactions occur within spaces that the company can moderate and manage. This reduces dependence on constantly changing social-media algorithms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span>
 
-Third, the platform becomes part of the artist's brand infrastructure. Major non-K-pop artists have also joined Weverse, reflecting HYBE's attempt to position the service not merely as a K-pop app but as a broader global fan platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Check out your favorite artist&#x27;s official fanclub membership and official merch items including Weverse Shop...</span></span></span>
+Third, the platform becomes part of the artist's brand infrastructure. Major non-K-pop artists have also joined Weverse, reflecting HYBE's attempt to position the service not merely as a K-pop app but as a broader global fan platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Check out your favorite artist&#x27;s official fanclub membership and official merch items including Weverse Shop...</span></span></span>
 
 The result is a model in which fandom increasingly resembles a managed digital ecosystem rather than a collection of independent fan spaces.
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-3-dark.svg" | relative_url }}" alt="Fan Platforms illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The appeal and controversy of parasocial access
 
-The success of private fan platforms depends heavily on the feeling of closeness they create between artists and audiences. Features such as direct posts, private-style messages, livestream chats and exclusive membership content can make interactions feel more personal than traditional celebrity communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flowjournal.org">[2flowjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flowjournal.org</span><span class="citation-popover-snippet">Platformization of fandom in the post-pandemic music...by K Yoon — In particular, two popular fan platforms, Weverse and Bubble, illustr...</span></span></span>
+The success of private fan platforms depends heavily on the feeling of closeness they create between artists and audiences. Features such as direct posts, private-style messages, livestream chats and exclusive membership content can make interactions feel more personal than traditional celebrity communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flowjournal.org">[2flowjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flowjournal.org</span><span class="citation-popover-snippet">Platformization of fandom in the post-pandemic music...by K Yoon — In particular, two popular fan platforms, Weverse and Bubble, illustr...</span></span></span>
 
-Platforms such as Bubble have built entire subscription models around this sense of intimacy. Academic research on Bubble argues that fan platforms commercialise artists' relational labour by transforming emotional interaction into a structured revenue stream. In other words, communication itself becomes part of the product being sold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</span></span></span>
+Platforms such as Bubble have built entire subscription models around this sense of intimacy. Academic research on Bubble argues that fan platforms commercialise artists' relational labour by transforming emotional interaction into a structured revenue stream. In other words, communication itself becomes part of the product being sold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</span></span></span>
 
-This creates ongoing debate within K-pop fandom. Supporters argue that these platforms provide meaningful connections, stronger communities and better communication between artists and fans. Critics question whether the commercialisation of intimacy can blur boundaries, increase pressure on performers and encourage unrealistic expectations among some fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</span></span></span>
+This creates ongoing debate within K-pop fandom. Supporters argue that these platforms provide meaningful connections, stronger communities and better communication between artists and fans. Critics question whether the commercialisation of intimacy can blur boundaries, increase pressure on performers and encourage unrealistic expectations among some fans.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</span></span></span>
 
 The debate is not simply about technology. It concerns how modern music companies package access, attention and emotional connection as part of the entertainment product itself.
 
@@ -338,199 +338,199 @@ The debate is not simply about technology. It concerns how modern music companie
 
 ## Why fan platforms became a core K-pop business tool
 
-Weverse and similar services demonstrate how K-pop companies have expanded beyond selling songs and albums. These platforms function simultaneously as social networks, livestream venues, membership clubs, online stores and data systems. They help companies keep fan attention within controlled environments, convert engagement into recurring revenue and maintain year-round relationships between artists and audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</span></span></span>
+Weverse and similar services demonstrate how K-pop companies have expanded beyond selling songs and albums. These platforms function simultaneously as social networks, livestream venues, membership clubs, online stores and data systems. They help companies keep fan attention within controlled environments, convert engagement into recurring revenue and maintain year-round relationships between artists and audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</span></span></span>
 
-In the wider K-pop fan system, that combination is powerful. Music may attract the audience, but dedicated fan platforms help organise, measure and monetise the relationship long after a comeback cycle ends. As a result, fan apps have become one of the clearest examples of how K-pop turns fandom itself into an ongoing business infrastructure. Music Business Worldwide <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flowjournal.org">[2flowjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flowjournal.org</span><span class="citation-popover-snippet">Platformization of fandom in the post-pandemic music...by K Yoon — In particular, two popular fan platforms, Weverse and Bubble, illustr...</span></span></span>
+In the wider K-pop fan system, that combination is powerful. Music may attract the audience, but dedicated fan platforms help organise, measure and monetise the relationship long after a comeback cycle ends. As a result, fan apps have become one of the clearest examples of how K-pop turns fandom itself into an ongoing business infrastructure. Music Business Worldwide<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flowjournal.org">[2flowjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flowjournal.org</span><span class="citation-popover-snippet">Platformization of fandom in the post-pandemic music...by K Yoon — In particular, two popular fan platforms, Weverse and Bubble, illustr...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why fan apps matter to K pop&#x27;s business. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why fan apps matter to K pop&#x27;s business. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
-        </h4>
-        <p class="fr-book-author">By Suk-Young Kim</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
+</h4>
+<p class="fr-book-author">By Suk-Young Kim</p>
         
-        <p class="fr-book-desc">Connects technology, fandom and K-pop business models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects technology, fandom and K-pop business models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=knIgAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store">The Everything Store</a>
-        </h4>
-        <p class="fr-book-author">By Brad Stone</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Everything Store on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=knIgAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Everything Store" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Everything Store">The Everything Store</a>
+</h4>
+<p class="fr-book-author">By Brad Stone</p>
         
-        <p class="fr-book-desc">Helps explain platform economics and customer ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain platform economics and customer ecosystems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Everything+Store+by+Brad+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Surveillance Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7ZEDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Surveillance Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Surveillance Capitalism">The Age of Surveillance Capitalism</a>
-        </h4>
-        <p class="fr-book-author">By Shoshana Zuboff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Surveillance Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7ZEDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Surveillance Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Surveillance Capitalism">The Age of Surveillance Capitalism</a>
+</h4>
+<p class="fr-book-author">By Shoshana Zuboff</p>
         
-        <p class="fr-book-desc">Relevant to fan-data collection and platform control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to fan-data collection and platform control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
-        </h4>
-        <p class="fr-book-author">By John Lie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
+</h4>
+<p class="fr-book-author">By John Lie</p>
         
-        <p class="fr-book-desc">Explains how the industry monetises fandom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how the industry monetises fandom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Surveillance Capitalism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Everything+Store&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Everything Store</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Surveillance Capitalism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for kpop trading cards demon hunters flash cards collectible kpop party balloon gift"><img src="{{ '/assets/images/marketplace-covers/5222b0fc0afe4c3caa5b.jpg' | relative_url }}" alt="Listing image for kpop trading cards demon hunters flash cards collectible kpop party balloon gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">kpop trading cards demon hunters flash cards collectible kpop party balloon gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for kpop trading cards demon hunters flash cards collectible kpop party balloon gift"><img src="{{ '/assets/images/marketplace-covers/5222b0fc0afe4c3caa5b.jpg' | relative_url }}" alt="Listing image for kpop trading cards demon hunters flash cards collectible kpop party balloon gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">kpop trading cards demon hunters flash cards collectible kpop party balloon gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3PCS Singing Kpop Demon Hunters Dolls Figure Cosplay Collectible Moveable Joint"><img src="{{ '/assets/images/marketplace-covers/a967385d607786f27148.jpg' | relative_url }}" alt="Listing image for 3PCS Singing Kpop Demon Hunters Dolls Figure Cosplay Collectible Moveable Joint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">3PCS Singing Kpop Demon Hunters Dolls Figure Cosplay Collectible Moveable Joint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3PCS Singing Kpop Demon Hunters Dolls Figure Cosplay Collectible Moveable Joint"><img src="{{ '/assets/images/marketplace-covers/a967385d607786f27148.jpg' | relative_url }}" alt="Listing image for 3PCS Singing Kpop Demon Hunters Dolls Figure Cosplay Collectible Moveable Joint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">3PCS Singing Kpop Demon Hunters Dolls Figure Cosplay Collectible Moveable Joint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kpop Group SwordToy Rumi Cosplay Kids Weapon Toys Collectible Kids Gifts New UK"><img src="{{ '/assets/images/marketplace-covers/d6006b9b31ae84adc76f.jpg' | relative_url }}" alt="Listing image for Kpop Group SwordToy Rumi Cosplay Kids Weapon Toys Collectible Kids Gifts New UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Kpop Group SwordToy Rumi Cosplay Kids Weapon Toys Collectible Kids Gifts New UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kpop Group SwordToy Rumi Cosplay Kids Weapon Toys Collectible Kids Gifts New UK"><img src="{{ '/assets/images/marketplace-covers/d6006b9b31ae84adc76f.jpg' | relative_url }}" alt="Listing image for Kpop Group SwordToy Rumi Cosplay Kids Weapon Toys Collectible Kids Gifts New UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Kpop Group SwordToy Rumi Cosplay Kids Weapon Toys Collectible Kids Gifts New UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 150pcs Kpop Demon Hunters Collectible Cards Warriors Fans Laser Trading Card Set"><img src="{{ '/assets/images/marketplace-covers/d47d13f0f13b03bff58f.jpg' | relative_url }}" alt="Listing image for 150pcs Kpop Demon Hunters Collectible Cards Warriors Fans Laser Trading Card Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">150pcs Kpop Demon Hunters Collectible Cards Warriors Fans Laser Trading Card Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 150pcs Kpop Demon Hunters Collectible Cards Warriors Fans Laser Trading Card Set"><img src="{{ '/assets/images/marketplace-covers/d47d13f0f13b03bff58f.jpg' | relative_url }}" alt="Listing image for 150pcs Kpop Demon Hunters Collectible Cards Warriors Fans Laser Trading Card Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">150pcs Kpop Demon Hunters Collectible Cards Warriors Fans Laser Trading Card Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop collectible -book -books" data-ebay-reference="fan-platforms-why-fan-apps-matter-to-k-pop-s-business-music-kpop-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ In the wider K-pop fan system, that combination is powerful. Music may attract t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ In the wider K-pop fan system, that combination is powerful. Music may attract t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ In the wider K-pop fan system, that combination is powerful. Music may attract t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ In the wider K-pop fan system, that combination is powerful. Music may attract t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ In the wider K-pop fan system, that combination is powerful. Music may attract t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,260 +736,260 @@ In the wider K-pop fan system, that combination is powerful. Music may attract t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse: Global Fandom PlatformGlobal Fandom Platform - Weverse. Enjoy every moment with your artists on Weverse, the global fando...</p></details>
+   Link:<a href="https://weverse.io/" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse: Global Fandom PlatformGlobal Fandom Platform - Weverse. Enjoy every moment with your artists on Weverse, the global fando...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Launched in 2019, it enables artists to write posts, livestream, and sell merchandise, offering machine translation in 15 languages. With...</p></details>
+   Link:<a href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Launched in 2019, it enables artists to write posts, livestream, and sell merchandise, offering machine translation in 15 languages. With...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/629204632/A-Study-on-the-Business-Model-of-a-Fan-Community-Platform-Weverse" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/629204632/A-Study-on-the-Business-Model-of-a-Fan-Community-Platform-Weverse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse: Evolving Fan Community Model | PDFThis study examines the business model development of the fan community platform Weverse...</p></details>
+   Link:<a href="https://www.scribd.com/document/629204632/A-Study-on-the-Business-Model-of-a-Fan-Community-Platform-Weverse" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/629204632/A-Study-on-the-Business-Model-of-a-Fan-Community-Platform-Weverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse: Evolving Fan Community Model | PDFThis study examines the business model development of the fan community platform Weverse...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.weverse.co  
-   Link: <a href="https://en.weverse.co/weverse" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/weverse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Join the artist&#x27;s Weverse LIVE and stay in the moment together. Enjoy exclusive Weverse Shop special benefits through special LIVE...</p></details>
+   Link:<a href="https://en.weverse.co/weverse" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/weverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Join the artist&#x27;s Weverse LIVE and stay in the moment together. Enjoy exclusive Weverse Shop special benefits through special LIVE...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: play.google.com  
    Title: Play Weverse: Connect with Artists  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=co.benx.weverse" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=co.benx.weverse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayWeverse: Connect with Artists - Apps on Google PlayA community for fans and artists. Check out the daily moments of the artist...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=co.benx.weverse" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=co.benx.weverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google PlayWeverse: Connect with Artists - Apps on Google PlayA community for fans and artists. Check out the daily moments of the artist...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shop.weverse.io  
-   Link: <a href="https://shop.weverse.io/en/home" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All Things for Fans!Official [merch](&amp;#123;&amp;#123; &#x27;merch/&#x27; | relative_url &amp;#125;&amp;#125;) store for all fans around the world! Check out your favorite artist&#x27;s official fanclub membership and...</p></details>
+   Link:<a href="https://shop.weverse.io/en/home" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Things for Fans!Official [merch](&amp;#123;&amp;#123; &#x27;merch/&#x27; | relative_url &amp;#125;&amp;#125;) store for all fans around the world! Check out your favorite artist&#x27;s official fanclub membership and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: shop.weverse.io  
-   Link: <a href="https://shop.weverse.io/home" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Check out your favorite artist&#x27;s official fanclub membership and official merch items including Weverse Shop...</p></details>
+   Link:<a href="https://shop.weverse.io/home" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Check out your favorite artist&#x27;s official fanclub membership and official merch items including Weverse Shop...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: shop.weverse.io  
-   Link: <a href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/shop/USD/artists/2/categories/18</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</p></details>
+   Link:<a href="https://shop.weverse.io/en/shop/USD/artists/2/categories/18" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/shop/USD/artists/2/categories/18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse Shop - All Things for Fans!BTS Global MembershipCheck out the official Global Membership merch of BTS on Weverse Shop...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.weverse.co  
-   Link: <a href="https://en.weverse.co/about" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About the CompanySelected as one of the “2024 Top Korean Companies for Employment” by the Ministry of Employment and Labor. AUG. R...</p></details>
+   Link:<a href="https://en.weverse.co/about" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About the CompanySelected as one of the “2024 Top Korean Companies for Employment” by the Ministry of Employment and Labor. AUG. R...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Platform Fandom: Weverse and the Technological...by G Bollmer · 2025 · Cited by 12 — This article argues that Weverse represents a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Platform Fandom: Weverse and the Technological...by G Bollmer · 2025 · Cited by 12 — This article argues that Weverse represents a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.weverse.co  
-   Link: <a href="https://en.weverse.co/news/?bmode=view&amp;idx=121198597" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/news/?bmode=view&amp;idx=121198597</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariana Grande to Join HYBE&#x27;s Superfan Platform...Jul 22, 2024 — In joining the platform, Grande will have the ability to post mes...</p></details>
+   Link:<a href="https://en.weverse.co/news/?bmode=view&amp;idx=121198597" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/news/?bmode=view&amp;idx=121198597</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariana Grande to Join HYBE&#x27;s Superfan Platform...Jul 22, 2024 — In joining the platform, Grande will have the ability to post mes...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: flowjournal.org  
-   Link: <a href="https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Platformization of fandom in the post-pandemic music...by K Yoon — In particular, two popular fan platforms, Weverse and Bubble, illustr...</p></details>
+   Link:<a href="https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.flowjournal.org/2026/03/platformization-of-fandom-in-the-post-pandemic-music-industrieskyong-yoon-university-of-british-columbia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Platformization of fandom in the post-pandemic music...by K Yoon — In particular, two popular fan platforms, Weverse and Bubble, illustr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/lifestyle/bts-fandom-tech-firm-weverse-reaches-beyond-k-pop-2022-12-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/lifestyle/bts-fandom-tech-firm-weverse-reaches-beyond-k-pop-2022-12-22/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BTS fandom tech firm Weverse reaches beyond K-Pop23 Dec 2022 — The app has about 80 teams of artists represented including BTS, and about...</p></details>
+   Link:<a href="https://www.reuters.com/lifestyle/bts-fandom-tech-firm-weverse-reaches-beyond-k-pop-2022-12-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/lifestyle/bts-fandom-tech-firm-weverse-reaches-beyond-k-pop-2022-12-22/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BTS fandom tech firm Weverse reaches beyond K-Pop23 Dec 2022 — The app has about 80 teams of artists represented including BTS, and about...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: account.weverse.io  
-   Link: <a href="https://account.weverse.io/" target="_blank" rel="noopener noreferrer nofollow">https://account.weverse.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Log in to Weverse using your preferred method! Continue with email; Continue with AppleRead more...</p></details>
+   Link:<a href="https://account.weverse.io/" target="_blank" rel="noopener noreferrer nofollow">https://account.weverse.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Log in to Weverse using your preferred method! Continue with email; Continue with AppleRead more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shop.weverse.io  
    Title: io Weverse Shop  
-   Link: <a href="https://shop.weverse.io/en/my/cash" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/my/cash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Things for Fans!Official merch store for all fans around the world! Check out your favorite artist&#x27;s official fanclub membersh...</p></details>
+   Link:<a href="https://shop.weverse.io/en/my/cash" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/my/cash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Things for Fans!Official merch store for all fans around the world! Check out your favorite artist&#x27;s official fanclub membersh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: page.weverse.io  
-   Link: <a href="https://page.weverse.io/digitalmembership" target="_blank" rel="noopener noreferrer nofollow">https://page.weverse.io/digitalmembership</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enjoy enriched fan activities online and offline with a Digital Membership.Read more...</p></details>
+   Link:<a href="https://page.weverse.io/digitalmembership" target="_blank" rel="noopener noreferrer nofollow">https://page.weverse.io/digitalmembership</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enjoy enriched fan activities online and offline with a Digital Membership.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.weverse.co  
-   Link: <a href="https://en.weverse.co/news/?bmode=view&amp;idx=165565023" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/news/?bmode=view&amp;idx=165565023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISSUES GLOBAL FANDOM TREND REPORT...23 Jan 2025 — Seoul - January 23, 2025 - Weverse, HYBE&#x27;s global superfan platform, unveiled its 2024...</p></details>
+   Link:<a href="https://en.weverse.co/news/?bmode=view&amp;idx=165565023" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/news/?bmode=view&amp;idx=165565023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISSUES GLOBAL FANDOM TREND REPORT...23 Jan 2025 — Seoul - January 23, 2025 - Weverse, HYBE&#x27;s global superfan platform, unveiled its 2024...</p></details>
    Published: January 23, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bts.fandom.com  
    Title: Weverse Company  
-   Link: <a href="https://bts.fandom.com/wiki/Weverse_Company" target="_blank" rel="noopener noreferrer nofollow">https://bts.fandom.com/wiki/Weverse_Company</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Company - BTS Wiki - FandomThe app serves as a social networking platform for fans of various K-pop groups and artists managed by HYBE Co...</p></details>
+   Link:<a href="https://bts.fandom.com/wiki/Weverse_Company" target="_blank" rel="noopener noreferrer nofollow">https://bts.fandom.com/wiki/Weverse_Company</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Company - BTS Wiki - FandomThe app serves as a social networking platform for fans of various K-pop groups and artists managed by HYBE Co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bts.fandom.com  
-   Link: <a href="https://bts.fandom.com/wiki/Weverse" target="_blank" rel="noopener noreferrer nofollow">https://bts.fandom.com/wiki/Weverse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BTS Wiki - FandomWeverse hosts a variety of free and paid content including educational and entertainment videos, Instagram Story-style...</p></details>
+   Link:<a href="https://bts.fandom.com/wiki/Weverse" target="_blank" rel="noopener noreferrer nofollow">https://bts.fandom.com/wiki/Weverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BTS Wiki - FandomWeverse hosts a variety of free and paid content including educational and entertainment videos, Instagram Story-style...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i05zLW3bqC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i05zLW3bqC8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=i05zLW3bqC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i05zLW3bqC8</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The K-Pop Business Model Explained  
-   Link: <a href="https://www.youtube.com/watch?v=sC89UPERxrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sC89UPERxrI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How K-Pop Fandoms Operate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sC89UPERxrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sC89UPERxrI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How K-Pop Fandoms Operate...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: How K-Pop Fandoms Operate  
-   Link: <a href="https://www.youtube.com/watch?v=ArcOZksyEhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ArcOZksyEhs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of the K-Pop Industrial Complex...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ArcOZksyEhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ArcOZksyEhs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of the K-Pop Industrial Complex...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Rise of the K-Pop Industrial Complex  
-   Link: <a href="https://www.youtube.com/watch?v=yW6M4cO2C-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6M4cO2C-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why K-Pop Fans Are So Organized...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yW6M4cO2C-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6M4cO2C-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why K-Pop Fans Are So Organized...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Why K-Pop Fans Are So Organized  
-   Link: <a href="https://www.youtube.com/watch?v=wXJ-u_y5d6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wXJ-u_y5d6E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the K-Pop Fan Participation Economy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wXJ-u_y5d6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wXJ-u_y5d6E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the K-Pop Fan Participation Economy...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Inside the K-Pop Fan Participation Economy  
-   Link: <a href="https://www.youtube.com/watch?v=d_kS3q7M02A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_kS3q7M02A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video provides a deep dive into the Korean entertainment industry explaining the historical and [cultural context](&amp;#123;&amp;#123; &#x27;cultural-context/&#x27; | relative_url &amp;#125;&amp;#125;) behind the global r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_kS3q7M02A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_kS3q7M02A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video provides a deep dive into the Korean entertainment industry explaining the historical and [cultural context](&amp;#123;&amp;#123; &#x27;cultural-context/&#x27; | relative_url &amp;#125;&amp;#125;) behind the global r...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: koreatimes.co.kr  
-   Link: <a href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</p></details>
+   Link:<a href="https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20240302/rise-of-k-pop-fan-platforms-facilitates-fan-idol-communication-sparks-debate-on-authenticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea TimesRise of K-pop fan platforms facilitates fan-idol...2 Mar 2024 — Introduced by HYBE in 2019, Weverse allows fans to communicat...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-leans-further-into-superfan-business-adding-subscription-based-memberships-to-its-weverse-fan-app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideHYBE leans further into superfan business, adding...1 Aug 2024 — HYBE leans further into superfan business, addi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideHYBE says Weverse hit 12m monthly users last year10 Feb 2026 — According to HYBE&#x27;s new report, fans spent an aver...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideHYBE says Weverse hit 12m monthly users last year10 Feb 2026 — According to HYBE&#x27;s new report, fans spent an aver...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: apps.apple.com  
    Title: App Store Weverse: Connect with Artists  
-   Link: <a href="https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>□ A Community for Fans and Artists · Check out the daily stories of the artists and leave...Read more...</p></details>
+   Link:<a href="https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/weverse-connect-with-artists/id1456559188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>□ A Community for Fans and Artists · Check out the daily stories of the artists and leave...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study employs labor process theory to examine the influence of the fan platform Bubble on the commodification of music...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03007766.2025.2492505</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Case of the K-pop Fan Platform “Bubble”by S Lee · 2025 · Cited by 8 — This study employs labor process theory...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03007766.2025.2492505</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Case of the K-pop Fan Platform “Bubble”by S Lee · 2025 · Cited by 8 — This study employs labor process theory...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: argos.co.uk  
-   Link: <a href="https://www.argos.co.uk/browse/appliances/fans-heaters-and-dehumidifiers/fans/c%3A29439/" target="_blank" rel="noopener noreferrer nofollow">https://www.argos.co.uk/browse/appliances/fans-heaters-and-dehumidifiers/fans/c%3A29439/</a>  
+   Link:<a href="https://www.argos.co.uk/browse/appliances/fans-heaters-and-dehumidifiers/fans/c%3A29439/" target="_blank" rel="noopener noreferrer nofollow">https://www.argos.co.uk/browse/appliances/fans-heaters-and-dehumidifiers/fans/c%3A29439/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Weverse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weverse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WeverseWeverse is a South Korean mobile app and web platform created by South Korean entertainment company Hybe Corporation. The app s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Weverse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WeverseWeverse is a South Korean mobile app and web platform created by South Korean entertainment company Hybe Corporation. The app s...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: currys.co.uk  
-   Link: <a href="https://www.currys.co.uk/appliances/fans-heating-and-air-treatment/heating-and-cooling/fans" target="_blank" rel="noopener noreferrer nofollow">https://www.currys.co.uk/appliances/fans-heating-and-air-treatment/heating-and-cooling/fans</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Tower, Desk and Pedestal Fans DealsOur extensive selection of fans covers all your cooling needs and even includes duel purpose fan...</p></details>
+   Link:<a href="https://www.currys.co.uk/appliances/fans-heating-and-air-treatment/heating-and-cooling/fans" target="_blank" rel="noopener noreferrer nofollow">https://www.currys.co.uk/appliances/fans-heating-and-air-treatment/heating-and-cooling/fans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Tower, Desk and Pedestal Fans DealsOur extensive selection of fans covers all your cooling needs and even includes duel purpose fan...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: preprints.org  
-   Link: <a href="https://www.preprints.org/manuscript/202308.1525" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202308.1525</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Eﬀects of Idol Fans&#x27; Interactions in Online...Aug 21, 2023 — This study selected a fan community platform, Weverse, as the subject o...</p></details>
+   Link:<a href="https://www.preprints.org/manuscript/202308.1525" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202308.1525</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Eﬀects of Idol Fans&#x27; Interactions in Online...Aug 21, 2023 — This study selected a fan community platform, Weverse, as the subject o...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: usbtsarmy.com  
-   Link: <a href="https://www.usbtsarmy.com/tutorials/weverse" target="_blank" rel="noopener noreferrer nofollow">https://www.usbtsarmy.com/tutorials/weverse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BTS Weverse &amp; Weverse Shop15 Aug 2024 — Weverse is a fan community platform by HYBE Corporation. Fans can use the APP to connect with BTS...</p></details>
+   Link:<a href="https://www.usbtsarmy.com/tutorials/weverse" target="_blank" rel="noopener noreferrer nofollow">https://www.usbtsarmy.com/tutorials/weverse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BTS Weverse &amp; Weverse Shop15 Aug 2024 — Weverse is a fan community platform by HYBE Corporation. Fans can use the APP to connect with BTS...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
    Title: Weverse, HYBE's global superfan platform, released  
-   Link: <a href="https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse platform recorded 10 million monthly active users across 245 countries.And The BTS Community on Weverse, the online fan engagemen...</p></details>
+   Link:<a href="https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse platform recorded 10 million monthly active users across 245 countries.And The BTS Community on Weverse, the online fan engagemen...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: essentialbizmarketing.com  
    Title: weverse·bubble fan experience ux based brand building  
-   Link: <a href="https://essentialbizmarketing.com/blog/marketing/brand-management/weverse%C2%B7bubble-fan-experience-ux-based-brand-building/" target="_blank" rel="noopener noreferrer nofollow">https://essentialbizmarketing.com/blog/marketing/brand-management/weverse%C2%B7bubble-fan-experience-ux-based-brand-building/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse·Bubble Fan Experience UX-Based Brand BuildingFeb 19, 2026 — Weverse and Bubble are two major K-pop fan platforms that reshape how...</p></details>
+   Link:<a href="https://essentialbizmarketing.com/blog/marketing/brand-management/weverse%C2%B7bubble-fan-experience-ux-based-brand-building/" target="_blank" rel="noopener noreferrer nofollow">https://essentialbizmarketing.com/blog/marketing/brand-management/weverse%C2%B7bubble-fan-experience-ux-based-brand-building/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse·Bubble Fan Experience UX-Based Brand BuildingFeb 19, 2026 — Weverse and Bubble are two major K-pop fan platforms that reshape how...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/fan" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/fan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — FAN definition: 1. someone who admires and supports a person, sport, sports team, et...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/fan" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/fan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — FAN definition: 1. someone who admires and supports a person, sport, sports team, et...</p></details>
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: bmstores.co.uk  
-   Link: <a href="https://www.bmstores.co.uk/products/electrical/fans" target="_blank" rel="noopener noreferrer nofollow">https://www.bmstores.co.uk/products/electrical/fans</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Electric Fans, Tower Fans, Handheld Fans &amp; MoreStay cool throughout the Summer with B&amp;M&#x27;s wide range of electrical fans. Browse des...</p></details>
+   Link:<a href="https://www.bmstores.co.uk/products/electrical/fans" target="_blank" rel="noopener noreferrer nofollow">https://www.bmstores.co.uk/products/electrical/fans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Electric Fans, Tower Fans, Handheld Fans &amp; MoreStay cool throughout the Summer with B&amp;M&#x27;s wide range of electrical fans. Browse des...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/fan" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/fan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAN Definition &amp; Meaninga device that is held in the hand and moved back and forth to cool a person and that is usually shaped like a seg...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/fan" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/fan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAN Definition &amp; Meaninga device that is held in the hand and moved back and forth to cool a person and that is usually shaped like a seg...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: its.co.uk  
-   Link: <a href="https://its.co.uk/plumbing-heating/fans-air-con/fans/" target="_blank" rel="noopener noreferrer nofollow">https://its.co.uk/plumbing-heating/fans-air-con/fans/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jobsite Fans | Site Cooling and DryingJobsite fans keep air moving where heat, dust and damp slow the job down. From portable fans to ind...</p></details>
+   Link:<a href="https://its.co.uk/plumbing-heating/fans-air-con/fans/" target="_blank" rel="noopener noreferrer nofollow">https://its.co.uk/plumbing-heating/fans-air-con/fans/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jobsite Fans | Site Cooling and DryingJobsite fans keep air moving where heat, dust and damp slow the job down. From portable fans to ind...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/stores/STATUS/page/3CDEC862-BEA9-42F9-8AFF-A6429A54A32A" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/STATUS/page/3CDEC862-BEA9-42F9-8AFF-A6429A54A32A</a>  
+   Link:<a href="https://www.amazon.co.uk/stores/STATUS/page/3CDEC862-BEA9-42F9-8AFF-A6429A54A32A" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/stores/STATUS/page/3CDEC862-BEA9-42F9-8AFF-A6429A54A32A</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/singmarko_hybe-says-weverse-hit-12m-monthly-users-last-activity-7441558704119984128-9i41" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/singmarko_hybe-says-weverse-hit-12m-monthly-users-last-activity-7441558704119984128-9i41</a>  
+   Link:<a href="https://www.linkedin.com/posts/singmarko_hybe-says-weverse-hit-12m-monthly-users-last-activity-7441558704119984128-9i41" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/singmarko_hybe-says-weverse-hit-12m-monthly-users-last-activity-7441558704119984128-9i41</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: yonsei.elsevierpure.com  
-   Link: <a href="https://yonsei.elsevierpure.com/en/publications/uniting-global-fans-and-revolutionizing-k-pop-marketing-weverse-a/" target="_blank" rel="noopener noreferrer nofollow">https://yonsei.elsevierpure.com/en/publications/uniting-global-fans-and-revolutionizing-k-pop-marketing-weverse-a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>global fans and revolutionizing K-pop marketingby JM Lee · 2025 · Cited by 7 — This study explores the impact of Weverse, a fan engagemen...</p></details>
+   Link:<a href="https://yonsei.elsevierpure.com/en/publications/uniting-global-fans-and-revolutionizing-k-pop-marketing-weverse-a/" target="_blank" rel="noopener noreferrer nofollow">https://yonsei.elsevierpure.com/en/publications/uniting-global-fans-and-revolutionizing-k-pop-marketing-weverse-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>global fans and revolutionizing K-pop marketingby JM Lee · 2025 · Cited by 7 — This study explores the impact of Weverse, a fan engagemen...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchers.mq.edu.au  
    Title: academic definitions of fandom as  
-   Link: <a href="https://researchers.mq.edu.au/en/publications/digital-k-pop-platforms-in-a-cosmopolitan-world/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/en/publications/digital-k-pop-platforms-in-a-cosmopolitan-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>K-pop platforms in a cosmopolitan worldby S Keith · 2023 · Cited by 14 — In recent years, platforms designed specifically for global K-po...</p></details>
+   Link:<a href="https://researchers.mq.edu.au/en/publications/digital-k-pop-platforms-in-a-cosmopolitan-world/" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/en/publications/digital-k-pop-platforms-in-a-cosmopolitan-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>K-pop platforms in a cosmopolitan worldby S Keith · 2023 · Cited by 14 — In recent years, platforms designed specifically for global K-po...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: studocu.vn  
-   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-su-pham-thanh-pho-ho-chi-minh/tieng-anh-tong-quat-3/the-labor-process-of-relational-labor-analyzing-k-pop-fan-platform-bubble/160822588" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-su-pham-thanh-pho-ho-chi-minh/tieng-anh-tong-quat-3/the-labor-process-of-relational-labor-analyzing-k-pop-fan-platform-bubble/160822588</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Labor Process of Relational Labor: Analyzing K-pop...This study analyzes the impact of fan platforms like Bubble on the commodificat...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/truong-dai-hoc-su-pham-thanh-pho-ho-chi-minh/tieng-anh-tong-quat-3/the-labor-process-of-relational-labor-analyzing-k-pop-fan-platform-bubble/160822588" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-su-pham-thanh-pho-ho-chi-minh/tieng-anh-tong-quat-3/the-labor-process-of-relational-labor-analyzing-k-pop-fan-platform-bubble/160822588</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Labor Process of Relational Labor: Analyzing K-pop...This study analyzes the impact of fan platforms like Bubble on the commodificat...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: open.spotify.com  
    Title: 2x Gjfb XZn I8u QDhuko QURQ  
-   Link: <a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comK. - song and [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) by Cigarettes After SexListen to K. on Spotify. Song · Cigarettes After Sex · 2017...</p></details>
+   Link:<a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comK. - song and [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) by Cigarettes After SexListen to K. on Spotify. Song · Cigarettes After Sex · 2017...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: Wikipedia  
    Title: Fan (machine)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fan_%28machine%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fan_%28machine%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fan (machine)A fan is a powered machine that creates airflow. A fan consists of rotating vanes or blades, generally made of wood, plas...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fan_%28machine%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fan_%28machine%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fan (machine)A fan is a powered machine that creates airflow. A fan consists of rotating vanes or blades, generally made of wood, plas...</p></details>

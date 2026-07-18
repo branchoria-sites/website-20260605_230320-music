@@ -501,12 +501,12 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052-overview-social.j
 
 ## Introduction
 
-A song can keep earning money long after its first [recording]({{ 'recording/' | relative_url }}) has faded from the charts because the composition is a separate right from the master recording. The composition is the underlying melody, lyrics and musical work; the recording is one captured performance of it. That distinction is why a songwriter can be paid when a song is broadcast on radio, performed at a gig, streamed, used in a television drama, played in a café, licensed for an advert, or revived decades later by a film, game or social trend. In practice, these earnings flow through music publishers, performing rights organisations, mechanical licensing systems and direct sync deals, each paying for a different kind of use. PRS for Music, for example, says it collects and pays [royalties]({{ 'royalties/' | relative_url }}) when members’ music is played in public, broadcast, downloaded, streamed or performed live in the UK and internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span>
+A song can keep earning money long after its first [recording]({{ 'recording/' | relative_url }}) has faded from the charts because the composition is a separate right from the master recording. The composition is the underlying melody, lyrics and musical work; the recording is one captured performance of it. That distinction is why a songwriter can be paid when a song is broadcast on radio, performed at a gig, streamed, used in a television drama, played in a café, licensed for an advert, or revived decades later by a film, game or social trend. In practice, these earnings flow through music publishers, performing rights organisations, mechanical licensing systems and direct sync deals, each paying for a different kind of use. PRS for Music, for example, says it collects and pays [royalties]({{ 'royalties/' | relative_url }}) when members’ music is played in public, broadcast, downloaded, streamed or performed live in the UK and internationally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-overview.webp" | relative_url }}" alt="Overview image for Publishing" loading="eager" decoding="sync" fetchpriority="high">
 ## Composition income is not the same as recording income
 
-The first key to songwriting royalties is separating “the song” from “the track”. A recording of a song may be owned or controlled by a label, artist, producer or master-rights company. The composition behind it is owned or controlled by songwriters, composers, lyricists and publishers. PRS for Music’s sync [licensing]({{ 'licensing/' | relative_url }}) guidance states the distinction plainly: composition and publishing rights cover the words and melody, while [master rights]({{ 'master-rights/' | relative_url }}) cover the particular recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span>
+The first key to songwriting royalties is separating “the song” from “the track”. A recording of a song may be owned or controlled by a label, artist, producer or master-rights company. The composition behind it is owned or controlled by songwriters, composers, lyricists and publishers. PRS for Music’s sync [licensing]({{ 'licensing/' | relative_url }}) guidance states the distinction plainly: composition and publishing rights cover the words and melody, while [master rights]({{ 'master-rights/' | relative_url }}) cover the particular recording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span>
 
 That separation means the same piece of music can generate two parallel income streams from one use. If a television programme uses the original recording of a famous song, the producer normally needs permission for both the master and the composition. If a supermarket plays that recording over its sound system, money may be due to both recording-side rightsholders and composition-side rightsholders through different licensing channels. If a cover band performs the song live, the master recording is not being used, but the composition still is.
 
@@ -524,7 +524,7 @@ These categories overlap in everyday listening. An on-demand stream may generate
 
 Publishing is the business of administering composition rights. A publisher may register songs, pitch them for uses, issue licences, chase unpaid royalties, handle international collection and account to writers. A songwriter without a publishing deal may still own the publishing share, but may need an administrator or collecting society membership to ensure the money actually reaches them.
 
-A common way to explain publishing income is the split between the **writer’s share** and the **publisher’s share**. In the United States, ASCAP tells music creators that when it distributes performance royalties, 50% goes to writers and 50% goes to publishers. A publisher membership is therefore needed to collect the publisher side of ASCAP performance income. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Music CreatorsWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). I...</span></span></span> Songtrust gives the same general framing: the writer’s share is the portion of performance royalties paid directly to the songwriter, whether or not an outside publisher is involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-title">songwriting royalties explained writers vs publishers share</span><span class="citation-popover-snippet">Song Royalty Ownership: Writer&#x27;s Share vs Publisher&#x27;s Share16 May 2019 — A writer share is a portion of performance royalties that are pa...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+A common way to explain publishing income is the split between the **writer’s share** and the **publisher’s share**. In the United States, ASCAP tells music creators that when it distributes performance royalties, 50% goes to writers and 50% goes to publishers. A publisher membership is therefore needed to collect the publisher side of ASCAP performance income.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Music CreatorsWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). I...</span></span></span> Songtrust gives the same general framing: the writer’s share is the portion of performance royalties paid directly to the songwriter, whether or not an outside publisher is involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-title">songwriting royalties explained writers vs publishers share</span><span class="citation-popover-snippet">Song Royalty Ownership: Writer&#x27;s Share vs Publisher&#x27;s Share16 May 2019 — A writer share is a portion of performance royalties that are pa...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 This is one reason old songs can become valuable assets. The owner of a catalogue is not just betting that people will keep playing recordings. They are betting that the compositions will keep being broadcast, performed, streamed, covered, licensed, quoted, revived and discovered in new markets. A strong publisher does not merely wait for cheques; it improves the odds that the song is correctly registered, correctly matched to usage data, and considered for new opportunities.
 
@@ -532,11 +532,11 @@ This is one reason old songs can become valuable assets. The owner of a catalogu
 
 A “public performance” does not only mean a singer on a stage. In copyright licensing, it can include radio play, television broadcast, live concerts, background music in shops and restaurants, club play, public events, online services and other situations where music is communicated beyond private listening. Performing rights organisations, often shortened to PROs, license those uses and distribute the collected fees to songwriters and publishers.
 
-PRS for Music describes itself as licensing music used by businesses, online, in broadcasts and film, for live performance and as recorded products, with reciprocal agreements in 100 countries so members can be paid for uses outside the UK. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span> The UK Intellectual Property Office also lists PRS for Music as the body licensing rights for songwriters, composers and music publishers, while PPL licenses rights connected to recordings and performers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Licensing bodies and collective management organisations</span><span class="citation-popover-snippet">Licensing bodies and collective management organisations</span></span></span>
+PRS for Music describes itself as licensing music used by businesses, online, in broadcasts and film, for live performance and as recorded products, with reciprocal agreements in 100 countries so members can be paid for uses outside the UK.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PRS for Music</span></span></span> The UK Intellectual Property Office also lists PRS for Music as the body licensing rights for songwriters, composers and music publishers, while PPL licenses rights connected to recordings and performers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Licensing bodies and collective management organisations</span><span class="citation-popover-snippet">Licensing bodies and collective management organisations</span></span></span>
 
 The mechanism matters because many public uses are too small or scattered for individual songwriters to license one by one. A café cannot realistically negotiate with every composer whose music appears in its playlist. A broadcaster cannot manually clear every individual performance directly with every songwriter for routine programming. Collective licensing solves that scale problem: users pay for licences, usage data is gathered, and the collecting society distributes royalties according to its rules.
 
-The system is powerful, but not frictionless. Live performance is a good example. When an artist performs a song at a gig, the songwriter can be owed performance royalties even if the performer is not the original recording artist. But accurate payment may depend on setlists, venue reporting, ticket data and society processing. Reporting failures can leave money unmatched or delayed. The Guardian reported in 2025 that songwriters in the UK could be missing royalties from more than 100,000 gigs since 2022 because performances without identifiable setlists can become unallocated income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The system is powerful, but not frictionless. Live performance is a good example. When an artist performs a song at a gig, the songwriter can be owed performance royalties even if the performer is not the original recording artist. But accurate payment may depend on setlists, venue reporting, ticket data and society processing. Reporting failures can leave money unmatched or delayed. The Guardian reported in 2025 that songwriters in the UK could be missing royalties from more than 100,000 gigs since 2022 because performances without identifiable setlists can become unallocated income.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wp43OdtAAkM" title="Kate Bush - Running Up That Hill - Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank" rel="noopener noreferrer">Kate Bush - Running Up That Hill - Official Music Video</a></p><p class="youtube-embed-meta">Channel: KateBushMusic &middot; Views: 409.3M &middot; Uploaded: January 2011 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wp43OdtAAkM">Open on YouTube</a></p></div></div></div>
 
@@ -544,19 +544,19 @@ The system is powerful, but not frictionless. Live performance is a good example
 
 [Broadcast income]({{ 'broadcast-income/' | relative_url }}) has long been one of the most recognisable ways songs earn beyond record sales. Radio, television, cable and satellite uses can all generate performance royalties for compositions. A song used as a programme theme, background cue, advert bed or repeated radio staple may produce income for years if it continues to be logged and licensed.
 
-Streaming added a more complex layer. On-demand platforms use both recordings and compositions, and composition income may include performance and mechanical elements depending on the country and service type. In the United States, the Mechanical Licensing Collective administers blanket mechanical licences for eligible streaming and download services, collecting royalties due under those licences and paying self-administered songwriters, publishers, administrators and collective management organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtrust.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtrust.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The US Copyright Office explains that the MLC was created under the Music Modernization Act to receive notices and reports from digital music providers, collect and distribute royalties, and identify musical works and owners for payment from 1 January 2021. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Streaming added a more complex layer. On-demand platforms use both recordings and compositions, and composition income may include performance and mechanical elements depending on the country and service type. In the United States, the Mechanical Licensing Collective administers blanket mechanical licences for eligible streaming and download services, collecting royalties due under those licences and paying self-administered songwriters, publishers, administrators and collective management organisations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtrust.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtrust.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The US Copyright Office explains that the MLC was created under the Music Modernization Act to receive notices and reports from digital music providers, collect and distribute royalties, and identify musical works and owners for payment from 1 January 2021.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The rates and rules can be highly technical. For the US Phonorecords IV period, which runs from 2023 through 2027, the MLC notes that Copyright Royalty Board determinations set the mechanical rates payable to the MLC for that period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtrust.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtrust.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a mainstream reader, the important point is simpler: streaming is not only a recording royalty story. It is also a publishing-data story. If the composition is misidentified, badly registered, split incorrectly, or missing ownership information, money may be delayed or held even when the recording is being listened to.
+The rates and rules can be highly technical. For the US Phonorecords IV period, which runs from 2023 through 2027, the MLC notes that Copyright Royalty Board determinations set the mechanical rates payable to the MLC for that period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtrust.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtrust.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a mainstream reader, the important point is simpler: streaming is not only a recording royalty story. It is also a publishing-data story. If the composition is misidentified, badly registered, split incorrectly, or missing ownership information, money may be delayed or held even when the recording is being listened to.
 
 ## Sync can pay upfront and then echo through later uses
 
-Synchronisation, usually called sync, is the licensing of music to accompany visual media. That can mean a song in a film scene, a television trailer, a brand advert, a video game, a documentary, a social campaign or an online video. CD Baby’s musician guide defines sync as the use of music in visual media such as television, film, advertisements, trailers and video games, with the licence setting placement, permissions and payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diymusician.cdbaby.com">[DIY Musician]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diymusician.cdbaby.com</span><span class="citation-popover-title">DIY Musician Sync Licensing and Placement Guide</span><span class="citation-popover-snippet">DIY Musician Sync Licensing and Placement Guide</span></span></span>
+Synchronisation, usually called sync, is the licensing of music to accompany visual media. That can mean a song in a film scene, a television trailer, a brand advert, a video game, a documentary, a social campaign or an online video. CD Baby’s musician guide defines sync as the use of music in visual media such as television, film, advertisements, trailers and video games, with the licence setting placement, permissions and payments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diymusician.cdbaby.com">[DIY Musician]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diymusician.cdbaby.com</span><span class="citation-popover-title">DIY Musician Sync Licensing and Placement Guide</span><span class="citation-popover-snippet">DIY Musician Sync Licensing and Placement Guide</span></span></span>
 
 Sync is different from many collective royalties because the initial fee is usually negotiated. The buyer may need approval from the composition owner and, if using an existing recording, the master owner as well. The fee can vary sharply depending on the song’s fame, the media, territory, duration, prominence, exclusivity, budget and whether the use is emotionally central or merely background.
 
-A sync placement can also create secondary income. If the programme is broadcast, repeated, exported, streamed on licensed video services, or used in promotional clips, performance royalties may follow through collecting societies. Curve Royalty Systems notes that a sync placement may lead to further performance royalties when an advert or film is performed on television stations or in cinemas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Open source on curveroyaltysystems.com.</span></span></span>
+A sync placement can also create secondary income. If the programme is broadcast, repeated, exported, streamed on licensed video services, or used in promotional clips, performance royalties may follow through collecting societies. Curve Royalty Systems notes that a sync placement may lead to further performance royalties when an advert or film is performed on television stations or in cinemas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Open source on curveroyaltysystems.com.</span></span></span>
 
-The cultural effect can be even larger than the licence fee. Kate Bush’s “Running Up That Hill” is the modern textbook example. After its use in *Stranger Things*, the 1985 song returned to global attention, becoming one of the most streamed songs in multiple countries and reaching new chart peaks decades after release. WIPO described how the placement pushed the song into top streaming positions across major services and territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The lesson is not that every sync creates a windfall; it is that the composition right allows an old song to re-enter circulation when a new context makes listeners care again.
+The cultural effect can be even larger than the licence fee. Kate Bush’s “Running Up That Hill” is the modern textbook example. After its use in *Stranger Things*, the 1985 song returned to global attention, becoming one of the most streamed songs in multiple countries and reaching new chart peaks decades after release. WIPO described how the placement pushed the song into top streaming positions across major services and territories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The lesson is not that every sync creates a windfall; it is that the composition right allows an old song to re-enter circulation when a new context makes listeners care again.
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-2-dark.svg" | relative_url }}" alt="Publishing illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Public use creates money from places listeners barely notice
@@ -571,7 +571,7 @@ The fairness disputes tend to arise in the gap between “music was used” and 
 
 Old songs keep paying because copyright lasts long, and because songs are reusable in ways recordings alone are not. A composition can be covered by new artists, sampled with permission, interpolated into new works, performed live by generations of musicians, placed in films, adapted for adverts, broadcast as a classic, streamed after a viral moment, or used as a shorthand for an era. Each new use can activate a different royalty path.
 
-The global scale of collective royalties shows why these older rights remain economically important. CISAC reported that worldwide royalty collections for creators reached a record €13.97 billion in 2024, up 6.6%, with music accounting for €12.59 billion of that total. Digital passed €5 billion for the first time, while live and background income also grew. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">cisac global collections report 2025</span><span class="citation-popover-snippet">cisac global collections report 2025</span></span></span> These figures are not limited to old songs, but they show the breadth of the ecosystem that keeps compositions earning outside the sale of new recordings.
+The global scale of collective royalties shows why these older rights remain economically important. CISAC reported that worldwide royalty collections for creators reached a record €13.97 billion in 2024, up 6.6%, with music accounting for €12.59 billion of that total. Digital passed €5 billion for the first time, while live and background income also grew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">cisac global collections report 2025</span><span class="citation-popover-snippet">cisac global collections report 2025</span></span></span> These figures are not limited to old songs, but they show the breadth of the ecosystem that keeps compositions earning outside the sale of new recordings.
 
 Several qualities make a catalogue especially durable:
 
@@ -590,7 +590,7 @@ This is also why music catalogues became attractive to investors. A catalogue is
 
 Many writers assume the hard part is getting the song heard. That is only half true. A song must also be identifiable, correctly registered and linked to the right people. A hit with poor metadata can leak money. A modest song with clean registrations across territories may earn more reliably than a better-known song with disputed splits.
 
-The UK Intellectual Property Office highlighted the importance of music metadata in 2025, explaining that accurate data helps ensure performers and rightsholders are fairly rewarded when music is broadcast or played in public places. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipo.blog.gov.uk">[IPO Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipo.blog.gov.uk</span><span class="citation-popover-title">music metadata matters how to get paid and credited</span><span class="citation-popover-snippet">music metadata matters how to get paid and credited</span></span></span> On the composition side, the same principle applies to song titles, International Standard Musical Work Codes, writer identifiers, publisher shares, cue sheets, setlists and territory registrations.
+The UK Intellectual Property Office highlighted the importance of music metadata in 2025, explaining that accurate data helps ensure performers and rightsholders are fairly rewarded when music is broadcast or played in public places.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipo.blog.gov.uk">[IPO Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipo.blog.gov.uk</span><span class="citation-popover-title">music metadata matters how to get paid and credited</span><span class="citation-popover-snippet">music metadata matters how to get paid and credited</span></span></span> On the composition side, the same principle applies to song titles, International Standard Musical Work Codes, writer identifiers, publisher shares, cue sheets, setlists and territory registrations.
 
 This is where publishing administration earns its keep. The administrator’s job is not glamorous, but it is central to royalty survival: register the work, confirm splits, monitor income, claim missing royalties, process foreign collections, resolve conflicts and make sure a song is searchable in the systems that license music at scale.
 
@@ -607,194 +607,194 @@ The practical takeaway is that songwriting income depends on three things at onc
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-3-dark.svg" | relative_url }}" alt="Publishing illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Songs Earn Beyond The Recording. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Songs Earn Beyond The Recording. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Covers publishing, royalties, licensing and long-term song income.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers publishing, royalties, licensing and long-term song income.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
-        </h4>
-        <p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
+</h4>
+<p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
         
-        <p class="fr-book-desc">Explains the business systems that generate songwriter income.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the business systems that generate songwriter income.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign"><img src="{{ '/assets/images/marketplace-covers/86ef54b4c2b925940340.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign"><img src="{{ '/assets/images/marketplace-covers/86ef54b4c2b925940340.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/3c8e70269a0f6d435d6c.jpg' | relative_url }}" alt="Listing image for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/3c8e70269a0f6d435d6c.jpg' | relative_url }}" alt="Listing image for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/86c5f6bdf13f08f4a38f.jpg' | relative_url }}" alt="Listing image for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">[NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/86c5f6bdf13f08f4a38f.jpg' | relative_url }}" alt="Listing image for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">[NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club"><img src="{{ '/assets/images/marketplace-covers/045d09e33673453380c7.jpg' | relative_url }}" alt="Listing image for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club"><img src="{{ '/assets/images/marketplace-covers/045d09e33673453380c7.jpg' | relative_url }}" alt="Listing image for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="publishing-how-songs-earn-beyond-the-recording-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -810,7 +810,7 @@ The practical takeaway is that songwriting income depends on three things at onc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -830,7 +830,7 @@ The practical takeaway is that songwriting income depends on three things at onc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -862,7 +862,7 @@ The practical takeaway is that songwriting income depends on three things at onc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -914,7 +914,7 @@ The practical takeaway is that songwriting income depends on three things at onc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -959,7 +959,7 @@ The practical takeaway is that songwriting income depends on three things at onc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1000,245 +1000,245 @@ The practical takeaway is that songwriting income depends on three things at onc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/music-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music CreatorsWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). I...</p></details>
+   Link:<a href="https://www.ascap.com/music-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music CreatorsWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). I...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: blog.songtrust.com  
    Title: songwriting royalties explained writers vs publishers share  
-   Link: <a href="https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Song Royalty Ownership: Writer&#x27;s Share vs Publisher&#x27;s Share16 May 2019 — A writer share is a portion of performance royalties that are pa...</p></details>
+   Link:<a href="https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/songwriting-royalties-explained-writers-vs-publishers-share</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Song Royalty Ownership: Writer&#x27;s Share vs Publisher&#x27;s Share16 May 2019 — A writer share is a portion of performance royalties that are pa...</p></details>
    Published: May 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: Licensing bodies and collective management organisations  
-   Link: <a href="https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations</a>  
+   Link:<a href="https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/licensing-bodies-and-collective-management-organisations</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/faq.html</a>  
+   Link:<a href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/faq.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: curveroyaltysystems.com  
-   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses</a>  
+   Link:<a href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-6-sync-other-uses</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wipo.int  
-   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
+   Link:<a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cisac.org  
    Title: cisac global collections report 2025  
-   Link: <a href="https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025</a>  
+   Link:<a href="https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-global-collections-report-2025</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ipo.blog.gov.uk  
    Title: music metadata matters how to get paid and credited  
-   Link: <a href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/</a>  
+   Link:<a href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ascap.com  
    Title: Welcome to ASCAP  
-   Link: <a href="https://www.ascap.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/</a>  
+   Link:<a href="https://www.ascap.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
+   Link:<a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/songview" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/songview</a>  
+   Link:<a href="https://www.ascap.com/songview" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/songview</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cisac.org  
    Title: prs music expands reach royalties across industry  
-   Link: <a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
+   Link:<a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cisac.org  
    Title: cisac global collections report 2025  
-   Link: <a href="https://www.cisac.org/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/cisac-global-collections-report-2025</a>  
+   Link:<a href="https://www.cisac.org/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/cisac-global-collections-report-2025</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blog.songtrust.com  
    Title: what are music royalties  
-   Link: <a href="https://blog.songtrust.com/what-are-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/what-are-music-royalties</a>  
+   Link:<a href="https://blog.songtrust.com/what-are-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/what-are-music-royalties</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: songtrust.com  
-   Link: <a href="https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization</a>  
+   Link:<a href="https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/music-publishing-glossary/glossary-performing-rights-organization</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: songtrust.com  
-   Link: <a href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/the-mechanical-licensing-collective</a>  
+   Link:<a href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/the-mechanical-licensing-collective</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: songtrust.com  
-   Link: <a href="https://www.songtrust.com/register-songs-for-music-publishing" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/register-songs-for-music-publishing</a>  
+   Link:<a href="https://www.songtrust.com/register-songs-for-music-publishing" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/register-songs-for-music-publishing</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blog.songtrust.com  
    Title: phonorecords iv agreement update  
-   Link: <a href="https://blog.songtrust.com/phonorecords-iv-agreement-update" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/phonorecords-iv-agreement-update</a>  
+   Link:<a href="https://blog.songtrust.com/phonorecords-iv-agreement-update" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/phonorecords-iv-agreement-update</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: copyright.gov  
-   Link: <a href="https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com" target="_blank" rel="noopener noreferrer nofollow">https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com</a>  
+   Link:<a href="https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com" target="_blank" rel="noopener noreferrer nofollow">https://copyright.gov/licensing/m200a.pdf?ref=musicadmin.com</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: artists.spotify.com  
    Title: collecting mechanical royalties can be tricky the mlc is here to fix that  
-   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
+   Link:<a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: curveroyaltysystems.com  
    Title: Lesson 2: Flow of Revenues in Music Publishing Royalties  
-   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music</a>  
+   Link:<a href="https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-publishing/lesson-2-flow-or-revenues-in-music</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/what-we-do" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicWhat we doWe collect and pay royalties when a member&#x27;s music is played in public, broadcast, downloaded, streamed, or perfor...</p></details>
+   Link:<a href="https://www.prsformusic.com/what-we-do" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicWhat we doWe collect and pay royalties when a member&#x27;s music is played in public, broadcast, downloaded, streamed, or perfor...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;) that make up the song) are owned by w...</p></details>
+   Link:<a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;) that make up the song) are owned by w...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music: royalties, music copyright and licensingWe pay royalties to our members for the use of their work while prote...</p></details>
+   Link:<a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music: royalties, music copyright and licensingWe pay royalties to our members for the use of their work while prote...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
+   Link:<a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: themlc.com  
    Title: phono 4  
-   Link: <a href="https://www.themlc.com/faqs/categories/phono-4" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/faqs/categories/phono-4</a>  
+   Link:<a href="https://www.themlc.com/faqs/categories/phono-4" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/faqs/categories/phono-4</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: diymusician.cdbaby.com  
    Title: DIY Musician Sync Licensing and Placement Guide  
-   Link: <a href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-career/sync-licensing/</a>  
+   Link:<a href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-career/sync-licensing/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: kate bush running up that hill uk top 10 stranger things  
-   Link: <a href="https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things</a>  
+   Link:<a href="https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jun/03/kate-bush-running-up-that-hill-uk-top-10-stranger-things</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Kate Bush  
-   Link: <a href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wp43OdtAAkM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wp43OdtAAkM</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: prsformusic.com  
    Title: how to understanding publishing rights  
-   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
+   Link:<a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: prsformusic.com  
    Title: 2024 financial results  
-   Link: <a href="https://www.prsformusic.com/about-us/track-record/2024-financial-results" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/about-us/track-record/2024-financial-results</a>  
+   Link:<a href="https://www.prsformusic.com/about-us/track-record/2024-financial-results" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/about-us/track-record/2024-financial-results</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/sitemap.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/sitemap.xml</a>  
+   Link:<a href="https://www.prsformusic.com/sitemap.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/sitemap.xml</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET</a>  
+   Link:<a href="https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dangopal_2025-prs-for-music-financial-results-activity-7455527072795471872-IaET</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz</a>  
+   Link:<a href="https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dean-ormston-99b964_if-youve-wondered-what-the-global-value-activity-7393759921101733889-_Zhz</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: apraamcos.com.au  
    Title: cisac releases global collections report  
-   Link: <a href="https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report</a>  
+   Link:<a href="https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/cisac-releases-global-collections-report</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: PRS for Music  
-   Link: <a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: recordoftheday.com  
-   Link: <a href="https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry</a>  
+   Link:<a href="https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/more-music-more-creators-more-paid-prs-for-music-expands-the-reach-of-royalties-across-the-industry</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: teosto.fi  
    Title: CISAC Global Collections Report 2024  
-   Link: <a href="https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf</a>  
+   Link:<a href="https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teosto.fi/wp-content/uploads/2024/10/CISAC-Global-Collections-Report-2024.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: afrosoundtrack.com  
    Title: cisac 2025 african music royalty growth  
-   Link: <a href="https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/</a>  
+   Link:<a href="https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrosoundtrack.com/cisac-2025-african-music-royalty-growth/</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Explained: The Difference Between Master and Publishing Royalties  
-   Link: <a href="https://www.youtube.com/watch?v=T6M-J4j30hU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T6M-J4j30hU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical vs Performance Royalties: What Every Songwriter Needs To Know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T6M-J4j30hU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T6M-J4j30hU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical vs Performance Royalties: What Every Songwriter Needs To Know...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Mechanical vs Performance Royalties: What Every Songwriter Needs To Know  
-   Link: <a href="https://www.youtube.com/watch?v=gT8U78L3M9w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT8U78L3M9w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing and Sync Explained for Artists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gT8U78L3M9w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT8U78L3M9w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing and Sync Explained for Artists...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv</a>  
+   Link:<a href="https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2022/06/01/2022-11521/determination-of-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iv</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: How Music Royalties Work (Master vs Publishing)  
-   Link: <a href="https://www.youtube.com/watch?v=l_aH9O-u28w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_aH9O-u28w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: The Difference Between Master and Publishing Royalties...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l_aH9O-u28w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_aH9O-u28w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: The Difference Between Master and Publishing Royalties...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
+   Link:<a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: apraamcos.com.au  
-   Link: <a href="https://www.apraamcos.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/</a>  
+   Link:<a href="https://www.apraamcos.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/</a>  
+   Link:<a href="https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanSongwriterNews/posts/hoorayback-in-2022-the-us-copyright-board-approved-a-plan-to-gradually-increase-/1313580127477299/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: ukmusic.org  
-   Link: <a href="https://www.ukmusic.org/policy-campaigns/copyright/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/policy-campaigns/copyright/</a>  
+   Link:<a href="https://www.ukmusic.org/policy-campaigns/copyright/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/policy-campaigns/copyright/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/</a>  
+   Link:<a href="https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Independent.Musicians.Network/posts/6324176784366323/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: mpaonline.org.uk  
-   Link: <a href="https://mpaonline.org.uk/resources/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/resources/faqs/</a>
+   Link:<a href="https://mpaonline.org.uk/resources/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/resources/faqs/</a>

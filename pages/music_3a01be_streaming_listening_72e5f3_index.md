@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-streaming-listening/
 description: Focused pages that expand on Streaming.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_streaming_listening_72e5f3
 parent_title: Streaming
@@ -16,7 +16,7 @@ parent_permalink: /streaming/
 
 # Explore Topics in Streaming
 
-The following pages expand on the main **[Streaming]({{ '/streaming/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Streaming]({{ '/streaming/' | relative_url }})** page and cover its key branches in.
 
 - [Access]({{ '/access/' | relative_url }})
 - [Background]({{ '/background/' | relative_url }})

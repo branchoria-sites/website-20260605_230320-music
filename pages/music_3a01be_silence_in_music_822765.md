@@ -504,30 +504,30 @@ image: /assets/images/music_3a01be_silence_in_music_822765-overview-social.jpg
 Silence matters inside music because it changes how sound is heard. A pause can make the next note feel inevitable, shocking, tender or funny; a rest can clarify a phrase; an empty bar can make a band breathe together; a sudden drop-out in a [recording]({{ 'recording/' | relative_url }}) can make the return of sound feel enormous. Music is not only a chain of notes and beats. It is also a pattern of absences that tells listeners when to wait, lean in, remember, recover or expect [surprise]({{ 'surprise/' | relative_url }}).
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765-overview.webp" | relative_url }}" alt="Overview image for Silence" loading="eager" decoding="sync" fetchpriority="high">
-This is why silence is not just “nothing happening”. In musical context, it often carries the [memory]({{ 'memory/' | relative_url }}) of what has just been played and the promise of what may come next. Elizabeth Hellmuth Margulis’s research on musical pauses argues that listeners do not hear silence as neutral empty time: the preceding music colours the gap, while expectations about continuation fill it with tension or closure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">SILENCES IN MUSIC ARE MUSICAL NOT SILENTJune 3, 2007 — by EH Margulis · 2007 · Cited by 86 — This study hypothesizes that listeners...</span><span class="citation-popover-meta">Published: June 3, 2007</span></span></span>
+This is why silence is not just “nothing happening”. In musical context, it often carries the [memory]({{ 'memory/' | relative_url }}) of what has just been played and the promise of what may come next. Elizabeth Hellmuth Margulis’s research on musical pauses argues that listeners do not hear silence as neutral empty time: the preceding music colours the gap, while expectations about continuation fill it with tension or closure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">SILENCES IN MUSIC ARE MUSICAL NOT SILENTJune 3, 2007 — by EH Margulis · 2007 · Cited by 86 — This study hypothesizes that listeners...</span><span class="citation-popover-meta">Published: June 3, 2007</span></span></span>
 
 ## Pauses, rests and anticipation
 
 A rest is one of music’s simplest symbols, but its effect is rarely simple. In notation, it tells a performer not to sound for a given duration. In listening, it can act more like punctuation, breath, suspense or interruption. The same length of silence can feel peaceful after a resolved cadence, uneasy after an unfinished phrase, or comic if it interrupts a pattern at just the right moment.
 
-Margulis’s work is useful because it separates acoustic silence from musical silence. A gap in sound is not automatically meaningful on its own; it becomes musical because of where it occurs. Her study of silences after “open” and “closed” musical gestures found that context changes how silence is perceived: listeners carry the preceding phrase into the gap and anticipate what might follow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">SILENCES IN MUSIC ARE MUSICAL NOT SILENTJune 3, 2007 — by EH Margulis · 2007 · Cited by 86 — This study hypothesizes that listeners...</span><span class="citation-popover-meta">Published: June 3, 2007</span></span></span>
+Margulis’s work is useful because it separates acoustic silence from musical silence. A gap in sound is not automatically meaningful on its own; it becomes musical because of where it occurs. Her study of silences after “open” and “closed” musical gestures found that context changes how silence is perceived: listeners carry the preceding phrase into the gap and anticipate what might follow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">SILENCES IN MUSIC ARE MUSICAL NOT SILENTJune 3, 2007 — by EH Margulis · 2007 · Cited by 86 — This study hypothesizes that listeners...</span><span class="citation-popover-meta">Published: June 3, 2007</span></span></span>
 
 That mechanism is familiar outside music. A speaker who says, “You know what happened?” and then pauses has not stopped communicating. The pause creates expectation. Music can do the same without words: a drum fill that cuts out before the downbeat, a singer who delays the final word of a line, or an orchestra that stops just before a huge chord all use silence to organise [attention]({{ 'attention/' | relative_url }}).
 
-The pause works because listeners are active predictors. Neuroscience research on music listening and imagery has found that people learn regularities in musical sequences and use them to anticipate and interpret what comes next. Even when sound is absent or imagined, the brain can continue tracking musical expectation rather than simply switching off. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8412992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Music of Silence: Part II: Music Listening Induces Imagery...by GM Di Liberto · 2021 · Cited by 40 — During music listening, huma...</span></span></span>
+The pause works because listeners are active predictors. Neuroscience research on music listening and imagery has found that people learn regularities in musical sequences and use them to anticipate and interpret what comes next. Even when sound is absent or imagined, the brain can continue tracking musical expectation rather than simply switching off.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8412992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Music of Silence: Part II: Music Listening Induces Imagery...by GM Di Liberto · 2021 · Cited by 40 — During music listening, huma...</span></span></span>
 
-In performance, silence also has a bodily dimension. A singer takes a breath; a string player lifts the bow; a pianist holds still before the next entrance. Those visible gestures tell the audience that the silence belongs to the music rather than to a mistake. Recent performance research has treated silences as actions that performers mark, shape and time, not just as empty slots in a score. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/[access" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsPerforming musical silence: markers, gestures, and...10 Dec 2024 — My methods for studying silences include video...</span></span></span>
+In performance, silence also has a bodily dimension. A singer takes a breath; a string player lifts the bow; a pianist holds still before the next entrance. Those visible gestures tell the audience that the silence belongs to the music rather than to a mistake. Recent performance research has treated silences as actions that performers mark, shape and time, not just as empty slots in a score.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/[access" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsPerforming musical silence: markers, gestures, and...10 Dec 2024 — My methods for studying silences include video...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765-Illustration-1-dark.svg" | relative_url }}" alt="Silence illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Space in recordings and performance
 
 Silence in music is not always literal quiet. In recordings especially, “space” can mean room around the vocal, a gap between drum hits, a sparse arrangement, a low noise floor, or frequency space that prevents instruments from masking one another. A crowded mix can feel powerful, but if everything is loud and continuous, nothing has room to arrive.
 
-This is why producers and mixing engineers talk about space as a practical musical tool. A track can feel larger when fewer elements play at once, because the ear can locate the important sound more clearly. Sound on Sound describes “making space” as one of the central challenges of mixing, especially when many parts compete for attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundonsound.com/techniques/making-space-your-mix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why producers and mixing engineers talk about space as a practical musical tool. A track can feel larger when fewer elements play at once, because the ear can locate the important sound more clearly. Sound on Sound describes “making space” as one of the central challenges of mixing, especially when many parts compete for attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundonsound.com/techniques/making-space-your-mix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Dynamic range is part of the same story. If a recording has very little contrast between quiet and loud, a chorus, drop or orchestral climax may feel less dramatic because the music has not left enough room for impact. Splice’s discussion of dynamics and silence notes that recording and mixing often depend on the relationship between the softest and loudest parts, while some mainstream pop and dance production has favoured loudness and compression over wide dynamic contrast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://splice.com/blog/dynamics-and-silence-in-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: splice.com">[Splice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">splice.com</span><span class="citation-popover-title">The power of dynamics and silence in music</span><span class="citation-popover-snippet">The power of dynamics and silence in music</span></span></span>
+Dynamic range is part of the same story. If a recording has very little contrast between quiet and loud, a chorus, drop or orchestral climax may feel less dramatic because the music has not left enough room for impact. Splice’s discussion of dynamics and silence notes that recording and mixing often depend on the relationship between the softest and loudest parts, while some mainstream pop and dance production has favoured loudness and compression over wide dynamic contrast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://splice.com/blog/dynamics-and-silence-in-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: splice.com">[Splice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">splice.com</span><span class="citation-popover-title">The power of dynamics and silence in music</span><span class="citation-popover-snippet">The power of dynamics and silence in music</span></span></span>
 
-In performance, silence can be even more exposed. A live pause is shared time: the players must hold it together, and the audience must trust that the music has not broken. An EEG study of musicians timing pauses found that performers coordinate expressive silences through both behavioural timing and neural markers of action preparation. In other words, silence in ensemble playing is not passive waiting; it can be a demanding act of joint timing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+In performance, silence can be even more exposed. A live pause is shared time: the players must hold it together, and the audience must trust that the music has not broken. An EEG study of musicians timing pauses found that performers coordinate expressive silences through both behavioural timing and neural markers of action preparation. In other words, silence in ensemble playing is not passive waiting; it can be a demanding act of joint timing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 This helps explain why a perfectly timed stop can electrify a room. In funk, jazz, rock, electronic music or classical performance, a band that drops out together makes the listener feel the groove more strongly, not less. The silence exposes the pulse. When the sound returns, the beat lands with renewed force because the listener has been made to carry it internally for a moment.
 
@@ -537,9 +537,9 @@ Space also creates intimacy. A close-miked vocal with only a few surrounding sou
 
 ## Silence as drama and meaning
 
-The most famous modern test case is John Cage’s *4′33″*. First performed by David Tudor in 1952, the piece instructs performers to produce no intentional sounds for four minutes and thirty-three seconds. MoMA describes it as three movements in which the performer does not deliberately play, so the listener’s attention turns to the surrounding sounds of the room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moma.org/calendar/exhibitions/1386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moma.org">[The Museum of Modern Art]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moma.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most famous modern test case is John Cage’s *4′33″*. First performed by David Tudor in 1952, the piece instructs performers to produce no intentional sounds for four minutes and thirty-three seconds. MoMA describes it as three movements in which the performer does not deliberately play, so the listener’s attention turns to the surrounding sounds of the room.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moma.org/calendar/exhibitions/1386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moma.org">[The Museum of Modern Art]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moma.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Cage’s point was not that music should become blank. It was that “silence” is never purely silent in lived experience. MoMA’s account of the work notes that Cage treated silence as a way to connect the audience to ambient sound: rain, movement, breathing, coughs, footsteps and the room itself become part of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moma.org/calendar/exhibitions/1386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moma.org">[The Museum of Modern Art]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moma.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Smithsonian Libraries likewise emphasise that the deliberate absence of instrumental sound in *4′33″* does not create pure silence; it reveals the noises usually pushed into the [background]({{ 'background/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.library.si.edu/blog/2018/06/22/john-cage-and-the-sounds-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.library.si.edu">[Smithsonian Libraries and Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.library.si.edu</span><span class="citation-popover-title">john cage and the sounds of silence</span><span class="citation-popover-snippet">john cage and the sounds of silence</span></span></span>
+Cage’s point was not that music should become blank. It was that “silence” is never purely silent in lived experience. MoMA’s account of the work notes that Cage treated silence as a way to connect the audience to ambient sound: rain, movement, breathing, coughs, footsteps and the room itself become part of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moma.org/calendar/exhibitions/1386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moma.org">[The Museum of Modern Art]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moma.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Smithsonian Libraries likewise emphasise that the deliberate absence of instrumental sound in *4′33″* does not create pure silence; it reveals the noises usually pushed into the [background]({{ 'background/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.library.si.edu/blog/2018/06/22/john-cage-and-the-sounds-of-silence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.library.si.edu">[Smithsonian Libraries and Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.library.si.edu</span><span class="citation-popover-title">john cage and the sounds of silence</span><span class="citation-popover-snippet">john cage and the sounds of silence</span></span></span>
 
 That example is extreme, but it clarifies a principle that applies far beyond experimental music. Silence can frame sound. A museum frame does not create the painting, but it changes how the viewer attends to it. A musical silence can do something similar: it can make an ordinary noise, chord, lyric or entrance feel newly significant.
 
@@ -578,194 +578,194 @@ That makes silence one of music’s core mechanisms rather than an ornament. It 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/daxkOQ2bMTo" title="Silence in Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=daxkOQ2bMTo" target="_blank" rel="noopener noreferrer">Silence in Music</a></p><p class="youtube-embed-meta">Channel: musEducation &middot; Views: 23 &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=daxkOQ2bMTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=daxkOQ2bMTo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Silence Can Be Music Too. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Silence Can Be Music Too. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains expectation, anticipation and musical perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains expectation, anticipation and musical perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores how listeners experience musical meaning and absence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how listeners experience musical meaning and absence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rest+Is+Noise+Alex+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rest Is Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1188468-M.jpg" alt="Cover for The Rest Is Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rest+Is+Noise+Alex+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rest Is Noise">The Rest Is Noise</a>
-        </h4>
-        <p class="fr-book-author">By Alex Ross</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rest+Is+Noise+Alex+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rest Is Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1188468-M.jpg" alt="Cover for The Rest Is Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rest+Is+Noise+Alex+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rest Is Noise">The Rest Is Noise</a>
+</h4>
+<p class="fr-book-author">By Alex Ross</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Music history, classical music, 20th century music, modern music, contemporary music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rest+Is+Noise+Alex+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Music history, classical music, 20th century music, modern music, contemporary music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rest+Is+Noise+Alex+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silence+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452775-M.jpg" alt="Cover for Silence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silence+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silence">Silence</a>
-        </h4>
-        <p class="fr-book-author">By John Cage</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silence+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452775-M.jpg" alt="Cover for Silence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Silence+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silence">Silence</a>
+</h4>
+<p class="fr-book-author">By John Cage</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Addresses, essays, lectures, History and criticism, Music, Musique, Histoire et critique.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silence+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Addresses, essays, lectures, History and criticism, Music, Musique, Histoire et critique.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Silence+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rest+Is+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rest Is Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rest+Is+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rest Is Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saxophone Music Notation Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/C2kAAeSwFLVphiqb/s-l225.jpg" alt="Listing image for Saxophone Music Notation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Saxophone Music Notation Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saxophone Music Notation Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/C2kAAeSwFLVphiqb/s-l225.jpg" alt="Listing image for Saxophone Music Notation Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Saxophone Music Notation Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Musical Notation Negative Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/GhsAAeSwUCppZiit/s-l225.jpg" alt="Listing image for Musical Notation Negative Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Musical Notation Negative Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Musical Notation Negative Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/GhsAAeSwUCppZiit/s-l225.jpg" alt="Listing image for Musical Notation Negative Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Musical Notation Negative Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flute Music Notation Flutist Musici Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/T1EAAeSwX79phij8/s-l225.jpg" alt="Listing image for Flute Music Notation Flutist Musici Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Flute Music Notation Flutist Musici Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flute Music Notation Flutist Musici Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/T1EAAeSwX79phij8/s-l225.jpg" alt="Listing image for Flute Music Notation Flutist Musici Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Flute Music Notation Flutist Musici Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tenor Horn Music Notation Hornist B Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/8GoAAeSwMmVp1TeG/s-l225.jpg" alt="Listing image for Tenor Horn Music Notation Hornist B Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Tenor Horn Music Notation Hornist B Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tenor Horn Music Notation Hornist B Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/8GoAAeSwMmVp1TeG/s-l225.jpg" alt="Listing image for Tenor Horn Music Notation Hornist B Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">Tenor Horn Music Notation Hornist B Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music notation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music notation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+notation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-silence-can-be-music-too-music-notation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music notation poster" data-ebay-reference="why-silence-can-be-music-too-music-notation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -781,7 +781,7 @@ That makes silence one of music’s core mechanisms rather than an ornament. It 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -801,7 +801,7 @@ That makes silence one of music’s core mechanisms rather than an ornament. It 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -833,7 +833,7 @@ That makes silence one of music’s core mechanisms rather than an ornament. It 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -885,7 +885,7 @@ That makes silence one of music’s core mechanisms rather than an ornament. It 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -930,7 +930,7 @@ That makes silence one of music’s core mechanisms rather than an ornament. It 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -971,107 +971,107 @@ That makes silence one of music’s core mechanisms rather than an ornament. It 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/mp.2007.24.5.485</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SILENCES IN MUSIC ARE MUSICAL NOT SILENTJune 3, 2007 — by EH Margulis · 2007 · Cited by 86 — This study hypothesizes that listeners...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/mp.2007.24.5.485" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/mp.2007.24.5.485</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SILENCES IN MUSIC ARE MUSICAL NOT SILENTJune 3, 2007 — by EH Margulis · 2007 · Cited by 86 — This study hypothesizes that listeners...</p></details>
    Published: June 3, 2007  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8412992/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8412992/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Music of Silence: Part II: Music Listening Induces Imagery...by GM Di Liberto · 2021 · Cited by 40 — During music listening, huma...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8412992/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8412992/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Music of Silence: Part II: Music Listening Induces Imagery...by GM Di Liberto · 2021 · Cited by 40 — During music listening, huma...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: splice.com  
    Title: The power of dynamics and silence in music  
-   Link: <a href="https://splice.com/blog/dynamics-and-silence-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://splice.com/blog/dynamics-and-silence-in-music/</a>  
+   Link:<a href="https://splice.com/blog/dynamics-and-silence-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://splice.com/blog/dynamics-and-silence-in-music/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: moma.org  
-   Link: <a href="https://www.moma.org/calendar/exhibitions/1386" target="_blank" rel="noopener noreferrer nofollow">https://www.moma.org/calendar/exhibitions/1386</a>  
+   Link:<a href="https://www.moma.org/calendar/exhibitions/1386" target="_blank" rel="noopener noreferrer nofollow">https://www.moma.org/calendar/exhibitions/1386</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: moma.org  
-   Link: <a href="https://www.moma.org/slideshows/24/389" target="_blank" rel="noopener noreferrer nofollow">https://www.moma.org/slideshows/24/389</a>  
+   Link:<a href="https://www.moma.org/slideshows/24/389" target="_blank" rel="noopener noreferrer nofollow">https://www.moma.org/slideshows/24/389</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: splice.com  
    Title: what is funk music  
-   Link: <a href="https://splice.com/blog/what-is-funk-music/" target="_blank" rel="noopener noreferrer nofollow">https://splice.com/blog/what-is-funk-music/</a>  
+   Link:<a href="https://splice.com/blog/what-is-funk-music/" target="_blank" rel="noopener noreferrer nofollow">https://splice.com/blog/what-is-funk-music/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: <a href="https://scholarlypublications.universiteitleiden.nl/[access" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/[access</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsPerforming musical silence: markers, gestures, and...10 Dec 2024 — My methods for studying silences include video...</p></details>
+   Link:<a href="https://scholarlypublications.universiteitleiden.nl/[access" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/[access</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsPerforming musical silence: markers, gestures, and...10 Dec 2024 — My methods for studying silences include video...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A4172030/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A4172030/view</a>  
+   Link:<a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A4172030/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A4172030/view</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: soundonsound.com  
-   Link: <a href="https://www.soundonsound.com/techniques/making-space-your-mix" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/making-space-your-mix</a>  
+   Link:<a href="https://www.soundonsound.com/techniques/making-space-your-mix" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/making-space-your-mix</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blog.library.si.edu  
    Title: john cage and the sounds of silence  
-   Link: <a href="https://blog.library.si.edu/blog/2018/06/22/john-cage-and-the-sounds-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://blog.library.si.edu/blog/2018/06/22/john-cage-and-the-sounds-of-silence/</a>  
+   Link:<a href="https://blog.library.si.edu/blog/2018/06/22/john-cage-and-the-sounds-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://blog.library.si.edu/blog/2018/06/22/john-cage-and-the-sounds-of-silence/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: audioservices.studio  
-   Link: <a href="https://audioservices.studio/category/mixing" target="_blank" rel="noopener noreferrer nofollow">https://audioservices.studio/category/mixing</a>  
+   Link:<a href="https://audioservices.studio/category/mixing" target="_blank" rel="noopener noreferrer nofollow">https://audioservices.studio/category/mixing</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: talentedmusicapp.com  
    Title: silence in music  
-   Link: <a href="https://talentedmusicapp.com/en/blog/silence-in-music" target="_blank" rel="noopener noreferrer nofollow">https://talentedmusicapp.com/en/blog/silence-in-music</a>  
+   Link:<a href="https://talentedmusicapp.com/en/blog/silence-in-music" target="_blank" rel="noopener noreferrer nofollow">https://talentedmusicapp.com/en/blog/silence-in-music</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.uark.edu  
    Title: exploring the sounds of silence  
-   Link: <a href="https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence" target="_blank" rel="noopener noreferrer nofollow">https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arkansas NewsExploring the Sounds of Silence | Arkansas News20 Jun 2007 — When a listener encounters silence in a musical work, Margulis...</p></details>
+   Link:<a href="https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence" target="_blank" rel="noopener noreferrer nofollow">https://news.uark.edu/articles/9745/exploring-the-sounds-of-silence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arkansas NewsExploring the Sounds of Silence | Arkansas News20 Jun 2007 — When a listener encounters silence in a musical work, Margulis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jneurosci.org  
-   Link: <a href="https://www.jneurosci.org/content/41/35/7435" target="_blank" rel="noopener noreferrer nofollow">https://www.jneurosci.org/content/41/35/7435</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of NeuroscienceThe Music of Silence: Part I: Responses to Musical Imagery...by G Marion · 2021 · Cited by 66 — This study reveal...</p></details>
+   Link:<a href="https://www.jneurosci.org/content/41/35/7435" target="_blank" rel="noopener noreferrer nofollow">https://www.jneurosci.org/content/41/35/7435</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of NeuroscienceThe Music of Silence: Part I: Responses to Musical Imagery...by G Marion · 2021 · Cited by 66 — This study reveal...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337682903_The_Use_of_Silence_in_Selected_Compositions_by_Frederic_Devreese_A_Musical_Analysis_of_Notated_and_Acoustic_Silences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337682903_The_Use_of_Silence_in_Selected_Compositions_by_Frederic_Devreese_A_Musical_Analysis_of_Notated_and_Acoustic_Silences</a>  
+   Link:<a href="https://www.researchgate.net/publication/337682903_The_Use_of_Silence_in_Selected_Compositions_by_Frederic_Devreese_A_Musical_Analysis_of_Notated_and_Acoustic_Silences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337682903_The_Use_of_Silence_in_Selected_Compositions_by_Frederic_Devreese_A_Musical_Analysis_of_Notated_and_Acoustic_Silences</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ssourmoghe1/a-quote-that-stands-out-ff3be95c08a9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ssourmoghe1/a-quote-that-stands-out-ff3be95c08a9</a>  
+   Link:<a href="https://medium.com/%40ssourmoghe1/a-quote-that-stands-out-ff3be95c08a9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ssourmoghe1/a-quote-that-stands-out-ff3be95c08a9</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/classicalmusic/comments/1dega6p/a_question_to_people_who_agree_with_john_cages_433/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/classicalmusic/comments/1dega6p/a_question_to_people_who_agree_with_john_cages_433/</a>  
+   Link:<a href="https://www.reddit.com/r/classicalmusic/comments/1dega6p/a_question_to_people_who_agree_with_john_cages_433/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/classicalmusic/comments/1dega6p/a_question_to_people_who_agree_with_john_cages_433/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/343366614_The_Sound_of_Silence_An_EEG_study_of_how_musicians_time_pauses_in_individual_and_joint_music_performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343366614_The_Sound_of_Silence_An_EEG_study_of_how_musicians_time_pauses_in_individual_and_joint_music_performance</a>  
+   Link:<a href="https://www.researchgate.net/publication/343366614_The_Sound_of_Silence_An_EEG_study_of_how_musicians_time_pauses_in_individual_and_joint_music_performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343366614_The_Sound_of_Silence_An_EEG_study_of_how_musicians_time_pauses_in_individual_and_joint_music_performance</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43890472/Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth_Century_Music_and_In_Depth_Case_Study_of_Webern_s_Op_27_iii_complete_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43890472/Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth_Century_Music_and_In_Depth_Case_Study_of_Webern_s_Op_27_iii_complete_</a>  
+   Link:<a href="https://www.academia.edu/43890472/Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth_Century_Music_and_In_Depth_Case_Study_of_Webern_s_Op_27_iii_complete_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43890472/Analysis_of_Silences_in_Music_Theoretical_Perspectives_Analytical_Examples_from_Twentieth_Century_Music_and_In_Depth_Case_Study_of_Webern_s_Op_27_iii_complete_</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musictheory/comments/1e8g8t8/anyone_have_a_generalized_analysis_of_james_brown/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musictheory/comments/1e8g8t8/anyone_have_a_generalized_analysis_of_james_brown/</a>  
+   Link:<a href="https://www.reddit.com/r/musictheory/comments/1e8g8t8/anyone_have_a_generalized_analysis_of_james_brown/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musictheory/comments/1e8g8t8/anyone_have_a_generalized_analysis_of_james_brown/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/JBerlinMusicGroup/posts/here-are-three-quotesdebussy-the-music-is-not-in-the-notes-but-in-the-silence-be/1194372208919326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JBerlinMusicGroup/posts/here-are-three-quotesdebussy-the-music-is-not-in-the-notes-but-in-the-silence-be/1194372208919326/</a>  
+   Link:<a href="https://www.facebook.com/JBerlinMusicGroup/posts/here-are-three-quotesdebussy-the-music-is-not-in-the-notes-but-in-the-silence-be/1194372208919326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JBerlinMusicGroup/posts/here-are-three-quotesdebussy-the-music-is-not-in-the-notes-but-in-the-silence-be/1194372208919326/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pbslearningmedia.org  
-   Link: <a href="https://www.pbslearningmedia.org/resource/how-james-brown-invented-funk-video/sound-field/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/how-james-brown-invented-funk-video/sound-field/</a>
+   Link:<a href="https://www.pbslearningmedia.org/resource/how-james-brown-invented-funk-video/sound-field/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/how-james-brown-invented-funk-video/sound-field/</a>

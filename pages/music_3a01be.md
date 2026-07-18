@@ -1,4 +1,4 @@
-﻿---
+---
 level: 1
 basename: music_3a01be
 child_basenames:
@@ -446,16 +446,16 @@ That is why music is never just a technical object. It becomes meaningful throug
 
 The music business is often discussed as though it were one market, but it is really a set of overlapping rights and revenue streams. A single song can generate money from the recording, the composition, live performance, broadcast, streaming, synchronisation in film or games, physical sales, merchandise and publishing royalties. The people involved may include performers, songwriters, producers, session musicians, labels, publishers, managers, collecting societies, distributors, promoters, venues and platforms.
 
-Recorded music has been growing for more than a decade after the deep disruption caused by piracy and the collapse of download-era sales. IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, up 6.4%, with paid subscription streaming growing 8.8% and physical formats returning to growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> MIDiA’s 2024 analysis gives useful context for the previous year: it estimated the wider recorded music market at US$36.2 billion in 2024, up 6.5%, but also noted that streaming’s share of total revenue dipped slightly for the first time, suggesting a maturing market rather than endless acceleration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/recorded-music-market-2024-362-billion-up-65" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">recorded music market 2024 362 billion up 65</span><span class="citation-popover-snippet">MIDiA ResearchRecorded music market 2024: $36.2 billion, up 6.5%March 13, 2025 — 14 Mar 2025 — Global recorded music growth has oscillate...</span><span class="citation-popover-meta">Published: March 13, 2025</span></span></span>
+Recorded music has been growing for more than a decade after the deep disruption caused by piracy and the collapse of download-era sales. IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, up 6.4%, with paid subscription streaming growing 8.8% and physical formats returning to growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> MIDiA’s 2024 analysis gives useful context for the previous year: it estimated the wider recorded music market at US$36.2 billion in 2024, up 6.5%, but also noted that streaming’s share of total revenue dipped slightly for the first time, suggesting a maturing market rather than endless acceleration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/recorded-music-market-2024-362-billion-up-65" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">recorded music market 2024 362 billion up 65</span><span class="citation-popover-snippet">MIDiA ResearchRecorded music market 2024: $36.2 billion, up 6.5%March 13, 2025 — 14 Mar 2025 — Global recorded music growth has oscillate...</span><span class="citation-popover-meta">Published: March 13, 2025</span></span></span>
 
-For listeners, the headline is convenience. For creators, the picture is more mixed. Streaming can make a track globally available within hours, but revenue depends on rights ownership, contract terms, territory, subscription mix, platform policy and the difference between being listened to occasionally and being listened to at scale. Spotify says it paid the music industry more than US$11 billion in 2025, while UK government work on streaming has continued to examine transparency and creator remuneration because many musicians argue that access has not translated into predictable income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — Today, Spotify accounts for roughly 30% o...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
+For listeners, the headline is convenience. For creators, the picture is more mixed. Streaming can make a track globally available within hours, but revenue depends on rights ownership, contract terms, territory, subscription mix, platform policy and the difference between being listened to occasionally and being listened to at scale. Spotify says it paid the music industry more than US$11 billion in 2025, while UK government work on streaming has continued to examine transparency and creator remuneration because many musicians argue that access has not translated into predictable income.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — Today, Spotify accounts for roughly 30% o...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be-Illustration-1-dark.svg" | relative_url }}" alt="Music 3 A01 Be illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why streaming changed listening habits
 
 Streaming did not simply replace the CD shop. It changed the unit of attention. The album still matters culturally, especially for major artists and dedicated fans, but everyday listening is now often organised around playlists, moods, short clips, recommendations and repeatable moments. That affects how songs are written, marketed and discovered. A strong opening hook, a distinctive vocal texture or a chorus that works in a short-form video can become commercially valuable because music now travels through social feeds as much as through radio or record stores.
 
-The global scale is enormous. IFPI reported 837 million users of paid streaming subscription accounts worldwide in 2025, while Reuters reported that 2024 paid subscriptions rose to 752 million and helped push global recorded music revenue to US$29.6 billion that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> This does not mean all music is becoming the same. In fact, streaming has helped regional scenes cross borders more easily. The same infrastructure that carries global pop also carries Afrobeats, Latin music, K-pop, dance subgenres, catalogue rock, devotional music, folk revivals and niche electronic scenes to listeners who would previously have struggled to find them.
+The global scale is enormous. IFPI reported 837 million users of paid streaming subscription accounts worldwide in 2025, while Reuters reported that 2024 paid subscriptions rose to 752 million and helped push global recorded music revenue to US$29.6 billion that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> This does not mean all music is becoming the same. In fact, streaming has helped regional scenes cross borders more easily. The same infrastructure that carries global pop also carries Afrobeats, Latin music, K-pop, dance subgenres, catalogue rock, devotional music, folk revivals and niche electronic scenes to listeners who would previously have struggled to find them.
 
 The unresolved problem is discoverability. A platform can host millions of tracks, but attention remains scarce. Recommendation systems can help listeners find music they love, but they can also reward songs that fit existing consumption patterns. For artists, being available everywhere is not the same as being noticed.
 
@@ -465,18 +465,18 @@ The unresolved problem is discoverability. A platform can host millions of track
 
 The persistence of live music shows that convenience is not the only thing listeners value. A concert is not just a delivery mechanism for songs; it is a social event, a memory, a display of fandom and a direct encounter with performance risk. For many artists, live work also remains essential because recorded streaming income may be fragmented or slow to build.
 
-Creator royalty data supports the continuing importance of public performance and live use. CISAC’s Global Collections Report 2025 says music creator revenues rose 7.2% to €12.59 billion in 2024, with live and [background]({{ 'background/' | relative_url }}) collections exceeding €3.5 billion after 9.6% growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gema.de/de/w/cisac-global-collections-report-2025-creators-royalties-powered-by-digital-growth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gema.de">[gema.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gema.de</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In the UK, PRS for Music reported a record £1.02 billion paid out to songwriters, composers and publishers in 2024, a reminder that songs generate value long after the moment of recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/about-us/track-record/2024-financial-results" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">2024 financial results</span><span class="citation-popover-snippet">2024 financial results</span></span></span>
+Creator royalty data supports the continuing importance of public performance and live use. CISAC’s Global Collections Report 2025 says music creator revenues rose 7.2% to €12.59 billion in 2024, with live and [background]({{ 'background/' | relative_url }}) collections exceeding €3.5 billion after 9.6% growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gema.de/de/w/cisac-global-collections-report-2025-creators-royalties-powered-by-digital-growth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gema.de">[gema.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gema.de</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In the UK, PRS for Music reported a record £1.02 billion paid out to songwriters, composers and publishers in 2024, a reminder that songs generate value long after the moment of recording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/about-us/track-record/2024-financial-results" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">2024 financial results</span><span class="citation-popover-snippet">2024 financial results</span></span></span>
 
-Vinyl’s revival tells a related story. Its appeal is not that it is more convenient than streaming; it is precisely the opposite. It is tactile, collectible and slow. In the United States, RIAA reported that 2024 recorded music revenue rose to US$17.7 billion, with paid streaming subscriptions passing 100 million and vinyl continuing a long growth run. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024Year End Revenue Report</span><span class="citation-popover-snippet">RIAA 2024Year End Revenue Report</span></span></span> Physical formats now work best when they offer fans something streaming cannot: artwork, scarcity, ritual, sound-system culture, signed editions, deluxe packaging or a sense of belonging to an artist’s world.
+Vinyl’s revival tells a related story. Its appeal is not that it is more convenient than streaming; it is precisely the opposite. It is tactile, collectible and slow. In the United States, RIAA reported that 2024 recorded music revenue rose to US$17.7 billion, with paid streaming subscriptions passing 100 million and vinyl continuing a long growth run.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024Year End Revenue Report</span><span class="citation-popover-snippet">RIAA 2024Year End Revenue Report</span></span></span> Physical formats now work best when they offer fans something streaming cannot: artwork, scarcity, ritual, sound-system culture, signed editions, deluxe packaging or a sense of belonging to an artist’s world.
 
 <img src="{{ "/assets/images/music_3a01be-Illustration-2-dark.svg" | relative_url }}" alt="Music 3 A01 Be illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fairness debate behind the numbers
 
 The central tension in music is that the industry can grow while many musicians still feel economically insecure. A rising market does not automatically mean fair distribution. Money may pass first through platforms, labels, publishers, distributors, collecting societies and contracts before it reaches the people who wrote, performed or produced the music.
 
-The UK has been one of the clearest public arenas for this debate. Parliament’s inquiry into the economics of music streaming called for a “complete reset” of the streaming market in 2021, and government work has continued through transparency and creator remuneration initiatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">UK Parliament Committees Economics of music streaming: follow-up</span><span class="citation-popover-snippet">UK Parliament Committees Economics of music streaming: follow-up</span></span></span> In July 2025, the UK government said major record companies had agreed voluntary measures intended to improve remuneration outcomes for UK music creators, including commitments from the UK divisions of Universal, Sony and Warner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Creator Remuneration From Music Streaming Label Led Principles</span><span class="citation-popover-snippet">Creator Remuneration From Music Streaming Label Led Principles</span></span></span>
+The UK has been one of the clearest public arenas for this debate. Parliament’s inquiry into the economics of music streaming called for a “complete reset” of the streaming market in 2021, and government work has continued through transparency and creator remuneration initiatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-title">UK Parliament Committees Economics of music streaming: follow-up</span><span class="citation-popover-snippet">UK Parliament Committees Economics of music streaming: follow-up</span></span></span> In July 2025, the UK government said major record companies had agreed voluntary measures intended to improve remuneration outcomes for UK music creators, including commitments from the UK divisions of Universal, Sony and Warner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Creator Remuneration From Music Streaming Label Led Principles</span><span class="citation-popover-snippet">Creator Remuneration From Music Streaming Label Led Principles</span></span></span>
 
-There is also a practical data problem. Royalties depend on accurate metadata: who wrote the song, who performed it, who owns what share, where it was used and under which licence. When credits are incomplete or setlists are missing, money can be delayed, misallocated or placed into pools for later distribution. The Guardian reported concerns in 2025 that UK songwriters may have missed royalties from more than 100,000 gigs because of missing setlist data, showing how fairness can depend on administrative plumbing as much as headline market growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There is also a practical data problem. Royalties depend on accurate metadata: who wrote the song, who performed it, who owns what share, where it was used and under which licence. When credits are incomplete or setlists are missing, money can be delayed, misallocated or placed into pools for later distribution. The Guardian reported concerns in 2025 that UK songwriters may have missed royalties from more than 100,000 gigs because of missing setlist data, showing how fairness can depend on administrative plumbing as much as headline market growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R0JKCYZ8hng" title="How playing an instrument benefits your brain - Anita Collins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R0JKCYZ8hng" target="_blank" rel="noopener noreferrer">How playing an instrument benefits your brain - Anita Collins</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 14.7M &middot; Uploaded: July 2014 &middot; Length: 4 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R0JKCYZ8hng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R0JKCYZ8hng">Open on YouTube</a></p></div></div></div>
 
@@ -484,9 +484,9 @@ There is also a practical data problem. Royalties depend on accurate metadata: w
 
 Artificial intelligence has introduced two connected questions. First, should AI companies be allowed to train systems on copyrighted music without permission or payment? Second, how should platforms, labels and collecting societies treat music generated partly or wholly by machines?
 
-The issue is not simply whether AI-made music can sound convincing. It is about substitution, consent and market flooding. UNESCO warned in 2026 that creators could face projected global revenue losses of up to 24% by 2028 as digital transformation and AI reshape cultural markets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/creators-face-projected-global-revenue-losses-24-2028-new-unesco-report-shows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">creators face projected global revenue losses 24 2028 new unesco report shows</span><span class="citation-popover-snippet">creators face projected global revenue losses 24 2028 new unesco report shows</span></span></span> A separate UNESCO-linked report on artificial intelligence and culture cited projections that music sector workers could lose nearly a quarter of their income to generative AI by 2028. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/CULTAI_Report%20of%20the%20Independent%20Expert%20Group%20on%20Artificial%20Intelligence%20and%20Culture%20%28final%20online%20version%29%201.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">Artificial Intelligence and Culture</span><span class="citation-popover-snippet">Artificial Intelligence and Culture</span></span></span>
+The issue is not simply whether AI-made music can sound convincing. It is about substitution, consent and market flooding. UNESCO warned in 2026 that creators could face projected global revenue losses of up to 24% by 2028 as digital transformation and AI reshape cultural markets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/creators-face-projected-global-revenue-losses-24-2028-new-unesco-report-shows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">creators face projected global revenue losses 24 2028 new unesco report shows</span><span class="citation-popover-snippet">creators face projected global revenue losses 24 2028 new unesco report shows</span></span></span> A separate UNESCO-linked report on artificial intelligence and culture cited projections that music sector workers could lose nearly a quarter of their income to generative AI by 2028.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/CULTAI_Report%20of%20the%20Independent%20Expert%20Group%20on%20Artificial%20Intelligence%20and%20Culture%20%28final%20online%20version%29%201.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">Artificial Intelligence and Culture</span><span class="citation-popover-snippet">Artificial Intelligence and Culture</span></span></span>
 
-Streaming fraud makes the concern more concrete. The Guardian reported in 2025 that Deezer found up to 70% of streams of AI-generated music on its platform were fraudulent, even though AI-generated tracks represented a small share of total streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That matters because streaming royalties are pooled and divided: if fraudulent or low-effort tracks capture attention or royalty share, legitimate creators can lose income. AI may become a useful tool for composition, production, restoration and accessibility, but the music sector is still negotiating the boundary between assistance and replacement.
+Streaming fraud makes the concern more concrete. The Guardian reported in 2025 that Deezer found up to 70% of streams of AI-generated music on its platform were fraudulent, even though AI-generated tracks represented a small share of total streams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That matters because streaming royalties are pooled and divided: if fraudulent or low-effort tracks capture attention or royalty share, legitimate creators can lose income. AI may become a useful tool for composition, production, restoration and accessibility, but the music sector is still negotiating the boundary between assistance and replacement.
 
 <img src="{{ "/assets/images/music_3a01be-Illustration-3-dark.svg" | relative_url }}" alt="Music 3 A01 Be illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to understand music today
@@ -500,152 +500,152 @@ Music remains powerful because it does what data cannot fully explain: it turns 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s19Fr-_WaXo" title="How Music Affects Your Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s19Fr-_WaXo" target="_blank" rel="noopener noreferrer">How Music Affects Your Brain</a></p><p class="youtube-embed-meta">Channel: BuzzFeedVideo &middot; Views: 762.4K &middot; Uploaded: February 2017 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s19Fr-_WaXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s19Fr-_WaXo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Music, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Music, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UK streaming inquiry guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UK+streaming+inquiry+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UK streaming inquiry guide</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UK+streaming+inquiry+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">IFPI global music report books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=IFPI+global+music+report+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">IFPI global music report books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=IFPI+global+music+report+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">IFPI global music report guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=IFPI+global+music+report+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">IFPI global music report guide</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=IFPI+global+music+report+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=music-3a01be-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="music-3a01be-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ Music remains powerful because it does what data cannot fully explain: it turns 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ Music remains powerful because it does what data cannot fully explain: it turns 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ Music remains powerful because it does what data cannot fully explain: it turns 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ Music remains powerful because it does what data cannot fully explain: it turns 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ Music remains powerful because it does what data cannot fully explain: it turns 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -851,219 +851,219 @@ Music remains powerful because it does what data cannot fully explain: it turns 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</p></details>
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</p></details>
    Published: March 18, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — Today, Spotify accounts for roughly 30% o...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — Today, Spotify accounts for roughly 30% o...</p></details>
    Published: January 28, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/</a>  
+   Link:<a href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gema.de  
-   Link: <a href="https://www.gema.de/de/w/cisac-global-collections-report-2025-creators-royalties-powered-by-digital-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.gema.de/de/w/cisac-global-collections-report-2025-creators-royalties-powered-by-digital-growth</a>  
+   Link:<a href="https://www.gema.de/de/w/cisac-global-collections-report-2025-creators-royalties-powered-by-digital-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.gema.de/de/w/cisac-global-collections-report-2025-creators-royalties-powered-by-digital-growth</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: riaa.com  
    Title: RIAA 2024Year End Revenue Report  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: riaa.com  
    Title: 2024 year end music industry revenue report riaa  
-   Link: <a href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/</a>  
+   Link:<a href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: committees.parliament.uk  
    Title: UK Parliament Committees Economics of music streaming: follow-up  
-   Link: <a href="https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/</a>  
+   Link:<a href="https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: Creator Remuneration From Music Streaming Label Led Principles  
-   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unesco.org  
    Title: creators face projected global revenue losses 24 2028 new unesco report shows  
-   Link: <a href="https://www.unesco.org/en/articles/creators-face-projected-global-revenue-losses-24-2028-new-unesco-report-shows" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/creators-face-projected-global-revenue-losses-24-2028-new-unesco-report-shows</a>  
+   Link:<a href="https://www.unesco.org/en/articles/creators-face-projected-global-revenue-losses-24-2028-new-unesco-report-shows" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/creators-face-projected-global-revenue-losses-24-2028-new-unesco-report-shows</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
    Title: Artificial Intelligence and Culture  
-   Link: <a href="https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/CULTAI_Report%20of%20the%20Independent%20Expert%20Group%20on%20Artificial%20Intelligence%20and%20Culture%20%28final%20online%20version%29%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/CULTAI_Report%20of%20the%20Independent%20Expert%20Group%20on%20Artificial%20Intelligence%20and%20Culture%20%28final%20online%20version%29%201.pdf</a>  
+   Link:<a href="https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/CULTAI_Report%20of%20the%20Independent%20Expert%20Group%20on%20Artificial%20Intelligence%20and%20Culture%20%28final%20online%20version%29%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/CULTAI_Report%20of%20the%20Independent%20Expert%20Group%20on%20Artificial%20Intelligence%20and%20Culture%20%28final%20online%20version%29%201.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/147767/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/147767/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/147767/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/147767/pdf/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cisac.org  
    Title: cisac global collections report 2025  
-   Link: <a href="https://www.cisac.org/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/cisac-global-collections-report-2025</a>  
+   Link:<a href="https://www.cisac.org/cisac-global-collections-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/cisac-global-collections-report-2025</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cisac.org  
    Title: prs music expands reach royalties across industry  
-   Link: <a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
+   Link:<a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cisac.org  
-   Link: <a href="https://www.cisac.org/home" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/home</a>  
+   Link:<a href="https://www.cisac.org/home" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/home</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: members.cisac.org  
    Title: Download File Search.do  
-   Link: <a href="https://members.cisac.org/CisacPortal/cisacDownloadFileSearch.do?docId=45486&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://members.cisac.org/CisacPortal/cisacDownloadFileSearch.do?docId=45486&amp;lang=en</a>  
+   Link:<a href="https://members.cisac.org/CisacPortal/cisacDownloadFileSearch.do?docId=45486&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://members.cisac.org/CisacPortal/cisacDownloadFileSearch.do?docId=45486&amp;lang=en</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: riaa.com  
    Title: 2024 year end music industry revenue report riaa  
-   Link: <a href="https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/</a>  
+   Link:<a href="https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: riaa.com  
    Title: RIAA 2024 Year End US Market [Latin Music](&#123;&#123; 'latin-music/' | relative_url &#125;&#125;) Revenue Report  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
+   Link:<a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: midiaresearch.com  
    Title: recorded music market 2024 362 billion up 65  
-   Link: <a href="https://www.midiaresearch.com/blog/recorded-music-market-2024-362-billion-up-65" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/recorded-music-market-2024-362-billion-up-65</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchRecorded music market 2024: $36.2 billion, up 6.5%March 13, 2025 — 14 Mar 2025 — Global recorded music growth has oscillate...</p></details>
+   Link:<a href="https://www.midiaresearch.com/blog/recorded-music-market-2024-362-billion-up-65" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/recorded-music-market-2024-362-billion-up-65</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchRecorded music market 2024: $36.2 billion, up 6.5%March 13, 2025 — 14 Mar 2025 — Global recorded music growth has oscillate...</p></details>
    Published: March 13, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: prsformusic.com  
    Title: 2024 financial results  
-   Link: <a href="https://www.prsformusic.com/about-us/track-record/2024-financial-results" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/about-us/track-record/2024-financial-results</a>  
+   Link:<a href="https://www.prsformusic.com/about-us/track-record/2024-financial-results" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/about-us/track-record/2024-financial-results</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report</a>  
+   Link:<a href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/prs-for-music-paid-out-1-3bn-to-songwriters-composers-and-publishers-in-2024-up-8-1-yoy/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: musicindustryblog.wordpress.com  
    Title: midia research  
-   Link: <a href="https://musicindustryblog.wordpress.com/category/midia-research/" target="_blank" rel="noopener noreferrer nofollow">https://musicindustryblog.wordpress.com/category/midia-research/</a>  
+   Link:<a href="https://musicindustryblog.wordpress.com/category/midia-research/" target="_blank" rel="noopener noreferrer nofollow">https://musicindustryblog.wordpress.com/category/midia-research/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: prsformusic.com  
    Title: prs for music 2024 financial results royalties  
-   Link: <a href="https://www.prsformusic.com/m-magazine/business-and-money/prs-for-music-2024-financial-results-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/business-and-money/prs-for-music-2024-financial-results-royalties</a>  
+   Link:<a href="https://www.prsformusic.com/m-magazine/business-and-money/prs-for-music-2024-financial-results-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/business-and-money/prs-for-music-2024-financial-results-royalties</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: prsformusic.com  
    Title: prs annual report and financial statements 2024.ashx  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/corporate/financials/2024/prs-annual-report-and-financial-statements-2024.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/corporate/financials/2024/prs-annual-report-and-financial-statements-2024.ashx</a>  
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/corporate/financials/2024/prs-annual-report-and-financial-statements-2024.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/corporate/financials/2024/prs-annual-report-and-financial-statements-2024.ashx</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/about-us/track-record" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/about-us/track-record</a>  
+   Link:<a href="https://www.prsformusic.com/about-us/track-record" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/about-us/track-record</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/international-authors-forum_creators-face-projected-global-revenue-losses-activity-7434572322549805056-UsiT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/international-authors-forum_creators-face-projected-global-revenue-losses-activity-7434572322549805056-UsiT</a>  
+   Link:<a href="https://www.linkedin.com/posts/international-authors-forum_creators-face-projected-global-revenue-losses-activity-7434572322549805056-UsiT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/international-authors-forum_creators-face-projected-global-revenue-losses-activity-7434572322549805056-UsiT</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scribd.com  
    Title: MIDiA Research 2024 2031 Global Music Forecasts  
-   Link: <a href="https://www.scribd.com/document/795517500/MIDiA-Research-2024-2031-Global-Music-Forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/795517500/MIDiA-Research-2024-2031-Global-Music-Forecasts</a>  
+   Link:<a href="https://www.scribd.com/document/795517500/MIDiA-Research-2024-2031-Global-Music-Forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/795517500/MIDiA-Research-2024-2031-Global-Music-Forecasts</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: sjii.es  
-   Link: <a href="https://sjii.es/index.php/journal/article/download/561/594/537" target="_blank" rel="noopener noreferrer nofollow">https://sjii.es/index.php/journal/article/download/561/594/537</a>  
+   Link:<a href="https://sjii.es/index.php/journal/article/download/561/594/537" target="_blank" rel="noopener noreferrer nofollow">https://sjii.es/index.php/journal/article/download/561/594/537</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: midiaresearch.com  
-   Link: <a href="https://www.midiaresearch.com/search/market%20share" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/search/market%20share</a>  
+   Link:<a href="https://www.midiaresearch.com/search/market%20share" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/search/market%20share</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: midiaresearch.com  
    Title: equitable remuneration [artist income](&#123;&#123; 'artist-income/' | relative_url &#125;&#125;) and unintended consequences  
-   Link: <a href="https://www.midiaresearch.com/blog/equitable-remuneration-artist-income-and-unintended-consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/equitable-remuneration-artist-income-and-unintended-consequences</a>  
+   Link:<a href="https://www.midiaresearch.com/blog/equitable-remuneration-artist-income-and-unintended-consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/equitable-remuneration-artist-income-and-unintended-consequences</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: GOV.UK  
    Title: The government's work on music streaming  
-   Link: <a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the government&#x27;s ongoing work addressing key issues identified by the DCMS Select Committee&#x27;s Inquiry into the Economics of Mu...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the government&#x27;s ongoing work addressing key issues identified by the DCMS Select Committee&#x27;s Inquiry into the Economics of Mu...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: How Music Influences our Emotions, Feelings, and Behaviors  
-   Link: <a href="https://www.youtube.com/watch?v=jPDKi-i618U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jPDKi-i618U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How music affects the brain and emotion psychology How Music Affects The Brain And Your Emotions ICONIQ Psychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jPDKi-i618U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jPDKi-i618U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How music affects the brain and emotion psychology How Music Affects The Brain And Your Emotions ICONIQ Psychology...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-rose-6-5-to-36-2bn-in-2024-says-midia-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/global-recorded-music-revenues-rose-6-5-to-36-2bn-in-2024-says-midia-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideGlobal recorded music revenues rose 6.5% to $36.2bn in...13 Mar 2025 — According to MIDiA, Streaming revenue gre...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-rose-6-5-to-36-2bn-in-2024-says-midia-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/global-recorded-music-revenues-rose-6-5-to-36-2bn-in-2024-says-midia-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideGlobal recorded music revenues rose 6.5% to $36.2bn in...13 Mar 2025 — According to MIDiA, Streaming revenue gre...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: How playing an instrument benefits your brain  
-   Link: <a href="https://www.youtube.com/watch?v=R0JKCYZ8hng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R0JKCYZ8hng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Influences our Emotions, Feelings, and Behaviors...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R0JKCYZ8hng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R0JKCYZ8hng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Influences our Emotions, Feelings, and Behaviors...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
    Title: ai is transforming cultural and creative industries but many cultural profession  
-   Link: <a href="https://www.facebook.com/unesco/posts/ai-is-transforming-cultural-and-creative-industries-but-many-cultural-profession/1358021503040061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/ai-is-transforming-cultural-and-creative-industries-but-many-cultural-profession/1358021503040061/</a>  
+   Link:<a href="https://www.facebook.com/unesco/posts/ai-is-transforming-cultural-and-creative-industries-but-many-cultural-profession/1358021503040061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/ai-is-transforming-cultural-and-creative-industries-but-many-cultural-profession/1358021503040061/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DU-cBt-j7Gb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU-cBt-j7Gb/</a>  
+   Link:<a href="https://www.instagram.com/p/DU-cBt-j7Gb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU-cBt-j7Gb/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: mpaonline.org.uk  
-   Link: <a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
+   Link:<a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: teosto.fi  
-   Link: <a href="https://www.teosto.fi/wp-content/uploads/2025/11/CISAC-GlobalCollectionsReport2025-MUSICHIGHLIGHTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teosto.fi/wp-content/uploads/2025/11/CISAC-GlobalCollectionsReport2025-MUSICHIGHLIGHTS.pdf</a>  
+   Link:<a href="https://www.teosto.fi/wp-content/uploads/2025/11/CISAC-GlobalCollectionsReport2025-MUSICHIGHLIGHTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teosto.fi/wp-content/uploads/2025/11/CISAC-GlobalCollectionsReport2025-MUSICHIGHLIGHTS.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3</a>  
+   Link:<a href="https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: recordoftheday.com  
-   Link: <a href="https://www.recordoftheday.com/on-the-move/news-press/new-generation-of-british-artists-helped-uk-recorded-music-market-in-2025-surpass-15-billion-in-annual-revenue-for-the-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/on-the-move/news-press/new-generation-of-british-artists-helped-uk-recorded-music-market-in-2025-surpass-15-billion-in-annual-revenue-for-the-first-time</a>
+   Link:<a href="https://www.recordoftheday.com/on-the-move/news-press/new-generation-of-british-artists-helped-uk-recorded-music-market-in-2025-surpass-15-billion-in-annual-revenue-for-the-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/on-the-move/news-press/new-generation-of-british-artists-helped-uk-recorded-music-market-in-2025-surpass-15-billion-in-annual-revenue-for-the-first-time</a>

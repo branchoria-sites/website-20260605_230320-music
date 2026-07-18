@@ -303,197 +303,197 @@ Although less extensively explored than cultural exposure, **age and development
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-3-dark.svg" | relative_url }}" alt="Cultural Context illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-Across cultures and listener groups, emotional interpretations of major and minor chords are not predetermined by the acoustic properties alone but are deeply intertwined with **cultural familiarity, exposure to specific musical traditions, and individual musical experience**. Western associations of major with positive emotion and minor with negative emotion reflect a learned convention within a tonal system rather than a universal perceptual response. While some aspects of chord perception — such as basic discrimination between consonance and dissonance — may be partly rooted in psychoacoustic processing, the emotional valence attributed to specific harmonic qualities emerges largely from cultural context and listening history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension &#124; Scienti...</span></span></span>
+Across cultures and listener groups, emotional interpretations of major and minor chords are not predetermined by the acoustic properties alone but are deeply intertwined with **cultural familiarity, exposure to specific musical traditions, and individual musical experience**. Western associations of major with positive emotion and minor with negative emotion reflect a learned convention within a tonal system rather than a universal perceptual response. While some aspects of chord perception — such as basic discrimination between consonance and dissonance — may be partly rooted in psychoacoustic processing, the emotional valence attributed to specific harmonic qualities emerges largely from cultural context and listening history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension &#124; Scienti...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Major and Minor Chords Feel Different Across Cultures. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Major and Minor Chords Feel Different Across Cultures. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Emphasizes the importance of cultural context in musical meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes the importance of cultural context in musical meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World in Six Songs by Daniel J Levitin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8356122-M.jpg" alt="Cover for The World in Six Songs by Daniel J Levitin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World in Six Songs by Daniel J Levitin">The World in Six Songs by Daniel J Levitin</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World in Six Songs by Daniel J Levitin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8356122-M.jpg" alt="Cover for The World in Six Songs by Daniel J Levitin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World in Six Songs by Daniel J Levitin">The World in Six Songs by Daniel J Levitin</a>
+</h4>
+<p class="fr-book-author">By Daniel J Levitin</p>
         
-        <p class="fr-book-desc">First published 2008.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, Language, and the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1126238-M.jpg" alt="Cover for Music, Language, and the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, Language, and the Brain">Music, Language, and the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Aniruddh D. Patel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, Language, and the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1126238-M.jpg" alt="Cover for Music, Language, and the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, Language, and the Brain">Music, Language, and the Brain</a>
+</h4>
+<p class="fr-book-author">By Aniruddh D. Patel</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Auditory perception, Cognitive neuroscience, Language acquisition, Music, Neurobiology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Auditory perception, Cognitive neuroscience, Language acquisition, Music, Neurobiology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain+Aniruddh+D.+Patel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
-        </h4>
-        <p class="fr-book-author">By David Huron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
+</h4>
+<p class="fr-book-author">By David Huron</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World in Six Songs by Daniel J Levitin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, Language, and the Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+in+Six+Songs+by+Daniel+J+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World in Six Songs by Daniel J Levitin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+Language%2C+and+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, Language, and the Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present"><img src="https://i.ebayimg.com/images/g/-dMAAOSw71RkEuzW/s-l225.jpg" alt="Listing image for Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present"><img src="https://i.ebayimg.com/images/g/-dMAAOSw71RkEuzW/s-l225.jpg" alt="Listing image for Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">Mandolin Chord Chart Poster, Theory Poster, Birthday Christmas Gift Present</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="https://i.ebayimg.com/images/g/N4AAAOSwp09hn6kk/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="https://i.ebayimg.com/images/g/N4AAAOSwp09hn6kk/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="https://i.ebayimg.com/images/g/4H8AAOSw5qNhsgaV/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="https://i.ebayimg.com/images/g/4H8AAOSw5qNhsgaV/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart"><img src="https://i.ebayimg.com/images/g/~CkAAOSwHwNhpP7g/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart"><img src="https://i.ebayimg.com/images/g/~CkAAOSwHwNhpP7g/s-l225.jpg" alt="Listing image for The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Learn to Play Piano &amp; Music Theory Chord/Scale Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster" data-ebay-reference="why-major-and-minor-chords-feel-different-across-cultures-music-theory-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ Across cultures and listener groups, emotional interpretations of major and mino
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ Across cultures and listener groups, emotional interpretations of major and mino
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ Across cultures and listener groups, emotional interpretations of major and mino
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ Across cultures and listener groups, emotional interpretations of major and mino
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ Across cultures and listener groups, emotional interpretations of major and mino
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,94 +699,94 @@ Across cultures and listener groups, emotional interpretations of major and mino
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-65615-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension | Scienti...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-65615-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural familiarity and musical expertise impact the pleasantness of consonance/dissonance but not its perceived tension | Scienti...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/nature18635" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nature18635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indifference to dissonance in native Amazonians reveals cultural variation in music perception | Nature...</p></details>
+   Link:<a href="https://www.nature.com/articles/nature18635" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nature18635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indifference to dissonance in native Amazonians reveals cultural variation in music perception | Nature...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional experience of major and minor chords - ScienceDirectMarch 1, 2025...</p></details>
    Published: March 1, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The major-minor mode dichotomy in music perception  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064524001672</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The major-minor mode dichotomy in music perception - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064524001672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The major-minor mode dichotomy in music perception - ScienceDirect...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harmonic organisation conveys both universal and [culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;)-specific cues for emotional expression in music | PLOS OneJanuary 13, 2021...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0244964</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harmonic organisation conveys both universal and [culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;)-specific cues for emotional expression in music | PLOS OneJanuary 13, 2021...</p></details>
    Published: January 13, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1571064522000665" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064522000665</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consonance and dissonance perception. A critical review of the historical sources, multidisciplinary findings, and main hypo...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1571064522000665" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064522000665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consonance and dissonance perception. A critical review of the historical sources, multidisciplinary findings, and main hypo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: The preattentive processing of major vs  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>minor chords in the human brain: An event-related potential study - ScienceDirectJanuary 10, 2011 — NEUROSCIENCE LETTERS Volume 487, Issu...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0304394010014291</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>minor chords in the human brain: An event-related potential study - ScienceDirectJanuary 10, 2011 — NEUROSCIENCE LETTERS Volume 487, Issu...</p></details>
    Published: January 10, 2011  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pure.au.dk  
-   Link: <a href="https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aarhus UniversityEMOTION PROCESSING OF MAJOR, MINOR, AND DISSONANT CHORDS: A FUNCTIONAL MAGNETIC RESONANCE IMAGING STUDY. * Karen Johanne...</p></details>
+   Link:<a href="https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/emotion-processing-of-major-minor-and-dissonant-chords-a-function/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aarhus UniversityEMOTION PROCESSING OF MAJOR, MINOR, AND DISSONANT CHORDS: A FUNCTIONAL MAGNETIC RESONANCE IMAGING STUDY. * Karen Johanne...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.au.dk  
-   Link: <a href="https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - Aarhus UniversitetMarch 1, 2003 — EMOTIONAL CONNOTATION...</p></details>
+   Link:<a href="https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/da/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - Aarhus UniversitetMarch 1, 2003 — EMOTIONAL CONNOTATION...</p></details>
    Published: March 1, 2003  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pure.au.dk  
-   Link: <a href="https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - Aarhus UniversityMarch 1, 2003 — EMOTIONAL CONNOTATIONS...</p></details>
+   Link:<a href="https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - Aarhus UniversityMarch 1, 2003 — EMOTIONAL CONNOTATIONS...</p></details>
    Published: March 1, 2003  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchportal.helsinki.fi  
-   Link: <a href="https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - University of HelsinkiEMOTIONAL CONNOTATIONS OF MAJOR A...</p></details>
+   Link:<a href="https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/emotional-connotations-of-major-and-minor-musical-chords-in-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>connotations of major and minor musical chords in musically untrained listeners - University of HelsinkiEMOTIONAL CONNOTATIONS OF MAJOR A...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cir.nii.ac.jp  
-   Link: <a href="https://cir.nii.ac.jp/crid/1360298765114259200" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360298765114259200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Major-Minor and Consonance-Dissonance | CiNii ResearchApril 1, 2017 — NEUROCOGNITION OF MAJOR-MINOR AND CONSONANCE-DISSONANCE DOI PDF...</p></details>
+   Link:<a href="https://cir.nii.ac.jp/crid/1360298765114259200" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360298765114259200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Major-Minor and Consonance-Dissonance | CiNii ResearchApril 1, 2017 — NEUROCOGNITION OF MAJOR-MINOR AND CONSONANCE-DISSONANCE DOI PDF...</p></details>
    Published: April 1, 2017  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32457382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32457382/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2020 May 26;10(1):8693. doi: 10.1038/s41598-020-65615-8. CULTURAL FAMILIARITY AND MUSICAL EXPERTISE IMPACT THE PLEASANTNESS OF CONSONANCE...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32457382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32457382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2020 May 26;10(1):8693. doi: 10.1038/s41598-020-65615-8. CULTURAL FAMILIARITY AND MUSICAL EXPERTISE IMPACT THE PLEASANTNESS OF CONSONANCE...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24957406/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24957406/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2015 Mar;15(1):15-31. doi: 10.3758/s13415-014-0309-4. MUSICAL CHORDS AND EMOTION: MAJOR AND MINOR TRIADS ARE PROCESSED FOR EMOTION David...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24957406/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24957406/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2015 Mar;15(1):15-31. doi: 10.3758/s13415-014-0309-4. MUSICAL CHORDS AND EMOTION: MAJOR AND MINOR TRIADS ARE PROCESSED FOR EMOTION David...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>influences conscious appraisal of, but not automatic aversion to, acoustically rough musical intervals - PMCDecember 5, 2023 — INTRODUCTI...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>influences conscious appraisal of, but not automatic aversion to, acoustically rough musical intervals - PMCDecember 5, 2023 — INTRODUCTI...</p></details>
    Published: December 5, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2008 — 1.3 CHORD CATEGORIZATION Testing these hypotheses requires an experimental design that would directly assess this perce...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3073321/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2008 — 1.3 CHORD CATEGORIZATION Testing these hypotheses requires an experimental design that would directly assess this perce...</p></details>
    Published: July 1, 2008

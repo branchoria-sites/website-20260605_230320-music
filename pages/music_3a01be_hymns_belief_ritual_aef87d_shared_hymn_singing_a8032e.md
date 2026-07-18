@@ -268,7 +268,7 @@ image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singin
 
 ## Introduction
 
-Group hymn singing feels powerful because it turns belief from something held privately into something enacted together. A hymn is not simply a religious text set to music. When a congregation sings the same words, follows the same [rhythm]({{ 'rhythm/' | relative_url }}), and directs [attention]({{ 'attention/' | relative_url }}) toward the same spiritual themes, individuals experience faith as a shared reality rather than a solitary conviction. Research on congregational worship consistently finds that people associate hymn singing with both spiritual experiences and feelings of community, suggesting that the social and religious dimensions reinforce one another rather than operating separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span>
+Group hymn singing feels powerful because it turns belief from something held privately into something enacted together. A hymn is not simply a religious text set to music. When a congregation sings the same words, follows the same [rhythm]({{ 'rhythm/' | relative_url }}), and directs [attention]({{ 'attention/' | relative_url }}) toward the same spiritual themes, individuals experience faith as a shared reality rather than a solitary conviction. Research on congregational worship consistently finds that people associate hymn singing with both spiritual experiences and feelings of community, suggesting that the social and religious dimensions reinforce one another rather than operating separately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e-Illustration-1-dark.svg" | relative_url }}" alt="Shared Singing illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The mechanism is surprisingly concrete. Shared voices, synchronised timing, repeated texts, and collective attention all help create a sense that worshippers are participating in something larger than themselves. This is one reason [hymns]({{ 'hymns/' | relative_url }}) have remained central to many religious traditions even as musical styles have changed.
@@ -279,13 +279,13 @@ Listening to a choir or soloist can be moving, but congregational hymn singing w
 
 In a performance, music is produced by a few and received by many. In a hymn, the distinction between performer and audience largely disappears. Everyone becomes part of the musical event. Each individual voice may be modest, but together they create a sound that no single person could produce alone.
 
-This shift matters psychologically. Rather than observing worship, people help create it. Researchers studying Roman Catholic worship found that congregational singing is strongly associated with both spiritual and social experiences, suggesting that participation itself contributes to the feeling that faith is being lived collectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span>
+This shift matters psychologically. Rather than observing worship, people help create it. Researchers studying Roman Catholic worship found that congregational singing is strongly associated with both spiritual and social experiences, suggesting that participation itself contributes to the feeling that faith is being lived collectively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span>
 
 The words of hymns also gain a different character when spoken collectively through song. Statements such as praise, gratitude, hope, or trust are no longer merely personal declarations. They become communal affirmations voiced by an entire assembly at once.
 
 ## Why Shared Voices Strengthen Belonging
 
-One of the clearest findings from research on group singing is that it promotes social bonding. Studies have shown that singing together can increase feelings of closeness even among people who do not know one another well. In some cases, singing appears to create social connection more rapidly than many other group activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735616667543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsExploring relational and collective bonding in singing...16 Sept 2016 — Although it has been shown that singing together en...</span></span></span>
+One of the clearest findings from research on group singing is that it promotes social bonding. Studies have shown that singing together can increase feelings of closeness even among people who do not know one another well. In some cases, singing appears to create social connection more rapidly than many other group activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735616667543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsExploring relational and collective bonding in singing...16 Sept 2016 — Although it has been shown that singing together en...</span></span></span>
 
 Several mechanisms help explain this effect:
 
@@ -298,7 +298,7 @@ Several mechanisms help explain this effect:
 
 </div>
 
-Researchers at the University of Oxford have found that group singing acts as an unusually effective social “icebreaker”, helping participants form bonds quickly. Studies of community choirs similarly identify social identity and group belonging as major benefits of singing together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ox.ac.uk/research/choir-singing-improves-health-happiness-%E2%80%93-and-perfect-icebreaker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ox.ac.uk">[Oxford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ox.ac.uk</span><span class="citation-popover-snippet">ford UniversityChoir singing improves health, happiness – and is the...Research that reveals that group singing not only helps forge s...</span></span></span>
+Researchers at the University of Oxford have found that group singing acts as an unusually effective social “icebreaker”, helping participants form bonds quickly. Studies of community choirs similarly identify social identity and group belonging as major benefits of singing together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ox.ac.uk/research/choir-singing-improves-health-happiness-%E2%80%93-and-perfect-icebreaker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ox.ac.uk">[Oxford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ox.ac.uk</span><span class="citation-popover-snippet">ford UniversityChoir singing improves health, happiness – and is the...Research that reveals that group singing not only helps forge s...</span></span></span>
 
 Within hymn singing, these social effects are reinforced by shared faith commitments. Congregants are not only making music together; they are expressing common beliefs through that music.
 
@@ -309,7 +309,7 @@ Hymns often involve familiar melodies and texts repeated across weeks, seasons, 
 
 When a congregation sings a well-known hymn, participants usually know what is coming next. The [melody]({{ 'melody/' | relative_url }}), rhythm, and words are anticipated collectively. This shared familiarity reduces the need to focus on technical details and allows attention to settle on the meaning of the text and the act of worship itself.
 
-The result is a form of collective attention. Hundreds of people may be concentrating on the same ideas, images, prayers, or stories at the same moment. Psychologists studying worship music have noted that music can help direct and sustain attention during religious experience, making spiritual reflection feel more immediate and focused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span>
+The result is a form of collective attention. Hundreds of people may be concentrating on the same ideas, images, prayers, or stories at the same moment. Psychologists studying worship music have noted that music can help direct and sustain attention during religious experience, making spiritual reflection feel more immediate and focused.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span>
 
 Because everyone is attending to the same material together, belief becomes publicly embodied rather than remaining internal. Faith is heard, spoken, and reinforced in a communal setting.
 
@@ -319,206 +319,206 @@ An important feature of hymn singing is that it does not erase individual spirit
 
 Each worshipper brings different memories, struggles, hopes, and interpretations to a hymn. Yet the shared act of singing creates a common framework within which those personal experiences can exist. A hymn about trust, for example, may evoke different meanings for different people, but the congregation still sings it together.
 
-Research on congregational singing repeatedly finds that spiritual experiences and feelings of community tend to appear together rather than in opposition. Worshippers often report sensing both a deeper connection with the divine and a stronger connection with fellow congregants during communal singing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers“He Who Sings, Prays Twice”?</span><span class="citation-popover-snippet">Singing in Roman Catholic...by M Wald-Fuhrmann · 2020 · Cited by 15 — These results are discussed in the light of psychological literatu...</span></span></span>
+Research on congregational singing repeatedly finds that spiritual experiences and feelings of community tend to appear together rather than in opposition. Worshippers often report sensing both a deeper connection with the divine and a stronger connection with fellow congregants during communal singing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers“He Who Sings, Prays Twice”?</span><span class="citation-popover-snippet">Singing in Roman Catholic...by M Wald-Fuhrmann · 2020 · Cited by 15 — These results are discussed in the light of psychological literatu...</span></span></span>
 
 This combination helps explain why hymn singing often feels more powerful than private devotion alone. Individuals remain themselves, but they experience themselves as part of a larger body of believers.
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e-Illustration-3-dark.svg" | relative_url }}" alt="Shared Singing illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Hymns Continue to Create Shared Faith
 
-The enduring strength of congregational hymn singing lies in its ability to unite music, belief, and social connection in a single act. Singing together synchronises bodies, focuses attention, reinforces shared meanings, and makes individual voices part of a collective sound. Research across worship and community-singing settings consistently links these experiences to stronger feelings of belonging, cohesion, and shared identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/10069953/7/Pearce_Is%20Group%20Singing%20Special.%20Health%2C%20Well-Being%20and%20Social%20Bonds%20in%20Community-Based%20Adult%20Education%20Classes_AAM.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Is group singing special?</span><span class="citation-popover-snippet">Health, well-being and social...by E Pearce · 2016 · Cited by 124 — Abstract. Evidence demonstrates that group singing improves health a...</span></span></span>
+The enduring strength of congregational hymn singing lies in its ability to unite music, belief, and social connection in a single act. Singing together synchronises bodies, focuses attention, reinforces shared meanings, and makes individual voices part of a collective sound. Research across worship and community-singing settings consistently links these experiences to stronger feelings of belonging, cohesion, and shared identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/10069953/7/Pearce_Is%20Group%20Singing%20Special.%20Health%2C%20Well-Being%20and%20Social%20Bonds%20in%20Community-Based%20Adult%20Education%20Classes_AAM.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Is group singing special?</span><span class="citation-popover-snippet">Health, well-being and social...by E Pearce · 2016 · Cited by 124 — Abstract. Evidence demonstrates that group singing improves health a...</span></span></span>
 
-For many worshippers, this is why a familiar hymn sung by a congregation can feel different from hearing the same music alone. The faith expressed in the words becomes audible in the voices of others, transforming belief from a private conviction into a lived communal experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span>
+For many worshippers, this is why a familiar hymn sung by a congregation can feel different from hearing the same music alone. The faith expressed in the words becomes audible in the voices of others, transforming belief from a private conviction into a lived communal experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Singing Hymns Together Feels So Powerful. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Singing Hymns Together Feels So Powerful. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Study of liturgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10700319-M.jpg" alt="Cover for The Study of liturgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Study of liturgy">The Study of liturgy</a>
-        </h4>
-        <p class="fr-book-author">By Cheslyn Jones, Geoffrey Wainwright et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Study of liturgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10700319-M.jpg" alt="Cover for The Study of liturgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Study of liturgy">The Study of liturgy</a>
+</h4>
+<p class="fr-book-author">By Cheslyn Jones, Geoffrey Wainwright et al.</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: Liturgics, Addresses, essays, lectures, Vroege kerk, Eucharistie, Liturgiek.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: Liturgics, Addresses, essays, lectures, Vroege kerk, Eucharistie, Liturgiek.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sing with understanding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/583384-M.jpg" alt="Cover for Sing with understanding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sing with understanding">Sing with understanding</a>
-        </h4>
-        <p class="fr-book-author">By Harry Eskew, Hugh T. McElrath et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sing with understanding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/583384-M.jpg" alt="Cover for Sing with understanding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sing with understanding">Sing with understanding</a>
+</h4>
+<p class="fr-book-author">By Harry Eskew, Hugh T. McElrath et al.</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Hymns, History and criticism, Music, General, Hymns, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Hymns, History and criticism, Music, General, Hymns, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
-        </h4>
-        <p class="fr-book-author">By William Petersen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
+</h4>
+<p class="fr-book-author">By William Petersen</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Hymns, history and criticism, English Hymns, History and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Hymns, history and criticism, English Hymns, History and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together">Together</a>
-        </h4>
-        <p class="fr-book-author">By Vivek H. Murthy, Francesca Barrie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together">Together</a>
+</h4>
+<p class="fr-book-author">By Vivek H. Murthy, Francesca Barrie</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Loneliness, Mental health, Communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Loneliness, Mental health, Communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Study+of+liturgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Study of liturgy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sing+with+understanding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sing with understanding</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Book of Hymns</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Study+of+liturgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Study of liturgy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sing+with+understanding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sing with understanding</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Book of Hymns</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-singing-hymns-together-feels-so-powerful-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ For many worshippers, this is why a familiar hymn sung by a congregation can fee
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ For many worshippers, this is why a familiar hymn sung by a congregation can fee
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ For many worshippers, this is why a familiar hymn sung by a congregation can fee
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ For many worshippers, this is why a familiar hymn sung by a congregation can fee
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ For many worshippers, this is why a familiar hymn sung by a congregation can fee
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,146 +724,146 @@ For many worshippers, this is why a familiar hymn sung by a congregation can fee
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by E Pearce · 2016 · Cited by 136 — These results indicate that group singing can increase closeness to less familiar individuals rega...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9350452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9350452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Wellbeing: Formulating a Model for Community...by N Hendry · 2022 · Cited by 52 — Research into the benefits of community-based grou...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9350452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9350452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Wellbeing: Formulating a Model for Community...by N Hendry · 2022 · Cited by 52 — Research into the benefits of community-based grou...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9619243/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9619243/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological role of music and attentional control for...by Y Walter · 2022 · Cited by 31 — This study investigated the psycholo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9619243/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9619243/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological role of music and attentional control for...by Y Walter · 2022 · Cited by 31 — This study investigated the psycholo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: frontiersin.org  
    Title: Frontiers“He Who Sings, Prays Twice”?  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in Roman Catholic...by M Wald-Fuhrmann · 2020 · Cited by 15 — These results are discussed in the light of psychological literatu...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in Roman Catholic...by M Wald-Fuhrmann · 2020 · Cited by 15 — These results are discussed in the light of psychological literatu...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/text" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/text</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers[https://www.frontiersin.org/journals/psychology/ar...We](https://www.frontiersin.org/journals/psychology/ar...We) found that people do, to a large degree, associate feelings of community...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/text" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers[https://www.frontiersin.org/journals/psychology/ar...We](https://www.frontiersin.org/journals/psychology/ar...We) found that people do, to a large degree, associate feelings of community...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735616667543" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735616667543</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsExploring relational and collective bonding in singing...16 Sept 2016 — Although it has been shown that singing together en...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0305735616667543" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735616667543</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsExploring relational and collective bonding in singing...16 Sept 2016 — Although it has been shown that singing together en...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ox.ac.uk  
-   Link: <a href="https://www.ox.ac.uk/research/choir-singing-improves-health-happiness-%E2%80%93-and-perfect-icebreaker" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/research/choir-singing-improves-health-happiness-%E2%80%93-and-perfect-icebreaker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford UniversityChoir singing improves health, happiness – and is the...Research that reveals that group singing not only helps forge s...</p></details>
+   Link:<a href="https://www.ox.ac.uk/research/choir-singing-improves-health-happiness-%E2%80%93-and-perfect-icebreaker" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/research/choir-singing-improves-health-happiness-%E2%80%93-and-perfect-icebreaker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford UniversityChoir singing improves health, happiness – and is the...Research that reveals that group singing not only helps forge s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00846724211070858" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00846724211070858</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsExploring the relationship between church worship, social...Research with church congregations has found that participation...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00846724211070858" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00846724211070858</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsExploring the relationship between church worship, social...Research with church congregations has found that participation...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Is group singing special?  
-   Link: <a href="https://discovery.ucl.ac.uk/10069953/7/Pearce_Is%20Group%20Singing%20Special.%20Health%2C%20Well-Being%20and%20Social%20Bonds%20in%20Community-Based%20Adult%20Education%20Classes_AAM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10069953/7/Pearce_Is%20Group%20Singing%20Special.%20Health%2C%20Well-Being%20and%20Social%20Bonds%20in%20Community-Based%20Adult%20Education%20Classes_AAM.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Health, well-being and social...by E Pearce · 2016 · Cited by 124 — Abstract. Evidence demonstrates that group singing improves health a...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10069953/7/Pearce_Is%20Group%20Singing%20Special.%20Health%2C%20Well-Being%20and%20Social%20Bonds%20in%20Community-Based%20Adult%20Education%20Classes_AAM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10069953/7/Pearce_Is%20Group%20Singing%20Special.%20Health%2C%20Well-Being%20and%20Social%20Bonds%20in%20Community-Based%20Adult%20Education%20Classes_AAM.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health, well-being and social...by E Pearce · 2016 · Cited by 124 — Abstract. Evidence demonstrates that group singing improves health a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: etheses.bham.ac.uk  
-   Link: <a href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</p></details>
+   Link:<a href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</p></details>
    Published: November 19, 2014  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: etheses.bham.ac.uk  
-   Link: <a href="https://etheses.bham.ac.uk/5257/" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesHymnody and identity: congregational singing as a construct...by M Roberts · 2014 · Cited by 14 — Consequently, the ai...</p></details>
+   Link:<a href="https://etheses.bham.ac.uk/5257/" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesHymnody and identity: congregational singing as a construct...by M Roberts · 2014 · Cited by 14 — Consequently, the ai...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0040571X241307356" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0040571X241307356</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals&#x27;Sing a song for the peace of everyone&#x27;: sacred music and...Jan 8, 2025 — The topic of this article is sacred music as an i...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0040571X241307356" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0040571X241307356</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals&#x27;Sing a song for the peace of everyone&#x27;: sacred music and...Jan 8, 2025 — The topic of this article is sacred music as an i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/xml/nlm" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/xml/nlm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sings, Prays Twice&amp;#x201D;? Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predicted by Religious and...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/xml/nlm" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/xml/nlm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sings, Prays Twice&amp;#x201D;? Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predicted by Religious and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1690172/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1690172/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Between commerce and care: intimate personalization...by R Sassatelli — As suggested, in Italy most funerals are religious ceremonies, p...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1690172/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1690172/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Between commerce and care: intimate personalization...by R Sassatelli — As suggested, in Italy most funerals are religious ceremonies, p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/subjects/catholic-worship" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/subjects/catholic-worship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic Worship | List of Frontiers open [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) articlesSep 17, 2020 — Singing in Roman Catholic Mass Leads to Spiritual and Social Expe...</p></details>
+   Link:<a href="https://www.frontiersin.org/subjects/catholic-worship" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/subjects/catholic-worship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic Worship | List of Frontiers open [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) articlesSep 17, 2020 — Singing in Roman Catholic Mass Leads to Spiritual and Social Expe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.616499/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.616499/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Functions of Music Making Under Lockdown: A Trans...by R Chiu · 2020 · Cited by 45 — This paper describes how music fulfills two of its...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.616499/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.616499/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Functions of Music Making Under Lockdown: A Trans...by R Chiu · 2020 · Cited by 45 — This paper describes how music fulfills two of its...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philpapers.org  
    Title: Frontiers in Psychology 11.Rea  
-   Link: <a href="https://philpapers.org/rec/WALHWS" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALHWS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melanie Wald-Fuhrmann, Sven Boenneke, Thijs Vroeghby M Wald-Fuhrmann · 2020 · Cited by 15 — Singing in Roman Catholic Mass Leads to Spiri...</p></details>
+   Link:<a href="https://philpapers.org/rec/WALHWS" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALHWS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melanie Wald-Fuhrmann, Sven Boenneke, Thijs Vroeghby M Wald-Fuhrmann · 2020 · Cited by 15 — Singing in Roman Catholic Mass Leads to Spiri...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: culturehive.co.uk  
-   Link: <a href="https://www.culturehive.co.uk/CVIresources/my-essential-reads-the-value-of-group-singing/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturehive.co.uk/CVIresources/my-essential-reads-the-value-of-group-singing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My essential reads: the value of group singingResearch has found that people who participate in group singing experience both [physical](&amp;#123;&amp;#123; &#x27;physical/&#x27; | relative_url &amp;#125;&amp;#125;) an...</p></details>
+   Link:<a href="https://www.culturehive.co.uk/CVIresources/my-essential-reads-the-value-of-group-singing/" target="_blank" rel="noopener noreferrer nofollow">https://www.culturehive.co.uk/CVIresources/my-essential-reads-the-value-of-group-singing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My essential reads: the value of group singingResearch has found that people who participate in group singing experience both [physical](&amp;#123;&amp;#123; &#x27;physical/&#x27; | relative_url &amp;#125;&amp;#125;) an...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uwhr.utah.edu  
-   Link: <a href="https://uwhr.utah.edu/wp-content/uploads/2025/01/crouch-uwhr-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uwhr.utah.edu/wp-content/uploads/2025/01/crouch-uwhr-2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UWH ReviewA Review of Group Singing and Social CohesionWhile all studies demonstrated a positive association between group singing and so...</p></details>
+   Link:<a href="https://uwhr.utah.edu/wp-content/uploads/2025/01/crouch-uwhr-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uwhr.utah.edu/wp-content/uploads/2025/01/crouch-uwhr-2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UWH ReviewA Review of Group Singing and Social CohesionWhile all studies demonstrated a positive association between group singing and so...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4vMAANR7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4vMAANR7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and SpiritualityIn listening to music, we are drawn to dimensions of human experience beyond the material. This collection brings togethe...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4vMAANR7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4vMAANR7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and SpiritualityIn listening to music, we are drawn to dimensions of human experience beyond the material. This collection brings togethe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: storage.googleapis.com  
-   Link: <a href="https://storage.googleapis.com/wzukusers/user-20563976/documents/42521696a28f40c3b22566a839e988d3/Morgan%20Ellis%20October2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/wzukusers/user-20563976/documents/42521696a28f40c3b22566a839e988d3/Morgan%20Ellis%20October2021.pdf</a>  
+   Link:<a href="https://storage.googleapis.com/wzukusers/user-20563976/documents/42521696a28f40c3b22566a839e988d3/Morgan%20Ellis%20October2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/wzukusers/user-20563976/documents/42521696a28f40c3b22566a839e988d3/Morgan%20Ellis%20October2021.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/papers/are-spiritual-experiences-through-music-seen-as-intrinsic-or-gw8vwa9y3b" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/are-spiritual-experiences-through-music-seen-as-intrinsic-or-gw8vwa9y3b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predicted by Religious and Musical Attitudes...</p></details>
+   Link:<a href="https://scispace.com/papers/are-spiritual-experiences-through-music-seen-as-intrinsic-or-gw8vwa9y3b" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/are-spiritual-experiences-through-music-seen-as-intrinsic-or-gw8vwa9y3b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in Roman Catholic Mass Leads to Spiritual and Social Experiences That Are Predicted by Religious and Musical Attitudes...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: churchmusicblog.wordpress.com  
    Title: why sing together 1 neuroscience and the creators intentions  
-   Link: <a href="https://churchmusicblog.wordpress.com/2009/11/21/why-sing-together-1-neuroscience-and-the-creators-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://churchmusicblog.wordpress.com/2009/11/21/why-sing-together-1-neuroscience-and-the-creators-intentions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1: Neuroscience and the Creator&#x27;s IntentionsNov 21, 2009 — Singing together instills in us, in a way that spoken theology and other forms...</p></details>
+   Link:<a href="https://churchmusicblog.wordpress.com/2009/11/21/why-sing-together-1-neuroscience-and-the-creators-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://churchmusicblog.wordpress.com/2009/11/21/why-sing-together-1-neuroscience-and-the-creators-intentions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1: Neuroscience and the Creator&#x27;s IntentionsNov 21, 2009 — Singing together instills in us, in a way that spoken theology and other forms...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: religionunplugged.com  
    Title: voices raised the hymn tradition that defines welsh identity  
-   Link: <a href="https://religionunplugged.com/news/2026/2/24/voices-raised-the-hymn-tradition-that-defines-welsh-identity" target="_blank" rel="noopener noreferrer nofollow">https://religionunplugged.com/news/2026/2/24/voices-raised-the-hymn-tradition-that-defines-welsh-identity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Land Of Song&#x27;: The Hymn Tradition That Defines Welsh...2 Apr 2026 — In Wales, hymn singing is not just for church services. It is part...</p></details>
+   Link:<a href="https://religionunplugged.com/news/2026/2/24/voices-raised-the-hymn-tradition-that-defines-welsh-identity" target="_blank" rel="noopener noreferrer nofollow">https://religionunplugged.com/news/2026/2/24/voices-raised-the-hymn-tradition-that-defines-welsh-identity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Land Of Song&#x27;: The Hymn Tradition That Defines Welsh...2 Apr 2026 — In Wales, hymn singing is not just for church services. It is part...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMC“He Who Sings, Prays Twice”?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in Roman Catholic...by M Wald-Fuhrmann · 2020 · Cited by 15 — We found that people do, to a large degree, associate feelings of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7527438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in Roman Catholic...by M Wald-Fuhrmann · 2020 · Cited by 15 — We found that people do, to a large degree, associate feelings of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gold.ac.uk  
    Title: Goldsmiths, University of London Feeling lonely?  
-   Link: <a href="https://www.gold.ac.uk/news/popchoir/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/popchoir/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in big groups fast-tracks bonding...20 Nov 2015 — For both the small and large singing groups, feeling of social closeness impro...</p></details>
+   Link:<a href="https://www.gold.ac.uk/news/popchoir/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/popchoir/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Singing in big groups fast-tracks bonding...20 Nov 2015 — For both the small and large singing groups, feeling of social closeness impro...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theologyeverywhere.org  
-   Link: <a href="https://theologyeverywhere.org/2024/01/08/let-the-people-sing-the-power-of-hymns-and-songs/" target="_blank" rel="noopener noreferrer nofollow">https://theologyeverywhere.org/2024/01/08/let-the-people-sing-the-power-of-hymns-and-songs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Let the People Sing: The Power of Hymns and Songs8 Jan 2024 — Hymns have the power to shape the faith of individuals and the community...</p></details>
+   Link:<a href="https://theologyeverywhere.org/2024/01/08/let-the-people-sing-the-power-of-hymns-and-songs/" target="_blank" rel="noopener noreferrer nofollow">https://theologyeverywhere.org/2024/01/08/let-the-people-sing-the-power-of-hymns-and-songs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Let the People Sing: The Power of Hymns and Songs8 Jan 2024 — Hymns have the power to shape the faith of individuals and the community...</p></details>

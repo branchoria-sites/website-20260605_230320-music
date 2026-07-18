@@ -501,14 +501,14 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4-overview-social.j
 
 ## Introduction
 
-Rhythm makes music feel physical because it gives the body something to predict, join and share. A beat is not just a sound repeated in time; it is a moving invitation. Listeners tap a foot before deciding to, dancers lock steps to a pulse, crowds clap together, and performers use repetition and surprise to build energy. The mechanism is partly neurological, because rhythm engages auditory and motor systems together, and partly social, because moving in time with other people can create closeness, excitement and a sense of common purpose. Research on beat perception, groove, dance synchrony, live [concerts]({{ 'concerts/' | relative_url }}) and rhythmic auditory stimulation all points to the same core idea: rhythm turns listening into timed bodily [attention]({{ 'attention/' | relative_url }}). It does not move every body in the same way, or mean the same thing in every setting, but it is one of music’s strongest routes from sound to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-48132-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Individual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</span></span></span>
+Rhythm makes music feel physical because it gives the body something to predict, join and share. A beat is not just a sound repeated in time; it is a moving invitation. Listeners tap a foot before deciding to, dancers lock steps to a pulse, crowds clap together, and performers use repetition and surprise to build energy. The mechanism is partly neurological, because rhythm engages auditory and motor systems together, and partly social, because moving in time with other people can create closeness, excitement and a sense of common purpose. Research on beat perception, groove, dance synchrony, live [concerts]({{ 'concerts/' | relative_url }}) and rhythmic auditory stimulation all points to the same core idea: rhythm turns listening into timed bodily [attention]({{ 'attention/' | relative_url }}). It does not move every body in the same way, or mean the same thing in every setting, but it is one of music’s strongest routes from sound to action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-48132-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Individual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-overview.webp" | relative_url }}" alt="Overview image for Rhythm" loading="eager" decoding="sync" fetchpriority="high">
 ## Beat, Pulse and Repetition
 
 A rhythm becomes bodily when the listener can feel a pulse beneath the surface pattern. That pulse may be explicit, as in a kick drum on every main beat, or implied, as in a groove where the strongest sense of timing comes from the relation between bass, drums, handclaps and vocal phrasing. The important point is that the brain is not merely counting sounds after they happen. It is predicting when the next important moment will arrive.
 
-Neuroscience studies help explain why this feels so immediate. Research on beat perception has found activity in motor-related brain [regions]({{ 'regions/' | relative_url }}), including the basal ganglia and supplementary motor area, even when people are only listening rather than moving. This matters because it suggests that hearing a beat and preparing movement are closely linked processes, not separate activities joined only after conscious decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</span></span></span>
+Neuroscience studies help explain why this feels so immediate. Research on beat perception has found activity in motor-related brain [regions]({{ 'regions/' | relative_url }}), including the basal ganglia and supplementary motor area, even when people are only listening rather than moving. This matters because it suggests that hearing a beat and preparing movement are closely linked processes, not separate activities joined only after conscious decision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</span></span></span>
 
 Repetition is the practical foundation. A repeated pulse lets the body settle into timing: walking, nodding, swaying, clapping or dancing can all align with it. Too little repetition and the listener has nothing stable to join; too much unvaried repetition and the rhythm can become flat. Much [dance music]({{ 'dance-music/' | relative_url }}) works by balancing stability with change: the pulse holds the floor steady while fills, syncopations, drops, breaks and accents keep attention alive.
 
@@ -519,7 +519,7 @@ This is why the beat is often felt before it is analysed. A listener does not ne
 
 Some rhythms make people want to move more than others. The word often used for this is “groove”: the pleasurable urge to move with music. Groove is not simply the same as speed, loudness or a perfectly regular beat. A metronome is highly regular, but it does not usually make a room dance. What makes groove powerful is the mix of predictability and tension.
 
-A key study on funk drum patterns found that medium levels of [syncopation]({{ 'syncopation/' | relative_url }}) produced the strongest ratings for both pleasure and wanting to move. Syncopation means that accents fall in places that play against the expected beat. Too little syncopation can feel obvious; too much can make the beat hard to locate. The sweet spot is a rhythm that lets the listener predict the pulse while still being teased by off-beat accents and delayed emphasis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Open source on plos.org.</span></span></span>
+A key study on funk drum patterns found that medium levels of [syncopation]({{ 'syncopation/' | relative_url }}) produced the strongest ratings for both pleasure and wanting to move. Syncopation means that accents fall in places that play against the expected beat. Too little syncopation can feel obvious; too much can make the beat hard to locate. The sweet spot is a rhythm that lets the listener predict the pulse while still being teased by off-beat accents and delayed emphasis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Open source on plos.org.</span></span></span>
 
 This helps explain why a great groove often feels as if it is leaning forward. The body senses where the beat should land, while the music places some events slightly around that expectation. The pleasure comes from being able to recover the pulse, not from being lost. In funk, disco, house, hip-hop, Afrobeats, salsa, drum and bass, rock and pop, that tension can be created in different ways: ghost notes on drums, basslines that anticipate the downbeat, claps that mark a backbeat, or vocals that stretch phrases across the bar.
 
@@ -531,9 +531,9 @@ The same principle also explains why “danceable” does not always mean simple
 
 Rhythm becomes socially powerful when people move together. On a dance floor, at a concert, in a chant, in a procession or in a fitness class, the beat gives separate bodies a shared clock. That shared clock reduces the need for negotiation. People can enter, copy, adjust, anticipate and belong without speaking.
 
-Studies of dance synchrony show why this matters. Research on synchronised dancing has found links between moving together, raised pain thresholds and increased social closeness, with pain threshold often used as an indirect marker associated with endorphin activity. Another study found that synchrony and [physical]({{ 'physical/' | relative_url }}) exertion independently increased bonding measures, suggesting that rhythmic group movement can combine bodily effort with social alignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-title">Synchrony and exertion during dance independently</span><span class="citation-popover-snippet">Synchrony and exertion during dance independently</span></span></span>
+Studies of dance synchrony show why this matters. Research on synchronised dancing has found links between moving together, raised pain thresholds and increased social closeness, with pain threshold often used as an indirect marker associated with endorphin activity. Another study found that synchrony and [physical]({{ 'physical/' | relative_url }}) exertion independently increased bonding measures, suggesting that rhythmic group movement can combine bodily effort with social alignment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-title">Synchrony and exertion during dance independently</span><span class="citation-popover-snippet">Synchrony and exertion during dance independently</span></span></span>
 
-Live music adds another layer because the audience is not only hearing the same rhythm but physically sharing space. A 2023 study of live concerts found evidence of physiological synchrony among audience members, including heart rate, respiration, skin conductance and movement synchrony. This does not mean every person feels exactly the same thing, but it does show that a crowd can become bodily coordinated during shared musical experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Live music adds another layer because the audience is not only hearing the same rhythm but physically sharing space. A 2023 study of live concerts found evidence of physiological synchrony among audience members, including heart rate, respiration, skin conductance and movement synchrony. This does not mean every person feels exactly the same thing, but it does show that a crowd can become bodily coordinated during shared musical experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That coordination helps explain familiar concert behaviours: clapping in time, jumping on a drop, chanting a hook, waving arms together, or surging towards a chorus. The rhythm does not force these actions in a mechanical sense. It creates a timing structure in which they become easy, contagious and meaningful. The result is often more than individual enjoyment multiplied by a crowd; it is a shared physical event.
 
@@ -542,7 +542,7 @@ That coordination helps explain familiar concert behaviours: clapping in time, j
 
 The link between rhythm and movement is not only cultural or emotional. It also has clinical uses. Rhythmic auditory stimulation, often shortened to RAS, uses regular sound cues to support movement, especially gait. In rehabilitation contexts, a beat can act as an external timing guide for walking, stepping and coordination.
 
-Reviews of rhythm- and music-based interventions report that rhythmic cueing has been studied in conditions including Parkinson’s disease, stroke and other neurological movement difficulties. The evidence is not a claim that rhythm is a cure; rather, it suggests that auditory timing can help organise motor output in measurable ways such as stride length, cadence, walking speed and balance in some populations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersMusic and social bonding: “self-other” merging and...by B Tarr · 2014 · Cited by 820 — In this paper we review evidence support...</span></span></span>
+Reviews of rhythm- and music-based interventions report that rhythmic cueing has been studied in conditions including Parkinson’s disease, stroke and other neurological movement difficulties. The evidence is not a claim that rhythm is a cure; rather, it suggests that auditory timing can help organise motor output in measurable ways such as stride length, cadence, walking speed and balance in some populations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersMusic and social bonding: “self-other” merging and...by B Tarr · 2014 · Cited by 820 — In this paper we review evidence support...</span></span></span>
 
 The mechanism is closely related to ordinary musical movement. When a steady beat helps someone tap, walk or dance in time, it is providing predictable temporal information. In rehabilitation, that predictability can be used deliberately: the cue gives the person a target moment for the next step. The beat externalises timing, making movement less dependent on impaired internal control.
 
@@ -558,7 +558,7 @@ This is why rhythm sits at the centre of many collective musical forms. Call-and
 
 Rhythm’s role in memory is also practical for pop. A hook often succeeds because it is not only singable but bodily graspable: a listener can feel the entrance, anticipate the repetition and recognise the shape after only a few hearings. The most effective rhythmic hooks are rarely isolated from melody, [harmony]({{ 'harmony/' | relative_url }}) or timbre, but they often supply the part that lets the song become an action: clapping, pointing, stepping, bouncing, chanting or miming the words.
 
-The MIT Press Reader’s discussion of rhythm notes that repeated sounds and silences support dancing, memory and group singing, and points to examples such as religious chants and military cadence calls. That range is important: rhythm does not belong only to entertainment. It is a tool for coordination, recall and shared attention across many kinds of musical life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thereader.mitpress.mit.edu">[The MIT Press Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thereader.mitpress.mit.edu</span><span class="citation-popover-title">The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives</span><span class="citation-popover-snippet">The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives</span></span></span>
+The MIT Press Reader’s discussion of rhythm notes that repeated sounds and silences support dancing, memory and group singing, and points to examples such as religious chants and military cadence calls. That range is important: rhythm does not belong only to entertainment. It is a tool for coordination, recall and shared attention across many kinds of musical life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thereader.mitpress.mit.edu">[The MIT Press Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thereader.mitpress.mit.edu</span><span class="citation-popover-title">The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives</span><span class="citation-popover-snippet">The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-3-dark.svg" | relative_url }}" alt="Rhythm illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rhythm Changes Meaning by Context
@@ -569,7 +569,7 @@ Tempo is one obvious factor. Fast rhythms can raise arousal, but speed alone doe
 
 This is why rhythm should not be reduced to a universal button that simply “makes people dance”. It offers affordances: possibilities for action. A dance floor encourages visible movement; a concert hall may invite stillness, breath synchrony or small seated movements; a religious or commemorative setting may turn repetition into focus and restraint. The listener’s body still responds, but the response is shaped by learned codes.
 
-Ethnomusicological work on entrainment makes this wider point: rhythmic coordination through music is easy to recognise in examples such as foot tapping, but musical entrainment must be understood within broader biological and social functioning, not treated as a single behaviour with one meaning everywhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicdynamicslab.uconn.edu">[musicdynamicslab.uconn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicdynamicslab.uconn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ethnomusicological work on entrainment makes this wider point: rhythmic coordination through music is easy to recognise in examples such as foot tapping, but musical entrainment must be understood within broader biological and social functioning, not treated as a single behaviour with one meaning everywhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicdynamicslab.uconn.edu">[musicdynamicslab.uconn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicdynamicslab.uconn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fSbrYAwTGkA" title="Brain Rhythms - How Do We Feel The Beat?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer">Brain Rhythms - How Do We Feel The Beat?</a></p><p class="youtube-embed-meta">Channel: BrainFacts.org &middot; Views: 9.6K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fSbrYAwTGkA">Open on YouTube</a></p></div></div></div>
 
@@ -580,194 +580,194 @@ Rhythm shows that music is not only heard in the ears. It is tracked by attentio
 The most memorable point is that rhythm does not merely accompany movement; it organises the possibility of movement. It can make a lone listener nod, a crowd jump, a group chant, a dancer improvise, a patient step more steadily or a room feel briefly united. That is why rhythm is one of music’s most direct mechanisms: it converts sound into anticipation, and anticipation into bodily action.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Rhythm Makes Music Feel Physical. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Rhythm Makes Music Feel Physical. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains how rhythm engages perception, emotion and movement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how rhythm engages perception, emotion and movement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores music&#x27;s effects on the brain and body.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores music&#x27;s effects on the brain and body.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Links rhythm, performance and social participation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links rhythm, performance and social participation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Music">The Power of Music</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Music">The Power of Music</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Examines why rhythm and sound influence behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why rhythm and sound influence behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enamel Pin Badge Set Novelty Metal Brooch Kids Animal Cute Gift - 156 styles"><img src="{{ '/assets/images/marketplace-covers/433dec8eb92a334f03e6.jpg' | relative_url }}" alt="Listing image for Enamel Pin Badge Set Novelty Metal Brooch Kids Animal Cute Gift - 156 styles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Enamel Pin Badge Set Novelty Metal Brooch Kids Animal Cute Gift - 156 styles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enamel Pin Badge Set Novelty Metal Brooch Kids Animal Cute Gift - 156 styles"><img src="{{ '/assets/images/marketplace-covers/433dec8eb92a334f03e6.jpg' | relative_url }}" alt="Listing image for Enamel Pin Badge Set Novelty Metal Brooch Kids Animal Cute Gift - 156 styles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Enamel Pin Badge Set Novelty Metal Brooch Kids Animal Cute Gift - 156 styles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pin Badge Lapel Brooch Metal Enamel Fashion Accessories"><img src="{{ '/assets/images/marketplace-covers/1d34a69150134450ae2a.jpg' | relative_url }}" alt="Listing image for Pin Badge Lapel Brooch Metal Enamel Fashion Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Pin Badge Lapel Brooch Metal Enamel Fashion Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pin Badge Lapel Brooch Metal Enamel Fashion Accessories"><img src="{{ '/assets/images/marketplace-covers/1d34a69150134450ae2a.jpg' | relative_url }}" alt="Listing image for Pin Badge Lapel Brooch Metal Enamel Fashion Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Pin Badge Lapel Brooch Metal Enamel Fashion Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Maiden Enamel Pin Badge Music Badges Rock And Roll Accessories"><img src="{{ '/assets/images/marketplace-covers/787cfdad2129b8c93f0b.jpg' | relative_url }}" alt="Listing image for Iron Maiden Enamel Pin Badge Music Badges Rock And Roll Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Iron Maiden Enamel Pin Badge Music Badges Rock And Roll Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Maiden Enamel Pin Badge Music Badges Rock And Roll Accessories"><img src="{{ '/assets/images/marketplace-covers/787cfdad2129b8c93f0b.jpg' | relative_url }}" alt="Listing image for Iron Maiden Enamel Pin Badge Music Badges Rock And Roll Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Iron Maiden Enamel Pin Badge Music Badges Rock And Roll Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motown Music Enamel Pin Badge Lapel"><img src="{{ '/assets/images/marketplace-covers/0a24f0aa6321301a0795.jpg' | relative_url }}" alt="Listing image for Motown Music Enamel Pin Badge Lapel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Motown Music Enamel Pin Badge Lapel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motown Music Enamel Pin Badge Lapel"><img src="{{ '/assets/images/marketplace-covers/0a24f0aa6321301a0795.jpg' | relative_url }}" alt="Listing image for Motown Music Enamel Pin Badge Lapel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Motown Music Enamel Pin Badge Lapel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: music enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music enamel pin" data-ebay-reference="rhythm-why-rhythm-makes-music-feel-physical-music-music-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -783,7 +783,7 @@ The most memorable point is that rhythm does not merely accompany movement; it o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -803,7 +803,7 @@ The most memorable point is that rhythm does not merely accompany movement; it o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -835,7 +835,7 @@ The most memorable point is that rhythm does not merely accompany movement; it o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -887,7 +887,7 @@ The most memorable point is that rhythm does not merely accompany movement; it o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -932,7 +932,7 @@ The most memorable point is that rhythm does not merely accompany movement; it o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -973,160 +973,160 @@ The most memorable point is that rhythm does not merely accompany movement; it o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-48132-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-48132-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-48132-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-48132-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Individual differences in rhythm perception modulate music...by M Martins · 2023 · Cited by 16 — These findings suggest that audit...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446</a>  
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4985033/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thereader.mitpress.mit.edu  
    Title: The MIT Press Reader The Extraordinary Ways Rhythm Shapes Our Lives  
-   Link: <a href="https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/" target="_blank" rel="noopener noreferrer nofollow">https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/</a>  
+   Link:<a href="https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/" target="_blank" rel="noopener noreferrer nofollow">https://thereader.mitpress.mit.edu/the-extraordinary-ways-rhythm-shapes-our-lives/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: musicdynamicslab.uconn.edu  
-   Link: <a href="https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf</a>  
+   Link:<a href="https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://musicdynamicslab.uconn.edu/wp-content/uploads/sites/433/2016/03/large2004ahedits.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-93948-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-93948-9</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-025-93948-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-93948-9</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-022-11324-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-11324-3</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-022-11324-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-11324-3</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-05952-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-05952-8</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-025-05952-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-05952-8</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&amp;type=printable</a>  
+   Link:<a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0139409&amp;type=printable</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jps.ecnu.edu.cn  
    Title: j.cnki.1671 6981.20250112  
-   Link: <a href="https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112" target="_blank" rel="noopener noreferrer nofollow">https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112</a>  
+   Link:<a href="https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112" target="_blank" rel="noopener noreferrer nofollow">https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250112</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17488212/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17488212/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We predicted that the basal ganglia and supplementary motor area (SMA) would...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMusic and social bonding: “self-other” merging and...by B Tarr · 2014 · Cited by 820 — In this paper we review evidence support...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01096/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMusic and social bonding: “self-other” merging and...by B Tarr · 2014 · Cited by 820 — In this paper we review evidence support...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: royalsocietypublishing.org  
    Title: Synchrony and exertion during dance independently  
-   Link: <a href="https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently</a>  
+   Link:<a href="https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsbl/article/11/10/20150767/87929/Synchrony-and-exertion-during-dance-independently</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26510676/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26510676/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26510676/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26510676/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24740381/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24740381/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24740381/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24740381/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf</a>  
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01034/full</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01111/full</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pianowithjonny.com  
    Title: Rhythm Changes  
-   Link: <a href="https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/</a>  
+   Link:<a href="https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://pianowithjonny.com/piano-lessons/rhythm-changes-a-complete-guide/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Rhythm changes  
-   Link: <a href="https://en.wikipedia.org/wiki/Rhythm_changes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhythm_changes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rhythm_changes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhythm_changes</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rhythm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhythm</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rhythm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhythm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/art/rhythm-music" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/rhythm-music</a>  
+   Link:<a href="https://www.britannica.com/art/rhythm-music" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/rhythm-music</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement</a>  
+   Link:<a href="https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121250267/The_Psychology_of_Music_Rhythm_and_Movement</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness</a>  
+   Link:<a href="https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295864264_Silent_Disco_Dancing_in_synchrony_leads_to_elevated_pain_thresholds_and_social_closeness</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure</a>  
+   Link:<a href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: neuroscience.gsu.edu  
-   Link: <a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
+   Link:<a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: musicandmeaning.net  
-   Link: <a href="https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3" target="_blank" rel="noopener noreferrer nofollow">https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3</a>  
+   Link:<a href="https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3" target="_blank" rel="noopener noreferrer nofollow">https://www.musicandmeaning.net/issues/showArticle.php?artID=8.3</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: physio-pedia.com  
-   Link: <a href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow">https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training</a>  
+   Link:<a href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow">https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496</a>  
+   Link:<a href="https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology</a>  
+   Link:<a href="https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/42789808_In_Time_With_the_Music_The_Concept_of_Entrainment_and_Its_Significance_for_Ethnomusicology</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: mutor-2.github.io  
-   Link: <a href="https://mutor-2.github.io/ScienceOfMusic/units/12/" target="_blank" rel="noopener noreferrer nofollow">https://mutor-2.github.io/ScienceOfMusic/units/12/</a>  
+   Link:<a href="https://mutor-2.github.io/ScienceOfMusic/units/12/" target="_blank" rel="noopener noreferrer nofollow">https://mutor-2.github.io/ScienceOfMusic/units/12/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: lermagazine.com  
-   Link: <a href="https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat" target="_blank" rel="noopener noreferrer nofollow">https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat</a>
+   Link:<a href="https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat" target="_blank" rel="noopener noreferrer nofollow">https://lermagazine.com/article/music-therapy-and-gait-rehab-to-a-different-beat</a>

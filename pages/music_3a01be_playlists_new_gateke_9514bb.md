@@ -504,15 +504,15 @@ image: /assets/images/music_3a01be_playlists_new_gateke_9514bb-overview-social.j
 Playlists became music’s new radio because they now do much of the work radio once did: they organise listening, introduce unfamiliar songs, repeat tracks until they feel familiar, and decide which artists become visible at scale. The difference is that radio usually arranged music by station, format, presenter and time of day, while streaming playlists arrange it by mood, activity, taste profile, editorial judgement and platform data.
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb-overview.webp" | relative_url }}" alt="Overview image for Playlists" loading="eager" decoding="sync" fetchpriority="high">
-That shift matters because playlists are not neutral shelves of songs. They are mechanisms for allocating [attention]({{ 'attention/' | relative_url }}). A placement in a major editorial playlist, a personalised mix, [Discover Weekly]({{ 'discover-weekly/' | relative_url }}), autoplay, radio-style recommendations or a user-made viral playlist can change whether a track becomes part of everyday life or disappears into the catalogue. Streaming has widened access to music, but it has also concentrated discovery inside platform systems that listeners rarely see and artists cannot fully control. Spotify’s own artist guidance distinguishes editorial, personalised, artist-made and fan-made playlists, while noting that personalised playlists use factors such as what a person listens to, when they listen, what they save and what people with similar tastes play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">Types of Spotify playlists</span><span class="citation-popover-snippet">Types of Spotify playlists</span></span></span>
+That shift matters because playlists are not neutral shelves of songs. They are mechanisms for allocating [attention]({{ 'attention/' | relative_url }}). A placement in a major editorial playlist, a personalised mix, [Discover Weekly]({{ 'discover-weekly/' | relative_url }}), autoplay, radio-style recommendations or a user-made viral playlist can change whether a track becomes part of everyday life or disappears into the catalogue. Streaming has widened access to music, but it has also concentrated discovery inside platform systems that listeners rarely see and artists cannot fully control. Spotify’s own artist guidance distinguishes editorial, personalised, artist-made and fan-made playlists, while noting that personalised playlists use factors such as what a person listens to, when they listen, what they save and what people with similar tastes play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">Types of Spotify playlists</span><span class="citation-popover-snippet">Types of Spotify playlists</span></span></span>
 
 ## From station loyalty to mood listening
 
 The old radio habit was often built around a station: breakfast show, drive-time presenter, local signal, chart countdown, specialist late-night programme. Streaming kept the promise of effortless listening, but changed the organising question. Instead of “What station do I trust?” the listener is invited to ask “What am I doing?” or “What mood am I in?” The everyday categories are familiar: focus, gym, commute, dinner, sleep, sad songs, new music, throwbacks, party, [background]({{ 'background/' | relative_url }}) jazz, rainy-day indie, dance anthems.
 
-This is why playlists fit streaming so well. They reduce the burden of choice in a [catalogue]({{ 'catalogue/' | relative_url }}) that is too large to browse manually. A listener may not want to choose an artist while cooking, working or travelling; they may want a musical environment that keeps moving without demanding attention. Research on music listening has long shown that people use music to regulate mood, arousal, identity and social connection, so mood-and-context playlists did not invent functional listening. They industrialised it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3741536/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe psychological functions of music listening</span><span class="citation-popover-snippet">PMCThe psychological functions of music listening</span></span></span>
+This is why playlists fit streaming so well. They reduce the burden of choice in a [catalogue]({{ 'catalogue/' | relative_url }}) that is too large to browse manually. A listener may not want to choose an artist while cooking, working or travelling; they may want a musical environment that keeps moving without demanding attention. Research on music listening has long shown that people use music to regulate mood, arousal, identity and social connection, so mood-and-context playlists did not invent functional listening. They industrialised it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3741536/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe psychological functions of music listening</span><span class="citation-popover-snippet">PMCThe psychological functions of music listening</span></span></span>
 
-The risk is that music becomes easier to use but easier to flatten. A playlist labelled for productivity, sleep or “chill” can detach songs from [albums]({{ 'albums/' | relative_url }}), scenes, histories and artists’ wider bodies of work. David Hesmondhalgh’s critique of streaming [culture]({{ 'culture/' | relative_url }}) identifies recurring concerns that streaming can encourage functional listening, passive background use, fragmented musical experience and narrower discovery. His point is not that streaming ruins music by default, but that playlist-led platforms make some kinds of listening more convenient than others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The risk is that music becomes easier to use but easier to flatten. A playlist labelled for productivity, sleep or “chill” can detach songs from [albums]({{ 'albums/' | relative_url }}), scenes, histories and artists’ wider bodies of work. David Hesmondhalgh’s critique of streaming [culture]({{ 'culture/' | relative_url }}) identifies recurring concerns that streaming can encourage functional listening, passive background use, fragmented musical experience and narrower discovery. His point is not that streaming ruins music by default, but that playlist-led platforms make some kinds of listening more convenient than others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is the key cultural change. Radio used to programme music into the day; playlists programme music into micro-situations. They follow the listener into work, study, exercise, sleep and social media. The playlist becomes less like a show and more like a service layer over life.
 
@@ -520,18 +520,18 @@ That is the key cultural change. Radio used to programme music into the day; pla
 
 A playlist looks ordinary: a title, cover image and sequence of tracks. Its power comes from what sits behind that simple surface. On a streaming platform, a playlist can combine human taste, machine prediction, behavioural data, catalogue priorities and commercial incentives.
 
-Spotify’s own documentation makes the hybrid structure clear. Some playlists are editorial. Some are personalised for each listener. Some are made by artists or fans. For personalised playlists, Spotify says algorithms draw on listening time, saves, similar listeners and other signals; for some personalised playlists, editors select the pool of songs from which algorithms choose for each user. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Playlisting – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Playlisting – Spotify for Artists</span></span></span> Spotify Engineering describes this blend as “algotorial” in practice: flagship editorial brands such as RapCaviar sit alongside algorithmically powered products such as Discover Weekly, Daily Mix and Your Time Capsule, with recommendation systems using audio attributes and co-listening patterns to infer what belongs together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Spotify’s own documentation makes the hybrid structure clear. Some playlists are editorial. Some are personalised for each listener. Some are made by artists or fans. For personalised playlists, Spotify says algorithms draw on listening time, saves, similar listeners and other signals; for some personalised playlists, editors select the pool of songs from which algorithms choose for each user.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Playlisting – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Playlisting – Spotify for Artists</span></span></span> Spotify Engineering describes this blend as “algotorial” in practice: flagship editorial brands such as RapCaviar sit alongside algorithmically powered products such as Discover Weekly, Daily Mix and Your Time Capsule, with recommendation systems using audio attributes and co-listening patterns to infer what belongs together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That blend explains why playlists became the new radio rather than merely replacing mixtapes. They can scale globally, update constantly and personalise the same concept for millions of people at once. A radio station broadcasts one sequence to everyone in range. A streaming platform can offer a playlist that appears to be the same brand while quietly differing by listener, territory, taste profile or recommendation logic.
 
-This also changes what “curation” means. In radio, a programmer might decide what suited a format and schedule. In streaming, curation can mean an editor choosing a pool of songs, an algorithm ranking tracks, a system learning from skips and saves, a label pitching songs, or a platform testing what keeps people listening. Robert Prey’s research on Spotify playlists argues that playlist power cannot be understood only as music recommendation; it sits across music, advertising and finance markets, because playlists help platforms coordinate attention, data and value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This also changes what “curation” means. In radio, a programmer might decide what suited a format and schedule. In streaming, curation can mean an editor choosing a pool of songs, an algorithm ranking tracks, a system learning from skips and saves, a label pitching songs, or a platform testing what keeps people listening. Robert Prey’s research on Spotify playlists argues that playlist power cannot be understood only as music recommendation; it sits across music, advertising and finance markets, because playlists help platforms coordinate attention, data and value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb-Illustration-1-dark.svg" | relative_url }}" alt="Playlists illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Editorial playlists still create prestige
 
 The most visible playlist power is editorial. A placement on a major playlist can act like a stamp of legitimacy: a signal to listeners, managers, labels, journalists, promoters and other platforms that a track is worth noticing. In that sense, editorial playlists inherited part of the old role of radio programmers, magazine critics and television bookers.
 
-This is why artists and teams still chase editorial placements even though algorithmic listening may drive long-term streams. Editorial playlists are legible. They have names, brands and cultural associations. A track appearing on a flagship new-music, rap, dance, indie or genre playlist can be announced, screenshotted and folded into a campaign. Spotify’s artist-facing playlist pages explicitly separate editorial playlists from personalised, artist and fan-made playlists, which shows that platform playlisting is not one single system but a layered hierarchy of visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Playlisting – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Playlisting – Spotify for Artists</span></span></span>
+This is why artists and teams still chase editorial placements even though algorithmic listening may drive long-term streams. Editorial playlists are legible. They have names, brands and cultural associations. A track appearing on a flagship new-music, rap, dance, indie or genre playlist can be announced, screenshotted and folded into a campaign. Spotify’s artist-facing playlist pages explicitly separate editorial playlists from personalised, artist and fan-made playlists, which shows that platform playlisting is not one single system but a layered hierarchy of visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Playlisting – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Playlisting – Spotify for Artists</span></span></span>
 
 Yet editorial power is not identical to old radio power. A radio add often meant repeated exposure at scheduled moments, especially in cars, workplaces and shops. A playlist add may mean prominent placement for some listeners, buried placement for others, or only a short window before the track is moved down or out. The placement is valuable, but it is increasingly entangled with data: early saves, completion rates, skip rates, repeat listening and whether listeners continue after the song.
 
@@ -541,7 +541,7 @@ That makes playlist prestige conditional. Human editors can open a gate, but the
 
 The deeper transformation came from personalised playlists. Radio made discovery feel communal: everyone heard the same hit at roughly the same time. Algorithmic playlists make discovery feel intimate: the platform appears to understand the listener’s private taste.
 
-Discover Weekly is the clearest example. It turned recommendation into a weekly [ritual]({{ 'ritual/' | relative_url }}): a new set of tracks that feel chosen for one person but are generated at vast scale. Spotify’s personalised playlist system uses behavioural signals such as listening habits, saves and similar users; Spotify Engineering adds that recommendation models can analyse audio attributes and which tracks are often listened to together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Discovery Mode – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Discovery Mode – Spotify for Artists</span></span></span> The Verge reported in 2025 that Spotify said Discover Weekly tracks had been streamed more than 100 billion times, while the company added genre buttons so users could steer the playlist more directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Discover Weekly is the clearest example. It turned recommendation into a weekly [ritual]({{ 'ritual/' | relative_url }}): a new set of tracks that feel chosen for one person but are generated at vast scale. Spotify’s personalised playlist system uses behavioural signals such as listening habits, saves and similar users; Spotify Engineering adds that recommendation models can analyse audio attributes and which tracks are often listened to together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Discovery Mode – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Discovery Mode – Spotify for Artists</span></span></span> The Verge reported in 2025 that Spotify said Discover Weekly tracks had been streamed more than 100 billion times, while the company added genre buttons so users could steer the playlist more directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is the radio-like function in its modern form: repeated, low-effort exposure to songs the listener did not choose manually. But the emotional contract is different. The listener is not trusting a presenter or station brand; they are training and being trained by a recommendation system. Every skip, save, replay and playlist add becomes part of a feedback loop.
 
@@ -563,7 +563,7 @@ The downside is that songs may be rewarded for fitting repeatable contexts rathe
 
 Calling playlists “the new radio” is useful, but it can also hide an important difference: radio gatekeeping was visible enough to argue with. Stations had owners, formats, programme directors, DJs, charts, pluggers and regulators. Streaming gatekeeping is distributed across editors, recommendation systems, product design, commercial tools, user behaviour and opaque ranking signals.
 
-Spotify’s Discovery Mode shows why this matters. Spotify presents it as a tool that lets artists and labels identify priority songs; the platform says that signal increases the likelihood of recommendations in personalised playlists, while not guaranteeing placement, and that listener engagement still affects future recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Playlisting – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Playlisting – Spotify for Artists</span></span></span> Critics argue that this creates a pay-for-visibility dynamic because participating rights holders accept a lower promotional royalty rate for eligible streams. The Guardian reported concerns from advocacy groups and industry figures that the system resembles a digital version of payola in spirit, especially because promoted tracks are not clearly labelled to listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Spotify’s Discovery Mode shows why this matters. Spotify presents it as a tool that lets artists and labels identify priority songs; the platform says that signal increases the likelihood of recommendations in personalised playlists, while not guaranteeing placement, and that listener engagement still affects future recommendations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Playlisting – Spotify for Artists</span><span class="citation-popover-snippet">for Artists Playlisting – Spotify for Artists</span></span></span> Critics argue that this creates a pay-for-visibility dynamic because participating rights holders accept a lower promotional royalty rate for eligible streams. The Guardian reported concerns from advocacy groups and industry figures that the system resembles a digital version of payola in spirit, especially because promoted tracks are not clearly labelled to listeners.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The comparison to radio payola should be handled carefully. Discovery Mode is not the same as a DJ secretly taking cash to play a record. It is a platform-designed marketplace feature operating inside recommendation systems. But the ethical anxiety is similar: listeners may not know whether a song is appearing because it best fits their taste, because an editor chose it, because other listeners responded to it, or because a rights holder accepted worse terms to improve its chances.
 
@@ -572,7 +572,7 @@ This opacity changes the bargaining position of artists. In the radio era, artis
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb-Illustration-2-dark.svg" | relative_url }}" alt="Playlists illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Streaming did not kill radio; it absorbed some of radio’s jobs
 
-It would be misleading to say playlists replaced radio entirely. Radio remains a major audio habit, especially for news, companionship, local identity, cars and older listeners. Nielsen’s Q4 2024 report on US ad-supported audio found that radio still accounted for 67% of daily ad-supported audio time, compared with 12% for streaming audio services, with radio particularly strong among people aged 35 and over. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nielsen.com/insights/2025/the-record-q4-audio-listening-trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nielsen.com">[Nielsen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nielsen.com</span><span class="citation-popover-title">The Record: Q4 U.S. audio listening trends &#124; Nielsen</span><span class="citation-popover-snippet">The Record: Q4 U.S. audio listening trends &#124; Nielsen</span></span></span>
+It would be misleading to say playlists replaced radio entirely. Radio remains a major audio habit, especially for news, companionship, local identity, cars and older listeners. Nielsen’s Q4 2024 report on US ad-supported audio found that radio still accounted for 67% of daily ad-supported audio time, compared with 12% for streaming audio services, with radio particularly strong among people aged 35 and over.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nielsen.com/insights/2025/the-record-q4-audio-listening-trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nielsen.com">[Nielsen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nielsen.com</span><span class="citation-popover-title">The Record: Q4 U.S. audio listening trends &#124; Nielsen</span><span class="citation-popover-snippet">The Record: Q4 U.S. audio listening trends &#124; Nielsen</span></span></span>
 
 The better claim is that playlists absorbed some of radio’s music functions. For many streaming listeners, playlists now provide:
 
@@ -595,7 +595,7 @@ For listeners, the benefit is obvious: less friction. Playlists make music easy 
 
 For artists, the benefits are real but uneven. A playlist can put a song in front of people who would never search for that artist. It can generate data, followers, saves and touring opportunities. It can help independent musicians bypass some traditional media bottlenecks. But it can also make careers feel dependent on systems that reward certain sounds, release strategies and engagement patterns.
 
-For platforms, playlists are extraordinarily valuable because they turn music into an interface for retention. A good playlist keeps the listener inside the service. A personalised playlist produces data. A mood playlist creates advertising and subscription contexts. A successful editorial brand gives the platform cultural authority. Prey’s analysis of playlist power is useful here because it asks not only how playlists recommend music, but who they work for across the music, advertising and finance sides of the platform economy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For platforms, playlists are extraordinarily valuable because they turn music into an interface for retention. A good playlist keeps the listener inside the service. A personalised playlist produces data. A mood playlist creates advertising and subscription contexts. A successful editorial brand gives the platform cultural authority. Prey’s analysis of playlist power is useful here because it asks not only how playlists recommend music, but who they work for across the music, advertising and finance sides of the platform economy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is the core critique. Playlists can serve listeners and artists, but they also serve the platform’s need to organise attention. The song is not just a cultural object; it becomes a unit in a system designed to predict, retain and monetise listening.
 
@@ -620,194 +620,194 @@ The best playlists can be generous. They can introduce unfamiliar artists, prese
 The most useful way to understand playlists is therefore not as enemies of music or as miraculous discovery engines. They are gatekeeping machines with pleasures attached. They make listening easier, but they also decide what ease sounds like. They replaced radio’s single broadcast lane with millions of personalised lanes, each shaped by mood, data, editorial judgement and business incentives. That is why playlists are not just how people find music now. They are one of the main ways music becomes familiar, valuable and remembered.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Playlists Became Music&#x27;s New Gatekeepers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Playlists Became Music&#x27;s New Gatekeepers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Explains digital distribution changes that led to streaming dominance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains digital distribution changes that led to streaming dominance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
-        </h4>
-        <p class="fr-book-author">By Glenn McDonald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
+</h4>
+<p class="fr-book-author">By Glenn McDonald</p>
         
-        <p class="fr-book-desc">Explores music discovery, recommendation and streaming behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores music discovery, recommendation and streaming behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Helps explain why curated listening experiences are effective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why curated listening experiences are effective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly examines playlist culture and music gatekeeping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines playlist culture and music gatekeeping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/hwoAAeSwIhJpDP1R/s-l225.jpg" alt="Listing image for DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT"><img src="https://i.ebayimg.com/images/g/hwoAAeSwIhJpDP1R/s-l225.jpg" alt="Listing image for DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">DEFTONES BAND ARTIST ALBUM POSTER COLOUR PALETTE ART MUSIC GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/opkAAeSwA8Zo8OH-/s-l225.jpg" alt="Listing image for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">Drake, Scorpion, Album Art Poster, Print, Music, Tracklist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist"><img src="https://i.ebayimg.com/images/g/opkAAeSwA8Zo8OH-/s-l225.jpg" alt="Listing image for Drake, Scorpion, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">Drake, Scorpion, Album Art Poster, Print, Music, Tracklist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Bands Music Posters Prints Wall Art Home Decor (1)"><img src="https://i.ebayimg.com/images/g/z8EAAeSwO6VqEEk5/s-l225.jpg" alt="Listing image for Rock Bands Music Posters Prints Wall Art Home Decor (1)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Bands Music Posters Prints Wall Art Home Decor (1)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Bands Music Posters Prints Wall Art Home Decor (1)"><img src="https://i.ebayimg.com/images/g/z8EAAeSwO6VqEEk5/s-l225.jpg" alt="Listing image for Rock Bands Music Posters Prints Wall Art Home Decor (1)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Bands Music Posters Prints Wall Art Home Decor (1)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-playlists-became-music-s-new-gatekeepers-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music poster" data-ebay-reference="why-playlists-became-music-s-new-gatekeepers-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -823,7 +823,7 @@ The most useful way to understand playlists is therefore not as enemies of music
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -843,7 +843,7 @@ The most useful way to understand playlists is therefore not as enemies of music
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -875,7 +875,7 @@ The most useful way to understand playlists is therefore not as enemies of music
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -927,7 +927,7 @@ The most useful way to understand playlists is therefore not as enemies of music
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -972,7 +972,7 @@ The most useful way to understand playlists is therefore not as enemies of music
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1013,194 +1013,194 @@ The most useful way to understand playlists is therefore not as enemies of music
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: support.spotify.com  
    Title: Types of Spotify playlists  
-   Link: <a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
+   Link:<a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: artists.spotify.com  
    Title: for Artists Playlisting – Spotify for Artists  
-   Link: <a href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/playlisting</a>  
+   Link:<a href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/playlisting</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe psychological functions of music listening  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3741536/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3741536/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3741536/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3741536/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: artists.spotify.com  
    Title: for Artists Discovery Mode – Spotify for Artists  
-   Link: <a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
+   Link:<a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nielsen.com  
    Title: The Record: Q4 U.S. audio listening trends | Nielsen  
-   Link: <a href="https://www.nielsen.com/insights/2025/the-record-q4-audio-listening-trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsen.com/insights/2025/the-record-q4-audio-listening-trends/</a>  
+   Link:<a href="https://www.nielsen.com/insights/2025/the-record-q4-audio-listening-trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsen.com/insights/2025/the-record-q4-audio-listening-trends/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: artists.spotify.com  
    Title: editorial playlist pyramid how to music  
-   Link: <a href="https://artists.spotify.com/en/video/spotify-editorial-playlist-pyramid-how-to-music" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/spotify-editorial-playlist-pyramid-how-to-music</a>  
+   Link:<a href="https://artists.spotify.com/en/video/spotify-editorial-playlist-pyramid-how-to-music" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/spotify-editorial-playlist-pyramid-how-to-music</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/</a>  
+   Link:<a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spotify.com  
    Title: Premium (United Kingdom)  
-   Link: <a href="https://www.spotify.com/uk/premium/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/premium/</a>  
+   Link:<a href="https://www.spotify.com/uk/premium/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/premium/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spotify.com  
    Title: Play free on mobile – Spotify  
-   Link: <a href="https://www.spotify.com/uk/free/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/free/</a>  
+   Link:<a href="https://www.spotify.com/uk/free/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/free/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsroom.spotify.com  
    Title: company info  
-   Link: <a href="https://newsroom.spotify.com/company-info/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/company-info/</a>  
+   Link:<a href="https://newsroom.spotify.com/company-info/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/company-info/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: artists.spotify.com  
    Title: behind the playlists your questions answered by our playlist editors  
-   Link: <a href="https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
+   Link:<a href="https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newsroom.spotify.com  
    Title: prompted playlists algorithm gustav soderstrom  
-   Link: <a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ads.spotify.com  
    Title: mindshare spotify 2022  
-   Link: <a href="https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022</a>  
+   Link:<a href="https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nielsen.com  
    Title: the record q1 audio listening trends  
-   Link: <a href="https://www.nielsen.com/insights/2025/the-record-q1-audio-listening-trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsen.com/insights/2025/the-record-q1-audio-listening-trends/</a>  
+   Link:<a href="https://www.nielsen.com/insights/2025/the-record-q1-audio-listening-trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsen.com/insights/2025/the-record-q1-audio-listening-trends/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17499755211019974</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/17499755211019974" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17499755211019974</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: engineering.atspotify.com  
-   Link: <a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
+   Link:<a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2056305120933291" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305120933291</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2056305120933291" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305120933291</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres</a>  
+   Link:<a href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
+   Link:<a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rebelbuzz.medium.com  
    Title: spotify playlists algorithms and power 3757316b9055  
-   Link: <a href="https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055" target="_blank" rel="noopener noreferrer nofollow">https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055</a>  
+   Link:<a href="https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055" target="_blank" rel="noopener noreferrer nofollow">https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bridgeratings.com  
    Title: spotifys playlist ecosystem the mood machine at work  
-   Link: <a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
+   Link:<a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: orphiq.com  
    Title: spotify algorithmic playlists explained  
-   Link: <a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
+   Link:<a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: musicrow.com  
    Title: nielsen 360 survey finds amfm radio still preferred music discovery method  
-   Link: <a href="https://musicrow.com/2017/11/nielsen-360-survey-finds-amfm-radio-still-preferred-music-discovery-method/" target="_blank" rel="noopener noreferrer nofollow">https://musicrow.com/2017/11/nielsen-360-survey-finds-amfm-radio-still-preferred-music-discovery-method/</a>  
+   Link:<a href="https://musicrow.com/2017/11/nielsen-360-survey-finds-amfm-radio-still-preferred-music-discovery-method/" target="_blank" rel="noopener noreferrer nofollow">https://musicrow.com/2017/11/nielsen-360-survey-finds-amfm-radio-still-preferred-music-discovery-method/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: soundplate.com  
-   Link: <a href="https://soundplate.com/spotify-dj-vs-apple-music-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://soundplate.com/spotify-dj-vs-apple-music-discovery/</a>  
+   Link:<a href="https://soundplate.com/spotify-dj-vs-apple-music-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://soundplate.com/spotify-dj-vs-apple-music-discovery/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theverge.com  
    Title: spotify playlist curation nyc live shows fresh finds indie latin new music  
-   Link: <a href="https://www.theverge.com/2017/11/13/16617900/spotify-playlist-curation-nyc-live-shows-fresh-finds-indie-latin-new-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2017/11/13/16617900/spotify-playlist-curation-nyc-live-shows-fresh-finds-indie-latin-new-music</a>  
+   Link:<a href="https://www.theverge.com/2017/11/13/16617900/spotify-playlist-curation-nyc-live-shows-fresh-finds-indie-latin-new-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2017/11/13/16617900/spotify-playlist-curation-nyc-live-shows-fresh-finds-indie-latin-new-music</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY0Q8k2y1aL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY0Q8k2y1aL/</a>  
+   Link:<a href="https://www.instagram.com/reel/DY0Q8k2y1aL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY0Q8k2y1aL/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: stevecardigan.substack.com  
    Title: spotifys algorithm and the unbelievable  
-   Link: <a href="https://stevecardigan.substack.com/p/spotifys-algorithm-and-the-unbelievable" target="_blank" rel="noopener noreferrer nofollow">https://stevecardigan.substack.com/p/spotifys-algorithm-and-the-unbelievable</a>  
+   Link:<a href="https://stevecardigan.substack.com/p/spotifys-algorithm-and-the-unbelievable" target="_blank" rel="noopener noreferrer nofollow">https://stevecardigan.substack.com/p/spotifys-algorithm-and-the-unbelievable</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Spotify Artist Performances 🎙️ · Kacey Musgraves  
-   Link: <a href="https://www.youtube.com/%40Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40Spotify</a>  
+   Link:<a href="https://www.youtube.com/%40Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40Spotify</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: decentmusicpr.com  
    Title: spotify algorithm trigger points  
-   Link: <a href="https://www.decentmusicpr.com/post/spotify-algorithm-trigger-points" target="_blank" rel="noopener noreferrer nofollow">https://www.decentmusicpr.com/post/spotify-algorithm-trigger-points</a>  
+   Link:<a href="https://www.decentmusicpr.com/post/spotify-algorithm-trigger-points" target="_blank" rel="noopener noreferrer nofollow">https://www.decentmusicpr.com/post/spotify-algorithm-trigger-points</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nowlistenpr.com  
    Title: spotify algorithmic playlists 2026  
-   Link: <a href="https://nowlistenpr.com/blog/spotify-algorithmic-playlists-2026/" target="_blank" rel="noopener noreferrer nofollow">https://nowlistenpr.com/blog/spotify-algorithmic-playlists-2026/</a>  
+   Link:<a href="https://nowlistenpr.com/blog/spotify-algorithmic-playlists-2026/" target="_blank" rel="noopener noreferrer nofollow">https://nowlistenpr.com/blog/spotify-algorithmic-playlists-2026/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Rise of Playlists: How Spotify Changed Music Discovery  
-   Link: <a href="https://www.youtube.com/watch?v=d_C1l0h2VpU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_C1l0h2VpU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Playlists Influence What You Listen To...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_C1l0h2VpU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_C1l0h2VpU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Playlists Influence What You Listen To...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: From Radio DJs to Algorithms: The Shift in Music Curation  
-   Link: <a href="https://www.youtube.com/watch?v=t18e-49zDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t18e-49zDqI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Mood-Based Playlists Dominate Streaming...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t18e-49zDqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t18e-49zDqI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Mood-Based Playlists Dominate Streaming...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/41109077/_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41109077/_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation</a>  
+   Link:<a href="https://www.academia.edu/41109077/_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41109077/_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming</a>  
+   Link:<a href="https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: naspread.eu  
-   Link: <a href="https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html</a>  
+   Link:<a href="https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ifpi.se  
-   Link: <a href="https://www.ifpi.se/statistik/engaging-with-music-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.se/statistik/engaging-with-music-report/</a>  
+   Link:<a href="https://www.ifpi.se/statistik/engaging-with-music-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.se/statistik/engaging-with-music-report/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a</a>  
+   Link:<a href="https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DNQnx8msemm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNQnx8msemm/</a>  
+   Link:<a href="https://www.instagram.com/reel/DNQnx8msemm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNQnx8msemm/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2026_SOTI2.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/indieheads/comments/1hry173/how_spotify_is_ruining_music_in_mood_machine_liz/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/1hry173/how_spotify_is_ruining_music_in_mood_machine_liz/</a>
+   Link:<a href="https://www.reddit.com/r/indieheads/comments/1hry173/how_spotify_is_ruining_music_in_mood_machine_liz/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/1hry173/how_spotify_is_ruining_music_in_mood_machine_liz/</a>

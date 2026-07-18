@@ -268,10 +268,10 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_me
 
 ## Introduction
 
-A concert becomes memorable not only because of what happens on stage, but because hundreds or thousands of people begin reacting together. When a crowd sings the same chorus, jumps on the same beat, falls silent at the same moment or erupts in cheers together, individual experiences start to merge into a shared event. Researchers describe this kind of alignment as synchrony: people coordinating [attention]({{ 'attention/' | relative_url }}), movement, emotion or even aspects of their physiology. Evidence from live music studies suggests that such synchrony helps transform a concert from a collection of private memories into a collective one that fans later recall, discuss and relive together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
+A concert becomes memorable not only because of what happens on stage, but because hundreds or thousands of people begin reacting together. When a crowd sings the same chorus, jumps on the same beat, falls silent at the same moment or erupts in cheers together, individual experiences start to merge into a shared event. Researchers describe this kind of alignment as synchrony: people coordinating [attention]({{ 'attention/' | relative_url }}), movement, emotion or even aspects of their physiology. Evidence from live music studies suggests that such synchrony helps transform a concert from a collection of private memories into a collective one that fans later recall, discuss and relive together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1-dark.svg" | relative_url }}" alt="Crowd Sync illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The mechanism matters because concert [memory]({{ 'memory/' | relative_url }}) is often less about hearing a song and more about remembering what “we” did with it. Shared participation gives fans common reference points, common stories and a stronger sense that a particular performance belonged to everyone who was there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+The mechanism matters because concert [memory]({{ 'memory/' | relative_url }}) is often less about hearing a song and more about remembering what “we” did with it. Shared participation gives fans common reference points, common stories and a stronger sense that a particular performance belonged to everyone who was there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 ## Singing and movement as memory cues
 
@@ -279,32 +279,32 @@ The easiest form of concert synchrony to see is [physical]({{ 'physical/' | rela
 
 Memory works by attaching experiences to distinctive cues. In a concert setting, a crowd-wide singalong is far more memorable than thousands of isolated listeners quietly processing a song. Because so many people participate in the same action at the same moment, the event becomes socially reinforced. Fans leave with remarkably similar recollections: the chorus everyone shouted, the [surprise]({{ 'surprise/' | relative_url }}) encore everyone reacted to, or the moment the crowd drowned out the performer. Those moments become shared reference points in later conversations and fan communities.
 
-Research on live music events links large-scale shared movement and [ritual]({{ 'ritual/' | relative_url }}) participation to experiences of collective effervescence, a feeling of unity and emotional intensity generated through coordinated group action. Rather than remembering only the artist's performance, audiences often remember themselves as participants in the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+Research on live music events links large-scale shared movement and [ritual]({{ 'ritual/' | relative_url }}) participation to experiences of collective effervescence, a feeling of unity and emotional intensity generated through coordinated group action. Rather than remembering only the artist's performance, audiences often remember themselves as participants in the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 This helps explain why fans frequently describe concerts using collective language: “we sang every word”, “we lost our minds when the lights went out”, or “the whole arena jumped together”. The memory is encoded as a group experience rather than a purely personal one.
 
 ## Heartbeats, breath and shared attention
 
-Synchrony at concerts reaches beyond visible behaviour. Studies measuring audiences during live performances have found evidence that physiological responses can become aligned across listeners. Researchers have observed synchronisation in heart rate, skin conductance and movement patterns among audience members attending the same concert. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</span></span></span>
+Synchrony at concerts reaches beyond visible behaviour. Studies measuring audiences during live performances have found evidence that physiological responses can become aligned across listeners. Researchers have observed synchronisation in heart rate, skin conductance and movement patterns among audience members attending the same concert.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</span></span></span>
 
-The significance is not that every person experiences exactly the same emotion. Instead, the audience's bodies begin responding to key musical moments in similar ways. Climactic passages, dramatic pauses and emotionally charged sections can produce coordinated reactions across large groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</span></span></span>
+The significance is not that every person experiences exactly the same emotion. Instead, the audience's bodies begin responding to key musical moments in similar ways. Climactic passages, dramatic pauses and emotionally charged sections can produce coordinated reactions across large groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</span></span></span>
 
-Studies of live music have also reported forms of interbrain synchrony, where neural activity patterns become more closely aligned among audience members sharing moments of pleasure. Researchers found that this synchrony was influenced both by the intensity of enjoyment and by how many people were sharing that enjoyment simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Studies of live music have also reported forms of interbrain synchrony, where neural activity patterns become more closely aligned among audience members sharing moments of pleasure. Researchers found that this synchrony was influenced both by the intensity of enjoyment and by how many people were sharing that enjoyment simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Equally important is shared attention. In everyday life, people constantly divide their focus among competing demands. At a concert, thousands of listeners may direct their attention towards the same sound, lyric, gesture or visual cue at exactly the same moment. This concentration creates a common timeline of experience. Everyone notices the same pause before a chorus, the same spotlight reveal or the same unexpected guest appearance. Those moments become unusually easy to remember because they were experienced collectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
+Equally important is shared attention. In everyday life, people constantly divide their focus among competing demands. At a concert, thousands of listeners may direct their attention towards the same sound, lyric, gesture or visual cue at exactly the same moment. This concentration creates a common timeline of experience. Everyone notices the same pause before a chorus, the same spotlight reveal or the same unexpected guest appearance. Those moments become unusually easy to remember because they were experienced collectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</span></span></span>
 
-Not every physiological measure synchronises perfectly. Some studies have found weaker evidence for synchronised breathing than for heart rate or movement. That nuance is important: crowd synchrony is not a magical merging of minds but a measurable tendency for people sharing an event to become more aligned than they would be alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span>
+Not every physiological measure synchronises perfectly. Some studies have found weaker evidence for synchronised breathing than for heart rate or movement. That nuance is important: crowd synchrony is not a magical merging of minds but a measurable tendency for people sharing an event to become more aligned than they would be alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Do these effects extend to remote participation?Read more</span><span class="citation-popover-snippet">Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-2-dark.svg" | relative_url }}" alt="Crowd Sync illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why collective reactions last
 
 Shared memories survive because they are reinforced after the event. A private experience depends largely on one person's recollection. A collective experience is continually refreshed through conversations, photographs, recordings and fan discussions.
 
-Research on live music and collective effervescence suggests that feelings of connection and shared meaning are strongly associated with positive outcomes that persist beyond the concert itself. In studies involving hundreds of participants, the sense of unity experienced in live music settings was linked not only to enjoyment during the event but also to increased happiness and meaning reported afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+Research on live music and collective effervescence suggests that feelings of connection and shared meaning are strongly associated with positive outcomes that persist beyond the concert itself. In studies involving hundreds of participants, the sense of unity experienced in live music settings was linked not only to enjoyment during the event but also to increased happiness and meaning reported afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 This helps explain why particular crowd reactions often become the defining memory of a concert. A performer may play dozens of songs, yet fans repeatedly return to one collective moment: the crowd finishing a verse, the stadium illuminating with phone lights, or the eruption of cheers after a surprise appearance. The event becomes memorable because thousands of people validated it simultaneously.
 
-There is also a social identity effect. Shared emotional moments strengthen a sense of belonging to a group. Research on collective behaviour has long shown that intense group experiences can create feelings of unity and reinforce group identity. Concerts provide a relatively safe and joyful version of this process, allowing strangers to feel temporarily connected through a common emotional focus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</span></span></span>
+There is also a social identity effect. Shared emotional moments strengthen a sense of belonging to a group. Research on collective behaviour has long shown that intense group experiences can create feelings of unity and reinforce group identity. Concerts provide a relatively safe and joyful version of this process, allowing strangers to feel temporarily connected through a common emotional focus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</span></span></span>
 
 When fans later say, “you had to be there”, they are often referring to this synchrony. The memory is difficult to reproduce because the crucial ingredient was not just the song. It was the moment when thousands of people responded together and briefly became part of the performance itself.
 
@@ -315,197 +315,197 @@ The most memorable concert moments often blur the line between performer and aud
 
 From a memory perspective, this is the point at which the audience stops functioning as spectators and becomes part of the event's creation. The concert is no longer something happening to individuals. It is something being produced by the crowd in real time.
 
-That transformation is why crowd synchrony plays such a powerful role in fan memory. Shared singing, shared movement, shared attention and shared emotional reactions create common landmarks that thousands of people carry away together. The artist may provide the music, but the crowd helps turn it into a lasting collective memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+That transformation is why crowd synchrony plays such a powerful role in fan memory. Shared singing, shared movement, shared attention and shared emotional reactions create common landmarks that thousands of people carry away together. The artist may provide the music, but the crowd helps turn it into a lasting collective memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a crowd becomes part of the song. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a crowd becomes part of the song. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Links music, emotion and shared response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links music, emotion and shared response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Discusses audience participation and venue dynamics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses audience participation and venue dynamics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8116746-M.jpg" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8116746-M.jpg" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Leadership, Experience, Success, Self-realization, Memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Leadership, Experience, Success, Self-realization, Memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together">Together</a>
-        </h4>
-        <p class="fr-book-author">By Vivek H. Murthy, Francesca Barrie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together">Together</a>
+</h4>
+<p class="fr-book-author">By Vivek H. Murthy, Francesca Barrie</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Loneliness, Mental health, Communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Loneliness, Mental health, Communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Moments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Moments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Moments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Moments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden"><img src="{{ '/assets/images/marketplace-covers/da12a67c49d4a1cb9dbf.jpg' | relative_url }}" alt="Listing image for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden"><img src="{{ '/assets/images/marketplace-covers/da12a67c49d4a1cb9dbf.jpg' | relative_url }}" alt="Listing image for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles"><img src="{{ '/assets/images/marketplace-covers/299876f3eab4031391e3.jpg' | relative_url }}" alt="Listing image for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles"><img src="{{ '/assets/images/marketplace-covers/299876f3eab4031391e3.jpg' | relative_url }}" alt="Listing image for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat And A Gramophone Music Box Plays A Lullaby"><img src="{{ '/assets/images/marketplace-covers/963b05c360257c71fe77.jpg' | relative_url }}" alt="Listing image for Cat And A Gramophone Music Box Plays A Lullaby" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Cat And A Gramophone Music Box Plays A Lullaby</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat And A Gramophone Music Box Plays A Lullaby"><img src="{{ '/assets/images/marketplace-covers/963b05c360257c71fe77.jpg' | relative_url }}" alt="Listing image for Cat And A Gramophone Music Box Plays A Lullaby" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Cat And A Gramophone Music Box Plays A Lullaby</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD"><img src="{{ '/assets/images/marketplace-covers/2121a3736003b80c6656.jpg' | relative_url }}" alt="Listing image for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD"><img src="{{ '/assets/images/marketplace-covers/2121a3736003b80c6656.jpg' | relative_url }}" alt="Listing image for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="crowd-sync-when-a-crowd-becomes-part-of-the-song-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ That transformation is why crowd synchrony plays such a powerful role in fan mem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ That transformation is why crowd synchrony plays such a powerful role in fan mem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ That transformation is why crowd synchrony plays such a powerful role in fan mem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ That transformation is why crowd synchrony plays such a powerful role in fan mem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ That transformation is why crowd synchrony plays such a powerful role in fan mem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,147 +711,147 @@ That transformation is why crowd synchrony plays such a powerful role in fan mem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41960-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41960-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 59 — Clear evidence was found of physiolog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional processes, collective behavior, and social movementsby JJ Pizarro · 2022 · Cited by 121 — In this article, we review the con...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10556000/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by W Tschacher · 2023 · Cited by 66 — Clear evidence was found of physiological synchrony (heart rate, respiration rate, skin conducta...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological audience synchrony in classical concerts linked...by W Tschacher · 2024 · Cited by 22 — We found that physiology throug...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11252278/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological audience synchrony in classical concerts linked...by W Tschacher · 2024 · Cited by 22 — We found that physiology throug...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure</a>  
+   Link:<a href="https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359819932_Audience_Interbrain_Synchrony_During_Live_Music_Is_Shaped_by_Both_the_Number_of_People_Sharing_Pleasure_and_the_Strength_of_This_Pleasure</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFrom Lab to Concert Hall: Effects of Live Performance  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Asthagiri · 2025 — Audience Interbrain Synchrony During Live Music Is Shaped by Both the Number of People Sharing Pleasure and th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11996556/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Asthagiri · 2025 — Audience Interbrain Synchrony During Live Music Is Shaped by Both the Number of People Sharing Pleasure and th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAudio‐visual concert performances synchronize audience&#x27;s...by AM Czepiel · 2025 · Cited by 7 — Live music concerts provide an exc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11776452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAudio‐visual concert performances synchronize audience&#x27;s...by AM Czepiel · 2025 · Cited by 7 — Live music concerts provide an exc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
    Title: Do these effects extend to remote participation?Read more  
-   Link: <a href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-04548-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-021-04548-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-04548-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Being in a crowd bonds people via physiological synchronyby G Baranowski-Pinto · 2022 · Cited by 66 — Collective events can generat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-38194-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-38194-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musician presence and its effects on physiological and...by AS Becker · 2026 — Evidence on live music reception has shown that the colle...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological audience synchrony in classical concerts...Jul 1, 2024 — We found that physiology throughout audiences was significantly s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382302200_Physiological_audience_synchrony_in_classical_concerts_linked_with_listeners%27_experiences_and_attitudes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological audience synchrony in classical concerts...Jul 1, 2024 — We found that physiology throughout audiences was significantly s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The growing field...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Group-synchrony-of-movement-over-time-during-a-music-set-at-a-dance-club-Movement-data_fig4_309335496</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The growing field...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological Synchrony in Audiences of Live ConcertsWe recorded the physiological signals (heart rate, respiration rate, skin conductanc...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354803612_Physiological_synchrony_in_audiences_of_live_concerts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physiological Synchrony in Audiences of Live ConcertsWe recorded the physiological signals (heart rate, respiration rate, skin conductanc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672241288027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672241288027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/10298649251349703" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10298649251349703</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA systematic review of social outcomes for audience...by NS Rickard · 2025 · Cited by 7 — Sharing emotions, movement, and r...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/10298649251349703" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10298649251349703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA systematic review of social outcomes for audience...by NS Rickard · 2025 · Cited by 7 — Sharing emotions, movement, and r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), melody, rhythm, or otherwise expressive content. M...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), melody, rhythm, or otherwise expressive content. M...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wastedenergy.co  
    Title: collective effervescence  
-   Link: <a href="https://wastedenergy.co/2025/06/04/collective-effervescence/" target="_blank" rel="noopener noreferrer nofollow">https://wastedenergy.co/2025/06/04/collective-effervescence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music as Medicine for Disconnection4 Jun 2025 — A large-scale analysis of 18,000 concertgoers featured in The Conversation, found that at...</p></details>
+   Link:<a href="https://wastedenergy.co/2025/06/04/collective-effervescence/" target="_blank" rel="noopener noreferrer nofollow">https://wastedenergy.co/2025/06/04/collective-effervescence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music as Medicine for Disconnection4 Jun 2025 — A large-scale analysis of 18,000 concertgoers featured in The Conversation, found that at...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ucl.ac.uk  
-   Link: <a href="https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audience members&#x27; hearts beat together at the theatreWatching a live theatre performance can synchronize your heartbeat with other people...</p></details>
+   Link:<a href="https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/brain-sciences/news/2017/nov/audience-members-hearts-beat-together-theatre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audience members&#x27; hearts beat together at the theatreWatching a live theatre performance can synchronize your heartbeat with other people...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: psypost.org  
-   Link: <a href="https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists observe a remarkable synchronization effect...Aug 24, 2024 — Classical music concerts synchronize the heart rates, skin condu...</p></details>
+   Link:<a href="https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/scientists-observe-a-remarkable-synchronization-effect-among-classical-music-listeners/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists observe a remarkable synchronization effect...Aug 24, 2024 — Classical music concerts synchronize the heart rates, skin condu...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theviolinchannel.com  
    Title: new study reveals audience heartbeats synchronize during classical music concert  
-   Link: <a href="https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/" target="_blank" rel="noopener noreferrer nofollow">https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Reveals Audience Heartbeats Synchronize...30 Aug 2024 — Overall, the study found that audiences&#x27; heart rates and other physica...</p></details>
+   Link:<a href="https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/" target="_blank" rel="noopener noreferrer nofollow">https://theviolinchannel.com/new-study-reveals-audience-heartbeats-synchronize-during-classical-music-concert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Reveals Audience Heartbeats Synchronize...30 Aug 2024 — Overall, the study found that audiences&#x27; heart rates and other physica...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/IRUeRedY6PE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/IRUeRedY6PE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Heart Rates Sync Up at ConcertsDo you know that when you and your date watch a live show or concert, your heart rates can sync up? Gr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/IRUeRedY6PE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/IRUeRedY6PE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Heart Rates Sync Up at ConcertsDo you know that when you and your date watch a live show or concert, your heart rates can sync up? Gr...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchportal.bath.ac.uk  
    Title: from story to heartbeats physiological synchrony in theatre audie  
-   Link: <a href="https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchrony in Theatre Audiences30 Dec 2024 — We collected heart-rate, movement and questionnaire data from 121 theatregoers across a run o...</p></details>
+   Link:<a href="https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.bath.ac.uk/en/publications/from-story-to-heartbeats-physiological-synchrony-in-theatre-audie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchrony in Theatre Audiences30 Dec 2024 — We collected heart-rate, movement and questionnaire data from 121 theatregoers across a run o...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: garthnewel.org  
    Title: connection and delight how live music enhances well being  
-   Link: <a href="https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connection and Delight — How Live Music Enhances Well...15 Feb 2026 — Live music triggers the release of oxytocin, often called the “bon...</p></details>
+   Link:<a href="https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connection and Delight — How Live Music Enhances Well...15 Feb 2026 — Live music triggers the release of oxytocin, often called the “bon...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: classicfm.com  
    Title: audience heartbeats breath synchronise classical concert  
-   Link: <a href="https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New study finds audience heartbeats and breath rates...28 Aug 2024 — A new study has found that audience members can start breathing at...</p></details>
+   Link:<a href="https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.classicfm.com/music-news/audience-heartbeats-breath-synchronise-classical-concert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New study finds audience heartbeats and breath rates...28 Aug 2024 — A new study has found that audience members can start breathing at...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pure.york.ac.uk  
    Title: physiological synchrony in audiences of live concerts  
-   Link: <a href="https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>synchrony in audiences of live concertsby W Tschacher · 2023 · Cited by 63 — Based on the notion that aesthetic experiences are embodied...</p></details>
+   Link:<a href="https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/physiological-synchrony-in-audiences-of-live-concerts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>synchrony in audiences of live concertsby W Tschacher · 2023 · Cited by 63 — Based on the notion that aesthetic experiences are embodied...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: symphony.org  
    Title: Study: Audiences Get in Sync at Orchestra Concerts  
-   Link: <a href="https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/" target="_blank" rel="noopener noreferrer nofollow">https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Aug 2024 — A new study has shown that the shared experience of live music creates a remarkable physiological bond among audien...</p></details>
+   Link:<a href="https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/" target="_blank" rel="noopener noreferrer nofollow">https://symphony.org/study-audiences-get-in-sync-at-orchestra-concerts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Aug 2024 — A new study has shown that the shared experience of live music creates a remarkable physiological bond among audien...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orted increased happiness and meaning for up to a week. The...Read more...</p></details>
+   Link:<a href="https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orted increased happiness and meaning for up to a week. The...Read more...</p></details>

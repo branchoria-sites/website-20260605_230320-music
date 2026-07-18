@@ -271,15 +271,15 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_moveme
 A beat feels [physical]({{ 'physical/' | relative_url }}) because the brain treats rhythm partly as a movement problem, even when the listener is sitting still. Hearing a regular pulse does not only involve the auditory system recognising sound patterns; it also recruits motor [regions]({{ 'regions/' | relative_url }}) involved in timing, planning and sequencing action. That is why a foot tap can feel almost automatic: the brain is already preparing “when” a movement could happen before the listener consciously decides to move.
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-dark.svg" | relative_url }}" alt="Beat Brain illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key idea is auditory-motor coupling. Beat perception links listening with movement-readiness through networks that include the supplementary motor area, premotor cortex, basal ganglia, cerebellum and auditory cortex. Studies using brain imaging, behavioural tasks, infant research and movement disorders all point in the same direction: the body does not simply react after the beat is understood. The brain helps understand the beat by simulating, predicting and organising possible movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow beat perception coopts motor neurophysiology</span><span class="citation-popover-snippet">NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</span></span></span>
+The key idea is auditory-motor coupling. Beat perception links listening with movement-readiness through networks that include the supplementary motor area, premotor cortex, basal ganglia, cerebellum and auditory cortex. Studies using brain imaging, behavioural tasks, infant research and movement disorders all point in the same direction: the body does not simply react after the beat is understood. The brain helps understand the beat by simulating, predicting and organising possible movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow beat perception coopts motor neurophysiology</span><span class="citation-popover-snippet">NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</span></span></span>
 
 ## Why the Motor Brain Listens Too
 
-The most important finding is also the easiest to miss: motor areas can activate during [rhythm]({{ 'rhythm/' | relative_url }}) listening even when no visible movement is made. In a landmark functional MRI study, Jessica Grahn and Matthew Brett found that listening to rhythms engaged a bilateral network including the supplementary motor area, premotor regions, basal ganglia, cerebellum and auditory areas, while the lack of primary motor cortex activation supported the idea that participants were not simply moving secretly in the scanner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span>
+The most important finding is also the easiest to miss: motor areas can activate during [rhythm]({{ 'rhythm/' | relative_url }}) listening even when no visible movement is made. In a landmark functional MRI study, Jessica Grahn and Matthew Brett found that listening to rhythms engaged a bilateral network including the supplementary motor area, premotor regions, basal ganglia, cerebellum and auditory areas, while the lack of primary motor cortex activation supported the idea that participants were not simply moving secretly in the scanner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">This movement may result from processing of the beat by motor areas</span><span class="citation-popover-snippet">Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</span></span></span>
 
 That matters because it changes what “hearing the beat” means. The brain is not only analysing a sound object from the outside. It is preparing a timed action model: where the pulse is, when the next important moment will arrive, and how a movement could align with it. The movement may never happen, but the preparation helps the rhythm become usable.
 
-The supplementary motor area is especially important because it is involved in internally organised movement and timing. The basal ganglia, including the putamen and wider dorsal striatum, are also repeatedly linked to beat strength and internally generated pulse. A 2024 study using representational similarity analysis found that activity patterns in the putamen and supplementary motor area tracked beat strength rather than merely simpler features such as tempo or number of sound onsets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/cercor/article/34/10/bhae406/7817849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The supplementary motor area is especially important because it is involved in internally organised movement and timing. The basal ganglia, including the putamen and wider dorsal striatum, are also repeatedly linked to beat strength and internally generated pulse. A 2024 study using representational similarity analysis found that activity patterns in the putamen and supplementary motor area tracked beat strength rather than merely simpler features such as tempo or number of sound onsets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/cercor/article/34/10/bhae406/7817849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is why a drum loop feels different from a random set of clicks. Both may contain sounds in time, but the loop gives the motor system a structure it can predict. A strong beat offers a stable invitation: nod here, step here, clap here.
 
@@ -287,7 +287,7 @@ This is why a drum loop feels different from a random set of clicks. Both may co
 
 Most listeners do not count “one, two, three, four” before they feel a pulse. The brain is faster and more practical than that. It forms expectations about when the next beat should arrive, then adjusts as the rhythm confirms or challenges those expectations.
 
-Researchers often describe this through prediction and entrainment. Neural activity can align with external rhythmic patterns, helping the brain allocate [attention]({{ 'attention/' | relative_url }}) at the moments when important sounds are likely to occur. Reviews of beat perception argue that motor-system involvement may support internal predictive models: the brain uses movement-related timing machinery to forecast the next beat, not merely to respond after it happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span><span class="citation-popover-snippet">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span></span></span>
+Researchers often describe this through prediction and entrainment. Neural activity can align with external rhythmic patterns, helping the brain allocate [attention]({{ 'attention/' | relative_url }}) at the moments when important sounds are likely to occur. Reviews of beat perception argue that motor-system involvement may support internal predictive models: the brain uses movement-related timing machinery to forecast the next beat, not merely to respond after it happens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span><span class="citation-popover-snippet">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span></span></span>
 
 This explains why a beat can seem to “pull” movement out of the body. The listener is not waiting passively. The brain is already running a timing loop, comparing incoming sound with expected pulse points. When those predictions are stable enough, movement becomes easy to start because the body already has a temporal map.
 
@@ -307,24 +307,24 @@ The distinction also helps explain why people often feel rhythm before they can 
 
 ## What Parkinson’s Reveals About Beat Timing
 
-Movement disorders offer a powerful test of the link between beats and motor systems because they show what happens when key timing circuits are disrupted. Parkinson’s disease affects basal ganglia function, and studies have found that people with Parkinson’s can show specific difficulty with beat-based rhythm processing. Grahn and Brett reported that Parkinson’s patients did not gain the same usual advantage from beat-based rhythms that control participants did, supporting the idea that the basal ganglia help generate or detect an internal beat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Movement disorders offer a powerful test of the link between beats and motor systems because they show what happens when key timing circuits are disrupted. Parkinson’s disease affects basal ganglia function, and studies have found that people with Parkinson’s can show specific difficulty with beat-based rhythm processing. Grahn and Brett reported that Parkinson’s patients did not gain the same usual advantage from beat-based rhythms that control participants did, supporting the idea that the basal ganglia help generate or detect an internal beat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This does not mean people with Parkinson’s cannot respond to rhythm. In fact, rhythmic auditory stimulation is used in rehabilitation because external rhythmic cues can support walking timing. Reviews of rhythm- and music-based motor rehabilitation describe a substantial body of work testing rhythmic cueing for gait and motor function, while also noting that results depend on the condition, task, cue type and individual listener. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This does not mean people with Parkinson’s cannot respond to rhythm. In fact, rhythmic auditory stimulation is used in rehabilitation because external rhythmic cues can support walking timing. Reviews of rhythm- and music-based motor rehabilitation describe a substantial body of work testing rhythmic cueing for gait and motor function, while also noting that results depend on the condition, task, cue type and individual listener.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The point for music is clear: rhythm is not merely decorative sound. A beat can act like an external timing scaffold. For a healthy listener, that scaffold may make dancing feel effortless. For someone with impaired movement timing, it may help organise steps that are otherwise harder to initiate or regulate.
 
-The evidence also warns against oversimplifying. Not every rhythmic cue helps every person. One study found that people with weaker beat perception had more difficulty synchronising gait to some musical cues, and low-groove music could be less helpful than high-groove music or metronome cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span><span class="citation-popover-snippet">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span></span></span>
+The evidence also warns against oversimplifying. Not every rhythmic cue helps every person. One study found that people with weaker beat perception had more difficulty synchronising gait to some musical cues, and low-groove music could be less helpful than high-groove music or metronome cues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span><span class="citation-popover-snippet">Frontiers Neural Networks for Beat Perception in Musical Rhythm</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-2-dark.svg" | relative_url }}" alt="Beat Brain illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Babies, Bodies and the Early Sense of Beat
 
-The link between rhythm and movement appears early in life. Research on infants found that babies moved more rhythmically to music and rhythmically regular sounds than to speech, and that the quality of their movement related to their positive response to the sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRhythmic engagement with music in infancy</span><span class="citation-popover-snippet">PMCRhythmic engagement with music in infancy</span></span></span>
+The link between rhythm and movement appears early in life. Research on infants found that babies moved more rhythmically to music and rhythmically regular sounds than to speech, and that the quality of their movement related to their positive response to the sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRhythmic engagement with music in infancy</span><span class="citation-popover-snippet">PMCRhythmic engagement with music in infancy</span></span></span>
 
-Another influential infant study showed that movement can shape rhythm perception: when seven-month-old infants were bounced to an ambiguous rhythm, their later listening preferences matched the beat pattern implied by the bouncing. In plain terms, how the body moved influenced what the ears seemed to hear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Grahn rhythm2007</span><span class="citation-popover-snippet">Brain MusicRhythm and Beat Perception in Motor Areas of the Brainby JA Grahn · Cited by 1586 — Moving on to the fMRI data collected in th...</span></span></span>
+Another influential infant study showed that movement can shape rhythm perception: when seven-month-old infants were bounced to an ambiguous rhythm, their later listening preferences matched the beat pattern implied by the bouncing. In plain terms, how the body moved influenced what the ears seemed to hear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Grahn rhythm2007</span><span class="citation-popover-snippet">Brain MusicRhythm and Beat Perception in Motor Areas of the Brainby JA Grahn · Cited by 1586 — Moving on to the fMRI data collected in th...</span></span></span>
 
 This is one reason [lullabies]({{ 'lullabies/' | relative_url }}), rocking, clapping games and dance songs feel so fundamental rather than merely cultural decoration. [Culture]({{ 'culture/' | relative_url }}) teaches people specific styles, steps and meanings, but the underlying link between sound, timing and bodily expectation is present very early.
 
-Recent developmental work also suggests that newborns can detect beat or rhythmic regularity, though researchers continue to debate how innate rhythm perception is and how it develops through prenatal sound exposure, caregiving and learning. The cautious takeaway is not that babies are born as tiny dancers, but that the human brain is prepared to treat rhythm as a predictive, bodily signal from the start. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-title">CORDISBaby&#x27;s got rhythm: research shows that beat perception is innate</span><span class="citation-popover-snippet">CORDISBaby&#x27;s got rhythm: research shows that beat perception is innate</span></span></span>
+Recent developmental work also suggests that newborns can detect beat or rhythmic regularity, though researchers continue to debate how innate rhythm perception is and how it develops through prenatal sound exposure, caregiving and learning. The cautious takeaway is not that babies are born as tiny dancers, but that the human brain is prepared to treat rhythm as a predictive, bodily signal from the start.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-title">CORDISBaby&#x27;s got rhythm: research shows that beat perception is innate</span><span class="citation-popover-snippet">CORDISBaby&#x27;s got rhythm: research shows that beat perception is innate</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-3-dark.svg" | relative_url }}" alt="Beat Brain illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Makes Music Feel Like an Invitation
@@ -337,7 +337,7 @@ That invitation depends on several linked mechanisms:
 
 * **Auditory patterning:** the ear and auditory cortex detect repeated timing relationships.
 * **Motor preparation:** premotor and supplementary motor areas organise possible action.
-* **Internal pulse generation:** basal ganglia circuits help sustain beat expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19673753/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Internal pulse generation:** basal ganglia circuits help sustain beat expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19673753/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Timing correction:** the brain compares expected and actual sound events.
 * **Embodied attention:** the listener becomes ready to nod, step, clap or dance at the right moment.
 
@@ -351,201 +351,201 @@ This is why rhythm can feel more bodily than [melody]({{ 'melody/' | relative_ur
 
 The evidence strongly supports a close link between beat perception and motor systems, but it does not mean every rhythm automatically causes movement, or that motor activation is the whole story. Musical movement also depends on culture, attention, mood, training, context, loudness, social setting and personal preference.
 
-There is also still debate over exactly how motor regions contribute. Some theories emphasise neural entrainment, where brain rhythms align with external timing. Others focus on active inference and prediction, where the motor system helps forecast sensory events. These accounts are not necessarily enemies; they may describe different levels of the same broader process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural Networks for Beat Perception in Musical Rhythm</span><span class="citation-popover-snippet">PMCNeural Networks for Beat Perception in Musical Rhythm</span></span></span>
+There is also still debate over exactly how motor regions contribute. Some theories emphasise neural entrainment, where brain rhythms align with external timing. Others focus on active inference and prediction, where the motor system helps forecast sensory events. These accounts are not necessarily enemies; they may describe different levels of the same broader process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural Networks for Beat Perception in Musical Rhythm</span><span class="citation-popover-snippet">PMCNeural Networks for Beat Perception in Musical Rhythm</span></span></span>
 
 The strongest conclusion is therefore specific rather than exaggerated: the brain links beats to movement because beat perception uses systems normally associated with timing, sequencing and preparing action. The listener may remain still, but the beat is already being processed in a bodily way. That is why rhythm often feels less like something heard from a distance and more like something the body is being asked to join.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_1Rw49fSjPQ" title="New Brain Research Uncovers How Music Triggers Movement, Emotion, and Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_1Rw49fSjPQ" target="_blank" rel="noopener noreferrer">New Brain Research Uncovers How Music Triggers Movement, Emotion, and Connection</a></p><p class="youtube-embed-meta">Channel: Medical Dialogues &middot; Views: 123 &middot; Uploaded: October 2025 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_1Rw49fSjPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_1Rw49fSjPQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Your Body Hears the Beat First. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Your Body Hears the Beat First. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Directly relevant to beat perception and motor engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to beat perception and motor engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores neural mechanisms underlying musical experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores neural mechanisms underlying musical experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides wider context for musical timing and participation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for musical timing and participation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Music">The Power of Music</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Music">The Power of Music</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Addresses brain-body responses to rhythm.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses brain-body responses to rhythm.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Music&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rhythm and Beauty : The Art of Percussion Hardcover Rocky Maffit"><img src="{{ '/assets/images/marketplace-covers/76361d821058c76c0f2d.jpg' | relative_url }}" alt="Listing image for Rhythm and Beauty : The Art of Percussion Hardcover Rocky Maffit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">Rhythm and Beauty : The Art of Percussion Hardcover Rocky Maffit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search <span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rhythm and Beauty : The Art of Percussion Hardcover Rocky Maffit"><img src="{{ '/assets/images/marketplace-covers/76361d821058c76c0f2d.jpg' | relative_url }}" alt="Listing image for Rhythm and Beauty : The Art of Percussion Hardcover Rocky Maffit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">Rhythm and Beauty : The Art of Percussion Hardcover Rocky Maffit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search<span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b80867391f9cbdf5a4ba.jpg' | relative_url }}" alt="Listing image for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search <span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b80867391f9cbdf5a4ba.jpg' | relative_url }}" alt="Listing image for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search<span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Got Rhythm Music Percussion Piano Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/462a92abf6bd40b66fc0.jpg' | relative_url }}" alt="Listing image for I Got Rhythm Music Percussion Piano Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">I Got Rhythm Music Percussion Piano Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search <span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Got Rhythm Music Percussion Piano Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/462a92abf6bd40b66fc0.jpg' | relative_url }}" alt="Listing image for I Got Rhythm Music Percussion Piano Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">I Got Rhythm Music Percussion Piano Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search<span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4d198204a8556c90ba89.jpg' | relative_url }}" alt="Listing image for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search <span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4d198204a8556c90ba89.jpg' | relative_url }}" alt="Listing image for Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">Percussion rhythm Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rhythm percussion art">Search<span data-ebay-domain-label>eBay.co.uk</span>: rhythm percussion art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rhythm+percussion+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rhythm percussion art" data-ebay-reference="beat-brain-why-your-body-hears-the-beat-first-music-rhythm-percussion-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ The strongest conclusion is therefore specific rather than exaggerated: the brai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ The strongest conclusion is therefore specific rather than exaggerated: the brai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ The strongest conclusion is therefore specific rather than exaggerated: the brai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ The strongest conclusion is therefore specific rather than exaggerated: the brai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ The strongest conclusion is therefore specific rather than exaggerated: the brai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,171 +751,171 @@ The strongest conclusion is therefore specific rather than exaggerated: the brai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow beat perception coopts motor neurophysiology  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9440376/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JJ Cannon · 2020 · Cited by 250 — Components of the brain&#x27;s motor system are activated by the perception of a musical beat, e...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/cercor/article/34/10/bhae406/7817849" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/cercor/article/34/10/bhae406/7817849</a>  
+   Link:<a href="https://academic.oup.com/cercor/article/34/10/bhae406/7817849" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/cercor/article/34/10/bhae406/7817849</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010945208002414</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8801707/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRhythmic engagement with music in infancy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2851927/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cordis.europa.eu  
    Title: CORDISBaby's got rhythm: research shows that beat perception is innate  
-   Link: <a href="https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate</a>  
+   Link:<a href="https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/30401-babys-got-rhythm-research-shows-that-beat-perception-is-innate</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNeural Networks for Beat Perception in Musical Rhythm  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4658578/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364661320302746</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S105381192030255X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S105381192030255X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S105381192030255X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S105381192030255X</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1053811925005968" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1053811925005968</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1053811925005968" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1053811925005968</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1353802023001827</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1388245719311599</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S016643281931160X</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: This movement may result from processing of the beat by motor areas  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17488212/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17488212/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17488212/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythm and beat perception in motor areas of the brainby JA Grahn · 2007 · Cited by 1592 — When we listen to rhythm, we often move...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Why Do We Move to the Beat?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31846652/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31846652/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-Scale Approach...by L Damm · 2020 · Cited by 137 — Humans&#x27; ability to synchronize movement with auditory rhythms relies on motor...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31846652/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31846652/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-Scale Approach...by L Damm · 2020 · Cited by 137 — Humans&#x27; ability to synchronize movement with auditory rhythms relies on motor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brainmusic.org  
    Title: Grahn rhythm2007  
-   Link: <a href="https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicRhythm and Beat Perception in Motor Areas of the Brainby JA Grahn · Cited by 1586 — Moving on to the fMRI data collected in th...</p></details>
+   Link:<a href="https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Grahn_rhythm2007.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicRhythm and Beat Perception in Motor Areas of the Brainby JA Grahn · Cited by 1586 — Moving on to the fMRI data collected in th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: frontiersin.org  
    Title: Frontiers Neural Networks for Beat Perception in Musical Rhythm  
-   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2015.00159/full</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2022.940419/full</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiersin.org  
    Title: Frontiers Individual Differences in Beat Perception Affect Gait  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00811/full</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: brainmusic.org  
    Title: Brain Music Feeling the Beat: Movement Influences Infant Rhythm  
-   Link: <a href="https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf</a>  
+   Link:<a href="https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Phillips-Silver_rhythm2005.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19673753/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19673753/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19673753/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19673753/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cordis.europa.eu  
-   Link: <a href="https://cordis.europa.eu/project/id/801872" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/project/id/801872</a>  
+   Link:<a href="https://cordis.europa.eu/project/id/801872" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/project/id/801872</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01185/full</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00444/full</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00663/full</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1370007/full</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Brain Rhythms  
-   Link: <a href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fSbrYAwTGkA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fSbrYAwTGkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fSbrYAwTGkA</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music</a>  
+   Link:<a href="https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263738717_Newborn_infants_detect_the_beat_in_music</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception</a>  
+   Link:<a href="https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3604841/The_role_of_the_basal_ganglia_in_beat_perception</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system</a>  
+   Link:<a href="https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273514062_Neurobiological_foundations_of_neurologic_music_therapy_rhythmic_entrainment_and_the_motor_system</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366362744_The_Use_of_Rhythmic_Auditory_Stimulation_on_Gait_Parameters_in_Parkinson%27s_Disease_A_Systematic_Review</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: neuroscience.gsu.edu  
-   Link: <a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
+   Link:<a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: physio-pedia.com  
-   Link: <a href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow">https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training</a>  
+   Link:<a href="https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training" target="_blank" rel="noopener noreferrer nofollow">https://www.physio-pedia.com/Auditory_Rhythmic_Stimulation_for_Gait_Training</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dallabella-lab.ca  
-   Link: <a href="https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf</a>  
+   Link:<a href="https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dallabella-lab.ca/wp-content/uploads/2023/01/Damm-et-al_2020_Why-do-we-move-to-the-beat-A-multi-scale-approach-from-physical-principles-to-brain-dynamics.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception</a>  
+   Link:<a href="https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35414707/Feeling_the_Beat_Movement_Influences_Infant_Rhythm_Perception</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology</a>  
+   Link:<a href="https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347962636_How_Beat_Perception_Co-opts_Motor_Neurophysiology</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: jessicagrahn.com  
-   Link: <a href="https://www.jessicagrahn.com/research-summaries.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jessicagrahn.com/research-summaries.html</a>
+   Link:<a href="https://www.jessicagrahn.com/research-summaries.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jessicagrahn.com/research-summaries.html</a>

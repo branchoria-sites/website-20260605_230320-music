@@ -302,194 +302,194 @@ This shared emotional state can be especially significant in protest environment
 In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | relative_url }}); it is an **affective engine** that shapes how participants feel, relate, and endure. Through boosting morale, fostering emotional bonds, and facilitating collective transcendence, singing galvanises participants’ emotional lives in ways that help sustain both the individual and shared momentum of a movement. The emotional effects of this practice are grounded in synchrony, shared experience, and embodied expression, making collective singing a powerful mechanism in how [protest songs]({{ 'protest-songs/' | relative_url }}) build collective power.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Group Singing Builds Solidarity in Protests. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Group Singing Builds Solidarity in Protests. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474914-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
-        </h4>
-        <p class="fr-book-author">By Dorian Lynskey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474914-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
+</h4>
+<p class="fr-book-author">By Dorian Lynskey</p>
         
-        <p class="fr-book-desc">Provides rich examples of collective singing traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides rich examples of collective singing traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Helps explain shared emotional responses to music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain shared emotional responses to music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores music&#x27;s ability to connect people emotionally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores music&#x27;s ability to connect people emotionally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=33+Revolutions+per+Minute%3A+A+History+of+Protest+Songs+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions per Minute: A History of Protest Songs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+per+Minute%3A+A+History+of+Protest+Songs+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions per Minute: A History of Protest Songs">33 Revolutions per Minute: A History of Protest Songs</a>
-        </h4>
-        <p class="fr-book-author">By Dorian Lynskey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=33+Revolutions+per+Minute%3A+A+History+of+Protest+Songs+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions per Minute: A History of Protest Songs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=33+Revolutions+per+Minute%3A+A+History+of+Protest+Songs+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions per Minute: A History of Protest Songs">33 Revolutions per Minute: A History of Protest Songs</a>
+</h4>
+<p class="fr-book-author">By Dorian Lynskey</p>
         
-        <p class="fr-book-desc">Provides rich examples of collective singing traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+per+Minute%3A+A+History+of+Protest+Songs+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides rich examples of collective singing traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=33+Revolutions+per+Minute%3A+A+History+of+Protest+Songs+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)"><img src="{{ '/assets/images/marketplace-covers/889abd5bec3a2f4abafd.jpg' | relative_url }}" alt="Listing image for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)"><img src="{{ '/assets/images/marketplace-covers/889abd5bec3a2f4abafd.jpg' | relative_url }}" alt="Listing image for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro"><img src="{{ '/assets/images/marketplace-covers/3a9e3ee69af28ce20b18.jpg' | relative_url }}" alt="Listing image for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro"><img src="{{ '/assets/images/marketplace-covers/3a9e3ee69af28ce20b18.jpg' | relative_url }}" alt="Listing image for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="collective-singing-how-group-singing-builds-solidarity-in-protests-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -505,7 +505,7 @@ In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -525,7 +525,7 @@ In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -557,7 +557,7 @@ In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -609,7 +609,7 @@ In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -654,7 +654,7 @@ In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -695,108 +695,108 @@ In protests, collective singing is more than a musical [ritual]({{ 'ritual/' | r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe ice-breaker effect: singing mediates fast social bonding  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2015...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2015...</p></details>
    Published: October 28, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lective gatherings and demonstrations - PMCAugust 31, 2022...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473704/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lective gatherings and demonstrations - PMCAugust 31, 2022...</p></details>
    Published: August 31, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0038038511416160</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0038038511416160</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36118463/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36118463/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional processes, collective behavior, and social movements: A meta-analytic review of collective effervescence outcomes during...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36118463/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36118463/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional processes, collective behavior, and social movements: A meta-analytic review of collective effervescence outcomes during...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30319371/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30319371/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2018 Sep 27:12:223. doi: 10.3389/fnbeh.2018.00223. eCollection 2018. PSYCHOBIOLOGICAL EFFECTS OF CHORAL SINGING ON AFFECTIVE STATE, SOCIA...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30319371/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30319371/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2018 Sep 27:12:223. doi: 10.3389/fnbeh.2018.00223. eCollection 2018. PSYCHOBIOLOGICAL EFFECTS OF CHORAL SINGING ON AFFECTIVE STATE, SOCIA...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0038038511416160</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe Bensimon, 2012Ja...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0038038511416160</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe Bensimon, 2012Ja...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe Bensimon, 2012Ja...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/0038038511416160</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe Bensimon, 2012Ja...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cris.biu.ac.il  
-   Link: <a href="https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment" target="_blank" rel="noopener noreferrer nofollow">https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sociological role of collective singing during intense moments of protest: The disengagement from the Gaza Strip - Bar-Ilan UniversityTHE...</p></details>
+   Link:<a href="https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment" target="_blank" rel="noopener noreferrer nofollow">https://cris.biu.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sociological role of collective singing during intense moments of protest: The disengagement from the Gaza Strip - Bar-Ilan UniversityTHE...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cris.iucc.ac.il  
-   Link: <a href="https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2" target="_blank" rel="noopener noreferrer nofollow">https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sociological role of collective singing during intense moments of protest: The disengagement from the Gaza Strip - Israeli Research Commu...</p></details>
+   Link:<a href="https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2" target="_blank" rel="noopener noreferrer nofollow">https://cris.iucc.ac.il/en/publications/the-sociological-role-of-collective-singing-during-intense-moment-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sociological role of collective singing during intense moments of protest: The disengagement from the Gaza Strip - Israeli Research Commu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1755458622000573" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1755458622000573</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EMOTION, SPACE AND SOCIETY Volume 45, November 2022, 100925 IN [HARMONY](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;) OR OUT OF TUNE: AFFECTIVE AND EMOTIONAL GEOGRAPHIES O...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1755458622000573" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1755458622000573</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EMOTION, SPACE AND SOCIETY Volume 45, November 2022, 100925 IN [HARMONY](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;) OR OUT OF TUNE: AFFECTIVE AND EMOTIONAL GEOGRAPHIES O...</p></details>
    Published: November 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psy.ox.ac.uk  
-   Link: <a href="https://www.psy.ox.ac.uk/publications/609241" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/publications/609241</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Experimental PsychologyNovember 1, 2016 — SINGING TOGETHER OR APART: THE EFFECT OF COMPETITIVE AND COOPERATIVE SINGING ON...</p></details>
+   Link:<a href="https://www.psy.ox.ac.uk/publications/609241" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/publications/609241</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Experimental PsychologyNovember 1, 2016 — SINGING TOGETHER OR APART: THE EFFECT OF COMPETITIVE AND COOPERATIVE SINGING ON...</p></details>
    Published: November 1, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10070001/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10070001/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>together or apart: The effect of competitive and cooperative singing on social bonding within and between sub-groups of a university Frat...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10070001/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10070001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>together or apart: The effect of competitive and cooperative singing on social bonding within and between sub-groups of a university Frat...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psy.ox.ac.uk  
    Title: ox.ac.uk The ice-breaker effect: singing mediates fast social bonding  
-   Link: <a href="https://www.psy.ox.ac.uk/publications/574662" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/publications/574662</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Experimental PsychologyOctober 1, 2015 — THE ICE-BREAKER EFFECT: SINGING MEDIATES FAST SOCIAL BONDING. PEARCE E., LAUNAY...</p></details>
+   Link:<a href="https://www.psy.ox.ac.uk/publications/574662" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/publications/574662</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Experimental PsychologyOctober 1, 2015 — THE ICE-BREAKER EFFECT: SINGING MEDIATES FAST SOCIAL BONDING. PEARCE E., LAUNAY...</p></details>
    Published: October 1, 2015  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pure.york.ac.uk  
    Title: york.ac.uk Group Singing as a Resource for the Development of a Healthy Public  
-   Link: <a href="https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A. Camlin, Helena Daffern, Katherine Zeserson * Electronic Engineering Research output: Contribution to journal › Article › p...</p></details>
+   Link:<a href="https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/group-singing-as-a-resource-for-the-development-of-a-healthy-publ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A. Camlin, Helena Daffern, Katherine Zeserson * Electronic Engineering Research output: Contribution to journal › Article › p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: revistas.urosario.edu.co  
    Title: urosario.edu.co Cuando el sentimiento y la música se encuentran  
-   Link: <a href="https://revistas.urosario.edu.co/index.php/desafios/article/view/7290" target="_blank" rel="noopener noreferrer nofollow">https://revistas.urosario.edu.co/index.php/desafios/article/view/7290</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La praxis sonoro-emocional en las marchas de protesta en la Ciudad de México 2015-2018 | DesafíosISSN-e: 2145-5112 ISSN: 0124-4035 DOI: h...</p></details>
+   Link:<a href="https://revistas.urosario.edu.co/index.php/desafios/article/view/7290" target="_blank" rel="noopener noreferrer nofollow">https://revistas.urosario.edu.co/index.php/desafios/article/view/7290</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La praxis sonoro-emocional en las marchas de protesta en la Ciudad de México 2015-2018 | DesafíosISSN-e: 2145-5112 ISSN: 0124-4035 DOI: h...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: neuroscience.ox.ac.uk  
-   Link: <a href="https://www.neuroscience.ox.ac.uk/publications/648542" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscience.ox.ac.uk/publications/648542</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in to others: Exploring relational and collective bonding in singing and non-singing groups over time — Oxford NeuroscienceTUNING IN TO O...</p></details>
+   Link:<a href="https://www.neuroscience.ox.ac.uk/publications/648542" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscience.ox.ac.uk/publications/648542</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in to others: Exploring relational and collective bonding in singing and non-singing groups over time — Oxford NeuroscienceTUNING IN TO O...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>together or apart: The effect of competitive and cooperative singing on social bonding within and between sub-groups of a university Frat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5074360/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>together or apart: The effect of competitive and cooperative singing on social bonding within and between sub-groups of a university Frat...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735602302004" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735602302004</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unwin, Dianna T. Kenny, Pamela J. Davis, 2002First published October 2002 Request permissions THE EFFECTS OF GROUP SINGING ON MOOD Margar...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0305735602302004" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735602302004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unwin, Dianna T. Kenny, Pamela J. Davis, 2002First published October 2002 Request permissions THE EFFECTS OF GROUP SINGING ON MOOD Margar...</p></details>
    Published: October 2002  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735616667543" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735616667543</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>M. Dunbar, 2017September 16, 2016 — First published online September 16, 2016 Request permissions TUNING IN TO OTHERS: EXPLORING RELATION...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0305735616667543" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735616667543</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M. Dunbar, 2017September 16, 2016 — First published online September 16, 2016 Request permissions TUNING IN TO OTHERS: EXPLORING RELATION...</p></details>
    Published: September 16, 2016

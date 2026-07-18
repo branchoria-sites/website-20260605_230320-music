@@ -503,15 +503,15 @@ image: /assets/images/music_3a01be_albums_in_streaming_0eaed5-overview-social.jp
 Albums still matter in streaming because they do three jobs that playlists rarely do at once: they let artists make a larger statement, they give fans a shared release ritual, and they create a cultural event with a beginning, middle and aftermath. Streaming has clearly shifted everyday listening towards songs, moods and algorithmic discovery, but it has not made the album obsolete. Instead, the album has changed from the default container for recorded music into a higher-[attention]({{ 'attention/' | relative_url }}) format: something fans choose when they want context, sequence, [artwork]({{ 'artwork/' | relative_url }}), community and a sense that an artist is saying more than one single can hold.
 
 <img src="{{ "/assets/images/music_3a01be_albums_in_streaming_0eaed5-overview.webp" | relative_url }}" alt="Overview image for Albums" loading="eager" decoding="sync" fetchpriority="high">
-The contradiction is the point. Streaming rewards the track, but fandom still gathers around the album. IFPI’s 2025 data shows recorded music revenue remains dominated by streaming, with subscription streaming accounting for more than half of global recorded music revenue in 2024; Reuters later reported IFPI’s 2025 figure at US$31.7 billion, with streaming accounting for 70% of global recorded music income. Yet album-sized releases still shape [charts]({{ 'charts/' | relative_url }}), tours, criticism, [vinyl]({{ 'vinyl/' | relative_url }}) sales, fan theories and social media discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span>
+The contradiction is the point. Streaming rewards the track, but fandom still gathers around the album. IFPI’s 2025 data shows recorded music revenue remains dominated by streaming, with subscription streaming accounting for more than half of global recorded music revenue in 2024; Reuters later reported IFPI’s 2025 figure at US$31.7 billion, with streaming accounting for 70% of global recorded music income. Yet album-sized releases still shape [charts]({{ 'charts/' | relative_url }}), tours, criticism, [vinyl]({{ 'vinyl/' | relative_url }}) sales, fan theories and social media discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span>
 
 ## The album is no longer the default, but it is still the statement
 
 The older album era made the album the normal way to buy and understand recorded music. LPs, cassettes and CDs pushed listeners towards a bounded work: cover art, side breaks, liner notes, track order, hidden songs, singles placed in context. Streaming weakened that practical necessity. A listener can now search one chorus, follow a mood playlist, hear a viral clip, or let an algorithm decide the next track without ever entering the album page.
 
-That shift has made albums more optional, but not less meaningful. MIDiA Research argued as early as 2019 that only a minority of listeners were still behaving like traditional album listeners, with playlists reducing full-album consumption. Its point was not that albums had vanished, but that their “addressable audience” had narrowed: the album had stopped being a mass default and become more associated with deliberate listening and committed fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/the-future-of-music-a-vision-of-post-format" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">MIDi A Research The future of music: A vision of post-format</span><span class="citation-popover-snippet">MIDi A Research The future of music: A vision of post-format</span></span></span>
+That shift has made albums more optional, but not less meaningful. MIDiA Research argued as early as 2019 that only a minority of listeners were still behaving like traditional album listeners, with playlists reducing full-album consumption. Its point was not that albums had vanished, but that their “addressable audience” had narrowed: the album had stopped being a mass default and become more associated with deliberate listening and committed fandom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/the-future-of-music-a-vision-of-post-format" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">MIDi A Research The future of music: A vision of post-format</span><span class="citation-popover-snippet">MIDi A Research The future of music: A vision of post-format</span></span></span>
 
-This is why the strongest modern albums often feel like arguments rather than bundles. Beyoncé’s *Cowboy Carter* was not merely a set of country-influenced tracks; it became a debate about genre [ownership]({{ 'ownership/' | relative_url }}), Black musical history and who gets to be recognised inside country and Americana. Reviews and academic discussion focused on the album’s 27-track structure, its use of country figures such as Dolly Parton and Willie Nelson, and its positioning as part of a larger multi-act project rather than a random playlist of songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Beyoncé: Cowboy Carter review</span><span class="citation-popover-snippet">The Guardian Beyoncé: Cowboy Carter review</span></span></span> Pitchfork The same logic applies beyond superstar pop. Kendrick Lamar’s surprise release <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/beyonce-cowboy-carter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Open source on pitchfork.com.</span></span></span>*GNX* mattered partly because the album form gave a scattered year of rap conflict, guest appearances and public attention a focused object. Reports at the time stressed the suddenness of the drop: a 12-track album appearing on streaming services without warning, immediately becoming something fans, critics and rival audiences could interpret together. Billboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2024-11-23/kendrick-lamar-gnx-surprise-new-album-drake-feud-grammy/104638754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">kendrick lamar gnx surprise new album drake feud grammy</span><span class="citation-popover-snippet">kendrick lamar gnx surprise new album drake feud grammy</span></span></span>
+This is why the strongest modern albums often feel like arguments rather than bundles. Beyoncé’s *Cowboy Carter* was not merely a set of country-influenced tracks; it became a debate about genre [ownership]({{ 'ownership/' | relative_url }}), Black musical history and who gets to be recognised inside country and Americana. Reviews and academic discussion focused on the album’s 27-track structure, its use of country figures such as Dolly Parton and Willie Nelson, and its positioning as part of a larger multi-act project rather than a random playlist of songs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Beyoncé: Cowboy Carter review</span><span class="citation-popover-snippet">The Guardian Beyoncé: Cowboy Carter review</span></span></span> Pitchfork The same logic applies beyond superstar pop. Kendrick Lamar’s surprise release<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/beyonce-cowboy-carter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Open source on pitchfork.com.</span></span></span>*GNX* mattered partly because the album form gave a scattered year of rap conflict, guest appearances and public attention a focused object. Reports at the time stressed the suddenness of the drop: a 12-track album appearing on streaming services without warning, immediately becoming something fans, critics and rival audiences could interpret together. Billboard<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2024-11-23/kendrick-lamar-gnx-surprise-new-album-drake-feud-grammy/104638754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">kendrick lamar gnx surprise new album drake feud grammy</span><span class="citation-popover-snippet">kendrick lamar gnx surprise new album drake feud grammy</span></span></span>
 
 A single can show that an artist has a hit. An album can show what kind of world the artist is building around that hit.
 
@@ -520,11 +520,11 @@ A single can show that an artist has a hit. An album can show what kind of world
 
 Streaming made music instantly available, but it did not remove the hunger for occasion. In fact, because the [catalogue]({{ 'catalogue/' | relative_url }}) is endless, a major album release gives fans a rare point of focus. The countdown, pre-save, midnight listen, group chat reaction, lyric decoding, ranking of tracks, deluxe-edition debate and tour speculation all turn the album into a social ritual.
 
-That ritual is visible in the biggest streaming launches. Taylor Swift’s *The Tortured Poets Department* was reported as the first album to surpass one billion Spotify streams in a single week, while also generating huge traditional sales and vinyl numbers in the United States. The striking part is not only the scale, but the combination: fans streamed it intensively while also treating the album as an object to collect, discuss and compare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/beyonce-cowboy-carter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Open source on pitchfork.com.</span></span></span>
+That ritual is visible in the biggest streaming launches. Taylor Swift’s *The Tortured Poets Department* was reported as the first album to surpass one billion Spotify streams in a single week, while also generating huge traditional sales and vinyl numbers in the United States. The striking part is not only the scale, but the combination: fans streamed it intensively while also treating the album as an object to collect, discuss and compare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/reviews/albums/beyonce-cowboy-carter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Open source on pitchfork.com.</span></span></span>
 
-Bad Bunny shows the same mechanism in a different register. Spotify’s 2025 Wrapped named him the most-streamed global artist of the year, with *Debí Tirar Más Fotos* the most-streamed global album; Associated Press also reported that the album led Spotify globally while Morgan Wallen’s *I’m The Problem* led in the United States. The album, not just one isolated single, became the unit through which listeners understood a year of Bad Bunny’s cultural presence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Listeners Worldwide Crown Bad Bunny Global Top Artist</span><span class="citation-popover-snippet">Listeners Worldwide Crown Bad Bunny Global Top Artist</span></span></span>
+Bad Bunny shows the same mechanism in a different register. Spotify’s 2025 Wrapped named him the most-streamed global artist of the year, with *Debí Tirar Más Fotos* the most-streamed global album; Associated Press also reported that the album led Spotify globally while Morgan Wallen’s *I’m The Problem* led in the United States. The album, not just one isolated single, became the unit through which listeners understood a year of Bad Bunny’s cultural presence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Listeners Worldwide Crown Bad Bunny Global Top Artist</span><span class="citation-popover-snippet">Listeners Worldwide Crown Bad Bunny Global Top Artist</span></span></span>
 
-Physical formats strengthen the ritual because they add scarcity and possession back into a streaming world. RIAA reported that US vinyl revenue surpassed US$1 billion in 2025 after 19 consecutive years of growth, even as streaming remained the overwhelming revenue engine. Luminate likewise noted that US total album consumption grew in 2025 and that physical sales and superfandom played a major role, including CD-buying patterns among K-pop fans and the wider spread of variant strategies. RIAA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate 2024 year end music report taylor swift shaboozey teddy swims</span><span class="citation-popover-snippet">luminate 2024 year end music report taylor swift shaboozey teddy swims</span></span></span>
+Physical formats strengthen the ritual because they add scarcity and possession back into a streaming world. RIAA reported that US vinyl revenue surpassed US$1 billion in 2025 after 19 consecutive years of growth, even as streaming remained the overwhelming revenue engine. Luminate likewise noted that US total album consumption grew in 2025 and that physical sales and superfandom played a major role, including CD-buying patterns among K-pop fans and the wider spread of variant strategies. RIAA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate 2024 year end music report taylor swift shaboozey teddy swims</span><span class="citation-popover-snippet">luminate 2024 year end music report taylor swift shaboozey teddy swims</span></span></span>
 
 This does not mean every variant campaign is artistically noble. Multiple editions can be criticised as chart engineering, collector pressure or environmentally questionable. But the very fact that those debates happen proves the album’s continuing symbolic weight. Nobody argues this intensely about a generic playlist placement. They argue because albums still sit at the intersection of art, commerce, identity and loyalty.
 
@@ -536,7 +536,7 @@ Playlists are excellent at reducing friction. They help listeners find songs for
 
 Albums work differently. They organise attention by asking the listener to stay with one artist’s choices for longer. Track order matters. Openers establish tone; mid-album shifts change pace; interludes can frame meaning; closers decide what lingers. Even when listeners skip around, the album page still presents a map of the work.
 
-Billie Eilish’s *Hit Me Hard and Soft* is a useful modern example because it thrived in precisely the environment that supposedly makes albums unnecessary. It was released as a full project rather than being led by a long pre-release singles campaign, and Grammy.com’s pre-release coverage framed the rollout around the album’s mood, cover art and eco-conscious physical editions. The record then became one of the biggest streaming albums of its period, with Spotify later listing it among 2025’s most-streamed global albums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grammy.com/news/billie-eilish-hit-me-hard-and-soft-album-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-title">billie eilish hit me hard and soft album release</span><span class="citation-popover-snippet">billie eilish hit me hard and soft album release</span></span></span>
+Billie Eilish’s *Hit Me Hard and Soft* is a useful modern example because it thrived in precisely the environment that supposedly makes albums unnecessary. It was released as a full project rather than being led by a long pre-release singles campaign, and Grammy.com’s pre-release coverage framed the rollout around the album’s mood, cover art and eco-conscious physical editions. The record then became one of the biggest streaming albums of its period, with Spotify later listing it among 2025’s most-streamed global albums.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grammy.com/news/billie-eilish-hit-me-hard-and-soft-album-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-title">billie eilish hit me hard and soft album release</span><span class="citation-popover-snippet">billie eilish hit me hard and soft album release</span></span></span>
 
 The album’s value here is not nostalgia for sitting beside a record player, although that still matters for some listeners. It is the ability to make contrast meaningful. A ballad feels different after a noisy track; a pop chorus lands differently after a strange interlude; a vulnerable lyric deepens when it arrives after several songs of bravado. Playlists can create flow, but they rarely create the sense that each part was placed to change the meaning of the next part.
 
@@ -547,7 +547,7 @@ That is why albums remain central to criticism and fan interpretation. Reviewers
 
 In streaming, scale matters. A single that lands on a major playlist can reach vast numbers of casual listeners. But careers are not built only on casual reach. Artists also need durable fans: people who buy tickets, share releases, purchase vinyl, follow tours, subscribe to newsletters, join Discords, watch videos, and return to catalogue tracks long after a campaign ends.
 
-Albums help identify and activate those deeper fans. Spotify’s Loud & Clear materials emphasise that streaming money flows through rights holders and that the platform paid the music industry more than US$11 billion in 2025; its artist tools also highlight pre-release hype, merch and tickets as part of a broader fan relationship rather than streaming alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">wrapped top artists songs albums podcasts audiobooks</span><span class="citation-popover-snippet">wrapped top artists songs albums podcasts audiobooks</span></span></span>
+Albums help identify and activate those deeper fans. Spotify’s Loud & Clear materials emphasise that streaming money flows through rights holders and that the platform paid the music industry more than US$11 billion in 2025; its artist tools also highlight pre-release hype, merch and tickets as part of a broader fan relationship rather than streaming alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">wrapped top artists songs albums podcasts audiobooks</span><span class="citation-popover-snippet">wrapped top artists songs albums podcasts audiobooks</span></span></span>
 
 For artists and labels, an album can therefore function as a campaign hub. Around it, they can coordinate:
 
@@ -562,9 +562,9 @@ For artists and labels, an album can therefore function as a campaign hub. Aroun
 
 </div>
 
-This is one reason K-pop’s album culture remains commercially powerful even in a streaming-first market. Luminate reported that US K-pop fans were more likely than general music listeners to buy CDs in 2025, and that many such buyers purchased multiple CDs over the year. In that context, the album is not simply a sound file; it is a fan package, a collectible and a proof of support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate 2024 year end music report taylor swift shaboozey teddy swims</span><span class="citation-popover-snippet">luminate 2024 year end music report taylor swift shaboozey teddy swims</span></span></span>
+This is one reason K-pop’s album culture remains commercially powerful even in a streaming-first market. Luminate reported that US K-pop fans were more likely than general music listeners to buy CDs in 2025, and that many such buyers purchased multiple CDs over the year. In that context, the album is not simply a sound file; it is a fan package, a collectible and a proof of support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">luminate 2024 year end music report taylor swift shaboozey teddy swims</span><span class="citation-popover-snippet">luminate 2024 year end music report taylor swift shaboozey teddy swims</span></span></span>
 
-The same mechanism has spread beyond K-pop. Taylor Swift’s recent releases, for example, have made physical editions, alternate covers and limited variants a central part of the album campaign. Those tactics can be divisive, but commercially they show that the album still does something a stream count alone cannot: it gives fandom a visible object and a shared moment of mobilisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Beyoncé: Cowboy Carter review</span><span class="citation-popover-snippet">The Guardian Beyoncé: Cowboy Carter review</span></span></span>
+The same mechanism has spread beyond K-pop. Taylor Swift’s recent releases, for example, have made physical editions, alternate covers and limited variants a central part of the album campaign. Those tactics can be divisive, but commercially they show that the album still does something a stream count alone cannot: it gives fandom a visible object and a shared moment of mobilisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Beyoncé: Cowboy Carter review</span><span class="citation-popover-snippet">The Guardian Beyoncé: Cowboy Carter review</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dp5yOhrFB3Q" title="Beyoncé: Cowboy Carter. A decade defining, double album classic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dp5yOhrFB3Q" target="_blank" rel="noopener noreferrer">Beyoncé: Cowboy Carter. A decade defining, double album classic</a></p><p class="youtube-embed-meta">Channel: Pearl Acoustics &middot; Views: 164.2K &middot; Uploaded: August 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dp5yOhrFB3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dp5yOhrFB3Q">Open on YouTube</a></p></div></div></div>
 
@@ -576,7 +576,7 @@ The two forms now coexist:
 
 Listening modeWhat it is good atWhat it often losesPlaylist listeningDiscovery, convenience, mood, background use, low-friction replayArtist context, sequencing, long-form argument, release ritualAlbum listeningArtistic identity, narrative, fan community, criticism, collectabilityCasual accessibility, instant variety, low-commitment discoveryAlgorithmic radioPersonalised continuation and passive explorationShared cultural timing and deliberate authorshipPhysical album ownershipCollecting, artwork, gifting, ritual and visible fandomPortability, affordability and environmental simplicity
 
-The tension is real. Streaming platforms tend to reward songs that can travel independently. Artists often release shorter tracks, deluxe editions or drip-fed singles to keep attention alive. Chart systems also blend streams, track-equivalent units and traditional sales, which can make the meaning of “album success” harder to read than it was in the CD era. Billboard’s album chart, for instance, is explicitly based on a multi-metric consumption model rather than old-fashioned sales alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-gnx-new-album-surprise-drop-1235836686/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">kendrick lamar gnx new album surprise drop 1235836686</span><span class="citation-popover-snippet">kendrick lamar gnx new album surprise drop 1235836686</span></span></span>
+The tension is real. Streaming platforms tend to reward songs that can travel independently. Artists often release shorter tracks, deluxe editions or drip-fed singles to keep attention alive. Chart systems also blend streams, track-equivalent units and traditional sales, which can make the meaning of “album success” harder to read than it was in the CD era. Billboard’s album chart, for instance, is explicitly based on a multi-metric consumption model rather than old-fashioned sales alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-gnx-new-album-surprise-drop-1235836686/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">kendrick lamar gnx new album surprise drop 1235836686</span><span class="citation-popover-snippet">kendrick lamar gnx new album surprise drop 1235836686</span></span></span>
 
 But that does not make the album fake. It means the album has become a hybrid object. It is a creative work, a marketing campaign, a data event, a fan ritual and sometimes a physical collectible. The weakness of the streaming-era album is that commercial tactics can distort it. The strength is that, when done well, it still gives listeners something more coherent than a feed.
 
@@ -592,162 +592,162 @@ That is why the album survives. Not because every listener plays every record fr
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JOuWl2wuRB8" title="A Brief History of the Concept Album" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JOuWl2wuRB8" target="_blank" rel="noopener noreferrer">A Brief History of the Concept Album</a></p><p class="youtube-embed-meta">Channel: Polyphonic &middot; Views: 298.1K &middot; Uploaded: May 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JOuWl2wuRB8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JOuWl2wuRB8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Albums Still Matter Now. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Albums Still Matter Now. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explores albums, listening habits, technology and the changing music ecosystem.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores albums, listening habits, technology and the changing music ecosystem.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains why listeners connect deeply with structured musical experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why listeners connect deeply with structured musical experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Provides commercial context for why album campaigns still matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides commercial context for why album campaigns still matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=31+Songs+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 31 Songs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10726445-M.jpg" alt="Cover for 31 Songs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=31+Songs+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="31 Songs">31 Songs</a>
-        </h4>
-        <p class="fr-book-author">By Nick Hornby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=31+Songs+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 31 Songs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10726445-M.jpg" alt="Cover for 31 Songs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=31+Songs+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="31 Songs">31 Songs</a>
+</h4>
+<p class="fr-book-author">By Nick Hornby</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Popular music, history and criticism, Rock music, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=31+Songs+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Popular music, history and criticism, Rock music, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=31+Songs+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Record Shop Sign, Vinyl Albums, Record Collector Sign, LP&#x27;s"><img src="{{ '/assets/images/marketplace-covers/848c99e9b7f783ba22d8.jpg' | relative_url }}" alt="Listing image for Vintage Record Shop Sign, Vinyl Albums, Record Collector Sign, LP&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Record Shop Sign, Vinyl Albums, Record Collector Sign, LP&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: music memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Record Shop Sign, Vinyl Albums, Record Collector Sign, LP&#x27;s"><img src="{{ '/assets/images/marketplace-covers/848c99e9b7f783ba22d8.jpg' | relative_url }}" alt="Listing image for Vintage Record Shop Sign, Vinyl Albums, Record Collector Sign, LP&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage Record Shop Sign, Vinyl Albums, Record Collector Sign, LP&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: music memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ozzy Osbourne Plush Bat Toy with Wings - Unique Music Memorabilia Gifts"><img src="{{ '/assets/images/marketplace-covers/fb8714e518c451f6ff1c.jpg' | relative_url }}" alt="Listing image for Ozzy Osbourne Plush Bat Toy with Wings - Unique Music Memorabilia Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Ozzy Osbourne Plush Bat Toy with Wings - Unique Music Memorabilia Gifts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: music memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ozzy Osbourne Plush Bat Toy with Wings - Unique Music Memorabilia Gifts"><img src="{{ '/assets/images/marketplace-covers/fb8714e518c451f6ff1c.jpg' | relative_url }}" alt="Listing image for Ozzy Osbourne Plush Bat Toy with Wings - Unique Music Memorabilia Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Ozzy Osbourne Plush Bat Toy with Wings - Unique Music Memorabilia Gifts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: music memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=albums-why-albums-still-matter-now-music-music-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music memorabilia" data-ebay-reference="albums-why-albums-still-matter-now-music-music-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -763,7 +763,7 @@ That is why the album survives. Not because every listener plays every record fr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -783,7 +783,7 @@ That is why the album survives. Not because every listener plays every record fr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -815,7 +815,7 @@ That is why the album survives. Not because every listener plays every record fr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -867,7 +867,7 @@ That is why the album survives. Not because every listener plays every record fr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -912,7 +912,7 @@ That is why the album survives. Not because every listener plays every record fr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -953,331 +953,331 @@ That is why the album survives. Not because every listener plays every record fr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/reviews/albums/beyonce-cowboy-carter" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/beyonce-cowboy-carter</a>  
+   Link:<a href="https://pitchfork.com/reviews/albums/beyonce-cowboy-carter" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/beyonce-cowboy-carter</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: billboard.com  
    Title: kendrick lamar gnx new album surprise drop 1235836686  
-   Link: <a href="https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-gnx-new-album-surprise-drop-1235836686/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-gnx-new-album-surprise-drop-1235836686/</a>  
+   Link:<a href="https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-gnx-new-album-surprise-drop-1235836686/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-gnx-new-album-surprise-drop-1235836686/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/kendrick-lamar-lands-no-1-album-with-gnx" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/kendrick-lamar-lands-no-1-album-with-gnx</a>  
+   Link:<a href="https://pitchfork.com/news/kendrick-lamar-lands-no-1-album-with-gnx" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/kendrick-lamar-lands-no-1-album-with-gnx</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pitchfork.com  
    Title: Taylor Swift Scores 14th No. 1 Album With The Tortured Poets Department  
-   Link: <a href="https://pitchfork.com/news/taylor-swift-scores-14th-no-1-album-with-the-tortured-poets-department" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/taylor-swift-scores-14th-no-1-album-with-the-tortured-poets-department</a>  
+   Link:<a href="https://pitchfork.com/news/taylor-swift-scores-14th-no-1-album-with-the-tortured-poets-department" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/taylor-swift-scores-14th-no-1-album-with-the-tortured-poets-department</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newsroom.spotify.com  
    Title: Listeners Worldwide Crown Bad Bunny Global Top Artist  
-   Link: <a href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: riaa.com  
    Title: Reports: US Recorded Music Annual Revenue  
-   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
+   Link:<a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: grammy.com  
    Title: billie eilish hit me hard and soft album release  
-   Link: <a href="https://www.grammy.com/news/billie-eilish-hit-me-hard-and-soft-album-release/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/billie-eilish-hit-me-hard-and-soft-album-release/</a>  
+   Link:<a href="https://www.grammy.com/news/billie-eilish-hit-me-hard-and-soft-album-release/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/billie-eilish-hit-me-hard-and-soft-album-release/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsroom.spotify.com  
    Title: wrapped top artists songs albums podcasts audiobooks  
-   Link: <a href="https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/wrapped-top-artists-songs-albums-podcasts-audiobooks/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsroom.spotify.com  
    Title: 2025 music industry payouts whats next for artists  
-   Link: <a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
+   Link:<a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
+   Link:<a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/taylor-swift-beats-adeles-first-week-album-sales-record-with-the-life-of-a-showgirl" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/taylor-swift-beats-adeles-first-week-album-sales-record-with-the-life-of-a-showgirl</a>  
+   Link:<a href="https://pitchfork.com/news/taylor-swift-beats-adeles-first-week-album-sales-record-with-the-life-of-a-showgirl" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/taylor-swift-beats-adeles-first-week-album-sales-record-with-the-life-of-a-showgirl</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/charts/billboard-200/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/charts/billboard-200/</a>  
+   Link:<a href="https://www.billboard.com/charts/billboard-200/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/charts/billboard-200/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newsroom.spotify.com  
    Title: 20 most streamed music podcasts audiobooks  
-   Link: <a href="https://newsroom.spotify.com/2026-04-23/spotify-20-most-streamed-music-podcasts-audiobooks/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-04-23/spotify-20-most-streamed-music-podcasts-audiobooks/</a>  
+   Link:<a href="https://newsroom.spotify.com/2026-04-23/spotify-20-most-streamed-music-podcasts-audiobooks/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-04-23/spotify-20-most-streamed-music-podcasts-audiobooks/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: open.spotify.com  
    Title: 5K79FLRUCSys Qn VESLc Tdb  
-   Link: <a href="https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb</a>  
+   Link:<a href="https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY</a>  
+   Link:<a href="https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW</a>  
+   Link:<a href="https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: billboard.com  
    Title: luminate 2024 year end music report taylor swift shaboozey teddy swims  
-   Link: <a href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/</a>  
+   Link:<a href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ca.billboard.com  
    Title: luminate year end report 2025  
-   Link: <a href="https://ca.billboard.com/music/chart-beat/luminate-year-end-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://ca.billboard.com/music/chart-beat/luminate-year-end-report-2025</a>  
+   Link:<a href="https://ca.billboard.com/music/chart-beat/luminate-year-end-report-2025" target="_blank" rel="noopener noreferrer nofollow">https://ca.billboard.com/music/chart-beat/luminate-year-end-report-2025</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: billboard.com  
    Title: bad bunny 2025 spotify wrapped 1236127099  
-   Link: <a href="https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/</a>  
+   Link:<a href="https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: billboard.com  
    Title: riaa 2025 music report revenue streaming vinyl  
-   Link: <a href="https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/</a>  
+   Link:<a href="https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/riaa-2025-music-report-revenue-streaming-vinyl/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2026/03/RIAA-Year-End-Revenue-2025.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: riaa.com  
    Title: 2025 year end music industry revenue report riaa  
-   Link: <a href="https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/</a>  
+   Link:<a href="https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gmr.ifpi.org  
    Title: about report  
-   Link: <a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
+   Link:<a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gmr.ifpi.org  
    Title: IFPI Global Music Report 2025 Methodology  
-   Link: <a href="https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf</a>  
+   Link:<a href="https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/downloads/IFPI_Global_Music_Report_2025_Methodology.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: variety.com  
    Title: global record revenues grow to 31 7 billion ifpi 2025 1236692531  
-   Link: <a href="https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/</a>  
+   Link:<a href="https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2026/music/news/global-record-revenues-grow-to-31-7-billion-ifpi-2025-1236692531/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: variety.com  
-   Link: <a href="https://variety.com/2026/music/news/taylor-swift-vinyl-sales-rose-19th-consecutive-year-2025-luminate-year-end-report-1236630636/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2026/music/news/taylor-swift-vinyl-sales-rose-19th-consecutive-year-2025-luminate-year-end-report-1236630636/</a>  
+   Link:<a href="https://variety.com/2026/music/news/taylor-swift-vinyl-sales-rose-19th-consecutive-year-2025-luminate-year-end-report-1236630636/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2026/music/news/taylor-swift-vinyl-sales-rose-19th-consecutive-year-2025-luminate-year-end-report-1236630636/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: grammy.com  
    Title: beyonce cowboy carter review new album takeaways country  
-   Link: <a href="https://www.grammy.com/news/beyonce-cowboy-carter-review-new-album-takeaways-country/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/beyonce-cowboy-carter-review-new-album-takeaways-country/</a>  
+   Link:<a href="https://www.grammy.com/news/beyonce-cowboy-carter-review-new-album-takeaways-country/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/beyonce-cowboy-carter-review-new-album-takeaways-country/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research The future of music: A vision of post-format  
-   Link: <a href="https://www.midiaresearch.com/blog/the-future-of-music-a-vision-of-post-format" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/the-future-of-music-a-vision-of-post-format</a>  
+   Link:<a href="https://www.midiaresearch.com/blog/the-future-of-music-a-vision-of-post-format" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/the-future-of-music-a-vision-of-post-format</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: midiaresearch.com  
    Title: how streaming is changing the shape of music part i  
-   Link: <a href="https://www.midiaresearch.com/blog/how-streaming-is-changing-the-shape-of-music-part-i" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/how-streaming-is-changing-the-shape-of-music-part-i</a>  
+   Link:<a href="https://www.midiaresearch.com/blog/how-streaming-is-changing-the-shape-of-music-part-i" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/how-streaming-is-changing-the-shape-of-music-part-i</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: The Guardian Beyoncé: Cowboy Carter review  
-   Link: <a href="https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album</a>  
+   Link:<a href="https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/apr/06/beyonce-cowboy-carter-review-country-music-album</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: abc.net.au  
    Title: kendrick lamar gnx surprise new album drake feud grammy  
-   Link: <a href="https://www.abc.net.au/news/2024-11-23/kendrick-lamar-gnx-surprise-new-album-drake-feud-grammy/104638754" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-23/kendrick-lamar-gnx-surprise-new-album-drake-feud-grammy/104638754</a>  
+   Link:<a href="https://www.abc.net.au/news/2024-11-23/kendrick-lamar-gnx-surprise-new-album-drake-feud-grammy/104638754" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-11-23/kendrick-lamar-gnx-surprise-new-album-drake-feud-grammy/104638754</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: luminatedata.com  
    Title: taylor swift wasnt the only winner of physical sales in 2025  
-   Link: <a href="https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/</a>  
+   Link:<a href="https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
+   Link:<a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: vinyl record sales us taylor swift  
-   Link: <a href="https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Other top vinyl sellers included Sabrina Carpenter, Kendrick Lamar, and Billie Eilish, with classic albums like Fleetwood Mac&#x27;s &quot;Rumours&quot;...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Other top vinyl sellers included Sabrina Carpenter, Kendrick Lamar, and Billie Eilish, with classic albums like Fleetwood Mac&#x27;s &quot;Rumours&quot;...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Hit Me Hard and Soft  
-   Link: <a href="https://en.wikipedia.org/wiki/Hit_Me_Hard_and_Soft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hit_Me_Hard_and_Soft</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hit_Me_Hard_and_Soft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hit_Me_Hard_and_Soft</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Album era  
-   Link: <a href="https://en.wikipedia.org/wiki/Album_era" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Album_era</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Album_era" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Album_era</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: luminatedata.com  
    Title: midyear music industry report 2025  
-   Link: <a href="https://luminatedata.com/reports/midyear-music-industry-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/midyear-music-industry-report-2025/</a>  
+   Link:<a href="https://luminatedata.com/reports/midyear-music-industry-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/midyear-music-industry-report-2025/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: luminatedata.com  
    Title: what rb hard rock and christian music tell us about fan growth in 2025  
-   Link: <a href="https://luminatedata.com/blog/what-rb-hard-rock-and-christian-music-tell-us-about-fan-growth-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/what-rb-hard-rock-and-christian-music-tell-us-about-fan-growth-in-2025/</a>  
+   Link:<a href="https://luminatedata.com/blog/what-rb-hard-rock-and-christian-music-tell-us-about-fan-growth-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/what-rb-hard-rock-and-christian-music-tell-us-about-fan-growth-in-2025/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: midiaresearch.com  
    Title: preparing for the post album music industry  
-   Link: <a href="https://www.midiaresearch.com/blog/preparing-for-the-post-album-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/preparing-for-the-post-album-music-industry</a>  
+   Link:<a href="https://www.midiaresearch.com/blog/preparing-for-the-post-album-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/preparing-for-the-post-album-music-industry</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
    Title: luminate 2024 year end music report taylor swifts tortured poets department was  
-   Link: <a href="https://www.facebook.com/Billboard/posts/luminate-2024-year-end-music-report-taylor-swifts-tortured-poets-department-was-/984974826836429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/luminate-2024-year-end-music-report-taylor-swifts-tortured-poets-department-was-/984974826836429/</a>  
+   Link:<a href="https://www.facebook.com/Billboard/posts/luminate-2024-year-end-music-report-taylor-swifts-tortured-poets-department-was-/984974826836429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/luminate-2024-year-end-music-report-taylor-swifts-tortured-poets-department-was-/984974826836429/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
+   Link:<a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WVTM13/posts/spotify-wrapped-is-here-and-bad-bunny-is-the-platforms-most-streamed-artist-for-/1243618537813447/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVTM13/posts/spotify-wrapped-is-here-and-bad-bunny-is-the-platforms-most-streamed-artist-for-/1243618537813447/</a>  
+   Link:<a href="https://www.facebook.com/WVTM13/posts/spotify-wrapped-is-here-and-bad-bunny-is-the-platforms-most-streamed-artist-for-/1243618537813447/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVTM13/posts/spotify-wrapped-is-here-and-bad-bunny-is-the-platforms-most-streamed-artist-for-/1243618537813447/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
    Title: spotify wrapped 2025 is out bad bunny is top  
-   Link: <a href="https://www.reddit.com/r/Music/comments/1pd6qe1/spotify_wrapped_2025_is_out_bad_bunny_is_top/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1pd6qe1/spotify_wrapped_2025_is_out_bad_bunny_is_top/</a>  
+   Link:<a href="https://www.reddit.com/r/Music/comments/1pd6qe1/spotify_wrapped_2025_is_out_bad_bunny_is_top/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1pd6qe1/spotify_wrapped_2025_is_out_bad_bunny_is_top/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: kworb.net  
    Title: Spotify Top Albums  
-   Link: <a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html</a>  
+   Link:<a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVvk02mDuKR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvk02mDuKR/</a>  
+   Link:<a href="https://www.instagram.com/p/DVvk02mDuKR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvk02mDuKR/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: scribd.com  
    Title: Luminate Year End Report 2024  
-   Link: <a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
+   Link:<a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: scribd.com  
    Title: Luminate 2025 Midyear Music Report  
-   Link: <a href="https://www.scribd.com/document/1013852423/Luminate-2025-Midyear-Music-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1013852423/Luminate-2025-Midyear-Music-Report</a>  
+   Link:<a href="https://www.scribd.com/document/1013852423/Luminate-2025-Midyear-Music-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1013852423/Luminate-2025-Midyear-Music-Report</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reprtoir.com  
    Title: luminate report mid 2025  
-   Link: <a href="https://www.reprtoir.com/blog/luminate-report-mid-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.reprtoir.com/blog/luminate-report-mid-2025</a>  
+   Link:<a href="https://www.reprtoir.com/blog/luminate-report-mid-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.reprtoir.com/blog/luminate-report-mid-2025</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: maxazine.com  
-   Link: <a href="https://maxazine.com/2024/03/29/beyonce-cowboy-carter/" target="_blank" rel="noopener noreferrer nofollow">https://maxazine.com/2024/03/29/beyonce-cowboy-carter/</a>  
+   Link:<a href="https://maxazine.com/2024/03/29/beyonce-cowboy-carter/" target="_blank" rel="noopener noreferrer nofollow">https://maxazine.com/2024/03/29/beyonce-cowboy-carter/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: ajournalofmusicalthings.com  
    Title: luminates year end report of music in 2025 is here  
-   Link: <a href="https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/" target="_blank" rel="noopener noreferrer nofollow">https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/</a>  
+   Link:<a href="https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/" target="_blank" rel="noopener noreferrer nofollow">https://www.ajournalofmusicalthings.com/luminates-year-end-report-of-music-in-2025-is-here/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=n0nS5gs36GA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n0nS5gs36GA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=n0nS5gs36GA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n0nS5gs36GA</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: chartmasters.org  
    Title: spotify most streamed artists 2025  
-   Link: <a href="https://chartmasters.org/spotify-most-streamed-artists-2025/" target="_blank" rel="noopener noreferrer nofollow">https://chartmasters.org/spotify-most-streamed-artists-2025/</a>  
+   Link:<a href="https://chartmasters.org/spotify-most-streamed-artists-2025/" target="_blank" rel="noopener noreferrer nofollow">https://chartmasters.org/spotify-most-streamed-artists-2025/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: musicindustryblog.wordpress.com  
-   Link: <a href="https://musicindustryblog.wordpress.com/category/music-[formats" target="_blank" rel="noopener noreferrer nofollow">https://musicindustryblog.wordpress.com/category/music-[formats</a>  
+   Link:<a href="https://musicindustryblog.wordpress.com/category/music-[formats" target="_blank" rel="noopener noreferrer nofollow">https://musicindustryblog.wordpress.com/category/music-[formats</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: recordoftheday.com  
-   Link: <a href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets</a>  
+   Link:<a href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: slideshare.net  
    Title: luminate mid year music report 2024 by the luminate  
-   Link: <a href="https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: newindustryfocus.com  
    Title: luminate s mid year report nominates rock and latin as highest growth genres  
-   Link: <a href="https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres</a>  
+   Link:<a href="https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres" target="_blank" rel="noopener noreferrer nofollow">https://newindustryfocus.com/articles/luminate-s-mid-year-report-nominates-rock-and-latin-as-highest-growth-genres</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/takeaways/</a>  
+   Link:<a href="https://loudandclear.byspotify.com/takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/takeaways/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: lefsetz.com  
    Title: luminate year end report  
-   Link: <a href="https://lefsetz.com/wordpress/2026/04/15/luminate-year-end-report/" target="_blank" rel="noopener noreferrer nofollow">https://lefsetz.com/wordpress/2026/04/15/luminate-year-end-report/</a>  
+   Link:<a href="https://lefsetz.com/wordpress/2026/04/15/luminate-year-end-report/" target="_blank" rel="noopener noreferrer nofollow">https://lefsetz.com/wordpress/2026/04/15/luminate-year-end-report/</a>  
 
 ### Additional References
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/fb021e2387d6aff7e4d8353a067f1664" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fb021e2387d6aff7e4d8353a067f1664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny’s “Debí Tirar Más Fotos” was the most-streamed global album, while Wallen&#x27;s “I’m The Problem” dominated in the U.S. Globally, t...</p></details>
+   Link:<a href="https://apnews.com/article/fb021e2387d6aff7e4d8353a067f1664" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/fb021e2387d6aff7e4d8353a067f1664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny’s “Debí Tirar Más Fotos” was the most-streamed global album, while Wallen&#x27;s “I’m The Problem” dominated in the U.S. Globally, t...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: youtube.com  
    Title: Why The Album Is Still Important in the Streaming Era  
-   Link: <a href="https://www.youtube.com/watch?v=S0T0Vj2k0yM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T0Vj2k0yM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Albums Dead? The Future of Music Consumption...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S0T0Vj2k0yM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T0Vj2k0yM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Albums Dead? The Future of Music Consumption...</p></details>
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVMc1XNk25u/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVMc1XNk25u/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DVMc1XNk25u/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVMc1XNk25u/?hl=en</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/creativity-commerce-journal/albums-are-dead-long-live-the-single-rethinking-the-record-in-the-streaming-era-dd3d541e8be1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/creativity-commerce-journal/albums-are-dead-long-live-the-single-rethinking-the-record-in-the-streaming-era-dd3d541e8be1</a>  
+   Link:<a href="https://medium.com/creativity-commerce-journal/albums-are-dead-long-live-the-single-rethinking-the-record-in-the-streaming-era-dd3d541e8be1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/creativity-commerce-journal/albums-are-dead-long-live-the-single-rethinking-the-record-in-the-streaming-era-dd3d541e8be1</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PopCultureUpdates/posts/bad-bunny-blocked-taylor-swift-from-being-number-one-on-the-billboard-200-chart/636130755435274/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopCultureUpdates/posts/bad-bunny-blocked-taylor-swift-from-being-number-one-on-the-billboard-200-chart/636130755435274/</a>  
+   Link:<a href="https://www.facebook.com/PopCultureUpdates/posts/bad-bunny-blocked-taylor-swift-from-being-number-one-on-the-billboard-200-chart/636130755435274/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopCultureUpdates/posts/bad-bunny-blocked-taylor-swift-from-being-number-one-on-the-billboard-200-chart/636130755435274/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/billboard_bad-bunny-scores-his-biggest-global-streaming-activity-7430736910748225536-KtM7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/billboard_bad-bunny-scores-his-biggest-global-streaming-activity-7430736910748225536-KtM7</a>  
+   Link:<a href="https://www.linkedin.com/posts/billboard_bad-bunny-scores-his-biggest-global-streaming-activity-7430736910748225536-KtM7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/billboard_bad-bunny-scores-his-biggest-global-streaming-activity-7430736910748225536-KtM7</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: x.com  
-   Link: <a href="https://x.com/chartdata/status/1996206392978575807" target="_blank" rel="noopener noreferrer nofollow">https://x.com/chartdata/status/1996206392978575807</a>  
+   Link:<a href="https://x.com/chartdata/status/1996206392978575807" target="_blank" rel="noopener noreferrer nofollow">https://x.com/chartdata/status/1996206392978575807</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/</a>  
+   Link:<a href="https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: ad-hoc-news.de  
-   Link: <a href="https://www.ad-hoc-news.de/boerse/news/ueberblick/beyonce-launches-new-us-tour-era-after-cowboy-carter/69458811" target="_blank" rel="noopener noreferrer nofollow">https://www.ad-hoc-news.de/boerse/news/ueberblick/beyonce-launches-new-us-tour-era-after-cowboy-carter/69458811</a>  
+   Link:<a href="https://www.ad-hoc-news.de/boerse/news/ueberblick/beyonce-launches-new-us-tour-era-after-cowboy-carter/69458811" target="_blank" rel="noopener noreferrer nofollow">https://www.ad-hoc-news.de/boerse/news/ueberblick/beyonce-launches-new-us-tour-era-after-cowboy-carter/69458811</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/974493764/COWBOY-CARTER-by-Beyonce-Reviews-and-Tracks-Metacritic" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/974493764/COWBOY-CARTER-by-Beyonce-Reviews-and-Tracks-Metacritic</a>
+   Link:<a href="https://www.scribd.com/document/974493764/COWBOY-CARTER-by-Beyonce-Reviews-and-Tracks-Metacritic" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/974493764/COWBOY-CARTER-by-Beyonce-Reviews-and-Tracks-Metacritic</a>

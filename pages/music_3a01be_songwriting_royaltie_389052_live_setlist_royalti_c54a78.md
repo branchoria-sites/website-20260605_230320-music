@@ -274,16 +274,16 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_roya
 
 ## Introduction
 
-Live performances generate [songwriting royalties]({{ 'publishing/' | relative_url }}) because a song is being publicly performed, whether in a pub, club, theatre, festival field or stadium. In theory, the money collected from venues and promoters should flow to the writers whose works were actually played. In practice, that depends on accurate information about the setlist. When songs cannot be matched to a performance, [royalties]({{ 'royalties/' | relative_url }}) can remain unallocated, be delayed, or ultimately be redistributed using statistical formulas rather than paid to the specific creators who earned them. The result is a persistent risk within the live music economy: missing setlists can leave money unpaid, particularly for independent writers, smaller acts and niche genres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
+Live performances generate [songwriting royalties]({{ 'publishing/' | relative_url }}) because a song is being publicly performed, whether in a pub, club, theatre, festival field or stadium. In theory, the money collected from venues and promoters should flow to the writers whose works were actually played. In practice, that depends on accurate information about the setlist. When songs cannot be matched to a performance, [royalties]({{ 'royalties/' | relative_url }}) can remain unallocated, be delayed, or ultimately be redistributed using statistical formulas rather than paid to the specific creators who earned them. The result is a persistent risk within the live music economy: missing setlists can leave money unpaid, particularly for independent writers, smaller acts and niche genres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-1-dark.svg" | relative_url }}" alt="Setlist Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why live performances generate royalties
 
-A live concert is a public performance of copyrighted musical works. Venues, promoters and other organisers typically obtain licences from performing [rights]({{ 'rights/' | relative_url }}) organisations (PROs) or collective management organisations, which collect fees and distribute royalties to songwriters and publishers. The challenge is not collecting the money; it is determining who should receive it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trolley.com">[trolley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trolley.com</span><span class="citation-popover-title">understanding payouts how are performance royalties calculated and reported</span><span class="citation-popover-snippet">How Are Performance Royalties Calculated and Reported?22 Feb 2024 — This guide serves as an entry point for those looking to understand t...</span></span></span> Many rights organisations therefore rely on direct reporting systems. In the UK, PRS for Music requires information about performances and provides tools for reporting live shows and setlists. In the United States, ASCAP's OnStage programme allows members to claim royalties from performances at licensed venues. Both systems are built around the same principle: accurate reporting links a specific performance to specific songs and songwriters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> ASCAP The importance of this link is often underestimated. A songwriter may have performed original material to a paying audience <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP OnStageASCAP OnStage gets you paid when you play your music live. You can collect royalties when you play your music live at an ASC...</span></span></span>, and the venue may have paid licence fees, yet the royalty chain can still break if the songs performed are not properly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
+A live concert is a public performance of copyrighted musical works. Venues, promoters and other organisers typically obtain licences from performing [rights]({{ 'rights/' | relative_url }}) organisations (PROs) or collective management organisations, which collect fees and distribute royalties to songwriters and publishers. The challenge is not collecting the money; it is determining who should receive it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trolley.com">[trolley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trolley.com</span><span class="citation-popover-title">understanding payouts how are performance royalties calculated and reported</span><span class="citation-popover-snippet">How Are Performance Royalties Calculated and Reported?22 Feb 2024 — This guide serves as an entry point for those looking to understand t...</span></span></span> Many rights organisations therefore rely on direct reporting systems. In the UK, PRS for Music requires information about performances and provides tools for reporting live shows and setlists. In the United States, ASCAP's OnStage programme allows members to claim royalties from performances at licensed venues. Both systems are built around the same principle: accurate reporting links a specific performance to specific songs and songwriters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> ASCAP The importance of this link is often underestimated. A songwriter may have performed original material to a paying audience<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP OnStageASCAP OnStage gets you paid when you play your music live. You can collect royalties when you play your music live at an ASC...</span></span></span>, and the venue may have paid licence fees, yet the royalty chain can still break if the songs performed are not properly documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
 
 ## The role of setlists and venue reporting
 
-Setlists are the primary evidence of what was actually played. They allow royalty societies to match performances to registered works and allocate payments accordingly. Without them, the collection side of the system may function perfectly while the distribution side becomes uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
+Setlists are the primary evidence of what was actually played. They allow royalty societies to match performances to registered works and allocate payments accordingly. Without them, the collection side of the system may function perfectly while the distribution side becomes uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
 
 ### Where the data gap appears
 
@@ -294,23 +294,23 @@ Several points in the reporting chain can fail:
 * Song titles are incomplete, misspelled or difficult to identify.
 * Handwritten records cannot be matched accurately.
 * Festival and multi-act events generate large volumes of reporting that overwhelm manual processes.
-* [DJ sets]({{ 'dj-sets/' | relative_url }}) contain hundreds of tracks, many of which are never formally reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* [DJ sets]({{ 'dj-sets/' | relative_url }}) contain hundreds of tracks, many of which are never formally reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-PRS for Music repeatedly encourages members to report live performances because royalties depend on those submissions. It has also invested in tools that allow setlists to be reused and has experimented with technology that converts photographs of handwritten setlists into usable data. These efforts exist precisely because missing performance information remains a significant problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=iTf_45k1ZJc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Collecting Your Songwriting Royalties from Live Gigs</span><span class="citation-popover-snippet">PRS for Music: How to Report Your Live Performances...</span></span></span>
+PRS for Music repeatedly encourages members to report live performances because royalties depend on those submissions. It has also invested in tools that allow setlists to be reused and has experimented with technology that converts photographs of handwritten setlists into usable data. These efforts exist precisely because missing performance information remains a significant problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=iTf_45k1ZJc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Collecting Your Songwriting Royalties from Live Gigs</span><span class="citation-popover-snippet">PRS for Music: How to Report Your Live Performances...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_8wtmGDMmBA" title="How Does ASCAP Pay Royalties? | ASCAP Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_8wtmGDMmBA" target="_blank" rel="noopener noreferrer">How Does ASCAP Pay Royalties? | ASCAP Explained</a></p><p class="youtube-embed-meta">Channel: ASCAP &middot; Views: 21.7K &middot; Uploaded: December 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_8wtmGDMmBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_8wtmGDMmBA">Open on YouTube</a></p></div></div></div>
 
 ### A measurable scale problem
 
-The issue is not confined to occasional administrative errors. Reporting from 2025 highlighted that PRS had been unable to identify songs performed at more than 100,000 UK live events since 2022 because the necessary information was unavailable or incomplete. According to documents cited in that reporting, £2.7 million from 2019 alone could not be directly allocated to the songwriters whose works had generated the revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
+The issue is not confined to occasional administrative errors. Reporting from 2025 highlighted that PRS had been unable to identify songs performed at more than 100,000 UK live events since 2022 because the necessary information was unavailable or incomplete. According to documents cited in that reporting, £2.7 million from 2019 alone could not be directly allocated to the songwriters whose works had generated the revenue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
 
 That figure matters because the underlying licence fees had already been collected. The problem was not unpaid venues but incomplete attribution.
 
 ## What happens to unallocated income
 
-When a royalty society collects money but cannot determine the correct recipient, the funds do not simply disappear. Instead, they enter what is often called a "black box" or unallocated pool. The precise rules vary by organisation and territory, but the central problem is the same: money has been collected from music use, yet the actual creators cannot be identified with sufficient confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.unh.edu">[2law.unh.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.unh.edu</span><span class="citation-popover-snippet">nse an artist&#x27;s rights to music users, monitor the use, and collect the resulting public performance royalties.Read more...</span></span></span>
+When a royalty society collects money but cannot determine the correct recipient, the funds do not simply disappear. Instead, they enter what is often called a "black box" or unallocated pool. The precise rules vary by organisation and territory, but the central problem is the same: money has been collected from music use, yet the actual creators cannot be identified with sufficient confidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.unh.edu">[2law.unh.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.unh.edu</span><span class="citation-popover-snippet">nse an artist&#x27;s rights to music users, monitor the use, and collect the resulting public performance royalties.Read more...</span></span></span>
 
-After a period of attempted matching and research, many organisations redistribute these funds according to internal methodologies. Those methodologies may rely on broader market-share calculations, existing usage data, sampling systems or other distribution formulas. Critics argue that this can channel money towards writers and publishers who are already heavily represented in reporting systems rather than towards the creators whose songs were actually performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
+After a period of attempted matching and research, many organisations redistribute these funds according to internal methodologies. Those methodologies may rely on broader market-share calculations, existing usage data, sampling systems or other distribution formulas. Critics argue that this can channel money towards writers and publishers who are already heavily represented in reporting systems rather than towards the creators whose songs were actually performed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
 
 This is why setlist gaps are more than an administrative inconvenience. A songwriter whose songs were genuinely played can lose a payment entirely if the performance cannot be identified before redistribution occurs.
 
@@ -319,222 +319,222 @@ This is why setlist gaps are more than an administrative inconvenience. A songwr
 
 The most contentious question is not whether unallocated pools exist, but how they should be handled.
 
-Critics of current systems argue that redistribution mechanisms can favour large catalogues because those catalogues already dominate measurable usage data. Smaller artists, local performers and niche genres may therefore subsidise bigger rights holders when reporting gaps occur. This criticism surfaced prominently in disputes involving PRS's handling of unallocated live-performance income and broader debates about transparency in royalty allocation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
+Critics of current systems argue that redistribution mechanisms can favour large catalogues because those catalogues already dominate measurable usage data. Smaller artists, local performers and niche genres may therefore subsidise bigger rights holders when reporting gaps occur. This criticism surfaced prominently in disputes involving PRS's handling of unallocated live-performance income and broader debates about transparency in royalty allocation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
 
-Rights organisations respond that they devote substantial resources to identifying performances, manually researching missing information, collecting setlists at events and improving reporting technology before any redistribution takes place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
+Rights organisations respond that they devote substantial resources to identifying performances, manually researching missing information, collecting setlists at events and improving reporting technology before any redistribution takes place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
 
 ## Why DJs and electronic music face a particular risk
 
 Live-band performances often involve a limited number of songs and relatively straightforward setlists. DJ performances create a more difficult reporting environment.
 
-A single DJ set may contain dozens or even hundreds of tracks, edits, remixes and partial excerpts. Unless detailed tracklists are submitted, royalty societies may have to rely on sampling methods, proxy data or venue-level assumptions. Research and industry reporting have suggested that inaccurate or incomplete track information can lead to substantial misallocation, particularly affecting electronic, underground and independent producers whose music may be widely played but poorly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
+A single DJ set may contain dozens or even hundreds of tracks, edits, remixes and partial excerpts. Unless detailed tracklists are submitted, royalty societies may have to rely on sampling methods, proxy data or venue-level assumptions. Research and industry reporting have suggested that inaccurate or incomplete track information can lead to substantial misallocation, particularly affecting electronic, underground and independent producers whose music may be widely played but poorly documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</span></span></span>
 
-The problem becomes especially visible when clubs and festivals generate licence fees but the tracks actually played cannot be reconstructed with confidence. In such cases, the creators most likely to lose out are often those outside mainstream reporting datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
+The problem becomes especially visible when clubs and festivals generate licence fees but the tracks actually played cannot be reconstructed with confidence. In such cases, the creators most likely to lose out are often those outside mainstream reporting datasets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-3-dark.svg" | relative_url }}" alt="Setlist Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can technology close the gap?
 
-The industry increasingly views setlist [identification]({{ 'identification/' | relative_url }}) as a data problem rather than merely a paperwork problem. Research into automated setlist identification has explored audio-recognition systems capable of detecting songs performed in [concerts]({{ 'concerts/' | relative_url }}) and matching them to rights databases. However, live performances are acoustically complex, with improvisation, crowd noise, altered arrangements and cover versions making identification difficult. One academic study found that automated systems could identify many, but not all, songs in concert recordings, illustrating both the promise and the limitations of current technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.02098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Investigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</span><span class="citation-popover-meta">Published: January 6, 2021</span></span></span>
+The industry increasingly views setlist [identification]({{ 'identification/' | relative_url }}) as a data problem rather than merely a paperwork problem. Research into automated setlist identification has explored audio-recognition systems capable of detecting songs performed in [concerts]({{ 'concerts/' | relative_url }}) and matching them to rights databases. However, live performances are acoustically complex, with improvisation, crowd noise, altered arrangements and cover versions making identification difficult. One academic study found that automated systems could identify many, but not all, songs in concert recordings, illustrating both the promise and the limitations of current technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.02098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Investigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</span><span class="citation-popover-meta">Published: January 6, 2021</span></span></span>
 
-At the operational level, collecting societies have experimented with image recognition, digital reporting tools and other methods to improve attribution accuracy. The direction of travel is clear: better metadata and automated identification are increasingly seen as necessary to reduce unallocated live-performance income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
+At the operational level, collecting societies have experimented with image recognition, digital reporting tools and other methods to improve attribution accuracy. The direction of travel is clear: better metadata and automated identification are increasingly seen as necessary to reduce unallocated live-performance income.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span>
 
 ## The central risk behind setlist gaps
 
 The key lesson is straightforward. Live-performance royalties are not generated solely by performing a song; they are generated by performing a song and proving that it was performed. The venue licence fee may be collected regardless, but without reliable setlist information the connection between the money and the songwriter can break.
 
-For established catalogues, the resulting losses may be diluted across large royalty streams. For independent writers, local performers and creators whose works depend heavily on live exposure, a missing setlist can mean that money earned in front of an audience never reaches the person who wrote the song. The debate over unallocated income therefore centres on a basic question of fairness: whether royalty systems can accurately identify the music that was actually played, or whether gaps in performance data continue to leave some creators unpaid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=iTf_45k1ZJc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Collecting Your Songwriting Royalties from Live Gigs</span><span class="citation-popover-snippet">PRS for Music: How to Report Your Live Performances...</span></span></span>
+For established catalogues, the resulting losses may be diluted across large royalty streams. For independent writers, local performers and creators whose works depend heavily on live exposure, a missing setlist can mean that money earned in front of an audience never reaches the person who wrote the song. The debate over unallocated income therefore centres on a basic question of fairness: whether royalty systems can accurately identify the music that was actually played, or whether gaps in performance data continue to leave some creators unpaid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=iTf_45k1ZJc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Collecting Your Songwriting Royalties from Live Gigs</span><span class="citation-popover-snippet">PRS for Music: How to Report Your Live Performances...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jrA6PJSSXXE" title="How To Collect Performance Royalties From ASCAP and BMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jrA6PJSSXXE" target="_blank" rel="noopener noreferrer">How To Collect Performance Royalties From ASCAP and BMI</a></p><p class="youtube-embed-meta">Channel: Forthright Records &middot; Views: 2.8K &middot; Uploaded: June 2020 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jrA6PJSSXXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jrA6PJSSXXE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Missing Setlists Leave Money Unpaid. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Missing Setlists Leave Money Unpaid. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Covers live-performance income and rights administration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers live-performance income and rights administration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
-        </h4>
-        <p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
+</h4>
+<p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
         
-        <p class="fr-book-desc">Provides background on performance-rights systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on performance-rights systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROLLING STONES Concert Set List - Mick Jagger Handwriting - 10&quot;x8&quot; reprint"><img src="https://i.ebayimg.com/images/g/kGAAAOSw3ShcxNz9/s-l225.jpg" alt="Listing image for ROLLING STONES Concert Set List - Mick Jagger Handwriting - 10&quot;x8&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">ROLLING STONES Concert Set List - Mick Jagger Handwriting - 10&quot;x8&quot; reprint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROLLING STONES Concert Set List - Mick Jagger Handwriting - 10&quot;x8&quot; reprint"><img src="https://i.ebayimg.com/images/g/kGAAAOSw3ShcxNz9/s-l225.jpg" alt="Listing image for ROLLING STONES Concert Set List - Mick Jagger Handwriting - 10&quot;x8&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">ROLLING STONES Concert Set List - Mick Jagger Handwriting - 10&quot;x8&quot; reprint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LIAM GALLAGHER BAND Signed Concert Set List x7 - Rock Band 2021 7&quot;x4&quot; reprint"><img src="https://i.ebayimg.com/images/g/caYAAOSwurVkyYfW/s-l225.jpg" alt="Listing image for LIAM GALLAGHER BAND Signed Concert Set List x7 - Rock Band 2021 7&quot;x4&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">LIAM GALLAGHER BAND Signed Concert Set List x7 - Rock Band 2021 7&quot;x4&quot; reprint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LIAM GALLAGHER BAND Signed Concert Set List x7 - Rock Band 2021 7&quot;x4&quot; reprint"><img src="https://i.ebayimg.com/images/g/caYAAOSwurVkyYfW/s-l225.jpg" alt="Listing image for LIAM GALLAGHER BAND Signed Concert Set List x7 - Rock Band 2021 7&quot;x4&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">LIAM GALLAGHER BAND Signed Concert Set List x7 - Rock Band 2021 7&quot;x4&quot; reprint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MICK HUCKNALL Signed SIMPLY RED Concert Set List - Brighton 2022 12&quot;x8&quot; reprint"><img src="https://i.ebayimg.com/images/g/2TwAAOSw5eVk1hEJ/s-l225.jpg" alt="Listing image for MICK HUCKNALL Signed SIMPLY RED Concert Set List - Brighton 2022 12&quot;x8&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">MICK HUCKNALL Signed SIMPLY RED Concert Set List - Brighton 2022 12&quot;x8&quot; reprint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MICK HUCKNALL Signed SIMPLY RED Concert Set List - Brighton 2022 12&quot;x8&quot; reprint"><img src="https://i.ebayimg.com/images/g/2TwAAOSw5eVk1hEJ/s-l225.jpg" alt="Listing image for MICK HUCKNALL Signed SIMPLY RED Concert Set List - Brighton 2022 12&quot;x8&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">MICK HUCKNALL Signed SIMPLY RED Concert Set List - Brighton 2022 12&quot;x8&quot; reprint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Live Aid Queen Running Order Set List Production Sheet Used Typed Original 1985"><img src="https://i.ebayimg.com/images/g/5-EAAOSwxTNlFTKj/s-l225.jpg" alt="Listing image for Live Aid Queen Running Order Set List Production Sheet Used Typed Original 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">Live Aid Queen Running Order Set List Production Sheet Used Typed Original 1985</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Live Aid Queen Running Order Set List Production Sheet Used Typed Original 1985"><img src="https://i.ebayimg.com/images/g/5-EAAOSwxTNlFTKj/s-l225.jpg" alt="Listing image for Live Aid Queen Running Order Set List Production Sheet Used Typed Original 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">Live Aid Queen Running Order Set List Production Sheet Used Typed Original 1985</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert setlist collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert setlist collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+setlist+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-missing-setlists-leave-money-unpaid-concert-setlist-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert setlist collectible" data-ebay-reference="how-missing-setlists-leave-money-unpaid-concert-setlist-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ For established catalogues, the resulting losses may be diluted across large roy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ For established catalogues, the resulting losses may be diluted across large roy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ For established catalogues, the resulting losses may be diluted across large roy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ For established catalogues, the resulting losses may be diluted across large roy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ For established catalogues, the resulting losses may be diluted across large roy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,176 +740,176 @@ For established catalogues, the resulting losses may be diluted across large roy
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: trolley.com  
    Title: understanding payouts how are performance royalties calculated and reported  
-   Link: <a href="https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/" target="_blank" rel="noopener noreferrer nofollow">https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Are Performance Royalties Calculated and Reported?22 Feb 2024 — This guide serves as an entry point for those looking to understand t...</p></details>
+   Link:<a href="https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/" target="_blank" rel="noopener noreferrer nofollow">https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Are Performance Royalties Calculated and Reported?22 Feb 2024 — This guide serves as an entry point for those looking to understand t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: law.unh.edu  
-   Link: <a href="https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nse an artist&#x27;s rights to music users, monitor the use, and collect the resulting public performance royalties.Read more...</p></details>
+   Link:<a href="https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.unh.edu/sites/default/files/media/2023/06/sharp_lobel-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nse an artist&#x27;s rights to music users, monitor the use, and collect the resulting public performance royalties.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStageASCAP OnStage gets you paid when you play your music live. You can collect royalties when you play your music live at an ASC...</p></details>
+   Link:<a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStageASCAP OnStage gets you paid when you play your music live. You can collect royalties when you play your music live at an ASC...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentOnly an ASCAP writer member can submit an OnStage claim, and you must have direct deposit set up for your royalties...</p></details>
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentOnly an ASCAP writer member can submit an OnStage claim, and you must have direct deposit set up for your royalties...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2101.02098" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.02098</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2101.02098" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.02098</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the efficacy of music version retrieval systems for setlist identificationJanuary 6, 2021...</p></details>
    Published: January 6, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OnStage, Plus Awards, Live PerformancesWe distribute royalties to the writers and publishers of the songs based upon the license fee paid...</p></details>
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OnStage, Plus Awards, Live PerformancesWe distribute royalties to the writers and publishers of the songs based upon the license fee paid...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maximize Your Membership with ASCAP OnStageASCAP OnStage - a program that pays you royalties for every concert you play at an ASCAP-licen...</p></details>
+   Link:<a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maximize Your Membership with ASCAP OnStageASCAP OnStage - a program that pays you royalties for every concert you play at an ASCAP-licen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment/payment/identifying" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/identifying</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To compensate ASCAP writers and publishers for live performances of their music, we use set lists provided by our writer members via OnSt...</p></details>
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment/payment/identifying" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/identifying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To compensate ASCAP writers and publishers for live performances of their music, we use set lists provided by our writer members via OnSt...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Collecting Your Songwriting Royalties from Live Gigs  
-   Link: <a href="https://www.youtube.com/watch?v=iTf_45k1ZJc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iTf_45k1ZJc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: How to Report Your Live Performances...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iTf_45k1ZJc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iTf_45k1ZJc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: How to Report Your Live Performances...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: PRS for Music: How to Report Your Live Performances  
-   Link: <a href="https://www.youtube.com/watch?v=9g0Zt67z8eA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g0Zt67z8eA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9g0Zt67z8eA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9g0Zt67z8eA</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: prsformusic.com  
    Title: PRS for Music Reporting live performances  
-   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReporting live performances - RoyaltiesHow you can report performances in the UK, abroad and on tour so you can get paid acc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/terms-of-use/reporting-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/terms-of-use/reporting-live-performances</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting live performances terms and conditionsMembers of the Performing Right Society Limited (“PRS”) can report their live performance...</p></details>
+   Link:<a href="https://www.prsformusic.com/terms-of-use/reporting-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/terms-of-use/reporting-live-performances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting live performances terms and conditionsMembers of the Performing Right Society Limited (“PRS”) can report their live performance...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: prsformusic.com  
    Title: when do i need to report my setlists by  
-   Link: <a href="https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReport all your live shows6 May 2025 — Report your live shows to us via your online account. You can also re-use or adapt yo...</p></details>
+   Link:<a href="https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/members-news/when-do-i-need-to-report-my-setlists-by</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReport all your live shows6 May 2025 — Report your live shows to us via your online account. You can also re-use or adapt yo...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: prsformusic.com  
    Title: how to maximise opportunities when playing live atlanta cobb  
-   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Musichow to maximise your opportunities when playing live23 Jul 2025 — Reporting your setlists from your shows ensures that PRS c...</p></details>
+   Link:<a href="https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-opportunities-when-playing-live-atlanta-cobb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Musichow to maximise your opportunities when playing live23 Jul 2025 — Reporting your setlists from your shows ensures that PRS c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: help.prsformusic.com  
-   Link: <a href="https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>long after submitting a setlist will I receive the royalties?As you may already know, PRS distributes royalties quarterly in April, July...</p></details>
+   Link:<a href="https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-long-after-submitting-a-setlist-will-i-receive-the-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>long after submitting a setlist will I receive the royalties?As you may already know, PRS distributes royalties quarterly in April, July...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: prsformusic.com  
    Title: Self-administering / Direct [licensing](&#123;&#123; 'licensing/' | relative_url &#125;&#125;) Report live performances  
-   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This means that by law only the local CMO is mandated to manage live concert rights and you will have to claim royalties directly...Read...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This means that by law only the local CMO is mandated to manage live concert rights and you will have to claim royalties directly...Read...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: help.prsformusic.com  
    Title: how do i report a performance to you  
-   Link: <a href="https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You can find it on your homepage after logging into your online account, or under the Royalties...Read more...</p></details>
+   Link:<a href="https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You can find it on your homepage after logging into your online account, or under the Royalties...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicSubmit your setlists – PRS for Music allows your clients to earn royalties when their music is performed live. Learn how at...</p></details>
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicSubmit your setlists – PRS for Music allows your clients to earn royalties when their music is performed live. Learn how at...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/livesound/comments/1odrlw7/ascap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/livesound/comments/1odrlw7/ascap_reporting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ascap reporting: r/livesoundFor each live performance at a venue that pays ASCAP/BMI to have live music You have to do the setlist submi...</p></details>
+   Link:<a href="https://www.reddit.com/r/livesound/comments/1odrlw7/ascap_reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/livesound/comments/1odrlw7/ascap_reporting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ascap reporting: r/livesoundFor each live performance at a venue that pays ASCAP/BMI to have live music You have to do the setlist submi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQHYQnCjgLI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQHYQnCjgLI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There was one gig every 137 seconds...FACT: DJs can — and should — submit setlists via the Report Live Performances tool so we can pay t...</p></details>
+   Link:<a href="https://www.instagram.com/p/DQHYQnCjgLI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQHYQnCjgLI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There was one gig every 137 seconds...FACT: DJs can — and should — submit setlists via the Report Live Performances tool so we can pay t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_8wtmGDMmBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_8wtmGDMmBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does ASCAP Pay Royalties? | ASCAP ExplainedASCAP operates on a not-for-profit basis that means nearly 90 cents of every dollar we col...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_8wtmGDMmBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_8wtmGDMmBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does ASCAP Pay Royalties? | ASCAP ExplainedASCAP operates on a not-for-profit basis that means nearly 90 cents of every dollar we col...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The songs don&#x27;t need to be recorded or released yet and it pays roughly $1-$2+ per original song...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The songs don&#x27;t need to be recorded or released yet and it pays roughly $1-$2+ per original song...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: American Society of Composers, Authors and Publishers  
-   Link: <a href="https://en.wikipedia.org/wiki/American_Society_of_Composers%2C_Authors_and_Publishers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/American_Society_of_Composers%2C_Authors_and_Publishers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Society of Composers, Authors and Publishersan American not-for-profit performance-rights organization (PRO) that collectivel...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/American_Society_of_Composers%2C_Authors_and_Publishers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/American_Society_of_Composers%2C_Authors_and_Publishers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Society of Composers, Authors and Publishersan American not-for-profit performance-rights organization (PRO) that collectivel...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: blog.songtrust.com  
    Title: how to collect live performance royalties  
-   Link: <a href="https://blog.songtrust.com/how-to-collect-live-performance-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-to-collect-live-performance-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>submit your setlists for performances to them directly, via your songwriter account. Find out how to do this on their sites below: ASCAP...</p></details>
+   Link:<a href="https://blog.songtrust.com/how-to-collect-live-performance-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-to-collect-live-performance-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>submit your setlists for performances to them directly, via your songwriter account. Find out how to do this on their sites below: ASCAP...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/wt7ly3/how_does_ascap_music_making_membership_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/wt7ly3/how_does_ascap_music_making_membership_work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ey&#x27;re telling me make an account with ASCAP. It&#x27;s supposed...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/wt7ly3/how_does_ascap_music_making_membership_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/wt7ly3/how_does_ascap_music_making_membership_work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ey&#x27;re telling me make an account with ASCAP. It&#x27;s supposed...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: royaltyexchange.com  
    Title: why transparency matters in music royalties  
-   Link: <a href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mar 2025 — Transparency in music royalties ensures artists and rights holders receive accurate payments for their work.Read more...</p></details>
+   Link:<a href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mar 2025 — Transparency in music royalties ensures artists and rights holders receive accurate payments for their work.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/348232147_Opening_the_Black_Box_of_Music_Royalties_with_the_Help_of_Hybrid_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348232147_Opening_the_Black_Box_of_Music_Royalties_with_the_Help_of_Hybrid_Intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using a design science research approach, we...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/348232147_Opening_the_Black_Box_of_Music_Royalties_with_the_Help_of_Hybrid_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348232147_Opening_the_Black_Box_of_Music_Royalties_with_the_Help_of_Hybrid_Intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using a design science research approach, we...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: orphiq.com  
    Title: performance royalties explained  
-   Link: <a href="https://orphiq.com/resources/performance-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/performance-royalties-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for ArtistsApr 9, 2026 — Performance royalties are payments earned when your composition is performed publicly. &quot;Publicly&quot; includes radio...</p></details>
+   Link:<a href="https://orphiq.com/resources/performance-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/performance-royalties-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for ArtistsApr 9, 2026 — Performance royalties are payments earned when your composition is performed publicly. &quot;Publicly&quot; includes radio...</p></details>

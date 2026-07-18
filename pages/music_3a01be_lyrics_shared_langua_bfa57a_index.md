@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-lyrics-shared-langua/
 description: Focused pages that expand on Lyrics.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_lyrics_shared_langua_bfa57a
 parent_title: Lyrics
@@ -16,7 +16,7 @@ parent_permalink: /lyrics/
 
 # Explore Topics in Lyrics
 
-The following pages expand on the main **[Lyrics]({{ '/lyrics/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Lyrics]({{ '/lyrics/' | relative_url }})** page and cover its key branches in.
 
 - [Chorus Lines]({{ '/chorus-lines/' | relative_url }})
 - [Culture]({{ '/culture/' | relative_url }})

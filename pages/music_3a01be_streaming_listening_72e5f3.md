@@ -504,28 +504,28 @@ image: /assets/images/music_3a01be_streaming_listening_72e5f3-overview-social.jp
 Streaming changed everyday listening by making music feel less like a collection of things people own and more like an always-available service. Instead of buying an album, importing files, or carrying a small library on a device, listeners can search a [catalogue]({{ 'catalogue/' | relative_url }}), tap a playlist, follow an algorithmic recommendation, or let music run in the [background]({{ 'background/' | relative_url }}) while commuting, cooking, working, exercising or relaxing. The shift matters because it has changed not only how music is paid for, but how it is chosen, remembered and fitted into ordinary routines.
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-overview.webp" | relative_url }}" alt="Overview image for Streaming" loading="eager" decoding="sync" fetchpriority="high">
-The clearest evidence is economic as well as behavioural. IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, with streaming accounting for 69.6% of recorded music income and paid subscriptions alone accounting for 52.4%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> In the United States, the RIAA reported that streaming represented 82% of total recorded music revenue for the fifth year running in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Reports: US Recorded Music Annual Revenue</span><span class="citation-popover-snippet">2025 Year-End Recorded Music Revenue Report. 2025 Highlights: US recorded music hit record high at $11.5B; Streaming revenues grew to $9...</span></span></span> Those figures do not prove that every listener has abandoned albums, radio or [physical]({{ 'physical/' | relative_url }}) [formats]({{ 'formats/' | relative_url }}), but they do show that streaming has become the central infrastructure through which recorded music is encountered.
+The clearest evidence is economic as well as behavioural. IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, with streaming accounting for 69.6% of recorded music income and paid subscriptions alone accounting for 52.4%.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> In the United States, the RIAA reported that streaming represented 82% of total recorded music revenue for the fifth year running in 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">Reports: US Recorded Music Annual Revenue</span><span class="citation-popover-snippet">2025 Year-End Recorded Music Revenue Report. 2025 Highlights: US recorded music hit record high at $11.5B; Streaming revenues grew to $9...</span></span></span> Those figures do not prove that every listener has abandoned albums, radio or [physical]({{ 'physical/' | relative_url }}) [formats]({{ 'formats/' | relative_url }}), but they do show that streaming has become the central infrastructure through which recorded music is encountered.
 
 ## Access Replaced the Personal Library
 
 The old model of recorded music was built around possession. A listener bought a CD, [vinyl]({{ 'vinyl/' | relative_url }}) record, cassette or download, and the resulting library was limited by money, storage space, taste and effort. Streaming changed that default. For a monthly fee, or through advertising-supported [access]({{ 'access/' | relative_url }}), the listener no longer needs to decide whether one album is worth buying before hearing it repeatedly. A song can be sampled once, saved, skipped, replayed, shared or forgotten with almost no friction.
 
-Research on streaming adoption repeatedly points to this access model as one of the central reasons people changed habits. A 2025 qualitative study of college students found that participants moved from CDs and downloads to music streaming mainly because of convenience and “massive song choices for a reasonable price”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</span></span></span> Earlier research on the psychology of streaming framed the same shift as a move from ownership responsibilities towards access, discovery, nostalgia and emotional use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Exploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</span><span class="citation-popover-meta">Published: October 1, 2016</span></span></span> In everyday terms, streaming reduces the practical burden of having a music collection: there is less need to rip CDs, manage files, sync devices, back up libraries or decide in advance what music will be needed later.
+Research on streaming adoption repeatedly points to this access model as one of the central reasons people changed habits. A 2025 qualitative study of college students found that participants moved from CDs and downloads to music streaming mainly because of convenience and “massive song choices for a reasonable price”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</span></span></span> Earlier research on the psychology of streaming framed the same shift as a move from ownership responsibilities towards access, discovery, nostalgia and emotional use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Exploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</span><span class="citation-popover-meta">Published: October 1, 2016</span></span></span> In everyday terms, streaming reduces the practical burden of having a music collection: there is less need to rip CDs, manage files, sync devices, back up libraries or decide in advance what music will be needed later.
 
 That convenience also changes the meaning of commitment. Buying an album once required a small bet: the listener had to care enough to spend money on that particular object or file. Streaming weakens that threshold. People can try a new artist because a song appears in a playlist, because a friend sends a link, because an app recommends it, or because a fragment has circulated elsewhere online. The cost of curiosity falls, but so does the sense that every piece of music in a library has been deliberately chosen.
 
-The result is not the death of ownership. Physical formats remain meaningful for many fans precisely because they offer tangibility, artwork, ritual and a stronger feeling of support for artists. IFPI reported that physical-format revenue grew 8.0% in 2025, helped by vinyl’s nineteenth consecutive year of growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> But for everyday listening, ownership is now often the exception rather than the default. A vinyl record may be a treasured object; the playlist or search bar is what many people use on an ordinary Tuesday.
+The result is not the death of ownership. Physical formats remain meaningful for many fans precisely because they offer tangibility, artwork, ritual and a stronger feeling of support for artists. IFPI reported that physical-format revenue grew 8.0% in 2025, helped by vinyl’s nineteenth consecutive year of growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> But for everyday listening, ownership is now often the exception rather than the default. A vinyl record may be a treasured object; the playlist or search bar is what many people use on an ordinary Tuesday.
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-1-dark.svg" | relative_url }}" alt="Streaming illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Playlists Changed the Unit of Listening
 
 Streaming did not simply put the old record shop onto a phone. It changed the unit around which listening is organised. Albums still matter, especially for major releases, devoted fandoms and critical discussion, but everyday listening increasingly happens through playlists, queues, recommendations and mood-based sessions.
 
-This is a major historical change. In the album era, listeners often entered music through an artist, a record, a genre shelf, a radio station, a chart show or a friend’s collection. In the streaming era, they may enter through a situation: “focus”, “sleep”, “gym”, “sad songs”, “dinner”, “commute”, “new music Friday”, or an automatically generated daily mix. Ofcom’s 2026 UK audio report found that relaxation, background listening and mood boosting are important drivers of music listening, while online music services remain among the most-used forms of audio. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">audio report 2026</span><span class="citation-popover-snippet">audio report 2026</span></span></span>
+This is a major historical change. In the album era, listeners often entered music through an artist, a record, a genre shelf, a radio station, a chart show or a friend’s collection. In the streaming era, they may enter through a situation: “focus”, “sleep”, “gym”, “sad songs”, “dinner”, “commute”, “new music Friday”, or an automatically generated daily mix. Ofcom’s 2026 UK audio report found that relaxation, background listening and mood boosting are important drivers of music listening, while online music services remain among the most-used forms of audio.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">audio report 2026</span><span class="citation-popover-snippet">audio report 2026</span></span></span>
 
 The practical effect is that music is increasingly selected for what it does in a moment. A listener may not ask, “Which album do I want to hear?” but “What fits this walk?”, “What keeps me working?”, “What will calm the room?”, or “What sounds like the thing I already like?” Streaming platforms are well suited to that behaviour because they can organise tracks by tempo, style, past listening, editorial category and user behaviour.
 
-Spotify’s own product language shows how normal this has become. Its 2025 Wrapped material described listening through “moments, moods, and memories”, while newer features such as weekly listening statistics, Discover Weekly, Release Radar and daylist treat everyday listening as a pattern of habits that can be summarised, refreshed and shared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">The Simple Truth About How Your Wrapped Comes to Life</span><span class="citation-popover-snippet">The Simple Truth About How Your Wrapped Comes to Life</span></span></span> The platform is not merely storing songs; it is turning listening into a stream of personalised occasions.
+Spotify’s own product language shows how normal this has become. Its 2025 Wrapped material described listening through “moments, moods, and memories”, while newer features such as weekly listening statistics, Discover Weekly, Release Radar and daylist treat everyday listening as a pattern of habits that can be summarised, refreshed and shared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">The Simple Truth About How Your Wrapped Comes to Life</span><span class="citation-popover-snippet">The Simple Truth About How Your Wrapped Comes to Life</span></span></span> The platform is not merely storing songs; it is turning listening into a stream of personalised occasions.
 
 This shift has made listening more flexible, but also more fragmented. The album remains a powerful artistic format, but many listeners encounter songs first as standalone tracks inside a playlist. An artist’s work may be heard beside dozens of unrelated tracks selected by a platform, editor or algorithm. That can help a new song travel quickly, but it can also detach music from the album sequence, artwork, liner notes, local scene or cultural context that once framed it.
 
@@ -535,11 +535,11 @@ This shift has made listening more flexible, but also more fragmented. The album
 
 Streaming’s most distinctive change is not just that listeners can access more music. It is that platforms increasingly help decide what appears next. Search still matters, and human curation has not disappeared, but algorithmic recommendation has become a routine part of music discovery.
 
-For listeners, this can feel effortless. A platform learns from plays, skips, saves, follows, playlist additions, location, time of day, device use and similarities with other listeners. It can then recommend music that feels familiar enough to keep playing but new enough to feel like discovery. MIDiA’s 2025 analysis put the change plainly: music discovery is not dead, but it has moved from older channels such as radio towards streaming and social algorithms that give listeners personalised recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">MIDi A Research Music discovery is not dead, just evolving – the industry</span><span class="citation-popover-snippet">MIDi A Research Music discovery is not dead, just evolving – the industry</span></span></span>
+For listeners, this can feel effortless. A platform learns from plays, skips, saves, follows, playlist additions, location, time of day, device use and similarities with other listeners. It can then recommend music that feels familiar enough to keep playing but new enough to feel like discovery. MIDiA’s 2025 analysis put the change plainly: music discovery is not dead, but it has moved from older channels such as radio towards streaming and social algorithms that give listeners personalised recommendations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">MIDi A Research Music discovery is not dead, just evolving – the industry</span><span class="citation-popover-snippet">MIDi A Research Music discovery is not dead, just evolving – the industry</span></span></span>
 
-Academic work helps explain why this is more than a technical feature. A 2022 First Monday study argued that music recommender systems act as active agents in shaping listening habits and taste, with users forming relationships of trust, intimacy and even betrayal with algorithmic systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-title">First Monday Don&#x27;t mess with my algorithm: Exploring the relationship</span><span class="citation-popover-snippet">First Monday Don&#x27;t mess with my algorithm: Exploring the relationship</span></span></span> A 2025 study of listening modes likewise linked streaming patterns to moods, events, daily routines, access to large catalogues and the integration of algorithmic recommendations into everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20539517251338742" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Academic work helps explain why this is more than a technical feature. A 2022 First Monday study argued that music recommender systems act as active agents in shaping listening habits and taste, with users forming relationships of trust, intimacy and even betrayal with algorithmic systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-title">First Monday Don&#x27;t mess with my algorithm: Exploring the relationship</span><span class="citation-popover-snippet">First Monday Don&#x27;t mess with my algorithm: Exploring the relationship</span></span></span> A 2025 study of listening modes likewise linked streaming patterns to moods, events, daily routines, access to large catalogues and the integration of algorithmic recommendations into everyday life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20539517251338742" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That is why recommendation can feel personal. When a playlist seems to know what a listener wants before they do, it can become part of their musical identity. But that same convenience creates a tension: if recommendations are built from past behaviour, they may reinforce what a listener already does. The UK government’s research into streaming algorithms warned that recommendation systems may prioritise some music, artists or playlists over others, and that algorithmic bias could affect visibility by genre, gender or other factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The impact of recommendation algorithms on the UK&#x27;s</span><span class="citation-popover-snippet">The impact of recommendation algorithms on the UK&#x27;s</span></span></span>
+That is why recommendation can feel personal. When a playlist seems to know what a listener wants before they do, it can become part of their musical identity. But that same convenience creates a tension: if recommendations are built from past behaviour, they may reinforce what a listener already does. The UK government’s research into streaming algorithms warned that recommendation systems may prioritise some music, artists or playlists over others, and that algorithmic bias could affect visibility by genre, gender or other factors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The impact of recommendation algorithms on the UK&#x27;s</span><span class="citation-popover-snippet">The impact of recommendation algorithms on the UK&#x27;s</span></span></span>
 
 The everyday consequence is subtle. A listener may feel more adventurous because they hear more unfamiliar tracks than before, yet still be guided within a platform-shaped corridor of similarity. Discovery becomes easier, but not necessarily freer. The listener has access to an enormous catalogue, while the visible slice of that catalogue is constantly sorted by systems they do not fully see.
 
@@ -550,7 +550,7 @@ Streaming has made music easier to weave through the day. A phone, smart speaker
 
 This does not mean people listen more attentively. In many cases, streaming makes listening more casual. Music can fill silence while the listener does something else. A playlist can run for hours without anyone choosing each track. [Autoplay]({{ 'autoplay/' | relative_url }}) can turn one song into an extended session. In this sense, streaming has strengthened music’s role as an everyday utility.
 
-The UK data is useful because it shows how broad audio habits have become. Ofcom reported in 2026 that 93% of UK adults listen to some kind of audio media each week, rising to 98% among 16- to 34-year-olds; it also identified YouTube, Spotify, BBC Sounds, Amazon Music and Apple Music as the most-used online audio services for any listening, with usage varying by audio type. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">top trends from our latest audio listening research</span><span class="citation-popover-snippet">top trends from our latest audio listening research</span></span></span> The point is not that streaming has replaced every older format, but that it now sits inside a dense daily audio environment.
+The UK data is useful because it shows how broad audio habits have become. Ofcom reported in 2026 that 93% of UK adults listen to some kind of audio media each week, rising to 98% among 16- to 34-year-olds; it also identified YouTube, Spotify, BBC Sounds, Amazon Music and Apple Music as the most-used online audio services for any listening, with usage varying by audio type.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">top trends from our latest audio listening research</span><span class="citation-popover-snippet">top trends from our latest audio listening research</span></span></span> The point is not that streaming has replaced every older format, but that it now sits inside a dense daily audio environment.
 
 This situational use has affected the language of music culture. People talk about gym playlists, study music, sleep sounds, cleaning songs, dinner playlists, sad-girl walks, focus mixes and nostalgia queues. The category is often not artist or genre first, but activity or feeling. That makes music easier to apply to life, yet it can also make tracks feel interchangeable when they are consumed mainly as mood material.
 
@@ -563,9 +563,9 @@ Streaming appears to give listeners unprecedented control. They can play almost 
 
 Yet streaming also shifts control towards platforms. Music availability depends on licensing deals, catalogue delivery, regional rights, app design, recommendation systems, subscription rules and account access. A listener may feel that a song is “theirs” because it is saved in a library, but that saved track is not the same as a bought file or physical record. It can disappear, be replaced by a different version, become unavailable in a region, or be harder to find after an interface change.
 
-Legal and policy work describes this as platformisation: streaming services are not neutral shelves but intermediaries that host music, license rights, organise access and distribute revenue through complex systems. A 2026 paper on the platformisation of music explains that streaming platforms contract with copyright holders to offer music to listeners and generally compensate rights holders through revenue-sharing systems, while the practical arrangements are irregular and platform-specific. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.library.columbia.edu">[Columbia Library Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.library.columbia.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The listener may experience a simple play button, but behind it is a layered structure of rights, data and commercial ranking.
+Legal and policy work describes this as platformisation: streaming services are not neutral shelves but intermediaries that host music, license rights, organise access and distribute revenue through complex systems. A 2026 paper on the platformisation of music explains that streaming platforms contract with copyright holders to offer music to listeners and generally compensate rights holders through revenue-sharing systems, while the practical arrangements are irregular and platform-specific.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.library.columbia.edu">[Columbia Library Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.library.columbia.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The listener may experience a simple play button, but behind it is a layered structure of rights, data and commercial ranking.
 
-This dependence also affects memory and identity. In an owned collection, the listener’s library is a record of past choices: shelves, folders, scuffed discs, downloads, playlists and mixtapes. In streaming, memory is partly outsourced to the platform. Wrapped-style summaries, algorithmic recaps and listening statistics turn personal history into shareable data. Spotify’s 2026 Taste Profile announcement went further, describing a tool that lets listeners see how Spotify understands their taste and shape what appears on the homepage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">new feature listening stats</span><span class="citation-popover-snippet">new feature listening stats</span></span></span>
+This dependence also affects memory and identity. In an owned collection, the listener’s library is a record of past choices: shelves, folders, scuffed discs, downloads, playlists and mixtapes. In streaming, memory is partly outsourced to the platform. Wrapped-style summaries, algorithmic recaps and listening statistics turn personal history into shareable data. Spotify’s 2026 Taste Profile announcement went further, describing a tool that lets listeners see how Spotify understands their taste and shape what appears on the homepage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">new feature listening stats</span><span class="citation-popover-snippet">new feature listening stats</span></span></span>
 
 That may be useful, but it also changes the relationship between taste and measurement. Listening becomes something to optimise, visualise and compare. A private habit can become a public identity card: top artists, minutes listened, most-played genres, obscure discoveries, guilty pleasures. Streaming did not invent musical self-expression, but it made the data trail of listening much more visible.
 
@@ -590,194 +590,194 @@ That has made listening more abundant and more casual at the same time. People c
 Streaming changed everyday listening because it moved music from the shelf to the flow. The old question was often “What music do I own?” The streaming-era question is more likely to be “What should play now?”
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Streaming Changed Listening Habits. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Streaming Changed Listening Habits. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Provides context for how streaming reshaped the industry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how streaming reshaped the industry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
-        </h4>
-        <p class="fr-book-author">By John Seabrook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
+</h4>
+<p class="fr-book-author">By John Seabrook</p>
         
-        <p class="fr-book-desc">Explores how modern pop production changed listening culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how modern pop production changed listening culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music Industry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KydqDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Music Industry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music Industry Handbook">The Music Industry Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Paul Rutter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music Industry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KydqDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Music Industry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music Industry Handbook">The Music Industry Handbook</a>
+</h4>
+<p class="fr-book-author">By Paul Rutter</p>
         
-        <p class="fr-book-desc">Discusses the business and cultural impact of streaming.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the business and cultural impact of streaming.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Music+Industry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Music Industry books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Music+Industry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Music Industry books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster"><img src="https://i.ebayimg.com/images/g/338AAeSwcHFo0VBT/s-l225.jpg" alt="Listing image for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster"><img src="https://i.ebayimg.com/images/g/338AAeSwcHFo0VBT/s-l225.jpg" alt="Listing image for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc"><img src="https://i.ebayimg.com/images/g/13QAAeSwyD1oiNNl/s-l225.jpg" alt="Listing image for My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc"><img src="https://i.ebayimg.com/images/g/13QAAeSwyD1oiNNl/s-l225.jpg" alt="Listing image for My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">My Chemical Romance - Vampires Will Never Hurt You Spotify Limited Flexi Disc</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spotify Print"><img src="https://i.ebayimg.com/images/g/IYoAAOSwFRdg2vVx/s-l225.jpg" alt="Listing image for Spotify Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Spotify Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spotify Print"><img src="https://i.ebayimg.com/images/g/IYoAAOSwFRdg2vVx/s-l225.jpg" alt="Listing image for Spotify Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Spotify Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-9EAAeSwko9p1T1-/s-l225.jpg" alt="Listing image for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-9EAAeSwko9p1T1-/s-l225.jpg" alt="Listing image for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-streaming-changed-listening-habits-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Spotify poster" data-ebay-reference="how-streaming-changed-listening-habits-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -793,7 +793,7 @@ Streaming changed everyday listening because it moved music from the shelf to th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -813,7 +813,7 @@ Streaming changed everyday listening because it moved music from the shelf to th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -845,7 +845,7 @@ Streaming changed everyday listening because it moved music from the shelf to th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -897,7 +897,7 @@ Streaming changed everyday listening because it moved music from the shelf to th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -942,7 +942,7 @@ Streaming changed everyday listening because it moved music from the shelf to th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -983,252 +983,252 @@ Streaming changed everyday listening because it moved music from the shelf to th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</p></details>
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</p></details>
    Published: March 18, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: riaa.com  
    Title: Reports: US Recorded Music Annual Revenue  
-   Link: <a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Year-End Recorded Music Revenue Report. 2025 Highlights: US recorded music hit record high at $11.5B; Streaming revenues grew to $9...</p></details>
+   Link:<a href="https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Year-End Recorded Music Revenue Report. 2025 Highlights: US recorded music hit record high at $11.5B; Streaming revenues grew to $9...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377066831_The_psychology_of_streaming_Exploring_music_listeners%27_motivations_to_favour_access_over_ownership</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring music listeners&#x27; motivations to favour access over...October 1, 2016 — This paper explores streaming from a psycho...</p></details>
    Published: October 1, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ofcom.org.uk  
    Title: audio report 2026  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newsroom.spotify.com  
    Title: The Simple Truth About How Your Wrapped Comes to Life  
-   Link: <a href="https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/how-your-wrapped-is-made/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newsroom.spotify.com  
    Title: new feature listening stats  
-   Link: <a href="https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-11-06/spotify-new-feature-listening-stats/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: The impact of recommendation algorithms on the UK's  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results</a>  
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry-creators-survey-results</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.library.columbia.edu  
-   Link: <a href="https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048" target="_blank" rel="noopener noreferrer nofollow">https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048</a>  
+   Link:<a href="https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048" target="_blank" rel="noopener noreferrer nofollow">https://journals.library.columbia.edu/index.php/lawandarts/article/download/14725/8048</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/</a>  
+   Link:<a href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/09/RIAA-Mid-Year-Revenue-2025.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: riaa.com  
    Title: 2025 mid year music industry revenue report riaa  
-   Link: <a href="https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/</a>  
+   Link:<a href="https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/</a>  
+   Link:<a href="https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/</a>  
+   Link:<a href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: riaa.com  
    Title: RIAA US Latin Mid Year Revenue 2025  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/10/RIAA-US-Latin-Mid-Year-Revenue-2025.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsroom.spotify.com  
    Title: 2025 wrapped user experience  
-   Link: <a href="https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/2025-wrapped-user-experience/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newsroom.spotify.com  
    Title: the art and science behind spotify wrapped  
-   Link: <a href="https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/</a>  
+   Link:<a href="https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2024-12-04/the-art-and-science-behind-spotify-wrapped/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: newsroom.spotify.com  
    Title: loud and clear music economics highlights  
-   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
+   Link:<a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: artists.spotify.com  
    Title: what were building for artists in 2026  
-   Link: <a href="https://artists.spotify.com/blog/what-were-building-for-artists-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/what-were-building-for-artists-in-2026</a>  
+   Link:<a href="https://artists.spotify.com/blog/what-were-building-for-artists-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/what-were-building-for-artists-in-2026</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
+   Link:<a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newsroom.spotify.com  
    Title: wrapped methodology explained  
-   Link: <a href="https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-05/wrapped-methodology-explained/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ofcom.org.uk  
    Title: top trends from our latest audio listening research  
-   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research</a>  
+   Link:<a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/top-trends-from-our-latest-audio-listening-research</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ofcom.org.uk  
    Title: audio report 2025  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ofcom.org.uk  
    Title: Audio listening in the UK  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 388827947 Effects of algorithmic curation in users' music taste on Spotify  
-   Link: <a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
+   Link:<a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
    Title: 403343293 The Platformization of Music  
-   Link: <a href="https://www.researchgate.net/publication/403343293_The_Platformization_of_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403343293_The_Platformization_of_Music</a>  
+   Link:<a href="https://www.researchgate.net/publication/403343293_The_Platformization_of_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403343293_The_Platformization_of_Music</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming</a>  
+   Link:<a href="https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391342303_A_song_for_each_moment_Identifying_listening_modes_as_reflexive_practices_in_music_streaming</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gvLs-uU9QN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gvLs-uU9QN8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gvLs-uU9QN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gvLs-uU9QN8</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b-zr4041sBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b-zr4041sBM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=b-zr4041sBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b-zr4041sBM</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: GOV.UK  
    Title: the impact of recommendation algorithms on the uks music industry  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: How Streaming Platforms Changed the Music Industry  
-   Link: <a href="https://www.youtube.com/watch?v=N4tP83R_h4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4tP83R_h4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Algorithm Shapes What We Listen To...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N4tP83R_h4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4tP83R_h4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Algorithm Shapes What We Listen To...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FjC5Jc6N5Fw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FjC5Jc6N5Fw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Music Ownership is Dying...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FjC5Jc6N5Fw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FjC5Jc6N5Fw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Music Ownership is Dying...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Why Music Ownership is Dying  
-   Link: <a href="https://www.youtube.com/watch?v=J9cTq3_g70Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J9cTq3_g70Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Streaming Changed How We Discover Music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J9cTq3_g70Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J9cTq3_g70Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Streaming Changed How We Discover Music...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: How Streaming Changed How We Discover Music  
-   Link: <a href="https://www.youtube.com/watch?v=c5wS-t14_80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c5wS-t14_80</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaming and Algorithmic Curation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c5wS-t14_80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c5wS-t14_80</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaming and Algorithmic Curation...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Psychology of Streaming and Algorithmic Curation  
-   Link: <a href="https://www.youtube.com/watch?v=P_w4vY-o8P0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_w4vY-o8P0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=P_w4vY-o8P0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_w4vY-o8P0</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ajqr.org  
-   Link: <a href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</p></details>
+   Link:<a href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research Music discovery is not dead, just evolving – the industry  
-   Link: <a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
+   Link:<a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: firstmonday.org  
    Title: First Monday Don't mess with my algorithm: Exploring the relationship  
-   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150</a>  
+   Link:<a href="https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/download/11783/11150</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20539517251338742" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20539517251338742</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20539517251338742" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20539517251338742</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
+   Link:<a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/</a>  
+   Link:<a href="https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gizmodo/posts/spotify-rolls-out-a-wrapped-for-users-entire-streaming-history/1414289857230811/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: techcrunch.com  
-   Link: <a href="https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/</a>  
+   Link:<a href="https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2021/06/02/spotify-rolls-out-new-personalized-experiences-and-playlists-including-a-mid-year-review-and-a-blended-mix-with-a-friend/</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWQ5mfDlDER/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWQ5mfDlDER/</a>  
+   Link:<a href="https://www.instagram.com/p/DWQ5mfDlDER/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWQ5mfDlDER/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600</a>  
+   Link:<a href="https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-for-thought/how-can-you-gain-back-control-of-your-music-listening-habits-against-the-algorithm-dceebdea5600</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: vi.be  
-   Link: <a href="https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf</a>  
+   Link:<a href="https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vi.be/files/research/matthias-de-rouck-music-streaming-services-and-their-path-to-financial-viability-non-confidential-version-.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/</a>  
+   Link:<a href="https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: diarydirectory.com  
-   Link: <a href="https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553" target="_blank" rel="noopener noreferrer nofollow">https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553</a>  
+   Link:<a href="https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553" target="_blank" rel="noopener noreferrer nofollow">https://www.diarydirectory.com/newsarticle/ofcom-releases-report-on-uks-media-habits/66553</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/36325338/Streaming_the_Everyday_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36325338/Streaming_the_Everyday_Life</a>  
+   Link:<a href="https://www.academia.edu/36325338/Streaming_the_Everyday_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36325338/Streaming_the_Everyday_Life</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/</a>  
+   Link:<a href="https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/17vt6c2/why_and_who_buys_digital_downloadsalbums_when/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf</a>  
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/224357/3/avila-torres-beer-2025-music-streaming-cultural-consumption-and-the-everyday-routines-of-algorithm-management-exploring.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: revistas.ucm.es  
-   Link: <a href="https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481" target="_blank" rel="noopener noreferrer nofollow">https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481</a>  
+   Link:<a href="https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481" target="_blank" rel="noopener noreferrer nofollow">https://revistas.ucm.es/index.php/TEKN/article/download/68748/4564456555481</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: omdia.tech.informa.com  
-   Link: <a href="https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk</a>
+   Link:<a href="https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk</a>

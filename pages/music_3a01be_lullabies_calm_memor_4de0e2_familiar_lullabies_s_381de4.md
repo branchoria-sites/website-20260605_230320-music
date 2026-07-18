@@ -274,7 +274,7 @@ image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabie
 
 ## Introduction
 
-A lullaby can calm a child because of its musical structure, but familiar [lullabies]({{ 'lullabies/' | relative_url }}) often gain an additional power: they become linked to memories of safety, comfort, and reliable care. Over time, a repeatedly sung bedtime song stops being just a [melody]({{ 'melody/' | relative_url }}). It becomes part of a child's emotional environment, signalling that a trusted caregiver is present and that sleep is approaching. Research suggests that while infants can relax to unfamiliar lullabies from other cultures, familiarity adds another layer of reassurance by connecting the music to previous experiences of comfort, touch, and responsive caregiving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
+A lullaby can calm a child because of its musical structure, but familiar [lullabies]({{ 'lullabies/' | relative_url }}) often gain an additional power: they become linked to memories of safety, comfort, and reliable care. Over time, a repeatedly sung bedtime song stops being just a [melody]({{ 'melody/' | relative_url }}). It becomes part of a child's emotional environment, signalling that a trusted caregiver is present and that sleep is approaching. Research suggests that while infants can relax to unfamiliar lullabies from other cultures, familiarity adds another layer of reassurance by connecting the music to previous experiences of comfort, touch, and responsive caregiving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1-dark.svg" | relative_url }}" alt="Familiar Songs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This helps explain why many families return to the same songs night after night. The calming effect comes not only from the music itself but also from the emotional associations built through repetition.
@@ -283,15 +283,15 @@ This helps explain why many families return to the same songs night after night.
 
 When a caregiver sings the same lullaby repeatedly, the song becomes embedded in a predictable routine. The child hears it while being held, rocked, fed, or prepared for sleep. After many repetitions, the music begins to function as a cue that these comforting experiences are about to occur again.
 
-Developmental and attachment research suggests that young children learn expectations about safety through repeated interactions with caregivers. Consistent responses teach them that distress can be managed and that support will be available when needed. Familiar songs can become part of this process because they are woven into the same recurring pattern of care. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Co-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Developmental and attachment research suggests that young children learn expectations about safety through repeated interactions with caregivers. Consistent responses teach them that distress can be managed and that support will be available when needed. Familiar songs can become part of this process because they are woven into the same recurring pattern of care.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Co-regulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Studies of parental singing have long noted that lullabies help create associations between music, comfort, and security. Rather than operating as isolated pieces of music, they become emotional markers within a relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICThe effects of screened presentations on lullaby practices</span><span class="citation-popover-snippet">June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</span><span class="citation-popover-meta">Published: June 27, 2017</span></span></span>
+Studies of parental singing have long noted that lullabies help create associations between music, comfort, and security. Rather than operating as isolated pieces of music, they become emotional markers within a relationship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICThe effects of screened presentations on lullaby practices</span><span class="citation-popover-snippet">June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</span><span class="citation-popover-meta">Published: June 27, 2017</span></span></span>
 
 A useful way to think about this is that the lullaby becomes a form of [memory]({{ 'memory/' | relative_url }}). Hearing the opening notes may remind a child—consciously or unconsciously—of many previous evenings when they were protected, soothed, and settled to sleep.
 
 ## Why Caregiver Songs Become Security Cues
 
-The strongest emotional associations are often tied not to a particular song but to the person singing it. Infants show a preference for familiar caregivers' voices from very early in life, and researchers have argued that singing supports bonding and attachment by combining vocal communication with emotional expression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</span></span></span>
+The strongest emotional associations are often tied not to a particular song but to the person singing it. Infants show a preference for familiar caregivers' voices from very early in life, and researchers have argued that singing supports bonding and attachment by combining vocal communication with emotional expression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</span></span></span>
 
 Because of this, a lullaby sung by a parent, grandparent, or other regular caregiver can become a highly personalised signal of security. The song carries information beyond its melody:
 
@@ -300,18 +300,18 @@ Because of this, a lullaby sung by a parent, grandparent, or other regular careg
 * The emotional tone communicates calmness and [attention]({{ 'attention/' | relative_url }}).
 * [Physical]({{ 'physical/' | relative_url }}) closeness during singing reinforces feelings of protection.
 
-Research examining infant–caregiver musical interaction describes singing as a form of co-regulation, in which adults and infants help regulate each other's emotional states through shared activity. In this context, the lullaby becomes part of a broader system of reassurance rather than merely a musical performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323000841" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Early social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</span></span></span>
+Research examining infant–caregiver musical interaction describes singing as a form of co-regulation, in which adults and infants help regulate each other's emotional states through shared activity. In this context, the lullaby becomes part of a broader system of reassurance rather than merely a musical performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1878929323000841" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Early social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</span></span></span>
 
-Evidence also suggests that familiar songs hold special significance for infants. Studies from the University of Toronto found that infants listened longer to songs they already knew, even when those songs were sung by unfamiliar voices. This indicates that familiarity itself has value and that young children can retain and recognise specific musical memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utsc.utoronto.ca">[University of Toronto Scarborough]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utsc.utoronto.ca</span><span class="citation-popover-title">babies prefer listen familiar tune even when its sung stranger</span><span class="citation-popover-snippet">University of Toronto ScarboroughBabies prefer to listen to a familiar tune – even when it&#x27;s...12 Aug 2021 — “What we found is that the...</span></span></span>
+Evidence also suggests that familiar songs hold special significance for infants. Studies from the University of Toronto found that infants listened longer to songs they already knew, even when those songs were sung by unfamiliar voices. This indicates that familiarity itself has value and that young children can retain and recognise specific musical memories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utsc.utoronto.ca">[University of Toronto Scarborough]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utsc.utoronto.ca</span><span class="citation-popover-title">babies prefer listen familiar tune even when its sung stranger</span><span class="citation-popover-snippet">University of Toronto ScarboroughBabies prefer to listen to a familiar tune – even when it&#x27;s...12 Aug 2021 — “What we found is that the...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-2-dark.svg" | relative_url }}" alt="Familiar Songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Familiarity Versus Universal Musical Cues
 
 An important question is whether familiar lullabies are calming because they are familiar or because lullabies generally contain soothing musical features.
 
-Research on infant responses to music shows that even completely unfamiliar lullabies from distant cultures can reduce physiological signs of arousal. Infants exhibit lower heart rates and other indicators of relaxation when listening to lullabies, despite having no previous exposure to the songs or languages involved. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">research shows lullabies in any language relax babies</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies19 Oct 2020 — Researchers at Harvard&#x27;s Music Lab have determined that...</span></span></span>
+Research on infant responses to music shows that even completely unfamiliar lullabies from distant cultures can reduce physiological signs of arousal. Infants exhibit lower heart rates and other indicators of relaxation when listening to lullabies, despite having no previous exposure to the songs or languages involved. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">research shows lullabies in any language relax babies</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies19 Oct 2020 — Researchers at Harvard&#x27;s Music Lab have determined that...</span></span></span>
 
-This finding suggests that lullabies possess universal musical qualities that encourage calmness. [Slow tempos]({{ 'slow-tempo/' | relative_url }}), gentle contours, repetition, and predictable rhythms appear to work across cultural boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
+This finding suggests that lullabies possess universal musical qualities that encourage calmness. [Slow tempos]({{ 'slow-tempo/' | relative_url }}), gentle contours, repetition, and predictable rhythms appear to work across cultural boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</span></span></span>
 
 Familiarity adds a second mechanism. The relationship can be understood as two overlapping layers:
 
@@ -324,197 +324,197 @@ Rather than competing explanations, these mechanisms complement one another. A l
 
 Across cultures and historical periods, caregivers have often maintained small repertoires of bedtime songs that are sung repeatedly over long stretches of childhood. This persistence makes sense in light of what is known about familiarity and emotional learning.
 
-A constantly changing selection of songs may provide musical variety, but a stable lullaby can accumulate emotional meaning. The song becomes part of the family's nightly [ritual]({{ 'ritual/' | relative_url }}) and a reliable signal that the environment is safe. For some children, hearing a familiar lullaby years later can evoke memories of childhood comfort, demonstrating how strongly music can become linked to feelings of security and belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICThe effects of screened presentations on lullaby practices</span><span class="citation-popover-snippet">June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</span><span class="citation-popover-meta">Published: June 27, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://voices.no/index.php/voices/article/view/1650/1410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voices.no">[Voices In this way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voices.no</span><span class="citation-popover-snippet">Lullabies and Play songsby M Bargiel · 2004 · Cited by 58 — This study considers the impact of lullabies and play songs, as well as paren...</span></span></span>, familiar lullabies illustrate an important aspect of how music calms. The melody matters, but the history attached to the melody matters as well. Repeated caregiver singing transforms a simple song into an emotional landmark—one that tells a child, again and again, that they are cared for and safe.
+A constantly changing selection of songs may provide musical variety, but a stable lullaby can accumulate emotional meaning. The song becomes part of the family's nightly [ritual]({{ 'ritual/' | relative_url }}) and a reliable signal that the environment is safe. For some children, hearing a familiar lullaby years later can evoke memories of childhood comfort, demonstrating how strongly music can become linked to feelings of security and belonging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICThe effects of screened presentations on lullaby practices</span><span class="citation-popover-snippet">June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</span><span class="citation-popover-meta">Published: June 27, 2017</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://voices.no/index.php/voices/article/view/1650/1410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voices.no">[Voices In this way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voices.no</span><span class="citation-popover-snippet">Lullabies and Play songsby M Bargiel · 2004 · Cited by 58 — This study considers the impact of lullabies and play songs, as well as paren...</span></span></span>, familiar lullabies illustrate an important aspect of how music calms. The melody matters, but the history attached to the melody matters as well. Repeated caregiver singing transforms a simple song into an emotional landmark—one that tells a child, again and again, that they are cared for and safe.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Familiar Lullabies Feel Safer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Familiar Lullabies Feel Safer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Examines music, memory, and emotional associations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines music, memory, and emotional associations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Useful background on how repeated musical exposure shapes perception and response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on how repeated musical exposure shapes perception and response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attachment+Connection+Ruth+P.+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attachment Connection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7095459-M.jpg" alt="Cover for The Attachment Connection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Attachment+Connection+Ruth+P.+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attachment Connection">The Attachment Connection</a>
-        </h4>
-        <p class="fr-book-author">By Ruth P. Newton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Attachment+Connection+Ruth+P.+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Attachment Connection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7095459-M.jpg" alt="Cover for The Attachment Connection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Attachment+Connection+Ruth+P.+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Attachment Connection">The Attachment Connection</a>
+</h4>
+<p class="fr-book-author">By Ruth P. Newton</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Attachment behavior, Parenting, Parent and child, Child rearing, Child development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Attachment+Connection+Ruth+P.+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Attachment behavior, Parenting, Parent and child, Child rearing, Child development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Attachment+Connection+Ruth+P.+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+power+of+showing+up+Daniel+J.+Siegel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The power of showing up on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9258890-M.jpg" alt="Cover for The power of showing up" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+power+of+showing+up+Daniel+J.+Siegel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The power of showing up">The power of showing up</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Siegel, Tina Payne Bryson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+power+of+showing+up+Daniel+J.+Siegel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The power of showing up on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9258890-M.jpg" alt="Cover for The power of showing up" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+power+of+showing+up+Daniel+J.+Siegel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The power of showing up">The power of showing up</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Siegel, Tina Payne Bryson</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Psychology, Parenting, Parent and child.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+power+of+showing+up+Daniel+J.+Siegel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Psychology, Parenting, Parent and child.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+power+of+showing+up+Daniel+J.+Siegel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attachment+Connection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attachment Connection</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Attachment+Connection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Attachment Connection</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor"><img src="{{ '/assets/images/marketplace-covers/91b206abc52b7700858f.jpg' | relative_url }}" alt="Listing image for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor"><img src="{{ '/assets/images/marketplace-covers/91b206abc52b7700858f.jpg' | relative_url }}" alt="Listing image for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art"><img src="{{ '/assets/images/marketplace-covers/55e0ae15f78fcf36cd7d.jpg' | relative_url }}" alt="Listing image for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art"><img src="{{ '/assets/images/marketplace-covers/55e0ae15f78fcf36cd7d.jpg' | relative_url }}" alt="Listing image for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art"><img src="{{ '/assets/images/marketplace-covers/9c97288735f416b2cd4e.jpg' | relative_url }}" alt="Listing image for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art"><img src="{{ '/assets/images/marketplace-covers/9c97288735f416b2cd4e.jpg' | relative_url }}" alt="Listing image for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse"><img src="{{ '/assets/images/marketplace-covers/b64a3bb1e3c0b1e8a08c.jpg' | relative_url }}" alt="Listing image for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse"><img src="{{ '/assets/images/marketplace-covers/b64a3bb1e3c0b1e8a08c.jpg' | relative_url }}" alt="Listing image for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="familiar-songs-why-familiar-lullabies-feel-safer-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ A constantly changing selection of songs may provide musical variety, but a stab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ A constantly changing selection of songs may provide musical variety, but a stab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ A constantly changing selection of songs may provide musical variety, but a stab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ A constantly changing selection of songs may provide musical variety, but a stab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ A constantly changing selection of songs may provide musical variety, but a stab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,113 +720,113 @@ A constantly changing selection of songs may provide musical variety, but a stab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfants relax in response to unfamiliar foreign lullabies  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by CM Bainbridge · 2020 · Cited by 117 — We show that American infants (N = 144) relax in response to 8 unfamiliar foreign lullabies...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.harvard.edu  
    Title: research shows lullabies in any language relax babies  
-   Link: <a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babies19 Oct 2020 — Researchers at Harvard&#x27;s Music Lab have determined that...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babies19 Oct 2020 — Researchers at Harvard&#x27;s Music Lab have determined that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Co-regulation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Co-regulation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Co-regulation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Co-regulation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Attachment theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Attachment_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Attachment_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Attachment_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Attachment_theory</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.eric.ed.gov  
    Title: ERICThe effects of screened presentations on lullaby practices  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1146386.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1146386.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1146386.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 27, 2017 — by W Brooks · 2016 · Cited by 20 — Lullabies are perhaps the best-known genre of music for infants, an emotional closenes...</p></details>
    Published: June 27, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: voices.no  
-   Link: <a href="https://voices.no/index.php/voices/article/view/1650/1410" target="_blank" rel="noopener noreferrer nofollow">https://voices.no/index.php/voices/article/view/1650/1410</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies and Play songsby M Bargiel · 2004 · Cited by 58 — This study considers the impact of lullabies and play songs, as well as paren...</p></details>
+   Link:<a href="https://voices.no/index.php/voices/article/view/1650/1410" target="_blank" rel="noopener noreferrer nofollow">https://voices.no/index.php/voices/article/view/1650/1410</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies and Play songsby M Bargiel · 2004 · Cited by 58 — This study considers the impact of lullabies and play songs, as well as paren...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8393253/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by I Poćwierz-Marciniak · 2021 · Cited by 45 — To summarize, a mother&#x27;s singing does not only facilitate musical development, but also...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1878929323000841" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1878929323000841</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1878929323000841" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1878929323000841</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early social communication through music: State of the art...by T Nguyen · 2023 · Cited by 56 — This research focuses on ho...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: voices.no  
-   Link: <a href="https://voices.no/index.php/voices/article/view/1693/1453" target="_blank" rel="noopener noreferrer nofollow">https://voices.no/index.php/voices/article/view/1693/1453</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Familiarity, Comfortableness and Predictability of Song as &quot;...by LRM Barcellos · 2006 · Cited by 16 — The lullabies can touch the...</p></details>
+   Link:<a href="https://voices.no/index.php/voices/article/view/1693/1453" target="_blank" rel="noopener noreferrer nofollow">https://voices.no/index.php/voices/article/view/1693/1453</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Familiarity, Comfortableness and Predictability of Song as &quot;...by LRM Barcellos · 2006 · Cited by 16 — The lullabies can touch the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: utsc.utoronto.ca  
    Title: babies prefer listen familiar tune even when its sung stranger  
-   Link: <a href="https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger" target="_blank" rel="noopener noreferrer nofollow">https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto ScarboroughBabies prefer to listen to a familiar tune – even when it&#x27;s...12 Aug 2021 — “What we found is that the...</p></details>
+   Link:<a href="https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger" target="_blank" rel="noopener noreferrer nofollow">https://utsc.utoronto.ca/news-events/breaking-research/babies-prefer-listen-familiar-tune-even-when-its-sung-stranger</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto ScarboroughBabies prefer to listen to a familiar tune – even when it&#x27;s...12 Aug 2021 — “What we found is that the...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hekint.org  
-   Link: <a href="https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/" target="_blank" rel="noopener noreferrer nofollow">https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hektoen InternationalThe role of lullabies in mother-baby attachmentby Ö Suzan — Research shows that in babies who are separated from the...</p></details>
+   Link:<a href="https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/" target="_blank" rel="noopener noreferrer nofollow">https://hekint.org/2021/10/01/the-role-of-lullabies-in-mother-baby-attachment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hektoen InternationalThe role of lullabies in mother-baby attachmentby Ö Suzan — Research shows that in babies who are separated from the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesHere, we show that US infants (N = 144) relax in response to eight unfamiliar fo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesHere, we show that US infants (N = 144) relax in response to eight unfamiliar fo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: achildgrows.com  
    Title: how music helps to bond with baby an attachment perspective  
-   Link: <a href="https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Helps to Bond with Baby: An Attachment...12 Nov 2015 — Research studies have shown that babies become more alert when their mo...</p></details>
+   Link:<a href="https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://www.achildgrows.com/2015/11/12/how-music-helps-to-bond-with-baby-an-attachment-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Helps to Bond with Baby: An Attachment...12 Nov 2015 — Research studies have shown that babies become more alert when their mo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cocomoonhawaii.com  
    Title: the science of lullabies how they support baby development  
-   Link: <a href="https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM" target="_blank" rel="noopener noreferrer nofollow">https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Lullabies: How They Support Baby...18 Mar 2025 — Lullabies are more than just bedtime songs—they help babies sleep better...</p></details>
+   Link:<a href="https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM" target="_blank" rel="noopener noreferrer nofollow">https://cocomoonhawaii.com/blogs/blog/the-science-of-lullabies-how-they-support-baby-development?srsltid=AfmBOopi5Pb5supHTWFJS54AehAUhTnZ7Rm0Le9JsCgMf81DeeiuVPpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Lullabies: How They Support Baby...18 Mar 2025 — Lullabies are more than just bedtime songs—they help babies sleep better...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Lullabies hold far more power than most caregivers realize  
-   Link: <a href="https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies also strengthen emotional bonds. A familiar voice combined with gentle melody signals safety to the nervous system. This sense...</p></details>
+   Link:<a href="https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Explainingtheworlld/posts/lullabies-hold-far-more-power-than-most-caregivers-realize-neuroscience-shows-th/858645320147047/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies also strengthen emotional bonds. A familiar voice combined with gentle melody signals safety to the nervous system. This sense...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Research shows that singing to babies is not just soothing  
-   Link: <a href="https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music from a caregiver&#x27;s voice also triggers oxytocin, the bonding hormone, which builds a foundation for emotional safety. When parents...</p></details>
+   Link:<a href="https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-singing-to-babies-is-not-just-soothing-it-is-biologically-re/26409845065289199/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music from a caregiver&#x27;s voice also triggers oxytocin, the bonding hormone, which builds a foundation for emotional safety. When parents...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s voice over recorded music or unfamiliar singers, even if the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mercywithgraces.cabural/posts/research-shows-that-when-you-sing-to-your-baby-its-not-just-a-lullaby-its-one-of/25755160234091022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s voice over recorded music or unfamiliar singers, even if the...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>over recorded music or unfamiliar singers, even if the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedoctorasky/posts/soft-singing-has-a-unique-effect-on-a-baby-because-the-gentle-melody-creates-a-s/1476988370654692/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>over recorded music or unfamiliar singers, even if the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scottishbooktrust.com  
    Title: sleep baby sleep the power of lullabies  
-   Link: <a href="https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep baby sleep: the power of lullabies19 Dec 2024 — Discover the many benefits that a simple lullaby can have on the emotional wellbein...</p></details>
+   Link:<a href="https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.scottishbooktrust.com/articles/sleep-baby-sleep-the-power-of-lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep baby sleep: the power of lullabies19 Dec 2024 — Discover the many benefits that a simple lullaby can have on the emotional wellbein...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They concluded that seeing their...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/43451048_Nurturing_Herself_Nurturing_Her_Baby_Creating_Positive_Experiences_for_First-time_Mothers_through_Lullaby_Singing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They concluded that seeing their...Read more...</p></details>

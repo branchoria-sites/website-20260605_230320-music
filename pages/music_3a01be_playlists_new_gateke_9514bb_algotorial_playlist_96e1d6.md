@@ -268,24 +268,24 @@ image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playli
 
 ## Introduction
 
-A modern streaming playlist often looks deceptively simple: a title, a cover image and a sequence of songs. Behind that surface, however, sits a layered system of human editors, recommendation algorithms, behavioural data and [catalogue]({{ 'catalogue/' | relative_url }}) analysis. This hybrid approach is often described as “algotorial” curation—a blend of algorithmic and editorial decision-making. Spotify itself uses the term to describe situations where editors and machine-learning systems work together rather than operating separately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">This collaboration is critical to the Spotify experience.Read more</span><span class="citation-popover-snippet">Responsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</span></span></span>
+A modern streaming playlist often looks deceptively simple: a title, a cover image and a sequence of songs. Behind that surface, however, sits a layered system of human editors, recommendation algorithms, behavioural data and [catalogue]({{ 'catalogue/' | relative_url }}) analysis. This hybrid approach is often described as “algotorial” curation—a blend of algorithmic and editorial decision-making. Spotify itself uses the term to describe situations where editors and machine-learning systems work together rather than operating separately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">This collaboration is critical to the Spotify experience.Read more</span><span class="citation-popover-snippet">Responsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1-dark.svg" | relative_url }}" alt="Algotorial illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding this hidden playlist machine helps explain why playlists became the new radio. Radio audiences once heard the same programme at the same time. Streaming platforms increasingly deliver playlist brands that appear identical while quietly changing from listener to listener. The result is a form of curation that feels personal but is often difficult to see, inspect or fully understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Types of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</span></span></span>
+Understanding this hidden playlist machine helps explain why playlists became the new radio. Radio audiences once heard the same programme at the same time. Streaming platforms increasingly deliver playlist brands that appear identical while quietly changing from listener to listener. The result is a form of curation that feels personal but is often difficult to see, inspect or fully understand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Types of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</span></span></span>
 
 ## How Editors and Algorithms Share Playlist Decisions
 
 The common assumption is that playlists are either human-curated or algorithmically generated. In practice, many influential playlists occupy a middle ground.
 
-Spotify states that some personalised playlists are built from pools of tracks selected by editors, after which algorithms decide which songs appear for individual listeners. In other cases, editors use audience and listening data to guide their selections while retaining final control over playlist composition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">behind the playlists your questions answered by our playlist editors</span><span class="citation-popover-snippet">Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl...</span></span></span>
+Spotify states that some personalised playlists are built from pools of tracks selected by editors, after which algorithms decide which songs appear for individual listeners. In other cases, editors use audience and listening data to guide their selections while retaining final control over playlist composition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">behind the playlists your questions answered by our playlist editors</span><span class="citation-popover-snippet">Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl...</span></span></span>
 
 This division of labour reflects the strengths of each side:
 
 * **Editors** contribute cultural knowledge, genre expertise and awareness of emerging artists, scenes and releases.
 * **Algorithms** contribute scale, analysing millions of listening sessions and adapting recommendations to individual users.
-* **Data systems** measure engagement signals such as skips, saves, replays and listening duration, providing feedback about how tracks perform in different contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering &#124; Mike Warner &#124; 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
+* **Data systems** measure engagement signals such as skips, saves, replays and listening duration, providing feedback about how tracks perform in different contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering &#124; Mike Warner &#124; 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
 
-Spotify Engineering describes algotorial playlists as products where human expertise and machine personalisation work together. Rather than replacing editors, recommendation systems help determine which versions of a playlist best fit different listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering &#124; Mike Warner &#124; 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
+Spotify Engineering describes algotorial playlists as products where human expertise and machine personalisation work together. Rather than replacing editors, recommendation systems help determine which versions of a playlist best fit different listeners.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Spotify Engineering &#124; Mike Warner &#124; 17 comments</span><span class="citation-popover-snippet">May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</span><span class="citation-popover-meta">Published: May 21, 2023</span></span></span>
 
 This is a significant departure from broadcast radio. A radio station typically sends one sequence of songs to everyone. An algotorial playlist can operate more like a template whose final contents vary according to who is listening.
 
@@ -295,7 +295,7 @@ This is a significant departure from broadcast radio. A radio station typically 
 
 One of the least visible aspects of playlist [culture]({{ 'culture/' | relative_url }}) is that a playlist name does not necessarily describe a fixed list of songs.
 
-Spotify introduced personalised versions of certain editorial playlists so that listeners could receive different track selections under the same playlist brand. Reporting at the time noted that mood- and activity-focused playlists could contain algorithmically customised sections, meaning two listeners might encounter different versions of what appears to be the same playlist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</span></span></span>
+Spotify introduced personalised versions of certain editorial playlists so that listeners could receive different track selections under the same playlist brand. Reporting at the time noted that mood- and activity-focused playlists could contain algorithmically customised sections, meaning two listeners might encounter different versions of what appears to be the same playlist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</span></span></span>
 
 This approach solves a problem faced by streaming services. A playlist called “Workout”, “Dinner” or “Chill” attracts audiences with very different tastes. One listener may prefer electronic music, another indie rock, another contemporary pop. Instead of maintaining thousands of narrowly targeted playlists, platforms can personalise a single playlist identity.
 
@@ -305,7 +305,7 @@ The playlist brand therefore performs two jobs at once:
 1. It communicates a mood, activity or purpose.
 2. It acts as a delivery framework for personalised recommendations.
 
-The listener sees a stable product. The underlying contents may be continuously adjusted according to listening history, region, age of account, followed artists, saved tracks and recent behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</span></span></span>
+The listener sees a stable product. The underlying contents may be continuously adjusted according to listening history, region, age of account, followed artists, saved tracks and recent behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</span></span></span>
 
 This flexibility helps explain why playlists increasingly function like radio [formats]({{ 'formats/' | relative_url }}) rather than simple collections. The brand remains familiar even as the programme changes.
 
@@ -315,9 +315,9 @@ This flexibility helps explain why playlists increasingly function like radio [f
 
 The recommendation systems behind playlist personalisation depend heavily on recognising patterns across large numbers of listeners.
 
-One important technique is collaborative filtering, often described as co-listening analysis. Instead of focusing on the musical characteristics of a song, the system examines behavioural relationships. If many users who enjoy Artist A also regularly play Artist B, the platform can infer a connection even when the genres seem different on paper. Spotify's recommendation architecture has long relied on this kind of behavioural matching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Musica Globalista: Spotify Discovery engine</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
+One important technique is collaborative filtering, often described as co-listening analysis. Instead of focusing on the musical characteristics of a song, the system examines behavioural relationships. If many users who enjoy Artist A also regularly play Artist B, the platform can infer a connection even when the genres seem different on paper. Spotify's recommendation architecture has long relied on this kind of behavioural matching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Musica Globalista: Spotify Discovery engine</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
 
-A second layer analyses the music itself. Streaming platforms extract features from audio recordings and metadata, including characteristics associated with tempo, energy, mood, instrumentation and other musical traits. These signals help systems identify tracks that may fit together even when listener data is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Musica Globalista: Spotify Discovery engine</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
+A second layer analyses the music itself. Streaming platforms extract features from audio recordings and metadata, including characteristics associated with tempo, energy, mood, instrumentation and other musical traits. These signals help systems identify tracks that may fit together even when listener data is limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Musica Globalista: Spotify Discovery engine</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
 
 A simplified version of the process looks like this:
 
@@ -328,9 +328,9 @@ A simplified version of the process looks like this:
 1. The platform collects listening behaviour from millions of users.
 2. Algorithms identify clusters of similar listeners.
 3. Audio and metadata systems identify musical similarities between tracks.
-4. Editorial teams define playlist concepts, genres, moods or candidate song pools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial Playlists15 Mar 2026 — How Spotify editorial playlists work, what editors look for, and how to increase y...</span></span></span>
+4. Editorial teams define playlist concepts, genres, moods or candidate song pools.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[orphiq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial Playlists15 Mar 2026 — How Spotify editorial playlists work, what editors look for, and how to increase y...</span></span></span>
 5. Personalisation systems assemble final recommendations for individual users. [Spotify Engineering](#endnote-23 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) [Spotify The result is not purely machine-generated and not purely human-selected. It is an ongoi...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) [Spotify The result is not purely machine-generated and not purely human-selected. It is an ongoi...</p></details>
 
 </div>
 
@@ -339,12 +339,12 @@ A simplified version of the process looks like this:
 Algotorial systems create feedback loops that differ from traditional radio programming.
 
 When a track appears in a playlist, the platform can immediately observe how listeners respond. Saves, replays, completion rates, skips and subsequent listening activity become signals that feed future recommendations. Songs that perform well may appear in more recommendation surfaces; songs that perform poorly may lose visibility. [Spotify for Artists](#endnote-6 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl&quot;)...</p></details>
 
 This creates a dynamic environment in which playlists are constantly learning from audience behaviour. Unlike radio, where audience measurement traditionally arrived through surveys, ratings panels or delayed analytics, streaming platforms can observe interactions almost instantly.
 
 The consequence is that playlist curation becomes partly predictive and partly reactive. Editors may introduce a track because they believe it deserves [attention]({{ 'attention/' | relative_url }}). Algorithms then evaluate how audiences respond and adjust future exposure accordingly. [Spotify Engineering](#endnote-23 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;)...</p></details>
 
 For listeners, this often feels seamless. For artists, it can mean that visibility depends not only on securing playlist placement but also on how audiences behave once the placement occurs.
 
@@ -355,200 +355,200 @@ Most listeners encounter only the front end of the system. They see playlist nam
 Part of this opacity comes from the blending of roles. A playlist can simultaneously reflect editorial taste, machine-learning predictions, catalogue strategy and audience behaviour. Because these layers are intertwined, it is often impossible for a listener to determine exactly why a particular song appeared.
 
 Researchers studying platform culture increasingly describe this as a form of algotorial governance, where human and algorithmic decisions become difficult to separate. The recommendation system does not replace human judgement; instead, it reshapes how that judgement is exercised and scaled. [Sage Journals](#endnote-11 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals“Your Wrapped doesn&#x27;t lie”: Data realism and Spotify&#x27;s...Feb 27, 2026 — In recommendation systems like Spotify, dataficatio&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals“Your Wrapped doesn&#x27;t lie”: Data realism and Spotify&#x27;s...Feb 27, 2026 — In recommendation systems like Spotify, dataficatio&quot;)...</p></details>
 
 This hidden machinery is one reason playlists have become so powerful. They are not merely lists of songs. They are adaptive media products that combine editorial authority with continuous behavioural analysis. In doing so, they perform many of the functions once associated with radio—introducing music, organising attention and guiding discovery—while tailoring the experience to each listener in ways traditional broadcasting could never achieve. [Spotify Engineering](#endnote-23 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) &lt;span class=&quot;citation-link-wrap&quot;&gt;&lt;a class=&quot;citation-inline-link&quot; href=&quot;https://artists.spotify.co...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo&quot;) &lt;span class=&quot;citation-link-wrap&quot;&gt;&lt;a class=&quot;citation-inline-link&quot; href=&quot;https://artists.spotify.co...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Really Curates a Streaming Playlist?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Really Curates a Streaming Playlist?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
-        </h4>
-        <p class="fr-book-author">By Glenn McDonald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
+</h4>
+<p class="fr-book-author">By Glenn McDonald</p>
         
-        <p class="fr-book-desc">Explains recommendation engines and discovery systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains recommendation engines and discovery systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
+</h4>
+<p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
         
-        <p class="fr-book-desc">Provides accessible insight into algorithmic decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible insight into algorithmic decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-        </h4>
-        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+</h4>
+<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-        <p class="fr-book-desc">Shows how behavioral data shapes recommendations and predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how behavioral data shapes recommendations and predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Provides industry context for streaming-era curation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides industry context for streaming-era curation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster"><img src="{{ '/assets/images/marketplace-covers/e744fa9c237856296382.jpg' | relative_url }}" alt="Listing image for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster"><img src="{{ '/assets/images/marketplace-covers/e744fa9c237856296382.jpg' | relative_url }}" alt="Listing image for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d796fbadbb27a98e5d.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d796fbadbb27a98e5d.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcb5d301da604a806cc8.jpg' | relative_url }}" alt="Listing image for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcb5d301da604a806cc8.jpg' | relative_url }}" alt="Listing image for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d91f81bc20e42910fe30.jpg' | relative_url }}" alt="Listing image for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d91f81bc20e42910fe30.jpg' | relative_url }}" alt="Listing image for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="algotorial-who-really-curates-a-streaming-playlist-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ This hidden machinery is one reason playlists have become so powerful. They are 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ This hidden machinery is one reason playlists have become so powerful. They are 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ This hidden machinery is one reason playlists have become so powerful. They are 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ This hidden machinery is one reason playlists have become so powerful. They are 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ This hidden machinery is one reason playlists have become so powerful. They are 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,199 +754,199 @@ This hidden machinery is one reason playlists have become so powerful. They are 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsroom.spotify.com  
    Title: This collaboration is critical to the Spotify experience.Read more  
-   Link: <a href="https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2023-03-06/responsibly-balancing-what-goes-into-your-personalized-recommendations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responsibly Balancing What Goes Into Your Personalized...Mar 6, 2023 — We call this “algotorial”—bringing both the editorial and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: support.spotify.com  
-   Link: <a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Spotify playlistsFor some personalized playlists, our editors pick the pool of songs for the algorithms to select from fo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spotify.com  
-   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</p></details>
+   Link:<a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on SpotifyOther recommendations are tailored to each listener&#x27;s unique taste, like a personalized pl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</p></details>
+   Link:<a href="https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-to-personalize-specific-editorial-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Firstly, certain editorial playlists will now include algorithmic, personalized content alongside human curation, meaning each listener w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Musica Globalista: Spotify Discovery engine  
-   Link: <a href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</p></details>
+   Link:<a href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: artists.spotify.com  
    Title: behind the playlists your questions answered by our playlist editors  
-   Link: <a href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl...</p></details>
+   Link:<a href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting pl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/playlisting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</p></details>
+   Link:<a href="https://artists.spotify.com/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/playlisting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsCreated by our editorial teams, powered by personalized data, or curated by you for your fans, each playlist is desi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Artists: Where Your Music is EverythingWith Spotify for Artists, you can amplify your reach, serve up videos, build pre-release hype...</p></details>
+   Link:<a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Artists: Where Your Music is EverythingWith Spotify for Artists, you can amplify your reach, serve up videos, build pre-release hype...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newsroom.spotify.com  
    Title: prompted playlists algorithm gustav soderstrom  
-   Link: <a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comYou&#x27;re in Control: Spotify Lets You Steer the AlgorithmDec 10, 2025 — For the first time, your ideas, your logic, and your cre...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comYou&#x27;re in Control: Spotify Lets You Steer the AlgorithmDec 10, 2025 — For the first time, your ideas, your logic, and your cre...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: engineering.atspotify.com  
    Title: humans machines a look behind spotifys algotorial playlists  
-   Link: <a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Spotify has been working to create a better...</p></details>
+   Link:<a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Spotify has been working to create a better...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448261422367" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448261422367</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals“Your Wrapped doesn&#x27;t lie”: Data realism and Spotify&#x27;s...Feb 27, 2026 — In recommendation systems like Spotify, dataficatio...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14614448261422367" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448261422367</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage Journals“Your Wrapped doesn&#x27;t lie”: Data realism and Spotify&#x27;s...Feb 27, 2026 — In recommendation systems like Spotify, dataficatio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor music recommendations to...</p></details>
+   Link:<a href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor music recommendations to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2i75sF-YTlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2i75sF-YTlc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Spotify Algotorial PlaylistsEditorial + Algprthmic playlists = Algotorial! Here is a link to the original blog post mentioned. [https://en...&quot;](https://en...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2i75sF-YTlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2i75sF-YTlc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Spotify Algotorial PlaylistsEditorial + Algprthmic playlists = Algotorial! Here is a link to the original blog post mentioned. [https://en...&quot;](https://en...&quot;)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: andrmusic.co  
    Title: Spotify Metrics That Trigger [Discover Weekly](&#123;&#123; 'discover-weekly/' | relative_url &#125;&#125;)  
-   Link: <a href="https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Weekly alone can generate 10,000-100,000+...Read more...</p></details>
+   Link:<a href="https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/spotify-metrics-trigger-discovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Weekly alone can generate 10,000-100,000+...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: orphiq.com  
    Title: spotify editorial playlist  
-   Link: <a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial Playlists15 Mar 2026 — How Spotify editorial playlists work, what editors look for, and how to increase y...</p></details>
+   Link:<a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial Playlists15 Mar 2026 — How Spotify editorial playlists work, what editors look for, and how to increase y...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: orphiq.com  
    Title: spotify algorithmic playlists explained  
-   Link: <a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</p></details>
+   Link:<a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/thedullclub/posts/2989816087890157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thedullclub/posts/2989816087890157/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discover Weekly suggests only known songsEvery Monday I listen to Discover Weekly on Spotify which sometimes suggests some arti...</p></details>
+   Link:<a href="https://www.facebook.com/groups/thedullclub/posts/2989816087890157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thedullclub/posts/2989816087890157/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discover Weekly suggests only known songsEvery Monday I listen to Discover Weekly on Spotify which sometimes suggests some arti...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ms generate customized playlists and analyze each user&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maltadaily.mt/posts/spotify-has-introduced-a-new-feature-designed-to-give-listeners-greater-control-/1556561379625693/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ms generate customized playlists and analyze each user&#x27;s...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: digitalrenaissance.education  
    Title: spotify for artists pitch guide how to get your music on editorial playlists  
-   Link: <a href="https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Pitch Guide for Editorial Playlists1 Mar 2026 — Learn how to pitch to Spotify editorial playlists using metadata, tim...</p></details>
+   Link:<a href="https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Pitch Guide for Editorial Playlists1 Mar 2026 — Learn how to pitch to Spotify editorial playlists using metadata, tim...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: loopsolitaire.co.uk  
    Title: spotify algorithmic playlists  
-   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Algorithm 2025: How to Get on Algorithmic PlaylistsLearn how the Spotify algorithm really works in 2025—and how you can get your...</p></details>
+   Link:<a href="https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-algorithmic-playlists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Algorithm 2025: How to Get on Algorithmic PlaylistsLearn how the Spotify algorithm really works in 2025—and how you can get your...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: loopsolitaire.co.uk  
-   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data...</p></details>
+   Link:<a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: beatstorapon.com  
-   Link: <a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Music Recommendation Algorithm: The Complete...1 Mar 2025 — Spotify&#x27;s AI-Driven Playlist Curation (Discover Weekly, Release Ra...</p></details>
+   Link:<a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Music Recommendation Algorithm: The Complete...1 Mar 2025 — Spotify&#x27;s AI-Driven Playlist Curation (Discover Weekly, Release Ra...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
    Title: Spotify Engineering | Mike Warner | 17 comments  
-   Link: <a href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/askmikewarner_humans-machines-a-look-behind-the-playlists-activity-7066249351949414400-U6iN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — Editorial + Algorithmic = Algotorial Playlists. Here&#x27;s a detailed explanation on how these playlists are created and custo...</p></details>
    Published: May 21, 2023  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: captechu.edu  
    Title: impact of automation and ai on the music industry  
-   Link: <a href="https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Shift Away from Human-Curated PlaylistsMar 25, 2024 — Spotify&#x27;s shift away from human-curated playlists towards automation refl...</p></details>
+   Link:<a href="https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.captechu.edu/blog/impact-of-automation-and-ai-on-the-music-industry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Shift Away from Human-Curated PlaylistsMar 25, 2024 — Spotify&#x27;s shift away from human-curated playlists towards automation refl...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify to let users &#x27;steer the algorithm&#x27; by personalizing...11 Dec 2025 — Users can always fine-tune by editing the prompt, and can al...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-to-let-users-steer-the-algorithm-by-personalizing-playlists-with-ai-prompts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify to let users &#x27;steer the algorithm&#x27; by personalizing...11 Dec 2025 — Users can always fine-tune by editing the prompt, and can al...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Playlists and the Datafication of Music FormattingThis chapter [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) the rise of the datafied playlist and argues that it is impor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349324390_Playlists_and_the_Datafication_of_Music_Formatting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Playlists and the Datafication of Music FormattingThis chapter [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) the rise of the datafied playlist and argues that it is impor...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: stereofox.com  
-   Link: <a href="https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Different Kinds of Spotify Playlists ExplainedEditorial playlists formed by in-house curators are where you&#x27;d want to end up as an ar...</p></details>
+   Link:<a href="https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.stereofox.com/articles/the-different-kinds-of-spotify-playlists-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Different Kinds of Spotify Playlists ExplainedEditorial playlists formed by in-house curators are where you&#x27;d want to end up as an ar...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: interspacemusic.com  
-   Link: <a href="https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/" target="_blank" rel="noopener noreferrer nofollow">https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Different Kinds of Spotify Playlists23 May 2025 — In this article, we&#x27;ll break down the four major types of Spotify pla...</p></details>
+   Link:<a href="https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/" target="_blank" rel="noopener noreferrer nofollow">https://interspacemusic.com/blog/understanding-the-different-kinds-of-spotify-playlists-editorial-global-curation-personalized-and-active-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Different Kinds of Spotify Playlists23 May 2025 — In this article, we&#x27;ll break down the four major types of Spotify pla...</p></details>
    Published: May 2025  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: montrealethics.ai  
    Title: discover weekly how the music platform spotify collects and uses your data  
-   Link: <a href="https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Music Platform Spotify Collects and Uses Your Data26 May 2022 — Spotify collects all data that is entered by the artists: songs n...</p></details>
+   Link:<a href="https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Music Platform Spotify Collects and Uses Your Data26 May 2022 — Spotify collects all data that is entered by the artists: songs n...</p></details>
    Published: May 2022  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: music-tomorrow.com  
-   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: d3.harvard.edu  
    Title: discover weekly how spotify is changing the way we consume music  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteHow Spotify is Changing the Way We Consume Music13 Nov 2018 — Every week, Spotify generates a new pla...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business School AI InstituteHow Spotify is Changing the Way We Consume Music13 Nov 2018 — Every week, Spotify generates a new pla...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hal.science  
    Title: henry et al 2024 impacts of ai on music consumption and fairness  
-   Link: <a href="https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts of AI on Music Consumption and Fairnessby A Henry · 2024 · Cited by 19 — On services like Spotify, playlists serve as a standout...</p></details>
+   Link:<a href="https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-04866759v1/file/henry-et-al-2024-impacts-of-ai-on-music-consumption-and-fairness.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts of AI on Music Consumption and Fairnessby A Henry · 2024 · Cited by 19 — On services like Spotify, playlists serve as a standout...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pragmaticinstitute.com  
-   Link: <a href="https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ls, the predictive recommendation engine generates playlists like “Discover Weekly...Read more...</p></details>
+   Link:<a href="https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ls, the predictive recommendation engine generates playlists like “Discover Weekly...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: illumin.usc.edu  
    Title: algorithmic symphonies how spotify strikes the right chord  
-   Link: <a href="https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/" target="_blank" rel="noopener noreferrer nofollow">https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Symphonies: How Spotify Strikes the Right Chord21 Jan 2024 — This article explores Spotify&#x27;s recommendation algorithm, including how it h...</p></details>
+   Link:<a href="https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/" target="_blank" rel="noopener noreferrer nofollow">https://illumin.usc.edu/algorithmic-symphonies-how-spotify-strikes-the-right-chord/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Symphonies: How Spotify Strikes the Right Chord21 Jan 2024 — This article explores Spotify&#x27;s recommendation algorithm, including how it h...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: maa1.medium.com  
    Title: human machine spotifys algotorial playlists 500c1a252723  
-   Link: <a href="https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723" target="_blank" rel="noopener noreferrer nofollow">https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>+ Machine: Spotify&#x27;s &#x27;Algotorial Playlists&#x27; | by MAA1As the name suggests, these playlists are a combination of editorial and algorithmic...</p></details>
+   Link:<a href="https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723" target="_blank" rel="noopener noreferrer nofollow">https://maa1.medium.com/human-machine-spotifys-algotorial-playlists-500c1a252723</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>+ Machine: Spotify&#x27;s &#x27;Algotorial Playlists&#x27; | by MAA1As the name suggests, these playlists are a combination of editorial and algorithmic...</p></details>

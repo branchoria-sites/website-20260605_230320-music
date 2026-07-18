@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-music-metadata-payme/
 description: Focused pages that expand on Metadata.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_music_metadata_payme_5a11f4
 parent_title: Metadata
@@ -16,7 +16,7 @@ parent_permalink: /metadata/
 
 # Explore Topics in Metadata
 
-The following pages expand on the main **[Metadata]({{ '/metadata/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Metadata]({{ '/metadata/' | relative_url }})** page and cover its key branches in.
 
 - [DJ Sets]({{ '/dj-sets/' | relative_url }})
 - [Code Links]({{ '/code-links/' | relative_url }})

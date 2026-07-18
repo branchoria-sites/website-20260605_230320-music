@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-latin-music-streamin/
 description: Focused pages that expand on Latin Music.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_latin_music_streamin_4617cf
 parent_title: Latin Music
@@ -16,7 +16,7 @@ parent_permalink: /latin-music/
 
 # Explore Topics in Latin Music
 
-The following pages expand on the main **[Latin Music]({{ '/latin-music/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Latin Music]({{ '/latin-music/' | relative_url }})** page and cover its key branches in.
 
 - [Bad Bunny]({{ '/bad-bunny/' | relative_url }})
 - [Despacito]({{ '/despacito/' | relative_url }})

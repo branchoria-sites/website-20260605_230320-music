@@ -274,222 +274,222 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_pro
 
 ## Introduction
 
-When we hear the character of a violin, the breathiness of a singer’s voice or the warm richness of a cello, our brain rapidly interprets **[timbre]({{ 'timbre/' | relative_url }})** — the quality that distinguishes sounds even when pitch and loudness are the same. At the heart of this ability is how neurons in the **auditory cortex** encode the spectral and temporal features of sound to construct rich, identifiable timbral representations. Unlike low‑level cochlear filtering, cortical mechanisms integrate complex patterns over time and frequency to support the perceptual constancy of timbre across contexts such as musical performance and speech. Extensive research in humans and animal models reveals that this neural encoding is **distributed**, spectrotemporal in nature, and tightly linked to timbre identity rather than isolated [physical]({{ 'physical/' | relative_url }}) cues alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">February 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
+When we hear the character of a violin, the breathiness of a singer’s voice or the warm richness of a cello, our brain rapidly interprets **[timbre]({{ 'timbre/' | relative_url }})** — the quality that distinguishes sounds even when pitch and loudness are the same. At the heart of this ability is how neurons in the **auditory cortex** encode the spectral and temporal features of sound to construct rich, identifiable timbral representations. Unlike low‑level cochlear filtering, cortical mechanisms integrate complex patterns over time and frequency to support the perceptual constancy of timbre across contexts such as musical performance and speech. Extensive research in humans and animal models reveals that this neural encoding is **distributed**, spectrotemporal in nature, and tightly linked to timbre identity rather than isolated [physical]({{ 'physical/' | relative_url }}) cues alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">February 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-dark.svg" | relative_url }}" alt="Neural Timbre illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Auditory Cortex Representation of Spectral Features
 
-Neurons in the auditory cortex respond to combinations of frequencies and their relative power — the spectral envelope — which is a core element of timbre. In classic models, neurons are organised tonotopically so that different frequencies map onto different cortical locations; however, timbre perception depends on **integrating across these frequencies** rather than simply detecting one at a time. Animal studies show that single neurons in primary auditory cortex can be sensitive to complex spectral envelope cues that contribute to timbre, though in many cases the same neurons also respond to other features like pitch and sound location, indicating **overlapping sensitivity** rather than strict segregation of timbre coding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNeural and behavioral investigations into timbre perception</span></span></span>
+Neurons in the auditory cortex respond to combinations of frequencies and their relative power — the spectral envelope — which is a core element of timbre. In classic models, neurons are organised tonotopically so that different frequencies map onto different cortical locations; however, timbre perception depends on **integrating across these frequencies** rather than simply detecting one at a time. Animal studies show that single neurons in primary auditory cortex can be sensitive to complex spectral envelope cues that contribute to timbre, though in many cases the same neurons also respond to other features like pitch and sound location, indicating **overlapping sensitivity** rather than strict segregation of timbre coding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNeural and behavioral investigations into timbre perception</span></span></span>
 
-Human neuroimaging with encoding models expands this picture by linking **perceptual dimensions of timbre** directly to cortical responses. Functional MRI studies have compared models grounded in subjective timbre ratings with models based on physical acoustics (spectral and temporal modulations). These analyses find that models capturing **joint spectrotemporal features** — combinations of spectral shape and temporal modulation — often outperform purely spectral descriptions, suggesting that cortical populations encode **dynamic spectral patterns** associated with distinctive timbral qualities. In early auditory cortex [regions]({{ 'regions/' | relative_url }}) near **Heschl’s gyrus**, subjective timbre dimensions can predict neural responses as well as or better than physical spectral models, indicating a perceptually meaningful cortical representation of timbre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMultiplexed and Robust Representations of Sound Features in Auditory Cortex</span><span class="citation-popover-snippet">October 12, 2011...</span><span class="citation-popover-meta">Published: October 12, 2011</span></span></span>
+Human neuroimaging with encoding models expands this picture by linking **perceptual dimensions of timbre** directly to cortical responses. Functional MRI studies have compared models grounded in subjective timbre ratings with models based on physical acoustics (spectral and temporal modulations). These analyses find that models capturing **joint spectrotemporal features** — combinations of spectral shape and temporal modulation — often outperform purely spectral descriptions, suggesting that cortical populations encode **dynamic spectral patterns** associated with distinctive timbral qualities. In early auditory cortex [regions]({{ 'regions/' | relative_url }}) near **Heschl’s gyrus**, subjective timbre dimensions can predict neural responses as well as or better than physical spectral models, indicating a perceptually meaningful cortical representation of timbre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMultiplexed and Robust Representations of Sound Features in Auditory Cortex</span><span class="citation-popover-snippet">October 12, 2011...</span><span class="citation-popover-meta">Published: October 12, 2011</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-2-dark.svg" | relative_url }}" alt="Neural Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Temporal Evolution and Sound Identity
 
-Timbre is not static; how a sound’s spectral content evolves over time — the **attack, sustain, decay, and modulation patterns** — contributes substantially to its identity. Cortical neurons’ responses reflect this temporal structure. In electrophysiological recordings from mammalian auditory cortex, timbre‑related information often appears **earlier in the neural response** than pitch information, supporting behavioural observations that listeners can discriminate timbre rapidly. This early temporal encoding aligns with the idea that transient spectral changes (e.g. rapid onset differences between instruments) are crucial for timbre recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">February 18, 2009...</span><span class="citation-popover-meta">Published: February 18, 2009</span></span></span>
+Timbre is not static; how a sound’s spectral content evolves over time — the **attack, sustain, decay, and modulation patterns** — contributes substantially to its identity. Cortical neurons’ responses reflect this temporal structure. In electrophysiological recordings from mammalian auditory cortex, timbre‑related information often appears **earlier in the neural response** than pitch information, supporting behavioural observations that listeners can discriminate timbre rapidly. This early temporal encoding aligns with the idea that transient spectral changes (e.g. rapid onset differences between instruments) are crucial for timbre recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">February 18, 2009...</span><span class="citation-popover-meta">Published: February 18, 2009</span></span></span>
 
-At the population level, cortical representations combine frequency and temporal modulation tuning. Research using models of **spectrotemporal receptive fields (STRFs)** shows that neurons are sensitive to joint spectrotemporal patterns, effectively performing a multi‑resolution analysis of sound. Such encoding enables the auditory cortex to track both fine spectral details (which shape timbral colour) and temporal fluctuations (which signal dynamic changes in sound identity). This spectrotemporal integration appears essential for distinguishing complex natural sounds, including musical instruments and voices, across variations in pitch or loudness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Encoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex &#124; PLOS Computational BiologyJan...</span></span></span>
+At the population level, cortical representations combine frequency and temporal modulation tuning. Research using models of **spectrotemporal receptive fields (STRFs)** shows that neurons are sensitive to joint spectrotemporal patterns, effectively performing a multi‑resolution analysis of sound. Such encoding enables the auditory cortex to track both fine spectral details (which shape timbral colour) and temporal fluctuations (which signal dynamic changes in sound identity). This spectrotemporal integration appears essential for distinguishing complex natural sounds, including musical instruments and voices, across variations in pitch or loudness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Encoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex &#124; PLOS Computational BiologyJan...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-dark.svg" | relative_url }}" alt="Neural Timbre illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timbre Adaptation and Perceptual Shifts
 
-Beyond early encoding, auditory cortical populations adapt their responses based on experience, expectation, and context. Encoding models trained on subjective perceptual timbre dimensions — such as those derived from listener ratings — outperform simpler physical models in predicting cortical activity, especially in right auditory areas near and beyond Heschl’s gyrus. This suggests that the brain’s timbre representation aligns not only with physical sound features but with **perceptual categories** that matter for recognising voices and instruments. Such alignment may reflect plasticity driven by extensive exposure to music and speech, where learned timbral distinctions become embedded in cortical tuning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2017 Feb 1;37(5):1284–1293. doi: 10.1523/JNEUROSCI.2336-16.2016 REPRESENTATIONS OF PITCH AND TIMBRE VARIATION IN HUMAN AUDITORY CORTEX Em...</span></span></span>
+Beyond early encoding, auditory cortical populations adapt their responses based on experience, expectation, and context. Encoding models trained on subjective perceptual timbre dimensions — such as those derived from listener ratings — outperform simpler physical models in predicting cortical activity, especially in right auditory areas near and beyond Heschl’s gyrus. This suggests that the brain’s timbre representation aligns not only with physical sound features but with **perceptual categories** that matter for recognising voices and instruments. Such alignment may reflect plasticity driven by extensive exposure to music and speech, where learned timbral distinctions become embedded in cortical tuning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2017 Feb 1;37(5):1284–1293. doi: 10.1523/JNEUROSCI.2336-16.2016 REPRESENTATIONS OF PITCH AND TIMBRE VARIATION IN HUMAN AUDITORY CORTEX Em...</span></span></span>
 
-The distributed nature of timbre encoding also means that neurons rarely respond exclusively to timbre alone. Instead, timbre, pitch and spatial cues often interact within single neurons or across local populations, highlighting a **multidimensional and context‑sensitive cortical code**. This distributed coding supports perceptual constancy: the ability to recognise a timbre across changes in fundamental frequency or acoustic environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">February 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
+The distributed nature of timbre encoding also means that neurons rarely respond exclusively to timbre alone. Instead, timbre, pitch and spatial cues often interact within single neurons or across local populations, highlighting a **multidimensional and context‑sensitive cortical code**. This distributed coding supports perceptual constancy: the ability to recognise a timbre across changes in fundamental frequency or acoustic environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex</span><span class="citation-popover-snippet">February 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
 
 ## Summary
 
-Neural encoding of timbre in the auditory cortex is shaped by the integration of **spectral envelopes and temporal dynamics** across wide frequency ranges. Cortical populations represent joint spectrotemporal patterns that correspond to perceptual qualities of timbre, beyond simple frequency‑specific responses. This encoding supports rapid timbre discrimination, aligns with learned perceptual categories, and interacts with other auditory features like pitch and spatial location. The result is a robust, distributed cortical mechanism that underpins our ability to recognise the expressive qualities of human voices and musical instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNeural and behavioral investigations into timbre perception</span></span></span>
+Neural encoding of timbre in the auditory cortex is shaped by the integration of **spectral envelopes and temporal dynamics** across wide frequency ranges. Cortical populations represent joint spectrotemporal patterns that correspond to perceptual qualities of timbre, beyond simple frequency‑specific responses. This encoding supports rapid timbre discrimination, aligns with learned perceptual categories, and interacts with other auditory features like pitch and spatial location. The result is a robust, distributed cortical mechanism that underpins our ability to recognise the expressive qualities of human voices and musical instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNeural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">PMCNeural and behavioral investigations into timbre perception</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Brain Distinguishes Timbre Instantly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Brain Distinguishes Timbre Instantly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Strong introduction to how the brain processes musical sound.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong introduction to how the brain processes musical sound.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores unusual and revealing cases of musical perception in the brain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unusual and revealing cases of musical perception in the brain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, thought, and feeling on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, thought, and feeling">Music, thought, and feeling</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, thought, and feeling on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, thought, and feeling">Music, thought, and feeling</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains perception of timbre, sound identity and auditory processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception of timbre, sound identity and auditory processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Oxford+Handbook+of+Music+and+the+Brain+Michael+H.+Thaut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oxford Handbook of Music and the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+Music+and+the+Brain+Michael+H.+Thaut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of Music and the Brain">Oxford Handbook of Music and the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael H. Thaut, Donald A. Hodges</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Oxford+Handbook+of+Music+and+the+Brain+Michael+H.+Thaut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oxford Handbook of Music and the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Oxford+Handbook+of+Music+and+the+Brain+Michael+H.+Thaut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of Music and the Brain">Oxford Handbook of Music and the Brain</a>
+</h4>
+<p class="fr-book-author">By Michael H. Thaut, Donald A. Hodges</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Music, psychological aspects, Music, physiological aspects, Cognitive neuroscience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+Music+and+the+Brain+Michael+H.+Thaut&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Music, psychological aspects, Music, physiological aspects, Cognitive neuroscience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Oxford+Handbook+of+Music+and+the+Brain+Michael+H.+Thaut&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, thought, and feeling</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, thought, and feeling</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 JOY DIVISION RED BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME"><img src="{{ '/assets/images/marketplace-covers/f8a8d4b8a608dcb530b2.jpg' | relative_url }}" alt="Listing image for A4 JOY DIVISION RED BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 JOY DIVISION RED BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 JOY DIVISION RED BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME"><img src="{{ '/assets/images/marketplace-covers/f8a8d4b8a608dcb530b2.jpg' | relative_url }}" alt="Listing image for A4 JOY DIVISION RED BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 JOY DIVISION RED BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EMEK Music Love Couple Brain Screenprint Mini Art Print Handbill PDX Pop Now"><img src="{{ '/assets/images/marketplace-covers/a3d49e057e70f71de10c.jpg' | relative_url }}" alt="Listing image for EMEK Music Love Couple Brain Screenprint Mini Art Print Handbill PDX Pop Now" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">EMEK Music Love Couple Brain Screenprint Mini Art Print Handbill PDX Pop Now</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EMEK Music Love Couple Brain Screenprint Mini Art Print Handbill PDX Pop Now"><img src="{{ '/assets/images/marketplace-covers/a3d49e057e70f71de10c.jpg' | relative_url }}" alt="Listing image for EMEK Music Love Couple Brain Screenprint Mini Art Print Handbill PDX Pop Now" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">EMEK Music Love Couple Brain Screenprint Mini Art Print Handbill PDX Pop Now</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parish Ink Know Thy Music Brain Genres Art Print Poster 18x12 Jazz Soul Blues"><img src="{{ '/assets/images/marketplace-covers/9c2b97a8ba4e4463ed0b.jpg' | relative_url }}" alt="Listing image for Parish Ink Know Thy Music Brain Genres Art Print Poster 18x12 Jazz Soul Blues" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Parish Ink Know Thy Music Brain Genres Art Print Poster 18x12 Jazz Soul Blues</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parish Ink Know Thy Music Brain Genres Art Print Poster 18x12 Jazz Soul Blues"><img src="{{ '/assets/images/marketplace-covers/9c2b97a8ba4e4463ed0b.jpg' | relative_url }}" alt="Listing image for Parish Ink Know Thy Music Brain Genres Art Print Poster 18x12 Jazz Soul Blues" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Parish Ink Know Thy Music Brain Genres Art Print Poster 18x12 Jazz Soul Blues</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 JOY DIVISION BLACK BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME"><img src="{{ '/assets/images/marketplace-covers/c9f2dc65adff982184ef.jpg' | relative_url }}" alt="Listing image for A4 JOY DIVISION BLACK BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 JOY DIVISION BLACK BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 JOY DIVISION BLACK BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME"><img src="{{ '/assets/images/marketplace-covers/c9f2dc65adff982184ef.jpg' | relative_url }}" alt="Listing image for A4 JOY DIVISION BLACK BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 JOY DIVISION BLACK BRAIN FILM ART RETRO POSTER music CULTURE PRINT HOME</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain music art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain music art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+music+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain music art print -book -books" data-ebay-reference="neural-timbre-how-the-brain-distinguishes-timbre-instantly-music-brain-music-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -505,7 +505,7 @@ Neural encoding of timbre in the auditory cortex is shaped by the integration of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -525,7 +525,7 @@ Neural encoding of timbre in the auditory cortex is shaped by the integration of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -557,7 +557,7 @@ Neural encoding of timbre in the auditory cortex is shaped by the integration of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -609,7 +609,7 @@ Neural encoding of timbre in the auditory cortex is shaped by the integration of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -654,7 +654,7 @@ Neural encoding of timbre in the auditory cortex is shaped by the integration of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -695,96 +695,96 @@ Neural encoding of timbre in the auditory cortex is shaped by the integration of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEncoding of Natural Timbre Dimensions in Human Auditory Cortex  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2018...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5747995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2018...</p></details>
    Published: February 1, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNeural and behavioral investigations into timbre perception  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMultiplexed and Robust Representations of Sound Features in Auditory Cortex  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2011...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3272412/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2011...</p></details>
    Published: October 12, 2011  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex | PLOS Computational BiologyJan...</p></details>
+   Link:<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003412</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of Natural Sounds at Multiple Spectral and Temporal Resolutions in the Human Auditory Cortex | PLOS Computational BiologyJan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2009...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2663390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2009...</p></details>
    Published: February 18, 2009  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23133363/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23133363/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in our ears: the biological bases of musical timbre perception - PubMedNovember 1, 2012 — ABSTRACT Timbre is the attribute of sound that...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23133363/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23133363/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in our ears: the biological bases of musical timbre perception - PubMedNovember 1, 2012 — ABSTRACT Timbre is the attribute of sound that...</p></details>
    Published: November 1, 2012  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: neuroscience.ox.ac.uk  
-   Link: <a href="https://www.neuroscience.ox.ac.uk/publications/113872" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscience.ox.ac.uk/publications/113872</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford NeuroscienceINTERDEPENDENT ENCODING OF PITCH, TIMBRE, AND SPATIAL LOCATION IN AUDITORY CORTEX. BIZLEY JK., WALKER KMM., SILVERMA...</p></details>
+   Link:<a href="https://www.neuroscience.ox.ac.uk/publications/113872" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscience.ox.ac.uk/publications/113872</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford NeuroscienceINTERDEPENDENT ENCODING OF PITCH, TIMBRE, AND SPATIAL LOCATION IN AUDITORY CORTEX. BIZLEY JK., WALKER KMM., SILVERMA...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Encoding of natural timbre dimensions in human auditory cortex  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1053811917308844" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1053811917308844</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of natural timbre dimensions in human auditory cortex - ScienceDirectFebruary 1, 2018 — Volume 166, 1 February 2018, Pages 60-70...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1053811917308844" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1053811917308844</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of natural timbre dimensions in human auditory cortex - ScienceDirectFebruary 1, 2018 — Volume 166, 1 February 2018, Pages 60-70...</p></details>
    Published: February 1, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: nl Encoding of natural timbre dimensions in human auditory cortex  
-   Link: <a href="https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of natural timbre dimensions in human auditory cortex - Maastricht UniversityFebruary 1, 2018 — ENCODING OF NATURAL TIMBRE DIMENSIONS IN...</p></details>
+   Link:<a href="https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of natural timbre dimensions in human auditory cortex - Maastricht UniversityFebruary 1, 2018 — ENCODING OF NATURAL TIMBRE DIMENSIONS IN...</p></details>
    Published: February 1, 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Some animal studies of auditory cortical p  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28025255/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28025255/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Pitch and Timbre Variation in Human Auditory Cortex - PubMedFebruary 1, 2017 — ABSTRACT Pitch and timbre are two primary dimensions of...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28025255/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28025255/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Pitch and Timbre Variation in Human Auditory Cortex - PubMedFebruary 1, 2017 — ABSTRACT Pitch and timbre are two primary dimensions of...</p></details>
    Published: February 1, 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: experts.umn.edu  
    Title: encoding of natural timbre dimensions in human auditory cortex  
-   Link: <a href="https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen *, Michelle Moerel *, Agustín Lage-Castellanos *, Federico De Martino *, Elia Formisano *, Andrew J. Oxenham * P...</p></details>
+   Link:<a href="https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/encoding-of-natural-timbre-dimensions-in-human-auditory-cortex</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen *, Michelle Moerel *, Agustín Lage-Castellanos *, Federico De Martino *, Elia Formisano *, Andrew J. Oxenham * P...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers | Neural and behavioral investigations into timbre perception  
-   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) NEURAL AND BEHA...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) NEURAL AND BEHA...</p></details>
    Published: November 2013  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Feb 1;37(5):1284–1293. doi: 10.1523/JNEUROSCI.2336-16.2016 REPRESENTATIONS OF PITCH AND TIMBRE VARIATION IN HUMAN AUDITORY CORTEX Em...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5296797/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Feb 1;37(5):1284–1293. doi: 10.1523/JNEUROSCI.2336-16.2016 REPRESENTATIONS OF PITCH AND TIMBRE VARIATION IN HUMAN AUDITORY CORTEX Em...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/09298219708570723" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09298219708570723</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representation of musical timbre in the auditory cortex*: Journal of New Music Research: Vol 26, No 2June 3, 2008 — Image: Publication C...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/09298219708570723" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09298219708570723</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Representation of musical timbre in the auditory cortex*: Journal of New Music Research: Vol 26, No 2June 3, 2008 — Image: Publication C...</p></details>
    Published: June 3, 2008  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1073858410371009" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1073858410371009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizley, Kerry M. M. Walker, 2010June 7, 2010 — SENSITIVITY AND SELECTIVITY OF NEURONS IN AUDITORY CORTEX TO THE PITCH, TIMBRE, AND LOCATI...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1073858410371009" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1073858410371009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizley, Kerry M. M. Walker, 2010June 7, 2010 — SENSITIVITY AND SELECTIVITY OF NEURONS IN AUDITORY CORTEX TO THE PITCH, TIMBRE, AND LOCATI...</p></details>
    Published: June 7, 2010

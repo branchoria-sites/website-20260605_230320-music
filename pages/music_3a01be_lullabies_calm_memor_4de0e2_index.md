@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-lullabies-calm-memor/
 description: Focused pages that expand on Lullabies.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_lullabies_calm_memor_4de0e2
 parent_title: Lullabies
@@ -16,7 +16,7 @@ parent_permalink: /lullabies/
 
 # Explore Topics in Lullabies
 
-The following pages expand on the main **[Lullabies]({{ '/lullabies/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Lullabies]({{ '/lullabies/' | relative_url }})** page and cover its key branches in.
 
 - [Caregiver Cues]({{ '/caregiver-cues/' | relative_url }})
 - [Familiar Songs]({{ '/familiar-songs/' | relative_url }})

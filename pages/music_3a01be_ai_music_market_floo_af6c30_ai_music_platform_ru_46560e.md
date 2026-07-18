@@ -277,7 +277,7 @@ image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform
 AI music flooding is not only a problem of volume; it is a problem of platform governance. Once thousands of synthetic tracks can be generated and uploaded daily, streaming services must decide which recordings are legitimate creative works, which are unauthorised impersonations, and which exist primarily to exploit recommendation systems or royalty payments. The result is a new layer of platform rules that focuses less on whether AI was used and more on how it was used.
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-1-dark.svg" | relative_url }}" alt="Platform rules illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Spotify and Deezer illustrate two distinct approaches. Spotify has increasingly emphasised artist authorisation, anti-impersonation enforcement and spam detection, while Deezer has built systems to identify, label, filter and sometimes demonetise fully AI-generated music. Together, these policies show how streaming platforms are trying to limit market flooding without banning AI music outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Strengthens AI Protections for Artists, Songwriters...25 Sept 2025 — Improved enforcement of impersonation violations; A...</span></span></span>
+Spotify and Deezer illustrate two distinct approaches. Spotify has increasingly emphasised artist authorisation, anti-impersonation enforcement and spam detection, while Deezer has built systems to identify, label, filter and sometimes demonetise fully AI-generated music. Together, these policies show how streaming platforms are trying to limit market flooding without banning AI music outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Strengthens AI Protections for Artists, Songwriters...25 Sept 2025 — Improved enforcement of impersonation violations; A...</span></span></span>
 
 ## Can Platforms Police AI Music Floods?
 
@@ -291,13 +291,13 @@ For platforms, the practical questions are increasingly operational:
 * What happens when a song imitates a real artist's voice?
 * How should platforms respond when AI tracks are linked to streaming fraud?
 
-The answers vary by platform, but they increasingly centre on impersonation controls and anti-spam measures rather than blanket bans on AI-generated music. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span>
+The answers vary by platform, but they increasingly centre on impersonation controls and anti-spam measures rather than blanket bans on AI-generated music. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span>
 
 ## Impersonation, Deepfakes and Artist Authorisation
 
 ### Why voice cloning became a policy priority
 
-One of the most visible AI music controversies involved tracks that convincingly imitated famous performers. Viral recordings mimicking artists such as Drake and The Weeknd demonstrated that generative systems could create songs that listeners might mistake for genuine releases. The issue is not merely copyright infringement; it also affects reputation, identity and consumer trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">When the beat goes on without you</span><span class="citation-popover-snippet">On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+One of the most visible AI music controversies involved tracks that convincingly imitated famous performers. Viral recordings mimicking artists such as Drake and The Weeknd demonstrated that generative systems could create songs that listeners might mistake for genuine releases. The issue is not merely copyright infringement; it also affects reputation, identity and consumer trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">When the beat goes on without you</span><span class="citation-popover-snippet">On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 Streaming services therefore face a different problem from traditional piracy. A deepfake song may be technically original in [melody]({{ 'melody/' | relative_url }}) and [lyrics]({{ 'lyrics/' | relative_url }}) while still misleading listeners about who performed it.
 
@@ -305,13 +305,13 @@ Streaming services therefore face a different problem from traditional piracy. A
 
 ### Spotify's authorisation approach
 
-Spotify's recent policy updates have moved towards a consent-based model. The company has strengthened enforcement against impersonation and clarified that unauthorised AI voice replicas and vocal deepfakes are prohibited. Public descriptions of the policy state that vocal imitation is only permitted when the artist being imitated has authorised its use. Spotify has also targeted schemes in which AI-generated recordings are uploaded under, or attached to, the profiles of established artists in order to gain visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://consequence.net/2025/09/spotify-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consequence.net">[Consequence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consequence.net</span><span class="citation-popover-title">spotify ai protections</span><span class="citation-popover-snippet">Spotify Cracks Down on AI, Removing 75M Tracks and...25 Sept 2025 — The impersonation policy has been updated to give artists “clearer r...</span></span></span> [3Spotify 3TechCrunch]
+Spotify's recent policy updates have moved towards a consent-based model. The company has strengthened enforcement against impersonation and clarified that unauthorised AI voice replicas and vocal deepfakes are prohibited. Public descriptions of the policy state that vocal imitation is only permitted when the artist being imitated has authorised its use. Spotify has also targeted schemes in which AI-generated recordings are uploaded under, or attached to, the profiles of established artists in order to gain visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://consequence.net/2025/09/spotify-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consequence.net">[Consequence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consequence.net</span><span class="citation-popover-title">spotify ai protections</span><span class="citation-popover-snippet">Spotify Cracks Down on AI, Removing 75M Tracks and...25 Sept 2025 — The impersonation policy has been updated to give artists “clearer r...</span></span></span> [3Spotify 3TechCrunch]
 
 This approach does not prohibit AI-assisted music creation. Instead, it draws a distinction between creative use of AI tools and deceptive use of another person's identity.
 
 ### The enforcement challenge
 
-Even with clear rules, enforcement remains difficult. Detecting an obvious voice clone of a globally famous artist is easier than identifying subtle imitation of a less-known performer. Researchers studying AI music detection have repeatedly noted that detection systems struggle when new generation models appear or when users deliberately modify generated audio to avoid recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.18072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Music DET: Zero-Shot AI-Generated Music Detection</span><span class="citation-popover-snippet">MusicDET: Zero-Shot AI-Generated Music DetectionMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
+Even with clear rules, enforcement remains difficult. Detecting an obvious voice clone of a globally famous artist is easier than identifying subtle imitation of a less-known performer. Researchers studying AI music detection have repeatedly noted that detection systems struggle when new generation models appear or when users deliberately modify generated audio to avoid recognition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.18072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Music DET: Zero-Shot AI-Generated Music Detection</span><span class="citation-popover-snippet">MusicDET: Zero-Shot AI-Generated Music DetectionMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
 
 As a result, artist complaints, distributor reviews and platform investigations remain important alongside automated detection.
 
@@ -326,19 +326,19 @@ This shifts the platform's role from content host to [catalogue]({{ 'catalogue/'
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-2-dark.svg" | relative_url }}" alt="Platform rules illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Deezer's filtering model
 
-Deezer has adopted one of the most interventionist strategies in the streaming industry. The company launched AI-music detection systems capable of identifying fully AI-generated tracks and later introduced a tagging system that labels such content. Deezer reports having detected millions of AI-generated uploads and states that fully AI-generated recordings are excluded from algorithmic recommendations. The company has also said that it does not promote these tracks through editorial playlists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musictech.com/news/music/44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musictech.com">[MusicTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musictech.com</span><span class="citation-popover-title">44 percent of music uploaded to deezer every day is ai generated</span><span class="citation-popover-snippet">streams are for AI-generated music, and 85% of those streams are reportedly fraudulent. Deezer also claims it&#x27;s the first major streamer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[Deezer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">deezer says 44 of songs uploaded to its platform daily are ai generated</span><span class="citation-popover-snippet">Deezer says 44% of songs uploaded to its platform daily...Apr 20, 2026 — The consumption of AI-generated music on the platform is still...</span></span></span>
+Deezer has adopted one of the most interventionist strategies in the streaming industry. The company launched AI-music detection systems capable of identifying fully AI-generated tracks and later introduced a tagging system that labels such content. Deezer reports having detected millions of AI-generated uploads and states that fully AI-generated recordings are excluded from algorithmic recommendations. The company has also said that it does not promote these tracks through editorial playlists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musictech.com/news/music/44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musictech.com">[MusicTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musictech.com</span><span class="citation-popover-title">44 percent of music uploaded to deezer every day is ai generated</span><span class="citation-popover-snippet">streams are for AI-generated music, and 85% of those streams are reportedly fraudulent. Deezer also claims it&#x27;s the first major streamer...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[Deezer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">deezer says 44 of songs uploaded to its platform daily are ai generated</span><span class="citation-popover-snippet">Deezer says 44% of songs uploaded to its platform daily...Apr 20, 2026 — The consumption of AI-generated music on the platform is still...</span></span></span>
 
 This is a significant policy choice. Rather than removing AI music, Deezer reduces its visibility within recommendation systems. In effect, the platform is attempting to prevent synthetic content from overwhelming discovery mechanisms.
 
 ### Fraud detection and royalty protection
 
-Deezer's public reporting suggests that much of the platform's concern is driven by fraud rather than aesthetics. The company has repeatedly stated that a large share of streams associated with fully AI-generated tracks appear to be fraudulent. In 2025 it reported that up to 70% of streams on such tracks were fraudulent; by 2026 it stated that roughly 85% of streams on fully AI-generated music were being detected as fraudulent and demonetised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">spotify updates ai policy to label tracks cut down on spam</span><span class="citation-popover-snippet">Spotify to label AI music, filter spam and more in AI policy...25 Sept 2025 — Spotify is launching a music spam filter, labeling AI trac...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">spotify removes 75m spam tracks past year ai increases ability make fake music</span><span class="citation-popover-snippet">Spotify removes 75m spam tracks in past year as AI...25 Sept 2025 — Spotify is also strengthening rules on vocal deepfakes, which are al...</span></span></span>
+Deezer's public reporting suggests that much of the platform's concern is driven by fraud rather than aesthetics. The company has repeatedly stated that a large share of streams associated with fully AI-generated tracks appear to be fraudulent. In 2025 it reported that up to 70% of streams on such tracks were fraudulent; by 2026 it stated that roughly 85% of streams on fully AI-generated music were being detected as fraudulent and demonetised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">spotify updates ai policy to label tracks cut down on spam</span><span class="citation-popover-snippet">Spotify to label AI music, filter spam and more in AI policy...25 Sept 2025 — Spotify is launching a music spam filter, labeling AI trac...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">spotify removes 75m spam tracks past year ai increases ability make fake music</span><span class="citation-popover-snippet">Spotify removes 75m spam tracks in past year as AI...25 Sept 2025 — Spotify is also strengthening rules on vocal deepfakes, which are al...</span></span></span>
 
-The logic is straightforward. If bots repeatedly stream cheaply generated tracks, royalty payments can be diverted away from genuine listening activity. Deezer's response has been to exclude detected fraudulent streams from royalty calculations and remove the financial incentive for such behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span>
+The logic is straightforward. If bots repeatedly stream cheaply generated tracks, royalty payments can be diverted away from genuine listening activity. Deezer's response has been to exclude detected fraudulent streams from royalty calculations and remove the financial incentive for such behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span>
 
 ### Spotify's anti-streaming-manipulation framework
 
-Spotify has approached the issue through its broader artificial-streaming policies. The company defines artificial streams as listening activity that does not reflect genuine user intent and prohibits paid services that promise streams or playlist placement. Spotify has also expanded spam-filtering efforts and publicly linked AI-era policy updates to concerns about low-quality, misleading and fraudulent uploads. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsArtificial StreamingWHAT IS IT?An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsArtificial StreamingWHAT IS IT?An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, in...</span></span></span>
+Spotify has approached the issue through its broader artificial-streaming policies. The company defines artificial streams as listening activity that does not reflect genuine user intent and prohibits paid services that promise streams or playlist placement. Spotify has also expanded spam-filtering efforts and publicly linked AI-era policy updates to concerns about low-quality, misleading and fraudulent uploads. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsArtificial StreamingWHAT IS IT?An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsArtificial StreamingWHAT IS IT?An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, in...</span></span></span>
 
 While Spotify's framework is not exclusively aimed at AI music, it increasingly treats mass-generated spam and artificial streaming as interconnected problems.
 
@@ -350,12 +350,12 @@ Every filtering system creates the risk of mistakes. A platform that aggressivel
 
 This is particularly important because modern music production already relies on software assistance. Generative systems can contribute to composition, arrangement, mastering or sound design without replacing human authorship. A policy that treats all AI involvement as suspicious could penalise creators who are using technology in ordinary and lawful ways.
 
-The technical problem is equally difficult. Academic research on AI music detection highlights a persistent challenge: detectors often perform well against known generation systems but struggle when confronted with unfamiliar models or modified audio. False positives and false negatives remain unavoidable risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.18072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Music DET: Zero-Shot AI-Generated Music Detection</span><span class="citation-popover-snippet">MusicDET: Zero-Shot AI-Generated Music DetectionMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
+The technical problem is equally difficult. Academic research on AI music detection highlights a persistent challenge: detectors often perform well against known generation systems but struggle when confronted with unfamiliar models or modified audio. False positives and false negatives remain unavoidable risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.18072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Music DET: Zero-Shot AI-Generated Music Detection</span><span class="citation-popover-snippet">MusicDET: Zero-Shot AI-Generated Music DetectionMay 18, 2026...</span><span class="citation-popover-meta">Published: May 18, 2026</span></span></span>
 
 For that reason, platforms increasingly combine multiple tools:
 
 * Metadata disclosures about AI involvement.
-* Automated detection systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.soldistro.co.za/en/articles/14653920-how-to-spot-prevent-and-tackle-artificial-streaming-in-music-distribution" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.soldistro.co.za">[support.soldistro.co.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.soldistro.co.za</span><span class="citation-popover-snippet">to Spot, Prevent, and Tackle Artificial Streaming in Music...16 Apr 2026 — Even if you haven&#x27;t paid for fake streams, your music could b...</span></span></span>
+* Automated detection systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.soldistro.co.za/en/articles/14653920-how-to-spot-prevent-and-tackle-artificial-streaming-in-music-distribution" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.soldistro.co.za">[support.soldistro.co.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.soldistro.co.za</span><span class="citation-popover-snippet">to Spot, Prevent, and Tackle Artificial Streaming in Music...16 Apr 2026 — Even if you haven&#x27;t paid for fake streams, your music could b...</span></span></span>
 * Artist and [rights]({{ 'rights/' | relative_url }})-holder complaints.
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -366,206 +366,206 @@ For that reason, platforms increasingly combine multiple tools:
 
 </div>
 
-The goal is not perfect identification but risk reduction. Spotify+2Deezer Newsroom <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[newsroom.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Strengthens AI Protections for Artists, Songwriters...25 Sept 2025 — Improved enforcement of impersonation violations; A...</span></span></span>
+The goal is not perfect identification but risk reduction. Spotify+2Deezer Newsroom<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[newsroom.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Strengthens AI Protections for Artists, Songwriters...25 Sept 2025 — Improved enforcement of impersonation violations; A...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-3-dark.svg" | relative_url }}" alt="Platform rules illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What These Rules Mean for Market Flooding Fears
 
 The emergence of platform rules shows that AI music flooding is being treated as a governance problem rather than simply a creative one. Streaming services are not only deciding whether AI-generated tracks belong on their platforms; they are deciding how much visibility, trust and revenue those tracks should receive.
 
-Spotify's emphasis on authorisation and anti-impersonation policies reflects concern about identity and consumer deception. Deezer's emphasis on tagging, recommendation exclusion and demonetisation reflects concern about catalogue pollution and streaming fraud. Together, these approaches reveal a broader shift in the music industry: the debate is moving from whether AI music exists to how platforms manage its effects on discovery, authenticity and royalties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[3Spotify 3TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">spotify updates ai policy to label tracks cut down on spam</span><span class="citation-popover-snippet">Spotify to label AI music, filter spam and more in AI policy...25 Sept 2025 — Spotify is launching a music spam filter, labeling AI trac...</span></span></span>
+Spotify's emphasis on authorisation and anti-impersonation policies reflects concern about identity and consumer deception. Deezer's emphasis on tagging, recommendation exclusion and demonetisation reflects concern about catalogue pollution and streaming fraud. Together, these approaches reveal a broader shift in the music industry: the debate is moving from whether AI music exists to how platforms manage its effects on discovery, authenticity and royalties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-snippet">Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[3Spotify 3TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">spotify updates ai policy to label tracks cut down on spam</span><span class="citation-popover-snippet">Spotify to label AI music, filter spam and more in AI policy...25 Sept 2025 — Spotify is launching a music spam filter, labeling AI trac...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U5qC6u2MYtw" title="Understanding Artificial Streaming | Spotify for Artists Masterclass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U5qC6u2MYtw" target="_blank" rel="noopener noreferrer">Understanding Artificial Streaming | Spotify for Artists Masterclass</a></p><p class="youtube-embed-meta">Channel: Spotify for Artists &middot; Views: 290.8K &middot; Uploaded: June 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U5qC6u2MYtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U5qC6u2MYtw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Platforms Police AI Music Floods?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Platforms Police AI Music Floods?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
+</h4>
+<p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
         
-        <p class="fr-book-desc">Directly useful for understanding moderation and governance tradeoffs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly useful for understanding moderation and governance tradeoffs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Steve Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
+</h4>
+<p class="fr-book-author">By Steve Gordon</p>
         
-        <p class="fr-book-desc">Explains policy and business-rule implications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains policy and business-rule implications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14833271-M.jpg" alt="Cover for Mood Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Liz Pelly</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14833271-M.jpg" alt="Cover for Mood Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Liz Pelly</p>
         
-        <p class="fr-book-desc">First published 2025. Subjects: Music, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2025. Subjects: Music, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Shows how technology-driven oversupply can disrupt music markets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how technology-driven oversupply can disrupt music markets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mood Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mood Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="https://i.ebayimg.com/images/g/JscAAOSw1ntns6H7/s-l225.jpg" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="https://i.ebayimg.com/images/g/JscAAOSw1ntns6H7/s-l225.jpg" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP"><img src="https://i.ebayimg.com/images/g/~yYAAOSwAGZmKknO/s-l225.jpg" alt="Listing image for Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP"><img src="https://i.ebayimg.com/images/g/~yYAAOSwAGZmKknO/s-l225.jpg" alt="Listing image for Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Carmel: Im over you POSTER SLEEVE 7&quot; BRAND NEW VINYL EX SHOP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers"><img src="https://i.ebayimg.com/images/g/0-gAAOSw9IxiVGk4/s-l225.jpg" alt="Listing image for Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers"><img src="https://i.ebayimg.com/images/g/0-gAAOSw9IxiVGk4/s-l225.jpg" alt="Listing image for Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Rammstein Zick Zack 2 track CD Single + Magazine + posters + stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW"><img src="https://i.ebayimg.com/images/g/f2EAAeSwkElqKXDW/s-l225.jpg" alt="Listing image for Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW"><img src="https://i.ebayimg.com/images/g/f2EAAeSwkElqKXDW/s-l225.jpg" alt="Listing image for Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">Halsey - If I Can&#x27;t Have Love, I Want Power (2021) CD Bonus Track + Poster NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-platforms-police-ai-music-floods-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="can-platforms-police-ai-music-floods-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ Spotify's emphasis on authorisation and anti-impersonation policies reflects con
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ Spotify's emphasis on authorisation and anti-impersonation policies reflects con
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ Spotify's emphasis on authorisation and anti-impersonation policies reflects con
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ Spotify's emphasis on authorisation and anti-impersonation policies reflects con
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ Spotify's emphasis on authorisation and anti-impersonation policies reflects con
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,343 +771,343 @@ Spotify's emphasis on authorisation and anti-impersonation policies reflects con
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Strengthens AI Protections for Artists, Songwriters...25 Sept 2025 — Improved enforcement of impersonation violations; A...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Strengthens AI Protections for Artists, Songwriters...25 Sept 2025 — Improved enforcement of impersonation violations; A...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: When the beat goes on without you  
-   Link: <a href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</p></details>
+   Link:<a href="https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On April 27, 2026, Swift filed trademarks for her voice and image to combat the unauthorized use of AI that mimics her identity, a move f...</p></details>
    Published: April 27, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: techcrunch.com  
    Title: spotify updates ai policy to label tracks cut down on spam  
-   Link: <a href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify to label AI music, filter spam and more in AI policy...25 Sept 2025 — Spotify is launching a music spam filter, labeling AI trac...</p></details>
+   Link:<a href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify to label AI music, filter spam and more in AI policy...25 Sept 2025 — Spotify is launching a music spam filter, labeling AI trac...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: consequence.net  
    Title: spotify ai protections  
-   Link: <a href="https://consequence.net/2025/09/spotify-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://consequence.net/2025/09/spotify-ai-protections/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Cracks Down on AI, Removing 75M Tracks and...25 Sept 2025 — The impersonation policy has been updated to give artists “clearer r...</p></details>
+   Link:<a href="https://consequence.net/2025/09/spotify-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://consequence.net/2025/09/spotify-ai-protections/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Cracks Down on AI, Removing 75M Tracks and...25 Sept 2025 — The impersonation policy has been updated to give artists “clearer r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Music DET: Zero-Shot AI-Generated Music Detection  
-   Link: <a href="https://arxiv.org/abs/2605.18072" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.18072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicDET: Zero-Shot AI-Generated Music DetectionMay 18, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.18072" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.18072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MusicDET: Zero-Shot AI-Generated Music DetectionMay 18, 2026...</p></details>
    Published: May 18, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2412.00571" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.00571</a>  
+   Link:<a href="https://arxiv.org/abs/2412.00571" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.00571</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: musictech.com  
    Title: 44 percent of music uploaded to deezer every day is ai generated  
-   Link: <a href="https://musictech.com/news/music/44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated/" target="_blank" rel="noopener noreferrer nofollow">https://musictech.com/news/music/44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>streams are for AI-generated music, and 85% of those streams are reportedly fraudulent. Deezer also claims it&#x27;s the first major streamer...</p></details>
+   Link:<a href="https://musictech.com/news/music/44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated/" target="_blank" rel="noopener noreferrer nofollow">https://musictech.com/news/music/44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>streams are for AI-generated music, and 85% of those streams are reportedly fraudulent. Deezer also claims it&#x27;s the first major streamer...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: techcrunch.com  
    Title: deezer says 44 of songs uploaded to its platform daily are ai generated  
-   Link: <a href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer says 44% of songs uploaded to its platform daily...Apr 20, 2026 — The consumption of AI-generated music on the platform is still...</p></details>
+   Link:<a href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer says 44% of songs uploaded to its platform daily...Apr 20, 2026 — The consumption of AI-generated music on the platform is still...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/artificial-streaming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsArtificial StreamingWHAT IS IT?An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, in...</p></details>
+   Link:<a href="https://artists.spotify.com/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/artificial-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsArtificial StreamingWHAT IS IT?An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/artificial-streaming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsArtificial StreamingPenalties and deterrentsSpotify strictly prohibits using any third party service that promises str...</p></details>
+   Link:<a href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/artificial-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsArtificial StreamingPenalties and deterrentsSpotify strictly prohibits using any third party service that promises str...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: support.spotify.com  
-   Link: <a href="https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>streaming and paid 3rd-party services that...An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, includ...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/third-party-services-that-guarantee-streams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>streaming and paid 3rd-party services that...An artificial stream is a stream that doesn&#x27;t reflect genuine user listening intent, includ...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv SONICS: Synthetic Or Not -- Identifying Counterfeit Songs  
-   Link: <a href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.14080</a>  
+   Link:<a href="https://arxiv.org/abs/2408.14080" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.14080</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: support.spotify.com  
    Title: music that impersonates another artists voice  
-   Link: <a href="https://support.spotify.com/us/artists/article/music-that-impersonates-another-artists-voice/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/music-that-impersonates-another-artists-voice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that impersonates another artist&#x27;s voiceSpotify will remove music that impersonates another artist&#x27;s voice without their permission — whe...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/music-that-impersonates-another-artists-voice/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/music-that-impersonates-another-artists-voice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that impersonates another artist&#x27;s voiceSpotify will remove music that impersonates another artist&#x27;s voice without their permission — whe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: techcrunch.com  
    Title: deezer starts labeling ai generated music to tackle streaming fraud  
-   Link: <a href="https://techcrunch.com/2025/06/20/deezer-starts-labeling-ai-generated-music-to-tackle-streaming-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/06/20/deezer-starts-labeling-ai-generated-music-to-tackle-streaming-fraud/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer starts labeling AI-generated music to tackle...20 Jun 2025 — Deezer announced on Friday that it will start labeling [albums](&amp;#123;&amp;#123; &#x27;albums/&#x27; | relative_url &amp;#125;&amp;#125;) that i...</p></details>
+   Link:<a href="https://techcrunch.com/2025/06/20/deezer-starts-labeling-ai-generated-music-to-tackle-streaming-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/06/20/deezer-starts-labeling-ai-generated-music-to-tackle-streaming-fraud/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer starts labeling AI-generated music to tackle...20 Jun 2025 — Deezer announced on Friday that it will start labeling [albums](&amp;#123;&amp;#123; &#x27;albums/&#x27; | relative_url &amp;#125;&amp;#125;) that i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: AI slop FLOODS platforms  
-   Link: <a href="http://www.youtube.com/watch?v=9oqsEEtd3pc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9oqsEEtd3pc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75M AI Tracks: New Policies Target Voice Clones &amp; Spam...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=9oqsEEtd3pc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9oqsEEtd3pc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75M AI Tracks: New Policies Target Voice Clones &amp; Spam...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Spotify Removes 75M AI Tracks: New Policies Target Voice Clones & Spam  
-   Link: <a href="http://www.youtube.com/watch?v=vY_ak1kKszk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vY_ak1kKszk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75 Million Spam Songs &amp; Cracks Down on AI Abuse in Music...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vY_ak1kKszk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vY_ak1kKszk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75 Million Spam Songs &amp; Cracks Down on AI Abuse in Music...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Spotify Removes 75 Million Spam Songs & Cracks Down on AI Abuse in Music  
-   Link: <a href="http://www.youtube.com/watch?v=TlVDHcPewuQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TlVDHcPewuQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75M AI Tracks: New Policies Target Voice Clones &amp; Spam...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TlVDHcPewuQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TlVDHcPewuQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75M AI Tracks: New Policies Target Voice Clones &amp; Spam...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Spotify Removes 75M AI Tracks: New Policies Target Voice Clones & Spam  
-   Link: <a href="http://www.youtube.com/watch?v=aCLzH1-KGdE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aCLzH1-KGdE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just KILLED AI Channels, Here&#x27;s What That Means for Creators...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=aCLzH1-KGdE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aCLzH1-KGdE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just KILLED AI Channels, Here&#x27;s What That Means for Creators...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: newsroom-deezer.com  
-   Link: <a href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</p></details>
+   Link:<a href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer NewsroomDeezer: AI-generated tracks now represent 44% of all new...Apr 20, 2026 — In addition, a majority (85%) of these streams...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: spotify removes 75m spam tracks past year ai increases ability make fake music  
-   Link: <a href="https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify removes 75m spam tracks in past year as AI...25 Sept 2025 — Spotify is also strengthening rules on vocal deepfakes, which are al...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify removes 75m spam tracks in past year as AI...25 Sept 2025 — Spotify is also strengthening rules on vocal deepfakes, which are al...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newsroom-deezer.com  
    Title: deezer launches worlds first ai tagging system for music streaming  
-   Link: <a href="https://newsroom-deezer.com/2025/06/deezer-launches-worlds-first-ai-tagging-system-for-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2025/06/deezer-launches-worlds-first-ai-tagging-system-for-music-streaming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When detecting stream manipulation...Read more...</p></details>
+   Link:<a href="https://newsroom-deezer.com/2025/06/deezer-launches-worlds-first-ai-tagging-system-for-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2025/06/deezer-launches-worlds-first-ai-tagging-system-for-music-streaming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When detecting stream manipulation...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newsroom-deezer.com  
    Title: 28 fully ai generated music  
-   Link: <a href="https://newsroom-deezer.com/2025/09/28-fully-ai-generated-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2025/09/28-fully-ai-generated-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer: 28% of all delivered music is now fully AI-generated11 Sept 2025 — Deezer remains the only streaming provider to tag 100% AI-gene...</p></details>
+   Link:<a href="https://newsroom-deezer.com/2025/09/28-fully-ai-generated-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2025/09/28-fully-ai-generated-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer: 28% of all delivered music is now fully AI-generated11 Sept 2025 — Deezer remains the only streaming provider to tag 100% AI-gene...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite AI-generated tracks making up only 0.5% of overall streams, fraudsters manipulate the system by using bots to artificially inflat...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: soundraw.io  
    Title: spotifys new ai protections what it means for artists  
-   Link: <a href="https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s New AI Protections: What It Means for Artists...27 Feb 2026 — Spotify just tightened rules around AI voice impersonation, is r...</p></details>
+   Link:<a href="https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s New AI Protections: What It Means for Artists...27 Feb 2026 — Spotify just tightened rules around AI voice impersonation, is r...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>60,000+ AI tracks uploaded daily, and most of the streams...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1qqn1lb/deezer_says_up_to_85_of_aigenerated_music_streams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>60,000+ AI tracks uploaded daily, and most of the streams...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicians/comments/1dkguep/spotify_finally_released_an_indepth_article_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicians/comments/1dkguep/spotify_finally_released_an_indepth_article_about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding artificial streaming on Spotify. How to identify bot streams on Spotify. Best tips for...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicians/comments/1dkguep/spotify_finally_released_an_indepth_article_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicians/comments/1dkguep/spotify_finally_released_an_indepth_article_about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding artificial streaming on Spotify. How to identify bot streams on Spotify. Best tips for...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1ao87z5/spotify_making_their_own_ai_music_under_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1ao87z5/spotify_making_their_own_ai_music_under_fake/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify making their own AI music under fake artists, and...The fact [AI songs](&amp;#123;&amp;#123; &#x27;ai-songs/&#x27; | relative_url &amp;#125;&amp;#125;) are showing up in Spotify recommended playlists is a huge...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/1ao87z5/spotify_making_their_own_ai_music_under_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1ao87z5/spotify_making_their_own_ai_music_under_fake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify making their own AI music under fake artists, and...The fact [AI songs](&amp;#123;&amp;#123; &#x27;ai-songs/&#x27; | relative_url &amp;#125;&amp;#125;) are showing up in Spotify recommended playlists is a huge...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer rolls out AI tagging system to fight streaming fraud20 Jun 2025 — Deezer rolls out AI tagging system to fight streaming fraud; say...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/deezer-rolls-out-ai-tagging-system-to-fight-streaming-fraud-says-up-to-70-of-streams-from-fully-ai-generated-tracks-are-fraudulent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer rolls out AI tagging system to fight streaming fraud20 Jun 2025 — Deezer rolls out AI tagging system to fight streaming fraud; say...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/spotify-extends-verified-by-spotify-badges-to-podcasts-further-cracking-down-on-ai-impersonators/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-extends-verified-by-spotify-badges-to-podcasts-further-cracking-down-on-ai-impersonators/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify extends &#x27;Verified&#x27; badges to podcasts, further...20 May 2026 — “Today, we&#x27;re reaffirming this policy in the context of AI: Spoti...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/spotify-extends-verified-by-spotify-badges-to-podcasts-further-cracking-down-on-ai-impersonators/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-extends-verified-by-spotify-badges-to-podcasts-further-cracking-down-on-ai-impersonators/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify extends &#x27;Verified&#x27; badges to podcasts, further...20 May 2026 — “Today, we&#x27;re reaffirming this policy in the context of AI: Spoti...</p></details>
    Published: May 2026  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: musicbusinessworldwide.com  
    Title: spotify has deleted 75m spammy tracks as it unveils new ai music policies  
-   Link: <a href="https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify has deleted 75m+ tracks in &#x27;spammy&#x27; AI...Sep 25, 2025 — According to Deezer, up to 70% of plays for these fully AI-generated tra...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify has deleted 75m+ tracks in &#x27;spammy&#x27; AI...Sep 25, 2025 — According to Deezer, up to 70% of plays for these fully AI-generated tra...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/spotify-backs-us-bill-to-outlaw-ai-deepfakes-joining-umg-sony-warner-google-and-openai-in-growing-coalition/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-backs-us-bill-to-outlaw-ai-deepfakes-joining-umg-sony-warner-google-and-openai-in-growing-coalition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y, Warner, Google, and OpenAI in growing coalition; Universal Music Group, Sony...Read more...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/spotify-backs-us-bill-to-outlaw-ai-deepfakes-joining-umg-sony-warner-google-and-openai-in-growing-coalition/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-backs-us-bill-to-outlaw-ai-deepfakes-joining-umg-sony-warner-google-and-openai-in-growing-coalition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y, Warner, Google, and OpenAI in growing coalition; Universal Music Group, Sony...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: imusician.pro  
    Title: deezer ai music policy  
-   Link: <a href="https://imusician.pro/en/resources/blog/deezer-ai-music-policy" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/deezer-ai-music-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer&#x27;s AI Music Policy: Guidelines &amp; Regulations (2026)02 Apr,2026 — On Deezer, synthetic tracks now make up a sizable share of daily u...</p></details>
+   Link:<a href="https://imusician.pro/en/resources/blog/deezer-ai-music-policy" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/deezer-ai-music-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer&#x27;s AI Music Policy: Guidelines &amp; Regulations (2026)02 Apr,2026 — On Deezer, synthetic tracks now make up a sizable share of daily u...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: imusician.pro  
-   Link: <a href="https://imusician.pro/en/resources/blog/spotify-ai-tags" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-ai-tags</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify AI Tags Explained: Voluntary Disclosure System for...5 May 2026 — Spotify has explicitly stated that profiles primarily represen...</p></details>
+   Link:<a href="https://imusician.pro/en/resources/blog/spotify-ai-tags" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-ai-tags</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify AI Tags Explained: Voluntary Disclosure System for...5 May 2026 — Spotify has explicitly stated that profiles primarily represen...</p></details>
    Published: May 2026  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: imusician.pro  
    Title: spotify ai policy in 2025 artist protection transparency  
-   Link: <a href="https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify AI Policy in 2025: Key Updates for Artist Protection...29 Sept 2025 — Spotify is updating its AI policy to protect artists from...</p></details>
+   Link:<a href="https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-ai-policy-in-2025-artist-protection-transparency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify AI Policy in 2025: Key Updates for Artist Protection...29 Sept 2025 — Spotify is updating its AI policy to protect artists from...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: imusician.pro  
    Title: spotify artificial streaming  
-   Link: <a href="https://imusician.pro/en/resources/blog/spotify-artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-artificial-streaming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Spotify Artificial Streaming?7 Apr 2025 — How Can I Identify Artificial Streams or Fake Playlists?... streams and fake Spotify p...</p></details>
+   Link:<a href="https://imusician.pro/en/resources/blog/spotify-artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/spotify-artificial-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Spotify Artificial Streaming?7 Apr 2025 — How Can I Identify Artificial Streams or Fake Playlists?... streams and fake Spotify p...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: imusician.pro  
-   Link: <a href="https://imusician.pro/en/resources/blog/deezer-demonetizes-85-of-ia-music-commercializes-ia-detection-technology" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/deezer-demonetizes-85-of-ia-music-commercializes-ia-detection-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer Demonetizes 85% of AI-Streams, Licenses...Feb 6, 2026 — According to its data, up to 85% of all streams on AI-generated music are...</p></details>
+   Link:<a href="https://imusician.pro/en/resources/blog/deezer-demonetizes-85-of-ia-music-commercializes-ia-detection-technology" target="_blank" rel="noopener noreferrer nofollow">https://imusician.pro/en/resources/blog/deezer-demonetizes-85-of-ia-music-commercializes-ia-detection-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer Demonetizes 85% of AI-Streams, Licenses...Feb 6, 2026 — According to its data, up to 85% of all streams on AI-generated music are...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dynamoi.com  
    Title: spotify ai music policy  
-   Link: <a href="https://dynamoi.com/learn/faqs/spotify-ai-music-policy" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/faqs/spotify-ai-music-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Allowed in 2026Spotify allows AI music with DDEX disclosure. Bans voice cloning, spam uploads, and impersonation. 75M tracks remov...</p></details>
+   Link:<a href="https://dynamoi.com/learn/faqs/spotify-ai-music-policy" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/faqs/spotify-ai-music-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Allowed in 2026Spotify allows AI music with DDEX disclosure. Bans voice cloning, spam uploads, and impersonation. 75M tracks remov...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: en.deezercommunity.com  
-   Link: <a href="https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852/index2.html" target="_blank" rel="noopener noreferrer nofollow">https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852/index2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just Rolled Out the World&#x27;s First AI Music Tagging...While most of these tracks don&#x27;t go viral, Deezer found that around 70% of their st...</p></details>
+   Link:<a href="https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852/index2.html" target="_blank" rel="noopener noreferrer nofollow">https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852/index2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just Rolled Out the World&#x27;s First AI Music Tagging...While most of these tracks don&#x27;t go viral, Deezer found that around 70% of their st...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/analytics-india-magazine_spotify-has-revealed-that-it-removed-75-million-activity-7376981648241991681-gl5N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/analytics-india-magazine_spotify-has-revealed-that-it-removed-75-million-activity-7376981648241991681-gl5N</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orm over the past year, as artificial intelligence tools make it...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/analytics-india-magazine_spotify-has-revealed-that-it-removed-75-million-activity-7376981648241991681-gl5N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/analytics-india-magazine_spotify-has-revealed-that-it-removed-75-million-activity-7376981648241991681-gl5N</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orm over the past year, as artificial intelligence tools make it...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/vineeta-dixit_spotify-strengthens-ai-protections-for-artists-activity-7377246548172312576-qRLB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/vineeta-dixit_spotify-strengthens-ai-protections-for-artists-activity-7377246548172312576-qRLB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Introduces AI Protections for Artists and CreatorsThey are now implementing a music spam filter, labeling AI-generated tracks, an...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/vineeta-dixit_spotify-strengthens-ai-protections-for-artists-activity-7377246548172312576-qRLB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/vineeta-dixit_spotify-strengthens-ai-protections-for-artists-activity-7377246548172312576-qRLB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Introduces AI Protections for Artists and CreatorsThey are now implementing a music spam filter, labeling AI-generated tracks, an...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jasen-samford_deezer-says-up-to-85-of-its-ai-music-streams-activity-7422681351599931392-g-1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jasen-samford_deezer-says-up-to-85-of-its-ai-music-streams-activity-7422681351599931392-g-1Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer Reveals Shocking AI Music Streaming StatsUp to 85% of streams on AI-generated music are fraudulent. That&#x27;s not a typo. The vast ma...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jasen-samford_deezer-says-up-to-85-of-its-ai-music-streams-activity-7422681351599931392-g-1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jasen-samford_deezer-says-up-to-85-of-its-ai-music-streams-activity-7422681351599931392-g-1Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer Reveals Shocking AI Music Streaming StatsUp to 85% of streams on AI-generated music are fraudulent. That&#x27;s not a typo. The vast ma...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=I_yLKjyl1N4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I_yLKjyl1N4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about AI music &amp;middot; The Suno AI [Ownership](&amp;#123;&amp;#123; &#x27;ownership/&#x27; | relative_url &amp;#125;&amp;#125;) Mistake...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I_yLKjyl1N4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I_yLKjyl1N4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about AI music &amp;middot; The Suno AI [Ownership](&amp;#123;&amp;#123; &#x27;ownership/&#x27; | relative_url &amp;#125;&amp;#125;) Mistake...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: theguardian.com  
    Title: ai impersonating musicians spotify  
-   Link: <a href="https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>how AI is impersonating musicians on Spotify11 Apr 2026 — Fraudulent music streams have long been a scourge for the industry, but experts...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>how AI is impersonating musicians on Spotify11 Apr 2026 — Fraudulent music streams have long been a scourge for the industry, but experts...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: spotify verified badge human artists from ai  
-   Link: <a href="https://www.theguardian.com/technology/2026/apr/30/spotify-verified-badge-human-artists-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/30/spotify-verified-badge-human-artists-from-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify rolls out &#x27;Verified&#x27; badge to distinguish human artists...30 Apr 2026 — Profiles that primarily represent AI-generated music or...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2026/apr/30/spotify-verified-badge-human-artists-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/30/spotify-verified-badge-human-artists-from-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify rolls out &#x27;Verified&#x27; badge to distinguish human artists...30 Apr 2026 — Profiles that primarily represent AI-generated music or...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
    Title: Spotify just updated their AI policies  
-   Link: <a href="https://www.instagram.com/reel/DPBzQm1Df4c/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPBzQm1Df4c/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you all think...They just introduced a new artist verification program to help identify real artists from AI music, and it comes...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPBzQm1Df4c/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPBzQm1Df4c/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do you all think...They just introduced a new artist verification program to help identify real artists from AI music, and it comes...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPCFRBfinJ2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPCFRBfinJ2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>artists and reduce confusion caused by AI-generated music.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DPCFRBfinJ2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPCFRBfinJ2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>artists and reduce confusion caused by AI-generated music.Read more...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: jambands.com  
    Title: spotify targets ai slop and embraces ai music in new policy  
-   Link: <a href="https://jambands.com/news/2025/09/25/spotify-targets-ai-slop-and-embraces-ai-music-in-new-policy/" target="_blank" rel="noopener noreferrer nofollow">https://jambands.com/news/2025/09/25/spotify-targets-ai-slop-and-embraces-ai-music-in-new-policy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vocal deepfakes. While affording an exception to cases voices legally licensed to generative AI projects, the streaming platform took aim...</p></details>
+   Link:<a href="https://jambands.com/news/2025/09/25/spotify-targets-ai-slop-and-embraces-ai-music-in-new-policy/" target="_blank" rel="noopener noreferrer nofollow">https://jambands.com/news/2025/09/25/spotify-targets-ai-slop-and-embraces-ai-music-in-new-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vocal deepfakes. While affording an exception to cases voices legally licensed to generative AI projects, the streaming platform took aim...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: rebelmusicdistribution.com  
-   Link: <a href="https://rebelmusicdistribution.com/2025/09/30/spotify-removes-75-million-fake-tracks-in-2024-what-it-means-for-artists-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://rebelmusicdistribution.com/2025/09/30/spotify-removes-75-million-fake-tracks-in-2024-what-it-means-for-artists-in-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75 Million Fake Tracks in 2024Sep 30, 2025 — Transparency with AI labels — requiring artists to disclose AI usage so list...</p></details>
+   Link:<a href="https://rebelmusicdistribution.com/2025/09/30/spotify-removes-75-million-fake-tracks-in-2024-what-it-means-for-artists-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://rebelmusicdistribution.com/2025/09/30/spotify-removes-75-million-fake-tracks-in-2024-what-it-means-for-artists-in-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Removes 75 Million Fake Tracks in 2024Sep 30, 2025 — Transparency with AI labels — requiring artists to disclose AI usage so list...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: arstechnica.com  
-   Link: <a href="https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer says 44% of new music uploads are AI-generated...Apr 20, 2026 — Deezer only pays for streams when a person listens to them, so it...</p></details>
+   Link:<a href="https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer says 44% of new music uploads are AI-generated...Apr 20, 2026 — Deezer only pays for streams when a person listens to them, so it...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: weraveyou.com  
    Title: deezer to demonetize 85 ai generated streams  
-   Link: <a href="https://weraveyou.com/2026/02/deezer-to-demonetize-85-ai-generated-streams/" target="_blank" rel="noopener noreferrer nofollow">https://weraveyou.com/2026/02/deezer-to-demonetize-85-ai-generated-streams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer to demonetize 85% AI-generated streamsFeb 4, 2026 — Deezer announces that it shall be demonetizing upto 85% of AI-generated stream...</p></details>
+   Link:<a href="https://weraveyou.com/2026/02/deezer-to-demonetize-85-ai-generated-streams/" target="_blank" rel="noopener noreferrer nofollow">https://weraveyou.com/2026/02/deezer-to-demonetize-85-ai-generated-streams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deezer to demonetize 85% AI-generated streamsFeb 4, 2026 — Deezer announces that it shall be demonetizing upto 85% of AI-generated stream...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Officially Announces New Policy for Royalty...21 Nov 2023 — Spotify Officially Announces New Policy for Royalty Payouts, “Artifi...</p></details>
+   Link:<a href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Officially Announces New Policy for Royalty...21 Nov 2023 — Spotify Officially Announces New Policy for Royalty Payouts, “Artifi...</p></details>
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50000 AI tracks flood Deezer daily – as study shows 97%...12 Nov 2025 — According to the platform, up to 70% of plays for fully AI-gener...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/50000-ai-tracks-flood-deezer-daily-as-study-shows-97-of-listeners-cant-tell-the-difference-between-human-made-vs-fully-ai-generated-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50000 AI tracks flood Deezer daily – as study shows 97%...12 Nov 2025 — According to the platform, up to 70% of plays for fully AI-gener...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially launched in 2025, the tool is designed to identify, tag, and exclude AI-generated music from recommendation algorithms to prote...</p></details>
+   Link:<a href="https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially launched in 2025, the tool is designed to identify, tag, and exclude AI-generated music from recommendation algorithms to prote...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/deezer/comments/1leb7z8/up_to_70_of_streams_of_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/deezer/comments/1leb7z8/up_to_70_of_streams_of_aigenerated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Up to 70% of streams of AI-generated: r/deezerUp to 70% of streams of AI-generated music on Deezer are fraudulent, says report. Accordin...</p></details>
+   Link:<a href="https://www.reddit.com/r/deezer/comments/1leb7z8/up_to_70_of_streams_of_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/deezer/comments/1leb7z8/up_to_70_of_streams_of_aigenerated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Up to 70% of streams of AI-generated: r/deezerUp to 70% of streams of AI-generated music on Deezer are fraudulent, says report. Accordin...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: support.soldistro.co.za  
-   Link: <a href="https://support.soldistro.co.za/en/articles/14653920-how-to-spot-prevent-and-tackle-artificial-streaming-in-music-distribution" target="_blank" rel="noopener noreferrer nofollow">https://support.soldistro.co.za/en/articles/14653920-how-to-spot-prevent-and-tackle-artificial-streaming-in-music-distribution</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Spot, Prevent, and Tackle Artificial Streaming in Music...16 Apr 2026 — Even if you haven&#x27;t paid for fake streams, your music could b...</p></details>
+   Link:<a href="https://support.soldistro.co.za/en/articles/14653920-how-to-spot-prevent-and-tackle-artificial-streaming-in-music-distribution" target="_blank" rel="noopener noreferrer nofollow">https://support.soldistro.co.za/en/articles/14653920-how-to-spot-prevent-and-tackle-artificial-streaming-in-music-distribution</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Spot, Prevent, and Tackle Artificial Streaming in Music...16 Apr 2026 — Even if you haven&#x27;t paid for fake streams, your music could b...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: roexaudio.com  
    Title: Here is how to tell the difference before you spend money on the wrong  
-   Link: <a href="https://www.roexaudio.com/blog/real-vs-fake-spotify-playlist-promotion" target="_blank" rel="noopener noreferrer nofollow">https://www.roexaudio.com/blog/real-vs-fake-spotify-playlist-promotion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real vs Fake Spotify Playlist Promotion: How to Spot...Apr 8, 2026 — Fake playlist promotion is everywhere and can damage your account...</p></details>
+   Link:<a href="https://www.roexaudio.com/blog/real-vs-fake-spotify-playlist-promotion" target="_blank" rel="noopener noreferrer nofollow">https://www.roexaudio.com/blog/real-vs-fake-spotify-playlist-promotion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real vs Fake Spotify Playlist Promotion: How to Spot...Apr 8, 2026 — Fake playlist promotion is everywhere and can damage your account...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: djmag.com  
    Title: 85 of ai generated music streams have been demonetised deezer  
-   Link: <a href="https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Up to 85% of AI-generated music streams have been...Jan 30, 2026 — French music streaming service Deezer has demonetised up to 85% of al...</p></details>
+   Link:<a href="https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/85-of-ai-generated-music-streams-have-been-demonetised-deezer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Up to 85% of AI-generated music streams have been...Jan 30, 2026 — French music streaming service Deezer has demonetised up to 85% of al...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: support.tunecore.com  
    Title: 22901710894356 Fees Penalties for Artificial Streaming  
-   Link: <a href="https://support.tunecore.com/hc/en-us/articles/22901710894356-Fees-Penalties-for-Artificial-Streaming" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/22901710894356-Fees-Penalties-for-Artificial-Streaming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Penalties for Artificial StreamingBeginning in April 2024 Spotify will charge a monthly €10 penalty to labels and distributors for each...</p></details>
+   Link:<a href="https://support.tunecore.com/hc/en-us/articles/22901710894356-Fees-Penalties-for-Artificial-Streaming" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/22901710894356-Fees-Penalties-for-Artificial-Streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Penalties for Artificial StreamingBeginning in April 2024 Spotify will charge a monthly €10 penalty to labels and distributors for each...</p></details>
    Published: April 2024  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: music-tomorrow.com  
    Title: the negative impact of fake streams on artists algorithmic performance  
-   Link: <a href="https://www.music-tomorrow.com/blog/the-negative-impact-of-fake-streams-on-artists-algorithmic-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/the-negative-impact-of-fake-streams-on-artists-algorithmic-performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the time, it&#x27;s a one-time stream, playlist addition, or a follow. Even if your bot farm is...Read more...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/the-negative-impact-of-fake-streams-on-artists-algorithmic-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/the-negative-impact-of-fake-streams-on-artists-algorithmic-performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the time, it&#x27;s a one-time stream, playlist addition, or a follow. Even if your bot farm is...Read more...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MixmagMagazine/posts/french-music-streaming-service-deezer-has-confirmed-that-it-has-demonetised-85-o/1310498721120117/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MixmagMagazine/posts/french-music-streaming-service-deezer-has-confirmed-that-it-has-demonetised-85-o/1310498721120117/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>all AI-generated tracks on its platform using an AI-detection...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MixmagMagazine/posts/french-music-streaming-service-deezer-has-confirmed-that-it-has-demonetised-85-o/1310498721120117/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MixmagMagazine/posts/french-music-streaming-service-deezer-has-confirmed-that-it-has-demonetised-85-o/1310498721120117/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>all AI-generated tracks on its platform using an AI-detection...Read more...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/817715178744888/posts/2158153338034392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/817715178744888/posts/2158153338034392/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ounts to stream songs repeatedly, artificially inflating...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/817715178744888/posts/2158153338034392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/817715178744888/posts/2158153338034392/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ounts to stream songs repeatedly, artificially inflating...Read more...</p></details>

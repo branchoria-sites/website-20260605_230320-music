@@ -510,7 +510,7 @@ This matters because music is not only sound. It is a system of attribution and 
 
 Traditional music credits are already layered. A hit can involve songwriters, topliners, producers, performers, featured artists, session musicians, engineers, publishers, labels and sample clearances. AI adds a new layer because a system can generate [lyrics]({{ 'lyrics/' | relative_url }}), melody, instrumental backing, vocal tone or full audio from short instructions. The human role may range from deep composition and editing to a simple prompt such as “make a sad pop song in the style of…”.
 
-That range is why “AI-made music” is too blunt a label. There is a major difference between a disabled musician using AI to turn hummed ideas into demos for human players, and an anonymous uploader generating thousands of near-disposable tracks to exploit streaming royalties. In one recent example, AP reported that London musician Samuel Smith, who has Parkinson’s disease, used tools such as Suno and Udio to help translate hummed melodies into demos after his ability to play guitar was affected; the AI assisted communication of musical intent rather than replacing his lyrics or authorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</span></span></span>
+That range is why “AI-made music” is too blunt a label. There is a major difference between a disabled musician using AI to turn hummed ideas into demos for human players, and an anonymous uploader generating thousands of near-disposable tracks to exploit streaming royalties. In one recent example, AP reported that London musician Samuel Smith, who has Parkinson’s disease, used tools such as Suno and Udio to help translate hummed melodies into demos after his ability to play guitar was affected; the AI assisted communication of musical intent rather than replacing his lyrics or authorship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</span></span></span>
 
 The authorship problem begins when the machine output is treated as if it has the same creative status as a human performance. A useful way to read an AI song is to separate four questions:
 
@@ -528,23 +528,23 @@ Those questions do not always point to the same person. A user may prompt the sy
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7-Illustration-1-dark.svg" | relative_url }}" alt="AI Songs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Human input and machine output
 
-The clearest emerging rule is that human contribution still matters most. The US Copyright Office’s January 2025 report on copyrightability concluded that generative AI outputs can be protected by copyright only where a human author has determined sufficient expressive elements; it specifically said that prompts alone are not enough, while human-authored material, creative arrangement or meaningful modification may be protectable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeNewsNet Issue 1060 &#124; U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected b...</span></span></span>. Copyright Office
+The clearest emerging rule is that human contribution still matters most. The US Copyright Office’s January 2025 report on copyrightability concluded that generative AI outputs can be protected by copyright only where a human author has determined sufficient expressive elements; it specifically said that prompts alone are not enough, while human-authored material, creative arrangement or meaningful modification may be protectable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeNewsNet Issue 1060 &#124; U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected b...</span></span></span>. Copyright Office
 
 For music, that distinction has practical consequences. A songwriter who writes lyrics and melody but uses AI for a temporary demo vocal is in a different position from someone who clicks “generate” until a usable track appears. A producer who edits, rearranges, records new vocals and makes distinctive musical decisions may be able to point to human authorship. A fully generated track with minimal human intervention may be harder to protect, even if the prompt took effort.
 
 The line is not always obvious, because music creation often involves iteration. Human producers already use drum machines, software instruments, pitch correction, sample libraries and automated mixing tools. AI does not become controversial merely because it is a tool. It becomes controversial when the tool appears to supply the expressive core of the work while the human role is reduced to requesting, selecting or distributing the output.
 
-That is why many policy debates now use the distinction between **AI-assisted** and **AI-generated** music. PRS for Music, the UK collecting society for songwriters, notes that the distinction is still developing but says it is updating registration systems so members can declare, for example, when lyrics are AI-generated but the composition is human-created, or when the reverse is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music AI Policy and registering music created with AI</span><span class="citation-popover-snippet">US Copyright Office copyright and works made with AI report published in January 2025. Can I register works if I create music and AI gene...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> This is a governance move as much as an administrative one: it treats AI involvement as something that must be declared in the chain of credit rather than hidden behind a normal songwriter field.
+That is why many policy debates now use the distinction between **AI-assisted** and **AI-generated** music. PRS for Music, the UK collecting society for songwriters, notes that the distinction is still developing but says it is updating registration systems so members can declare, for example, when lyrics are AI-generated but the composition is human-created, or when the reverse is true.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music AI Policy and registering music created with AI</span><span class="citation-popover-snippet">US Copyright Office copyright and works made with AI report published in January 2025. Can I register works if I create music and AI gene...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> This is a governance move as much as an administrative one: it treats AI involvement as something that must be declared in the chain of credit rather than hidden behind a normal songwriter field.
 
 ## The fake-voice problem: when authorship sounds like someone else
 
-The case that made the issue vivid was “Heart on My Sleeve”, the viral 2023 track credited to Ghostwriter977 and made with AI-generated vocals resembling Drake and The Weeknd. It was pulled from platforms including TikTok, Spotify and YouTube after Universal Music Group objected, even though the legal theory was not as simple as “this is an unauthorised cover”. The song forced a public distinction between writing a new track, copying a recording, and imitating a recognisable vocal identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</span><span class="citation-popover-meta">Published: April 18, 2023</span></span></span>
+The case that made the issue vivid was “Heart on My Sleeve”, the viral 2023 track credited to Ghostwriter977 and made with AI-generated vocals resembling Drake and The Weeknd. It was pulled from platforms including TikTok, Spotify and YouTube after Universal Music Group objected, even though the legal theory was not as simple as “this is an unauthorised cover”. The song forced a public distinction between writing a new track, copying a recording, and imitating a recognisable vocal identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</span><span class="citation-popover-meta">Published: April 18, 2023</span></span></span>
 
-That distinction matters because a voice is not always protected in the same way as a composition or sound recording. Copyright may protect the song and the recording; publicity or personality rights may protect identity; platform policies may fill gaps where legal routes are slow or fragmented. Harvard Law School’s discussion of the case noted that a right-of-publicity claim could be relevant where there is intentional imitation of artists for commercial use, but such claims do not offer the same fast takedown pathway as a standard copyright notice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction matters because a voice is not always protected in the same way as a composition or sound recording. Copyright may protect the song and the recording; publicity or personality rights may protect identity; platform policies may fill gaps where legal routes are slow or fragmented. Harvard Law School’s discussion of the case noted that a right-of-publicity claim could be relevant where there is intentional imitation of artists for commercial use, but such claims do not offer the same fast takedown pathway as a standard copyright notice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hls.harvard.edu">[Harvard Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hls.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For listeners, synthetic voice imitation can feel like a collaboration that never happened. For artists, it can be reputationally risky: a fake song can attach unwanted lyrics, political messages, poor-quality work or commercial activity to their public identity. For labels, it threatens catalogue value and control over artist brands. For platforms, it creates a moderation problem: a track may not be an exact copy of an existing recording, yet it may still deceive listeners by sounding like a real artist.
 
-This is why artist-voice rules are becoming stricter than general AI-use rules. Spotify announced in September 2025 that unauthorised vocal impersonation is not allowed and said it would improve enforcement against AI [voice clones]({{ 'voice-clones/' | relative_url }}), deepfakes and fraudulent uploads to official artist profiles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Strengthens AI Protections for Artists, Songwriters</span><span class="citation-popover-snippet">Strengthens AI Protections for Artists, Songwriters</span></span></span> YouTube similarly announced that labels and distributors would be able to request removal of AI-generated content that mimics an artist’s unique singing or rapping voice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</span><span class="citation-popover-meta">Published: April 18, 2023</span></span></span>
+This is why artist-voice rules are becoming stricter than general AI-use rules. Spotify announced in September 2025 that unauthorised vocal impersonation is not allowed and said it would improve enforcement against AI [voice clones]({{ 'voice-clones/' | relative_url }}), deepfakes and fraudulent uploads to official artist profiles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Strengthens AI Protections for Artists, Songwriters</span><span class="citation-popover-snippet">Strengthens AI Protections for Artists, Songwriters</span></span></span> YouTube similarly announced that labels and distributors would be able to request removal of AI-generated content that mimics an artist’s unique singing or rapping voice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</span><span class="citation-popover-meta">Published: April 18, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0_PKc5c4Nq8" title="STOP Using AI Music Until You Watch This..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0_PKc5c4Nq8" target="_blank" rel="noopener noreferrer">STOP Using AI Music Until You Watch This...</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 29.6K &middot; Uploaded: March 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0_PKc5c4Nq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0_PKc5c4Nq8">Open on YouTube</a></p></div></div></div>
 
@@ -552,11 +552,11 @@ This is why artist-voice rules are becoming stricter than general AI-use rules. 
 
 Streaming services are not courts, but their policies increasingly decide how AI songs are treated in practice. A platform can remove a track, label it, downrank it, exclude it from recommendations, deny payment for manipulated streams or require better metadata. These are authorship decisions because they shape whether a song is presented as human-made, synthetic, authorised, spammy, fraudulent or artist-approved.
 
-Deezer has taken one of the most visible platform-level approaches. In April 2026 it said AI-generated tracks represented 44% of all new music uploaded to the service, around 75,000 tracks per day. It also said it tags AI-generated music, removes such tracks from recommendations, excludes them from editorial playlists and has stopped storing high-resolution versions of AI tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-title">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span><span class="citation-popover-snippet">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span></span></span>
+Deezer has taken one of the most visible platform-level approaches. In April 2026 it said AI-generated tracks represented 44% of all new music uploaded to the service, around 75,000 tracks per day. It also said it tags AI-generated music, removes such tracks from recommendations, excludes them from editorial playlists and has stopped storing high-resolution versions of AI tracks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-title">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span><span class="citation-popover-snippet">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span></span></span>
 
-The scale is important because it shows that AI music is not just a few novelty songs. It has become an upload-volume problem. Deezer said fully AI-generated music accounted for only 1–3% of streams, but that up to 85% of streams generated by fully AI tracks were fraudulent in 2025; manipulated streams are excluded from royalty payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-title">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span><span class="citation-popover-snippet">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span></span></span> That connects authorship to economics: if a machine-generated catalogue can be uploaded at scale and streamed by bots, it can divert attention, data and money from human artists.
+The scale is important because it shows that AI music is not just a few novelty songs. It has become an upload-volume problem. Deezer said fully AI-generated music accounted for only 1–3% of streams, but that up to 85% of streams generated by fully AI tracks were fraudulent in 2025; manipulated streams are excluded from royalty payments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom-deezer.com">[Deezer Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom-deezer.com</span><span class="citation-popover-title">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span><span class="citation-popover-snippet">Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new</span></span></span> That connects authorship to economics: if a machine-generated catalogue can be uploaded at scale and streamed by bots, it can divert attention, data and money from human artists.
 
-Spotify’s 2025 response took a different but related path. It said it would support DDEX, an industry standard for AI disclosures in music credits, so labels, distributors and music partners can indicate whether AI was used for vocals, instrumentation or post-production. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Strengthens AI Protections for Artists, Songwriters</span><span class="citation-popover-snippet">Strengthens AI Protections for Artists, Songwriters</span></span></span> Spotify also announced a spam filter targeting mass uploads, duplicates, search-engine-style manipulation and artificially short tracks, saying AI accelerates older forms of platform abuse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</span><span class="citation-popover-meta">Published: April 18, 2023</span></span></span>
+Spotify’s 2025 response took a different but related path. It said it would support DDEX, an industry standard for AI disclosures in music credits, so labels, distributors and music partners can indicate whether AI was used for vocals, instrumentation or post-production.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Strengthens AI Protections for Artists, Songwriters</span><span class="citation-popover-snippet">Strengthens AI Protections for Artists, Songwriters</span></span></span> Spotify also announced a spam filter targeting mass uploads, duplicates, search-engine-style manipulation and artificially short tracks, saying AI accelerates older forms of platform abuse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianAI song featuring fake Drake and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</span><span class="citation-popover-meta">Published: April 18, 2023</span></span></span>
 
 These approaches reveal two competing models of governance:
 
@@ -568,11 +568,11 @@ Detection can catch undisclosed AI but risks false positives and technical arms 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7-Illustration-2-dark.svg" | relative_url }}" alt="AI Songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Copyright fights over training data shape future credit
 
-Authorship is not only about the final song. It is also about the recordings and compositions used to build the systems that generate new music. In June 2024, major record companies sued Suno and Udio, alleging that the companies copied copyrighted sound recordings at scale to train music-generation models without permission. The RIAA described the cases as landmark actions against mass infringement by commercial AI music services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
+Authorship is not only about the final song. It is also about the recordings and compositions used to build the systems that generate new music. In June 2024, major record companies sued Suno and Udio, alleging that the companies copied copyrighted sound recordings at scale to train music-generation models without permission. The RIAA described the cases as landmark actions against mass infringement by commercial AI music services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
 
-The complaints matter because they shift the authorship debate upstream. If a model can generate plausible songs because it absorbed huge quantities of human-created music, should the output be treated as independent, derivative, licensed, infringing, or something else? The labels argue that unlicensed training competes with and devalues the recordings used to create the model. Suno and Udio have argued that their systems generate new outputs and that training can be protected by fair use. Reuters reported that the labels sought statutory damages of up to $150,000 per copied work and alleged that the systems could recreate recognisable elements of well-known music. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">Music labels sue AI companies Suno, Udio for US copyright infringement</span></span></span>
+The complaints matter because they shift the authorship debate upstream. If a model can generate plausible songs because it absorbed huge quantities of human-created music, should the output be treated as independent, derivative, licensed, infringing, or something else? The labels argue that unlicensed training competes with and devalues the recordings used to create the model. Suno and Udio have argued that their systems generate new outputs and that training can be protected by fair use. Reuters reported that the labels sought statutory damages of up to $150,000 per copied work and alleged that the systems could recreate recognisable elements of well-known music.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">Music labels sue AI companies Suno, Udio for US copyright infringement</span></span></span>
 
-The legal landscape is moving towards licensing deals as well as litigation. Reuters reported in November 2025 that Warner Music Group settled its copyright case with Suno and reached a deal for licensed AI music models, while Universal had already reached a similar settlement with Udio. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Warner Music Group settles copyright case with Suno for licensed AI music</span><span class="citation-popover-snippet">As part of the deal, Suno will implement restrictions: songs created via its free tier will be limited to play and share functions, while...</span></span></span> AP reported that Universal and Udio’s agreement included plans for a controlled creation and streaming platform, but also caused backlash from users when Udio stopped offering downloads of generated songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</span></span></span>
+The legal landscape is moving towards licensing deals as well as litigation. Reuters reported in November 2025 that Warner Music Group settled its copyright case with Suno and reached a deal for licensed AI music models, while Universal had already reached a similar settlement with Udio.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Warner Music Group settles copyright case with Suno for licensed AI music</span><span class="citation-popover-snippet">As part of the deal, Suno will implement restrictions: songs created via its free tier will be limited to play and share functions, while...</span></span></span> AP reported that Universal and Udio’s agreement included plans for a controlled creation and streaming platform, but also caused backlash from users when Udio stopped offering downloads of generated songs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</span></span></span>
 
 Those deals show what “authorship” may become in commercial AI music: not a single creator’s signature, but a permissions stack. A future AI-generated track may carry information about the human prompt user, licensed catalogues, authorised artist likenesses, model provider, songwriters, performers, rights holders and distribution limits. The key question is whether those layers will be visible to listeners or buried in business-to-business metadata.
 
@@ -582,9 +582,9 @@ Listeners do not all object to AI music. Some care mainly whether a track sounds
 
 But labelling has to be specific to be useful. “AI” can mean mastering assistance, stem separation, a generated backing track, a synthetic guest vocal, AI-written lyrics, a cloned voice or a fully generated song. A vague label may create stigma for ordinary studio tools while failing to identify the real harms. A useful disclosure system should tell listeners what role AI played, not merely place a warning sticker on the track.
 
-This is why the DDEX-style credit approach matters. If a credit can distinguish AI-generated vocals from AI-assisted post-production, it helps preserve a space for legitimate creative tools while making synthetic authorship more transparent. Spotify has said the standard is intended to show where and how AI played a role rather than penalise responsible use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Strengthens AI Protections for Artists, Songwriters</span><span class="citation-popover-snippet">Strengthens AI Protections for Artists, Songwriters</span></span></span>
+This is why the DDEX-style credit approach matters. If a credit can distinguish AI-generated vocals from AI-assisted post-production, it helps preserve a space for legitimate creative tools while making synthetic authorship more transparent. Spotify has said the standard is intended to show where and how AI played a role rather than penalise responsible use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">Strengthens AI Protections for Artists, Songwriters</span><span class="citation-popover-snippet">Strengthens AI Protections for Artists, Songwriters</span></span></span>
 
-Trust also depends on platform behaviour after disclosure. If AI-generated tracks are labelled but still flood recommendations, users may feel the label is cosmetic. Deezer’s decision to remove AI-generated tracks from algorithmic recommendations and editorial playlists is a stronger intervention because it affects discovery, not just information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tech Crunch Deezer says 44% of songs uploaded to its platform daily</span><span class="citation-popover-snippet">Tech Crunch Deezer says 44% of songs uploaded to its platform daily</span></span></span> The trade-off is that this approach may be criticised by AI music creators who see it as a blanket demotion rather than a quality-based judgement.
+Trust also depends on platform behaviour after disclosure. If AI-generated tracks are labelled but still flood recommendations, users may feel the label is cosmetic. Deezer’s decision to remove AI-generated tracks from algorithmic recommendations and editorial playlists is a stronger intervention because it affects discovery, not just information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tech Crunch Deezer says 44% of songs uploaded to its platform daily</span><span class="citation-popover-snippet">Tech Crunch Deezer says 44% of songs uploaded to its platform daily</span></span></span> The trade-off is that this approach may be criticised by AI music creators who see it as a blanket demotion rather than a quality-based judgement.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u9lnUyXsAIE" title="Suno AI Lawsuit Just Settled - What Does It Means for Music Licensing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer">Suno AI Lawsuit Just Settled - What Does It Means for Music Licensing?</a></p><p class="youtube-embed-meta">Channel: YoPaulie Music | Tech • Truth • Commentary &middot; Views: 63.7K &middot; Uploaded: November 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u9lnUyXsAIE">Open on YouTube</a></p></div></div></div>
 
@@ -594,7 +594,7 @@ AI songs expose a deeper tension in music’s value system. If a track is enjoya
 
 This is why the word “authenticity” can be both important and slippery. A human song can be heavily edited, commercially calculated or performed by session musicians. An AI-assisted song can still express a human writer’s intent. The problem is not technology itself; it is misrepresentation. A synthetic track that pretends to be a real artist’s release, hides machine generation, or draws from unlicensed human work without consent creates a trust gap even if the audio is polished.
 
-Music unions and advocacy groups have framed this around consent, credit and compensation. SAG-AFTRA says its AI guardrails centre on clear consent, fair compensation and control over performances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sagaftra.org">[sagaftra.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sagaftra.org</span><span class="citation-popover-snippet">Open source on sagaftra.org.</span></span></span> The Musicians’ Union in the UK similarly argues that music should not be used to train commercial AI systems without consent, credit and fair compensation for creators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These demands are not anti-tool in themselves; they are attempts to keep human labour and identity attached to the value AI systems extract.
+Music unions and advocacy groups have framed this around consent, credit and compensation. SAG-AFTRA says its AI guardrails centre on clear consent, fair compensation and control over performances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sagaftra.org">[sagaftra.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sagaftra.org</span><span class="citation-popover-snippet">Open source on sagaftra.org.</span></span></span> The Musicians’ Union in the UK similarly argues that music should not be used to train commercial AI systems without consent, credit and fair compensation for creators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These demands are not anti-tool in themselves; they are attempts to keep human labour and identity attached to the value AI systems extract.
 
 The policy challenge is to avoid two bad outcomes. One is a free-for-all where synthetic catalogues imitate artists, dilute royalty pools and hide their origins. The other is an overbroad backlash that treats any AI-assisted workflow as illegitimate, even when a human artist is clearly directing the work. Good authorship rules need enough detail to separate assistance from substitution, imitation from homage, and licensed experimentation from exploitation.
 
@@ -628,194 +628,194 @@ The best answer is not to pretend that AI music is all fake or all harmless. It 
 In that sense, AI songs are less a novelty than a stress test. They reveal which parts of the music system were already fragile: opaque credits, uneven royalty flows, weak metadata, slow identity-rights protections and platform incentives that reward volume. The future of AI music will depend not only on how convincing the songs become, but on whether the people and systems around them can make authorship clear enough to trust.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Gets Credit For AI Made Music?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Gets Credit For AI Made Music?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+</h4>
+<p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explores societal consequences of generative AI.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores societal consequences of generative AI.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
-        </h4>
-        <p class="fr-book-author">By John Seabrook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
+</h4>
+<p class="fr-book-author">By John Seabrook</p>
         
-        <p class="fr-book-desc">Provides context for authorship and hit production.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for authorship and hit production.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.I.+by+Henry+A.+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PrEhzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A.I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.+by+Henry+A.+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.">The Age of A.I.</a>
-        </h4>
-        <p class="fr-book-author">By Henry A. Kissinger, Eric Schmidt et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.I.+by+Henry+A.+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A.I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PrEhzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A.I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.+by+Henry+A.+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A.I.">The Age of A.I.</a>
+</h4>
+<p class="fr-book-author">By Henry A. Kissinger, Eric Schmidt et al.</p>
         
-        <p class="fr-book-desc">Addresses authorship, power and machine creativity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+A.I.+by+Henry+A.+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses authorship, power and machine creativity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+A.I.+by+Henry+A.+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Useful foundation for discussing music creation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful foundation for discussing music creation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A.I.</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A.I.</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="who-gets-credit-for-ai-made-music-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -831,7 +831,7 @@ In that sense, AI songs are less a novelty than a stress test. They reveal which
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -851,7 +851,7 @@ In that sense, AI songs are less a novelty than a stress test. They reveal which
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -883,7 +883,7 @@ In that sense, AI songs are less a novelty than a stress test. They reveal which
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -935,7 +935,7 @@ In that sense, AI songs are less a novelty than a stress test. They reveal which
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -980,7 +980,7 @@ In that sense, AI songs are less a novelty than a stress test. They reveal which
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1021,262 +1021,262 @@ In that sense, AI songs are less a novelty than a stress test. They reveal which
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/newsnet/2025/1060.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeNewsNet Issue 1060 | U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected b...</p></details>
+   Link:<a href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/newsnet/2025/1060.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeNewsNet Issue 1060 | U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected b...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hls.harvard.edu  
-   Link: <a href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/</a>  
+   Link:<a href="https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/ai-created-a-song-mimicking-the-work-of-drake-and-the-weeknd-what-does-that-mean-for-copyright-law/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newsroom.spotify.com  
    Title: Strengthens AI Protections for Artists, Songwriters  
-   Link: <a href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
+   Link:<a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: Music labels sue AI companies Suno, Udio for US copyright infringement  
-   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
+   Link:<a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Warner Music Group settles copyright case with Suno for licensed AI music  
-   Link: <a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As part of the deal, Suno will implement restrictions: songs created via its free tier will be limited to play and share functions, while...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As part of the deal, Suno will implement restrictions: songs created via its free tier will be limited to play and share functions, while...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: techcrunch.com  
    Title: Tech Crunch Deezer says 44% of songs uploaded to its platform daily  
-   Link: <a href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</a>  
+   Link:<a href="https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sagaftra.org  
-   Link: <a href="https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence</a>  
+   Link:<a href="https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: riaa.com  
    Title: Udio Complaint 6.24.241  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: riaa.com  
    Title: Suno complaint file stamped20  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/06/Suno-complaint-file-stamped20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Suno-complaint-file-stamped20.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2024/06/Suno-complaint-file-stamped20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Suno-complaint-file-stamped20.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: riaa.com  
    Title: human artistry campaign launches announces ai principles  
-   Link: <a href="https://www.riaa.com/human-artistry-campaign-launches-announces-ai-principles/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/human-artistry-campaign-launches-announces-ai-principles/</a>  
+   Link:<a href="https://www.riaa.com/human-artistry-campaign-launches-announces-ai-principles/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/human-artistry-campaign-launches-announces-ai-principles/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
+   Link:<a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: techcrunch.com  
    Title: spotify updates ai policy to label tracks cut down on spam  
-   Link: <a href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/</a>  
+   Link:<a href="https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EcwCBRgLDmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EcwCBRgLDmU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=EcwCBRgLDmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EcwCBRgLDmU</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YEQtjzr6f78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YEQtjzr6f78</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YEQtjzr6f78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YEQtjzr6f78</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0_PKc5c4Nq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_PKc5c4Nq8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=0_PKc5c4Nq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_PKc5c4Nq8</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Suno AI Lawsuit Just Settled  
-   Link: <a href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u9lnUyXsAIE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u9lnUyXsAIE</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sagaftra.org  
-   Link: <a href="https://www.sagaftra.org/videos/digital-replicas-deepfakes-synthetic-humans" target="_blank" rel="noopener noreferrer nofollow">https://www.sagaftra.org/videos/digital-replicas-deepfakes-synthetic-humans</a>  
+   Link:<a href="https://www.sagaftra.org/videos/digital-replicas-deepfakes-synthetic-humans" target="_blank" rel="noopener noreferrer nofollow">https://www.sagaftra.org/videos/digital-replicas-deepfakes-synthetic-humans</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Can You Copyright AI-Generated Music? (Legal Breakdown)  
-   Link: <a href="https://www.youtube.com/watch?v=F3l3i1-G_wQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3l3i1-G_wQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music and Copyright Law: The Biggest Legal Issues...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F3l3i1-G_wQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3l3i1-G_wQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music and Copyright Law: The Biggest Legal Issues...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: AI Music and Copyright Law: The Biggest Legal Issues  
-   Link: <a href="https://www.youtube.com/watch?v=Y0957rX404A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y0957rX404A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Owns AI Music? The Fight Over Authorship...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y0957rX404A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y0957rX404A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who Owns AI Music? The Fight Over Authorship...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Who Owns AI Music? The Fight Over Authorship  
-   Link: <a href="https://www.youtube.com/watch?v=lT4w4iJ5_uU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lT4w4iJ5_uU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is AI-Generated Music Legal? Understanding Copyright and Fair Use...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lT4w4iJ5_uU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lT4w4iJ5_uU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is AI-Generated Music Legal? Understanding Copyright and Fair Use...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Is AI-Generated Music Legal? Understanding Copyright and Fair Use  
-   Link: <a href="https://www.youtube.com/watch?v=8V-Pj6-n72w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8V-Pj6-n72w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Music: How AI is Breaking Copyright...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8V-Pj6-n72w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8V-Pj6-n72w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Music: How AI is Breaking Copyright...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Future of Music: How AI is Breaking Copyright  
-   Link: <a href="https://www.youtube.com/watch?v=xS61sF6M90A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xS61sF6M90A</a>  
+   Link:<a href="https://www.youtube.com/watch?v=xS61sF6M90A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xS61sF6M90A</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</p></details>
+   Link:<a href="https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ac2a6ed263256c12f68eb827f7e8238a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His second album, &quot;The Art of Letting Go,&quot; features the instrumental track “Horizon,” for which he used AI music generators like Suno and...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: prsformusic.com  
    Title: PRS for Music AI Policy and registering music created with AI  
-   Link: <a href="https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office copyright and works made with AI report published in January 2025. Can I register works if I create music and AI gene...</p></details>
+   Link:<a href="https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/works/how-copyright-works/ai-and-music-copyright</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office copyright and works made with AI report published in January 2025. Can I register works if I create music and AI gene...</p></details>
    Published: January 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAI song featuring [fake Drake](&amp;#123;&amp;#123; &#x27;fake-drake/&#x27; | relative_url &amp;#125;&amp;#125;) and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2023/apr/18/ai-song-featuring-fake-drake-and-weeknd-vocals-pulled-from-streaming-services</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAI song featuring [fake Drake](&amp;#123;&amp;#123; &#x27;fake-drake/&#x27; | relative_url &amp;#125;&amp;#125;) and Weeknd vocals pulled...April 18, 2023 — 18 Apr 2023 — AI song featuring fake Drake and Week...</p></details>
    Published: April 18, 2023  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
    Title: The Guardian You Tube to offer option to flag AI-generated songs that  
-   Link: <a href="https://www.theguardian.com/technology/2023/nov/14/youtube-to-offer-option-to-flag-ai-generated-songs-that-mimic-artists-voices" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2023/nov/14/youtube-to-offer-option-to-flag-ai-generated-songs-that-mimic-artists-voices</a>  
+   Link:<a href="https://www.theguardian.com/technology/2023/nov/14/youtube-to-offer-option-to-flag-ai-generated-songs-that-mimic-artists-voices" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2023/nov/14/youtube-to-offer-option-to-flag-ai-generated-songs-that-mimic-artists-voices</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: newsroom-deezer.com  
    Title: Deezer Newsroom Deezer: AI-generated tracks now represent 44% of all new  
-   Link: <a href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/</a>  
+   Link:<a href="https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To combat this, Spotify is introducing a music spam filter to tag and restrict spam uploads from being recommended. Although AI-made musi...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/25/spotify-removes-75m-spam-tracks-past-year-ai-increases-ability-make-fake-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To combat this, Spotify is introducing a music spam filter to tag and restrict spam uploads from being recommended. Although AI-made musi...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/b90f9f5f968101ef617e41c5369da02a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b90f9f5f968101ef617e41c5369da02a</a>  
+   Link:<a href="https://apnews.com/article/b90f9f5f968101ef617e41c5369da02a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/b90f9f5f968101ef617e41c5369da02a</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry</a>  
+   Link:<a href="https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/all-campaigns/artificial-intelligence-and-the-music-industry</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TechCabal/posts/spotify-now-wants-listeners-to-know-when-ai-has-helped-create-a-song-heres-every/1652575650210724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TechCabal/posts/spotify-now-wants-listeners-to-know-when-ai-has-helped-create-a-song-heres-every/1652575650210724/</a>  
+   Link:<a href="https://www.facebook.com/TechCabal/posts/spotify-now-wants-listeners-to-know-when-ai-has-helped-create-a-song-heres-every/1652575650210724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TechCabal/posts/spotify-now-wants-listeners-to-know-when-ai-has-helped-create-a-song-heres-every/1652575650210724/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bandwagonasia/posts/spotify-is-rolling-out-ai-credits-artists-can-now-disclose-if-parts-of-a-song-li/1591674062962789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bandwagonasia/posts/spotify-is-rolling-out-ai-credits-artists-can-now-disclose-if-parts-of-a-song-li/1591674062962789/</a>  
+   Link:<a href="https://www.facebook.com/bandwagonasia/posts/spotify-is-rolling-out-ai-credits-artists-can-now-disclose-if-parts-of-a-song-li/1591674062962789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bandwagonasia/posts/spotify-is-rolling-out-ai-credits-artists-can-now-disclose-if-parts-of-a-song-li/1591674062962789/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/truespotify/comments/1nq5adq/spotify_is_finally_taking_steps_to_address_its_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/truespotify/comments/1nq5adq/spotify_is_finally_taking_steps_to_address_its_ai/</a>  
+   Link:<a href="https://www.reddit.com/r/truespotify/comments/1nq5adq/spotify_is_finally_taking_steps_to_address_its_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/truespotify/comments/1nq5adq/spotify_is_finally_taking_steps_to_address_its_ai/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: consequence.net  
    Title: spotify ai protections  
-   Link: <a href="https://consequence.net/2025/09/spotify-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://consequence.net/2025/09/spotify-ai-protections/</a>  
+   Link:<a href="https://consequence.net/2025/09/spotify-ai-protections/" target="_blank" rel="noopener noreferrer nofollow">https://consequence.net/2025/09/spotify-ai-protections/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: record labels sue ai song generator apps copyright infringement lawsuit  
-   Link: <a href="https://www.theguardian.com/music/article/2024/jun/25/record-labels-sue-ai-song-generator-apps-copyright-infringement-lawsuit" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jun/25/record-labels-sue-ai-song-generator-apps-copyright-infringement-lawsuit</a>  
+   Link:<a href="https://www.theguardian.com/music/article/2024/jun/25/record-labels-sue-ai-song-generator-apps-copyright-infringement-lawsuit" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jun/25/record-labels-sue-ai-song-generator-apps-copyright-infringement-lawsuit</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: soundraw.io  
    Title: spotifys new ai protections what it means for artists  
-   Link: <a href="https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists</a>  
+   Link:<a href="https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists" target="_blank" rel="noopener noreferrer nofollow">https://soundraw.io/blog/post/spotifys-new-ai-protections-what-it-means-for-artists</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPMe5_4kfXs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPMe5_4kfXs/</a>  
+   Link:<a href="https://www.instagram.com/p/DPMe5_4kfXs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPMe5_4kfXs/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPBzQm1Df4c/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPBzQm1Df4c/</a>  
+   Link:<a href="https://www.instagram.com/reel/DPBzQm1Df4c/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPBzQm1Df4c/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: entertainment.slashdot.org  
    Title: spotify announces new ai safeguards says its removed 75 million spammy tracks  
-   Link: <a href="https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks" target="_blank" rel="noopener noreferrer nofollow">https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks</a>  
+   Link:<a href="https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks" target="_blank" rel="noopener noreferrer nofollow">https://entertainment.slashdot.org/story/25/09/25/2211230/spotify-announces-new-ai-safeguards-says-its-removed-75-million-spammy-tracks</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: musicbusinessworldwide.com  
    Title: spotify has deleted 75m spammy tracks as it unveils new ai music policies  
-   Link: <a href="https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/spotify-has-deleted-75m-spammy-tracks-as-it-unveils-new-ai-music-policies/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: variety.com  
    Title: spotify new ai safeguards 1236528493  
-   Link: <a href="https://variety.com/2025/digital/news/spotify-new-ai-safeguards-1236528493/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/digital/news/spotify-new-ai-safeguards-1236528493/</a>  
+   Link:<a href="https://variety.com/2025/digital/news/spotify-new-ai-safeguards-1236528493/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/digital/news/spotify-new-ai-safeguards-1236528493/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: billboard.com  
    Title: spotify launches ai credits music  
-   Link: <a href="https://www.billboard.com/pro/spotify-launches-ai-credits-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/spotify-launches-ai-credits-music/</a>  
+   Link:<a href="https://www.billboard.com/pro/spotify-launches-ai-credits-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/spotify-launches-ai-credits-music/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: undetectr.com  
    Title: spotify ai credits 2026  
-   Link: <a href="https://undetectr.com/blog/spotify-ai-credits-2026" target="_blank" rel="noopener noreferrer nofollow">https://undetectr.com/blog/spotify-ai-credits-2026</a>  
+   Link:<a href="https://undetectr.com/blog/spotify-ai-credits-2026" target="_blank" rel="noopener noreferrer nofollow">https://undetectr.com/blog/spotify-ai-credits-2026</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: blog.recordjet.com  
    Title: spotify ki update neue regeln gegen fake uploads und deepfakes  
-   Link: <a href="https://blog.recordjet.com/en/spotify-ki-update-neue-regeln-gegen-fake-uploads-und-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://blog.recordjet.com/en/spotify-ki-update-neue-regeln-gegen-fake-uploads-und-deepfakes/</a>  
+   Link:<a href="https://blog.recordjet.com/en/spotify-ki-update-neue-regeln-gegen-fake-uploads-und-deepfakes/" target="_blank" rel="noopener noreferrer nofollow">https://blog.recordjet.com/en/spotify-ki-update-neue-regeln-gegen-fake-uploads-und-deepfakes/</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: impalamusic.org  
-   Link: <a href="https://www.impalamusic.org/wp-content/uploads/2023/07/onestepahead-artificialintelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.impalamusic.org/wp-content/uploads/2023/07/onestepahead-artificialintelligence.pdf</a>  
+   Link:<a href="https://www.impalamusic.org/wp-content/uploads/2023/07/onestepahead-artificialintelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.impalamusic.org/wp-content/uploads/2023/07/onestepahead-artificialintelligence.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TechCabal/posts/as-ai-generated-music-grows-spotify-is-introducing-new-rules-around-impersonatio/1641341748000781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TechCabal/posts/as-ai-generated-music-grows-spotify-is-introducing-new-rules-around-impersonatio/1641341748000781/</a>  
+   Link:<a href="https://www.facebook.com/TechCabal/posts/as-ai-generated-music-grows-spotify-is-introducing-new-rules-around-impersonatio/1641341748000781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TechCabal/posts/as-ai-generated-music-grows-spotify-is-introducing-new-rules-around-impersonatio/1641341748000781/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/christopherwieduwilt_ai-music-is-allowed-on-streaming-platforms-activity-7439660583890862081-x3b9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/christopherwieduwilt_ai-music-is-allowed-on-streaming-platforms-activity-7439660583890862081-x3b9</a>  
+   Link:<a href="https://www.linkedin.com/posts/christopherwieduwilt_ai-music-is-allowed-on-streaming-platforms-activity-7439660583890862081-x3b9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/christopherwieduwilt_ai-music-is-allowed-on-streaming-platforms-activity-7439660583890862081-x3b9</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: x.com  
-   Link: <a href="https://x.com/Pirat_Nation/status/2046529878363885753" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Pirat_Nation/status/2046529878363885753</a>  
+   Link:<a href="https://x.com/Pirat_Nation/status/2046529878363885753" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Pirat_Nation/status/2046529878363885753</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: lesi.org  
-   Link: <a href="https://lesi.org/article-of-the-month/from-performance-to-replica-navigating-consent-[ownership" target="_blank" rel="noopener noreferrer nofollow">https://lesi.org/article-of-the-month/from-performance-to-replica-navigating-consent-[ownership</a>  
+   Link:<a href="https://lesi.org/article-of-the-month/from-performance-to-replica-navigating-consent-[ownership" target="_blank" rel="noopener noreferrer nofollow">https://lesi.org/article-of-the-month/from-performance-to-replica-navigating-consent-[ownership</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DK-zC5Sqyza/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DK-zC5Sqyza/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DK-zC5Sqyza/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DK-zC5Sqyza/?hl=en</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: humanartistrycampaign.com  
-   Link: <a href="https://www.humanartistrycampaign.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanartistrycampaign.com/</a>  
+   Link:<a href="https://www.humanartistrycampaign.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanartistrycampaign.com/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: creativesunite.eu  
-   Link: <a href="https://creativesunite.eu/article/human-artistry-campaign-core-principles-for-artificial-intelligence-applications" target="_blank" rel="noopener noreferrer nofollow">https://creativesunite.eu/article/human-artistry-campaign-core-principles-for-artificial-intelligence-applications</a>  
+   Link:<a href="https://creativesunite.eu/article/human-artistry-campaign-core-principles-for-artificial-intelligence-applications" target="_blank" rel="noopener noreferrer nofollow">https://creativesunite.eu/article/human-artistry-campaign-core-principles-for-artificial-intelligence-applications</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1jiztmc/is_this_serious_ai_generated_music_allowed_on_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1jiztmc/is_this_serious_ai_generated_music_allowed_on_all/</a>
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/1jiztmc/is_this_serious_ai_generated_music_allowed_on_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1jiztmc/is_this_serious_ai_generated_music_allowed_on_all/</a>

@@ -274,31 +274,31 @@ image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief
 
 ## Introduction
 
-Hymns sometimes move far beyond the walls of churches. In moments of national mourning, public tragedy, war remembrance, disasters or large funerals, communities often turn to familiar hymns when ordinary speech feels inadequate. These songs provide a shared language for grief, [memory]({{ 'memory/' | relative_url }}) and hope, allowing people with different personal experiences to participate in a common act of mourning. Because hymns combine words, [melody]({{ 'melody/' | relative_url }}), ritual and collective participation, they can become powerful public symbols that express solidarity during crisis. At the same time, their movement from sacred worship into civic life raises questions about inclusion, identity and the use of religious traditions in diverse societies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
+Hymns sometimes move far beyond the walls of churches. In moments of national mourning, public tragedy, war remembrance, disasters or large funerals, communities often turn to familiar hymns when ordinary speech feels inadequate. These songs provide a shared language for grief, [memory]({{ 'memory/' | relative_url }}) and hope, allowing people with different personal experiences to participate in a common act of mourning. Because hymns combine words, [melody]({{ 'melody/' | relative_url }}), ritual and collective participation, they can become powerful public symbols that express solidarity during crisis. At the same time, their movement from sacred worship into civic life raises questions about inclusion, identity and the use of religious traditions in diverse societies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-dark.svg" | relative_url }}" alt="Public Grief illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Hymns Move Beyond Formal Worship
 
 [Hymns]({{ 'hymns/' | relative_url }}) become public symbols when they are repeatedly used at moments that matter to a wider community. A song first associated with worship may gradually acquire additional meanings through funerals, memorial services, remembrance ceremonies and responses to tragedy. Over time, people begin to recognise the hymn not only as a religious text but also as a cultural marker of collective memory.
 
-One reason this transition occurs is that hymns already possess qualities suited to public [ritual]({{ 'ritual/' | relative_url }}). They are widely known, easy to sing together and linked to themes that become especially important during grief: mortality, comfort, perseverance and hope. When communities face loss, familiar hymns provide continuity at a moment when ordinary routines have been disrupted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
+One reason this transition occurs is that hymns already possess qualities suited to public [ritual]({{ 'ritual/' | relative_url }}). They are widely known, easy to sing together and linked to themes that become especially important during grief: mortality, comfort, perseverance and hope. When communities face loss, familiar hymns provide continuity at a moment when ordinary routines have been disrupted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
 
-The hymn *Abide with Me* illustrates this process. Originally written as a prayer for divine presence in the face of death, it became associated with funerals, memorial services, military remembrance and national ceremonies in several countries. Its repeated use in public acts of mourning transformed it into a symbol recognised even by many people who do not regularly attend worship services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abide with Me</span><span class="citation-popover-snippet">Abide with Me</span></span></span>
+The hymn *Abide with Me* illustrates this process. Originally written as a prayer for divine presence in the face of death, it became associated with funerals, memorial services, military remembrance and national ceremonies in several countries. Its repeated use in public acts of mourning transformed it into a symbol recognised even by many people who do not regularly attend worship services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abide with Me</span><span class="citation-popover-snippet">Abide with Me</span></span></span>
 
-Research on hymns in the public sphere suggests that religious singing can function as a bridge between personal faith and broader public life. A hymn may therefore serve both believers seeking spiritual meaning and communities seeking a shared cultural language during difficult times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
+Research on hymns in the public sphere suggests that religious singing can function as a bridge between personal faith and broader public life. A hymn may therefore serve both believers seeking spiritual meaning and communities seeking a shared cultural language during difficult times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
 
 ## Why Public Singing Can Express Shared Hope
 
 Grief often produces emotions that are difficult to articulate. Hymns help because they combine language with music, allowing people to express sorrow, longing and hope simultaneously. Rather than requiring individuals to find their own words, the hymn offers a ready-made framework through which emotions can be shared.
 
-[Collective singing]({{ 'collective-singing/' | relative_url }}) also changes the experience of mourning. Instead of listening passively, participants contribute their own voices. This transforms grief from a private burden into a communal act. Studies of bereavement and group singing have found that singing together can support social connection and help people cope with loss by reinforcing a sense of belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Group singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</span></span></span>
+[Collective singing]({{ 'collective-singing/' | relative_url }}) also changes the experience of mourning. Instead of listening passively, participants contribute their own voices. This transforms grief from a private burden into a communal act. Studies of bereavement and group singing have found that singing together can support social connection and help people cope with loss by reinforcing a sense of belonging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Group singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</span></span></span>
 
 Several features make hymns especially effective in this role:
 
 * **Shared familiarity:** Many participants already know the melody and words, reducing barriers to participation.
 * **Emotional structure:** The combination of music and text can hold sadness and hope together without forcing a simple resolution.
 * **Collective identity:** Singing creates a visible and audible sense of community at a moment when people may feel isolated.
-* **Continuity with the past:** Familiar hymns connect present mourners with earlier generations who used the same songs in times of loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span> ResearchGate Within communities affected by disaster or tragedy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>, liturgical music is often used as part of healing practices. Scholars of worship and pastoral care note that singing can help people process loss, restore communal bonds and make sense of suffering within a larger narrative of meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
+* **Continuity with the past:** Familiar hymns connect present mourners with earlier generations who used the same songs in times of loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span> ResearchGate Within communities affected by disaster or tragedy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>, liturgical music is often used as part of healing practices. Scholars of worship and pastoral care note that singing can help people process loss, restore communal bonds and make sense of suffering within a larger narrative of meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-2-dark.svg" | relative_url }}" alt="Public Grief illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Certain Hymns Become Symbols
@@ -307,22 +307,22 @@ Not every hymn becomes a public emblem of grief. Those that do usually share sev
 
 First, they address universal experiences. Hymns that speak about companionship, mortality, endurance or consolation are more easily adopted across different situations than songs tied to highly specific theological arguments.
 
-Second, they balance lament with hope. Public mourning rarely seeks despair alone. Communities often look for music that acknowledges suffering while also pointing toward resilience, memory or transcendence. Hymns that achieve this balance are more likely to endure in public use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hymnary.org/text/abide_with_me_fast_falls_the_eventide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hymnary.org">[Hymnary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hymnary.org</span><span class="citation-popover-snippet">Abide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</span></span></span>
+Second, they balance lament with hope. Public mourning rarely seeks despair alone. Communities often look for music that acknowledges suffering while also pointing toward resilience, memory or transcendence. Hymns that achieve this balance are more likely to endure in public use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hymnary.org/text/abide_with_me_fast_falls_the_eventide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hymnary.org">[Hymnary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hymnary.org</span><span class="citation-popover-snippet">Abide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</span></span></span>
 
-Third, repeated ceremonial use creates recognition. A hymn sung at major funerals, remembrance events or national commemorations accumulates symbolic power. Each new performance recalls earlier occasions, strengthening the association between the music and collective memory. The result is a cycle in which public use reinforces public meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abide with Me</span><span class="citation-popover-snippet">Abide with Me</span></span></span>
+Third, repeated ceremonial use creates recognition. A hymn sung at major funerals, remembrance events or national commemorations accumulates symbolic power. Each new performance recalls earlier occasions, strengthening the association between the music and collective memory. The result is a cycle in which public use reinforces public meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abide with Me</span><span class="citation-popover-snippet">Abide with Me</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-dark.svg" | relative_url }}" alt="Public Grief illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risks of Turning Sacred Music into Civic Symbol
 
 The public adoption of hymns is not without tension. What makes a hymn powerful for some listeners may make it problematic for others.
 
-One concern is exclusion. In increasingly religiously diverse societies, a hymn that expresses a particular faith tradition may not represent everyone participating in a public event. A song intended to unify can therefore raise questions about whose beliefs are being publicly recognised and whose are left outside the symbolic framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
+One concern is exclusion. In increasingly religiously diverse societies, a hymn that expresses a particular faith tradition may not represent everyone participating in a public event. A song intended to unify can therefore raise questions about whose beliefs are being publicly recognised and whose are left outside the symbolic framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
 
 Another risk is the dilution of sacred meaning. When hymns become national or civic symbols, their religious content may be overshadowed by cultural familiarity. Some believers welcome the broader influence of hymn traditions, while others worry that repeated secular use turns acts of worship into heritage symbols detached from their original theological purpose.
 
 There is also the possibility of political appropriation. Public ceremonies often involve questions of national identity, memory and power. When hymns become attached to state events, military commemorations or civic narratives, debates can emerge over whether sacred music is being used to support broader political messages rather than purely spiritual ones.
 
-These tensions do not necessarily diminish the value of hymns in public grief. Instead, they reveal why such songs remain culturally significant. A hymn that enters public life is no longer functioning only as a religious artefact; it becomes a contested symbol carrying emotional, spiritual and civic meanings at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
+These tensions do not necessarily diminish the value of hymns in public grief. Instead, they reveal why such songs remain culturally significant. A hymn that enters public life is no longer functioning only as a religious artefact; it becomes a contested symbol carrying emotional, spiritual and civic meanings at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zb8rJ3Vsqjw" title="Abide With Me | Traditional Funeral Hymn | W.H. Monk (Eventide) | Emmaus Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer">Abide With Me | Traditional Funeral Hymn | W.H. Monk (Eventide) | Emmaus Music</a></p><p class="youtube-embed-meta">Channel: Emmaus Music &middot; Views: 2.9K &middot; Uploaded: September 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zb8rJ3Vsqjw">Open on YouTube</a></p></div></div></div>
 
@@ -330,197 +330,197 @@ These tensions do not necessarily diminish the value of hymns in public grief. I
 
 Hymns become public symbols during grief and crisis because they do something that speeches, statements and individual expressions often cannot. They provide a shared sound through which communities can mourn together, remember together and imagine a future beyond immediate loss. Their power lies not only in their words or melodies but in the collective act of singing them.
 
-When ordinary language struggles to express the weight of tragedy, hymns offer continuity, participation and meaning. Whether sung in a church, at a memorial service, during a national commemoration or in the aftermath of disaster, they give communities a way to transform private sorrow into a shared public experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>
+When ordinary language struggles to express the weight of tragedy, hymns offer continuity, participation and meaning. Whether sung in a church, at a memorial service, during a national commemoration or in the aftermath of disaster, they give communities a way to transform private sorrow into a shared public experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Hymns Appear at Public Moments of Grief. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Hymns Appear at Public Moments of Grief. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Mortal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jfFYBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Mortal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Mortal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jfFYBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Mortal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Addresses how communities and individuals confront mortality and loss.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how communities and individuals confront mortality and loss.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary Of Hymnology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437473-M.jpg" alt="Cover for A Dictionary Of Hymnology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary Of Hymnology">A Dictionary Of Hymnology</a>
-        </h4>
-        <p class="fr-book-author">By John Julian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary Of Hymnology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437473-M.jpg" alt="Cover for A Dictionary Of Hymnology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary Of Hymnology">A Dictionary Of Hymnology</a>
+</h4>
+<p class="fr-book-author">By John Julian</p>
         
-        <p class="fr-book-desc">First published 1891. Subjects: Dictionaries, Hymns, Indexes, Psalters, Hymns, dictionaries, indexes, etc..</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1891. Subjects: Dictionaries, Hymns, Indexes, Psalters, Hymns, dictionaries, indexes, etc..</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
-        </h4>
-        <p class="fr-book-author">By Robert J. Morgan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
+</h4>
+<p class="fr-book-author">By Robert J. Morgan</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
-        </h4>
-        <p class="fr-book-author">By William Petersen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
+</h4>
+<p class="fr-book-author">By William Petersen</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Hymns, history and criticism, English Hymns, History and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Hymns, history and criticism, English Hymns, History and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Mortal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Mortal</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary Of Hymnology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Then Sings My Soul, Book 2</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Mortal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Mortal</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary Of Hymnology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Then Sings My Soul, Book 2</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor"><img src="{{ '/assets/images/marketplace-covers/69eb4c6bae82bf6e6e35.jpg' | relative_url }}" alt="Listing image for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor"><img src="{{ '/assets/images/marketplace-covers/69eb4c6bae82bf6e6e35.jpg' | relative_url }}" alt="Listing image for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Light of the World Print Religious Jesus Christian Wall Art Framed"><img src="{{ '/assets/images/marketplace-covers/40b1d557c5f65fa82f1b.jpg' | relative_url }}" alt="Listing image for The Light of the World Print Religious Jesus Christian Wall Art Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Light of the World Print Religious Jesus Christian Wall Art Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Light of the World Print Religious Jesus Christian Wall Art Framed"><img src="{{ '/assets/images/marketplace-covers/40b1d557c5f65fa82f1b.jpg' | relative_url }}" alt="Listing image for The Light of the World Print Religious Jesus Christian Wall Art Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Light of the World Print Religious Jesus Christian Wall Art Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item"><img src="{{ '/assets/images/marketplace-covers/2478ad386990eccea3e0.jpg' | relative_url }}" alt="Listing image for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item"><img src="{{ '/assets/images/marketplace-covers/2478ad386990eccea3e0.jpg' | relative_url }}" alt="Listing image for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jesus With Child Christian Faith Religious Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/6b4847eaa680983e9dc9.jpg' | relative_url }}" alt="Listing image for Jesus With Child Christian Faith Religious Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Jesus With Child Christian Faith Religious Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jesus With Child Christian Faith Religious Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/6b4847eaa680983e9dc9.jpg' | relative_url }}" alt="Listing image for Jesus With Child Christian Faith Religious Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Jesus With Child Christian Faith Religious Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="public-grief-why-hymns-appear-at-public-moments-of-grief-music-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ When ordinary language struggles to express the weight of tragedy, hymns offer c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ When ordinary language struggles to express the weight of tragedy, hymns offer c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ When ordinary language struggles to express the weight of tragedy, hymns offer c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ When ordinary language struggles to express the weight of tragedy, hymns offer c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ When ordinary language struggles to express the weight of tragedy, hymns offer c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,120 +726,120 @@ When ordinary language struggles to express the weight of tragedy, hymns offer c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: 342890372 Music as Consolation The Importance of Music at Farewells and Mourning  
-   Link: <a href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Abide with Me  
-   Link: <a href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abide_with_Me</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Abide_with_Me" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abide_with_Me</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hymnary.org  
-   Link: <a href="https://hymnary.org/text/abide_with_me_fast_falls_the_eventide" target="_blank" rel="noopener noreferrer nofollow">https://hymnary.org/text/abide_with_me_fast_falls_the_eventide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</p></details>
+   Link:<a href="https://hymnary.org/text/abide_with_me_fast_falls_the_eventide" target="_blank" rel="noopener noreferrer nofollow">https://hymnary.org/text/abide_with_me_fast_falls_the_eventide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abide With MeThis hymn of comfort is often sung at funerals or memorial services, during healing services, Easter vigil services (...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Group singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9510390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Group singing in bereavement: effects on mental health, self...by D Fancourt · 2019 · Cited by 59 — This study used a non-randomised...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Function of Religious Songs and Hymns in the Public...26 Mar 2026 — Religious singing in public spaces forms bridges between persona...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344199683_Singing_and_Sounding_the_Sacred_-_the_Function_of_Religious_Songs_and_Hymns_in_the_Public_Sphere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Function of Religious Songs and Hymns in the Public...26 Mar 2026 — Religious singing in public spaces forms bridges between persona...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scielo.org.za  
-   Link: <a href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</p></details>
+   Link:<a href="https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://scielo.org.za/scielo.php?pid=S1011-76012020000100002&amp;script=sci_arttext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: verbumetecclesia.org.za  
-   Link: <a href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow">https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Verbum et EcclesiaHealing liturgy: The role of music and singing | Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</p></details>
+   Link:<a href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow">https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verbum et EcclesiaHealing liturgy: The role of music and singing | Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: etheses.bham.ac.uk  
-   Link: <a href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</p></details>
+   Link:<a href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</p></details>
    Published: November 19, 2014  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: denisewellingtonfunerals.co.uk  
    Title: abide with me  
-   Link: <a href="https://denisewellingtonfunerals.co.uk/abide-with-me/" target="_blank" rel="noopener noreferrer nofollow">https://denisewellingtonfunerals.co.uk/abide-with-me/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Denise Wellington Funeral ServicesAbide with Me Funeral Hymn9 Aug 2024 — Abide with Me is a cherished hymn offering comfort during funera...</p></details>
+   Link:<a href="https://denisewellingtonfunerals.co.uk/abide-with-me/" target="_blank" rel="noopener noreferrer nofollow">https://denisewellingtonfunerals.co.uk/abide-with-me/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Denise Wellington Funeral ServicesAbide with Me Funeral Hymn9 Aug 2024 — Abide with Me is a cherished hymn offering comfort during funera...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zb8rJ3Vsqjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ring profound comfort in times of trial and grief...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zb8rJ3Vsqjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zb8rJ3Vsqjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ring profound comfort in times of trial and grief...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ontario.anglicannews.ca  
    Title: ca Abide with me  
-   Link: <a href="https://ontario.anglicannews.ca/abide-with-me/" target="_blank" rel="noopener noreferrer nofollow">https://ontario.anglicannews.ca/abide-with-me/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with me - Dialogue - Anglican News Canada“In life, in death, O Lord, abide with me.” The words above are two lines out of the hymn &#x27;Abide...</p></details>
+   Link:<a href="https://ontario.anglicannews.ca/abide-with-me/" target="_blank" rel="noopener noreferrer nofollow">https://ontario.anglicannews.ca/abide-with-me/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with me - Dialogue - Anglican News Canada“In life, in death, O Lord, abide with me.” The words above are two lines out of the hymn &#x27;Abide...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: songsforfunerals.co.uk  
    Title: Abide with Me  
-   Link: <a href="https://www.songsforfunerals.co.uk/abide-with-me.html" target="_blank" rel="noopener noreferrer nofollow">https://www.songsforfunerals.co.uk/abide-with-me.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs for FuneralsAbide with me; fast falls the eventide; the darkness deepens; Lord, with me abide: when other helpers fail, and comfort...</p></details>
+   Link:<a href="https://www.songsforfunerals.co.uk/abide-with-me.html" target="_blank" rel="noopener noreferrer nofollow">https://www.songsforfunerals.co.uk/abide-with-me.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Songs for FuneralsAbide with me; fast falls the eventide; the darkness deepens; Lord, with me abide: when other helpers fail, and comfort...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABIDE WITH ME — The Story Behind the Hymn It began...It is sung in churches, at funerals, and in times of crisis, offering comfort to th...</p></details>
+   Link:<a href="https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HymnsWithSAF/posts/abide-with-me-the-story-behind-the-hymnit-began-on-a-quiet-evening-when-the-ligh/909565804781788/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABIDE WITH ME — The Story Behind the Hymn It began...It is sung in churches, at funerals, and in times of crisis, offering comfort to th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thehymnsociety.org  
-   Link: <a href="https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HYMNS IN TIMES OF CRISISThrough tears and sorrow, God, we share a sense of your vast grief: the weight of bearing every prayer for healin...</p></details>
+   Link:<a href="https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thehymnsociety.org/wp-content/uploads/2018/09/HYMNS-IN-TIMES-OF-CRISIS-1-12-17-FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HYMNS IN TIMES OF CRISISThrough tears and sorrow, God, we share a sense of your vast grief: the weight of bearing every prayer for healin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pthu.nl  
-   Link: <a href="https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sing after God a new songWe built on previous designs and dreamed of ever more beautiful constructions. We had ideas about their intended...</p></details>
+   Link:<a href="https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pthu.nl/irilis/publications/netherlands-studies-in-ritual-and-liturgy/sing-after-god-a-new-song-definitieve-online-publicatie.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sing after God a new songWe built on previous designs and dreamed of ever more beautiful constructions. We had ideas about their intended...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reformedworship.org  
-   Link: <a href="https://reformedworship.org/resource/funerals-and-contemporary-worship" target="_blank" rel="noopener noreferrer nofollow">https://reformedworship.org/resource/funerals-and-contemporary-worship</a>  
+   Link:<a href="https://reformedworship.org/resource/funerals-and-contemporary-worship" target="_blank" rel="noopener noreferrer nofollow">https://reformedworship.org/resource/funerals-and-contemporary-worship</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: doaj.org  
-   Link: <a href="https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</p></details>
+   Link:<a href="https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/1ba197a6c5e7446bb7df738571b2260e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They often also function in other public as well as private spheres. Religious singing in public spaces...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>played to this setting of William Henry Monk&#x27;s tune &quot;Eventide.&quot;...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rodneyjantzi.reedorgans/posts/abide-with-me-is-a-christian-hymn-by-scottish-anglican-henry-francis-lyte-played/1320137103245412/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>played to this setting of William Henry Monk&#x27;s tune &quot;Eventide.&quot;...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blog.adw.org  
    Title: abide with me a hymn to share with the dying  
-   Link: <a href="https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/" target="_blank" rel="noopener noreferrer nofollow">https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With Me. A Hymn to Share with the Dying3 Jun 2011 — Abide with me; fast falls the eventide; The darkness deepens; Lord with me abide. Whe...</p></details>
+   Link:<a href="https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/" target="_blank" rel="noopener noreferrer nofollow">https://blog.adw.org/2011/06/abide-with-me-a-hymn-to-share-with-the-dying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With Me. A Hymn to Share with the Dying3 Jun 2011 — Abide with me; fast falls the eventide; The darkness deepens; Lord with me abide. Whe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31243022/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31243022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Group singing in bereavement: effects on mental health...by D Fancourt · 2022 · Cited by 59 — This study used a non-randomised con...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31243022/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31243022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Group singing in bereavement: effects on mental health...by D Fancourt · 2022 · Cited by 59 — This study used a non-randomised con...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: beyond-grief.com  
    Title: music mourning rituals  
-   Link: <a href="https://beyond-grief.com/blog/music-mourning-rituals" target="_blank" rel="noopener noreferrer nofollow">https://beyond-grief.com/blog/music-mourning-rituals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and Mourning: How Songs and Rituals Help Cultures...1 Sept 2023 — From “Amazing Grace” to gospel choirs, music plays a central rol...</p></details>
+   Link:<a href="https://beyond-grief.com/blog/music-mourning-rituals" target="_blank" rel="noopener noreferrer nofollow">https://beyond-grief.com/blog/music-mourning-rituals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music and Mourning: How Songs and Rituals Help Cultures...1 Sept 2023 — From “Amazing Grace” to gospel choirs, music plays a central rol...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this #MarineMusicalMoment, hear a saxophone...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marineband/posts/abide-with-me-a-hymn-heard-at-arlington-national-cemetery-when-heroes-are-laid-t/3443319392363015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this #MarineMusicalMoment, hear a saxophone...Read more...</p></details>

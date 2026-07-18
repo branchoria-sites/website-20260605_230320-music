@@ -277,7 +277,7 @@ image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_son
 Streaming keeps old songs in daily rotation by removing the practical barriers that once separated [catalogue]({{ 'catalogue/' | relative_url }}) music from current releases. In the streaming era, a track from 1975, 1995 or 2010 appears in the same search results, playlists, artist pages and recommendation feeds as a song released this week. Instead of waiting for a radio programmer, compilation album or specialist record shop to surface older music, listeners can reach it instantly when curiosity strikes.
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1-Illustration-1-dark.svg" | relative_url }}" alt="Streaming illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This change matters because catalogue music no longer survives only through nostalgia. Streaming platforms actively organise, recommend and reintroduce older recordings within everyday listening habits. As a result, songs that might once have faded into archives can remain part of contemporary listening [culture]({{ 'culture/' | relative_url }}), competing for [attention]({{ 'attention/' | relative_url }}) alongside new releases rather than outside them. Research and industry data increasingly show that older recordings account for a substantial share of streaming activity, demonstrating that catalogue music has become a living part of the modern listening environment rather than a separate historical category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/arts-culture/music/spotify-streaming-hits-nostalgia-old-972818d5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">spotify streaming hits nostalgia old 972818d5</span><span class="citation-popover-snippet">Michael Jackson&#x27;s &quot;Billie Jean&quot; reclaimed the No. 1 spot over 40 years after its debut, fueled by the release of a new biopic. Other vint...</span></span></span>
+This change matters because catalogue music no longer survives only through nostalgia. Streaming platforms actively organise, recommend and reintroduce older recordings within everyday listening habits. As a result, songs that might once have faded into archives can remain part of contemporary listening [culture]({{ 'culture/' | relative_url }}), competing for [attention]({{ 'attention/' | relative_url }}) alongside new releases rather than outside them. Research and industry data increasingly show that older recordings account for a substantial share of streaming activity, demonstrating that catalogue music has become a living part of the modern listening environment rather than a separate historical category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/arts-culture/music/spotify-streaming-hits-nostalgia-old-972818d5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">spotify streaming hits nostalgia old 972818d5</span><span class="citation-popover-snippet">Michael Jackson&#x27;s &quot;Billie Jean&quot; reclaimed the No. 1 spot over 40 years after its debut, fueled by the release of a new biopic. Other vint...</span></span></span>
 
 ## From scarcity to instant access
 
@@ -287,7 +287,7 @@ Streaming transformed that relationship. A catalogue track can remain permanentl
 
 This shift is more significant than simple convenience. When access becomes frictionless, age stops being a major obstacle to listening. The difference between a song released last Friday and one released forty years ago often becomes little more than a date on a screen. That change gives catalogue recordings repeated opportunities to attract listeners long after their original release.
 
-The scale of streaming's influence is reflected in broader industry trends. Audio streaming has become the dominant mode of music consumption globally, meaning that the environments where people discover music are increasingly the same environments where catalogue music remains continuously available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">ifpi looks at a decade of digital transformation in the music industry 73661</span><span class="citation-popover-snippet">IFPI looks at a decade of digital transformation in the music...Apr 23, 2025 — IFPI data shows that music industry revenue has doubl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">IFPI Engaging With Music 2023 full report</span><span class="citation-popover-snippet">IFPI&#x27;s Engaging with Music 2023Dec 11, 2023 — DISCOVERING OLDER MUSIC. This figure is higher in older generations who have experienced th...</span></span></span>
+The scale of streaming's influence is reflected in broader industry trends. Audio streaming has become the dominant mode of music consumption globally, meaning that the environments where people discover music are increasingly the same environments where catalogue music remains continuously available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">ifpi looks at a decade of digital transformation in the music industry 73661</span><span class="citation-popover-snippet">IFPI looks at a decade of digital transformation in the music...Apr 23, 2025 — IFPI data shows that music industry revenue has doubl...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">IFPI Engaging With Music 2023 full report</span><span class="citation-popover-snippet">IFPI&#x27;s Engaging with Music 2023Dec 11, 2023 — DISCOVERING OLDER MUSIC. This figure is higher in older generations who have experienced th...</span></span></span>
 
 ## Search, autoplay, and artist pages
 
@@ -301,7 +301,7 @@ This matters because many catalogue revivals begin with small sparks of curiosit
 
 ### Autoplay extends listening sessions across decades
 
-Autoplay and radio-style recommendation features often continue playback after a chosen song ends. Rather than stopping at the boundary of an album or release year, these systems connect recordings according to listener behaviour, musical similarity and engagement patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on...12 Mar 2026 — Other recommendations are tailored to each listener&#x27;s unique taste, like a perso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify algorithmic playlists explained</span><span class="citation-popover-snippet">15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</span></span></span>
+Autoplay and radio-style recommendation features often continue playback after a chosen song ends. Rather than stopping at the boundary of an album or release year, these systems connect recordings according to listener behaviour, musical similarity and engagement patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on...12 Mar 2026 — Other recommendations are tailored to each listener&#x27;s unique taste, like a perso...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify algorithmic playlists explained</span><span class="citation-popover-snippet">15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</span></span></span>
 
 A listener who starts with a contemporary indie song may be guided toward a twenty-year-old track that attracts similar audiences. Someone listening to modern synth-pop may encounter recordings from the 1980s because listeners frequently move between those sounds. In practice, catalogue songs remain active because recommendation systems treat them as relevant listening options rather than historical artefacts.
 
@@ -316,7 +316,7 @@ A new listener discovering a current artist can easily move backwards through ea
 
 Playlists are among the most important mechanisms keeping catalogue music in daily circulation.
 
-Streaming services use a mixture of editorial curation, personalised recommendations and user-generated playlists. These playlists are commonly organised around moods, activities, genres or situations rather than release dates. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsPlaylistingCreated and maintained entirely by our editorial team. Editorial playlists are curated based on music trend...</span></span></span>
+Streaming services use a mixture of editorial curation, personalised recommendations and user-generated playlists. These playlists are commonly organised around moods, activities, genres or situations rather than release dates. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsPlaylistingCreated and maintained entirely by our editorial team. Editorial playlists are curated based on music trend...</span></span></span>
 
 That organisation changes how music is evaluated. A listener choosing music for exercise, concentration, driving or relaxation rarely prioritises the year a track was released. What matters is whether the song fits the desired atmosphere.
 
@@ -326,13 +326,13 @@ As a result:
 
 * A 1970s soul track can appear alongside a modern R&B song.
 * A 1990s dance anthem can sit next to a current electronic release.
-* A classic rock recording can share a playlist with contemporary indie music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.se/statistik/engaging-with-music-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.se">[ifpi.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.se</span><span class="citation-popover-title">engaging with music report</span><span class="citation-popover-snippet">Ifpi SverigeEngaging with Music ReportEngaging with Music Report. 11th December 2023 – IFPI...% – There was growth in time spent listeni...</span><span class="citation-popover-meta">Published: December 2023</span></span></span>
+* A classic rock recording can share a playlist with contemporary indie music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifpi.se/statistik/engaging-with-music-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.se">[ifpi.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.se</span><span class="citation-popover-title">engaging with music report</span><span class="citation-popover-snippet">Ifpi SverigeEngaging with Music ReportEngaging with Music Report. 11th December 2023 – IFPI...% – There was growth in time spent listeni...</span><span class="citation-popover-meta">Published: December 2023</span></span></span>
 
 </div>
 
 Because playlists are designed around use rather than chronology, older songs continue to receive regular exposure. They become practical listening choices rather than historical objects.
 
-Some streaming playlists are also personalised, meaning different listeners receive different versions based on their behaviour and preferences. This further increases opportunities for catalogue tracks to find receptive audiences. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">The process of creating Personalized Editorial Playlists starts with the editors. Our editors...Read more...</span></span></span>
+Some streaming playlists are also personalised, meaning different listeners receive different versions based on their behaviour and preferences. This further increases opportunities for catalogue tracks to find receptive audiences. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">The process of creating Personalized Editorial Playlists starts with the editors. Our editors...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EObzmJhrkGQ" title="The 3 different types of Spotify Playlists (Which is best for Artists?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EObzmJhrkGQ" target="_blank" rel="noopener noreferrer">The 3 different types of Spotify Playlists (Which is best for Artists?)</a></p><p class="youtube-embed-meta">Channel: Show Your Genius &middot; Views: 1.1K &middot; Uploaded: October 2022 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EObzmJhrkGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EObzmJhrkGQ">Open on YouTube</a></p></div></div></div>
 
@@ -342,209 +342,209 @@ Although streaming dramatically improves access, availability alone does not ens
 
 Streaming catalogues contain tens of millions of tracks. Most listeners can only engage with a tiny fraction of that material. Discovery therefore depends heavily on recommendation systems, playlists and interface design.
 
-A song may be technically available yet remain effectively invisible if it is rarely recommended, rarely playlisted or disconnected from active listening networks. Recommendation systems tend to amplify music that generates engagement signals, meaning some catalogue recordings continue to thrive while others remain obscure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-tomorrow.com">[music-tomorrow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-tomorrow.com</span><span class="citation-popover-snippet">Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/blog/how-to-get-recommended-by-streaming-algorithms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">how to get recommended by streaming algorithms</span><span class="citation-popover-snippet">How to Get Your Music Recommended by Streaming...8 Apr 2025 — This guide offers a clear introduction to how recommendation algorithms wo...</span></span></span> This creates an important distinction between access and attention. Streaming solved many access problems, but attention remains scarce. Older songs stay in rotation not merely because they exist on a platform, but because platform features repeatedly place them in front of listeners.
+A song may be technically available yet remain effectively invisible if it is rarely recommended, rarely playlisted or disconnected from active listening networks. Recommendation systems tend to amplify music that generates engagement signals, meaning some catalogue recordings continue to thrive while others remain obscure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-tomorrow.com">[music-tomorrow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-tomorrow.com</span><span class="citation-popover-snippet">Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/blog/how-to-get-recommended-by-streaming-algorithms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">how to get recommended by streaming algorithms</span><span class="citation-popover-snippet">How to Get Your Music Recommended by Streaming...8 Apr 2025 — This guide offers a clear introduction to how recommendation algorithms wo...</span></span></span> This creates an important distinction between access and attention. Streaming solved many access problems, but attention remains scarce. Older songs stay in rotation not merely because they exist on a platform, but because platform features repeatedly place them in front of listeners.
 
-Critics of algorithm-driven discovery also note that recommendation systems can concentrate listening around familiar tracks and established artists rather than exposing audiences to the full depth of available music. Some researchers and commentators argue that recommendation engines are designed primarily to maximise engagement, which can favour already successful recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/column/815744/music-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge The algorithm failed music</span><span class="citation-popover-snippet">The Verge The algorithm failed music</span></span></span>
+Critics of algorithm-driven discovery also note that recommendation systems can concentrate listening around familiar tracks and established artists rather than exposing audiences to the full depth of available music. Some researchers and commentators argue that recommendation engines are designed primarily to maximise engagement, which can favour already successful recordings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/column/815744/music-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge The algorithm failed music</span><span class="citation-popover-snippet">The Verge The algorithm failed music</span></span></span>
 
 ## The result: a catalogue that never fully leaves circulation
 
 The defining effect of streaming is not that it makes old songs available. It is that it makes them continuously reachable within everyday listening behaviour.
 
-Search tools transform curiosity into playback. Artist pages connect generations of recordings. Autoplay extends listening sessions across decades. Personalised recommendations and playlists repeatedly surface older tracks when they appear relevant to a listener's tastes. Together, these mechanisms allow catalogue music to remain part of the present rather than being confined to the past. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2025Mar 19, 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 2024...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Types of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsPlaylistingCreated and maintained entirely by our editorial team. Editorial playlists are curated based on music trend...</span></span></span>
+Search tools transform curiosity into playback. Artist pages connect generations of recordings. Autoplay extends listening sessions across decades. Personalised recommendations and playlists repeatedly surface older tracks when they appear relevant to a listener's tastes. Together, these mechanisms allow catalogue music to remain part of the present rather than being confined to the past.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2025Mar 19, 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 2024...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Types of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsPlaylistingCreated and maintained entirely by our editorial team. Editorial playlists are curated based on music trend...</span></span></span>
 
 In earlier eras, many songs experienced a brief commercial life followed by gradual disappearance. Streaming changes that pattern. A recording can still attract listeners years or decades after release because the systems people use every day are designed to keep music searchable, playable and recommendable whenever interest emerges.
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1-Illustration-3-dark.svg" | relative_url }}" alt="Streaming illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why streaming makes old songs feel current. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why streaming makes old songs feel current. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Provides historical context for the streaming era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for the streaming era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
-        </h4>
-        <p class="fr-book-author">By Glenn McDonald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
+</h4>
+<p class="fr-book-author">By Glenn McDonald</p>
         
-        <p class="fr-book-desc">Explains why old and new songs appear side by side.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why old and new songs appear side by side.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rockonomics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=11JrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rockonomics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rockonomics">Rockonomics</a>
-        </h4>
-        <p class="fr-book-author">By Alan Krueger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rockonomics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=11JrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rockonomics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rockonomics">Rockonomics</a>
+</h4>
+<p class="fr-book-author">By Alan Krueger</p>
         
-        <p class="fr-book-desc">Explains market forces behind streaming consumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains market forces behind streaming consumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Offers broad perspective on music distribution and listening.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broad perspective on music distribution and listening.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rockonomics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rockonomics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rockonomics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rockonomics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-streaming-makes-old-songs-feel-current-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ In earlier eras, many songs experienced a brief commercial life followed by grad
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ In earlier eras, many songs experienced a brief commercial life followed by grad
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ In earlier eras, many songs experienced a brief commercial life followed by grad
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ In earlier eras, many songs experienced a brief commercial life followed by grad
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ In earlier eras, many songs experienced a brief commercial life followed by grad
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,235 +750,235 @@ In earlier eras, many songs experienced a brief commercial life followed by grad
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ifpi.org  
    Title: IFPI Engaging With Music 2023 full report  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s Engaging with Music 2023Dec 11, 2023 — DISCOVERING OLDER MUSIC. This figure is higher in older generations who have experienced th...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s Engaging with Music 2023Dec 11, 2023 — DISCOVERING OLDER MUSIC. This figure is higher in older generations who have experienced th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wipo.int  
    Title: ifpi looks at a decade of digital transformation in the music industry 73661  
-   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...Apr 23, 2025 — [IFPI data](&amp;#123;&amp;#123; &#x27;ifpi-data/&#x27; | relative_url &amp;#125;&amp;#125;) shows that music industry revenue has doubl...</p></details>
+   Link:<a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...Apr 23, 2025 — [IFPI data](&amp;#123;&amp;#123; &#x27;ifpi-data/&#x27; | relative_url &amp;#125;&amp;#125;) shows that music industry revenue has doubl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2025Mar 19, 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 2024...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2025Mar 19, 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 2024...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ifpi.se  
    Title: engaging with music report  
-   Link: <a href="https://www.ifpi.se/statistik/engaging-with-music-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.se/statistik/engaging-with-music-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ifpi SverigeEngaging with Music ReportEngaging with Music Report. 11th December 2023 – IFPI...% – There was growth in time spent listeni...</p></details>
+   Link:<a href="https://www.ifpi.se/statistik/engaging-with-music-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.se/statistik/engaging-with-music-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ifpi SverigeEngaging with Music ReportEngaging with Music Report. 11th December 2023 – IFPI...% – There was growth in time spent listeni...</p></details>
    Published: December 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on...12 Mar 2026 — Other recommendations are tailored to each listener&#x27;s unique taste, like a perso...</p></details>
+   Link:<a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on...12 Mar 2026 — Other recommendations are tailored to each listener&#x27;s unique taste, like a perso...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: orphiq.com  
    Title: spotify algorithmic playlists explained  
-   Link: <a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</p></details>
+   Link:<a href="https://orphiq.com/resources/spotify-algorithmic-playlists-explained" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-algorithmic-playlists-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Mar 2026 — Spotify algorithmic playlists are personalized playlists generated by Spotify&#x27;s recommendation system based on listening be...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: music-tomorrow.com  
-   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: support.spotify.com  
-   Link: <a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/types-of-spotify-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/types-of-spotify-playlists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Spotify playlistsPersonalized playlists are unique to each listener. They&#x27;re created by Spotify&#x27;s algorithms that look at...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/playlisting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsPlaylistingCreated and maintained entirely by our editorial team. Editorial playlists are curated based on music trend...</p></details>
+   Link:<a href="https://artists.spotify.com/en/playlisting" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/playlisting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsPlaylistingCreated and maintained entirely by our editorial team. Editorial playlists are curated based on music trend...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: soundcharts.com  
    Title: how to get recommended by streaming algorithms  
-   Link: <a href="https://soundcharts.com/en/blog/how-to-get-recommended-by-streaming-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/how-to-get-recommended-by-streaming-algorithms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get Your Music Recommended by Streaming...8 Apr 2025 — This guide offers a clear introduction to how recommendation algorithms wo...</p></details>
+   Link:<a href="https://soundcharts.com/en/blog/how-to-get-recommended-by-streaming-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/how-to-get-recommended-by-streaming-algorithms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get Your Music Recommended by Streaming...8 Apr 2025 — This guide offers a clear introduction to how recommendation algorithms wo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ifpi.org  
    Title: Engaging with Music report  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2021/10/IFPI-Engaging-with-Music-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2021/10/IFPI-Engaging-with-Music-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2021 — IFPI&#x27;s Engaging with Music 2021 explores the ways that people listen to, discover, and engage with music around the world. It...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2021/10/IFPI-Engaging-with-Music-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2021/10/IFPI-Engaging-with-Music-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2021 — IFPI&#x27;s Engaging with Music 2021 explores the ways that people listen to, discover, and engage with music around the world. It...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ifpi.org  
    Title: Engaging with Music 2022 full report 1  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2022/11/Engaging-with-Music-2022_full-report-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2022/11/Engaging-with-Music-2022_full-report-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Engaging with Music 2022Nov 17, 2022 — It shows how music engagement is thriving, driven by new genres, new [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) and an increasingly r...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2022/11/Engaging-with-Music-2022_full-report-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2022/11/Engaging-with-Music-2022_full-report-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engaging with Music 2022Nov 17, 2022 — It shows how music engagement is thriving, driven by new genres, new [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) and an increasingly r...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ifpi.org  
    Title: IFPI Engaging With Music 2023 Highlights infographic poster 1  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_Highlights-infographic-poster-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_Highlights-infographic-poster-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A global snapshot of music engagement in 2023How all the hours that people spend engaging with music break down between different methods...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_Highlights-infographic-poster-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_Highlights-infographic-poster-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A global snapshot of music engagement in 2023How all the hours that people spend engaging with music break down between different methods...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — Total streaming revenues surpassed US$22 billion and accounted for 69.6% of gl...</p></details>
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — Total streaming revenues surpassed US$22 billion and accounted for 69.6% of gl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ifpi.org  
    Title: GMR 2024 State of the Industry  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GMR_2024_State_of_the_Industry.pdfA more detailed analysis of IFPI Global Charts is available in the. IFPI Global Music Report 2024 Premi...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GMR_2024_State_of_the_Industry.pdfA more detailed analysis of IFPI Global Charts is available in the. IFPI Global Music Report 2024 Premi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: artists.spotify.com  
    Title: discovery mode  
-   Link: <a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ModeDiscovery Mode is a tool for artists and music marketers designed to help you find new listeners when it matters to you most.Read more...</p></details>
+   Link:<a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ModeDiscovery Mode is a tool for artists and music marketers designed to help you find new listeners when it matters to you most.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: artists.spotify.com  
    Title: behind the playlists your questions answered by our playlist editors  
-   Link: <a href="https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting playlisted—either editoriall...</p></details>
+   Link:<a href="https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Playlists: Your Questions Answered by Our...23 Jul 2020 — To give your track the best chance of getting playlisted—either editoriall...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comYou&#x27;re in Control: Spotify Lets You Steer the Algorithm10 Dec 2025 — Prompted Playlist lets you describe exactly what you want...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-10/spotify-prompted-playlists-algorithm-gustav-soderstrom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comYou&#x27;re in Control: Spotify Lets You Steer the Algorithm10 Dec 2025 — Prompted Playlist lets you describe exactly what you want...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Share your upcoming tracks with Spotify editors using playlist pitching. Explore...Read more...</p></details>
+   Link:<a href="https://artists.spotify.com/en/home" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Share your upcoming tracks with Spotify editors using playlist pitching. Explore...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Your-Library/How-to-find-all-the-Spotify-generated-Playlists/td-p/5179615" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Your-Library/How-to-find-all-the-Spotify-generated-Playlists/td-p/5179615</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to find all the Spotify generated PlaylistsThe playlists in your screenshots are editorial, while different mixes are algorithm-based...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Your-Library/How-to-find-all-the-Spotify-generated-Playlists/td-p/5179615" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Your-Library/How-to-find-all-the-Spotify-generated-Playlists/td-p/5179615</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to find all the Spotify generated PlaylistsThe playlists in your screenshots are editorial, while different mixes are algorithm-based...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ifpi.se  
    Title: engaging with music  
-   Link: <a href="https://www.ifpi.se/2023/12/11/engaging-with-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.se/2023/12/11/engaging-with-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Engaging With Music 2023 ReportDec 11, 2023 — Based on the responses of more than 43,000 people across 26 countries, the report is t...</p></details>
+   Link:<a href="https://www.ifpi.se/2023/12/11/engaging-with-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.se/2023/12/11/engaging-with-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Engaging With Music 2023 ReportDec 11, 2023 — Based on the responses of more than 43,000 people across 26 countries, the report is t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: artist.tools  
    Title: master spotify algorithmic playlists  
-   Link: <a href="https://www.artist.tools/post/master-spotify-algorithmic-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/master-spotify-algorithmic-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jul 2025 — Each of Spotify&#x27;s main algorithmic playlists serves a distinct purpose, targeting listeners at different points in their di...</p></details>
+   Link:<a href="https://www.artist.tools/post/master-spotify-algorithmic-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/master-spotify-algorithmic-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jul 2025 — Each of Spotify&#x27;s main algorithmic playlists serves a distinct purpose, targeting listeners at different points in their di...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: orphiq.com  
    Title: spotify editorial playlist  
-   Link: <a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial Playlists15 Mar 2026 — Spotify editorial playlists are curated by Spotify&#x27;s in-house team of music editor...</p></details>
+   Link:<a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial Playlists15 Mar 2026 — Spotify editorial playlists are curated by Spotify&#x27;s in-house team of music editor...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wsj.com  
    Title: spotify streaming hits nostalgia old 972818d5  
-   Link: <a href="https://www.wsj.com/arts-culture/music/spotify-streaming-hits-nostalgia-old-972818d5" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/music/spotify-streaming-hits-nostalgia-old-972818d5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Jackson&#x27;s &quot;Billie Jean&quot; reclaimed the No. 1 spot over 40 years after its debut, fueled by the release of a new biopic. Other vint...</p></details>
+   Link:<a href="https://www.wsj.com/arts-culture/music/spotify-streaming-hits-nostalgia-old-972818d5" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/music/spotify-streaming-hits-nostalgia-old-972818d5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Jackson&#x27;s &quot;Billie Jean&quot; reclaimed the No. 1 spot over 40 years after its debut, fueled by the release of a new biopic. Other vint...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: engineering.atspotify.com  
    Title: humans machines a look behind spotifys [algotorial](&#123;&#123; 'algotorial/' | relative_url &#125;&#125;) playlists  
-   Link: <a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process of creating Personalized Editorial Playlists starts with the editors. Our editors...Read more...</p></details>
+   Link:<a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process of creating Personalized Editorial Playlists starts with the editors. Our editors...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theverge.com  
    Title: The Verge The algorithm failed music  
-   Link: <a href="https://www.theverge.com/column/815744/music-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/column/815744/music-recommendation-algorithms</a>  
+   Link:<a href="https://www.theverge.com/column/815744/music-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/column/815744/music-recommendation-algorithms</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: horusmusic.global  
    Title: spotifys discovery mode explained  
-   Link: <a href="https://www.horusmusic.global/spotifys-discovery-mode-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/spotifys-discovery-mode-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discovery Mode explained.4 Dec 2025 — The main difference between the two is that editorial playlists are curated by an individ...</p></details>
+   Link:<a href="https://www.horusmusic.global/spotifys-discovery-mode-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/spotifys-discovery-mode-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discovery Mode explained.4 Dec 2025 — The main difference between the two is that editorial playlists are curated by an individ...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newyorker/posts/spotify-has-profoundly-changed-the-way-we-listen-and-what-we-listen-to-the-servi/1001729831827540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newyorker/posts/spotify-has-profoundly-changed-the-way-we-listen-and-what-we-listen-to-the-servi/1001729831827540/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The service is a library, but it’s also a recommendation service, and its growth...</p></details>
+   Link:<a href="https://www.facebook.com/newyorker/posts/spotify-has-profoundly-changed-the-way-we-listen-and-what-we-listen-to-the-servi/1001729831827540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newyorker/posts/spotify-has-profoundly-changed-the-way-we-listen-and-what-we-listen-to-the-servi/1001729831827540/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The service is a library, but it’s also a recommendation service, and its growth...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: loopsolitaire.co.uk  
-   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data.Read more...</p></details>
+   Link:<a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: orpl.app  
    Title: Spotify Editorial vs Algorithmic vs Independent Playlists  
-   Link: <a href="https://orpl.app/en/spotify/editorial-vs-algorithmic-playlists" target="_blank" rel="noopener noreferrer nofollow">https://orpl.app/en/spotify/editorial-vs-algorithmic-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange Platform guidance on editorial vs algorithmic playlists for Spotify growth, playlist strategy, pitching, and audience development...</p></details>
+   Link:<a href="https://orpl.app/en/spotify/editorial-vs-algorithmic-playlists" target="_blank" rel="noopener noreferrer nofollow">https://orpl.app/en/spotify/editorial-vs-algorithmic-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orange Platform guidance on editorial vs algorithmic playlists for Spotify growth, playlist strategy, pitching, and audience development...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: resources.onestowatch.com  
    Title: spotify playlists unsigned artists  
-   Link: <a href="https://resources.onestowatch.com/spotify-playlists-unsigned-artists/" target="_blank" rel="noopener noreferrer nofollow">https://resources.onestowatch.com/spotify-playlists-unsigned-artists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial playlists such as New Music Friday come from...Read more...</p></details>
+   Link:<a href="https://resources.onestowatch.com/spotify-playlists-unsigned-artists/" target="_blank" rel="noopener noreferrer nofollow">https://resources.onestowatch.com/spotify-playlists-unsigned-artists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial playlists such as New Music Friday come from...Read more...</p></details>
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396739510_The_Japanese_Transition_to_Streaming_Music_Corporate_Hesitancy_and_Individual_Innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396739510_The_Japanese_Transition_to_Streaming_Music_Corporate_Hesitancy_and_Individual_Innovation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Japanese Transition to Streaming MusicIFPI, Engaging with Music; RIAJ, “ 年度音楽メディアユーザー実態調査 定点調査.”. Drott, Streaming Music.. To...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396739510_The_Japanese_Transition_to_Streaming_Music_Corporate_Hesitancy_and_Individual_Innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396739510_The_Japanese_Transition_to_Streaming_Music_Corporate_Hesitancy_and_Individual_Innovation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Japanese Transition to Streaming MusicIFPI, Engaging with Music; RIAJ, “ 年度音楽メディアユーザー実態調査 定点調査.”. Drott, Streaming Music.. To...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616787140/IFPI-Engaging-with-Music-report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616787140/IFPI-Engaging-with-Music-report</a>  
+   Link:<a href="https://www.scribd.com/document/616787140/IFPI-Engaging-with-Music-report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616787140/IFPI-Engaging-with-Music-report</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: musiccanada.com  
-   Link: <a href="https://musiccanada.com/news/ifpi-global-report-finds-were-listening-to-more-music-in-more-ways-than-ever-before/" target="_blank" rel="noopener noreferrer nofollow">https://musiccanada.com/news/ifpi-global-report-finds-were-listening-to-more-music-in-more-ways-than-ever-before/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI global report finds we&#x27;re listening to more...Dec 11, 2023 — On average, people around the world listen to 20.7 hours of music a we...</p></details>
+   Link:<a href="https://musiccanada.com/news/ifpi-global-report-finds-were-listening-to-more-music-in-more-ways-than-ever-before/" target="_blank" rel="noopener noreferrer nofollow">https://musiccanada.com/news/ifpi-global-report-finds-were-listening-to-more-music-in-more-ways-than-ever-before/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI global report finds we&#x27;re listening to more...Dec 11, 2023 — On average, people around the world listen to 20.7 hours of music a we...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
    Title: ifpis landmark engaging with music 2023 report provides insight to the music ind  
-   Link: <a href="https://www.facebook.com/Statista.Inc/posts/ifpis-landmark-engaging-with-music-2023-report-provides-insight-to-the-music-ind/821703900166981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Statista.Inc/posts/ifpis-landmark-engaging-with-music-2023-report-provides-insight-to-the-music-ind/821703900166981/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s landmark Engaging with Music 2023 report...IFPI&#x27;s landmark Engaging with Music 2023 report provides insight to the music industry...</p></details>
+   Link:<a href="https://www.facebook.com/Statista.Inc/posts/ifpis-landmark-engaging-with-music-2023-report-provides-insight-to-the-music-ind/821703900166981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Statista.Inc/posts/ifpis-landmark-engaging-with-music-2023-report-provides-insight-to-the-music-ind/821703900166981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s landmark Engaging with Music 2023 report...IFPI&#x27;s landmark Engaging with Music 2023 report provides insight to the music industry...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: submitlink.io  
    Title: get on spotify playlists a modern artist s guide to get on spotify playlists  
-   Link: <a href="https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Modern Artist&#x27;s Guide to get on spotify playlists12 Jan 2026 — Struggling to get on spotify playlists? Discover proven strategies to pr...</p></details>
+   Link:<a href="https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Modern Artist&#x27;s Guide to get on spotify playlists12 Jan 2026 — Struggling to get on spotify playlists? Discover proven strategies to pr...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: entertainment.slashdot.org  
    Title: music industry sees first big gains in 20 years thanks to streaming services  
-   Link: <a href="https://entertainment.slashdot.org/story/16/04/18/094230/music-industry-sees-first-big-gains-in-20-years-thanks-to-streaming-services" target="_blank" rel="noopener noreferrer nofollow">https://entertainment.slashdot.org/story/16/04/18/094230/music-industry-sees-first-big-gains-in-20-years-thanks-to-streaming-services</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Industry Sees First Big Gains in 20 Years Thanks to...18 Apr 2016 — Thanks to subscription-based music streaming services, the music ind...</p></details>
+   Link:<a href="https://entertainment.slashdot.org/story/16/04/18/094230/music-industry-sees-first-big-gains-in-20-years-thanks-to-streaming-services" target="_blank" rel="noopener noreferrer nofollow">https://entertainment.slashdot.org/story/16/04/18/094230/music-industry-sees-first-big-gains-in-20-years-thanks-to-streaming-services</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Industry Sees First Big Gains in 20 Years Thanks to...18 Apr 2016 — Thanks to subscription-based music streaming services, the music ind...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
    Title: 367761926 Music Streaming Consumption Patterns in Digital Ambients  
-   Link: <a href="https://www.researchgate.net/publication/367761926_Music_Streaming_Consumption_Patterns_in_Digital_Ambients" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367761926_Music_Streaming_Consumption_Patterns_in_Digital_Ambients</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming: Consumption Patterns in Digital AmbientsApr 28, 2025 — The intent is to comprehend the expressiveness of these music str...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367761926_Music_Streaming_Consumption_Patterns_in_Digital_Ambients" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367761926_Music_Streaming_Consumption_Patterns_in_Digital_Ambients</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming: Consumption Patterns in Digital AmbientsApr 28, 2025 — The intent is to comprehend the expressiveness of these music str...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: omdia.tech.informa.com  
    Title: new ifpi report details global recorded music engagement habits  
-   Link: <a href="https://omdia.tech.informa.com/om120669/new-ifpi-report-details-global-recorded-music-engagement-habits" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om120669/new-ifpi-report-details-global-recorded-music-engagement-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI report details global recorded-music engagement...15 Dec 2023 — Review of this year&#x27;s music engagement report published in December...</p></details>
+   Link:<a href="https://omdia.tech.informa.com/om120669/new-ifpi-report-details-global-recorded-music-engagement-habits" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om120669/new-ifpi-report-details-global-recorded-music-engagement-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI report details global recorded-music engagement...15 Dec 2023 — Review of this year&#x27;s music engagement report published in December...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>h i was featured by an editorial playlist out of nowhere, the truth behind...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicmarketing/comments/164w75o/whats_the_deal_with_spotify_editorial_playlistsis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>h i was featured by an editorial playlist out of nowhere, the truth behind...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>discovery is now fueled by recommendation algorithms that...Read more...</p></details>
+   Link:<a href="https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>discovery is now fueled by recommendation algorithms that...Read more...</p></details>

@@ -274,20 +274,20 @@ image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cult
 
 ## Introduction
 
-A lyric may seem to express a clear emotion, yet its meaning is rarely fixed. The same line can feel romantic in one country, tragic in another, and politically charged somewhere else. This happens because [lyrics]({{ 'lyrics/' | relative_url }}) do not travel as pure messages. They are interpreted through cultural norms, language habits, collective memories, social expectations, and personal experience. As songs circulate across borders, listeners often hear the same words but connect them to different emotional worlds. Research on music and emotion consistently finds that the emotional impact of lyrics varies across cultural groups, even when people are listening to the same songs. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span> Gate Understanding why meanings shift helps explain how lyrics become shared language while remaining open to multiple interpretations.
+A lyric may seem to express a clear emotion, yet its meaning is rarely fixed. The same line can feel romantic in one country, tragic in another, and politically charged somewhere else. This happens because [lyrics]({{ 'lyrics/' | relative_url }}) do not travel as pure messages. They are interpreted through cultural norms, language habits, collective memories, social expectations, and personal experience. As songs circulate across borders, listeners often hear the same words but connect them to different emotional worlds. Research on music and emotion consistently finds that the emotional impact of lyrics varies across cultural groups, even when people are listening to the same songs. Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span> Gate Understanding why meanings shift helps explain how lyrics become shared language while remaining open to multiple interpretations.
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1-dark.svg" | relative_url }}" alt="Culture illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Culture Shapes Emotional Interpretation
 
 Lyrics frequently rely on emotional shorthand. References to love, family, longing, freedom, heartbreak, or success seem universal, but cultures differ in how those experiences are understood and expressed.
 
-Research in cultural psychology shows that emotional experience is not organised identically everywhere. In many Western societies, emotions are often framed as individual experiences centred on personal fulfilment and self-expression. In many more collectivist cultures, emotions are interpreted more strongly through relationships, social obligations, and group [harmony]({{ 'harmony/' | relative_url }}). These differences influence how listeners understand lyrical themes and emotional narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineFavorite music expresses socially engaging emotionsby J Tang · 2025 · Cited by 5 — Studies have shown cultural...</span></span></span>
+Research in cultural psychology shows that emotional experience is not organised identically everywhere. In many Western societies, emotions are often framed as individual experiences centred on personal fulfilment and self-expression. In many more collectivist cultures, emotions are interpreted more strongly through relationships, social obligations, and group [harmony]({{ 'harmony/' | relative_url }}). These differences influence how listeners understand lyrical themes and emotional narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineFavorite music expresses socially engaging emotionsby J Tang · 2025 · Cited by 5 — Studies have shown cultural...</span></span></span>
 
 Consider a lyric about leaving home. One audience may hear a celebration of independence. Another may hear sacrifice, loss, or even abandonment. The words remain unchanged, but the cultural meaning attached to the act differs.
 
-Studies examining musical emotions across cultures have found that lyrics can alter emotional responses in culturally specific ways. In one cross-cultural investigation, Portuguese and Swedish listeners reacted differently to the same lyrical material, with lyrics increasing nostalgia in one group and [surprise]({{ 'surprise/' | relative_url }})-related emotions in the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhen words matter: A cross-cultural perspective on lyrics...by GT Barradas · 2022 · Cited by 103 — The present study indica...</span></span></span>
+Studies examining musical emotions across cultures have found that lyrics can alter emotional responses in culturally specific ways. In one cross-cultural investigation, Portuguese and Swedish listeners reacted differently to the same lyrical material, with lyrics increasing nostalgia in one group and [surprise]({{ 'surprise/' | relative_url }})-related emotions in the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhen words matter: A cross-cultural perspective on lyrics...by GT Barradas · 2022 · Cited by 103 — The present study indica...</span></span></span>
 
-This does not mean that cultures are isolated emotional systems. Many emotional reactions overlap. Instead, culture influences which meanings become most salient when listeners interpret a song. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCross-cultural perspectives on music and musicality</span><span class="citation-popover-snippet">NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</span></span></span>
+This does not mean that cultures are isolated emotional systems. Many emotional reactions overlap. Instead, culture influences which meanings become most salient when listeners interpret a song.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCross-cultural perspectives on music and musicality</span><span class="citation-popover-snippet">NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</span></span></span>
 
 ## Translation, Context, and Shared Memory
 
@@ -297,7 +297,7 @@ Lyrics depend heavily on metaphor, [rhythm]({{ 'rhythm/' | relative_url }}), wor
 
 A phrase that sounds intimate in one language may become formal in another. A pun may disappear entirely. A cultural symbol that immediately evokes emotion for local listeners may carry little meaning abroad. Even highly skilled translations often preserve some dimensions of meaning while sacrificing others.
 
-The challenge is not merely linguistic. Songwriters frequently write from within specific cultural experiences. Japanese songwriter Takashi Matsumoto argued that translation changes meaning because language carries instinctive associations rooted in lived culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This choice significantly influenced Japanese music, blending Western folk-rock with Japanese lyrics and inspiring genres such as city po...</span></span></span>
+The challenge is not merely linguistic. Songwriters frequently write from within specific cultural experiences. Japanese songwriter Takashi Matsumoto argued that translation changes meaning because language carries instinctive associations rooted in lived culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This choice significantly influenced Japanese music, blending Western folk-rock with Japanese lyrics and inspiring genres such as city po...</span></span></span>
 
 As songs cross linguistic boundaries, listeners often construct new meanings from the translated text rather than receiving an exact replica of the original message.
 
@@ -307,7 +307,7 @@ Lyrics also acquire meaning through shared historical experiences.
 
 A reference to economic hardship, migration, war, political struggle, or national identity may resonate strongly within one society because it connects to collective [memory]({{ 'memory/' | relative_url }}). Listeners who lack that historical context may hear the same lyric as a more general emotional statement.
 
-This process helps explain why some songs become unofficial anthems for particular communities. The words themselves matter, but so do the memories attached to them. Cultural narratives can transform a lyric from a personal reflection into a symbol of a generation, region, or movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic as a Cultural Inheritance System: A Contextual</span><span class="citation-popover-snippet">by RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</span></span></span>
+This process helps explain why some songs become unofficial anthems for particular communities. The words themselves matter, but so do the memories attached to them. Cultural narratives can transform a lyric from a personal reflection into a symbol of a generation, region, or movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic as a Cultural Inheritance System: A Contextual</span><span class="citation-popover-snippet">by RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</span></span></span>
 
 Because memories differ across societies, meanings shift as songs travel.
 
@@ -316,7 +316,7 @@ Because memories differ across societies, meanings shift as songs travel.
 
 Meaning is not determined solely by songwriters. Listeners actively participate in creating it.
 
-Research on lyric interpretation shows that meaning emerges through interaction between words, music, familiarity, and personal association. The same text can be interpreted differently depending on the musical setting and on what listeners already associate with the song. Familiarity can even increase the perceived meaningfulness of lyrics over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span>
+Research on lyric interpretation shows that meaning emerges through interaction between words, music, familiarity, and personal association. The same text can be interpreted differently depending on the musical setting and on what listeners already associate with the song. Familiarity can even increase the perceived meaningfulness of lyrics over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span>
 
 Communities therefore negotiate meaning collectively through:
 
@@ -340,9 +340,9 @@ This creates a tension between authorial intent and audience interpretation. Son
 
 Lyrics are never heard in isolation. Their interpretation is influenced by [melody]({{ 'melody/' | relative_url }}), harmony, rhythm, vocal delivery, and performance style.
 
-Studies have shown that identical lyrics can be perceived differently depending on their musical context. Music can push listeners towards hearing words as hopeful, ironic, threatening, melancholic, or uplifting. [Familiar songs]({{ 'familiar-songs/' | relative_url }}) can also lend emotional significance to lyrics through accumulated personal and cultural associations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span>
+Studies have shown that identical lyrics can be perceived differently depending on their musical context. Music can push listeners towards hearing words as hopeful, ironic, threatening, melancholic, or uplifting. [Familiar songs]({{ 'familiar-songs/' | relative_url }}) can also lend emotional significance to lyrics through accumulated personal and cultural associations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-title">the attribution of meaning and emotion to song lyrics</span><span class="citation-popover-snippet">Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</span></span></span>
 
-This matters across cultures because musical conventions themselves vary. Certain sounds may signal celebration in one musical tradition and solemnity in another. As a result, listeners may derive different emotional meanings from the interaction between lyrics and music, even when the verbal content remains unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">IET Research JournalsCross‐cultural analysis of the correlation between musical...20 Sept 2021 — In the cross-cultural context, both per...</span></span></span>
+This matters across cultures because musical conventions themselves vary. Certain sounds may signal celebration in one musical tradition and solemnity in another. As a result, listeners may derive different emotional meanings from the interaction between lyrics and music, even when the verbal content remains unchanged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">IET Research JournalsCross‐cultural analysis of the correlation between musical...20 Sept 2021 — In the cross-cultural context, both per...</span></span></span>
 
 The lyric does not act alone. It is interpreted through a cultural listening framework that includes both language and sound.
 
@@ -350,7 +350,7 @@ The lyric does not act alone. It is interpreted through a cultural listening fra
 
 A common assumption is that a lyric has one correct meaning that listeners either understand or misunderstand. Cultural research on music suggests a more complex reality.
 
-Many aspects of musical emotion appear broadly shared across human populations, yet cultural interpretation shapes how those emotions are categorised, described, and connected to social experience. Some emotional responses show remarkable consistency across cultures, while others vary substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ferreiralab.faculty.ucdavis.edu">[Ferreira Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ferreiralab.faculty.ucdavis.edu</span><span class="citation-popover-title">Ferreira Lab Do you chill when I chill?</span><span class="citation-popover-snippet">A cross-cultural study of strong...by E Beier · 2020 · Cited by 32 — Overall, this research counters the idea of musical emotional meani...</span></span></span>
+Many aspects of musical emotion appear broadly shared across human populations, yet cultural interpretation shapes how those emotions are categorised, described, and connected to social experience. Some emotional responses show remarkable consistency across cultures, while others vary substantially.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ferreiralab.faculty.ucdavis.edu">[Ferreira Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ferreiralab.faculty.ucdavis.edu</span><span class="citation-popover-title">Ferreira Lab Do you chill when I chill?</span><span class="citation-popover-snippet">A cross-cultural study of strong...by E Beier · 2020 · Cited by 32 — Overall, this research counters the idea of musical emotional meani...</span></span></span>
 
 Rather than treating cultural variation as distortion, it can be understood as part of how lyrics function. Songs become meaningful precisely because listeners connect them to their own emotional vocabulary, memories, and social worlds.
 
@@ -359,194 +359,194 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-dark.svg" | relative_url }}" alt="Culture illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why The Same Lyric Means Different Things. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why The Same Lyric Means Different Things. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explores how culture shapes musical meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how culture shapes musical meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Provides a foundation for understanding music perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a foundation for understanding music perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+music+Alan+P.+Merriam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9275462-M.jpg" alt="Cover for The anthropology of music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+anthropology+of+music+Alan+P.+Merriam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of music">The anthropology of music</a>
-        </h4>
-        <p class="fr-book-author">By Alan P. Merriam</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+music+Alan+P.+Merriam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9275462-M.jpg" alt="Cover for The anthropology of music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+anthropology+of+music+Alan+P.+Merriam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of music">The anthropology of music</a>
+</h4>
+<p class="fr-book-author">By Alan P. Merriam</p>
         
-        <p class="fr-book-desc">First published 1964. Subjects: Ethnomusicology, Ethnomusicologie, Music Therapy, Music, Etnomusicologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+anthropology+of+music+Alan+P.+Merriam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1964. Subjects: Ethnomusicology, Ethnomusicologie, Music Therapy, Music, Etnomusicologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+anthropology+of+music+Alan+P.+Merriam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Worlds+of+Music+Jeff+Todd+Titon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Worlds of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2473776-M.jpg" alt="Cover for Worlds of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Worlds+of+Music+Jeff+Todd+Titon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Worlds of Music">Worlds of Music</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Todd Titon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Worlds+of+Music+Jeff+Todd+Titon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Worlds of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2473776-M.jpg" alt="Cover for Worlds of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Worlds+of+Music+Jeff+Todd+Titon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Worlds of Music">Worlds of Music</a>
+</h4>
+<p class="fr-book-author">By Jeff Todd Titon</p>
         
-        <p class="fr-book-desc">First published 1984. Subjects: Ethnomusicology, History and criticism, World music, Folk music--history and criticism, Music--history an...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Worlds+of+Music+Jeff+Todd+Titon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1984. Subjects: Ethnomusicology, History and criticism, World music, Folk music--history and criticism, Music--history an...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Worlds+of+Music+Jeff+Todd+Titon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art"><img src="{{ '/assets/images/marketplace-covers/e232c319205274677a82.jpg' | relative_url }}" alt="Listing image for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art"><img src="{{ '/assets/images/marketplace-covers/e232c319205274677a82.jpg' | relative_url }}" alt="Listing image for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3da66661fb182f8ee92d.jpg' | relative_url }}" alt="Listing image for Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3da66661fb182f8ee92d.jpg' | relative_url }}" alt="Listing image for Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music On World Off Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions"><img src="{{ '/assets/images/marketplace-covers/a42f8e5429b7e9050048.jpg' | relative_url }}" alt="Listing image for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions"><img src="{{ '/assets/images/marketplace-covers/a42f8e5429b7e9050048.jpg' | relative_url }}" alt="Listing image for World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">World Culture Poster A3 A4 A5 Artistic Wall Art Print with Global Traditions</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/07c05df666af11e959e6.jpg' | relative_url }}" alt="Listing image for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/07c05df666af11e959e6.jpg' | relative_url }}" alt="Listing image for Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music On, World Off - Vintage Music Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster -book -books" data-ebay-reference="culture-why-the-same-lyric-means-different-things-music-world-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,109 +752,109 @@ In this sense, lyrics succeed as shared language not because everyone hears exac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A cross-cultural perspective on lyrics and their relationship...The present study indicates that lyrics have an effect on musical emotio...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352464257_When_words_matter_A_cross-cultural_perspective_on_lyrics_and_their_relationship_to_musical_emotions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A cross-cultural perspective on lyrics and their relationship...The present study indicates that lyrics have an effect on musical emotio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCross-cultural perspectives on music and musicality  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby SE Trehub · 2015 · Cited by 421 — Musical behaviours are universal across human populations and, at the same time, highly div...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMusic as a Cultural Inheritance System: A Contextual  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Rehfeldt · 2021 · Cited by 70 — Music is proposed to be a complex symbolic inheritance system, or an advanced form of relational...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics...by GT Barradas · 2022 · Cited by 103 — The present study indica...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics...by GT Barradas · 2022 · Cited by 103 — The present study indica...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineFavorite music expresses socially engaging emotionsby J Tang · 2025 · Cited by 5 — Studies have shown cultural...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/230129/1/tang-et-al-2025-favorite-music-expresses-socially-engaging-emotions-the-role-of-self-construal-across-cultures.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineFavorite music expresses socially engaging emotionsby J Tang · 2025 · Cited by 5 — Studies have shown cultural...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ferreiralab.faculty.ucdavis.edu  
    Title: Ferreira Lab Do you chill when I chill?  
-   Link: <a href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A cross-cultural study of strong...by E Beier · 2020 · Cited by 32 — Overall, this research counters the idea of musical emotional meani...</p></details>
+   Link:<a href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2020/05/BeierJanataHulbertFerreira2020_preprint.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A cross-cultural study of strong...by E Beier · 2020 · Cited by 32 — Overall, this research counters the idea of musical emotional meani...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This choice significantly influenced Japanese music, blending Western folk-rock with Japanese lyrics and inspiring genres such as city po...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/26/translation-changes-the-original-meaning-how-70s-psych-rockers-happy-end-ended-the-japanese-rock-controversy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This choice significantly influenced Japanese music, blending Western folk-rock with Japanese lyrics and inspiring genres such as city po...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.bond.edu.au  
    Title: the attribution of meaning and emotion to song lyrics  
-   Link: <a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</p></details>
+   Link:<a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Listeners were presented with sung lyrics, spoken lyrics, or written poetry...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ietresearch.onlinelibrary.wiley.com  
-   Link: <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalsCross‐cultural analysis of the correlation between musical...20 Sept 2021 — In the cross-[cultural context](&amp;#123;&amp;#123; &#x27;cultural-context/&#x27; | relative_url &amp;#125;&amp;#125;), both per...</p></details>
+   Link:<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12032</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalsCross‐cultural analysis of the correlation between musical...20 Sept 2021 — In the cross-[cultural context](&amp;#123;&amp;#123; &#x27;cultural-context/&#x27; | relative_url &amp;#125;&amp;#125;), both per...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: research.bond.edu.au  
-   Link: <a href="https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalCross-Cultural Biases of Emotion Perception in Musicby MG Li · 2025 · Cited by 14 — Abstract: Objectives...</p></details>
+   Link:<a href="https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/files/296771797/brainsci-15-00477-v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalCross-Cultural Biases of Emotion Perception in Musicby MG Li · 2025 · Cited by 14 — Abstract: Objectives...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music and emotion: A cross cultural perspectiveThis chapter explores the intricate relationship between music and emotion from a cr...</p></details>
+   Link:<a href="https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7035981/Music_and_emotion_A_cross_cultural_perspective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music and emotion: A cross cultural perspectiveThis chapter explores the intricate relationship between music and emotion from a cr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The author reflects on personal experiences of cultural misunderstandings upon migrating to England from India, where gestures and emotio...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2022/08/08/how-universal-are-our-emotions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The author reflects on personal experiences of cultural misunderstandings upon migrating to England from India, where gestures and emotio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aesthetics.mpg.de  
-   Link: <a href="https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mpg.deCross-cultural study on perceived emotions in musicWe will seek to determine which musical and non-musical factors play a role in e...</p></details>
+   Link:<a href="https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aesthetics.mpg.de/en/research/department-of-music/aesthetic-experience-influencing/cross-cultural-study-on-perceived-emotions-in-music.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mpg.deCross-cultural study on perceived emotions in musicWe will seek to determine which musical and non-musical factors play a role in e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musicpsychology.co.uk  
-   Link: <a href="https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional reponses to music: The influence of lyricsOverall, the paper gives insight into the effects of lyrics on the neural processing...</p></details>
+   Link:<a href="https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/emotional-reponses-to-music-the-influence-of-lyrics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional reponses to music: The influence of lyricsOverall, the paper gives insight into the effects of lyrics on the neural processing...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z7fY8B3aHkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z7fY8B3aHkM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=z7fY8B3aHkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z7fY8B3aHkM</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: durham.ac.uk  
    Title: how culture informs the emotions you feel when listening to music  
-   Link: <a href="https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham UniversityHow culture informs the emotions you feel when listening...3 Feb 2022 — So, as our research aimed to discover how the e...</p></details>
+   Link:<a href="https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/how-culture-informs-the-emotions-you-feel-when-listening-to-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Durham UniversityHow culture informs the emotions you feel when listening...3 Feb 2022 — So, as our research aimed to discover how the e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mappmagazine.com  
-   Link: <a href="https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ce emotional health on an individual level and possibly a global one.Read more...</p></details>
+   Link:<a href="https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.mappmagazine.com/articles/a-case-for-lyrics-and-how-they-impact-our-emotions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ce emotional health on an individual level and possibly a global one.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: injoqast.net  
-   Link: <a href="https://injoqast.net/index.php/INJOSER/article/download/278/305" target="_blank" rel="noopener noreferrer nofollow">https://injoqast.net/index.php/INJOSER/article/download/278/305</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly to endure in public memory and influence societal values.Read more...</p></details>
+   Link:<a href="https://injoqast.net/index.php/INJOSER/article/download/278/305" target="_blank" rel="noopener noreferrer nofollow">https://injoqast.net/index.php/INJOSER/article/download/278/305</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly to endure in public memory and influence societal values.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ive processing and understanding of a specific...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/promotethemusic/posts/28477791078533938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ive processing and understanding of a specific...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ulb-dok.uibk.ac.at  
    Title: uibk.ac.at Melody vs  
-   Link: <a href="https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670" target="_blank" rel="noopener noreferrer nofollow">https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lyrics: Unraveling their Impact on Emotional...In a cross cultural study, Barradas and. Sakka (2021) explored the impact of lyrics on ar...</p></details>
+   Link:<a href="https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670" target="_blank" rel="noopener noreferrer nofollow">https://ulb-dok.uibk.ac.at/ulbtirolhs/download/pdf/10309670</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lyrics: Unraveling their Impact on Emotional...In a cross cultural study, Barradas and. Sakka (2021) explored the impact of lyrics on ar...</p></details>

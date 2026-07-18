@@ -274,14 +274,14 @@ image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_t
 
 ## Introduction
 
-DJ performances create a royalty problem that traditional music reporting systems were never designed to solve. A typical live band performs a relatively fixed set of songs that can be listed and reported afterwards. A DJ, by contrast, may play dozens of recordings in a single set, blend tracks together, use only fragments of songs, switch rapidly between versions, and incorporate remixes, edits and mashups that do not appear neatly in rights databases. As a result, collecting societies often know that music was played in a licensed venue but struggle to identify exactly which recordings and compositions generated the performance income. When [identification]({{ 'identification/' | relative_url }}) fails, [royalties]({{ 'royalties/' | relative_url }}) can be delayed, distributed using estimates, or paid to the wrong creators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
+DJ performances create a royalty problem that traditional music reporting systems were never designed to solve. A typical live band performs a relatively fixed set of songs that can be listed and reported afterwards. A DJ, by contrast, may play dozens of recordings in a single set, blend tracks together, use only fragments of songs, switch rapidly between versions, and incorporate remixes, edits and mashups that do not appear neatly in rights databases. As a result, collecting societies often know that music was played in a licensed venue but struggle to identify exactly which recordings and compositions generated the performance income. When [identification]({{ 'identification/' | relative_url }}) fails, [royalties]({{ 'royalties/' | relative_url }}) can be delayed, distributed using estimates, or paid to the wrong creators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-1-dark.svg" | relative_url }}" alt="DJ Sets illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This challenge sits at the heart of music metadata. DJ [culture]({{ 'culture/' | relative_url }}) depends on recordings made by other artists, so accurate payment relies on accurate track identification. The more complex the set, the harder it becomes to connect a real-world performance to the writers, publishers, performers and [rights]({{ 'rights/' | relative_url }}) holders who should be paid.
 
 ## Why DJ track use is harder to report
 
-The basic royalty principle is straightforward: music is performed publicly, a venue licence generates royalty income, and that income should flow to the creators whose music was used. The difficulty lies in proving what was actually played. PRS for Music states that DJ royalties can only be paid correctly when accurate set lists are supplied by DJs or venue operators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
+The basic royalty principle is straightforward: music is performed publicly, a venue licence generates royalty income, and that income should flow to the creators whose music was used. The difficulty lies in proving what was actually played. PRS for Music states that DJ royalties can only be paid correctly when accurate set lists are supplied by DJs or venue operators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
 
 Unlike a concert setlist, a DJ performance often contains:
 
@@ -296,7 +296,7 @@ Unlike a concert setlist, a DJ performance often contains:
 
 </div>
 
-A two-hour club set can easily contain more than fifty individual recordings. Identifying every one of them manually requires significant effort, and many DJs historically have not submitted detailed track reports. Even where reporting systems exist, participation rates can be low. APRA AMCOS, for example, encourages DJs to submit performance reports detailing what they played, precisely because payment depends on that information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apraamcos.com.au/resources/get-paid/how-to-get-paid-as-a-dance-and-electronic-writer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apraamcos.com.au">[APRA AMCOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apraamcos.com.au</span><span class="citation-popover-snippet">APRA AMCOSHow to get paid as a dance and electronic writerIf you are a DJ, you need to complete Performance Reports to get paid for playi...</span></span></span>
+A two-hour club set can easily contain more than fifty individual recordings. Identifying every one of them manually requires significant effort, and many DJs historically have not submitted detailed track reports. Even where reporting systems exist, participation rates can be low. APRA AMCOS, for example, encourages DJs to submit performance reports detailing what they played, precisely because payment depends on that information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apraamcos.com.au/resources/get-paid/how-to-get-paid-as-a-dance-and-electronic-writer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apraamcos.com.au">[APRA AMCOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apraamcos.com.au</span><span class="citation-popover-snippet">APRA AMCOSHow to get paid as a dance and electronic writerIf you are a DJ, you need to complete Performance Reports to get paid for playi...</span></span></span>
 
 The result is a gap between licensed music use and documented music use. A venue may have paid for the legal right to host a DJ event, yet the royalty system may still lack enough information to determine who deserves the money.
 
@@ -308,12 +308,12 @@ This creates two matching problems.
 
 ### Which recording was actually played?
 
-An International Standard [Recording]({{ 'recording/' | relative_url }}) Code (ISRC) identifies a specific recording rather than the underlying song. A DJ may play a remix that shares elements with the original work but has its own recording identity and royalty implications. If a report simply lists a song title, the system may not know which version generated the performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/musicmetadata101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">Music Metadata 101: Why Music Metadata MattersLearn how complete music metadata is essential for royalties, credits, sync licens...</span></span></span>
+An International Standard [Recording]({{ 'recording/' | relative_url }}) Code (ISRC) identifies a specific recording rather than the underlying song. A DJ may play a remix that shares elements with the original work but has its own recording identity and royalty implications. If a report simply lists a song title, the system may not know which version generated the performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/musicmetadata101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">Music Metadata 101: Why Music Metadata MattersLearn how complete music metadata is essential for royalties, credits, sync licens...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-2-dark.svg" | relative_url }}" alt="DJ Sets illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Was the song played long enough to identify?
 
-Many DJ transitions involve only short excerpts. Tracks may be layered together, filtered, sped up, slowed down or heavily processed. Traditional reporting systems often relied on manually supplied information rather than direct audio analysis, making accurate identification difficult when songs appeared only briefly or in altered form. Electronic dance music presents particularly complex metadata challenges because of its extensive remix culture and live performance practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Music Streaming Metadata Mapping ReportDJ-writers: complexity in creation and release process. Electronic Dance Music (EDM) presents...</span></span></span>
+Many DJ transitions involve only short excerpts. Tracks may be layered together, filtered, sped up, slowed down or heavily processed. Traditional reporting systems often relied on manually supplied information rather than direct audio analysis, making accurate identification difficult when songs appeared only briefly or in altered form. Electronic dance music presents particularly complex metadata challenges because of its extensive remix culture and live performance practices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Music Streaming Metadata Mapping ReportDJ-writers: complexity in creation and release process. Electronic Dance Music (EDM) presents...</span></span></span>
 
 Mashups add another complication. One performance segment might contain elements from multiple compositions and recordings simultaneously. Determining how royalties should be divided requires accurate identification before ownership questions can even be addressed.
 
@@ -321,9 +321,9 @@ Mashups add another complication. One performance segment might contain elements
 
 When detailed track-level information is unavailable, collecting societies and distributors still need a way to allocate money. Historically, many systems have relied on sampling, extrapolation and proxy data rather than comprehensive reporting.
 
-This approach emerged because gathering complete information from every club, festival and DJ set was impractical. However, proxy methods can favour music that is already heavily represented in mainstream datasets. Electronic music advocates have argued that this can disadvantage underground genres whose tracks rarely appear in radio playlists or other commonly sampled sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Approximately £11.25 million is generated annually from UK electronic music events, with £8.89 million available for distribution after c...</span></span></span>
+This approach emerged because gathering complete information from every club, festival and DJ set was impractical. However, proxy methods can favour music that is already heavily represented in mainstream datasets. Electronic music advocates have argued that this can disadvantage underground genres whose tracks rarely appear in radio playlists or other commonly sampled sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Approximately £11.25 million is generated annually from UK electronic music events, with £8.89 million available for distribution after c...</span></span></span>
 
-The problem becomes especially visible in club culture. Fair Play research cited by industry reporting estimated that large amounts of nightclub royalty revenue may be misallocated because track-level reporting remains incomplete across much of the sector. The same reporting highlighted that music recognition technologies and detailed DJ tracklists are substantially more accurate than broad estimation methods, but remain far from universal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Approximately £11.25 million is generated annually from UK electronic music events, with £8.89 million available for distribution after c...</span></span></span>
+The problem becomes especially visible in club culture. Fair Play research cited by industry reporting estimated that large amounts of nightclub royalty revenue may be misallocated because track-level reporting remains incomplete across much of the sector. The same reporting highlighted that music recognition technologies and detailed DJ tracklists are substantially more accurate than broad estimation methods, but remain far from universal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Approximately £11.25 million is generated annually from UK electronic music events, with £8.89 million available for distribution after c...</span></span></span>
 
 The debate is not merely administrative. When a producer's track becomes a club favourite yet is never properly reported, the creator may receive little or no share of the performance income generated by its popularity.
 
@@ -333,9 +333,9 @@ The debate is not merely administrative. When a producer's track becomes a club 
 
 The industry has increasingly turned towards automated identification systems designed specifically for DJ environments. Rather than relying entirely on manual reporting, these systems analyse audio and compare it against databases of recordings.
 
-PRS for Music works with DJ Monitor to collect music usage data from venues and events in order to improve royalty calculations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
+PRS for Music works with DJ Monitor to collect music usage data from venues and events in order to improve royalty calculations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
 
-Similar initiatives have expanded internationally. DJ Monitor's technology has been adopted in clubs and festivals to identify tracks and improve reporting to collecting societies. Industry organisations promoting KUVO-powered monitoring systems argue that better identification can support fairer royalty distribution for producers and songwriters whose music drives nightlife culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://djmonitor.com/inTheMedia/ParoolDJMonitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: djmonitor.com">[djmonitor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">djmonitor.com</span><span class="citation-popover-snippet">The Amsterdam-based company DJ Monitor is...Read more...</span></span></span> AlphaTheta Newer recognition systems are also being developed to identify tracks that are mixed <span class="citation-chip-wrap"><a class="citation-chip" href="https://alphatheta.com/en/information/djs-and-clubs-back-kuvo-powered-by-dj-monitor-for-fair-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphatheta.com">[alphatheta.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphatheta.com</span><span class="citation-popover-title">djs and clubs back kuvo powered by dj monitor for fair royalties</span><span class="citation-popover-snippet">For too...Read more...</span></span></span>, sampled or only partially played, addressing some of the weaknesses of older reporting approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://audoo.com/technology/dj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audoo.com">[Audoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audoo.com</span><span class="citation-popover-snippet">DJ RecognitionAudoo&#x27;s DJ Monitoring solution ensures every track – whether played in full, mixed, or sampled – is identified and rep...</span></span></span>
+Similar initiatives have expanded internationally. DJ Monitor's technology has been adopted in clubs and festivals to identify tracks and improve reporting to collecting societies. Industry organisations promoting KUVO-powered monitoring systems argue that better identification can support fairer royalty distribution for producers and songwriters whose music drives nightlife culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://djmonitor.com/inTheMedia/ParoolDJMonitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: djmonitor.com">[djmonitor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">djmonitor.com</span><span class="citation-popover-snippet">The Amsterdam-based company DJ Monitor is...Read more...</span></span></span> AlphaTheta Newer recognition systems are also being developed to identify tracks that are mixed<span class="citation-chip-wrap"><a class="citation-chip" href="https://alphatheta.com/en/information/djs-and-clubs-back-kuvo-powered-by-dj-monitor-for-fair-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alphatheta.com">[alphatheta.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alphatheta.com</span><span class="citation-popover-title">djs and clubs back kuvo powered by dj monitor for fair royalties</span><span class="citation-popover-snippet">For too...Read more...</span></span></span>, sampled or only partially played, addressing some of the weaknesses of older reporting approaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://audoo.com/technology/dj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audoo.com">[Audoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audoo.com</span><span class="citation-popover-snippet">DJ RecognitionAudoo&#x27;s DJ Monitoring solution ensures every track – whether played in full, mixed, or sampled – is identified and rep...</span></span></span>
 
 The key benefit is not merely automation. Better tracklists create a direct connection between performance data and rights ownership data. Once a recording can be identified accurately, royalty systems can attempt to match it to the correct songwriters, publishers, performers and recording owners. Without that first identification step, the payment chain often breaks before royalties reach the people who earned them.
 
@@ -345,199 +345,199 @@ Many discussions about DJ royalties focus on [licensing]({{ 'licensing/' | relat
 
 That is why DJ performances remain one of the clearest examples of metadata determining who gets paid. Every unidentified remix, missing tracklist entry, unnamed edit or incomplete performance report creates uncertainty. Every accurate identification strengthens the connection between music usage and creator payment.
 
-For live bands, the reporting challenge is often documenting a set of songs. For DJs, the challenge is documenting an evolving stream of recordings, versions, samples and blends. The complexity of that task explains why DJ sets have historically been difficult to convert into accurate royalties—and why improvements in track identification technology have become increasingly important to the music economy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
+For live bands, the reporting challenge is often documenting a set of songs. For DJs, the challenge is documenting an evolving stream of recordings, versions, samples and blends. The complexity of that task explains why DJ sets have historically been difficult to convert into accurate royalties—and why improvements in track identification technology have become increasingly important to the music economy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-3-dark.svg" | relative_url }}" alt="DJ Sets illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why DJ royalties are so hard to trace. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why DJ royalties are so hard to trace. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Provides the legal and royalty framework behind performance payments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the legal and royalty framework behind performance payments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dance music manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9171230-M.jpg" alt="Cover for Dance music manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dance music manual">Dance music manual</a>
-        </h4>
-        <p class="fr-book-author">By Rick Snoman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dance music manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9171230-M.jpg" alt="Cover for Dance music manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dance music manual">Dance music manual</a>
+</h4>
+<p class="fr-book-author">By Rick Snoman</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Remixing, Electronic composition, Electronic dance music, Sound recordings, Instruction and study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Remixing, Electronic composition, Electronic dance music, Sound recordings, Instruction and study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Publishing -- the Complete Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Publishing -- the Complete Guide">Music Publishing -- the Complete Guide</a>
-        </h4>
-        <p class="fr-book-author">By Steve Winogradsky, David Lowery</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Publishing -- the Complete Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Publishing -- the Complete Guide">Music Publishing -- the Complete Guide</a>
+</h4>
+<p class="fr-book-author">By Steve Winogradsky, David Lowery</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dance+music+manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dance music manual</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dance+music+manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dance music manual</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yaowanguan DJ Controller Case"><img src="https://i.ebayimg.com/images/g/xNYAAeSwW6Jn5GWz/s-l225.jpg" alt="Listing image for Yaowanguan DJ Controller Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">Yaowanguan DJ Controller Case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search <span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yaowanguan DJ Controller Case"><img src="https://i.ebayimg.com/images/g/xNYAAeSwW6Jn5GWz/s-l225.jpg" alt="Listing image for Yaowanguan DJ Controller Case" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">Yaowanguan DJ Controller Case</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search<span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Controller Carry Case for Pioneer DDJ FLX4/400/SB2/SB3 Padded Storage Bag"><img src="https://i.ebayimg.com/images/g/L-IAAeSwRqppwVeP/s-l225.jpg" alt="Listing image for DJ Controller Carry Case for Pioneer DDJ FLX4/400/SB2/SB3 Padded Storage Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">DJ Controller Carry Case for Pioneer DDJ FLX4/400/SB2/SB3 Padded Storage Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search <span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Controller Carry Case for Pioneer DDJ FLX4/400/SB2/SB3 Padded Storage Bag"><img src="https://i.ebayimg.com/images/g/L-IAAeSwRqppwVeP/s-l225.jpg" alt="Listing image for DJ Controller Carry Case for Pioneer DDJ FLX4/400/SB2/SB3 Padded Storage Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">DJ Controller Carry Case for Pioneer DDJ FLX4/400/SB2/SB3 Padded Storage Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search<span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Controller Case bag For Pioneer DDJ-400 DDJ-FLX4/Roland DJ-202 Disc Player"><img src="https://i.ebayimg.com/images/g/47QAAeSwPHFpO7Pa/s-l225.jpg" alt="Listing image for DJ Controller Case bag For Pioneer DDJ-400 DDJ-FLX4/Roland DJ-202 Disc Player" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">DJ Controller Case bag For Pioneer DDJ-400 DDJ-FLX4/Roland DJ-202 Disc Player</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search <span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Controller Case bag For Pioneer DDJ-400 DDJ-FLX4/Roland DJ-202 Disc Player"><img src="https://i.ebayimg.com/images/g/47QAAeSwPHFpO7Pa/s-l225.jpg" alt="Listing image for DJ Controller Case bag For Pioneer DDJ-400 DDJ-FLX4/Roland DJ-202 Disc Player" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">DJ Controller Case bag For Pioneer DDJ-400 DDJ-FLX4/Roland DJ-202 Disc Player</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search<span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Controller Case For Compact Controller - @Reloop"><img src="https://i.ebayimg.com/images/g/6zAAAeSwcgFqHFUC/s-l225.jpg" alt="Listing image for DJ Controller Case For Compact Controller - @Reloop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">DJ Controller Case For Compact Controller - @Reloop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search <span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Controller Case For Compact Controller - @Reloop"><img src="https://i.ebayimg.com/images/g/6zAAAeSwcgFqHFUC/s-l225.jpg" alt="Listing image for DJ Controller Case For Compact Controller - @Reloop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">DJ Controller Case For Compact Controller - @Reloop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for DJ controller case">Search<span data-ebay-domain-label>eBay.co.uk</span>: DJ controller case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=DJ+controller+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dj-royalties-are-so-hard-to-trace-dj-controller-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="DJ controller case" data-ebay-reference="why-dj-royalties-are-so-hard-to-trace-dj-controller-case" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ For live bands, the reporting challenge is often documenting a set of songs. For
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ For live bands, the reporting challenge is often documenting a set of songs. For
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ For live bands, the reporting challenge is often documenting a set of songs. For
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ For live bands, the reporting challenge is often documenting a set of songs. For
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ For live bands, the reporting challenge is often documenting a set of songs. For
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,117 +743,117 @@ For live bands, the reporting challenge is often documenting a set of songs. For
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: apraamcos.com.au  
-   Link: <a href="https://www.apraamcos.com.au/resources/get-paid/how-to-get-paid-as-a-dance-and-electronic-writer" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/resources/get-paid/how-to-get-paid-as-a-dance-and-electronic-writer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APRA AMCOSHow to get paid as a dance and electronic writerIf you are a DJ, you need to complete Performance Reports to get paid for playi...</p></details>
+   Link:<a href="https://www.apraamcos.com.au/resources/get-paid/how-to-get-paid-as-a-dance-and-electronic-writer" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/resources/get-paid/how-to-get-paid-as-a-dance-and-electronic-writer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APRA AMCOSHow to get paid as a dance and electronic writerIf you are a DJ, you need to complete Performance Reports to get paid for playi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: revelator.com  
-   Link: <a href="https://revelator.com/blog/musicmetadata101" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/musicmetadata101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Metadata 101: Why Music Metadata MattersLearn how complete music metadata is essential for royalties, credits, sync licens...</p></details>
+   Link:<a href="https://revelator.com/blog/musicmetadata101" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/musicmetadata101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Metadata 101: Why Music Metadata MattersLearn how complete music metadata is essential for royalties, credits, sync licens...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Metadata Mapping ReportDJ-writers: complexity in creation and release process. Electronic Dance Music (EDM) presents...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6575858.pdf?abstractid=6575858&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Metadata Mapping ReportDJ-writers: complexity in creation and release process. Electronic Dance Music (EDM) presents...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: musicradar.com  
-   Link: <a href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Approximately £11.25 million is generated annually from UK electronic music events, with £8.89 million available for distribution after c...</p></details>
+   Link:<a href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Approximately £11.25 million is generated annually from UK electronic music events, with £8.89 million available for distribution after c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: djmonitor.com  
-   Link: <a href="https://djmonitor.com/inTheMedia/ParoolDJMonitor" target="_blank" rel="noopener noreferrer nofollow">https://djmonitor.com/inTheMedia/ParoolDJMonitor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Amsterdam-based company DJ Monitor is...Read more...</p></details>
+   Link:<a href="https://djmonitor.com/inTheMedia/ParoolDJMonitor" target="_blank" rel="noopener noreferrer nofollow">https://djmonitor.com/inTheMedia/ParoolDJMonitor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Amsterdam-based company DJ Monitor is...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: alphatheta.com  
    Title: djs and clubs back kuvo powered by dj monitor for fair royalties  
-   Link: <a href="https://alphatheta.com/en/information/djs-and-clubs-back-kuvo-powered-by-dj-monitor-for-fair-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://alphatheta.com/en/information/djs-and-clubs-back-kuvo-powered-by-dj-monitor-for-fair-royalties/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For too...Read more...</p></details>
+   Link:<a href="https://alphatheta.com/en/information/djs-and-clubs-back-kuvo-powered-by-dj-monitor-for-fair-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://alphatheta.com/en/information/djs-and-clubs-back-kuvo-powered-by-dj-monitor-for-fair-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For too...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: audoo.com  
-   Link: <a href="https://audoo.com/technology/dj" target="_blank" rel="noopener noreferrer nofollow">https://audoo.com/technology/dj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DJ RecognitionAudoo&#x27;s DJ Monitoring solution ensures every track – whether played in full, mixed, or sampled – is identified and rep...</p></details>
+   Link:<a href="https://audoo.com/technology/dj" target="_blank" rel="noopener noreferrer nofollow">https://audoo.com/technology/dj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DJ RecognitionAudoo&#x27;s DJ Monitoring solution ensures every track – whether played in full, mixed, or sampled – is identified and rep...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kuvo.com  
-   Link: <a href="https://kuvo.com/partnership-with-djmonitor/" target="_blank" rel="noopener noreferrer nofollow">https://kuvo.com/partnership-with-djmonitor/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ed. The data is never shared publicly without consent and...Read more...</p></details>
+   Link:<a href="https://kuvo.com/partnership-with-djmonitor/" target="_blank" rel="noopener noreferrer nofollow">https://kuvo.com/partnership-with-djmonitor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed. The data is never shared publicly without consent and...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicDJ royaltiesWe pay royalties for music that&#x27;s played by DJs at licensed venues and festivals. We&#x27;re able to pay these royalt...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/what-we-do/who-we-work-with/dj-monitor" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/who-we-work-with/dj-monitor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicDJ MonitorThe music data that is provided to PRS and PPL is used to calculate accurate royalties and doesn&#x27;t impact public p...</p></details>
+   Link:<a href="https://www.prsformusic.com/what-we-do/who-we-work-with/dj-monitor" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/who-we-work-with/dj-monitor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicDJ MonitorThe music data that is provided to PRS and PPL is used to calculate accurate royalties and doesn&#x27;t impact public p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: royalties, music copyright and licensingWe license the use of our members&#x27; music by businesses, online, in broadcasts and...</p></details>
+   Link:<a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: royalties, music copyright and licensingWe license the use of our members&#x27; music by businesses, online, in broadcasts and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prsformusic.com  
    Title: how to understanding [publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;) rights  
-   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to... understanding publishing rights14 May 2021 — Essentially, an MCPS royalty is generated every time your music is reproduced and...</p></details>
+   Link:<a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to... understanding publishing rights14 May 2021 — Essentially, an MCPS royalty is generated every time your music is reproduced and...</p></details>
    Published: May 2021  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ekko.nl  
-   Link: <a href="https://ekko.nl/wp-content/uploads/2024/04/Artist_DJ_Agent-KUVO-info-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ekko.nl/wp-content/uploads/2024/04/Artist_DJ_Agent-KUVO-info-sheet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Empowering Music Through DataKUVO powered by DJ Monitor is a positive, creator-supporting initiative for club track identification for ro...</p></details>
+   Link:<a href="https://ekko.nl/wp-content/uploads/2024/04/Artist_DJ_Agent-KUVO-info-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ekko.nl/wp-content/uploads/2024/04/Artist_DJ_Agent-KUVO-info-sheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Empowering Music Through DataKUVO powered by DJ Monitor is a positive, creator-supporting initiative for club track identification for ro...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: alibimusic.com  
-   Link: <a href="https://alibimusic.com/blog/frequently-asked-questions-music-licensing?srsltid=AfmBOoqnp4hFJnYtUy-4p0I9TEWBsT0EFgDSabQxms9vAsaXhTWJdqav" target="_blank" rel="noopener noreferrer nofollow">https://alibimusic.com/blog/frequently-asked-questions-music-licensing?srsltid=AfmBOoqnp4hFJnYtUy-4p0I9TEWBsT0EFgDSabQxms9vAsaXhTWJdqav</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions – Music LicensingGeneral Music Licensing Questions. What is music licensing? Music licensing is obtaining lega...</p></details>
+   Link:<a href="https://alibimusic.com/blog/frequently-asked-questions-music-licensing?srsltid=AfmBOoqnp4hFJnYtUy-4p0I9TEWBsT0EFgDSabQxms9vAsaXhTWJdqav" target="_blank" rel="noopener noreferrer nofollow">https://alibimusic.com/blog/frequently-asked-questions-music-licensing?srsltid=AfmBOoqnp4hFJnYtUy-4p0I9TEWBsT0EFgDSabQxms9vAsaXhTWJdqav</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions – Music LicensingGeneral Music Licensing Questions. What is music licensing? Music licensing is obtaining lega...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jcbarat_the-opacity-of-music-royalties-isnt-a-tooling-activity-7459301240020234240-AOyD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jcbarat_the-opacity-of-music-royalties-isnt-a-tooling-activity-7459301240020234240-AOyD</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties Data Infrastructure ProblemThis tool allows rights holders to upload music that creators can use while sharing in monetis...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jcbarat_the-opacity-of-music-royalties-isnt-a-tooling-activity-7459301240020234240-AOyD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jcbarat_the-opacity-of-music-royalties-isnt-a-tooling-activity-7459301240020234240-AOyD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties Data Infrastructure ProblemThis tool allows rights holders to upload music that creators can use while sharing in monetis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/488915331311641/posts/1912478332288660/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/488915331311641/posts/1912478332288660/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music licensing for stage showsFor pre-show, intermission, and post-show, ASCAP and BMI licenses will cover it. During a scene though, it...</p></details>
+   Link:<a href="https://www.facebook.com/groups/488915331311641/posts/1912478332288660/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/488915331311641/posts/1912478332288660/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music licensing for stage showsFor pre-show, intermission, and post-show, ASCAP and BMI licenses will cover it. During a scene though, it...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tracklib.com  
-   Link: <a href="https://www.tracklib.com/blog/music-[clearance" target="_blank" rel="noopener noreferrer nofollow">https://www.tracklib.com/blog/music-[clearance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Clearance Demystified: How to Clear a SampleThis in-depth guide walks you through the maze of clearing samples, licensing, and wha...</p></details>
+   Link:<a href="https://www.tracklib.com/blog/music-[clearance" target="_blank" rel="noopener noreferrer nofollow">https://www.tracklib.com/blog/music-[clearance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Clearance Demystified: How to Clear a SampleThis in-depth guide walks you through the maze of clearing samples, licensing, and wha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Only 28% of fees paid by UK nightclubs are being correctly distributed to the creators of the music being played. This issue arises becau...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing</a>  
+   Link:<a href="https://www.bmi.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xd--Phwhw50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xd--Phwhw50</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing Made SIMPLE For DJs and Producers!This is a follow-up to my YouTube short about the different types of music liceses that...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xd--Phwhw50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xd--Phwhw50</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing Made SIMPLE For DJs and Producers!This is a follow-up to my YouTube short about the different types of music liceses that...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cisac.org  
    Title: prs press release ice and soundcloud reach multi territory licensing  
-   Link: <a href="https://www.cisac.org/Newsroom/society-news/prs-press-release-ice-and-soundcloud-reach-multi-territory-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-press-release-ice-and-soundcloud-reach-multi-territory-licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS press release: ICE and SoundCloud Reach a Multi-...1 Nov 2016 — It now offers its users the functionality to add a wide range of ind...</p></details>
+   Link:<a href="https://www.cisac.org/Newsroom/society-news/prs-press-release-ice-and-soundcloud-reach-multi-territory-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-press-release-ice-and-soundcloud-reach-multi-territory-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS press release: ICE and SoundCloud Reach a Multi-...1 Nov 2016 — It now offers its users the functionality to add a wide range of ind...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: streamify.ch  
-   Link: <a href="https://streamify.ch/audio-recognition-live-dj-sets/" target="_blank" rel="noopener noreferrer nofollow">https://streamify.ch/audio-recognition-live-dj-sets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streamify&#x27;s advanced DJ Monitoring system identifies every track — whether played in full...Read more...</p></details>
+   Link:<a href="https://streamify.ch/audio-recognition-live-dj-sets/" target="_blank" rel="noopener noreferrer nofollow">https://streamify.ch/audio-recognition-live-dj-sets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streamify&#x27;s advanced DJ Monitoring system identifies every track — whether played in full...Read more...</p></details>

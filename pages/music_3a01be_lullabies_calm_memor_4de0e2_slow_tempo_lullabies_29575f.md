@@ -273,223 +273,223 @@ Across cultures and ages, [lullabies]({{ 'lullabies/' | relative_url }}) tend to
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-1-dark.svg" | relative_url }}" alt="Slow Tempo illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How tempo shapes arousal
 
-Tempo, measured in beats per minute (BPM), is one of the strongest acoustic cues for emotional and physiological state in music. Across musical genres and cultures, **faster tempos are statistically linked with heightened arousal** (e.g., excitement, movement), while **slower tempos tend to signal restfulness and low energy**. In research contexts outside lullabies, slow musical rates are associated with perceptions of sadness or calm because they mirror the slower bodily rhythms of restful states (resting heart rate, slower movement) compared with fast, active states. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027700001360" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A developmental study of the affective value of tempo and mode in music - ScienceDirectJuly 1, 2001...</span><span class="citation-popover-meta">Published: July 1, 2001</span></span></span>
+Tempo, measured in beats per minute (BPM), is one of the strongest acoustic cues for emotional and physiological state in music. Across musical genres and cultures, **faster tempos are statistically linked with heightened arousal** (e.g., excitement, movement), while **slower tempos tend to signal restfulness and low energy**. In research contexts outside lullabies, slow musical rates are associated with perceptions of sadness or calm because they mirror the slower bodily rhythms of restful states (resting heart rate, slower movement) compared with fast, active states.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027700001360" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A developmental study of the affective value of tempo and mode in music - ScienceDirectJuly 1, 2001...</span><span class="citation-popover-meta">Published: July 1, 2001</span></span></span>
 
-When applied to infantdirected singing, this general principle appears in a specific, functional form: lullabies universally display **reduced tempos compared with other song types** (e.g., play songs), creating fewer rapid acoustic events for the nervous system to process. In the laboratory, infants exposed to lullabies featuring slower pacing showed **reduced physiological markers of arousal**  slower heart rate, smaller pupil dilation, and attenuated electrodermal activity  compared with nonlullabies, even when the music was unfamiliar and in an unknown language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCInfants relax in response to unfamiliar foreign lullabies</span></span></span>
+When applied to infantdirected singing, this general principle appears in a specific, functional form: lullabies universally display **reduced tempos compared with other song types** (e.g., play songs), creating fewer rapid acoustic events for the nervous system to process. In the laboratory, infants exposed to lullabies featuring slower pacing showed **reduced physiological markers of arousal**  slower heart rate, smaller pupil dilation, and attenuated electrodermal activity  compared with nonlullabies, even when the music was unfamiliar and in an unknown language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCInfants relax in response to unfamiliar foreign lullabies</span></span></span>
 
-This calming effect does not simply reflect [attention]({{ 'attention/' | relative_url }}): research has shown that it persists alongside measures of engagement, suggesting **reduced autonomic arousal** rather than mere distraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe audio features of sleep music: Universal and subgroup characteristics</span><span class="citation-popover-snippet">January 18, 2023...</span><span class="citation-popover-meta">Published: January 18, 2023</span></span></span>
+This calming effect does not simply reflect [attention]({{ 'attention/' | relative_url }}): research has shown that it persists alongside measures of engagement, suggesting **reduced autonomic arousal** rather than mere distraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe audio features of sleep music: Universal and subgroup characteristics</span><span class="citation-popover-snippet">January 18, 2023...</span><span class="citation-popover-meta">Published: January 18, 2023</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-2-dark.svg" | relative_url }}" alt="Slow Tempo illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Soft dynamics and fewer surprises
 
-Slow tempo in lullabies rarely occurs in isolation. It typically comes with **smooth phrasing, elongated pauses, and minimal rhythmic complexity**. Acoustic analyses of infantdirected singing show that compared with the same performers adultdirected songs, lullabies are slower and include **lengthened interphrase pauses and reduced rhythmic accents**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027700001360" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A developmental study of the affective value of tempo and mode in music - ScienceDirectJuly 1, 2001...</span><span class="citation-popover-meta">Published: July 1, 2001</span></span></span>
+Slow tempo in lullabies rarely occurs in isolation. It typically comes with **smooth phrasing, elongated pauses, and minimal rhythmic complexity**. Acoustic analyses of infantdirected singing show that compared with the same performers adultdirected songs, lullabies are slower and include **lengthened interphrase pauses and reduced rhythmic accents**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027700001360" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A developmental study of the affective value of tempo and mode in music - ScienceDirectJuly 1, 2001...</span><span class="citation-popover-meta">Published: July 1, 2001</span></span></span>
 
-Why does this matter? The nervous system is constantly predicting sensory input; rapid or irregular events increase the brains processing load and can raise arousal. In contrast, **slow, predictable patterns reduce the number of surprises the listener must track**, leading to a quieter, more stable auditory environment. This predictability aligns with broader evidence that music with **simple rhythms and gentle dynamics** is more likely to facilitate relaxation and sleep, partly through physiological entrainment  where slower external beats can align with slower internal rhythms like heart rate and respiration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCInfants relax in response to unfamiliar foreign lullabies</span></span></span>
+Why does this matter? The nervous system is constantly predicting sensory input; rapid or irregular events increase the brains processing load and can raise arousal. In contrast, **slow, predictable patterns reduce the number of surprises the listener must track**, leading to a quieter, more stable auditory environment. This predictability aligns with broader evidence that music with **simple rhythms and gentle dynamics** is more likely to facilitate relaxation and sleep, partly through physiological entrainment  where slower external beats can align with slower internal rhythms like heart rate and respiration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">PMCInfants relax in response to unfamiliar foreign lullabies</span></span></span>
 
 For infants in particular, slower, steady tempos may reduce the cognitive load of parsing sound patterns, supporting **a transition from alertness toward rest** because the auditory input itself demands less processing and creates a more uniform, soothing temporal structure.
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-3-dark.svg" | relative_url }}" alt="Slow Tempo illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What parents can hear in practice
 
-In real caregiving contexts, the use of slow tempo in lullabies is both **intuitive and functional**. Caregivers naturally slow their pacing  not only in tempo but in vocal dynamics and phrasing  when soothing a distressed infant, and this pattern appears across cultures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe audio features of sleep music: Universal and subgroup characteristics</span><span class="citation-popover-snippet">January 18, 2023...</span><span class="citation-popover-meta">Published: January 18, 2023</span></span></span>
+In real caregiving contexts, the use of slow tempo in lullabies is both **intuitive and functional**. Caregivers naturally slow their pacing  not only in tempo but in vocal dynamics and phrasing  when soothing a distressed infant, and this pattern appears across cultures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe audio features of sleep music: Universal and subgroup characteristics</span><span class="citation-popover-snippet">January 18, 2023...</span><span class="citation-popover-meta">Published: January 18, 2023</span></span></span>
 
-Practically, slower tempos around **6080 BPM** (beats per minute) are frequently observed in traditional lullabies and recommended for sleepinducing music playlists. This range sits near typical resting heart rates and may help align the listeners physiology with the calm state that the music is signalling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicscientist.com">[The Music Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicscientist.com</span><span class="citation-popover-snippet">The Music ScientistThe Science of Lullabies: How Slower BPMs Aid Your Child&#x27;s Sleep - Music Enrichment School Singapore &#124; The Music Scien...</span></span></span>
+Practically, slower tempos around **6080 BPM** (beats per minute) are frequently observed in traditional lullabies and recommended for sleepinducing music playlists. This range sits near typical resting heart rates and may help align the listeners physiology with the calm state that the music is signalling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicscientist.com">[The Music Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicscientist.com</span><span class="citation-popover-snippet">The Music ScientistThe Science of Lullabies: How Slower BPMs Aid Your Child&#x27;s Sleep - Music Enrichment School Singapore &#124; The Music Scien...</span></span></span>
 
-Caregivers often experience the effects firsthand: slow, steady singing or humming matched with gentle rocking can **coregulate infant arousal**, making it easier for both baby and adult to settle. Over time, infants may come to **associate the slow rhythmic pattern with safety and sleep**, reinforcing the calming effect even when the caregiver is not present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/u_HatchforBabySleep/comments/1qb8dl7/creating_calm_how_hatch_lullabies_support_baby/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Creating Calm: How Hatch Lullabies Support Baby Sleep at Every Stage</span><span class="citation-popover-snippet">Creating Calm: How Hatch Lullabies Support Baby Sleep at Every StageJanuary 12, 2026...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
+Caregivers often experience the effects firsthand: slow, steady singing or humming matched with gentle rocking can **coregulate infant arousal**, making it easier for both baby and adult to settle. Over time, infants may come to **associate the slow rhythmic pattern with safety and sleep**, reinforcing the calming effect even when the caregiver is not present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/u_HatchforBabySleep/comments/1qb8dl7/creating_calm_how_hatch_lullabies_support_baby/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Creating Calm: How Hatch Lullabies Support Baby Sleep at Every Stage</span><span class="citation-popover-snippet">Creating Calm: How Hatch Lullabies Support Baby Sleep at Every StageJanuary 12, 2026...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
 
 ## Summary
 
-The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism that supports calm**. By pacing musical events more slowly, reducing abrupt changes, and aligning with bodies resting rhythms, lullabies create a predictable, lowarousal acoustic context. This tempobased calming signal helps babies (and often adults) regulate physiology  from heart rate to breathing  and supports the transition to sleep and relaxation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC6446122</span><span class="citation-popover-snippet">For example, preterm infants and term born neonates entrain to live-sung consonant lullabies, inc</span></span></span>
+The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism that supports calm**. By pacing musical events more slowly, reducing abrupt changes, and aligning with bodies resting rhythms, lullabies create a predictable, lowarousal acoustic context. This tempobased calming signal helps babies (and often adults) regulate physiology  from heart rate to breathing  and supports the transition to sleep and relaxation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC6446122</span><span class="citation-popover-snippet">For example, preterm infants and term born neonates entrain to live-sung consonant lullabies, inc</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Slow Lullabies Feel Calming. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Slow Lullabies Feel Calming. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains how tempo, emotion, memory, and physiology interact in music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how tempo, emotion, memory, and physiology interact in music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores music’s effects on the brain, emotion, and human behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores music’s effects on the brain, emotion, and human behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/157697-M.jpg" alt="Cover for The singing neanderthals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals">The singing neanderthals</a>
-        </h4>
-        <p class="fr-book-author">By Steven J. Mithen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/157697-M.jpg" alt="Cover for The singing neanderthals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+singing+neanderthals+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals">The singing neanderthals</a>
+</h4>
+<p class="fr-book-author">By Steven J. Mithen</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Origin, Human evolution, Psychological aspects of Music, Music, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Origin, Human evolution, Psychological aspects of Music, Music, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+singing+neanderthals+Steven+J.+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
-        </h4>
-        <p class="fr-book-author">By John Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
+</h4>
+<p class="fr-book-author">By John Powell</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse"><img src="{{ '/assets/images/marketplace-covers/b64a3bb1e3c0b1e8a08c.jpg' | relative_url }}" alt="Listing image for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse"><img src="{{ '/assets/images/marketplace-covers/b64a3bb1e3c0b1e8a08c.jpg' | relative_url }}" alt="Listing image for Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cute little girl PRINT ONLY a4 Gift Picture nursery bedroom wall art quote verse</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art"><img src="{{ '/assets/images/marketplace-covers/3ffd723e77e10ca54f2d.jpg' | relative_url }}" alt="Listing image for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art"><img src="{{ '/assets/images/marketplace-covers/3ffd723e77e10ca54f2d.jpg' | relative_url }}" alt="Listing image for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art"><img src="{{ '/assets/images/marketplace-covers/55e0ae15f78fcf36cd7d.jpg' | relative_url }}" alt="Listing image for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art"><img src="{{ '/assets/images/marketplace-covers/55e0ae15f78fcf36cd7d.jpg' | relative_url }}" alt="Listing image for SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">SunFlower Decals Car Stickers Graphics Nursery Wall Window Decorations Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room"><img src="{{ '/assets/images/marketplace-covers/7ae66a001a65912aa079.jpg' | relative_url }}" alt="Listing image for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room"><img src="{{ '/assets/images/marketplace-covers/7ae66a001a65912aa079.jpg' | relative_url }}" alt="Listing image for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="slow-tempo-why-slow-lullabies-feel-calming-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -505,7 +505,7 @@ The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -525,7 +525,7 @@ The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -557,7 +557,7 @@ The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -609,7 +609,7 @@ The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -654,7 +654,7 @@ The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -695,108 +695,108 @@ The slow tempo of lullabies is not merely an aesthetic trait but a **mechanism t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027700001360" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027700001360</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A developmental study of the affective value of tempo and mode in music - ScienceDirectJuly 1, 2001...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027700001360" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027700001360</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A developmental study of the affective value of tempo and mode in music - ScienceDirectJuly 1, 2001...</p></details>
    Published: July 1, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfants relax in response to unfamiliar foreign lullabies  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The acoustic basis of preferences for infant-directed singing  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0163638397900096" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0163638397900096</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The acoustic basis of preferences for infant-directed singing - ScienceDirectJuly 1, 1997...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0163638397900096" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0163638397900096</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The acoustic basis of preferences for infant-directed singing - ScienceDirectJuly 1, 1997...</p></details>
    Published: July 1, 1997  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe audio features of sleep music: Universal and subgroup characteristics  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 18, 2023...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9847986/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 18, 2023...</p></details>
    Published: January 18, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Creating Calm: How Hatch Lullabies Support Baby Sleep at Every Stage  
-   Link: <a href="https://www.reddit.com/r/u_HatchforBabySleep/comments/1qb8dl7/creating_calm_how_hatch_lullabies_support_baby/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/u_HatchforBabySleep/comments/1qb8dl7/creating_calm_how_hatch_lullabies_support_baby/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating Calm: How Hatch Lullabies Support Baby Sleep at Every StageJanuary 12, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/u_HatchforBabySleep/comments/1qb8dl7/creating_calm_how_hatch_lullabies_support_baby/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/u_HatchforBabySleep/comments/1qb8dl7/creating_calm_how_hatch_lullabies_support_baby/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating Calm: How Hatch Lullabies Support Baby Sleep at Every StageJanuary 12, 2026...</p></details>
    Published: January 12, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: Nonhuman primates prefer slow tempos but dislike music overall  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027706001636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027706001636</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 2007  COGNITION Volume 104, Issue 3, September 2007, Pages 654-668 Brief article Nonhuman primates prefer slow...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027706001636" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027706001636</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 2007  COGNITION Volume 104, Issue 3, September 2007, Pages 654-668 Brief article Nonhuman primates prefer slow...</p></details>
    Published: September 1, 2007  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: themusicscientist.com  
-   Link: <a href="https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Music ScientistThe Science of Lullabies: How Slower BPMs Aid Your Child&#x27;s Sleep - Music Enrichment School Singapore | The Music Scien...</p></details>
+   Link:<a href="https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://www.themusicscientist.com/the-science-of-lullabies-how-slower-bpms-aid-your-childs-sleep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Music ScientistThe Science of Lullabies: How Slower BPMs Aid Your Child&#x27;s Sleep - Music Enrichment School Singapore | The Music Scien...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - LullabiesLULLABIES * Edited by: William Forde Thompson * In:Mu...</p></details>
+   Link:<a href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - LullabiesLULLABIES * Edited by: William Forde Thompson * In:Mu...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bainbridge ORCID: orcid.org/0000-0003-3960-2845^{1}^{ na1}, * Mila Bertolo ORCID: orcid.org/0000-0002-3931-2293^{1}^{ na1}...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bainbridge ORCID: orcid.org/0000-0003-3960-2845^{1}^{ na1}, * Mila Bertolo ORCID: orcid.org/0000-0002-3931-2293^{1}^{ na1}...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2021  SOUND SLEEP: LULLABIES AS A TEST CASE FOR THE NEUROBIOLOGICAL EFFECTS OF MUSIC Published online by Cambridge Univers...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2021  SOUND SLEEP: LULLABIES AS A TEST CASE FOR THE NEUROBIOLOGICAL EFFECTS OF MUSIC Published online by Cambridge Univers...</p></details>
    Published: September 30, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kentdomombaby.com  
-   Link: <a href="https://kentdomombaby.com/blogs/baby-growth-learning/infant-lullabies-songs-sound-features-that-help-babies-settle" target="_blank" rel="noopener noreferrer nofollow">https://kentdomombaby.com/blogs/baby-growth-learning/infant-lullabies-songs-sound-features-that-help-babies-settle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infant Lullabies Songs: Sound Features That Help Babies Settle  KentDO Mom &amp; BabyDecember 25, 2025  Image: Infant Lullabies Songs: Sou...</p></details>
+   Link:<a href="https://kentdomombaby.com/blogs/baby-growth-learning/infant-lullabies-songs-sound-features-that-help-babies-settle" target="_blank" rel="noopener noreferrer nofollow">https://kentdomombaby.com/blogs/baby-growth-learning/infant-lullabies-songs-sound-features-that-help-babies-settle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infant Lullabies Songs: Sound Features That Help Babies Settle  KentDO Mom &amp; BabyDecember 25, 2025  Image: Infant Lullabies Songs: Sou...</p></details>
    Published: December 25, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: emberverse.ai  
    Title: How a Lullaby Works | Emberverse HOW A LULLABY WORKS The infant is crying  
-   Link: <a href="https://emberverse.ai/stage2/2356_how_a_lullaby_works.html" target="_blank" rel="noopener noreferrer nofollow">https://emberverse.ai/stage2/2356_how_a_lullaby_works.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The parent picks the infant up, holds it against their chest, and begins to sing. The singing is quiet, slow, rhythmically repetitive, an...</p></details>
+   Link:<a href="https://emberverse.ai/stage2/2356_how_a_lullaby_works.html" target="_blank" rel="noopener noreferrer nofollow">https://emberverse.ai/stage2/2356_how_a_lullaby_works.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The parent picks the infant up, holds it against their chest, and begins to sing. The singing is quiet, slow, rhythmically repetitive, an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/cjexp/pdf/10.1037/a0023296~examining-infants-preferences-for-tempo-in-lullabies-and" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/cjexp/pdf/10.1037/a0023296~examining-infants-preferences-for-tempo-in-lullabies-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Journal of Experimental PsychologyEXAMINING INFANTS&#x27; PREFERENCES FOR TEMPO IN LULLABIES AND PLAYSONGS * Conrad, Nicole J. * Wals...</p></details>
+   Link:<a href="https://www.ovid.com/journals/cjexp/pdf/10.1037/a0023296~examining-infants-preferences-for-tempo-in-lullabies-and" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/cjexp/pdf/10.1037/a0023296~examining-infants-preferences-for-tempo-in-lullabies-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Journal of Experimental PsychologyEXAMINING INFANTS&#x27; PREFERENCES FOR TEMPO IN LULLABIES AND PLAYSONGS * Conrad, Nicole J. * Wals...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: realitypathing.com  
    Title: Why Do Lullabies Work Best When Sung Softly  
-   Link: <a href="https://realitypathing.com/why-do-lullabies-work-best-when-sung-softly/" target="_blank" rel="noopener noreferrer nofollow">https://realitypathing.com/why-do-lullabies-work-best-when-sung-softly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2025  WHY DO LULLABIES WORK BEST WHEN SUNG SOFTLY THE SOUND OF SOFTNESS AND ITS EFFECT ON THE BRAIN The sound of soft sing...</p></details>
+   Link:<a href="https://realitypathing.com/why-do-lullabies-work-best-when-sung-softly/" target="_blank" rel="noopener noreferrer nofollow">https://realitypathing.com/why-do-lullabies-work-best-when-sung-softly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2025  WHY DO LULLABIES WORK BEST WHEN SUNG SOFTLY THE SOUND OF SOFTNESS AND ITS EFFECT ON THE BRAIN The sound of soft sing...</p></details>
    Published: September 20, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15058893/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15058893/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2004 Feb;98(1):325-39. doi: 10.2466/pms.98.1.325-339. PREFERRED PERCEPTUAL TEMPO FOR SOUND SEQUENCES: COMPARISON OF ADULTS, CHILDREN, AND...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/15058893/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15058893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2004 Feb;98(1):325-39. doi: 10.2466/pms.98.1.325-339. PREFERRED PERCEPTUAL TEMPO FOR SOUND SEQUENCES: COMPARISON OF ADULTS, CHILDREN, AND...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16935277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16935277/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2007 Sep;104(3):654-68. doi: 10.1016/j.cognition.2006.07.011. Epub 2006 Aug 28. NONHUMAN PRIMATES PREFER SLOW TEMPOS BUT DISLIKE MUSIC OV...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16935277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16935277/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2007 Sep;104(3):654-68. doi: 10.1016/j.cognition.2006.07.011. Epub 2006 Aug 28. NONHUMAN PRIMATES PREFER SLOW TEMPOS BUT DISLIKE MUSIC OV...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the bas...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the bas...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11458822/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11458822/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They recognize a melody when its pitch level is shifted upward or downward, provided the relations...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11458822/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11458822/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They recognize a melody when its pitch level is shifted upward or downward, provided the relations...</p></details>

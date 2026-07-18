@@ -274,240 +274,240 @@ image: /assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_27
 
 ## Introduction
 
-Live Nation’s scale provides one of the clearest pieces of evidence that live music remains a powerful commercial activity. The company is not a measure of the entire music ecosystem, but its numbers reveal something important: millions of people still choose to spend time and money on [concerts]({{ 'concerts/' | relative_url }}) despite the availability of unlimited recorded music online. When a single promoter can host tens of thousands of events and attract well over one hundred million attendees in a year, it demonstrates that live performance is not a niche complement to streaming. It is a major consumer market in its own right. At the same time, those headline figures can easily be misunderstood. They show the strength of audience demand, but they do not automatically describe the financial reality faced by most musicians. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
+Live Nation’s scale provides one of the clearest pieces of evidence that live music remains a powerful commercial activity. The company is not a measure of the entire music ecosystem, but its numbers reveal something important: millions of people still choose to spend time and money on [concerts]({{ 'concerts/' | relative_url }}) despite the availability of unlimited recorded music online. When a single promoter can host tens of thousands of events and attract well over one hundred million attendees in a year, it demonstrates that live performance is not a niche complement to streaming. It is a major consumer market in its own right. At the same time, those headline figures can easily be misunderstood. They show the strength of audience demand, but they do not automatically describe the financial reality faced by most musicians.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-1-dark.svg" | relative_url }}" alt="Live Nation illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Fan Volume and Event Scale in Major Live Music
 
-The strongest evidence from Live Nation is simply the size of the audience. The company reported hosting 159 million fans across approximately 55,000 shows globally in 2025, with attendance increasing year on year and international markets growing particularly quickly. Large venue activity, especially stadium events, played a major role in that expansion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">live nation reports record 2025 211401275</span><span class="citation-popover-snippet">Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</span></span></span>
+The strongest evidence from Live Nation is simply the size of the audience. The company reported hosting 159 million fans across approximately 55,000 shows globally in 2025, with attendance increasing year on year and international markets growing particularly quickly. Large venue activity, especially stadium events, played a major role in that expansion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">live nation reports record 2025 211401275</span><span class="citation-popover-snippet">Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</span></span></span>
 
-Those figures matter because they reflect repeated consumer choices. A concert requires more commitment than a stream. Fans must purchase tickets, travel to a venue, dedicate an evening and often spend additional money on transport, food or merchandise. When attendance reaches this scale, it suggests that live music continues to deliver value that digital [access]({{ 'access/' | relative_url }}) alone cannot replace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
+Those figures matter because they reflect repeated consumer choices. A concert requires more commitment than a stream. Fans must purchase tickets, travel to a venue, dedicate an evening and often spend additional money on transport, food or merchandise. When attendance reaches this scale, it suggests that live music continues to deliver value that digital [access]({{ 'access/' | relative_url }}) alone cannot replace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
 
-The pattern is not limited to one country. Live Nation reported that international attendance exceeded its US attendance for the first time, indicating that demand is increasingly global rather than concentrated in a handful of traditional markets. Growth across stadiums, arenas and other venue categories suggests that audiences are willing to pay for live experiences across multiple [formats]({{ 'formats/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">live nation reports record 2025 211401275</span><span class="citation-popover-snippet">Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</span></span></span>
+The pattern is not limited to one country. Live Nation reported that international attendance exceeded its US attendance for the first time, indicating that demand is increasingly global rather than concentrated in a handful of traditional markets. Growth across stadiums, arenas and other venue categories suggests that audiences are willing to pay for live experiences across multiple [formats]({{ 'formats/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">live nation reports record 2025 211401275</span><span class="citation-popover-snippet">Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</span></span></span>
 
-Industry-wide data points in the same direction. Pollstar's touring analyses have shown strong ticket sales and high attendance levels among major tours, while UK market data recorded record consumer spending on live music and growing concert tourism. These trends reinforce the idea that Live Nation's results are not an isolated anomaly but part of a broader appetite for live entertainment. Pollstar News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</span></span></span>
+Industry-wide data points in the same direction. Pollstar's touring analyses have shown strong ticket sales and high attendance levels among major tours, while UK market data recorded record consumer spending on live music and growing concert tourism. These trends reinforce the idea that Live Nation's results are not an isolated anomaly but part of a broader appetite for live entertainment. Pollstar News<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</span></span></span>
 
 ## What Corporate Concert Revenue Can and Cannot Show
 
-Live Nation's financial results are often cited as proof that live music is booming. In 2025, the company generated more than US$25 billion in revenue and reported record attendance. Those results show that large-scale concert promotion remains capable of attracting enormous consumer spending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
+Live Nation's financial results are often cited as proof that live music is booming. In 2025, the company generated more than US$25 billion in revenue and reported record attendance. Those results show that large-scale concert promotion remains capable of attracting enormous consumer spending.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
 
 However, revenue figures reveal less about musicians' earnings than many people assume.
 
-A major promoter sits at the centre of a large economic network that includes venues, ticketing systems, sponsorship agreements, concessions, production services, security, logistics and marketing. Revenue therefore measures the scale of the entire live-event operation rather than the income received by performers. A sold-out stadium tour can generate impressive corporate results while still involving substantial costs for artists and touring teams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
+A major promoter sits at the centre of a large economic network that includes venues, ticketing systems, sponsorship agreements, concessions, production services, security, logistics and marketing. Revenue therefore measures the scale of the entire live-event operation rather than the income received by performers. A sold-out stadium tour can generate impressive corporate results while still involving substantial costs for artists and touring teams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span>
 
 The numbers are most useful as evidence of demand. If millions of tickets continue to sell, audiences are signalling that live music remains worth paying for. What the figures cannot tell us by themselves is how that money is distributed among artists, managers, promoters, venues and suppliers.
 
-Another limitation is that attendance totals aggregate very different events. A stadium show with 60,000 attendees and a theatre concert with a few thousand people both contribute to the overall count. Large companies therefore provide a picture of market scale rather than a detailed portrait of individual artist economics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-snippet">Pollstar NewsMid-Year Business Analysis: 2025&#x27;s Mixed Results13 Jun 2025 — The increase is even more pronounced with ticket sales, as 202...</span></span></span>
+Another limitation is that attendance totals aggregate very different events. A stadium show with 60,000 attendees and a theatre concert with a few thousand people both contribute to the overall count. Large companies therefore provide a picture of market scale rather than a detailed portrait of individual artist economics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-snippet">Pollstar NewsMid-Year Business Analysis: 2025&#x27;s Mixed Results13 Jun 2025 — The increase is even more pronounced with ticket sales, as 202...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-2-dark.svg" | relative_url }}" alt="Live Nation illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Arena Demand Differs from Grassroots Reality
 
 One of the most common misunderstandings is to assume that strong Live Nation results mean all parts of live music are thriving equally.
 
-Large promoters tend to be heavily exposed to established artists, arena tours, stadium concerts and major festivals. These are the segments where demand is most visible and where ticket sales can reach extraordinary levels. Pollstar data shows that the largest tours continue to generate enormous grosses and attendance figures, supported by high-capacity venues and global fan bases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-snippet">Pollstar NewsMid-Year Business Analysis: 2025&#x27;s Mixed Results13 Jun 2025 — The increase is even more pronounced with ticket sales, as 202...</span></span></span>
+Large promoters tend to be heavily exposed to established artists, arena tours, stadium concerts and major festivals. These are the segments where demand is most visible and where ticket sales can reach extraordinary levels. Pollstar data shows that the largest tours continue to generate enormous grosses and attendance figures, supported by high-capacity venues and global fan bases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.pollstar.com">[Pollstar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.pollstar.com</span><span class="citation-popover-snippet">Pollstar NewsMid-Year Business Analysis: 2025&#x27;s Mixed Results13 Jun 2025 — The increase is even more pronounced with ticket sales, as 202...</span></span></span>
 
-[Grassroots]({{ 'grassroots/' | relative_url }}) music operates under different conditions. Smaller artists face tighter margins, lower capacities and greater sensitivity to travel, accommodation and production costs. A packed 200-capacity venue can represent success for an emerging act, but it does not generate the same financial impact as a stadium event. Consequently, growth at the top of the market does not necessarily guarantee healthy conditions at the bottom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</span></span></span>
+[Grassroots]({{ 'grassroots/' | relative_url }}) music operates under different conditions. Smaller artists face tighter margins, lower capacities and greater sensitivity to travel, accommodation and production costs. A packed 200-capacity venue can represent success for an emerging act, but it does not generate the same financial impact as a stadium event. Consequently, growth at the top of the market does not necessarily guarantee healthy conditions at the bottom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</span></span></span>
 
-Recent industry reporting also highlights this distinction. While demand for major concerts remains strong, some tours have struggled to sell enough tickets, leading to cancellations or venue downsizing. The issue is not that people have stopped attending concerts altogether. Rather, demand is unevenly distributed, with the strongest interest often concentrated around established artists and major live events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-title">The Week&#x27;Blue dot fever&#x27; is leading to canceled concerts</span><span class="citation-popover-snippet">Named after the blue dots that signify available seats on seating charts, the trend reflects the broken affordability of ticket prices an...</span></span></span>
+Recent industry reporting also highlights this distinction. While demand for major concerts remains strong, some tours have struggled to sell enough tickets, leading to cancellations or venue downsizing. The issue is not that people have stopped attending concerts altogether. Rather, demand is unevenly distributed, with the strongest interest often concentrated around established artists and major live events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-title">The Week&#x27;Blue dot fever&#x27; is leading to canceled concerts</span><span class="citation-popover-snippet">Named after the blue dots that signify available seats on seating charts, the trend reflects the broken affordability of ticket prices an...</span></span></span>
 
 This is why Live Nation's scale should be interpreted carefully. Its results prove that vast audiences still exist for live music. They do not prove that every artist can easily access those audiences or convert attendance into sustainable income.
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-3-dark.svg" | relative_url }}" alt="Live Nation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Numbers Ultimately Prove
 
-The most convincing lesson from Live Nation's scale is that live music remains a highly valued experience. Streaming has made recorded music abundant and accessible, yet millions of people still choose to pay for the [scarcity]({{ 'scarcity/' | relative_url }}), atmosphere and social connection of a concert. Record attendance figures, expanding international audiences and continued ticket demand all point to the same conclusion: live performance remains one of the strongest ways that music turns cultural interest into direct economic activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">live nation reports record 2025 211401275</span><span class="citation-popover-snippet">Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</span></span></span>
+The most convincing lesson from Live Nation's scale is that live music remains a highly valued experience. Streaming has made recorded music abundant and accessible, yet millions of people still choose to pay for the [scarcity]({{ 'scarcity/' | relative_url }}), atmosphere and social connection of a concert. Record attendance figures, expanding international audiences and continued ticket demand all point to the same conclusion: live performance remains one of the strongest ways that music turns cultural interest into direct economic activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finance.yahoo.com">[Yahoo Finance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finance.yahoo.com</span><span class="citation-popover-title">live nation reports record 2025 211401275</span><span class="citation-popover-snippet">Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</span></span></span>
 
-At the same time, the company's success should be viewed as evidence of audience demand rather than a universal indicator of artist prosperity. Live Nation shows how large the live music market has become. It does not eliminate the gap between global arena tours and the financial realities of grassroots touring. Understanding that distinction is essential when using corporate concert numbers to judge the health of the wider music economy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</span></span></span>
+At the same time, the company's success should be viewed as evidence of audience demand rather than a universal indicator of artist prosperity. Live Nation shows how large the live music market has become. It does not eliminate the gap between global arena tours and the financial realities of grassroots touring. Understanding that distinction is essential when using corporate concert numbers to judge the health of the wider music economy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Big Concert Numbers Really Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Big Concert Numbers Really Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains large-scale concert economics and industry structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains large-scale concert economics and industry structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tour:Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2732880-M.jpg" alt="Cover for Tour:Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tour:Smart">Tour:Smart</a>
-        </h4>
-        <p class="fr-book-author">By Martin Atkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tour:Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2732880-M.jpg" alt="Cover for Tour:Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tour:Smart">Tour:Smart</a>
+</h4>
+<p class="fr-book-author">By Martin Atkins</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Concert tours, Management, Vocational guidance, Handbooks, manuals, Music trade.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Concert tours, Management, Vocational guidance, Handbooks, manuals, Music trade.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="what-big-concert-numbers-really-prove-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -523,7 +523,7 @@ At the same time, the company's success should be viewed as evidence of audience
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -543,7 +543,7 @@ At the same time, the company's success should be viewed as evidence of audience
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -575,7 +575,7 @@ At the same time, the company's success should be viewed as evidence of audience
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -627,7 +627,7 @@ At the same time, the company's success should be viewed as evidence of audience
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -672,7 +672,7 @@ At the same time, the company's success should be viewed as evidence of audience
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,173 +713,173 @@ At the same time, the company's success should be viewed as evidence of audience
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: finance.yahoo.com  
    Title: live nation reports record 2025 211401275  
-   Link: <a href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</p></details>
+   Link:<a href="https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/live-nation-reports-record-2025-211401275.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLive Nation Reports Record 2025 Concert Attendance...19 Feb 2026 — Live Nation reported record fan attendance for 2025, rea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: finance.yahoo.com  
    Title: live nation entertainment full fourth 210700228  
-   Link: <a href="https://finance.yahoo.com/news/live-nation-entertainment-full-fourth-210700228.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/live-nation-entertainment-full-fourth-210700228.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLIVE NATION ENTERTAINMENT FULL YEAR AND...19 Feb 2026 — Hosted 159 million fans, up 5%, across 55 thousand shows globally...</p></details>
+   Link:<a href="https://finance.yahoo.com/news/live-nation-entertainment-full-fourth-210700228.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/live-nation-entertainment-full-fourth-210700228.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceLIVE NATION ENTERTAINMENT FULL YEAR AND...19 Feb 2026 — Hosted 159 million fans, up 5%, across 55 thousand shows globally...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.pollstar.com  
-   Link: <a href="https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsMid-Year Business Analysis: 2025&#x27;s Mixed Results13 Jun 2025 — The increase is even more pronounced with ticket sales, as 202...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/06/13/mid-year-business-analysis-average-gross-revenue-ticket-sales-up-significantly-overall-numbers-down-coldplay-shakira-kendrick-sza-have-top-tours/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsMid-Year Business Analysis: 2025&#x27;s Mixed Results13 Jun 2025 — The increase is even more pronounced with ticket sales, as 202...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.pollstar.com  
    Title: uk report another record year for live music  
-   Link: <a href="https://news.pollstar.com/2025/09/03/uk-report-another-record-year-for-live-music/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/09/03/uk-report-another-record-year-for-live-music/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsUK Report: Another Record Year For Live Music3 Sept 2025 — This meant concerts attracted 75.3% of live music spending in 202...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/09/03/uk-report-another-record-year-for-live-music/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/09/03/uk-report-another-record-year-for-live-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsUK Report: Another Record Year For Live Music3 Sept 2025 — This meant concerts attracted 75.3% of live music spending in 202...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.pollstar.com  
-   Link: <a href="https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsPollstar 2025 Year End Business Analysis—A Return To...23 Dec 2025 — The average gross at stadium shows jumped to $7.11 mil...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsPollstar 2025 Year End Business Analysis—A Return To...23 Dec 2025 — The average gross at stadium shows jumped to $7.11 mil...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.pollstar.com  
-   Link: <a href="https://news.pollstar.com/2024/12/13/2024bizanalysis/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2024/12/13/2024bizanalysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsPollstar 2024 Year End Analysis: Industry Remains Strong...13 Dec 2024 — This year, the group racked up more than $421.7 mi...</p></details>
+   Link:<a href="https://news.pollstar.com/2024/12/13/2024bizanalysis/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2024/12/13/2024bizanalysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsPollstar 2024 Year End Analysis: Industry Remains Strong...13 Dec 2024 — This year, the group racked up more than $421.7 mi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: account.live.com  
-   Link: <a href="https://account.live.com/messagepage.aspx" target="_blank" rel="noopener noreferrer nofollow">https://account.live.com/messagepage.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re unable to display the list of languages at this time. Save. © 2026 Microsoft Terms of Use Privacy &amp; Cookies Developers Engli...</p></details>
+   Link:<a href="https://account.live.com/messagepage.aspx" target="_blank" rel="noopener noreferrer nofollow">https://account.live.com/messagepage.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re unable to display the list of languages at this time. Save. © 2026 Microsoft Terms of Use Privacy &amp; Cookies Developers Engli...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pollstar.com  
-   Link: <a href="https://www.pollstar.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar Data Cloud gives subscribers the ability to search, view, filter and build custom reports based on concert Boxoffice and...</p></details>
+   Link:<a href="https://www.pollstar.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar Data Cloud gives subscribers the ability to search, view, filter and build custom reports based on concert Boxoffice and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pollstar.com  
-   Link: <a href="https://www.pollstar.com/[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/[charts</a>  
+   Link:<a href="https://www.pollstar.com/[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/[charts</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pollstar.com  
-   Link: <a href="https://pollstar.com/data" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DataGlobal Live Boxoffice is the latest from Pollstar&#x27;s continuously updated database within the past 30 days. 1,193. Tickets Sold. $64,6...</p></details>
+   Link:<a href="https://pollstar.com/data" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DataGlobal Live Boxoffice is the latest from Pollstar&#x27;s continuously updated database within the past 30 days. 1,193. Tickets Sold. $64,6...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pollstar.com  
-   Link: <a href="https://pollstar.com/charts" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/charts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChartsWorldwide ticket sales charts for venues and promoters, updated every quarter.... The top US markets for Live Entertainment as mea...</p></details>
+   Link:<a href="https://pollstar.com/charts" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/charts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChartsWorldwide ticket sales charts for venues and promoters, updated every quarter.... The top US markets for Live Entertainment as mea...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.pollstar.com  
    Title: q1 analysis data points to another mixed year following post pandemic golden age  
-   Link: <a href="https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comQ1 Analysis: Attendance Up, Ticket Prices and Grosses...18 Mar 2025 — 2024 proved to be a year with higher grosses at every...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comQ1 Analysis: Attendance Up, Ticket Prices and Grosses...18 Mar 2025 — 2024 proved to be a year with higher grosses at every...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.pollstar.com  
    Title: pollstars 2025 year end executive survey  
-   Link: <a href="https://news.pollstar.com/2025/12/28/pollstars-2025-year-end-executive-survey/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/28/pollstars-2025-year-end-executive-survey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comPollstar&#x27;s 2025 Year End Executive SurveyDec 28, 2025 — The continued globalization of the live entertainment industry has ha...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/12/28/pollstars-2025-year-end-executive-survey/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/28/pollstars-2025-year-end-executive-survey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comPollstar&#x27;s 2025 Year End Executive SurveyDec 28, 2025 — The continued globalization of the live entertainment industry has ha...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.pollstar.com  
    Title: a helluva year end talking top tours small venues  
-   Link: <a href="https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helluva Year End: Talking Top Tours &amp; Small Venues14 Dec 2025 — According to Pollstar reporting earlier this year, venues with capacities...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helluva Year End: Talking Top Tours &amp; Small Venues14 Dec 2025 — According to Pollstar reporting earlier this year, venues with capacities...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.pollstar.com  
-   Link: <a href="https://news.pollstar.com/2025/12/08/coldplay-u2-sheeran-dmb-top-pollstars-25-most-popular-touring-artists-of-the-millennium/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/08/coldplay-u2-sheeran-dmb-top-pollstars-25-most-popular-touring-artists-of-the-millennium/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comColdplay, U2, Ed Sheeran, Dave Matthews Band, Taylor...8 Dec 2025 — Based on worldwide ticket sales reported to Pollstar fro...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/12/08/coldplay-u2-sheeran-dmb-top-pollstars-25-most-popular-touring-artists-of-the-millennium/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/08/coldplay-u2-sheeran-dmb-top-pollstars-25-most-popular-touring-artists-of-the-millennium/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comColdplay, U2, Ed Sheeran, Dave Matthews Band, Taylor...8 Dec 2025 — Based on worldwide ticket sales reported to Pollstar fro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsroom.livenation.com  
    Title: live nation entertainment full year and fourth quarter 2025 results  
-   Link: <a href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</p></details>
+   Link:<a href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation NewsroomLive Nation Entertainment Full Year And Fourth Quarter...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Operating i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newsroom.livenation.com  
    Title: live nation entertainment third quarter 2025 results  
-   Link: <a href="https://newsroom.livenation.com/news/live-nation-entertainment-third-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-third-quarter-2025-results/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation NewsroomLive Nation Entertainment Third Quarter 2025 ResultsNov 4, 2025 — Ticket sales for Live Nation concerts in 2025 up 4%...</p></details>
+   Link:<a href="https://newsroom.livenation.com/news/live-nation-entertainment-third-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-third-quarter-2025-results/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation NewsroomLive Nation Entertainment Third Quarter 2025 ResultsNov 4, 2025 — Ticket sales for Live Nation concerts in 2025 up 4%...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A report by Live, the UK&#x27;s live music advocacy body, highlighted the industry&#x27;s strong recovery post-Covid but warned of ongoing challeng...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theweek.com  
    Title: The Week'Blue dot fever' is leading to canceled concerts  
-   Link: <a href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/[culture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Named after the blue dots that signify available seats on seating charts, the trend reflects the broken affordability of ticket prices an...</p></details>
+   Link:<a href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/[culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Named after the blue dots that signify available seats on seating charts, the trend reflects the broken affordability of ticket prices an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newsroom.livenation.com  
    Title: live nation entertainment reports second quarter 2025 results  
-   Link: <a href="https://newsroom.livenation.com/news/live-nation-entertainment-reports-second-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-reports-second-quarter-2025-results/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>95% of expected 2025 sponsorship committed, up double-digits. CONCERTS DELIVERS Q2 RECORD FINANCIAL...Read more...</p></details>
+   Link:<a href="https://newsroom.livenation.com/news/live-nation-entertainment-reports-second-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-reports-second-quarter-2025-results/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>95% of expected 2025 sponsorship committed, up double-digits. CONCERTS DELIVERS Q2 RECORD FINANCIAL...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newsroom.livenation.com  
    Title: live nation entertainment reports first quarter 2026 results  
-   Link: <a href="https://newsroom.livenation.com/news/live-nation-entertainment-reports-first-quarter-2026-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-reports-first-quarter-2026-results/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nation Entertainment Reports First Quarter 2026 ResultsMay 5, 2026 — Concerts AOI of $3 million with fan attendance of 24 million, up 7%...</p></details>
+   Link:<a href="https://newsroom.livenation.com/news/live-nation-entertainment-reports-first-quarter-2026-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-reports-first-quarter-2026-results/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nation Entertainment Reports First Quarter 2026 ResultsMay 5, 2026 — Concerts AOI of $3 million with fan attendance of 24 million, up 7%...</p></details>
    Published: May 5, 2026  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/media-telecom/live-nation-posts-higher-third-quarter-revenue-strong-fan-demand-2025-11-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/live-nation-posts-higher-third-quarter-revenue-strong-fan-demand-2025-11-04/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company posted revenue of $8.50 billion, up from $7.65 billion in the previous year, though slightly below analysts&#x27; projections of $...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/live-nation-posts-higher-third-quarter-revenue-strong-fan-demand-2025-11-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/live-nation-posts-higher-third-quarter-revenue-strong-fan-demand-2025-11-04/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company posted revenue of $8.50 billion, up from $7.65 billion in the previous year, though slightly below analysts&#x27; projections of $...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/brij-gosai-a52b1457_the-wait-is-over-pollstars-2025-year-end-activity-7406279033119985664-yKyJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/brij-gosai-a52b1457_the-wait-is-over-pollstars-2025-year-end-activity-7406279033119985664-yKyJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brij Gosai&#x27;s PostThe wait is over, Pollstar&#x27;s 2025 Year End Special now published with over 250 pages recapping 2025 and diving deep into...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/brij-gosai-a52b1457_the-wait-is-over-pollstars-2025-year-end-activity-7406279033119985664-yKyJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/brij-gosai-a52b1457_the-wait-is-over-pollstars-2025-year-end-activity-7406279033119985664-yKyJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brij Gosai&#x27;s PostThe wait is over, Pollstar&#x27;s 2025 Year End Special now published with over 250 pages recapping 2025 and diving deep into...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2025-q1-touring-activity-7308564983951339521-mgEE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2025-q1-touring-activity-7308564983951339521-mgEE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Revenue Drops Despite Strong DemandThe live concert industry experienced a shift in financial trends during Q1 2025, with atte...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2025-q1-touring-activity-7308564983951339521-mgEE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2025-q1-touring-activity-7308564983951339521-mgEE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Revenue Drops Despite Strong DemandThe live concert industry experienced a shift in financial trends during Q1 2025, with atte...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/live-nation-annual-revenues-top-25b-in-2025-up-2b-yoy-with-adjusted-operating-profit-of-2-4b/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/live-nation-annual-revenues-top-25b-in-2025-up-2b-yoy-with-adjusted-operating-profit-of-2-4b/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation annual revenues top $25B in 2025, up $2B...19 Feb 2026 — Live Nation Entertainment has posted annual revenues of USD $25.2 b...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/live-nation-annual-revenues-top-25b-in-2025-up-2b-yoy-with-adjusted-operating-profit-of-2-4b/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/live-nation-annual-revenues-top-25b-in-2025-up-2b-yoy-with-adjusted-operating-profit-of-2-4b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation annual revenues top $25B in 2025, up $2B...19 Feb 2026 — Live Nation Entertainment has posted annual revenues of USD $25.2 b...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/theticketingbusiness_live-nation-reports-strong-concert-demand-activity-7430581132196261888-uEVg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/theticketingbusiness_live-nation-reports-strong-concert-demand-activity-7430581132196261888-uEVg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation reports strong concert demand in 2025 to...Live Nation Entertainment&#x27;s revenue reached $25.2bn (£18.7bn/€21m) in 2025, an in...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/theticketingbusiness_live-nation-reports-strong-concert-demand-activity-7430581132196261888-uEVg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/theticketingbusiness_live-nation-reports-strong-concert-demand-activity-7430581132196261888-uEVg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation reports strong concert demand in 2025 to...Live Nation Entertainment&#x27;s revenue reached $25.2bn (£18.7bn/€21m) in 2025, an in...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tracy-kahaner-1b98175_live-nation-reports-record-2025-concert-attendance-activity-7430365676508233729-yuFD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tracy-kahaner-1b98175_live-nation-reports-record-2025-concert-attendance-activity-7430365676508233729-yuFD</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation Records 159M Global Attendance, $25.2B...Live Nation Entertainment reported record fan attendance for 2025, reaching 159 mil...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tracy-kahaner-1b98175_live-nation-reports-record-2025-concert-attendance-activity-7430365676508233729-yuFD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tracy-kahaner-1b98175_live-nation-reports-record-2025-concert-attendance-activity-7430365676508233729-yuFD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Nation Records 159M Global Attendance, $25.2B...Live Nation Entertainment reported record fan attendance for 2025, reaching 159 mil...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2024-mid-year-activity-7211760161193914371-1NoK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2024-mid-year-activity-7211760161193914371-1NoK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar&#x27;s 2024 Report on the global concert industryTotal worldwide ticket sales saw a slight dip of 0.7%, from 24.27 million in 2023 to...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2024-mid-year-activity-7211760161193914371-1NoK" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/claytondurant_pollstar-just-released-its-2024-mid-year-activity-7211760161193914371-1NoK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar&#x27;s 2024 Report on the global concert industryTotal worldwide ticket sales saw a slight dip of 0.7%, from 24.27 million in 2023 to...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: prnewswire.com  
    Title: taylor swift and coldplay top pollstars 2024 year end worldwide chart 302331651  
-   Link: <a href="https://www.prnewswire.com/news-releases/taylor-swift-and-coldplay-top-pollstars-2024-year-end-worldwide-chart-302331651.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/taylor-swift-and-coldplay-top-pollstars-2024-year-end-worldwide-chart-302331651.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TAYLOR SWIFT AND COLDPLAY TOP POLLSTAR&#x27;S 2024...Dec 13, 2024 — The annual Pollstar rankings, which spotlight top-performing tours global...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/taylor-swift-and-coldplay-top-pollstars-2024-year-end-worldwide-chart-302331651.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/taylor-swift-and-coldplay-top-pollstars-2024-year-end-worldwide-chart-302331651.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TAYLOR SWIFT AND COLDPLAY TOP POLLSTAR&#x27;S 2024...Dec 13, 2024 — The annual Pollstar rankings, which spotlight top-performing tours global...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: prnewswire.com  
    Title: live nation entertainment full year and fourth quarter 2025 results 302693023  
-   Link: <a href="https://www.prnewswire.com/news-releases/live-nation-entertainment-full-year-and-fourth-quarter-2025-results-302693023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/live-nation-entertainment-full-year-and-fourth-quarter-2025-results-302693023.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE NATION ENTERTAINMENT FULL YEAR AND...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Year-end 2025 event-related deferred revenue o...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/live-nation-entertainment-full-year-and-fourth-quarter-2025-results-302693023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/live-nation-entertainment-full-year-and-fourth-quarter-2025-results-302693023.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE NATION ENTERTAINMENT FULL YEAR AND...19 Feb 2026 — Revenue of $25.2 billion, up 9% · Year-end 2025 event-related deferred revenue o...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: omdia.tech.informa.com  
    Title: another year of record revenue for live music with more to come in 2025  
-   Link: <a href="https://omdia.tech.informa.com/om124956/another-year-of-record-revenue-for-live-music-with-more-to-come-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om124956/another-year-of-record-revenue-for-live-music-with-more-to-come-in-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>year of record revenue for live music, with more to...9 Dec 2024 — Total revenue from ticket sales and sponsorship set new record highs...</p></details>
+   Link:<a href="https://omdia.tech.informa.com/om124956/another-year-of-record-revenue-for-live-music-with-more-to-come-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om124956/another-year-of-record-revenue-for-live-music-with-more-to-come-in-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>year of record revenue for live music, with more to...9 Dec 2024 — Total revenue from ticket sales and sponsorship set new record highs...</p></details>

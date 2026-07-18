@@ -274,18 +274,18 @@ image: /assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_pr
 
 ## Introduction
 
-Physical formats strengthen a fan’s sense of [ownership]({{ 'ownership/' | relative_url }}) because they transform music into something collectable, displayable and personal. Yet the same mechanisms that make collecting exciting can also make it feel compulsory. Over the past decade, artists and labels have increasingly released albums in multiple physical versions, each with different artwork, colours, bonus tracks, [photo cards]({{ 'photo-cards/' | relative_url }}) or packaging. For some fans, these variants deepen engagement and offer meaningful choices. For others, they create pressure to spend repeatedly in order to feel complete, support an artist properly or avoid missing exclusive content. As variant strategies have expanded, they have become one of the most debated aspects of modern music fandom, raising questions about consumer pressure, chart competition, environmental costs and the line between enthusiasm and exploitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vinyl revival</span><span class="citation-popover-snippet">Vinyl revival</span></span></span>
+Physical formats strengthen a fan’s sense of [ownership]({{ 'ownership/' | relative_url }}) because they transform music into something collectable, displayable and personal. Yet the same mechanisms that make collecting exciting can also make it feel compulsory. Over the past decade, artists and labels have increasingly released albums in multiple physical versions, each with different artwork, colours, bonus tracks, [photo cards]({{ 'photo-cards/' | relative_url }}) or packaging. For some fans, these variants deepen engagement and offer meaningful choices. For others, they create pressure to spend repeatedly in order to feel complete, support an artist properly or avoid missing exclusive content. As variant strategies have expanded, they have become one of the most debated aspects of modern music fandom, raising questions about consumer pressure, chart competition, environmental costs and the line between enthusiasm and exploitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vinyl revival</span><span class="citation-popover-snippet">Vinyl revival</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-dark.svg" | relative_url }}" alt="Fan Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Variants Encourage Repeat Purchases
 
 Multiple album versions work because they appeal to several motivations at once. A fan may genuinely prefer one cover design, but labels often structure releases so that no single version contains everything. Different editions may feature unique photographs, coloured [vinyl]({{ 'vinyl/' | relative_url }}), alternative [artwork]({{ 'artwork/' | relative_url }}), bonus songs or exclusive inserts.
 
-From a business perspective, this strategy increases sales by turning one album into a series of collectable objects. Luminate data cited during discussions of the modern vinyl market indicates that physical variants have grown dramatically in recent years, with major charting albums frequently appearing in many different editions. Some high-profile releases in 2024 reportedly exceeded twenty physical variants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vinyl revival</span><span class="citation-popover-snippet">Vinyl revival</span></span></span>
+From a business perspective, this strategy increases sales by turning one album into a series of collectable objects. Luminate data cited during discussions of the modern vinyl market indicates that physical variants have grown dramatically in recent years, with major charting albums frequently appearing in many different editions. Some high-profile releases in 2024 reportedly exceeded twenty physical variants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vinyl revival</span><span class="citation-popover-snippet">Vinyl revival</span></span></span>
 
 The emotional appeal is understandable. Collecting can be enjoyable, social and creative. Fans often display variants together, trade duplicates and build collections that reflect their identity. The problem arises when ownership becomes fragmented across editions. Instead of choosing a favourite version, fans may feel that they need several versions to possess the “complete” album experience.
 
-This pressure is intensified by fandom cultures that link purchasing with support. In many music communities, especially highly organised fan communities, buying multiple copies is sometimes framed as a way to help chart performance, sales records or award eligibility. What begins as collecting can therefore become a form of participation in competitive fandom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">why k pop fans still buy cds even when they cant play them</span><span class="citation-popover-snippet">Why K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</span></span></span>
+This pressure is intensified by fandom cultures that link purchasing with support. In many music communities, especially highly organised fan communities, buying multiple copies is sometimes framed as a way to help chart performance, sales records or award eligibility. What begins as collecting can therefore become a form of participation in competitive fandom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">why k pop fans still buy cds even when they cant play them</span><span class="citation-popover-snippet">Why K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</span></span></span>
 
 ## Random Extras, Lotteries and Completionism
 
@@ -293,7 +293,7 @@ This pressure is intensified by fandom cultures that link purchasing with suppor
 
 The strongest buying pressure often comes not from alternative covers but from randomised inclusions. K-pop provides the clearest example. Many albums include randomly assigned photo cards, postcards or member-specific items. Because buyers do not know which item they will receive, collecting becomes partly a game of chance.
 
-Research by the Korea Consumer Agency found that fandom goods frequently involve random photo cards and that collecting these items is a major motivation for album purchases. More than half of surveyed consumers reported purchasing albums primarily to collect photo cards rather than for the music itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</span></span></span>
+Research by the Korea Consumer Agency found that fandom goods frequently involve random photo cards and that collecting these items is a major motivation for album purchases. More than half of surveyed consumers reported purchasing albums primarily to collect photo cards rather than for the music itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kca.go.kr">[KCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kca.go.kr</span><span class="citation-popover-snippet">52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</span></span></span>
 
 Randomisation creates a powerful completionist impulse:
 
@@ -321,9 +321,9 @@ The ethical tension lies in the fact that the music and the collectable incentiv
 
 Another source of pressure comes from chart culture. Fans increasingly understand that album purchases influence commercial rankings, first-week sales records and public narratives about an artist's success.
 
-This connection has led to debates about whether multiple versions artificially inflate sales figures. Critics argue that selling numerous editions encourages the same customer to buy repeatedly, making sales totals a measure of fan dedication as much as audience size. Supporters respond that purchasing multiple collectables is a legitimate consumer choice and that collectors have always driven parts of the music market. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">album sales don&#x27;t impress me if they come with 5+ versions</span><span class="citation-popover-snippet">album sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</span><span class="citation-popover-meta">Published: August 8, 2022</span></span></span>
+This connection has led to debates about whether multiple versions artificially inflate sales figures. Critics argue that selling numerous editions encourages the same customer to buy repeatedly, making sales totals a measure of fan dedication as much as audience size. Supporters respond that purchasing multiple collectables is a legitimate consumer choice and that collectors have always driven parts of the music market.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">album sales don&#x27;t impress me if they come with 5+ versions</span><span class="citation-popover-snippet">album sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</span><span class="citation-popover-meta">Published: August 8, 2022</span></span></span>
 
-The controversy has become significant enough that chart organisations have repeatedly adjusted their rules. Billboard altered bundle policies in 2020 to reduce practices that critics viewed as sales gamification, later introducing more restricted “fan pack” rules and additional reforms intended to better reflect genuine consumer demand. These changes were explicitly linked to concerns about chart manipulation and the relationship between merchandise, variants and album sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Billboard Changing Chart Rules to Eliminate Merch/Album Bundling</span><span class="citation-popover-snippet">The current practice of bundling, where merchandise is sold along with a free album download to boost sales, will no longer be counted. T...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">billboard announces new fan bundle rule for chart eligibility</span><span class="citation-popover-snippet">Billboard Announces New “Fan Bundle” Rule for Chart...4 May 2023 — Under the new rules, artists may only sell two different “fan bundle”...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The controversy has become significant enough that chart organisations have repeatedly adjusted their rules. Billboard altered bundle policies in 2020 to reduce practices that critics viewed as sales gamification, later introducing more restricted “fan pack” rules and additional reforms intended to better reflect genuine consumer demand. These changes were explicitly linked to concerns about chart manipulation and the relationship between merchandise, variants and album sales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Billboard Changing Chart Rules to Eliminate Merch/Album Bundling</span><span class="citation-popover-snippet">The current practice of bundling, where merchandise is sold along with a free album download to boost sales, will no longer be counted. T...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">billboard announces new fan bundle rule for chart eligibility</span><span class="citation-popover-snippet">Billboard Announces New “Fan Bundle” Rule for Chart...4 May 2023 — Under the new rules, artists may only sell two different “fan bundle”...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The fact that chart organisations continue revising these rules demonstrates how closely variant culture has become tied to competitive sales strategies rather than purely to musical appreciation.
 
@@ -333,7 +333,7 @@ The fact that chart organisations continue revising these rules demonstrates how
 
 The expansion of vinyl collecting has generated environmental concerns alongside commercial ones. Manufacturing, packaging and shipping multiple copies of essentially the same album increases material consumption, particularly when fans purchase several editions that contain identical recordings.
 
-In 2024, Billie Eilish publicly criticised the practice of releasing large numbers of vinyl variants solely to encourage repeat purchases. She described the trend as wasteful and argued that some major artists were producing numerous nearly identical editions primarily to boost sales figures. Her comments sparked widespread debate because the practice has become common among many of the industry's biggest acts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">billie eilish artist sustainability practices 1234997127</span><span class="citation-popover-snippet">Billie Eilish Defends Criticizing Artist Sustainability Practices1 Apr 2024 — In a recent interview with Billboard, the musician called o...</span></span></span>
+In 2024, Billie Eilish publicly criticised the practice of releasing large numbers of vinyl variants solely to encourage repeat purchases. She described the trend as wasteful and argued that some major artists were producing numerous nearly identical editions primarily to boost sales figures. Her comments sparked widespread debate because the practice has become common among many of the industry's biggest acts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">billie eilish artist sustainability practices 1234997127</span><span class="citation-popover-snippet">Billie Eilish Defends Criticizing Artist Sustainability Practices1 Apr 2024 — In a recent interview with Billboard, the musician called o...</span></span></span>
 
 The discussion resonated because it touched on a broader contradiction. Vinyl is often marketed as a durable, meaningful object that counters disposable digital culture. Yet the multiplication of variants can create its own form of excess consumption.
 
@@ -353,7 +353,7 @@ Common complaints include:
 
 </div>
 
-Online discussions reveal a growing divide between collectors who enjoy abundant options and fans who feel overwhelmed by the expectation to keep up. Some argue that variants enhance choice. Others contend that choice becomes pressure when important content is intentionally fragmented across multiple products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">d is taking action against chart fraud, it was getting out of hand...</span></span></span>
+Online discussions reveal a growing divide between collectors who enjoy abundant options and fans who feel overwhelmed by the expectation to keep up. Some argue that variants enhance choice. Others contend that choice becomes pressure when important content is intentionally fragmented across multiple products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">d is taking action against chart fraud, it was getting out of hand...</span></span></span>
 
 ## Where the Line Between Fandom and Manipulation Sits
 
@@ -364,194 +364,194 @@ The criticism emerges when collecting shifts from optional enjoyment to perceive
 As physical formats continue to thrive in the streaming era, the debate over [album variants]({{ 'album-variants/' | relative_url }}) increasingly centres on a difficult question: how much of collecting reflects fan enthusiasm, and how much reflects commercial systems designed to turn enthusiasm into repeated transactions? The answer varies from release to release, but the tension itself has become a defining feature of modern music ownership.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Collecting Starts To Feel Like Pressure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Collecting Starts To Feel Like Pressure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
-        </h4>
-        <p class="fr-book-author">By Kelefa Sanneh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
+</h4>
+<p class="fr-book-author">By Kelefa Sanneh</p>
         
-        <p class="fr-book-desc">Provides context for modern music marketing, fandom, and consumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for modern music marketing, fandom, and consumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open High Fidelity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/824359-M.jpg" alt="Cover for High Fidelity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Fidelity">High Fidelity</a>
-        </h4>
-        <p class="fr-book-author">By Nick Hornby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open High Fidelity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/824359-M.jpg" alt="Cover for High Fidelity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Fidelity">High Fidelity</a>
+</h4>
+<p class="fr-book-author">By Nick Hornby</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Sound recordings, Man-woman relationships, Fiction, Man-woman relationships, fiction, England, fiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Sound recordings, Man-woman relationships, Fiction, Man-woman relationships, fiction, England, fiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Retromania+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Retromania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6929441-M.jpg" alt="Cover for Retromania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Retromania+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Retromania">Retromania</a>
-        </h4>
-        <p class="fr-book-author">By Simon Reynolds</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Retromania+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Retromania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6929441-M.jpg" alt="Cover for Retromania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Retromania+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Retromania">Retromania</a>
+</h4>
+<p class="fr-book-author">By Simon Reynolds</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Popular music, Music, Social aspects, Popular culture, History and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Retromania+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Popular music, Music, Social aspects, Popular culture, History and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Retromania+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom">Popular Music Fandom</a>
-        </h4>
-        <p class="fr-book-author">By Mark Duffett</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom">Popular Music Fandom</a>
+</h4>
+<p class="fr-book-author">By Mark Duffett</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Popular music, Online social networks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Popular music, Online social networks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=High+Fidelity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">High Fidelity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Retromania</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=High+Fidelity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">High Fidelity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Retromania</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)"><img src="https://i.ebayimg.com/images/g/gUwAAeSw9FJqHpMI/s-l225.jpg" alt="Listing image for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)"><img src="https://i.ebayimg.com/images/g/gUwAAeSw9FJqHpMI/s-l225.jpg" alt="Listing image for Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Elder Through Zero (Vinyl) 12&quot; Album Coloured Vinyl (Limited Edition)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search<span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE"><img src="https://i.ebayimg.com/images/g/YIAAAeSwa2BqE1Lq/s-l225.jpg" alt="Listing image for ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE"><img src="https://i.ebayimg.com/images/g/YIAAAeSwa2BqE1Lq/s-l225.jpg" alt="Listing image for ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">ARIANA GRANDE DANGEROUS WOMAN 10TH ANNIVERSARY PINK CLEAR 2LP 2026 ART PRESALE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search<span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/NDAAAeSwRPJp1oMP/s-l225.jpg" alt="Listing image for Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed"><img src="https://i.ebayimg.com/images/g/NDAAAeSwRPJp1oMP/s-l225.jpg" alt="Listing image for Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Def Leppard - Slang 2LP Vinyl RSD 2026 New &amp; Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search<span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange"><img src="https://i.ebayimg.com/images/g/pZ0AAeSwAqxqGsps/s-l225.jpg" alt="Listing image for Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search <span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange"><img src="https://i.ebayimg.com/images/g/pZ0AAeSwAqxqGsps/s-l225.jpg" alt="Listing image for Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">Lights - A6EXTENDED [New Vinyl LP] Explicit, Colored Vinyl, Green, Orange</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for colored vinyl record">Search<span data-ebay-domain-label>eBay.co.uk</span>: colored vinyl record</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=colored+vinyl+record&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-collecting-starts-to-feel-like-pressure-colored-vinyl-record&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="colored vinyl record" data-ebay-reference="when-collecting-starts-to-feel-like-pressure-colored-vinyl-record" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ As physical formats continue to thrive in the streaming era, the debate over [al
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ As physical formats continue to thrive in the streaming era, the debate over [al
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ As physical formats continue to thrive in the streaming era, the debate over [al
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ As physical formats continue to thrive in the streaming era, the debate over [al
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ As physical formats continue to thrive in the streaming era, the debate over [al
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,143 +757,143 @@ As physical formats continue to thrive in the streaming era, the debate over [al
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Vinyl revival  
-   Link: <a href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vinyl_revival</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vinyl_revival" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vinyl_revival</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: billboard.com  
    Title: why k pop fans still buy cds even when they cant play them  
-   Link: <a href="https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</p></details>
+   Link:<a href="https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/why-k-pop-fans-still-buy-cds-even-when-they-cant-play-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why K-Pop Fans Still Buy CDs (Even When They Can&#x27;t...16 Mar 2020 — K-pop album packaging relies on sumptuous photography, elabo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: album sales don't impress me if they come with 5+ versions  
-   Link: <a href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>album sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</p></details>
+   Link:<a href="https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/wj8tfd/album_sales_dont_impress_me_if_they_come_with_5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>album sales don&#x27;t impress me if they come with 5+ versionsAugust 8, 2022 — Knowing Kpop fans&#x27; buying habits, those fans are either...</p></details>
    Published: August 8, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Billboard Changing Chart Rules to Eliminate [Merch](&#123;&#123; 'merch/' | relative_url &#125;&#125;)/Album Bundling  
-   Link: <a href="https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The current practice of bundling, where merchandise is sold along with a free album download to boost sales, will no longer be counted. T...</p></details>
+   Link:<a href="https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/billboard-changing-chart-rules-to-eliminate-merchalbum-bundling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The current practice of bundling, where merchandise is sold along with a free album download to boost sales, will no longer be counted. T...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pitchfork.com  
    Title: billboard announces new fan bundle rule for chart eligibility  
-   Link: <a href="https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Announces New “Fan Bundle” Rule for Chart...4 May 2023 — Under the new rules, artists may only sell two different “fan bundle”...</p></details>
+   Link:<a href="https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/billboard-announces-new-fan-bundle-rule-for-chart-eligibility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Announces New “Fan Bundle” Rule for Chart...4 May 2023 — Under the new rules, artists may only sell two different “fan bundle”...</p></details>
    Published: May 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d is taking action against chart fraud, it was getting out of hand...</p></details>
+   Link:<a href="https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1je5pwi/billboard_changes_chart_rules_to_help_curb_album/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d is taking action against chart fraud, it was getting out of hand...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: billboard.com  
    Title: fan packs album [charts](&#123;&#123; 'charts/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.billboard.com/pro/billboard-fan-packs-album-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/billboard-fan-packs-album-charts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Introduces &#x27;Fan Packs&#x27; to Album Charts4 May 2023 — The new combinations of merch and albums, dubbed “fan packs,” will allow fan...</p></details>
+   Link:<a href="https://www.billboard.com/pro/billboard-fan-packs-album-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/billboard-fan-packs-album-charts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Introduces &#x27;Fan Packs&#x27; to Album Charts4 May 2023 — The new combinations of merch and albums, dubbed “fan packs,” will allow fan...</p></details>
    Published: May 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>his excessive production of both needs to be reigned in by the industry...</p></details>
+   Link:<a href="https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>his excessive production of both needs to be reigned in by the industry...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rollingstone.com  
    Title: billie eilish artist sustainability practices 1234997127  
-   Link: <a href="https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Defends Criticizing Artist Sustainability Practices1 Apr 2024 — In a recent interview with Billboard, the musician called o...</p></details>
+   Link:<a href="https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/billie-eilish-artist-sustainability-practices-1234997127/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Defends Criticizing Artist Sustainability Practices1 Apr 2024 — In a recent interview with Billboard, the musician called o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thelineofbestfit.com  
    Title: billboard introduced fan packs to allow fan bundles to count in chart positions  
-   Link: <a href="https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions" target="_blank" rel="noopener noreferrer nofollow">https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard introduced &quot;fan packs&quot; to allow fan bundles...5 May 2023 — Now, under the new rules, artists may only sell two different “fan...</p></details>
+   Link:<a href="https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions" target="_blank" rel="noopener noreferrer nofollow">https://www.thelineofbestfit.com/news/billboard-introduced-fan-packs-to-allow-fan-bundles-to-count-in-chart-positions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard introduced &quot;fan packs&quot; to allow fan bundles...5 May 2023 — Now, under the new rules, artists may only sell two different “fan...</p></details>
    Published: May 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard US album charts reform – new rules and changes...17 Mar 2025 — Billboard US album charts reform – new rules and changes This i...</p></details>
+   Link:<a href="https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jungkookworldwidefanpage/posts/billboard-us-album-charts-reform-new-rules-and-changesthis-is-a-summary-of-all-c/1032343622251906/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard US album charts reform – new rules and changes...17 Mar 2025 — Billboard US album charts reform – new rules and changes This i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stereogum.com  
-   Link: <a href="https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news" target="_blank" rel="noopener noreferrer nofollow">https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Introduces &quot;Fan Packs,&quot; Re-Allowing...4 May 2023 — In July 2020, Billboard changed its chart rules to eliminate merch and albu...</p></details>
+   Link:<a href="https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news" target="_blank" rel="noopener noreferrer nofollow">https://stereogum.com/2222730/billboard-introduces-fan-packs-re-allowing-controversial-bundles-on-album-chart/news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Introduces &quot;Fan Packs,&quot; Re-Allowing...4 May 2023 — In July 2020, Billboard changed its chart rules to eliminate merch and albu...</p></details>
    Published: May 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forbes.com  
    Title: billboard merch ticket bundle rules bts map of the soul 7  
-   Link: <a href="https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;s New Merch And Ticket Bundle Rules Will...14 Jul 2020 — Under these new rules, “all albums bundled with either merchandise or...</p></details>
+   Link:<a href="https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/bryanrolli/2020/07/14/billboard-merch-ticket-bundle-rules-bts-map-of-the-soul-7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;s New Merch And Ticket Bundle Rules Will...14 Jul 2020 — Under these new rules, “all albums bundled with either merchandise or...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: them.us  
-   Link: <a href="https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a social media post, Eilish emphasized that her remarks in a Billboard interview addressed industry-wide issues and mentioned that she...</p></details>
+   Link:<a href="https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/billie-eilish-billboard-interview-taylor-swift-sustainability-instagram</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a social media post, Eilish emphasized that her remarks in a Billboard interview addressed industry-wide issues and mentioned that she...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: teenvogue.com  
    Title: billie eilish calls out biggest artists for wasteful vinyl album variants  
-   Link: <a href="https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Defends “Wasteful” Vinyl Variants Stance After...2 Apr 2024 — Billie Eilish doubled down on her sustainability criticism o...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/billie-eilish-calls-out-biggest-artists-for-wasteful-vinyl-album-variants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Defends “Wasteful” Vinyl Variants Stance After...2 Apr 2024 — Billie Eilish doubled down on her sustainability criticism o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dailybruin.com  
    Title: second take repeat purchases of vinyl albums harm environment consumers  
-   Link: <a href="https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers" target="_blank" rel="noopener noreferrer nofollow">https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Second Take: Repeat purchases of vinyl albums harm...5 Jun 2024 — According to Forbes, the production of one vinyl album produces 0.5 kg...</p></details>
+   Link:<a href="https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers" target="_blank" rel="noopener noreferrer nofollow">https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Second Take: Repeat purchases of vinyl albums harm...5 Jun 2024 — According to Forbes, the production of one vinyl album produces 0.5 kg...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hollywoodreporter.com  
    Title: billie eilish slams artists multiple vinyls albums 1235862955  
-   Link: <a href="https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Slams Artists Putting Out Multiple Vinyls of...29 Mar 2024 — Billie Eilish slammed artists who put out multiple, unique re...</p></details>
+   Link:<a href="https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/music/music-news/billie-eilish-slams-artists-multiple-vinyls-albums-1235862955/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Slams Artists Putting Out Multiple Vinyls of...29 Mar 2024 — Billie Eilish slammed artists who put out multiple, unique re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: americansongwriter.com  
    Title: how billboard aims to stop chart manipulation with new rules  
-   Link: <a href="https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/" target="_blank" rel="noopener noreferrer nofollow">https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Billboard Aims To Stop Chart Manipulation With New...18 Mar 2025 — In hopes of stopping unethical chart practices, Billboard immedia...</p></details>
+   Link:<a href="https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/" target="_blank" rel="noopener noreferrer nofollow">https://americansongwriter.com/how-billboard-aims-to-stop-chart-manipulation-with-new-rules/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Billboard Aims To Stop Chart Manipulation With New...18 Mar 2025 — In hopes of stopping unethical chart practices, Billboard immedia...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thetimes.com  
    Title: billie eilish multiple vinyl variants releases c6kzlc0fx  
-   Link: <a href="https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish criticises musicians over &#x27;wasteful&#x27; vinyl releases2 Apr 2024 — She condemned releasing multiple vinyl versions of a record...</p></details>
+   Link:<a href="https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/article/billie-eilish-multiple-vinyl-variants-releases-c6kzlc0fx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish criticises musicians over &#x27;wasteful&#x27; vinyl releases2 Apr 2024 — She condemned releasing multiple vinyl versions of a record...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: washingtonpost.com  
    Title: album variants alternate versions special editions  
-   Link: <a href="https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift is the &#x27;variant queen,&#x27; but plenty of artists are...3 Dec 2025 — Variants -- alternate versions of the same album with diff...</p></details>
+   Link:<a href="https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/style/2025/12/03/album-variants-alternate-versions-special-editions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor Swift is the &#x27;variant queen,&#x27; but plenty of artists are...3 Dec 2025 — Variants -- alternate versions of the same album with diff...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW1GznSiAwm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW1GznSiAwm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ou buy again. Some fans want the full set. That can mean dozens of...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW1GznSiAwm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW1GznSiAwm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ou buy again. Some fans want the full set. That can mean dozens of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DHYTvGlNnSP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DHYTvGlNnSP/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rules include a minimum price for releases, mandatory captcha...</p></details>
+   Link:<a href="https://www.instagram.com/p/DHYTvGlNnSP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DHYTvGlNnSP/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rules include a minimum price for releases, mandatory captcha...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: kca.go.kr  
-   Link: <a href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow">https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</p></details>
+   Link:<a href="https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007" target="_blank" rel="noopener noreferrer nofollow">https://www.kca.go.kr/eng/board/download.do?bid=00000005&amp;did=1003533572&amp;fno=10039277&amp;menukey=6007</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>52.7% of K-Pop Fans Purchase Music Albums to Collect...The results reveal that diverse fandom goods** were involved, and the majority...</p></details>

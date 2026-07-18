@@ -275,7 +275,7 @@ A signed album occupies a special place within music collecting because it appea
 
 The power of a signed album comes from the way it changes the story attached to the object. A standard copy says, “I own this music.” A signed copy says, “This specific copy has a visible link to the artist.”
 
-Collectors frequently describe autographs as evidence of contact rather than merely decoration. Memorabilia specialists note that music autographs are valued because they are seen as tangible reminders of an encounter, event or personal connection with an artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstclassmemorabilia.com">[First Class Memorabilia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstclassmemorabilia.com</span><span class="citation-popover-title">First Class Memorabilia What is a signed art card?</span><span class="citation-popover-snippet">Signed CDs as Music MemorabiliaJune 23, 2024 — A Personal Connection: A music autograph represents a direct interaction between the fan a...</span><span class="citation-popover-meta">Published: June 23, 2024</span></span></span>
+Collectors frequently describe autographs as evidence of contact rather than merely decoration. Memorabilia specialists note that music autographs are valued because they are seen as tangible reminders of an encounter, event or personal connection with an artist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstclassmemorabilia.com">[First Class Memorabilia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstclassmemorabilia.com</span><span class="citation-popover-title">First Class Memorabilia What is a signed art card?</span><span class="citation-popover-snippet">Signed CDs as Music MemorabiliaJune 23, 2024 — A Personal Connection: A music autograph represents a direct interaction between the fan a...</span><span class="citation-popover-meta">Published: June 23, 2024</span></span></span>
 
 Several mechanisms make signed releases feel more personal:
 
@@ -284,7 +284,7 @@ Several mechanisms make signed releases feel more personal:
 * **Memory anchoring:** Signed [albums]({{ 'albums/' | relative_url }}) are commonly associated with [concerts]({{ 'concerts/' | relative_url }}), signings, fan events or album launches.
 * **Narrative value:** The object acquires a story that can be retold and remembered.
 
-This helps explain why many collectors display signed albums prominently rather than storing them with the rest of their music. The signature becomes part of the album’s meaning. In fan communities, stories about obtaining a signature can be almost as important as the music contained on the disc itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemon8-app.com/%40seokjin.with.love/7459472507108590122?region=us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemon8-app.com">[Lemon8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemon8-app.com</span><span class="citation-popover-snippet">Lemon8My Signed K-Pop Album CollectionAs a K-Pop collector, I&#x27;m thrilled to share my personal signed album collection, gathered from exci...</span></span></span>
+This helps explain why many collectors display signed albums prominently rather than storing them with the rest of their music. The signature becomes part of the album’s meaning. In fan communities, stories about obtaining a signature can be almost as important as the music contained on the disc itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemon8-app.com/%40seokjin.with.love/7459472507108590122?region=us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemon8-app.com">[Lemon8]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemon8-app.com</span><span class="citation-popover-snippet">Lemon8My Signed K-Pop Album CollectionAs a K-Pop collector, I&#x27;m thrilled to share my personal signed album collection, gathered from exci...</span></span></span>
 
 The effect is especially strong when the autograph appears directly on the album sleeve, booklet or insert rather than on a separate item. The signature is then physically attached to the release, making the music and the artist’s mark feel inseparable.
 
@@ -309,7 +309,7 @@ The signed object acts as [physical]({{ 'physical/' | relative_url }}) evidence 
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_signed_music_ownersh_907c76-Illustration-2-dark.svg" | relative_url }}" alt="Signed Copies illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_signed_music_ownersh_907c76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_signed_music_ownersh_907c76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Artist Stores, Gigs and Authenticated Objects
 
-The growth of direct-to-fan commerce has made signed editions more common than in previous decades. Artists and labels increasingly sell signed CDs, vinyl records, art cards and inserts through official stores as part of album campaigns. Collectors and memorabilia specialists often regard these channels as among the most reliable ways to obtain authentic signed items because the products come directly from the artist’s commercial operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstclassmemorabilia.com">[First Class Memorabilia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstclassmemorabilia.com</span><span class="citation-popover-title">First Class Memorabilia What is a signed art card?</span><span class="citation-popover-snippet">Signed CDs as Music MemorabiliaJune 23, 2024 — A Personal Connection: A music autograph represents a direct interaction between the fan a...</span><span class="citation-popover-meta">Published: June 23, 2024</span></span></span>
+The growth of direct-to-fan commerce has made signed editions more common than in previous decades. Artists and labels increasingly sell signed CDs, vinyl records, art cards and inserts through official stores as part of album campaigns. Collectors and memorabilia specialists often regard these channels as among the most reliable ways to obtain authentic signed items because the products come directly from the artist’s commercial operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstclassmemorabilia.com">[First Class Memorabilia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstclassmemorabilia.com</span><span class="citation-popover-title">First Class Memorabilia What is a signed art card?</span><span class="citation-popover-snippet">Signed CDs as Music MemorabiliaJune 23, 2024 — A Personal Connection: A music autograph represents a direct interaction between the fan a...</span><span class="citation-popover-meta">Published: June 23, 2024</span></span></span>
 
 This trend serves several purposes simultaneously:
 
@@ -322,7 +322,7 @@ This trend serves several purposes simultaneously:
 
 </div>
 
-Many contemporary releases are offered with signed inserts or art cards rather than signatures placed directly on the album packaging. This approach allows artists to sign large quantities of items more efficiently while still providing something marketed as hand-signed. Official music merchandise retailers have built entire sections around these signed editions, demonstrating the continuing demand for artist-marked physical releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bravado.de/en/collections/handsigniert?srsltid=AfmBOoodEslNnR5So4wbAnFqn1khdfGzXMd6O0Ir-_EYYocj9oq8SMAD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bravado.de">[Bravado]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bravado.de</span><span class="citation-popover-title">Handsignierte Fanartikel</span><span class="citation-popover-snippet">Handsignierte Fanartikel - BravadoEntdecke handsignierte Alben, Vinyls, CDs und Fanboxen mit Autogramm im offiziellen Bravado Shop...</span></span></span>
+Many contemporary releases are offered with signed inserts or art cards rather than signatures placed directly on the album packaging. This approach allows artists to sign large quantities of items more efficiently while still providing something marketed as hand-signed. Official music merchandise retailers have built entire sections around these signed editions, demonstrating the continuing demand for artist-marked physical releases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bravado.de/en/collections/handsigniert?srsltid=AfmBOoodEslNnR5So4wbAnFqn1khdfGzXMd6O0Ir-_EYYocj9oq8SMAD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bravado.de">[Bravado]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bravado.de</span><span class="citation-popover-title">Handsignierte Fanartikel</span><span class="citation-popover-snippet">Handsignierte Fanartikel - BravadoEntdecke handsignierte Alben, Vinyls, CDs und Fanboxen mit Autogramm im offiziellen Bravado Shop...</span></span></span>
 
 For fans, authenticity is often as important as rarity. A signature obtained from an artist’s official store may feel more meaningful than a supposedly rarer item purchased from an unknown seller because confidence in its origin supports the sense of connection.
 
@@ -331,7 +331,7 @@ For fans, authenticity is often as important as rarity. A signature obtained fro
 
 The emotional appeal of signed music creates an obvious problem: the stronger the perceived connection, the greater the disappointment when authenticity is questioned.
 
-Forgery has long been a major issue in autograph collecting. Dealers and authentication specialists repeatedly warn that counterfeit signatures remain widespread in music memorabilia markets, particularly when famous artists are involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autographs.co.uk/signed-records-CD-vinyl-autographs-photos-signatures-authentic-genuine-UACC-RACC-AFTAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autographs.co.uk">[autographs.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autographs.co.uk</span><span class="citation-popover-snippet">Signed Records or CD&#x27;sWe&#x27;re regularly asked about the authenticity of signed vinyl items that are being sold on Facebook Marketplace or E...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicgoldmine.com/blogs/news/authenticity-5-more-tips-for-autograph-buyers?srsltid=AfmBOoqr1XeMz8g-5zB8Jo3II7af2NtjhU4d6DKF9jQeemmkNXpaPbiZ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicgoldmine.com">[MusicGoldmine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicgoldmine.com</span><span class="citation-popover-title">authenticity 5 more tips for autograph buyers</span><span class="citation-popover-snippet">music memorabilia collectors and fans seeking real autographed items from their favorite artists are still being duped by unscrupulous se...</span></span></span>
+Forgery has long been a major issue in autograph collecting. Dealers and authentication specialists repeatedly warn that counterfeit signatures remain widespread in music memorabilia markets, particularly when famous artists are involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autographs.co.uk/signed-records-CD-vinyl-autographs-photos-signatures-authentic-genuine-UACC-RACC-AFTAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autographs.co.uk">[autographs.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autographs.co.uk</span><span class="citation-popover-snippet">Signed Records or CD&#x27;sWe&#x27;re regularly asked about the authenticity of signed vinyl items that are being sold on Facebook Marketplace or E...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://musicgoldmine.com/blogs/news/authenticity-5-more-tips-for-autograph-buyers?srsltid=AfmBOoqr1XeMz8g-5zB8Jo3II7af2NtjhU4d6DKF9jQeemmkNXpaPbiZ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicgoldmine.com">[MusicGoldmine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicgoldmine.com</span><span class="citation-popover-title">authenticity 5 more tips for autograph buyers</span><span class="citation-popover-snippet">music memorabilia collectors and fans seeking real autographed items from their favorite artists are still being duped by unscrupulous se...</span></span></span>
 
 Common concerns include:
 
@@ -341,15 +341,15 @@ Common concerns include:
 * Signatures added by assistants.
 * Printed or stamped reproductions.
 * Mechanically produced autopen signatures.
-* Questionable certificates of authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/bob-dylans-publisher-admits-600-books-had-replica-autographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Initially, the publisher had assured buyers with authenticity certificates and refused refunds when the issue was first raised. However...</span></span></span>
+* Questionable certificates of authenticity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/bob-dylans-publisher-admits-600-books-had-replica-autographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Initially, the publisher had assured buyers with authenticity certificates and refused refunds when the issue was first raised. However...</span></span></span>
 
 </div>
 
 The debate becomes especially intense when artists sell large numbers of supposedly signed items. Fans often expect visible differences between genuine handwritten signatures. When hundreds or thousands of copies appear nearly identical, collectors may suspect mechanical reproduction.
 
-Several high-profile controversies have centred on this issue. Fans questioned whether some “signed” music-related products were actually hand-signed after noticing unusually uniform signatures. Public disputes involving celebrity merchandise and limited editions have reinforced concerns that authenticity is central to the emotional value of a signed object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://superdeluxeedition.com/news/van-morrison-fans-claim-signed-cds-of-the-new-album-are-stamped/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: superdeluxeedition.com">[Super Deluxe Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">superdeluxeedition.com</span><span class="citation-popover-title">Super Deluxe Edition Van Morrison fans claim signed CDs of the new album are</span><span class="citation-popover-snippet">Super Deluxe EditionVan Morrison fans claim signed CDs of the new album are &#x27;...May 11, 2021 — 11 May 2021 — A signed edition should inv...</span><span class="citation-popover-meta">Published: May 11, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Premium editions of the book were sold for as much as $250, but buyers noticed that the signatures appeared strikingly identical, suggest...</span></span></span>
+Several high-profile controversies have centred on this issue. Fans questioned whether some “signed” music-related products were actually hand-signed after noticing unusually uniform signatures. Public disputes involving celebrity merchandise and limited editions have reinforced concerns that authenticity is central to the emotional value of a signed object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://superdeluxeedition.com/news/van-morrison-fans-claim-signed-cds-of-the-new-album-are-stamped/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: superdeluxeedition.com">[Super Deluxe Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">superdeluxeedition.com</span><span class="citation-popover-title">Super Deluxe Edition Van Morrison fans claim signed CDs of the new album are</span><span class="citation-popover-snippet">Super Deluxe EditionVan Morrison fans claim signed CDs of the new album are &#x27;...May 11, 2021 — 11 May 2021 — A signed edition should inv...</span><span class="citation-popover-meta">Published: May 11, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Premium editions of the book were sold for as much as $250, but buyers noticed that the signatures appeared strikingly identical, suggest...</span></span></span>
 
-The reaction is revealing. Buyers are rarely upset only because of potential resale value. They often describe feeling misled because the promise of personal artist involvement was part of what they believed they were purchasing. When that involvement appears absent, the object can lose much of its emotional significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Premium editions of the book were sold for as much as $250, but buyers noticed that the signatures appeared strikingly identical, suggest...</span></span></span>
+The reaction is revealing. Buyers are rarely upset only because of potential resale value. They often describe feeling misled because the promise of personal artist involvement was part of what they believed they were purchasing. When that involvement appears absent, the object can lose much of its emotional significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Premium editions of the book were sold for as much as $250, but buyers noticed that the signatures appeared strikingly identical, suggest...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oUhlAoWRfrg" title="Autographed Vinyl Records &amp; CDs - Are You Buyin&#x27;?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oUhlAoWRfrg" target="_blank" rel="noopener noreferrer">Autographed Vinyl Records &amp; CDs - Are You Buyin&#x27;?</a></p><p class="youtube-embed-meta">Channel: Tunes That Kill &middot; Views: 241 &middot; Uploaded: April 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oUhlAoWRfrg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oUhlAoWRfrg">Open on YouTube</a></p></div></div></div>
 
@@ -360,194 +360,194 @@ Even in an era of streaming, signed albums continue to matter because they reinf
 A signature does not change the songs. It changes the meaning of the object that carries them. Whether obtained at a concert, ordered from an artist’s store or carefully authenticated through collecting channels, a signed album can transform a mass-produced release into something that feels unique. That perceived closeness to the artist is precisely why signed editions remain one of the most effective ways physical music [formats]({{ 'formats/' | relative_url }}) create a stronger sense of fan ownership.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Signed Albums Feel More Personal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Signed Albums Feel More Personal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Helps explain emotional attachment to music and collecting behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain emotional attachment to music and collecting behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Record+collecting+for+girls+Courtney+E.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Record collecting for girls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9810030-M.jpg" alt="Cover for Record collecting for girls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Record+collecting+for+girls+Courtney+E.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Record collecting for girls">Record collecting for girls</a>
-        </h4>
-        <p class="fr-book-author">By Courtney E. Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Record+collecting+for+girls+Courtney+E.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Record collecting for girls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9810030-M.jpg" alt="Cover for Record collecting for girls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Record+collecting+for+girls+Courtney+E.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Record collecting for girls">Record collecting for girls</a>
+</h4>
+<p class="fr-book-author">By Courtney E. Smith</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Rock music, Women rock music fans, Anecdotes, Collectors and collecting, Sound recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Record+collecting+for+girls+Courtney+E.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Rock music, Women rock music fans, Anecdotes, Collectors and collecting, Sound recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Record+collecting+for+girls+Courtney+E.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+freak+Corbett%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl freak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12448405-M.jpg" alt="Cover for Vinyl freak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vinyl+freak+Corbett%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl freak">Vinyl freak</a>
-        </h4>
-        <p class="fr-book-author">By Corbett, John</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+freak+Corbett%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl freak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12448405-M.jpg" alt="Cover for Vinyl freak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vinyl+freak+Corbett%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl freak">Vinyl freak</a>
+</h4>
+<p class="fr-book-author">By Corbett, John</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reviews, Dating, Discography, Sound recordings, Jazz.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vinyl+freak+Corbett%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reviews, Dating, Discography, Sound recordings, Jazz.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vinyl+freak+Corbett%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
-        </h4>
-        <p class="fr-book-author">By Eilon Paz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
+</h4>
+<p class="fr-book-author">By Eilon Paz</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Interviews, Sound recordings, Collectors and collecting, Pictorial works, Anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Interviews, Sound recordings, Collectors and collecting, Pictorial works, Anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Record+collecting+for+girls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Record collecting for girls</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl+freak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl freak</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Record+collecting+for+girls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Record collecting for girls</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl+freak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl freak</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for D:Ream Do It Anyway (Vinyl) 12&quot; SIGNED Album Coloured Vinyl (Limited Edition) 🤩"><img src="https://i.ebayimg.com/images/g/ZnAAAeSwdyZpiMnu/s-l225.jpg" alt="Listing image for D:Ream Do It Anyway (Vinyl) 12&quot; SIGNED Album Coloured Vinyl (Limited Edition) 🤩" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">D:Ream Do It Anyway (Vinyl) 12&quot; SIGNED Album Coloured Vinyl (Limited Edition) 🤩</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search <span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for D:Ream Do It Anyway (Vinyl) 12&quot; SIGNED Album Coloured Vinyl (Limited Edition) 🤩"><img src="https://i.ebayimg.com/images/g/ZnAAAeSwdyZpiMnu/s-l225.jpg" alt="Listing image for D:Ream Do It Anyway (Vinyl) 12&quot; SIGNED Album Coloured Vinyl (Limited Edition) 🤩" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">D:Ream Do It Anyway (Vinyl) 12&quot; SIGNED Album Coloured Vinyl (Limited Edition) 🤩</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search<span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beth Orton - The Ground Above (hmv Exclusive) Signed CD Album - Pre-sale"><img src="https://i.ebayimg.com/images/g/~4kAAeSw3alqLAk6/s-l225.jpg" alt="Listing image for Beth Orton - The Ground Above (hmv Exclusive) Signed CD Album - Pre-sale" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">Beth Orton - The Ground Above (hmv Exclusive) Signed CD Album - Pre-sale</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search <span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beth Orton - The Ground Above (hmv Exclusive) Signed CD Album - Pre-sale"><img src="https://i.ebayimg.com/images/g/~4kAAeSw3alqLAk6/s-l225.jpg" alt="Listing image for Beth Orton - The Ground Above (hmv Exclusive) Signed CD Album - Pre-sale" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">Beth Orton - The Ground Above (hmv Exclusive) Signed CD Album - Pre-sale</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search<span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evanescence - Sanctuary Deluxe CD Blu-Ray &amp; Signed Autograph Amy Lee Art Card"><img src="https://i.ebayimg.com/images/g/vB0AAeSweKtqJY3d/s-l225.jpg" alt="Listing image for Evanescence - Sanctuary Deluxe CD Blu-Ray &amp; Signed Autograph Amy Lee Art Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">Evanescence - Sanctuary Deluxe CD Blu-Ray &amp; Signed Autograph Amy Lee Art Card</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search <span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evanescence - Sanctuary Deluxe CD Blu-Ray &amp; Signed Autograph Amy Lee Art Card"><img src="https://i.ebayimg.com/images/g/vB0AAeSweKtqJY3d/s-l225.jpg" alt="Listing image for Evanescence - Sanctuary Deluxe CD Blu-Ray &amp; Signed Autograph Amy Lee Art Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">Evanescence - Sanctuary Deluxe CD Blu-Ray &amp; Signed Autograph Amy Lee Art Card</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search<span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kiefer Sutherland : Grey -* SIGNED / AUTOGRAPHED *- CD 2026 New, *IN STOCK"><img src="https://i.ebayimg.com/images/g/PHAAAeSwnxZp8z1o/s-l225.jpg" alt="Listing image for Kiefer Sutherland : Grey -* SIGNED / AUTOGRAPHED *- CD 2026 New, *IN STOCK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">Kiefer Sutherland : Grey -* SIGNED / AUTOGRAPHED *- CD 2026 New, *IN STOCK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search <span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kiefer Sutherland : Grey -* SIGNED / AUTOGRAPHED *- CD 2026 New, *IN STOCK"><img src="https://i.ebayimg.com/images/g/PHAAAeSwnxZp8z1o/s-l225.jpg" alt="Listing image for Kiefer Sutherland : Grey -* SIGNED / AUTOGRAPHED *- CD 2026 New, *IN STOCK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">Kiefer Sutherland : Grey -* SIGNED / AUTOGRAPHED *- CD 2026 New, *IN STOCK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for signed album">Search<span data-ebay-domain-label>eBay.co.uk</span>: signed album</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=signed+album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-signed-albums-feel-more-personal-signed-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="signed album" data-ebay-reference="why-signed-albums-feel-more-personal-signed-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ A signature does not change the songs. It changes the meaning of the object that
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ A signature does not change the songs. It changes the meaning of the object that
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ A signature does not change the songs. It changes the meaning of the object that
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ A signature does not change the songs. It changes the meaning of the object that
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ A signature does not change the songs. It changes the meaning of the object that
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,140 +753,140 @@ A signature does not change the songs. It changes the meaning of the object that
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bravado.de  
    Title: Handsignierte Fanartikel  
-   Link: <a href="https://www.bravado.de/en/collections/handsigniert?srsltid=AfmBOoodEslNnR5So4wbAnFqn1khdfGzXMd6O0Ir-_EYYocj9oq8SMAD" target="_blank" rel="noopener noreferrer nofollow">https://www.bravado.de/en/collections/handsigniert?srsltid=AfmBOoodEslNnR5So4wbAnFqn1khdfGzXMd6O0Ir-_EYYocj9oq8SMAD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Handsignierte Fanartikel - BravadoEntdecke handsignierte Alben, Vinyls, CDs und Fanboxen mit Autogramm im offiziellen Bravado Shop...</p></details>
+   Link:<a href="https://www.bravado.de/en/collections/handsigniert?srsltid=AfmBOoodEslNnR5So4wbAnFqn1khdfGzXMd6O0Ir-_EYYocj9oq8SMAD" target="_blank" rel="noopener noreferrer nofollow">https://www.bravado.de/en/collections/handsigniert?srsltid=AfmBOoodEslNnR5So4wbAnFqn1khdfGzXMd6O0Ir-_EYYocj9oq8SMAD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handsignierte Fanartikel - BravadoEntdecke handsignierte Alben, Vinyls, CDs und Fanboxen mit Autogramm im offiziellen Bravado Shop...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: autographs.co.uk  
-   Link: <a href="https://www.autographs.co.uk/signed-records-CD-vinyl-autographs-photos-signatures-authentic-genuine-UACC-RACC-AFTAL" target="_blank" rel="noopener noreferrer nofollow">https://www.autographs.co.uk/signed-records-CD-vinyl-autographs-photos-signatures-authentic-genuine-UACC-RACC-AFTAL</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signed Records or CD&#x27;sWe&#x27;re regularly asked about the authenticity of signed vinyl items that are being sold on Facebook Marketplace or E...</p></details>
+   Link:<a href="https://www.autographs.co.uk/signed-records-CD-vinyl-autographs-photos-signatures-authentic-genuine-UACC-RACC-AFTAL" target="_blank" rel="noopener noreferrer nofollow">https://www.autographs.co.uk/signed-records-CD-vinyl-autographs-photos-signatures-authentic-genuine-UACC-RACC-AFTAL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signed Records or CD&#x27;sWe&#x27;re regularly asked about the authenticity of signed vinyl items that are being sold on Facebook Marketplace or E...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: musicgoldmine.com  
    Title: authenticity 5 more tips for autograph buyers  
-   Link: <a href="https://musicgoldmine.com/blogs/news/authenticity-5-more-tips-for-autograph-buyers?srsltid=AfmBOoqr1XeMz8g-5zB8Jo3II7af2NtjhU4d6DKF9jQeemmkNXpaPbiZ" target="_blank" rel="noopener noreferrer nofollow">https://musicgoldmine.com/blogs/news/authenticity-5-more-tips-for-autograph-buyers?srsltid=AfmBOoqr1XeMz8g-5zB8Jo3II7af2NtjhU4d6DKF9jQeemmkNXpaPbiZ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>music memorabilia collectors and fans seeking real autographed items from their favorite artists are still being duped by unscrupulous se...</p></details>
+   Link:<a href="https://musicgoldmine.com/blogs/news/authenticity-5-more-tips-for-autograph-buyers?srsltid=AfmBOoqr1XeMz8g-5zB8Jo3II7af2NtjhU4d6DKF9jQeemmkNXpaPbiZ" target="_blank" rel="noopener noreferrer nofollow">https://musicgoldmine.com/blogs/news/authenticity-5-more-tips-for-autograph-buyers?srsltid=AfmBOoqr1XeMz8g-5zB8Jo3II7af2NtjhU4d6DKF9jQeemmkNXpaPbiZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>music memorabilia collectors and fans seeking real autographed items from their favorite artists are still being duped by unscrupulous se...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: musicgoldmine.com  
    Title: We sell original, authenticated  
-   Link: <a href="https://musicgoldmine.com/?srsltid=AfmBOoqcRAcM652Pt4cLKOiKtmZ2u2wujadcqBPDNgzjO_9ZG4Zsd-Ha" target="_blank" rel="noopener noreferrer nofollow">https://musicgoldmine.com/?srsltid=AfmBOoqcRAcM652Pt4cLKOiKtmZ2u2wujadcqBPDNgzjO_9ZG4Zsd-Ha</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music memorabilia and collectors itemsAt MusicGoldmine.com we offer unique, authentic and one-of-a-kind music memorabilia for music fans...</p></details>
+   Link:<a href="https://musicgoldmine.com/?srsltid=AfmBOoqcRAcM652Pt4cLKOiKtmZ2u2wujadcqBPDNgzjO_9ZG4Zsd-Ha" target="_blank" rel="noopener noreferrer nofollow">https://musicgoldmine.com/?srsltid=AfmBOoqcRAcM652Pt4cLKOiKtmZ2u2wujadcqBPDNgzjO_9ZG4Zsd-Ha</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music memorabilia and collectors itemsAt MusicGoldmine.com we offer unique, authentic and one-of-a-kind music memorabilia for music fans...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: musicgoldmine.com  
-   Link: <a href="https://musicgoldmine.com/collections/signed-memorabilia?srsltid=AfmBOopFdkdGal5jpxLRbbV_x4AdN9rs-8V1qtCMdVVVAJ_qmx38esVW" target="_blank" rel="noopener noreferrer nofollow">https://musicgoldmine.com/collections/signed-memorabilia?srsltid=AfmBOopFdkdGal5jpxLRbbV_x4AdN9rs-8V1qtCMdVVVAJ_qmx38esVW</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signed MemorabiliaAll our signed memorabilia items feature real hand-signed autographs. You will find no replica, copied, or autopen sign...</p></details>
+   Link:<a href="https://musicgoldmine.com/collections/signed-memorabilia?srsltid=AfmBOopFdkdGal5jpxLRbbV_x4AdN9rs-8V1qtCMdVVVAJ_qmx38esVW" target="_blank" rel="noopener noreferrer nofollow">https://musicgoldmine.com/collections/signed-memorabilia?srsltid=AfmBOopFdkdGal5jpxLRbbV_x4AdN9rs-8V1qtCMdVVVAJ_qmx38esVW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signed MemorabiliaAll our signed memorabilia items feature real hand-signed autographs. You will find no replica, copied, or autopen sign...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: firstclassmemorabilia.com  
    Title: First Class Memorabilia What is a signed art card?  
-   Link: <a href="https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW" target="_blank" rel="noopener noreferrer nofollow">https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signed CDs as Music MemorabiliaJune 23, 2024 — A Personal Connection: A music autograph represents a direct interaction between the fan a...</p></details>
+   Link:<a href="https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW" target="_blank" rel="noopener noreferrer nofollow">https://firstclassmemorabilia.com/what-is-a-signed-art-card/?srsltid=AfmBOorv-6RcqwW84_4jP-y9p418dauwQmToZ2Z07sgEt3GPxm28yTCW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signed CDs as Music MemorabiliaJune 23, 2024 — A Personal Connection: A music autograph represents a direct interaction between the fan a...</p></details>
    Published: June 23, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: firstclassmemorabilia.com  
-   Link: <a href="https://firstclassmemorabilia.com/where-to-buy-authentic-signed-vinyl/?srsltid=AfmBOoo7aUOVDyBj5uc0c6BUg7ZglbpRUwmCERGKu3NyAVIJa0f5DTPm" target="_blank" rel="noopener noreferrer nofollow">https://firstclassmemorabilia.com/where-to-buy-authentic-signed-vinyl/?srsltid=AfmBOoo7aUOVDyBj5uc0c6BUg7ZglbpRUwmCERGKu3NyAVIJa0f5DTPm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First Class MemorabiliaA Collector&#x27;s Guide: Where to Buy Authentic Signed VinylOne of the most direct and trustworthy ways to get an auto...</p></details>
+   Link:<a href="https://firstclassmemorabilia.com/where-to-buy-authentic-signed-vinyl/?srsltid=AfmBOoo7aUOVDyBj5uc0c6BUg7ZglbpRUwmCERGKu3NyAVIJa0f5DTPm" target="_blank" rel="noopener noreferrer nofollow">https://firstclassmemorabilia.com/where-to-buy-authentic-signed-vinyl/?srsltid=AfmBOoo7aUOVDyBj5uc0c6BUg7ZglbpRUwmCERGKu3NyAVIJa0f5DTPm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Class MemorabiliaA Collector&#x27;s Guide: Where to Buy Authentic Signed VinylOne of the most direct and trustworthy ways to get an auto...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lemon8-app.com  
-   Link: <a href="https://www.lemon8-app.com/%40seokjin.with.love/7459472507108590122?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40seokjin.with.love/7459472507108590122?region=us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lemon8My Signed K-Pop Album CollectionAs a K-Pop collector, I&#x27;m thrilled to share my personal signed album collection, gathered from exci...</p></details>
+   Link:<a href="https://www.lemon8-app.com/%40seokjin.with.love/7459472507108590122?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40seokjin.with.love/7459472507108590122?region=us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lemon8My Signed K-Pop Album CollectionAs a K-Pop collector, I&#x27;m thrilled to share my personal signed album collection, gathered from exci...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: superdeluxeedition.com  
    Title: Super Deluxe Edition Van Morrison fans claim signed CDs of the new album are '  
-   Link: <a href="https://superdeluxeedition.com/news/van-morrison-fans-claim-signed-cds-of-the-new-album-are-stamped/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/news/van-morrison-fans-claim-signed-cds-of-the-new-album-are-stamped/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Super Deluxe EditionVan Morrison fans claim signed CDs of the new album are &#x27;...May 11, 2021 — 11 May 2021 — A signed edition should inv...</p></details>
+   Link:<a href="https://superdeluxeedition.com/news/van-morrison-fans-claim-signed-cds-of-the-new-album-are-stamped/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/news/van-morrison-fans-claim-signed-cds-of-the-new-album-are-stamped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Super Deluxe EditionVan Morrison fans claim signed CDs of the new album are &#x27;...May 11, 2021 — 11 May 2021 — A signed edition should inv...</p></details>
    Published: May 11, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Premium editions of the book were sold for as much as $250, but buyers noticed that the signatures appeared strikingly identical, suggest...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Premium editions of the book were sold for as much as $250, but buyers noticed that the signatures appeared strikingly identical, suggest...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/louis.tomlinson.worldwide/posts/6538464099607511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/louis.tomlinson.worldwide/posts/6538464099607511/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I just thought, everyone likes to get autographs from their...With my musical heroes, their albums are my priority to get signed, as it...</p></details>
+   Link:<a href="https://www.facebook.com/groups/louis.tomlinson.worldwide/posts/6538464099607511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/louis.tomlinson.worldwide/posts/6538464099607511/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I just thought, everyone likes to get autographs from their...With my musical heroes, their albums are my priority to get signed, as it...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/478613695592616/posts/7868248749962370/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/478613695592616/posts/7868248749962370/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>? I mean SIGNED on the vinyl cover, I do not mean a 11x11 signed...</p></details>
+   Link:<a href="https://www.facebook.com/groups/478613695592616/posts/7868248749962370/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/478613695592616/posts/7868248749962370/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>? I mean SIGNED on the vinyl cover, I do not mean a 11x11 signed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/talesfromthecollection/posts/1644774973327113/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/talesfromthecollection/posts/1644774973327113/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chine. Also there are dots at the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/talesfromthecollection/posts/1644774973327113/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/talesfromthecollection/posts/1644774973327113/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chine. Also there are dots at the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lemon8-app.com  
-   Link: <a href="https://www.lemon8-app.com/%40cypresstheworld/7452117723179631147?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40cypresstheworld/7452117723179631147?region=us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>new addition to my signed albumsI recently bagged a signed album from a K-pop girl group and was overjoyed! I&#x27;ve learned the hard way abo...</p></details>
+   Link:<a href="https://www.lemon8-app.com/%40cypresstheworld/7452117723179631147?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40cypresstheworld/7452117723179631147?region=us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>new addition to my signed albumsI recently bagged a signed album from a K-pop girl group and was overjoyed! I&#x27;ve learned the hard way abo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: firstclassmemorabilia.com  
-   Link: <a href="https://firstclassmemorabilia.com/music-autographs/?srsltid=AfmBOooFoqp5fYeyyGlDc6AEHZ6R0QNmPd7oVg7SHhpBrG1CUX4cxB_9" target="_blank" rel="noopener noreferrer nofollow">https://firstclassmemorabilia.com/music-autographs/?srsltid=AfmBOooFoqp5fYeyyGlDc6AEHZ6R0QNmPd7oVg7SHhpBrG1CUX4cxB_9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n, Rolling Stones, Pink Floyd and Queen to name a few.Read more...</p></details>
+   Link:<a href="https://firstclassmemorabilia.com/music-autographs/?srsltid=AfmBOooFoqp5fYeyyGlDc6AEHZ6R0QNmPd7oVg7SHhpBrG1CUX4cxB_9" target="_blank" rel="noopener noreferrer nofollow">https://firstclassmemorabilia.com/music-autographs/?srsltid=AfmBOooFoqp5fYeyyGlDc6AEHZ6R0QNmPd7oVg7SHhpBrG1CUX4cxB_9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n, Rolling Stones, Pink Floyd and Queen to name a few.Read more...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tracks.co.uk  
-   Link: <a href="https://www.tracks.co.uk/category/various-artists-memorabilia/various-artists-autographs-various-artists-memorabilia/" target="_blank" rel="noopener noreferrer nofollow">https://www.tracks.co.uk/category/various-artists-memorabilia/various-artists-autographs-various-artists-memorabilia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Various Artists Autographs | Available To Buy Online TodayBrowse our range of various artists autographs online today. All available to p...</p></details>
+   Link:<a href="https://www.tracks.co.uk/category/various-artists-memorabilia/various-artists-autographs-various-artists-memorabilia/" target="_blank" rel="noopener noreferrer nofollow">https://www.tracks.co.uk/category/various-artists-memorabilia/various-artists-autographs-various-artists-memorabilia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Various Artists Autographs | Available To Buy Online TodayBrowse our range of various artists autographs online today. All available to p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/bob-dylans-publisher-admits-600-books-had-replica-autographs" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/bob-dylans-publisher-admits-600-books-had-replica-autographs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially, the publisher had assured buyers with authenticity certificates and refused refunds when the issue was first raised. However...</p></details>
+   Link:<a href="https://pitchfork.com/news/bob-dylans-publisher-admits-600-books-had-replica-autographs" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/bob-dylans-publisher-admits-600-books-had-replica-autographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially, the publisher had assured buyers with authenticity certificates and refused refunds when the issue was first raised. However...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: autographia.com  
    Title: signed vinyl vs signed cds vs signed photos what holds value best  
-   Link: <a href="https://autographia.com/signed-vinyl-vs-signed-cds-vs-signed-photos-what-holds-value-best/?srsltid=AfmBOoqKG0kPrgZMog2WCj-NhOhBPUYRs--rgKe94Q16qTGhMAY1Y2m4" target="_blank" rel="noopener noreferrer nofollow">https://autographia.com/signed-vinyl-vs-signed-cds-vs-signed-photos-what-holds-value-best/?srsltid=AfmBOoqKG0kPrgZMog2WCj-NhOhBPUYRs--rgKe94Q16qTGhMAY1Y2m4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signed Vinyl vs Signed CDs vs Signed Photos: What Holds...13 Mar 2026 — On average, signed vinyl tends to hold and grow value best over...</p></details>
+   Link:<a href="https://autographia.com/signed-vinyl-vs-signed-cds-vs-signed-photos-what-holds-value-best/?srsltid=AfmBOoqKG0kPrgZMog2WCj-NhOhBPUYRs--rgKe94Q16qTGhMAY1Y2m4" target="_blank" rel="noopener noreferrer nofollow">https://autographia.com/signed-vinyl-vs-signed-cds-vs-signed-photos-what-holds-value-best/?srsltid=AfmBOoqKG0kPrgZMog2WCj-NhOhBPUYRs--rgKe94Q16qTGhMAY1Y2m4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signed Vinyl vs Signed CDs vs Signed Photos: What Holds...13 Mar 2026 — On average, signed vinyl tends to hold and grow value best over...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: live.autographmagazine.com  
    Title: what s your opinion about amazon exclusive signed edition albums  
-   Link: <a href="https://live.autographmagazine.com/forum/topics/what-s-your-opinion-about-amazon-exclusive-signed-edition-albums" target="_blank" rel="noopener noreferrer nofollow">https://live.autographmagazine.com/forum/topics/what-s-your-opinion-about-amazon-exclusive-signed-edition-albums</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many good companies have signed CD and vinyl deals to help promote upcoming albums, and Amazon is one of...Read more...</p></details>
+   Link:<a href="https://live.autographmagazine.com/forum/topics/what-s-your-opinion-about-amazon-exclusive-signed-edition-albums" target="_blank" rel="noopener noreferrer nofollow">https://live.autographmagazine.com/forum/topics/what-s-your-opinion-about-amazon-exclusive-signed-edition-albums</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many good companies have signed CD and vinyl deals to help promote upcoming albums, and Amazon is one of...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/popculturechat/comments/1rc5rs7/hilary_duff_has_been_using_autopen_made_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1rc5rs7/hilary_duff_has_been_using_autopen_made_by/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e and sell &quot;signed copies&quot; of merchandise. The Music Industry.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/popculturechat/comments/1rc5rs7/hilary_duff_has_been_using_autopen_made_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1rc5rs7/hilary_duff_has_been_using_autopen_made_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e and sell &quot;signed copies&quot; of merchandise. The Music Industry.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SignedAlbums/comments/vj8rmj/any_websites_youd_recommend_for_signed_albums/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SignedAlbums/comments/vj8rmj/any_websites_youd_recommend_for_signed_albums/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ewburry comics, merchbar, Warner music, and premier collectibles...</p></details>
+   Link:<a href="https://www.reddit.com/r/SignedAlbums/comments/vj8rmj/any_websites_youd_recommend_for_signed_albums/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SignedAlbums/comments/vj8rmj/any_websites_youd_recommend_for_signed_albums/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ewburry comics, merchbar, Warner music, and premier collectibles...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forums.stevehoffman.tv  
-   Link: <a href="https://forums.stevehoffman.tv/threads/advice-on-obtaining-signed-vinyl.1104315/" target="_blank" rel="noopener noreferrer nofollow">https://forums.stevehoffman.tv/threads/advice-on-obtaining-signed-vinyl.1104315/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on obtaining signed vinyl22 Aug 2021 — The best advice I can give is judge the signature and the item it appears on, not the certificate...</p></details>
+   Link:<a href="https://forums.stevehoffman.tv/threads/advice-on-obtaining-signed-vinyl.1104315/" target="_blank" rel="noopener noreferrer nofollow">https://forums.stevehoffman.tv/threads/advice-on-obtaining-signed-vinyl.1104315/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on obtaining signed vinyl22 Aug 2021 — The best advice I can give is judge the signature and the item it appears on, not the certificate...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/tell-it-like-it-was/fake-rock-roll-autographs-may-outnumber-the-real-ones-a5c4cbc7bd7d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/tell-it-like-it-was/fake-rock-roll-autographs-may-outnumber-the-real-ones-a5c4cbc7bd7d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Beatles autographs on the market are forgeries...</p></details>
+   Link:<a href="https://medium.com/tell-it-like-it-was/fake-rock-roll-autographs-may-outnumber-the-real-ones-a5c4cbc7bd7d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/tell-it-like-it-was/fake-rock-roll-autographs-may-outnumber-the-real-ones-a5c4cbc7bd7d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Beatles autographs on the market are forgeries...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thetimes.co.uk  
    Title: The Times Sign here please  
-   Link: <a href="https://www.thetimes.co.uk/article/sign-here-please-the-celebrity-autographs-worth-millions-times-luxury-lpp07td3k" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/sign-here-please-the-celebrity-autographs-worth-millions-times-luxury-lpp07td3k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By the 16th century, autograph albums (&quot;album amicorum&quot;) became prevalent, while the Victorians initiated the market for auctioning signe...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/sign-here-please-the-celebrity-autographs-worth-millions-times-luxury-lpp07td3k" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/sign-here-please-the-celebrity-autographs-worth-millions-times-luxury-lpp07td3k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By the 16th century, autograph albums (&quot;album amicorum&quot;) became prevalent, while the Victorians initiated the market for auctioning signe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: live.autographmagazine.com  
    Title: pop [culture](&#123;&#123; 'culture/' | relative_url &#125;&#125;) signatures  
-   Link: <a href="https://live.autographmagazine.com/forum/topics/pop-culture-signatures" target="_blank" rel="noopener noreferrer nofollow">https://live.autographmagazine.com/forum/topics/pop-culture-signatures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Culture Signatures, Autograph Central...5 Mar 2011 — Has anyone checked out all the fakes on these websites, www.popculturesignatures.co...</p></details>
+   Link:<a href="https://live.autographmagazine.com/forum/topics/pop-culture-signatures" target="_blank" rel="noopener noreferrer nofollow">https://live.autographmagazine.com/forum/topics/pop-culture-signatures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Culture Signatures, Autograph Central...5 Mar 2011 — Has anyone checked out all the fakes on these websites, www.popculturesignatures.co...</p></details>

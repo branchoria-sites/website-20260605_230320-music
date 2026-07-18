@@ -279,235 +279,235 @@ Synthesizers dont *just* make square waves and bleeps  they can be engineered to
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-1-dark.svg" | relative_url }}" alt="Synthetic Timbre illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Harmonic Modulation and Envelope Shaping
 
-At the heart of electronic timbre design is **control of harmonic content and its evolution over time**. Oscillators generate basic waveforms  sawtooth, square, triangle and sine  whose harmonic makeup determines the raw spectral richness. Filters then sculpt that spectrum, emphasising or attenuating frequency bands to lend brightness or warmth. Subtractive synthesis uses this principle: starting with a rich waveform and then removing specific overtones with filters that can be dynamically modulated, producing more complex and evolving timbres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Subtractive_synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Subtractive synthesis</span><span class="citation-popover-snippet">Subtractive synthesis</span></span></span>
+At the heart of electronic timbre design is **control of harmonic content and its evolution over time**. Oscillators generate basic waveforms  sawtooth, square, triangle and sine  whose harmonic makeup determines the raw spectral richness. Filters then sculpt that spectrum, emphasising or attenuating frequency bands to lend brightness or warmth. Subtractive synthesis uses this principle: starting with a rich waveform and then removing specific overtones with filters that can be dynamically modulated, producing more complex and evolving timbres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Subtractive_synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Subtractive synthesis</span><span class="citation-popover-snippet">Subtractive synthesis</span></span></span>
 
-Dynamic shaping of the **amplitude and filter envelope**  typically via ADSR (attack, decay, sustain, release) controls  further influences how a sound feels alive. Instead of static tones, evolving envelopes give sounds a perceptible life cycle, much like the way a singers breath and articulation change over time. Modulating filter cutoff and resonance over the duration of a note creates spectral movement that mimics expressive articulation in human performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-tj/guide/logicpro-ipad/lpip6435405e/ipados" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-title">Support How subtractive synthesizers work</span><span class="citation-popover-snippet">Apple SupportHow subtractive synthesizers work - Apple Support (TJ)...</span></span></span>
+Dynamic shaping of the **amplitude and filter envelope**  typically via ADSR (attack, decay, sustain, release) controls  further influences how a sound feels alive. Instead of static tones, evolving envelopes give sounds a perceptible life cycle, much like the way a singers breath and articulation change over time. Modulating filter cutoff and resonance over the duration of a note creates spectral movement that mimics expressive articulation in human performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-tj/guide/logicpro-ipad/lpip6435405e/ipados" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-title">Support How subtractive synthesizers work</span><span class="citation-popover-snippet">Apple SupportHow subtractive synthesizers work - Apple Support (TJ)...</span></span></span>
 
-Moreover, modulation sources such as lowfrequency oscillators (LFOs) or envelope generators add temporal variation to pitch, amplitude and filter parameters, introducing micromotions akin to vibrato or tremolo  subtleties that imbue synthesized tones with organic variation rather than flat electronic consistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/modulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
+Moreover, modulation sources such as lowfrequency oscillators (LFOs) or envelope generators add temporal variation to pitch, amplitude and filter parameters, introducing micromotions akin to vibrato or tremolo  subtleties that imbue synthesized tones with organic variation rather than flat electronic consistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/modulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RkLpsKIq0fM" title="NMC Learning at Home: The SynthesizerWhat is a Synth? (Part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RkLpsKIq0fM" target="_blank" rel="noopener noreferrer">NMC Learning at Home: The SynthesizerWhat is a Synth? (Part 1)</a></p><p class="youtube-embed-meta">Channel: National Music Centre &middot; Views: 1.9K &middot; Uploaded: January 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RkLpsKIq0fM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RkLpsKIq0fM">Open on YouTube</a></p></div></div></div>
 
 ## Incorporating VocalLike Resonances
 
-One of the most direct ways electronic synthesis approximates human timbre is by **emulating the resonances of the vocal tract**. In speech science, resonant peaks called *formants* define vowel characteristics; a sound might share the same pitch but feel like ee or ah because of fixed resonant frequency bands emphasised by the vocal tract. Formant synthesis deliberately recreates these resonant peaks using bandpass filters or digital algorithms to approximate vocal cavity shaping, producing vowellike and speechlike qualities without using actual samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dreyandersson.com/music-production-terms/formant-synthesis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dreyandersson.com">[Drey Andersson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dreyandersson.com</span><span class="citation-popover-title">Drey Andersson Formant Synthesis &#124; Drey Andersson</span><span class="citation-popover-snippet">Drey AnderssonFormant Synthesis &#124; Drey AnderssonJune 19, 2025...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span>
+One of the most direct ways electronic synthesis approximates human timbre is by **emulating the resonances of the vocal tract**. In speech science, resonant peaks called *formants* define vowel characteristics; a sound might share the same pitch but feel like ee or ah because of fixed resonant frequency bands emphasised by the vocal tract. Formant synthesis deliberately recreates these resonant peaks using bandpass filters or digital algorithms to approximate vocal cavity shaping, producing vowellike and speechlike qualities without using actual samples.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dreyandersson.com/music-production-terms/formant-synthesis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dreyandersson.com">[Drey Andersson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dreyandersson.com</span><span class="citation-popover-title">Drey Andersson Formant Synthesis &#124; Drey Andersson</span><span class="citation-popover-snippet">Drey AnderssonFormant Synthesis &#124; Drey AnderssonJune 19, 2025...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span>
 
-This idea of resonant filtering draws inspiration from human voice production: an oscillator (like the human larynx) supplies harmonics while serial filters mimic the mouth and throats frequency selectivity. By controlling formant positions and bandwidths, synth patches can suggest vowel articulations, lending a more *vocal impression* even in purely electronic timbres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/formant-synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
+This idea of resonant filtering draws inspiration from human voice production: an oscillator (like the human larynx) supplies harmonics while serial filters mimic the mouth and throats frequency selectivity. By controlling formant positions and bandwidths, synth patches can suggest vowel articulations, lending a more *vocal impression* even in purely electronic timbres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/formant-synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
 
-Beyond traditional formants, modern synthesisers often embed **vocalinspired waveforms or wavetables** that capture nuances of humanlike sounds. Wavetable synthesis cycles through different stored waveform shapes, allowing a timbre to morph over time or space through dynamic modulation  a technique that can approximate the evolving spectral contours found in expressive voices or acoustic instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wavetable_synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wavetable synthesis</span><span class="citation-popover-snippet">Wavetable synthesis</span></span></span>
+Beyond traditional formants, modern synthesisers often embed **vocalinspired waveforms or wavetables** that capture nuances of humanlike sounds. Wavetable synthesis cycles through different stored waveform shapes, allowing a timbre to morph over time or space through dynamic modulation  a technique that can approximate the evolving spectral contours found in expressive voices or acoustic instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wavetable_synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wavetable synthesis</span><span class="citation-popover-snippet">Wavetable synthesis</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-2-dark.svg" | relative_url }}" alt="Synthetic Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Avoiding MechanicalSounding Artifacts
 
-Achieving humanlike timbre isnt just about adding complexity  its also about **avoiding artefacts that betray mechanical origins**. Static spectra and rigid envelopes tend to sound lifeless; real voices and acoustic instruments have microvariations in amplitude, frequency and noise content that electronic signals must emulate. Techniques like frequency modulation (FM) and phase modulation introduce inharmonic sidebands and evolving spectral detail, which can break up the rigid electronic feel and approach the richness of natural sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.inmusicstore.com/en/support/solutions/articles/69000867264-synthesis-101-synthesizer-features" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.inmusicstore.com">[inMusic Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.inmusicstore.com</span><span class="citation-popover-title">in Music Store Synthesis 101 &#124; Synthesizer Features</span><span class="citation-popover-snippet">inMusic StoreSynthesis 101 &#124; Synthesizer Features - inMusic SupportBy adjusting these parameters, FM synthesis can produce an exceptional...</span></span></span>
+Achieving humanlike timbre isnt just about adding complexity  its also about **avoiding artefacts that betray mechanical origins**. Static spectra and rigid envelopes tend to sound lifeless; real voices and acoustic instruments have microvariations in amplitude, frequency and noise content that electronic signals must emulate. Techniques like frequency modulation (FM) and phase modulation introduce inharmonic sidebands and evolving spectral detail, which can break up the rigid electronic feel and approach the richness of natural sounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.inmusicstore.com/en/support/solutions/articles/69000867264-synthesis-101-synthesizer-features" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.inmusicstore.com">[inMusic Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.inmusicstore.com</span><span class="citation-popover-title">in Music Store Synthesis 101 &#124; Synthesizer Features</span><span class="citation-popover-snippet">inMusic StoreSynthesis 101 &#124; Synthesizer Features - inMusic SupportBy adjusting these parameters, FM synthesis can produce an exceptional...</span></span></span>
 
-In addition, including elements such as **controlled noise components or transient variations** helps sidestep sterility. Breathiness, aspiration noise and consonantlike clicks are important features of human vocal timbre; integrating noise sources and shaping their envelopes lets synthesized sounds incorporate these organic textures without resorting to sampling or [recording]({{ 'recording/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/modulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
+In addition, including elements such as **controlled noise components or transient variations** helps sidestep sterility. Breathiness, aspiration noise and consonantlike clicks are important features of human vocal timbre; integrating noise sources and shaping their envelopes lets synthesized sounds incorporate these organic textures without resorting to sampling or [recording]({{ 'recording/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/modulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
 
-Finally, expressive control  via modulation sources keyed to [performance gestures]({{ 'performance-gestures/' | relative_url }}) like velocity, aftertouch or pitch bending  injects variability that parallels human expressivity. Without such performancedependent modulation, even spectrally rich tones can feel static and artificial; tying timbre changes to how a musician plays helps the sound breathe and react in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/formant-synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
+Finally, expressive control  via modulation sources keyed to [performance gestures]({{ 'performance-gestures/' | relative_url }}) like velocity, aftertouch or pitch bending  injects variability that parallels human expressivity. Without such performancedependent modulation, even spectrally rich tones can feel static and artificial; tying timbre changes to how a musician plays helps the sound breathe and react in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soundonsound.com/techniques/formant-synthesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vuWl9EMDMIU" title="Every Type of Synthesizer Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vuWl9EMDMIU" target="_blank" rel="noopener noreferrer">Every Type of Synthesizer Explained</a></p><p class="youtube-embed-meta">Channel: Sounds Good &middot; Views: 133.2K &middot; Uploaded: August 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vuWl9EMDMIU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vuWl9EMDMIU">Open on YouTube</a></p></div></div></div>
 
 ## Beyond Traditional Synthesis: Emerging Timbral Control
 
-While classic synthesis techniques provide foundational tools, **advanced timbral control methods** are emerging. Research into datadriven timbre manipulation, such as using machine learning to map perceptual descriptors (e.g., warm, bright) onto synthesis parameters, aims to make highlevel expressive control more intuitive. Such approaches can allow producers to steer timbre in semantically meaningful ways rather than tweaking lowlevel knobs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.18628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label</span><span class="citation-popover-snippet">Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic LabelOctober 24, 2024...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
+While classic synthesis techniques provide foundational tools, **advanced timbral control methods** are emerging. Research into datadriven timbre manipulation, such as using machine learning to map perceptual descriptors (e.g., warm, bright) onto synthesis parameters, aims to make highlevel expressive control more intuitive. Such approaches can allow producers to steer timbre in semantically meaningful ways rather than tweaking lowlevel knobs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.18628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label</span><span class="citation-popover-snippet">Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic LabelOctober 24, 2024...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
 
-Similarly, realtime timbre interpolation systems and autoencoderbased synthesis explore smoothly blending between timbral states with independent pitch control, expanding the palette for humanlike expression in electronic sound design. These techniques suggest a future where timbral nuance  not just pitch and volume  becomes a firstclass performance parameter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.18628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label</span><span class="citation-popover-snippet">Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic LabelOctober 24, 2024...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
+Similarly, realtime timbre interpolation systems and autoencoderbased synthesis explore smoothly blending between timbral states with independent pitch control, expanding the palette for humanlike expression in electronic sound design. These techniques suggest a future where timbral nuance  not just pitch and volume  becomes a firstclass performance parameter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.18628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label</span><span class="citation-popover-snippet">Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic LabelOctober 24, 2024...</span><span class="citation-popover-meta">Published: October 24, 2024</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-3-dark.svg" | relative_url }}" alt="Synthetic Timbre illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-Electronic synthesis techniques for humanlike timbre revolve around **controlling harmonic content, resonances and temporal dynamics** in ways that resemble vocal and acoustic sources. From traditional subtractive and wavetable methods to formantbased filtering and dynamic modulation, these tools give electronic sounds expressive depth and organic character. Avoiding rigid, mechanical artifacts and leveraging performancelinked modulation are equally critical for achieving naturalfeeling timbres. Emerging research into datainformed control promises even richer, more intuitive timbral expressivity in the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Academic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">AcademicAcademic or academics may refer to: Academic discipline, a subdivision of knowledge that is taught and researched at the colle...</span></span></span>
+Electronic synthesis techniques for humanlike timbre revolve around **controlling harmonic content, resonances and temporal dynamics** in ways that resemble vocal and acoustic sources. From traditional subtractive and wavetable methods to formantbased filtering and dynamic modulation, these tools give electronic sounds expressive depth and organic character. Avoiding rigid, mechanical artifacts and leveraging performancelinked modulation are equally critical for achieving naturalfeeling timbres. Emerging research into datainformed control promises even richer, more intuitive timbral expressivity in the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Academic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">AcademicAcademic or academics may refer to: Academic discipline, a subdivision of knowledge that is taught and researched at the colle...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pmo04WS1IMw" title="How to pronounce academic | British English and American English pronunciation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pmo04WS1IMw" target="_blank" rel="noopener noreferrer">How to pronounce academic | British English and American English pronunciation</a></p><p class="youtube-embed-meta">Channel: Cambridge Dictionary &middot; Views: 12.3K &middot; Uploaded: October 2021 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pmo04WS1IMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pmo04WS1IMw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Making Synthesized Sounds Feel Human and Expressive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Making Synthesized Sounds Feel Human and Expressive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tuning, timbre, spectrum, scale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/900161-M.jpg" alt="Cover for Tuning, timbre, spectrum, scale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tuning, timbre, spectrum, scale">Tuning, timbre, spectrum, scale</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tuning, timbre, spectrum, scale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/900161-M.jpg" alt="Cover for Tuning, timbre, spectrum, scale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tuning, timbre, spectrum, scale">Tuning, timbre, spectrum, scale</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores the relationship between timbre, spectra and musical perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the relationship between timbre, spectra and musical perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+synthesizer+Mark+Vail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The synthesizer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13497562-M.jpg" alt="Cover for The synthesizer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+synthesizer+Mark+Vail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The synthesizer">The synthesizer</a>
-        </h4>
-        <p class="fr-book-author">By Mark Vail</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+synthesizer+Mark+Vail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The synthesizer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13497562-M.jpg" alt="Cover for The synthesizer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+synthesizer+Mark+Vail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The synthesizer">The synthesizer</a>
+</h4>
+<p class="fr-book-author">By Mark Vail</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Synthesizer (Musical instrument), Instruction and study, Electronic music, Instrumental music, instructio...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+synthesizer+Mark+Vail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Synthesizer (Musical instrument), Instruction and study, Electronic music, Instrumental music, instructio...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+synthesizer+Mark+Vail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+sound+Andy+Farnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12150669-M.jpg" alt="Cover for Designing sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Designing+sound+Andy+Farnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing sound">Designing sound</a>
-        </h4>
-        <p class="fr-book-author">By Andy Farnell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+sound+Andy+Farnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12150669-M.jpg" alt="Cover for Designing sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Designing+sound+Andy+Farnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing sound">Designing sound</a>
+</h4>
+<p class="fr-book-author">By Andy Farnell</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Sound, Motion pictures, Computer sound processing, Video games, Sound effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Designing+sound+Andy+Farnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Sound, Motion pictures, Computer sound processing, Video games, Sound effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Designing+sound+Andy+Farnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound+Design+David+Sonnenschein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/718360-M.jpg" alt="Cover for Sound Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sound+Design+David+Sonnenschein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound Design">Sound Design</a>
-        </h4>
-        <p class="fr-book-author">By David Sonnenschein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound+Design+David+Sonnenschein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/718360-M.jpg" alt="Cover for Sound Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sound+Design+David+Sonnenschein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound Design">Sound Design</a>
+</h4>
+<p class="fr-book-author">By David Sonnenschein</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Sound motion pictures, Sound, Recording and reproducing, Motion pictures, Sound effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sound+Design+David+Sonnenschein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Sound motion pictures, Sound, Recording and reproducing, Motion pictures, Sound effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sound+Design+David+Sonnenschein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tuning, timbre, spectrum, scale</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+synthesizer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The synthesizer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing sound</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tuning%2C+timbre%2C+spectrum%2C+scale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tuning, timbre, spectrum, scale</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+synthesizer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The synthesizer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing sound</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Milli Vanilli 1989 R&amp;B Far Music Production Vintage Poster Promo 26 x 38"><img src="{{ '/assets/images/marketplace-covers/9ea7d5af8cdc60d76a66.jpg' | relative_url }}" alt="Listing image for Milli Vanilli 1989 R&amp;B Far Music Production Vintage Poster Promo 26 x 38" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Milli Vanilli 1989 R&amp;B Far Music Production Vintage Poster Promo 26 x 38</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Milli Vanilli 1989 R&amp;B Far Music Production Vintage Poster Promo 26 x 38"><img src="{{ '/assets/images/marketplace-covers/9ea7d5af8cdc60d76a66.jpg' | relative_url }}" alt="Listing image for Milli Vanilli 1989 R&amp;B Far Music Production Vintage Poster Promo 26 x 38" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Milli Vanilli 1989 R&amp;B Far Music Production Vintage Poster Promo 26 x 38</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Production Keyboard Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d54582dbcc230bfa2241.jpg' | relative_url }}" alt="Listing image for Music Production Keyboard Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Production Keyboard Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Production Keyboard Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d54582dbcc230bfa2241.jpg' | relative_url }}" alt="Listing image for Music Production Keyboard Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Production Keyboard Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER"><img src="{{ '/assets/images/marketplace-covers/77e6fb8f96f8d20e9399.jpg' | relative_url }}" alt="Listing image for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER"><img src="{{ '/assets/images/marketplace-covers/77e6fb8f96f8d20e9399.jpg' | relative_url }}" alt="Listing image for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster"><img src="{{ '/assets/images/marketplace-covers/0ec66dc070ac96c9a946.jpg' | relative_url }}" alt="Listing image for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster"><img src="{{ '/assets/images/marketplace-covers/0ec66dc070ac96c9a946.jpg' | relative_url }}" alt="Listing image for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="synthetic-timbre-making-synthesized-sounds-feel-human-and-expressive-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -523,7 +523,7 @@ Electronic synthesis techniques for humanlike timbre revolve around **controllin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -543,7 +543,7 @@ Electronic synthesis techniques for humanlike timbre revolve around **controllin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -575,7 +575,7 @@ Electronic synthesis techniques for humanlike timbre revolve around **controllin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -627,7 +627,7 @@ Electronic synthesis techniques for humanlike timbre revolve around **controllin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -672,7 +672,7 @@ Electronic synthesis techniques for humanlike timbre revolve around **controllin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,145 +713,145 @@ Electronic synthesis techniques for humanlike timbre revolve around **controllin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Subtractive synthesis  
-   Link: <a href="https://en.wikipedia.org/wiki/Subtractive_synthesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Subtractive_synthesis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Subtractive_synthesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Subtractive_synthesis</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: support.apple.com  
    Title: Support How subtractive synthesizers work  
-   Link: <a href="https://support.apple.com/en-tj/guide/logicpro-ipad/lpip6435405e/ipados" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-tj/guide/logicpro-ipad/lpip6435405e/ipados</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportHow subtractive synthesizers work - Apple Support (TJ)...</p></details>
+   Link:<a href="https://support.apple.com/en-tj/guide/logicpro-ipad/lpip6435405e/ipados" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-tj/guide/logicpro-ipad/lpip6435405e/ipados</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportHow subtractive synthesizers work - Apple Support (TJ)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: soundonsound.com  
    Title: Sound On Sound  
-   Link: <a href="https://www.soundonsound.com/techniques/modulation" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/modulation</a>  
+   Link:<a href="https://www.soundonsound.com/techniques/modulation" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/modulation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: soundonsound.com  
    Title: Sound On Sound  
-   Link: <a href="https://www.soundonsound.com/techniques/formant-synthesis" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/formant-synthesis</a>  
+   Link:<a href="https://www.soundonsound.com/techniques/formant-synthesis" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/formant-synthesis</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Wavetable synthesis  
-   Link: <a href="https://en.wikipedia.org/wiki/Wavetable_synthesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wavetable_synthesis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wavetable_synthesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wavetable_synthesis</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label  
-   Link: <a href="https://arxiv.org/abs/2410.18628" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.18628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic LabelOctober 24, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2410.18628" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.18628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic LabelOctober 24, 2024...</p></details>
    Published: October 24, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.05174" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.05174</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAESynth: Real-Time Timbre Interpolation and Pitch Control with Conditional AutoencodersNovember 9, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2111.05174" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.05174</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAESynth: Real-Time Timbre Interpolation and Pitch Control with Conditional AutoencodersNovember 9, 2021...</p></details>
    Published: November 9, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Academic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Academic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademicAcademic or academics may refer to: Academic discipline, a subdivision of knowledge that is taught and researched at the colle...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Academic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Academic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AcademicAcademic or academics may refer to: Academic discipline, a subdivision of knowledge that is taught and researched at the colle...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dreyandersson.com  
    Title: Drey Andersson Formant Synthesis | Drey Andersson  
-   Link: <a href="https://dreyandersson.com/music-production-terms/formant-synthesis/" target="_blank" rel="noopener noreferrer nofollow">https://dreyandersson.com/music-production-terms/formant-synthesis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drey AnderssonFormant Synthesis | Drey AnderssonJune 19, 2025...</p></details>
+   Link:<a href="https://dreyandersson.com/music-production-terms/formant-synthesis/" target="_blank" rel="noopener noreferrer nofollow">https://dreyandersson.com/music-production-terms/formant-synthesis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drey AnderssonFormant Synthesis | Drey AnderssonJune 19, 2025...</p></details>
    Published: June 19, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.inmusicstore.com  
    Title: in Music Store Synthesis 101 | Synthesizer Features  
-   Link: <a href="https://support.inmusicstore.com/en/support/solutions/articles/69000867264-synthesis-101-synthesizer-features" target="_blank" rel="noopener noreferrer nofollow">https://support.inmusicstore.com/en/support/solutions/articles/69000867264-synthesis-101-synthesizer-features</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inMusic StoreSynthesis 101 | Synthesizer Features - inMusic SupportBy adjusting these parameters, FM synthesis can produce an exceptional...</p></details>
+   Link:<a href="https://support.inmusicstore.com/en/support/solutions/articles/69000867264-synthesis-101-synthesizer-features" target="_blank" rel="noopener noreferrer nofollow">https://support.inmusicstore.com/en/support/solutions/articles/69000867264-synthesis-101-synthesizer-features</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inMusic StoreSynthesis 101 | Synthesizer Features - inMusic SupportBy adjusting these parameters, FM synthesis can produce an exceptional...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: justapedia.org  
-   Link: <a href="https://justapedia.org/wiki/Subtractive_synthesis" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Subtractive_synthesis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subtractive synthesis - JustapediaAugust 30, 2024  SUBTRACTIVE SYNTHESIS Jump to navigation Jump to search | This article needs addition...</p></details>
+   Link:<a href="https://justapedia.org/wiki/Subtractive_synthesis" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Subtractive_synthesis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subtractive synthesis - JustapediaAugust 30, 2024  SUBTRACTIVE SYNTHESIS Jump to navigation Jump to search | This article needs addition...</p></details>
    Published: August 30, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kvraudio.com  
    Title: Tuts for formants out of EQs and phasers are everyday examples,  
-   Link: <a href="https://www.kvraudio.com/forum/viewtopic.php?start=45&amp;t=543452" target="_blank" rel="noopener noreferrer nofollow">https://www.kvraudio.com/forum/viewtopic.php?start=45&amp;t=543452</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Formant synthesis - Page 4 - Sound Design Forum - KVR AudioApril 16, 2020  Formant sounds are most often created by filtering on an ever...</p></details>
+   Link:<a href="https://www.kvraudio.com/forum/viewtopic.php?start=45&amp;t=543452" target="_blank" rel="noopener noreferrer nofollow">https://www.kvraudio.com/forum/viewtopic.php?start=45&amp;t=543452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Formant synthesis - Page 4 - Sound Design Forum - KVR AudioApril 16, 2020  Formant sounds are most often created by filtering on an ever...</p></details>
    Published: April 16, 2020  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: electronics.howstuffworks.com  
    Title: First, here are a few basics. A sound is the result of change  
-   Link: <a href="https://electronics.howstuffworks.com/gadgets/audio-music/synthesizer.htm" target="_blank" rel="noopener noreferrer nofollow">https://electronics.howstuffworks.com/gadgets/audio-music/synthesizer.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synthesizers Work | HowStuffWorksJune 18, 2012  SYNTHESIZING THE ELEMENTS OF SOUND When we say that synthesizers manipulate the fundamen...</p></details>
+   Link:<a href="https://electronics.howstuffworks.com/gadgets/audio-music/synthesizer.htm" target="_blank" rel="noopener noreferrer nofollow">https://electronics.howstuffworks.com/gadgets/audio-music/synthesizer.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synthesizers Work | HowStuffWorksJune 18, 2012  SYNTHESIZING THE ELEMENTS OF SOUND When we say that synthesizers manipulate the fundamen...</p></details>
    Published: June 18, 2012  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: soundonsound.com  
-   Link: <a href="https://www.soundonsound.com/techniques/synth-school-part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/synth-school-part-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VOWEL PLAY Sometimes analogue impressions of vocal sounds can work better than sampled vocals in a track, because the frequencies affecte...</p></details>
+   Link:<a href="https://www.soundonsound.com/techniques/synth-school-part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/synth-school-part-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VOWEL PLAY Sometimes analogue impressions of vocal sounds can work better than sampled vocals in a track, because the frequencies affecte...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/academic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/academic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACADEMIC Definition &amp; MeaningThe meaning of ACADEMIC is of, relating to, or associated with an academy or school especially of higher lea...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/academic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/academic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACADEMIC Definition &amp; MeaningThe meaning of ACADEMIC is of, relating to, or associated with an academy or school especially of higher lea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academic-englishuk.com  
-   Link: <a href="https://academic-englishuk.com/" target="_blank" rel="noopener noreferrer nofollow">https://academic-englishuk.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic English Resources for Students and TeachersAcademic English Resources and Academic English Worksheets for International Students...</p></details>
+   Link:<a href="https://academic-englishuk.com/" target="_blank" rel="noopener noreferrer nofollow">https://academic-englishuk.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academic English Resources for Students and TeachersAcademic English Resources and Academic English Worksheets for International Students...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blackoutaudio.com  
-   Link: <a href="https://blackoutaudio.com/blogs/gear-guides/understanding-synthesis-types-subtractive-fm-wavetable-and-more" target="_blank" rel="noopener noreferrer nofollow">https://blackoutaudio.com/blogs/gear-guides/understanding-synthesis-types-subtractive-fm-wavetable-and-more</a>  
+   Link:<a href="https://blackoutaudio.com/blogs/gear-guides/understanding-synthesis-types-subtractive-fm-wavetable-and-more" target="_blank" rel="noopener noreferrer nofollow">https://blackoutaudio.com/blogs/gear-guides/understanding-synthesis-types-subtractive-fm-wavetable-and-more</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: soundcy.com  
-   Link: <a href="https://soundcy.com/article/how-to-synthesize-vocal-sounds" target="_blank" rel="noopener noreferrer nofollow">https://soundcy.com/article/how-to-synthesize-vocal-sounds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Vocal Synthesis: Techniques To Create Realistic Human-Like Sounds | SoundCyOctober 31, 2025  MASTERING VOCAL SYNTHESIS: TECHNI...</p></details>
+   Link:<a href="https://soundcy.com/article/how-to-synthesize-vocal-sounds" target="_blank" rel="noopener noreferrer nofollow">https://soundcy.com/article/how-to-synthesize-vocal-sounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Vocal Synthesis: Techniques To Create Realistic Human-Like Sounds | SoundCyOctober 31, 2025  MASTERING VOCAL SYNTHESIS: TECHNI...</p></details>
    Published: October 31, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gearspace.com  
-   Link: <a href="https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1396481-wavetable-synths-how-do-you-choose-your-starting-timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1396481-wavetable-synths-how-do-you-choose-your-starting-timbre.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wavetable Synths - How do you choose your starting timbre?January 3, 2023  Wavetable synths give you almost an infinite starting point o...</p></details>
+   Link:<a href="https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1396481-wavetable-synths-how-do-you-choose-your-starting-timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1396481-wavetable-synths-how-do-you-choose-your-starting-timbre.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wavetable Synths - How do you choose your starting timbre?January 3, 2023  Wavetable synths give you almost an infinite starting point o...</p></details>
    Published: January 3, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: soundcy.com  
    Title: Mastering Vox Sounds: Techniques For Creating Unique Vocal Effects | Sound Cy  
-   Link: <a href="https://soundcy.com/article/how-to-make-vox-sounds" target="_blank" rel="noopener noreferrer nofollow">https://soundcy.com/article/how-to-make-vox-sounds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Vox Sounds: Techniques For Creating Unique Vocal Effects | SoundCyOctober 24, 2025  FILTER MODULATION: USE LOW-PASS FILTERS WI...</p></details>
+   Link:<a href="https://soundcy.com/article/how-to-make-vox-sounds" target="_blank" rel="noopener noreferrer nofollow">https://soundcy.com/article/how-to-make-vox-sounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Vox Sounds: Techniques For Creating Unique Vocal Effects | SoundCyOctober 24, 2025  FILTER MODULATION: USE LOW-PASS FILTERS WI...</p></details>
    Published: October 24, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: modwiggler.com  
    Title: How do these artists achieve vocal timbre on synths without formant  
-   Link: <a href="https://modwiggler.com/forum/viewtopic.php?t=260941" target="_blank" rel="noopener noreferrer nofollow">https://modwiggler.com/forum/viewtopic.php?t=260941</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2022  The way artists achieve vocal timbre on synths without formant filters is to ue a series of bandpass filters tuned to th...</p></details>
+   Link:<a href="https://modwiggler.com/forum/viewtopic.php?t=260941" target="_blank" rel="noopener noreferrer nofollow">https://modwiggler.com/forum/viewtopic.php?t=260941</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 15, 2022  The way artists achieve vocal timbre on synths without formant filters is to ue a series of bandpass filters tuned to th...</p></details>
    Published: April 15, 2022  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: productlondon.com  
    Title: What Are Basic Techniques for Electronic Sound Synthesis?  
-   Link: <a href="https://www.productlondon.com/beginner-tips-for-electronic-sound-synthesis/" target="_blank" rel="noopener noreferrer nofollow">https://www.productlondon.com/beginner-tips-for-electronic-sound-synthesis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Product LondonMay 4, 2024  22 min read WHAT ARE BASIC TECHNIQUES FOR ELECTRONIC SOUND SYNTHESIS? * Image: Makai Macdonald Author Makai M...</p></details>
+   Link:<a href="https://www.productlondon.com/beginner-tips-for-electronic-sound-synthesis/" target="_blank" rel="noopener noreferrer nofollow">https://www.productlondon.com/beginner-tips-for-electronic-sound-synthesis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Product LondonMay 4, 2024  22 min read WHAT ARE BASIC TECHNIQUES FOR ELECTRONIC SOUND SYNTHESIS? * Image: Makai Macdonald Author Makai M...</p></details>
    Published: May 4, 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: learn.microsoft.com  
    Title: directx factor simulating an analog synthesizer  
-   Link: <a href="https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/directx-factor-simulating-an-analog-synthesizer" target="_blank" rel="noopener noreferrer nofollow">https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/directx-factor-simulating-an-analog-synthesizer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Factor - Simulating an Analog Synthesizer | Microsoft LearnJuly 2013 Volume 28 Number 7 DIRECTX FACTOR - SIMULATING AN ANALOG SYNTHESIZER...</p></details>
+   Link:<a href="https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/directx-factor-simulating-an-analog-synthesizer" target="_blank" rel="noopener noreferrer nofollow">https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/directx-factor-simulating-an-analog-synthesizer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Factor - Simulating an Analog Synthesizer | Microsoft LearnJuly 2013 Volume 28 Number 7 DIRECTX FACTOR - SIMULATING AN ANALOG SYNTHESIZER...</p></details>
    Published: July 2013  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskBrits/comments/1m1bpfr/what_is_academic_and_when_does_a_person_become/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskBrits/comments/1m1bpfr/what_is_academic_and_when_does_a_person_become/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cience etc. If someone is an academic they typically work in...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskBrits/comments/1m1bpfr/what_is_academic_and_when_does_a_person_become/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskBrits/comments/1m1bpfr/what_is_academic_and_when_does_a_person_become/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cience etc. If someone is an academic they typically work in...Read more...</p></details>

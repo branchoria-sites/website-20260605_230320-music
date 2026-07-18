@@ -272,14 +272,14 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_e
 
 ## Introduction
 
-Much of [harmony]({{ 'harmony/' | relative_url }})’s emotional power comes from its ability to create tension and then manage its release. Rather than responding only to individual chords, listeners continuously form expectations about where the music is heading. When harmony delays, fulfils, or overturns those expectations, it generates feelings such as anticipation, longing, relief, excitement, triumph, uncertainty, or calm. Research in music cognition consistently links emotional responses to this cycle of prediction and outcome, making tension and release one of the central mechanisms through which harmony shapes musical feeling. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[2marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span>
+Much of [harmony]({{ 'harmony/' | relative_url }})’s emotional power comes from its ability to create tension and then manage its release. Rather than responding only to individual chords, listeners continuously form expectations about where the music is heading. When harmony delays, fulfils, or overturns those expectations, it generates feelings such as anticipation, longing, relief, excitement, triumph, uncertainty, or calm. Research in music cognition consistently links emotional responses to this cycle of prediction and outcome, making tension and release one of the central mechanisms through which harmony shapes musical feeling. Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[2marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-dark.svg" | relative_url }}" alt="Tension &amp; Release illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In practical terms, tension arises when music sounds unstable, incomplete, or in motion. Release occurs when that instability resolves into a more stable state. The emotional journey between those points is often more important than either point alone.
 
 ## Why Tension Feels Emotional
 
-Listeners do not experience music as a sequence of isolated sounds. The brain constantly anticipates what might happen next, drawing on learned musical patterns and the immediate context of the piece. When expectations are met, listeners often experience satisfaction and closure. When they are delayed or violated, tension increases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span> Wikipedia This process helps explain why a simple chord progression can feel dramatic even without lyrics. The emotional effect does not arise solely f <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Melodic_expectation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Melodic expectation</span><span class="citation-popover-snippet">Melodic expectationMeyer&#x27;s starting point is the belief that the experience of music (as a listener) is derived from one&#x27;s emotions an...</span></span></span> rom the sounds themselves but from the relationship between expectation and outcome. Studies examining musical prediction show that unexpected events tend to increase perceived tension, while expected events contribute to its resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">It is known that tension is affected by prediction in music listening as music unfolds.Read more...</span></span></span>
+Listeners do not experience music as a sequence of isolated sounds. The brain constantly anticipates what might happen next, drawing on learned musical patterns and the immediate context of the piece. When expectations are met, listeners often experience satisfaction and closure. When they are delayed or violated, tension increases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span> Wikipedia This process helps explain why a simple chord progression can feel dramatic even without lyrics. The emotional effect does not arise solely f<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Melodic_expectation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Melodic expectation</span><span class="citation-popover-snippet">Melodic expectationMeyer&#x27;s starting point is the belief that the experience of music (as a listener) is derived from one&#x27;s emotions an...</span></span></span> rom the sounds themselves but from the relationship between expectation and outcome. Studies examining musical prediction show that unexpected events tend to increase perceived tension, while expected events contribute to its resolution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">It is known that tension is affected by prediction in music listening as music unfolds.Read more...</span></span></span>
 
 Importantly, tension is not inherently negative. In music, listeners often enjoy states of suspense and uncertainty because they create engagement. A piece with no tension can feel static, while a piece with no release can feel exhausting. Emotional impact often emerges from balancing both forces.
 
@@ -287,9 +287,9 @@ Importantly, tension is not inherently negative. In music, listeners often enjoy
 
 One of the most direct ways harmony creates tension is through the contrast between dissonance and consonance.
 
-Consonant sonorities are generally perceived as more stable, smooth, and pleasant, while dissonant combinations tend to be heard as more unstable or tense. Although cultural experience influences these perceptions, a substantial body of research links dissonance with increased tension and consonance with relative relaxation. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span> The emotional effect is not merely theoretical. Experimental studies have found that listeners consistently rate more dissonant musical passages as higher in tension. Increased dissonance can also influence physiological and affective responses, contributing to feelings of unease, urgency, or heightened [attention]({{ 'attention/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe Influence of Dissonance on Listeners&#x27; Perceived...by È Poudrier · 2024 · Cited by 2 — This study investigates...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADSabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">They also found higher physiological</span><span class="citation-popover-snippet">ADSabsListening to dissonant and atonal music induces...by AM Proverbio · 2023 · Cited by 1 — Listening to dissonance induced a more neg...</span></span></span>
+Consonant sonorities are generally perceived as more stable, smooth, and pleasant, while dissonant combinations tend to be heard as more unstable or tense. Although cultural experience influences these perceptions, a substantial body of research links dissonance with increased tension and consonance with relative relaxation. Frontiers<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span> The emotional effect is not merely theoretical. Experimental studies have found that listeners consistently rate more dissonant musical passages as higher in tension. Increased dissonance can also influence physiological and affective responses, contributing to feelings of unease, urgency, or heightened [attention]({{ 'attention/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe Influence of Dissonance on Listeners&#x27; Perceived...by È Poudrier · 2024 · Cited by 2 — This study investigates...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADSabs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">They also found higher physiological</span><span class="citation-popover-snippet">ADSabsListening to dissonant and atonal music induces...by AM Proverbio · 2023 · Cited by 1 — Listening to dissonance induced a more neg...</span></span></span>
 
-What makes dissonance especially powerful is that it often implies a future resolution. A harsh interval or unstable chord creates a sense that the music is unfinished. When a consonant harmony eventually follows, listeners experience a reduction of tension that may feel comforting, triumphant, or emotionally cathartic. This contrast gives harmonic motion much of its expressive force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span>
+What makes dissonance especially powerful is that it often implies a future resolution. A harsh interval or unstable chord creates a sense that the music is unfinished. When a consonant harmony eventually follows, listeners experience a reduction of tension that may feel comforting, triumphant, or emotionally cathartic. This contrast gives harmonic motion much of its expressive force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCsl6ZcY9ag" title="The Physics Of Dissonance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCsl6ZcY9ag" target="_blank" rel="noopener noreferrer">The Physics Of Dissonance</a></p><p class="youtube-embed-meta">Channel: minutephysics &middot; Views: 1.3M &middot; Uploaded: July 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCsl6ZcY9ag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCsl6ZcY9ag">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +297,7 @@ What makes dissonance especially powerful is that it often implies a future reso
 
 In tonal music, tension is not produced only by dissonance. Entire chords can acquire directional force through their harmonic function.
 
-The classic example is the dominant chord, which tends to create a strong expectation of movement towards the tonic. Even when the dominant is not highly dissonant, listeners often perceive it as incomplete because tonal conventions have taught them to expect a resolution. The resulting pull generates anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</span></span></span>
+The classic example is the dominant chord, which tends to create a strong expectation of movement towards the tonic. Even when the dominant is not highly dissonant, listeners often perceive it as incomplete because tonal conventions have taught them to expect a resolution. The resulting pull generates anticipation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</span></span></span>
 
 Cadences—harmonic patterns that mark the ends of phrases—are among the clearest demonstrations of this mechanism. Different cadences create different degrees of closure:
 
@@ -306,7 +306,7 @@ Cadences—harmonic patterns that mark the ends of phrases—are among the clear
 * **Deceptive cadences** divert an expected resolution, producing [surprise]({{ 'surprise/' | relative_url }}) and prolonging tension.
 * **Plagal cadences** often create a gentler sense of relaxation.
 
-Research on cadence perception shows that listeners associate different cadence types with distinct emotional qualities because they imply varying levels of closure and expectancy fulfilment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</span></span></span>
+Research on cadence perception shows that listeners associate different cadence types with distinct emotional qualities because they imply varying levels of closure and expectancy fulfilment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</span></span></span>
 
 A powerful emotional climax often occurs when a long period of harmonic instability finally reaches a convincing cadence. The resulting sense of arrival can feel larger than the individual chords involved because it resolves accumulated expectation built over an extended span.
 
@@ -319,14 +319,14 @@ A suspension provides a classic example. A note from a previous harmony is held 
 
 Even a very brief delay can increase expressive intensity. The longer the anticipated resolution is postponed, the more psychological weight it can acquire. This principle appears throughout musical history, from classical counterpoint to modern film scores and popular music.
 
-Surprise operates in a related way. When listeners confidently predict one harmonic outcome but encounter another, tension can increase sharply. Studies examining musical prediction show that unexpected harmonic events elevate perceived tension because they disrupt established expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">It is known that tension is affected by prediction in music listening as music unfolds.Read more...</span></span></span>
+Surprise operates in a related way. When listeners confidently predict one harmonic outcome but encounter another, tension can increase sharply. Studies examining musical prediction show that unexpected harmonic events elevate perceived tension because they disrupt established expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">It is known that tension is affected by prediction in music listening as music unfolds.Read more...</span></span></span>
 
 However, surprise is most effective when it remains connected to a broader sense of coherence. A completely random chord may sound confusing, whereas a surprising but meaningful harmonic turn can feel thrilling, poignant, or dramatic.
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-dark.svg" | relative_url }}" alt="Tension &amp; Release illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Harmonic Tension Unfolds Over Time
 
-Tension is not a single moment but a dynamic process. Research increasingly treats musical tension as a continuously changing psychological experience that bridges musical structure and emotion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">It is known that tension is affected by prediction in music listening as music unfolds.Read more...</span></span></span>
+Tension is not a single moment but a dynamic process. Research increasingly treats musical tension as a continuously changing psychological experience that bridges musical structure and emotion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">It is known that tension is affected by prediction in music listening as music unfolds.Read more...</span></span></span>
 
 Several factors can contribute simultaneously:
 
@@ -341,7 +341,7 @@ Several factors can contribute simultaneously:
 
 </div>
 
-Studies of tonal and melodic shifts show that departures from established patterns often raise tension ratings, while returns to familiar harmonic territory tend to reduce them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-11949-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Compared with repetition, tonal shift and melodic shift...</span></span></span>
+Studies of tonal and melodic shifts show that departures from established patterns often raise tension ratings, while returns to familiar harmonic territory tend to reduce them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-11949-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Compared with repetition, tonal shift and melodic shift...</span></span></span>
 
 Because tension can build gradually across long spans, the emotional significance of a final resolution often depends on everything that preceded it. A simple tonic chord may feel ordinary at the beginning of a piece but profoundly moving after an extended journey through instability.
 
@@ -353,199 +353,199 @@ Release is more than the absence of tension. It is an emotional event created by
 
 When listeners have invested attention in a musical expectation, fulfilment can produce feelings ranging from peaceful satisfaction to overwhelming exhilaration. The strength of the response often depends on the amount of tension that came before it. A modest resolution after mild instability may feel pleasant; a long-delayed resolution after intense harmonic uncertainty can feel transformative.
 
-This relationship helps explain why climactic moments in many musical traditions are built around carefully managed tension-and-release patterns. The emotional reward emerges not from a single chord but from the listener’s experience of waiting, anticipating, and finally arriving. Research on musical expectation repeatedly identifies this cycle as a major source of musical emotion. UCL Discovery 3Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[3marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span>
+This relationship helps explain why climactic moments in many musical traditions are built around carefully managed tension-and-release patterns. The emotional reward emerges not from a single chord but from the listener’s experience of waiting, anticipating, and finally arriving. Research on musical expectation repeatedly identifies this cycle as a major source of musical emotion. UCL Discovery 3Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcus-pearce.com">[3marcus-pearce.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcus-pearce.com</span><span class="citation-popover-snippet">Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</span></span></span>
 
 In this sense, harmony acts less like a collection of static colours and more like a narrative force. Through dissonance and consonance, functional pull, cadence, suspension, delay, and surprise, it continually shapes the listener’s expectations. The resulting interplay of tension and release is one of music’s most effective tools for turning sound into emotion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Tension and Release Shape Emotional Impact in Music. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Tension and Release Shape Emotional Impact in Music. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explores why musical expectation creates emotional reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why musical expectation creates emotional reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emotion and meaning in music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5397225-M.jpg" alt="Cover for Emotion and meaning in music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emotion and meaning in music">Emotion and meaning in music</a>
-        </h4>
-        <p class="fr-book-author">By Leonard B. Meyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emotion and meaning in music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5397225-M.jpg" alt="Cover for Emotion and meaning in music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emotion and meaning in music">Emotion and meaning in music</a>
+</h4>
+<p class="fr-book-author">By Leonard B. Meyer</p>
         
-        <p class="fr-book-desc">First published 1956. Subjects: Emotions in music, Music, Philosophy and aesthetics, Psychological aspects, Psychological aspects of Music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1956. Subjects: Emotions in music, Music, Philosophy and aesthetics, Psychological aspects, Psychological aspects of Music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
-        </h4>
-        <p class="fr-book-author">By David Huron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
+</h4>
+<p class="fr-book-author">By David Huron</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open PKG Tonal Harmony with Workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="PKG Tonal Harmony with Workbook">PKG Tonal Harmony with Workbook</a>
-        </h4>
-        <p class="fr-book-author">By Stefan Kostka, Dorothy Payne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open PKG Tonal Harmony with Workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="PKG Tonal Harmony with Workbook">PKG Tonal Harmony with Workbook</a>
+</h4>
+<p class="fr-book-author">By Stefan Kostka, Dorothy Payne et al.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Music, history and criticism, 20th century, Music, Instruction &amp; study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Music, history and criticism, 20th century, Music, Instruction &amp; study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emotion and meaning in music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sweet+Anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sweet Anticipation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emotion and meaning in music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sweet+Anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sweet Anticipation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/d73a4f9f35354595d86c.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/d73a4f9f35354595d86c.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55b7292efba8c9c95df7.jpg' | relative_url }}" alt="Listing image for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55b7292efba8c9c95df7.jpg' | relative_url }}" alt="Listing image for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/64f645da7024539237af.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/64f645da7024539237af.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/a2f3bc39e2be0bd37281.jpg' | relative_url }}" alt="Listing image for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/a2f3bc39e2be0bd37281.jpg' | relative_url }}" alt="Listing image for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="tension-release-how-tension-and-release-shape-emotional-impact-in-music-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ In this sense, harmony acts less like a collection of static colours and more li
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ In this sense, harmony acts less like a collection of static colours and more li
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ In this sense, harmony acts less like a collection of static colours and more li
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ In this sense, harmony acts less like a collection of static colours and more li
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ In this sense, harmony acts less like a collection of static colours and more li
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,118 +751,118 @@ In this sense, harmony acts less like a collection of static colours and more li
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: marcus-pearce.com  
-   Link: <a href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</p></details>
+   Link:<a href="https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus-pearce.com/assets/papers/SauveEtAl2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Pitch and Timing Expectancy on Musical Emotionby SA Sauvé · Cited by 28 — Meyer (1956) argued that emotion is generated throug...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Melodic expectation  
-   Link: <a href="https://en.wikipedia.org/wiki/Melodic_expectation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melodic_expectation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Melodic expectationMeyer&#x27;s starting point is the belief that the experience of music (as a listener) is derived from one&#x27;s emotions an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Melodic_expectation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melodic_expectation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melodic expectationMeyer&#x27;s starting point is the belief that the experience of music (as a listener) is derived from one&#x27;s emotions an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is known that tension is affected by prediction in music listening as music unfolds.Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is known that tension is affected by prediction in music listening as music unfolds.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and behavioural responses to consonant...by A Kirsanov · 2025 — Thus, amongst emotional primitives, consonance and dissonance are typica...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12605063/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and behavioural responses to consonant...by A Kirsanov · 2025 — Thus, amongst emotional primitives, consonance and dissonance are typica...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Consonance and dissonance perception  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review...by N Di Stefano · 2022 · Cited by 79 — Consonance and dissonance (C/D) are foundational concepts in Western music. ·...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1571064522000665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review...by N Di Stefano · 2022 · Cited by 79 — Consonance and dissonance (C/D) are foundational concepts in Western music. ·...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PY Chan · 2019 · Cited by 34 — This paper attempts to establish a psychophysical basis for both stationary (tension in chord sonori...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-022-11949-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-11949-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compared with repetition, tonal shift and melodic shift...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-022-11949-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-11949-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compared with repetition, tonal shift and melodic shift...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Psychoacoustics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychoacoustics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychoacousticsPsychoacoustics is the branch of psychophysics involving the scientific study of the perception of sound by the human a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Psychoacoustics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychoacoustics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PsychoacousticsPsychoacoustics is the branch of psychophysics involving the scientific study of the perception of sound by the human a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Car suspension  
-   Link: <a href="https://en.wikipedia.org/wiki/Car_suspension" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Car_suspension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Car suspensionSuspension is the system of tires, tire air, springs, shock absorbers and linkages that connects a vehicle to its wheels...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Car_suspension" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Car_suspension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Car suspensionSuspension is the system of tires, tire air, springs, shock absorbers and linkages that connects a vehicle to its wheels...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2059204320938635</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2059204320938635" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2059204320938635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPerceived Emotions of Harmonic Cadencesby EA Smit · 2020 · Cited by 42 — Tension and release play an important role in liste...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Influence of Dissonance on Listeners&#x27; Perceived...by È Poudrier · 2024 · Cited by 2 — This study investigates...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/25742442.2024.2396980</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Influence of Dissonance on Listeners&#x27; Perceived...by È Poudrier · 2024 · Cited by 2 — This study investigates...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ui.adsabs.harvard.edu  
    Title: They also found higher physiological  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSabsListening to dissonant and atonal music induces...by AM Proverbio · 2023 · Cited by 1 — Listening to dissonance induced a more neg...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2023PhLRv..46...69P/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADSabsListening to dissonant and atonal music induces...by AM Proverbio · 2023 · Cited by 1 — Listening to dissonance induced a more neg...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: halfords.com  
-   Link: <a href="https://www.halfords.com/motoring/car-parts/suspension-and-steering/" target="_blank" rel="noopener noreferrer nofollow">https://www.halfords.com/motoring/car-parts/suspension-and-steering/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Car Suspension Parts | Steering ComponentsIf you&#x27;re having any issues with suspension and steering, Halfords has the car parts for you. Y...</p></details>
+   Link:<a href="https://www.halfords.com/motoring/car-parts/suspension-and-steering/" target="_blank" rel="noopener noreferrer nofollow">https://www.halfords.com/motoring/car-parts/suspension-and-steering/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Car Suspension Parts | Steering ComponentsIf you&#x27;re having any issues with suspension and steering, Halfords has the car parts for you. Y...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vehiclephysics.com  
-   Link: <a href="https://vehiclephysics.com/advanced/how-suspensions-work/" target="_blank" rel="noopener noreferrer nofollow">https://vehiclephysics.com/advanced/how-suspensions-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How suspensions workA suspension is essentially a damped spring producing opposing force when being compressed. Springs sustain the weigh...</p></details>
+   Link:<a href="https://vehiclephysics.com/advanced/how-suspensions-work/" target="_blank" rel="noopener noreferrer nofollow">https://vehiclephysics.com/advanced/how-suspensions-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How suspensions workA suspension is essentially a damped spring producing opposing force when being compressed. Springs sustain the weigh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cris.unibo.it  
-   Link: <a href="https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Perception Perceived tension, movement, and...by M Costa · 2020 · Cited by 30 — We think that an analysis of per- ceived...</p></details>
+   Link:<a href="https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.unibo.it/bitstream/11585/756925/1/Music%20Perception%20Perceived%20tension%2C%20movement%2C%20and%20pleasantness%20in%20harmonic%20musical%20intervals%20and%20noises.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Perception Perceived tension, movement, and...by M Costa · 2020 · Cited by 30 — We think that an analysis of per- ceived...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/psychoacoustics" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/psychoacoustics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PSYCHOACOUSTICS Definition &amp; MeaningThe meaning of PSYCHOACOUSTICS is a branch of science dealing with the perception of sound, the sensa...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/psychoacoustics" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/psychoacoustics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PSYCHOACOUSTICS Definition &amp; MeaningThe meaning of PSYCHOACOUSTICS is a branch of science dealing with the perception of sound, the sensa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: suspensionsecrets.co.uk  
-   Link: <a href="https://suspensionsecrets.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://suspensionsecrets.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspension Secrets: HomepageSolid Monoballs for Porsche GT Models: Improving Suspension Precision · Built for Grip &amp; Proven on Track: How...</p></details>
+   Link:<a href="https://suspensionsecrets.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://suspensionsecrets.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suspension Secrets: HomepageSolid Monoballs for Porsche GT Models: Improving Suspension Precision · Built for Grip &amp; Proven on Track: How...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: suspensionsupplies.co.uk  
-   Link: <a href="https://www.suspensionsupplies.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.suspensionsupplies.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspension SuppliesDesign, Development and Manufacture of Automotive Suspension Springs and Systems. for Modern, Traditional, Classic and...</p></details>
+   Link:<a href="https://www.suspensionsupplies.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.suspensionsupplies.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suspension SuppliesDesign, Development and Manufacture of Automotive Suspension Springs and Systems. for Modern, Traditional, Classic and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: labs.la.utexas.edu  
-   Link: <a href="https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Psychology LabsExpectationMeyer suggested that, although music does contain representational elements, the principal source for music&#x27;...</p></details>
+   Link:<a href="https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.la.utexas.edu/gilden/files/2016/04/CHAP1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Psychology LabsExpectationMeyer suggested that, although music does contain representational elements, the principal source for music&#x27;...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tCsl6ZcY9ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCsl6ZcY9ag</a>  
+   Link:<a href="https://www.youtube.com/watch?v=tCsl6ZcY9ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCsl6ZcY9ag</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hugoribeiro.com.br  
-   Link: <a href="https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ctly iconic manner, and thus not necessarily through the negative thwarting of expectation.Read more...</p></details>
+   Link:<a href="https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hugoribeiro.com.br/biblioteca-digital/Spitzer-Emotions_and_Musical_Analysis_after_Meyer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctly iconic manner, and thus not necessarily through the negative thwarting of expectation.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: filipeleitao.com  
    Title: why dissonance creates tension and how to use it in your music  
-   Link: <a href="https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music" target="_blank" rel="noopener noreferrer nofollow">https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Dissonance Creates Tension — And How to Use It in...Jul 15, 2025 — In fact, studies have shown that dissonance triggers similar resp...</p></details>
+   Link:<a href="https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music" target="_blank" rel="noopener noreferrer nofollow">https://www.filipeleitao.com/post/why-dissonance-creates-tension-and-how-to-use-it-in-your-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Dissonance Creates Tension — And How to Use It in...Jul 15, 2025 — In fact, studies have shown that dissonance triggers similar resp...</p></details>

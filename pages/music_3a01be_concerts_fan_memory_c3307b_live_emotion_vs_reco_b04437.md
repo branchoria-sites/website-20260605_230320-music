@@ -274,7 +274,7 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_re
 
 ## Introduction
 
-Many concertgoers insist that a song they know by heart can feel unexpectedly powerful when performed live. This is not simply a matter of volume, atmosphere or nostalgia. Research increasingly suggests that live performance changes the way people experience emotion because musicians and audiences influence one another in real time. The music becomes a social event rather than a fixed object. The result is often stronger emotional arousal, deeper [attention]({{ 'attention/' | relative_url }}) and a heightened sense that something meaningful is happening in the moment. Studies comparing live and recorded performances have found that live music can provoke stronger emotional and even neurological responses than the same material heard through speakers or screens. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/abs/10.1073/pnas.2316306121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 76 — Here, we show that live music can stimulat...</span></span></span>
+Many concertgoers insist that a song they know by heart can feel unexpectedly powerful when performed live. This is not simply a matter of volume, atmosphere or nostalgia. Research increasingly suggests that live performance changes the way people experience emotion because musicians and audiences influence one another in real time. The music becomes a social event rather than a fixed object. The result is often stronger emotional arousal, deeper [attention]({{ 'attention/' | relative_url }}) and a heightened sense that something meaningful is happening in the moment. Studies comparing live and recorded performances have found that live music can provoke stronger emotional and even neurological responses than the same material heard through speakers or screens. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/abs/10.1073/pnas.2316306121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 76 — Here, we show that live music can stimulat...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437-Illustration-1-dark.svg" | relative_url }}" alt="Live Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What co-presence changes
@@ -283,7 +283,7 @@ A [recording]({{ 'recording/' | relative_url }}) captures a performance. A conce
 
 The most important difference is co-presence: performers and listeners occupy the same [physical]({{ 'physical/' | relative_url }}) space and continuously react to one another. A singer may stretch a phrase because the audience is singing along. A crowd may grow louder because it senses the performer's excitement. These feedback loops can emerge within seconds and alter the emotional tone of the event.
 
-Neuroscience research from the University of Zurich found that live performances produced stronger activation of brain systems associated with emotional processing than recorded music. Researchers argue that the real-time connection between performers and audiences is a key part of what makes live music feel different. UZH News ScienceDaily This dynamic quality matters because human emotions are highly responsive to social cues. Facial expressions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2024/02/240226204557.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[sciencedaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Live music emotionally moves us more than streamed music28 Feb 2024 — A study carried out at the University of Zurich has found that live...</span></span></span>, body language, breathing patterns, pauses and spontaneous reactions all provide information that is largely absent or frozen in recordings. Even when the musical notes remain identical, the awareness that another person is creating them in front of you changes how they are interpreted. Live music is not merely heard; it is witnessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</span></span></span>
+Neuroscience research from the University of Zurich found that live performances produced stronger activation of brain systems associated with emotional processing than recorded music. Researchers argue that the real-time connection between performers and audiences is a key part of what makes live music feel different. UZH News ScienceDaily This dynamic quality matters because human emotions are highly responsive to social cues. Facial expressions<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2024/02/240226204557.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[sciencedaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Live music emotionally moves us more than streamed music28 Feb 2024 — A study carried out at the University of Zurich has found that live...</span></span></span>, body language, breathing patterns, pauses and spontaneous reactions all provide information that is largely absent or frozen in recordings. Even when the musical notes remain identical, the awareness that another person is creating them in front of you changes how they are interpreted. Live music is not merely heard; it is witnessed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</span></span></span>
 
 A useful comparison is theatre. Watching a filmed play can communicate the story, but seeing actors perform it in the same room often feels more immediate because the audience knows the outcome is still unfolding. [Concerts]({{ 'concerts/' | relative_url }}) generate a similar emotional tension.
 
@@ -299,7 +299,7 @@ Paradoxically, these possibilities often increase emotional engagement. Psycholo
 
 Visible effort also carries emotional weight. A listener can hear a difficult vocal passage on a recording, but in a live setting they can see the breath control, concentration and physical commitment required to deliver it. That effort becomes part of the emotional message. The audience is not only responding to the song but to the act of someone attempting it in real time.
 
-Recent research comparing live performances with recordings shown on screens found stronger subjective and physiological emotional responses in the live condition, supporting the idea that witnessing a performance unfold directly changes how people feel about it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...Aug 2, 2025 — Live performances are known to evoke stronger emotional a...</span></span></span>
+Recent research comparing live performances with recordings shown on screens found stronger subjective and physiological emotional responses in the live condition, supporting the idea that witnessing a performance unfold directly changes how people feel about it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...Aug 2, 2025 — Live performances are known to evoke stronger emotional a...</span></span></span>
 
 This helps explain why fans often remember moments that are technically imperfect. A cracked note during an emotional ballad or an unscripted interaction with the crowd may be remembered more vividly than a flawless rendition because it reveals something human and unrehearsed.
 
@@ -308,13 +308,13 @@ This helps explain why fans often remember moments that are technically imperfec
 
 Modern recordings can achieve extraordinary fidelity. High-quality headphones can reproduce details that many concert venues cannot. Yet emotional intensity is not determined by audio quality alone.
 
-One reason is that concerts create shared emotional states. Researchers studying live music frequently use the concept of collective effervescence: the feeling of connection and significance that emerges when large groups focus on the same experience together. Studies involving concert audiences have linked this feeling to greater enjoyment, meaning and lasting wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</span></span></span>
+One reason is that concerts create shared emotional states. Researchers studying live music frequently use the concept of collective effervescence: the feeling of connection and significance that emerges when large groups focus on the same experience together. Studies involving concert audiences have linked this feeling to greater enjoyment, meaning and lasting wellbeing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</span></span></span>
 
-When thousands of people sing the same chorus, cheer at the same moment or fall silent together, the emotional response becomes socially reinforced. People tend to amplify one another's reactions. Smiles spread. Excitement spreads. Even physiological responses can become synchronised across groups during shared events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+When thousands of people sing the same chorus, cheer at the same moment or fall silent together, the emotional response becomes socially reinforced. People tend to amplify one another's reactions. Smiles spread. Excitement spreads. Even physiological responses can become synchronised across groups during shared events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 A recording can reproduce sound with remarkable accuracy, but it cannot fully recreate the awareness that everyone in the room is experiencing the same moment simultaneously. The emotional significance comes partly from knowing that the event exists only once. The audience is not consuming a product that can be replayed endlessly; it is participating in an unrepeatable occasion.
 
-This distinction appears in studies of live versus mediated performance. Researchers have found that live music can generate stronger and more consistent emotional responses because it remains adaptive and responsive to audience feedback, whereas recordings are fixed and cannot react. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</span></span></span>
+This distinction appears in studies of live versus mediated performance. Researchers have found that live music can generate stronger and more consistent emotional responses because it remains adaptive and responsive to audience feedback, whereas recordings are fixed and cannot react.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437-Illustration-3-dark.svg" | relative_url }}" alt="Live Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The memory advantage of emotional immediacy
@@ -323,199 +323,199 @@ The stronger emotional impact of live music helps explain why concerts occupy su
 
 Emotion influences attention, and attention influences memory. When a performance feels unusually intense, surprising or socially significant, the brain is more likely to encode the experience as a memorable event. Live concerts combine multiple memory-enhancing ingredients at once: heightened arousal, social connection, novelty and the sense that the moment matters.
 
-That does not mean recordings are emotionally weak. Recordings allow repeated listening, intimate reflection and emotional experiences that concerts cannot provide. However, live performance adds something recordings struggle to reproduce: a real-time exchange between artists and audiences, filled with visible effort, uncertainty and collective feeling. Those elements transform [familiar songs]({{ 'familiar-songs/' | relative_url }}) into shared experiences, which is why the same music often feels more emotional in the room than through a pair of headphones. PubMed 3PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/abs/10.1073/pnas.2316306121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 76 — Here, we show that live music can stimulat...</span></span></span>
+That does not mean recordings are emotionally weak. Recordings allow repeated listening, intimate reflection and emotional experiences that concerts cannot provide. However, live performance adds something recordings struggle to reproduce: a real-time exchange between artists and audiences, filled with visible effort, uncertainty and collective feeling. Those elements transform [familiar songs]({{ 'familiar-songs/' | relative_url }}) into shared experiences, which is why the same music often feels more emotional in the room than through a pair of headphones. PubMed 3PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/abs/10.1073/pnas.2316306121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 76 — Here, we show that live music can stimulat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=G-nLOI4IBt8" target="_blank" rel="noopener noreferrer">Professor Sébastien Tutenges</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G-nLOI4IBt8" target="_blank" rel="noopener noreferrer">Professor Sébastien Tutenges</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G-nLOI4IBt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G-nLOI4IBt8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why live music hits harder in person. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why live music hits harder in person. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Directly addresses emotional responses to music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses emotional responses to music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explains why musical experiences can feel uniquely powerful.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why musical experiences can feel uniquely powerful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Discusses live performance versus recorded sound.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses live performance versus recorded sound.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8116746-M.jpg" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8116746-M.jpg" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Leadership, Experience, Success, Self-realization, Memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Leadership, Experience, Success, Self-realization, Memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="https://i.ebayimg.com/images/g/vU8AAOSwTvhlK~wl/s-l225.jpg" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS"><img src="https://i.ebayimg.com/images/g/vU8AAOSwTvhlK~wl/s-l225.jpg" alt="Listing image for Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Music Posters Rock Band Gig Concert Poster Wall Art PREMIUM QUALITY PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of Two Motown Concert Poster Prints Soul Music Wall Art. Available Framed"><img src="https://i.ebayimg.com/images/g/T2kAAOSwqR1mt04B/s-l225.jpg" alt="Listing image for Set of Two Motown Concert Poster Prints Soul Music Wall Art. Available Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Set of Two Motown Concert Poster Prints Soul Music Wall Art. Available Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of Two Motown Concert Poster Prints Soul Music Wall Art. Available Framed"><img src="https://i.ebayimg.com/images/g/T2kAAOSwqR1mt04B/s-l225.jpg" alt="Listing image for Set of Two Motown Concert Poster Prints Soul Music Wall Art. Available Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Set of Two Motown Concert Poster Prints Soul Music Wall Art. Available Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="https://i.ebayimg.com/images/g/tKUAAeSwFqRpyCHY/s-l225.jpg" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS"><img src="https://i.ebayimg.com/images/g/tKUAAeSwFqRpyCHY/s-l225.jpg" alt="Listing image for MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">MUSIC POSTERS ROCK BAND GIG CONCERT POSTER WALL ART PREMIUM QUALITY PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="https://i.ebayimg.com/images/g/KBgAAOSwb2tljFoi/s-l225.jpg" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Music Concert Poster Retro Rock Vintage Wall Art Print"><img src="https://i.ebayimg.com/images/g/KBgAAOSwb2tljFoi/s-l225.jpg" alt="Listing image for Classic Music Concert Poster Retro Rock Vintage Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Music Concert Poster Retro Rock Vintage Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-hits-harder-in-person-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-live-music-hits-harder-in-person-concert-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ That does not mean recordings are emotionally weak. Recordings allow repeated li
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ That does not mean recordings are emotionally weak. Recordings allow repeated li
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ That does not mean recordings are emotionally weak. Recordings allow repeated li
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ That does not mean recordings are emotionally weak. Recordings allow repeated li
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ That does not mean recordings are emotionally weak. Recordings allow repeated li
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,122 +721,122 @@ That does not mean recordings are emotionally weak. Recordings allow repeated li
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10927510/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10927510/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Here, we show that live music can stimu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10927510/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10927510/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Here, we show that live music can stimu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2316306121" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2316306121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 76 — Here, we show that live music can stimulat...</p></details>
+   Link:<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2316306121" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2316306121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 76 — Here, we show that live music can stimulat...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedaily.com  
-   Link: <a href="https://www.sciencedaily.com/releases/2024/02/240226204557.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2024/02/240226204557.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live music emotionally moves us more than streamed music28 Feb 2024 — A study carried out at the University of Zurich has found that live...</p></details>
+   Link:<a href="https://www.sciencedaily.com/releases/2024/02/240226204557.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2024/02/240226204557.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live music emotionally moves us more than streamed music28 Feb 2024 — A study carried out at the University of Zurich has found that live...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.uzh.ch  
    Title: News Live Musik  
-   Link: <a href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow">https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UZH NewsLive Musik - UZH News - Universität ZürichFeb 27, 2024 — A study carried out at the University of Zurich has found that live perf...</p></details>
+   Link:<a href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow">https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UZH NewsLive Musik - UZH News - Universität ZürichFeb 27, 2024 — A study carried out at the University of Zurich has found that live perf...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watching live performances enhances subjective and...Aug 2, 2025 — Live performances are known to evoke stronger emotional a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watching live performances enhances subjective and...Aug 2, 2025 — Live performances are known to evoke stronger emotional a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: account.live.com  
-   Link: <a href="https://account.live.com/messagepage.aspx" target="_blank" rel="noopener noreferrer nofollow">https://account.live.com/messagepage.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>live.comAccountWe&#x27;re unable to display the list of languages at this time. Save. © 2026 Microsoft Terms of Use Privacy &amp; Cookies Develope...</p></details>
+   Link:<a href="https://account.live.com/messagepage.aspx" target="_blank" rel="noopener noreferrer nofollow">https://account.live.com/messagepage.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>live.comAccountWe&#x27;re unable to display the list of languages at this time. Save. © 2026 Microsoft Terms of Use Privacy &amp; Cookies Develope...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>collective effervescence (CE)—the sense of sacredness and connection felt...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>collective effervescence (CE)—the sense of sacredness and connection felt...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38408255/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38408255/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38408255/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live music stimulates the affective brain and emotionally...by W Trost · 2024 · Cited by 71 — Live music instead can be dynamic an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672241288027</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672241288027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39417534/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39417534/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Fosters Collective Effervescence and Leads to...by N Koefler · 2026 · Cited by 16 — This work examined the power of liv...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39417534/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39417534/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Fosters Collective Effervescence and Leads to...by N Koefler · 2026 · Cited by 16 — This work examined the power of liv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/10298649251349703" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10298649251349703</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA systematic review of social outcomes for audience...by NS Rickard · 2025 · Cited by 8 — Sharing emotions, movement, and r...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/10298649251349703" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10298649251349703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA systematic review of social outcomes for audience...by NS Rickard · 2025 · Cited by 8 — Sharing emotions, movement, and r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eplus.jp  
-   Link: <a href="https://eplus.jp/sf/live" target="_blank" rel="noopener noreferrer nofollow">https://eplus.jp/sf/live</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ライブ･コンサートのチケット購入・販売情報ライブ･コンサートの公演チケット【11427件】を販売中！フェスやJ-POP、洋楽、ロック･バンド･インディーズ、ヴィジュアル系などの音楽ジャンルのチケットのを予約・購入...</p></details>
+   Link:<a href="https://eplus.jp/sf/live" target="_blank" rel="noopener noreferrer nofollow">https://eplus.jp/sf/live</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ライブ･コンサートのチケット購入・販売情報ライブ･コンサートの公演チケット【11427件】を販売中！フェスやJ-POP、洋楽、ロック･バンド･インディーズ、ヴィジュアル系などの音楽ジャンルのチケットのを予約・購入...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/uzh_uzh-universityofzurich-livemusic-activity-7168282392888033281-84BT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/uzh_uzh-universityofzurich-livemusic-activity-7168282392888033281-84BT</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#uzh #universityofzurich #livemusic #affectiveneuroscienceA UZH study has found that live performances affect the emotional center of our...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/uzh_uzh-universityofzurich-livemusic-activity-7168282392888033281-84BT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/uzh_uzh-universityofzurich-livemusic-activity-7168282392888033281-84BT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#uzh #universityofzurich #livemusic #affectiveneuroscienceA UZH study has found that live performances affect the emotional center of our...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thecollectivepalmbeach.com.au  
-   Link: <a href="https://thecollectivepalmbeach.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://thecollectivepalmbeach.com.au/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Collective Palm BeachA famous destination for dining the Gold Coast, here at The Collective we offer a dining experience like no othe...</p></details>
+   Link:<a href="https://thecollectivepalmbeach.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://thecollectivepalmbeach.com.au/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Collective Palm BeachA famous destination for dining the Gold Coast, here at The Collective we offer a dining experience like no othe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psypost.org  
    Title: live music strikes a deeper chord in the brain than recorded tunes study finds  
-   Link: <a href="https://www.psypost.org/live-music-strikes-a-deeper-chord-in-the-brain-than-recorded-tunes-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/live-music-strikes-a-deeper-chord-in-the-brain-than-recorded-tunes-study-finds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live music strikes a deeper chord in the brain than...28 Feb 2024 — New research reveals live music significantly amplifies emotional br...</p></details>
+   Link:<a href="https://www.psypost.org/live-music-strikes-a-deeper-chord-in-the-brain-than-recorded-tunes-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/live-music-strikes-a-deeper-chord-in-the-brain-than-recorded-tunes-study-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live music strikes a deeper chord in the brain than...28 Feb 2024 — New research reveals live music significantly amplifies emotional br...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: provaeducation.com  
    Title: live music emotionally moves us more than streamed music show researchers  
-   Link: <a href="https://provaeducation.com/news/live-music-emotionally-moves-us-more-than-streamed-music-show-researchers/2457319/" target="_blank" rel="noopener noreferrer nofollow">https://provaeducation.com/news/live-music-emotionally-moves-us-more-than-streamed-music-show-researchers/2457319/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Emotionally Moves Us More Than Streamed...27 Feb 2024 — Researchers have found that the live music experience triggers a rang...</p></details>
+   Link:<a href="https://provaeducation.com/news/live-music-emotionally-moves-us-more-than-streamed-music-show-researchers/2457319/" target="_blank" rel="noopener noreferrer nofollow">https://provaeducation.com/news/live-music-emotionally-moves-us-more-than-streamed-music-show-researchers/2457319/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Emotionally Moves Us More Than Streamed...27 Feb 2024 — Researchers have found that the live music experience triggers a rang...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ludwig-van.com  
    Title: report live music provokes stronger response recorded music brain  
-   Link: <a href="https://www.ludwig-van.com/toronto/2024/04/04/report-live-music-provokes-stronger-response-recorded-music-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.ludwig-van.com/toronto/2024/04/04/report-live-music-provokes-stronger-response-recorded-music-brain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Provokes A Stronger Response Than Recorded...4 Apr 2024 — The Swiss researchers, however, felt that live music would provoke...</p></details>
+   Link:<a href="https://www.ludwig-van.com/toronto/2024/04/04/report-live-music-provokes-stronger-response-recorded-music-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.ludwig-van.com/toronto/2024/04/04/report-live-music-provokes-stronger-response-recorded-music-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Provokes A Stronger Response Than Recorded...4 Apr 2024 — The Swiss researchers, however, felt that live music would provoke...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mixmagmena.com  
    Title: live music strikes a deeper emotional chord than streamed music  
-   Link: <a href="https://mixmagmena.com/feature/live-music-strikes-a-deeper-emotional-chord-than-streamed-music" target="_blank" rel="noopener noreferrer nofollow">https://mixmagmena.com/feature/live-music-strikes-a-deeper-emotional-chord-than-streamed-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live music strikes a deeper emotional chord than streamed...15 Mar 2024 — The study reaffirms the unique power of live music to move us...</p></details>
+   Link:<a href="https://mixmagmena.com/feature/live-music-strikes-a-deeper-emotional-chord-than-streamed-music" target="_blank" rel="noopener noreferrer nofollow">https://mixmagmena.com/feature/live-music-strikes-a-deeper-emotional-chord-than-streamed-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live music strikes a deeper emotional chord than streamed...15 Mar 2024 — The study reaffirms the unique power of live music to move us...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: healthday.com  
    Title: your brain feels better when music is live not recorded study  
-   Link: <a href="https://www.healthday.com/health-news/neurology/your-brain-feels-better-when-music-is-live-not-recorded-study" target="_blank" rel="noopener noreferrer nofollow">https://www.healthday.com/health-news/neurology/your-brain-feels-better-when-music-is-live-not-recorded-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Brain Feels Better When Music Is Live, Not Recorded28 Feb 2024 — A study carried out at the University of Zurich has found that live...</p></details>
+   Link:<a href="https://www.healthday.com/health-news/neurology/your-brain-feels-better-when-music-is-live-not-recorded-study" target="_blank" rel="noopener noreferrer nofollow">https://www.healthday.com/health-news/neurology/your-brain-feels-better-when-music-is-live-not-recorded-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Brain Feels Better When Music Is Live, Not Recorded28 Feb 2024 — A study carried out at the University of Zurich has found that live...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/collective-effervescence-psychological-benefits-togetherness-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/collective-effervescence-psychological-benefits-togetherness-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e and connection between a group of people as they partake in ritualistic behaviour.Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/collective-effervescence-psychological-benefits-togetherness-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/collective-effervescence-psychological-benefits-togetherness-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e and connection between a group of people as they partake in ritualistic behaviour.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: garthnewel.org  
    Title: connection and delight how live music enhances well being  
-   Link: <a href="https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connection and Delight — How Live Music Enhances Well...15 Feb 2026 — A recent study published in Personality and Social Psychology Bull...</p></details>
+   Link:<a href="https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://www.garthnewel.org/connection-and-delight-how-live-music-enhances-well-being/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connection and Delight — How Live Music Enhances Well...15 Feb 2026 — A recent study published in Personality and Social Psychology Bull...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newsroom.ucla.edu  
    Title: music can improve memory dependent emotional response  
-   Link: <a href="https://newsroom.ucla.edu/releases/music-can-improve-memory-dependent-emotional-response" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.ucla.edu/releases/music-can-improve-memory-dependent-emotional-response</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to the music: How – and when – emotional...Aug 18, 2025 — UCLA study shows music&#x27;s therapeutic potential for Alzheimer&#x27;s disease, anxiet...</p></details>
+   Link:<a href="https://newsroom.ucla.edu/releases/music-can-improve-memory-dependent-emotional-response" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.ucla.edu/releases/music-can-improve-memory-dependent-emotional-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to the music: How – and when – emotional...Aug 18, 2025 — UCLA study shows music&#x27;s therapeutic potential for Alzheimer&#x27;s disease, anxiet...</p></details>

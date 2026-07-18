@@ -274,16 +274,16 @@ image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_st
 
 ## Introduction
 
-Streaming has increased the amount of money flowing into recorded music, but whether that money reaches artists depends heavily on the contracts sitting between the stream and the creator. Many artists are still paid under agreements negotiated before Spotify, Apple Music and subscription streaming existed. As a result, streaming revenue often passes through royalty formulas, deductions and recoupment rules designed for the CD era rather than the on-demand digital economy. Studies of music streaming economics repeatedly identify contract terms as one of the main reasons why rising industry revenues do not automatically translate into rising [artist income]({{ 'artist-income/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
+Streaming has increased the amount of money flowing into recorded music, but whether that money reaches artists depends heavily on the contracts sitting between the stream and the creator. Many artists are still paid under agreements negotiated before Spotify, Apple Music and subscription streaming existed. As a result, streaming revenue often passes through royalty formulas, deductions and recoupment rules designed for the CD era rather than the on-demand digital economy. Studies of music streaming economics repeatedly identify contract terms as one of the main reasons why rising industry revenues do not automatically translate into rising [artist income]({{ 'artist-income/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-dark.svg" | relative_url }}" alt="Label Deals illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The debate over [creator pay]({{ 'creator-pay/' | relative_url }}) is therefore not only about what streaming services pay. It is also about how record deals allocate revenue, risk and [ownership]({{ 'ownership/' | relative_url }}) once the money reaches a label.
 
 ## Recoupment and Advances in the Streaming Era
 
-The most important contractual mechanism shaping streaming income is recoupment. When a label provides an advance, pays [recording]({{ 'recording/' | relative_url }}) costs, funds marketing campaigns or invests in tour support, those expenses are commonly treated as recoupable. The artist's share of future [royalties]({{ 'royalties/' | relative_url }}) is applied against that balance before significant payments are made to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Lesson 4: What A Record Label Deal Looks LikeThe label will share an agreed percentage of the recorded music earnings with the artist, th...</span></span></span>
+The most important contractual mechanism shaping streaming income is recoupment. When a label provides an advance, pays [recording]({{ 'recording/' | relative_url }}) costs, funds marketing campaigns or invests in tour support, those expenses are commonly treated as recoupable. The artist's share of future [royalties]({{ 'royalties/' | relative_url }}) is applied against that balance before significant payments are made to them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[curveroyaltysystems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Lesson 4: What A Record Label Deal Looks LikeThe label will share an agreed percentage of the recorded music earnings with the artist, th...</span></span></span>
 
-This system made intuitive sense in an era when labels faced substantial manufacturing, warehousing and distribution costs. Streaming changed the economics of delivery, but many contracts preserved the same accounting structure. As a result, an artist can generate millions of streams yet remain officially "unrecouped", meaning that streaming income primarily reduces an internal debt balance rather than producing direct royalty payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</span></span></span>
+This system made intuitive sense in an era when labels faced substantial manufacturing, warehousing and distribution costs. Streaming changed the economics of delivery, but many contracts preserved the same accounting structure. As a result, an artist can generate millions of streams yet remain officially "unrecouped", meaning that streaming income primarily reduces an internal debt balance rather than producing direct royalty payments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</span></span></span>
 
 The consequences vary dramatically:
 
@@ -295,7 +295,7 @@ The consequences vary dramatically:
 
 </div>
 
-The issue has become significant enough that some labels have voluntarily altered legacy arrangements. The UK government's review of streaming economics highlighted examples such as Beggars Group writing off certain old unrecouped balances after a defined period and Defected Records introducing higher minimum streaming royalty rates alongside debt write-offs for older accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Rights reversion and contract adjustment</span><span class="citation-popover-snippet">February 6, 2023 — 6 Feb 2023 — In 2022, Defected Records introduced a minimum 30% royalty rate and a policy of writing off unrecouped de...</span><span class="citation-popover-meta">Published: February 6, 2023</span></span></span>
+The issue has become significant enough that some labels have voluntarily altered legacy arrangements. The UK government's review of streaming economics highlighted examples such as Beggars Group writing off certain old unrecouped balances after a defined period and Defected Records introducing higher minimum streaming royalty rates alongside debt write-offs for older accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Rights reversion and contract adjustment</span><span class="citation-popover-snippet">February 6, 2023 — 6 Feb 2023 — In 2022, Defected Records introduced a minimum 30% royalty rate and a policy of writing off unrecouped de...</span><span class="citation-popover-meta">Published: February 6, 2023</span></span></span>
 
 These initiatives illustrate a broader recognition that perpetual recoupment can leave artists disconnected from the value generated by long-lived streaming catalogues.
 
@@ -303,231 +303,231 @@ These initiatives illustrate a broader recognition that perpetual recoupment can
 
 Critics of traditional deals sometimes present labels as unnecessary intermediaries, but that overlooks the economic role labels continue to play.
 
-A label often finances recording sessions, marketing campaigns, playlist promotion, radio plugging, video production, international distribution and artist development. Those investments are risky because most releases do not become major commercial successes. Contract structures evolved partly to allow labels to recover losses from unsuccessful projects while benefiting from successful ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494211044731" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSpinning the risks and rewards of artist–label relations in...by Y Kjus · 2022 · Cited by 22 — This article studies the con...</span></span></span>
+A label often finances recording sessions, marketing campaigns, playlist promotion, radio plugging, video production, international distribution and artist development. Those investments are risky because most releases do not become major commercial successes. Contract structures evolved partly to allow labels to recover losses from unsuccessful projects while benefiting from successful ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494211044731" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSpinning the risks and rewards of artist–label relations in...by Y Kjus · 2022 · Cited by 22 — This article studies the con...</span></span></span>
 
-Streaming has not eliminated that function. In many cases, the artists receiving the largest streaming audiences are backed by organisations capable of funding sustained promotion and global campaigns. The central argument from labels is that ownership [rights]({{ 'rights/' | relative_url }}) and royalty participation compensate them for taking those risks before success is guaranteed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494211044731" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSpinning the risks and rewards of artist–label relations in...by Y Kjus · 2022 · Cited by 22 — This article studies the con...</span></span></span>
+Streaming has not eliminated that function. In many cases, the artists receiving the largest streaming audiences are backed by organisations capable of funding sustained promotion and global campaigns. The central argument from labels is that ownership [rights]({{ 'rights/' | relative_url }}) and royalty participation compensate them for taking those risks before success is guaranteed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13675494211044731" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSpinning the risks and rewards of artist–label relations in...by Y Kjus · 2022 · Cited by 22 — This article studies the con...</span></span></span>
 
 This explains why disputes over streaming income are rarely simple arguments about whether labels deserve a share. The real question is often whether older contractual percentages still reflect the level of investment and risk involved once music can remain commercially active on streaming services for decades.
 
-A contract signed in 1995 may have assumed that most revenue would arrive during a relatively short sales window. Streaming transformed successful recordings into long-term assets that can continue generating income indefinitely. That shift has altered the balance between the label's original investment and the artist's ongoing contribution to value creation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
+A contract signed in 1995 may have assumed that most revenue would arrive during a relatively short sales window. Streaming transformed successful recordings into long-term assets that can continue generating income indefinitely. That shift has altered the balance between the label's original investment and the artist's ongoing contribution to value creation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-2-dark.svg" | relative_url }}" alt="Label Deals illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Legacy Royalty Terms Create Conflict
 
 Many of the most contentious streaming disputes stem from contracts written before digital distribution became dominant.
 
-Historically, artist royalty rates on physical sales were often modest because labels absorbed manufacturing and retail costs. Research cited in the UK streaming debate found average featured-artist royalty rates rising from physical formats to downloads and then to streaming, but many artists remain tied to older percentages negotiated under different assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe Use and Abuse of Statistics in UK Music Streaming...by R Osborne · 2025 · Cited by 1 — finding that, on avera...</span></span></span>
+Historically, artist royalty rates on physical sales were often modest because labels absorbed manufacturing and retail costs. Research cited in the UK streaming debate found average featured-artist royalty rates rising from physical formats to downloads and then to streaming, but many artists remain tied to older percentages negotiated under different assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe Use and Abuse of Statistics in UK Music Streaming...by R Osborne · 2025 · Cited by 1 — finding that, on avera...</span></span></span>
 
 The conflict emerges because streaming can be interpreted in different contractual ways. Is a stream equivalent to a sale? A licence? A digital service transaction? Older contracts frequently never addressed these questions directly.
 
-A prominent example involved producer and artist Kieran Hebden, better known as Four Tet, who challenged the way his former label Domino applied a pre-streaming contract to digital revenue. The dispute centred on whether streaming income should be treated more like licensing revenue, which would trigger a higher royalty share, rather than being paid at the lower rates associated with physical records. The case eventually resulted in a settlement including higher royalty treatment going forward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Four Tet Wins Streaming Royalties Dispute With Domino</span><span class="citation-popover-snippet">Hebden claimed he was owed a 50% royalty rate for streams and downloads according to his 2001 contract, rather than the 18% the label pai...</span></span></span>
+A prominent example involved producer and artist Kieran Hebden, better known as Four Tet, who challenged the way his former label Domino applied a pre-streaming contract to digital revenue. The dispute centred on whether streaming income should be treated more like licensing revenue, which would trigger a higher royalty share, rather than being paid at the lower rates associated with physical records. The case eventually resulted in a settlement including higher royalty treatment going forward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Four Tet Wins Streaming Royalties Dispute With Domino</span><span class="citation-popover-snippet">Hebden claimed he was owed a 50% royalty rate for streams and downloads according to his 2001 contract, rather than the 18% the label pai...</span></span></span>
 
-Such disputes are not isolated. Parliamentary inquiries, academic studies and creator organisations have repeatedly argued that many streaming-era conflicts originate from attempts to fit new revenue streams into contractual language written decades earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</span></span></span>
+Such disputes are not isolated. Parliamentary inquiries, academic studies and creator organisations have repeatedly argued that many streaming-era conflicts originate from attempts to fit new revenue streams into contractual language written decades earlier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</span></span></span>
 
-Legacy deals can also contain deductions that were originally justified by physical distribution. Depending on the agreement, artists may face packaging deductions, reserves or other adjustments that appear increasingly disconnected from digital consumption. Researchers examining performer payments have argued that legacy contracts often leave artists receiving substantially smaller shares of streaming income than newer agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aepo-artis.org">[aepo-artis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aepo-artis.org</span><span class="citation-popover-title">Performer Payments Streaming 20219131842</span><span class="citation-popover-snippet">PERFORMER PAYMENTS FROM STREAMINGSeptember 13, 2021 — Royalty rates on legacy deals vary hugely depending on country and era, but based o...</span><span class="citation-popover-meta">Published: September 13, 2021</span></span></span>
+Legacy deals can also contain deductions that were originally justified by physical distribution. Depending on the agreement, artists may face packaging deductions, reserves or other adjustments that appear increasingly disconnected from digital consumption. Researchers examining performer payments have argued that legacy contracts often leave artists receiving substantially smaller shares of streaming income than newer agreements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aepo-artis.org">[aepo-artis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aepo-artis.org</span><span class="citation-popover-title">Performer Payments Streaming 20219131842</span><span class="citation-popover-snippet">PERFORMER PAYMENTS FROM STREAMINGSeptember 13, 2021 — Royalty rates on legacy deals vary hugely depending on country and era, but based o...</span><span class="citation-popover-meta">Published: September 13, 2021</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-dark.svg" | relative_url }}" alt="Label Deals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Transparency, Renegotiation and the Push for Reform
 
 The streaming debate has gradually shifted from whether contracts matter to how they should evolve.
 
-Recent UK initiatives have encouraged greater transparency around royalty calculations, recoupment practices and contractual terms. Industry codes now place greater emphasis on explaining how royalties are calculated, what costs can be recouped and how frequently artists should receive statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...14 May 2024 — The Code states that record labels and publishers should encourage artists how royalties a...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Recent UK initiatives have encouraged greater transparency around royalty calculations, recoupment practices and contractual terms. Industry codes now place greater emphasis on explaining how royalties are calculated, what costs can be recouped and how frequently artists should receive statements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...14 May 2024 — The Code states that record labels and publishers should encourage artists how royalties a...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-At the same time, pressure has grown for mechanisms that allow artists on older agreements to renegotiate terms. Government-backed discussions, industry recommendations and creator advocacy groups have all focused on updating pre-streaming contracts rather than assuming that market growth alone will solve creator-pay concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://councilmusicmakers.org/contractrenegotiation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-snippet">CMM guidance on how to renegotiate your label contract22 Jul 2025 — BPI and AIM have recommended that their member labels adopt a set of...</span></span></span>
+At the same time, pressure has grown for mechanisms that allow artists on older agreements to renegotiate terms. Government-backed discussions, industry recommendations and creator advocacy groups have all focused on updating pre-streaming contracts rather than assuming that market growth alone will solve creator-pay concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://councilmusicmakers.org/contractrenegotiation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: councilmusicmakers.org">[councilmusicmakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">councilmusicmakers.org</span><span class="citation-popover-snippet">CMM guidance on how to renegotiate your label contract22 Jul 2025 — BPI and AIM have recommended that their member labels adopt a set of...</span></span></span>
 
 The underlying issue is straightforward: streaming transformed how music earns money, but many contracts still reflect the assumptions of a previous era. Whether artists benefit quickly, slowly or not at all from streaming growth often depends less on the platform and more on the specific clauses governing royalties, ownership and recoupment.
 
-For that reason, record contracts remain one of the most powerful determinants of creator pay in the streaming economy. Even when the same song generates the same number of streams, the agreement behind it can produce radically different outcomes for the artist who made it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets Music and streaming</span><span class="citation-popover-snippet">Music and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</span></span></span>
+For that reason, record contracts remain one of the most powerful determinants of creator pay in the streaming economy. Even when the same song generates the same number of streams, the agreement behind it can produce radically different outcomes for the artist who made it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-snippet">Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</span><span class="citation-popover-meta">Published: November 16, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets Music and streaming</span><span class="citation-popover-snippet">Music and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Old Record Deals Meet Streaming Money. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Old Record Deals Meet Streaming Money. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains record contracts, recoupment, advances, royalties and how streaming revenue flows through legacy label agreements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains record contracts, recoupment, advances, royalties and how streaming revenue flows through legacy label agreements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artist+management+for+the+music+business+Allen%2C+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artist management for the music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13850546-M.jpg" alt="Cover for Artist management for the music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artist+management+for+the+music+business+Allen%2C+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artist management for the music business">Artist management for the music business</a>
-        </h4>
-        <p class="fr-book-author">By Allen, Paul</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artist+management+for+the+music+business+Allen%2C+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artist management for the music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13850546-M.jpg" alt="Cover for Artist management for the music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artist+management+for+the+music+business+Allen%2C+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artist management for the music business">Artist management for the music business</a>
+</h4>
+<p class="fr-book-author">By Allen, Paul</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Music trade, Performing arts, Music, Economic aspects, Vocational guidance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artist+management+for+the+music+business+Allen%2C+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Music trade, Performing arts, Music, Economic aspects, Vocational guidance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artist+management+for+the+music+business+Allen%2C+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artist+management+for+the+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artist management for the music business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artist+management+for+the+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artist management for the music business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKA BAR Welcome Metal Sign Man Cave Pub Bar Vintage Wall Plaque Garage music SML"><img src="{{ '/assets/images/marketplace-covers/7324f78776ef89928abc.jpg' | relative_url }}" alt="Listing image for SKA BAR Welcome Metal Sign Man Cave Pub Bar Vintage Wall Plaque Garage music SML" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">SKA BAR Welcome Metal Sign Man Cave Pub Bar Vintage Wall Plaque Garage music SML</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKA BAR Welcome Metal Sign Man Cave Pub Bar Vintage Wall Plaque Garage music SML"><img src="{{ '/assets/images/marketplace-covers/7324f78776ef89928abc.jpg' | relative_url }}" alt="Listing image for SKA BAR Welcome Metal Sign Man Cave Pub Bar Vintage Wall Plaque Garage music SML" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">SKA BAR Welcome Metal Sign Man Cave Pub Bar Vintage Wall Plaque Garage music SML</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No cry babies metal sign. Traditional Tattoo studio. Vintage rusty trad flash"><img src="{{ '/assets/images/marketplace-covers/eb588ea0249d94828836.jpg' | relative_url }}" alt="Listing image for No cry babies metal sign. Traditional Tattoo studio. Vintage rusty trad flash" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">No cry babies metal sign. Traditional Tattoo studio. Vintage rusty trad flash</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No cry babies metal sign. Traditional Tattoo studio. Vintage rusty trad flash"><img src="{{ '/assets/images/marketplace-covers/eb588ea0249d94828836.jpg' | relative_url }}" alt="Listing image for No cry babies metal sign. Traditional Tattoo studio. Vintage rusty trad flash" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">No cry babies metal sign. Traditional Tattoo studio. Vintage rusty trad flash</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neighbours, Great music metal sign. Rusty worn look print Funny garden party bar"><img src="{{ '/assets/images/marketplace-covers/10fd9217638643a39694.jpg' | relative_url }}" alt="Listing image for Neighbours, Great music metal sign. Rusty worn look print Funny garden party bar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">Neighbours, Great music metal sign. Rusty worn look print Funny garden party bar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neighbours, Great music metal sign. Rusty worn look print Funny garden party bar"><img src="{{ '/assets/images/marketplace-covers/10fd9217638643a39694.jpg' | relative_url }}" alt="Listing image for Neighbours, Great music metal sign. Rusty worn look print Funny garden party bar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">Neighbours, Great music metal sign. Rusty worn look print Funny garden party bar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCK BAR Welcome Metal Sign Pub Bar Vintage Wall Plaque Garage Tin Various music"><img src="{{ '/assets/images/marketplace-covers/2719cd5d1ca2a3955af7.jpg' | relative_url }}" alt="Listing image for ROCK BAR Welcome Metal Sign Pub Bar Vintage Wall Plaque Garage Tin Various music" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">ROCK BAR Welcome Metal Sign Pub Bar Vintage Wall Plaque Garage Tin Various music</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCK BAR Welcome Metal Sign Pub Bar Vintage Wall Plaque Garage Tin Various music"><img src="{{ '/assets/images/marketplace-covers/2719cd5d1ca2a3955af7.jpg' | relative_url }}" alt="Listing image for ROCK BAR Welcome Metal Sign Pub Bar Vintage Wall Plaque Garage Tin Various music" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">ROCK BAR Welcome Metal Sign Pub Bar Vintage Wall Plaque Garage Tin Various music</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry sign" data-ebay-reference="label-deals-when-old-record-deals-meet-streaming-money-music-music-industry-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ For that reason, record contracts remain one of the most powerful determinants o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ For that reason, record contracts remain one of the most powerful determinants o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ For that reason, record contracts remain one of the most powerful determinants o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ For that reason, record contracts remain one of the most powerful determinants o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ For that reason, record contracts remain one of the most powerful determinants o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,142 +733,142 @@ For that reason, record contracts remain one of the most powerful determinants o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.[publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;). service.gov.uk  
    Title: UK Assets Music and streaming  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music and streaming - Final report29 Nov 2022 —... earnings from UK streaming for all UK artists, prior to any recoupment for adva...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: curveroyaltysystems.com  
-   Link: <a href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 4: What A Record Label Deal Looks LikeThe label will share an agreed percentage of the recorded music earnings with the artist, th...</p></details>
+   Link:<a href="https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/royalties-101-recorded-music/lesson-4-what-a-record-label-deal-looks-like</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 4: What A Record Label Deal Looks LikeThe label will share an agreed percentage of the recorded music earnings with the artist, th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/18910/pdf/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/18910/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/18910/pdf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesWritten evidence submitted by the Musicians&#x27; UnionStreaming royalties paid via PPL would be of benefit both to no...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Rights reversion and contract adjustment  
-   Link: <a href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2023 — 6 Feb 2023 — In 2022, Defected Records introduced a minimum 30% royalty rate and a policy of writing off unrecouped de...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/economics-of-streaming-contract-adjustment-and-rights-reversion/rights-reversion-and-contract-adjustment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 6, 2023 — 6 Feb 2023 — In 2022, Defected Records introduced a minimum 30% royalty rate and a policy of writing off unrecouped de...</p></details>
    Published: February 6, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 220726 Music and streaming update paper  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and streaming26 Jul 2022 — artists are being offered higher royalty rates and shorter contract terms than in the past...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62df815d8fa8f5649911166a/220726_Music_and_streaming_-_update_paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and streaming26 Jul 2022 — artists are being offered higher royalty rates and shorter contract terms than in the past...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pitchfork.com  
    Title: Four Tet Wins Streaming Royalties Dispute With Domino  
-   Link: <a href="https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hebden claimed he was owed a 50% royalty rate for streams and downloads according to his 2001 contract, rather than the 18% the label pai...</p></details>
+   Link:<a href="https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/four-tet-wins-streaming-royalties-dispute-with-domino</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hebden claimed he was owed a 50% royalty rate for streams and downloads according to his 2001 contract, rather than the 18% the label pai...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament4The market for music rights  
-   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament UK15 Jul 2021 — Sony sold 50 percent of its shares for $750 million and ・ over $250 million was shared with artists417 ・ artis...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/5007.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament UK15 Jul 2021 — Sony sold 50 percent of its shares for $750 million and ・ over $250 million was shared with artists417 ・ artis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aepo-artis.org  
    Title: Performer Payments Streaming 20219131842  
-   Link: <a href="https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PERFORMER PAYMENTS FROM STREAMINGSeptember 13, 2021 — Royalty rates on legacy deals vary hugely depending on country and era, but based o...</p></details>
+   Link:<a href="https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aepo-artis.org/wp-content/uploads/2022/07/Performer-Payments-Streaming_20219131842.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PERFORMER PAYMENTS FROM STREAMINGSeptember 13, 2021 — Royalty rates on legacy deals vary hugely depending on country and era, but based o...</p></details>
    Published: September 13, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: councilmusicmakers.org  
-   Link: <a href="https://councilmusicmakers.org/contractrenegotiation/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/contractrenegotiation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CMM guidance on how to renegotiate your label contract22 Jul 2025 — BPI and AIM have recommended that their member labels adopt a set of...</p></details>
+   Link:<a href="https://councilmusicmakers.org/contractrenegotiation/" target="_blank" rel="noopener noreferrer nofollow">https://councilmusicmakers.org/contractrenegotiation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CMM guidance on how to renegotiate your label contract22 Jul 2025 — BPI and AIM have recommended that their member labels adopt a set of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: the potential economic impact of er on performers and the music market in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is a...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: create.ac.uk  
-   Link: <a href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</p></details>
+   Link:<a href="https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/wp-content/uploads/2020/12/CREATe-Economics-of-Music-Streaming.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright contracts and the economics of music streamingNovember 16, 2020 — 16 Nov 2020 — – the royalties artists receive from stre...</p></details>
    Published: November 16, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/13675494211044731" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13675494211044731</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSpinning the risks and rewards of artist–label relations in...by Y Kjus · 2022 · Cited by 22 — This article studies the con...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/13675494211044731" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13675494211044731</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSpinning the risks and rewards of artist–label relations in...by Y Kjus · 2022 · Cited by 22 — This article studies the con...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Use and Abuse of Statistics in UK Music Streaming...by R Osborne · 2025 · Cited by 1 — finding that, on avera...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2516373</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe Use and Abuse of Statistics in UK Music Streaming...by R Osborne · 2025 · Cited by 1 — finding that, on avera...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mediawrites.twobirds.com  
    Title: Passle A Step Towards Fairness?  
-   Link: <a href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Voluntary Code of Good...14 May 2024 — The Code states that record labels and publishers should encourage artists how royalties a...</p></details>
+   Link:<a href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Voluntary Code of Good...14 May 2024 — The Code states that record labels and publishers should encourage artists how royalties a...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These measures aim to address income disparities for artists with pre-digital era record deals that did not account for streaming revenue...</p></details>
+   Link:<a href="https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/b7ec4cde-df96-4a06-9f2c-8e230bb0acd7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These measures aim to address income disparities for artists with pre-digital era record deals that did not account for streaming revenue...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: virpp.com  
-   Link: <a href="https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Payouts Comparison: A Guide for MusiciansIn this blog, we&#x27;ll discuss how much each major streaming platform pays per stre...</p></details>
+   Link:<a href="https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/" target="_blank" rel="noopener noreferrer nofollow">https://virpp.com/hello/music-streaming-payouts-comparison-a-guide-for-musicians/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Payouts Comparison: A Guide for MusiciansIn this blog, we&#x27;ll discuss how much each major streaming platform pays per stre...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Artists Can Renegotiate Old Record Deals for...UK Artists who signed record deals before 2000 just got a massive win: they can now re...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gavingottlich_new-label-led-measures-to-boost-income-for-activity-7362182644735905793-Tet2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Artists Can Renegotiate Old Record Deals for...UK Artists who signed record deals before 2000 just got a massive win: they can now re...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ivorsacademy.com  
-   Link: <a href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ivors AcademyWhat the streaming transparency code means for...6 Aug 2024 — This new code, which took effect on 31 st July 2024, incl...</p></details>
+   Link:<a href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ivors AcademyWhat the streaming transparency code means for...6 Aug 2024 — This new code, which took effect on 31 st July 2024, incl...</p></details>
    Published: July 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming what does a fair deal for musicians look like  
-   Link: <a href="https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming: What Does a Fair Deal for...11 Feb 2025 — Songwriters and composers receive a 70-80% royalty from the music publisher u...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/music-streaming-what-does-a-fair-deal-for-musicians-look-like</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming: What Does a Fair Deal for...11 Feb 2025 — Songwriters and composers receive a 70-80% royalty from the music publisher u...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: themmf.net  
-   Link: <a href="https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf" target="_blank" rel="noopener noreferrer nofollow">https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to... Check your Streaming RoyaltiesIn that case, artists will receive income direct from them and it is not subject to recoupment of...</p></details>
+   Link:<a href="https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf" target="_blank" rel="noopener noreferrer nofollow">https://themmf.net/wp-content/uploads/2017/04/How-to...-Check-your-Streaming-Royalties.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to... Check your Streaming RoyaltiesIn that case, artists will receive income direct from them and it is not subject to recoupment of...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming royalties  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties for Streaming Music | The MU22 Apr 2026 — The MU Royalties department collects between £1.5 million to £2 million a year for mu...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties for Streaming Music | The MU22 Apr 2026 — The MU Royalties department collects between £1.5 million to £2 million a year for mu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Truth About Record Labels and Streaming Income  
-   Link: <a href="https://www.youtube.com/watch?v=8q-i9sT2XpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8q-i9sT2XpI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding [Royalty Splits](&amp;#123;&amp;#123; &#x27;royalty-splits/&#x27; | relative_url &amp;#125;&amp;#125;): Labels, Distributors, and Artists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8q-i9sT2XpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8q-i9sT2XpI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding [Royalty Splits](&amp;#123;&amp;#123; &#x27;royalty-splits/&#x27; | relative_url &amp;#125;&amp;#125;): Labels, Distributors, and Artists...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weareumaw.org  
    Title: un report  
-   Link: <a href="https://weareumaw.org/un-report" target="_blank" rel="noopener noreferrer nofollow">https://weareumaw.org/un-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of UN Report on StreamingThe UN report recommends the worldwide creation of a new streaming royalty paid to artists, including no...</p></details>
+   Link:<a href="https://weareumaw.org/un-report" target="_blank" rel="noopener noreferrer nofollow">https://weareumaw.org/un-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of UN Report on StreamingThe UN report recommends the worldwide creation of a new streaming royalty paid to artists, including no...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: bura.brunel.ac.uk  
    Title: Full Text  
-   Link: <a href="https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK economics of music streaming inquiryby H Bosher · 2022 · Cited by 3 — Equitable remuneration (ER) is an international legal concept in...</p></details>
+   Link:<a href="https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bura.brunel.ac.uk/bitstream/2438/24058/3/FullText.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK economics of music streaming inquiryby H Bosher · 2022 · Cited by 3 — Equitable remuneration (ER) is an international legal concept in...</p></details>

@@ -279,19 +279,19 @@ In [dance music]({{ 'dance-music/' | relative_url }}) [culture]({{ 'culture/' | 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-dark.svg" | relative_url }}" alt="Sound Systems illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Technical Setup and Layout
 
-A dance music sound system comprises multiple elements configured to deliver sound energy across a wide frequency spectrum, emphasising powerful low‑frequency (bass) reproduction and even coverage throughout the venue. Club systems typically include large subwoofers dedicated to very low frequencies (often below 100 Hz), mid‑range drivers for rhythmic content and high‑frequency components that articulate finer rhythmic detail. This extended bass range isn’t just heard — it’s felt through the body, especially the torso and legs, engaging sensorimotor systems beyond audition alone. Sound reinforcement systems in dance venues are calibrated with fill‑in speakers and high‑power amplifiers so that dancers in different parts of the room receive the same beat pulse without perceptible delays, preventing temporal smearing that can disrupt collective coordination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound reinforcement system</span><span class="citation-popover-snippet">Sound reinforcement system</span></span></span>
+A dance music sound system comprises multiple elements configured to deliver sound energy across a wide frequency spectrum, emphasising powerful low‑frequency (bass) reproduction and even coverage throughout the venue. Club systems typically include large subwoofers dedicated to very low frequencies (often below 100 Hz), mid‑range drivers for rhythmic content and high‑frequency components that articulate finer rhythmic detail. This extended bass range isn’t just heard — it’s felt through the body, especially the torso and legs, engaging sensorimotor systems beyond audition alone. Sound reinforcement systems in dance venues are calibrated with fill‑in speakers and high‑power amplifiers so that dancers in different parts of the room receive the same beat pulse without perceptible delays, preventing temporal smearing that can disrupt collective coordination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound reinforcement system</span><span class="citation-popover-snippet">Sound reinforcement system</span></span></span>
 
-The spatial layout of speakers and acoustics of the room also matter. Subwoofers placed symmetrically and calibrated with room absorbers and traps can create a more uniform bass field, minimising dead spots and ensuring that the beat’s energy reaches the ensemble of dancers. Engineers often deploy delays and carefully positioned fills so that sound from different speaker arrays arrives synchronously, stabilising beat perception across the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baronentertainment.co.uk">[Baron Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baronentertainment.co.uk</span><span class="citation-popover-title">Baron Entertainment Sound Systems &amp; Acoustics: How Clubs Create the Ultimate</span><span class="citation-popover-snippet">Baron EntertainmentSound Systems &amp; Acoustics: How Clubs Create the Ultimate...February 17, 2025 — A well-designed sound system, paired w...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
+The spatial layout of speakers and acoustics of the room also matter. Subwoofers placed symmetrically and calibrated with room absorbers and traps can create a more uniform bass field, minimising dead spots and ensuring that the beat’s energy reaches the ensemble of dancers. Engineers often deploy delays and carefully positioned fills so that sound from different speaker arrays arrives synchronously, stabilising beat perception across the floor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baronentertainment.co.uk">[Baron Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baronentertainment.co.uk</span><span class="citation-popover-title">Baron Entertainment Sound Systems &amp; Acoustics: How Clubs Create the Ultimate</span><span class="citation-popover-snippet">Baron EntertainmentSound Systems &amp; Acoustics: How Clubs Create the Ultimate...February 17, 2025 — A well-designed sound system, paired w...</span><span class="citation-popover-meta">Published: February 17, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2UphAzryVpY" title="A different way to visualize rhythm - John Varney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2UphAzryVpY" target="_blank" rel="noopener noreferrer">A different way to visualize rhythm - John Varney</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.6M &middot; Uploaded: October 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2UphAzryVpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2UphAzryVpY">Open on YouTube</a></p></div></div></div>
 
 ## Acoustic Influence on Movement
 
-Powerful bass and consistent rhythmic emphasis enable *entrainment* — the alignment of dancers’ movements to a common temporal framework. Human motor systems are highly responsive to low‑frequency rhythmic cues, which engage not only auditory but also vestibular and vibrotactile pathways. Very low bass has been shown to increase dancing intensity, suggesting that deep sub‑bass frequencies enhance the urge to move and improve timing alignment among dancers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0960982222015354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Undetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</span><span class="citation-popover-meta">Published: November 7, 2022</span></span></span>
+Powerful bass and consistent rhythmic emphasis enable *entrainment* — the alignment of dancers’ movements to a common temporal framework. Human motor systems are highly responsive to low‑frequency rhythmic cues, which engage not only auditory but also vestibular and vibrotactile pathways. Very low bass has been shown to increase dancing intensity, suggesting that deep sub‑bass frequencies enhance the urge to move and improve timing alignment among dancers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0960982222015354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Undetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</span><span class="citation-popover-meta">Published: November 7, 2022</span></span></span>
 
-Experimental research supports the notion that rhythmic beats facilitate coordinated movement: individuals exhibit stronger tempo entrainment and more active movement when the bass drum’s sound pressure level increases, indicating that the acoustic dominance of low‑frequency impulses serves as a bodily reference for motor coordination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://backoffice.biblio.ugent.be/download/3192372/6990908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: backoffice.biblio.ugent.be">[backoffice.biblio.ugent.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">backoffice.biblio.ugent.be</span><span class="citation-popover-title">The Impact of the Bass Drum on Human Dance Movement</span><span class="citation-popover-snippet">February 21, 2013 — THE PRESENT STUDY AIMS TO GAIN BETTER INSIGHT into the connection between music and dance by exam- ining the dynamic...</span><span class="citation-popover-meta">Published: February 21, 2013</span></span></span>
+Experimental research supports the notion that rhythmic beats facilitate coordinated movement: individuals exhibit stronger tempo entrainment and more active movement when the bass drum’s sound pressure level increases, indicating that the acoustic dominance of low‑frequency impulses serves as a bodily reference for motor coordination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://backoffice.biblio.ugent.be/download/3192372/6990908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: backoffice.biblio.ugent.be">[backoffice.biblio.ugent.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">backoffice.biblio.ugent.be</span><span class="citation-popover-title">The Impact of the Bass Drum on Human Dance Movement</span><span class="citation-popover-snippet">February 21, 2013 — THE PRESENT STUDY AIMS TO GAIN BETTER INSIGHT into the connection between music and dance by exam- ining the dynamic...</span><span class="citation-popover-meta">Published: February 21, 2013</span></span></span>
 
-In real dance settings, group synchrony of body movements correlates with rhythmic features that approximate natural locomotor patterns (around 100‑150 bpm), highlighting how acoustic [rhythm]({{ 'rhythm/' | relative_url }}) patterns on sound systems align with embodied timing templates that are familiar and easily matched by dancers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
+In real dance settings, group synchrony of body movements correlates with rhythmic features that approximate natural locomotor patterns (around 100‑150 bpm), highlighting how acoustic [rhythm]({{ 'rhythm/' | relative_url }}) patterns on sound systems align with embodied timing templates that are familiar and easily matched by dancers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016...</span><span class="citation-popover-meta">Published: October 20, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JISh_c8oUsw" title="Rhythm in music explained- How to get rhythm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JISh_c8oUsw" target="_blank" rel="noopener noreferrer">Rhythm in music explained- How to get rhythm</a></p><p class="youtube-embed-meta">Channel: Ruairi Glasheen &middot; Views: 341.6K &middot; Uploaded: December 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JISh_c8oUsw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JISh_c8oUsw">Open on YouTube</a></p></div></div></div>
 
@@ -300,203 +300,203 @@ In real dance settings, group synchrony of body movements correlates with rhythm
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-2-dark.svg" | relative_url }}" alt="Sound Systems illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sound Systems as Community Focal Points
 
-Beyond acoustics, sound systems structure the *social* experience of shared rhythm. Historically rooted in Jamaican diasporic culture, sound system setups brought powerful PA systems into communal gatherings where rhythm isn’t passively heard but collectively *felt* and responded to, creating a sense of communal flow and shared focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakota.co.uk">[Lakota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakota.co.uk</span><span class="citation-popover-snippet">The rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</span><span class="citation-popover-meta">Published: September 13, 2024</span></span></span>
+Beyond acoustics, sound systems structure the *social* experience of shared rhythm. Historically rooted in Jamaican diasporic culture, sound system setups brought powerful PA systems into communal gatherings where rhythm isn’t passively heard but collectively *felt* and responded to, creating a sense of communal flow and shared focus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakota.co.uk">[Lakota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakota.co.uk</span><span class="citation-popover-snippet">The rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</span><span class="citation-popover-meta">Published: September 13, 2024</span></span></span>
 
-In club contexts, the sound system effectively becomes the *temporal centre* — the source of the beat that dancers orient towards and synchronise with. When dancers perceive a stable, embodied beat through a high‑energy system, they can match their movements not only to the sound but also to each other, reinforcing collective timing and social cohesion. Even subtle acoustic features — the balance of low versus high frequencies, the shape of transient sounds, and the rhythmic clarity of percussion — influence how easily individuals can entrain their movements to the beat and to one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/mts/article/44/1/1/6458117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[academic.oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">December 9, 2021...</span><span class="citation-popover-meta">Published: December 9, 2021</span></span></span>
+In club contexts, the sound system effectively becomes the *temporal centre* — the source of the beat that dancers orient towards and synchronise with. When dancers perceive a stable, embodied beat through a high‑energy system, they can match their movements not only to the sound but also to each other, reinforcing collective timing and social cohesion. Even subtle acoustic features — the balance of low versus high frequencies, the shape of transient sounds, and the rhythmic clarity of percussion — influence how easily individuals can entrain their movements to the beat and to one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/mts/article/44/1/1/6458117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[academic.oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">December 9, 2021...</span><span class="citation-popover-meta">Published: December 9, 2021</span></span></span>
 
 In sum, the role of sound systems in dance music is both technical and social: carefully engineered systems deliver rhythmic energy that bodies can lock into, while culturally rooted practices around system design and deployment curate the shared rhythmic field in which dancers experience collective movement and connection.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Zfogjk3rpc" title="Basic Subwoofer Set-up &amp; Placement for Events - Getting the Best Sound Out of Your Subwoofers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Zfogjk3rpc" target="_blank" rel="noopener noreferrer">Basic Subwoofer Set-up &amp; Placement for Events - Getting the Best Sound Out of Your Subwoofers</a></p><p class="youtube-embed-meta">Channel: DJ Life Mag &amp; DJX SHOW &middot; Views: 56.5K &middot; Uploaded: May 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Zfogjk3rpc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Zfogjk3rpc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sound Systems Direct Collective Movement on Dance Floors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sound Systems Direct Collective Movement on Dance Floors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains rhythm, entrainment, and shared musical responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains rhythm, entrainment, and shared musical responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The underground is massive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11734583-M.jpg" alt="Cover for The underground is massive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The underground is massive">The underground is massive</a>
-        </h4>
-        <p class="fr-book-author">By Michaelangelo Matos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The underground is massive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11734583-M.jpg" alt="Cover for The underground is massive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The underground is massive">The underground is massive</a>
+</h4>
+<p class="fr-book-author">By Michaelangelo Matos</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Techno music, Electronica (Music), History and criticism, Electronic dance music, Underground dance music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Techno music, Electronica (Music), History and criticism, Electronic dance music, Underground dance music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bass+culture+Lloyd+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bass culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/98725-M.jpg" alt="Cover for Bass culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bass+culture+Lloyd+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bass culture">Bass culture</a>
-        </h4>
-        <p class="fr-book-author">By Lloyd Bradley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bass+culture+Lloyd+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bass culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/98725-M.jpg" alt="Cover for Bass culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bass+culture+Lloyd+Bradley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bass culture">Bass culture</a>
+</h4>
+<p class="fr-book-author">By Lloyd Bradley</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Reggae music, History and criticism, Jamaicans, History, Music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bass+culture+Lloyd+Bradley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Reggae music, History and criticism, Jamaicans, History, Music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bass+culture+Lloyd+Bradley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Energy Flash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6324453-M.jpg" alt="Cover for Energy Flash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Energy Flash">Energy Flash</a>
-        </h4>
-        <p class="fr-book-author">By Simon Reynolds</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Energy Flash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6324453-M.jpg" alt="Cover for Energy Flash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Energy Flash">Energy Flash</a>
+</h4>
+<p class="fr-book-author">By Simon Reynolds</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Rave culture, Youth, Great Britain, Drug use, Drugs and popular music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Rave culture, Youth, Great Britain, Drug use, Drugs and popular music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+underground+is+massive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The underground is massive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bass+culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bass culture</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+underground+is+massive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The underground is massive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bass+culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bass culture</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Speaker sound wave Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66dbbddf09ff0e3e77e8.jpg' | relative_url }}" alt="Listing image for Speaker sound wave Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Speaker sound wave Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Speaker sound wave Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66dbbddf09ff0e3e77e8.jpg' | relative_url }}" alt="Listing image for Speaker sound wave Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Speaker sound wave Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Speaker Hi Fi V3 Canvas Wall Art Print Framed Home Decor Picture"><img src="{{ '/assets/images/marketplace-covers/b640a7e27239d78da38f.jpg' | relative_url }}" alt="Listing image for Speaker Hi Fi V3 Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Speaker Hi Fi V3 Canvas Wall Art Print Framed Home Decor Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Speaker Hi Fi V3 Canvas Wall Art Print Framed Home Decor Picture"><img src="{{ '/assets/images/marketplace-covers/b640a7e27239d78da38f.jpg' | relative_url }}" alt="Listing image for Speaker Hi Fi V3 Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Speaker Hi Fi V3 Canvas Wall Art Print Framed Home Decor Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music speakers stack sound home aud Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eeeab8b93e3aa91a3577.jpg' | relative_url }}" alt="Listing image for Music speakers stack sound home aud Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Music speakers stack sound home aud Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music speakers stack sound home aud Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/eeeab8b93e3aa91a3577.jpg' | relative_url }}" alt="Listing image for Music speakers stack sound home aud Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Music speakers stack sound home aud Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Speaker Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/865e9872eb74f42f8037.jpg' | relative_url }}" alt="Listing image for Speaker Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Speaker Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Speaker Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/865e9872eb74f42f8037.jpg' | relative_url }}" alt="Listing image for Speaker Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">Speaker Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for speaker wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: speaker wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=speaker+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="speaker wall art" data-ebay-reference="sound-systems-why-sound-systems-direct-collective-movement-on-dance-floors-music-speaker-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -512,7 +512,7 @@ In sum, the role of sound systems in dance music is both technical and social: c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -532,7 +532,7 @@ In sum, the role of sound systems in dance music is both technical and social: c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -564,7 +564,7 @@ In sum, the role of sound systems in dance music is both technical and social: c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -616,7 +616,7 @@ In sum, the role of sound systems in dance music is both technical and social: c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -661,7 +661,7 @@ In sum, the role of sound systems in dance music is both technical and social: c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,119 +702,119 @@ In sum, the role of sound systems in dance music is both technical and social: c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sound reinforcement system  
-   Link: <a href="https://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_reinforcement_system</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_reinforcement_system</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0960982222015354" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0960982222015354</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Undetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0960982222015354" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0960982222015354</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Undetectable very-low frequency sound increases dancing at a live concert - ScienceDirectNovember 7, 2022...</p></details>
    Published: November 7, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: backoffice.biblio.ugent.be  
    Title: The Impact of the Bass Drum on Human Dance Movement  
-   Link: <a href="https://backoffice.biblio.ugent.be/download/3192372/6990908" target="_blank" rel="noopener noreferrer nofollow">https://backoffice.biblio.ugent.be/download/3192372/6990908</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2013 — THE PRESENT STUDY AIMS TO GAIN BETTER INSIGHT into the connection between music and dance by exam- ining the dynamic...</p></details>
+   Link:<a href="https://backoffice.biblio.ugent.be/download/3192372/6990908" target="_blank" rel="noopener noreferrer nofollow">https://backoffice.biblio.ugent.be/download/3192372/6990908</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2013 — THE PRESENT STUDY AIMS TO GAIN BETTER INSIGHT into the connection between music and dance by exam- ining the dynamic...</p></details>
    Published: February 21, 2013  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
    Published: October 20, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/mts/article/44/1/1/6458117" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mts/article/44/1/1/6458117</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2021...</p></details>
+   Link:<a href="https://academic.oup.com/mts/article/44/1/1/6458117" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mts/article/44/1/1/6458117</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2021...</p></details>
    Published: December 9, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/mts/article/44/1/1/6458117?rss=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mts/article/44/1/1/6458117?rss=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Flux: Sound and Timing in Electronic Dance Music | Music Theory Spectrum | Oxford AcademicDecember 9, 2021 — Journal Article A GRID IN...</p></details>
+   Link:<a href="https://academic.oup.com/mts/article/44/1/1/6458117?rss=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mts/article/44/1/1/6458117?rss=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Flux: Sound and Timing in Electronic Dance Music | Music Theory Spectrum | Oxford AcademicDecember 9, 2021 — Journal Article A GRID IN...</p></details>
    Published: December 9, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our study highlights the importance of types of waves...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167945723001161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our study highlights the importance of types of waves...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/book/56186/chapter/443056466" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/56186/chapter/443056466</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Embodied Perspective on Rhythm in Music–Dance Genres21 Mar 2024 — The experience of musical rhythm involves the interaction between sonic...</p></details>
+   Link:<a href="https://academic.oup.com/book/56186/chapter/443056466" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/56186/chapter/443056466</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Embodied Perspective on Rhythm in Music–Dance Genres21 Mar 2024 — The experience of musical rhythm involves the interaction between sonic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: baronentertainment.co.uk  
    Title: Baron Entertainment Sound Systems & Acoustics: How Clubs Create the Ultimate  
-   Link: <a href="https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baron EntertainmentSound Systems &amp; Acoustics: How Clubs Create the Ultimate...February 17, 2025 — A well-designed sound system, paired w...</p></details>
+   Link:<a href="https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.baronentertainment.co.uk/blog/sound-systems-acoustics-how-clubs-create-the-ultimate-audio-experience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baron EntertainmentSound Systems &amp; Acoustics: How Clubs Create the Ultimate...February 17, 2025 — A well-designed sound system, paired w...</p></details>
    Published: February 17, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lakota.co.uk  
-   Link: <a href="https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/" target="_blank" rel="noopener noreferrer nofollow">https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</p></details>
+   Link:<a href="https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/" target="_blank" rel="noopener noreferrer nofollow">https://lakota.co.uk/the-rise-of-sound-system-culture-in-the-uk-why-it-matters-and-how-it-shapes-the-rave-experience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rise of sound system culture in the UK - LakotaSeptember 13, 2024 — 13 Sept 2024 — A sound system is more than just a collectio...</p></details>
    Published: September 13, 2024  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bassline.org.uk  
-   Link: <a href="https://www.bassline.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bassline.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British Association of Sound SystemsWelcome to the homepage of the British Association of Sound Systems. BASS The impact of &#x27; Sound Syste...</p></details>
+   Link:<a href="https://www.bassline.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.bassline.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Association of Sound SystemsWelcome to the homepage of the British Association of Sound Systems. BASS The impact of &#x27; Sound Syste...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e CoreFebruary 24, 2022 — COLLECTIVELY PLAYABLE WEARABLE MUSIC: PRACTICE-SITUATED APPROACHES TO PARTICIPATORY RELATIONAL INQUIRY Part of...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/wearable-technologies/article/collectively-playable-wearable-music-practicesituated-approaches-to-participatory-relational-inquiry/AD3CBC8A235C263A31545E0E7BA35AA1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e CoreFebruary 24, 2022 — COLLECTIVELY PLAYABLE WEARABLE MUSIC: PRACTICE-SITUATED APPROACHES TO PARTICIPATORY RELATIONAL INQUIRY Part of...</p></details>
    Published: February 24, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2023 — METHODS We conducted in-depth semi-structured interviews (Kvale and Brinkmann Reference Kvale and Brinkmann2009) with ex...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/shaping-rhythm-timing-and-sound-in-five-groovebased-genres/BBC410F9849DB982AEBFACEA14D38F32</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2023 — METHODS We conducted in-depth semi-structured interviews (Kvale and Brinkmann Reference Kvale and Brinkmann2009) with ex...</p></details>
    Published: March 13, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2023 — SHAPING RHYTHM: TIMING AND SOUND IN FIVE GROOVE-BASED GENRES Published online by Cambridge University Press: 13 March 20...</p></details>
+   Link:<a href="https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/BBC410F9849DB982AEBFACEA14D38F32/core-reader</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2023 — SHAPING RHYTHM: TIMING AND SOUND IN FIVE GROOVE-BASED GENRES Published online by Cambridge University Press: 13 March 20...</p></details>
    Published: March 13, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What low frequency bass does to the dance floorA recent study found that people danced 12% more when very low frequency bass is played. T...</p></details>
+   Link:<a href="https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/consciousness.studies/posts/2698164603649423/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What low frequency bass does to the dance floorA recent study found that people danced 12% more when very low frequency bass is played. T...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.birmingham.ac.uk  
-   Link: <a href="https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the vibe: sound, vibration, and affective attunement in electronic dance music scenes - University of BirminghamJanuary 2, 2020 — FEELING...</p></details>
+   Link:<a href="https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/feeling-the-vibe-sound-vibration-and-affective-attunement-in-elec/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the vibe: sound, vibration, and affective attunement in electronic dance music scenes - University of BirminghamJanuary 2, 2020 — FEELING...</p></details>
    Published: January 2, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cir.nii.ac.jp  
-   Link: <a href="https://cir.nii.ac.jp/crid/1360021394479998208?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360021394479998208?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rhythm: timing and sound in five groove-based genres | CiNii ResearchSHAPING RHYTHM: TIMING AND SOUND IN FIVE GROOVE-BASED GENRES DOI Web...</p></details>
+   Link:<a href="https://cir.nii.ac.jp/crid/1360021394479998208?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360021394479998208?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rhythm: timing and sound in five groove-based genres | CiNii ResearchSHAPING RHYTHM: TIMING AND SOUND IN FIVE GROOVE-BASED GENRES DOI Web...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mtosmt.org  
-   Link: <a href="https://www.mtosmt.org/ojs/index.php/mto/article/view/622" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/ojs/index.php/mto/article/view/622</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 21, 2020 — DYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSIC ARTICLE SIDEBAR View...</p></details>
+   Link:<a href="https://www.mtosmt.org/ojs/index.php/mto/article/view/622" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/ojs/index.php/mto/article/view/622</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 21, 2020 — DYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSIC ARTICLE SIDEBAR View...</p></details>
    Published: October 21, 2020  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mtosmt.org  
    Title: SANDVIK, AND JON MARIUS AARESKJOLD-DRECKER KEYWORDS: groove, rhythm,  
-   Link: <a href="https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 26.2: Brøvig-Hanssen, Dynamic Range ProcessingDYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSI...</p></details>
+   Link:<a href="https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 26.2: Brøvig-Hanssen, Dynamic Range ProcessingDYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSI...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchcatalogue.net  
-   Link: <a href="https://www.researchcatalogue.net/view/544625/728945" target="_blank" rel="noopener noreferrer nofollow">https://www.researchcatalogue.net/view/544625/728945</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and dance have been connected world-wide in rituals of all sorts and social dancing.Read more...</p></details>
+   Link:<a href="https://www.researchcatalogue.net/view/544625/728945" target="_blank" rel="noopener noreferrer nofollow">https://www.researchcatalogue.net/view/544625/728945</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music and dance have been connected world-wide in rituals of all sorts and social dancing.Read more...</p></details>

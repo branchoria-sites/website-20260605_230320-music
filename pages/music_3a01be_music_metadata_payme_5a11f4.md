@@ -501,7 +501,7 @@ image: /assets/images/music_3a01be_music_metadata_payme_5a11f4-overview-social.j
 
 ## Introduction
 
-Bad music metadata costs creators money because royalties are paid by matching usage data to the right song, recording, writer, performer, publisher and owner. If those links are missing or wrong, the money may be delayed, placed on hold, matched to the wrong party, or pushed into unclaimed and unallocated pools. The problem is not just a streaming-era annoyance. It affects public performance, live gigs, DJ sets, broadcast reporting, [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}), neighbouring rights and [catalogue]({{ 'catalogue/' | relative_url }}) administration. The UK Government’s music streaming metadata agreement states the core issue plainly: incomplete or inaccurate metadata can cause significant delays in creators being paid, and in some cases can mean they are not paid at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+Bad music metadata costs creators money because royalties are paid by matching usage data to the right song, recording, writer, performer, publisher and owner. If those links are missing or wrong, the money may be delayed, placed on hold, matched to the wrong party, or pushed into unclaimed and unallocated pools. The problem is not just a streaming-era annoyance. It affects public performance, live gigs, DJ sets, broadcast reporting, [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}), neighbouring rights and [catalogue]({{ 'catalogue/' | relative_url }}) administration. The UK Government’s music streaming metadata agreement states the core issue plainly: incomplete or inaccurate metadata can cause significant delays in creators being paid, and in some cases can mean they are not paid at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-overview.webp" | relative_url }}" alt="Overview image for Metadata" loading="eager" decoding="sync" fetchpriority="high">
 Metadata sounds like paperwork, but in music it is closer to the payment address for a creative work. A listener sees a track title and artist name. The royalty system needs much more: the [recording]({{ 'recording/' | relative_url }}) identifier, the musical work identifier, writer and publisher shares, performer details, [ownership]({{ 'ownership/' | relative_url }}) claims, setlists, usage reports and the identifiers that distinguish one person or company from another. When that information is clean, money can move. When it is fragmented, the system has to guess, hold, research or redistribute.
@@ -512,7 +512,7 @@ Modern music [royalties]({{ 'royalties/' | relative_url }}) are created when mus
 
 This is why metadata failures can be so costly. A streaming service may know that a sound recording was played, but the [publishing]({{ 'publishing/' | relative_url }}) royalty still needs a link from that recording to the underlying musical work. A venue may have paid for a live music licence, but the performing [rights]({{ 'rights/' | relative_url }}) organisation still needs to know which songs were performed. A performer may have played on a recording, but a neighbouring rights organisation still needs the performer credit and role data required to allocate the performer share.
 
-The UK music streaming metadata agreement was created because the industry recognised that metadata for songwriters and compositions is often less complete and timely than recording and artist data. Its commitments include improving the quality and timeliness of work and songwriter metadata associated with new recordings, creating a core data set, and supporting education and technical working groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">united kingdom industry agreement on music streaming metadata</span><span class="citation-popover-snippet">United Kingdom Industry Agreement on Music Streaming...2 Nov 2023 — This document sets out a roadmap for how industry and Government wil...</span></span></span>
+The UK music streaming metadata agreement was created because the industry recognised that metadata for songwriters and compositions is often less complete and timely than recording and artist data. Its commitments include improving the quality and timeliness of work and songwriter metadata associated with new recordings, creating a core data set, and supporting education and technical working groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">united kingdom industry agreement on music streaming metadata</span><span class="citation-popover-snippet">United Kingdom Industry Agreement on Music Streaming...2 Nov 2023 — This document sets out a roadmap for how industry and Government wil...</span></span></span>
 
 That matters because music has several overlapping rights. The recording and the composition are separate assets. The visible artist credit on a streaming service may help listeners find a track, but it is not enough to pay everyone. A songwriter, producer, session musician, featured artist, publisher, label, administrator or estate may all depend on different fields in different databases.
 
@@ -520,11 +520,11 @@ That matters because music has several overlapping rights. The recording and the
 
 The most important music metadata is not decorative. It tells the industry what the asset is, who made it, who owns it, and how income should be divided.
 
-An **ISRC**, or International Standard Recording Code, identifies a specific sound recording or music video. IFPI, the international ISRC authority, says ISRC identifies recordings and music videos, not compositions, performers or products. Its handbook describes ISRC as a unique identifier in which one code is allocated to each version of a recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-title">isrc Isrc@ifpi</span><span class="citation-popover-snippet">isrc Isrc@ifpi</span></span></span>
+An **ISRC**, or International Standard Recording Code, identifies a specific sound recording or music video. IFPI, the international ISRC authority, says ISRC identifies recordings and music videos, not compositions, performers or products. Its handbook describes ISRC as a unique identifier in which one code is allocated to each version of a recording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://isrc.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isrc.ifpi.org">[ifpi-isrc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isrc.ifpi.org</span><span class="citation-popover-title">isrc Isrc@ifpi</span><span class="citation-popover-snippet">isrc Isrc@ifpi</span></span></span>
 
-An **ISWC**, or International Standard Musical Work Code, identifies the underlying musical work: the song or composition rather than a particular recording of it. The official ISWC site describes it as a unique, permanent and internationally recognised reference number for musical works. CISAC, the global confederation of authors’ societies, has described the ISWC as a code that helps remunerate creators and publishers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+An **ISWC**, or International Standard Musical Work Code, identifies the underlying musical work: the song or composition rather than a particular recording of it. The official ISWC site describes it as a unique, permanent and internationally recognised reference number for musical works. CISAC, the global confederation of authors’ societies, has described the ISWC as a code that helps remunerate creators and publishers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iswc.org">[ISWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iswc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-An **IPI** number identifies interested parties such as songwriters, composers, lyricists and music publishers. ASCAP describes an IPI as a unique international identification number, while BMI says the IPI/CAE number is used to identify participants on a work. The MLC explains that it uses IPIs as part of its effort to distribute royalties to the correct rightsholder. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+An **IPI** number identifies interested parties such as songwriters, composers, lyricists and music publishers. ASCAP describes an IPI as a unique international identification number, while BMI says the IPI/CAE number is used to identify participants on a work. The MLC explains that it uses IPIs as part of its effort to distribute royalties to the correct rightsholder. ASCAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These identifiers do different jobs. The royalty chain becomes fragile when they are missing, duplicated, misspelled or not linked together:
 
@@ -545,11 +545,11 @@ The key risk is that each system may only see part of the picture. A distributor
 
 Ownership splits decide who receives what percentage of a royalty. For songwriters, this means the agreed shares between co-writers and publishers. For recordings, it can include label ownership, performer entitlements, neighbouring rights and contractual royalty shares.
 
-The Mechanical Licensing Collective in the United States gives a concrete example of the problem. Its Distributor Unmatched Recordings Portal gives distributors visibility into recordings that The MLC has been unable to fully match to musical works registered with it. The data comes from usage reports delivered by digital service providers, containing metadata supplied by distributors. The purpose is to help pay associated unclaimed royalties to the correct rightsholders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Mechanical Licensing Collective in the United States gives a concrete example of the problem. Its Distributor Unmatched Recordings Portal gives distributors visibility into recordings that The MLC has been unable to fully match to musical works registered with it. The data comes from usage reports delivered by digital service providers, containing metadata supplied by distributors. The purpose is to help pay associated unclaimed royalties to the correct rightsholders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is not a theoretical database tidying exercise. The MLC’s public materials explain that unmatched or unclaimed royalties from usage after 1 January 2021 are held for at least three years while efforts continue to find and pay the rightful owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In 2021, the US Copyright Office’s unclaimed royalties report discussed the need to help rightsholders organise works data so they could register and claim royalties properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">U.S. Copyright Office</span></span></span>
+This is not a theoretical database tidying exercise. The MLC’s public materials explain that unmatched or unclaimed royalties from usage after 1 January 2021 are held for at least three years while efforts continue to find and pay the rightful owner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In 2021, the US Copyright Office’s unclaimed royalties report discussed the need to help rightsholders organise works data so they could register and claim royalties properly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">U.S. Copyright Office</span></span></span>
 
-The scale is large enough to show how serious [metadata gaps]({{ 'metadata-gaps/' | relative_url }}) can become. In a July 2025 letter to the US Copyright Office, The MLC said it had matched nearly $314 million of $397.20 million in historical unmatched royalties transferred to it in February 2021, and had distributed approximately $223.42 million of that historical pool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">U.S. Copyright Office</span></span></span> A later 2025 meeting summary gave similar figures, saying The MLC had matched nearly $317 million of $397 million and distributed about $228.36 million. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">U.S. Copyright Office</span></span></span>
+The scale is large enough to show how serious [metadata gaps]({{ 'metadata-gaps/' | relative_url }}) can become. In a July 2025 letter to the US Copyright Office, The MLC said it had matched nearly $314 million of $397.20 million in historical unmatched royalties transferred to it in February 2021, and had distributed approximately $223.42 million of that historical pool.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">U.S. Copyright Office</span></span></span> A later 2025 meeting summary gave similar figures, saying The MLC had matched nearly $317 million of $397 million and distributed about $228.36 million.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">U.S. Copyright Office</span></span></span>
 
 Those numbers are important because they show both sides of the metadata story. Better matching can unlock large sums. But the fact that such sums had to be matched after the event shows how easily royalties can become separated from the people who earned them.
 
@@ -557,9 +557,9 @@ Those numbers are important because they show both sides of the metadata story. 
 
 Live music creates performance royalties for songs, but those royalties depend on knowing what was played. A venue or promoter licence may collect money from a concert, pub gig, theatre show or festival, but setlists and performance reports are what connect that money to the actual songwriters.
 
-PRS for Music’s live performance guidance explains that it collects, matches and pays out for live performances, with different calculation methods depending on the type of performance. For small licensed venues under its Gigs and Clubs scheme, it pays a set royalty for each reported event, shared between PRS writers whose works were performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for Music Reporting live performances</span></span></span> ASCAP’s OnStage programme similarly allows writer members who perform their own songs live to submit eligible performance claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/registering-your-music/ipi-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Open source on ascap.com.</span></span></span>
+PRS for Music’s live performance guidance explains that it collects, matches and pays out for live performances, with different calculation methods depending on the type of performance. For small licensed venues under its Gigs and Clubs scheme, it pays a set royalty for each reported event, shared between PRS writers whose works were performed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for Music Reporting live performances</span></span></span> ASCAP’s OnStage programme similarly allows writer members who perform their own songs live to submit eligible performance claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/registering-your-music/ipi-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Open source on ascap.com.</span></span></span>
 
-The Musicians’ Union guidance on reporting live performances to PRS shows how metadata enters the process at a practical level. Before reporting performances, writers must register songs with details of co-writers, publishers and percentage splits; when reporting a show, they add the setlist using song title, tune code or ISWC, and should include cover songs too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">how to report live performances to prs for music</span><span class="citation-popover-snippet">how to report live performances to prs for music</span></span></span>
+The Musicians’ Union guidance on reporting live performances to PRS shows how metadata enters the process at a practical level. Before reporting performances, writers must register songs with details of co-writers, publishers and percentage splits; when reporting a show, they add the setlist using song title, tune code or ISWC, and should include cover songs too.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">how to report live performances to prs for music</span><span class="citation-popover-snippet">how to report live performances to prs for music</span></span></span>
 
 The risk is obvious: if the setlist is not submitted, or if songs are not registered properly, the royalty society may not know which works to pay. For a grassroots songwriter, the live royalty may be modest per gig, but repeated missed reports across tours, support slots and festivals can turn into meaningful lost income. For cover versions, the effect can be even less visible: the performing artist may not be the songwriter, so the person owed the money may never know that the song was played.
 
@@ -568,11 +568,11 @@ The risk is obvious: if the setlist is not submitted, or if songs are not regist
 
 DJ performances expose the metadata problem especially sharply. A band set might contain ten or fifteen songs. A DJ set may contain dozens of tracks, blends, edits, remixes and partial uses, often by other producers. The rightsholder who should be paid is frequently not the person on stage.
 
-PRS for Music says it can pay royalties for music played by DJs at licensed venues and festivals when it receives accurate setlists from licensees or DJs. Where it has not received a setlist, it gathers usage information through researchers and combines that with similar broadcast data or other play-count methods. Since 2018 it has used Music Recognition Technology at some licensed venues and festivals to improve distribution accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for Music Reporting live performances</span></span></span>
+PRS for Music says it can pay royalties for music played by DJs at licensed venues and festivals when it receives accurate setlists from licensees or DJs. Where it has not received a setlist, it gathers usage information through researchers and combines that with similar broadcast data or other play-count methods. Since 2018 it has used Music Recognition Technology at some licensed venues and festivals to improve distribution accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for Music Reporting live performances</span></span></span>
 
-Recent reporting on UK electronic music illustrates the stakes. The Guardian reported in November 2025 on research by Fair Play suggesting that electronic music artists, producers and songwriters in the UK lose out on more than £5.7 million annually because royalties are wrongly allocated. The same report said only 28% of fees paid by UK nightclubs were being correctly distributed to the creators of the music played, while payment accuracy could rise sharply when music recognition technology or accurate DJ tracklists were used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Fair Play found that when music recognition technology is used, payment accuracy improves to 90%, but fewer than 7% of UK clubs have adop...</span></span></span>
+Recent reporting on UK electronic music illustrates the stakes. The Guardian reported in November 2025 on research by Fair Play suggesting that electronic music artists, producers and songwriters in the UK lose out on more than £5.7 million annually because royalties are wrongly allocated. The same report said only 28% of fees paid by UK nightclubs were being correctly distributed to the creators of the music played, while payment accuracy could rise sharply when music recognition technology or accurate DJ tracklists were used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Fair Play found that when music recognition technology is used, payment accuracy improves to 90%, but fewer than 7% of UK clubs have adop...</span></span></span>
 
-MusicRadar’s coverage of the same research reported that only 36% of UK electronic music performances resulted in the correct creator receiving payment, with approximately £11.25 million generated annually from UK nightclub royalties and about £5.7 million misallocated after costs. It also reported that music recognition technology was estimated at 90% accuracy where used, while voluntary DJ tracklist submission was estimated at 95% accuracy but used regularly by only a small minority of DJs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">The main issues stem from the lack of standardized music reporting in clubs, relying largely on unreliable methods like analogous distrib...</span></span></span>
+MusicRadar’s coverage of the same research reported that only 36% of UK electronic music performances resulted in the correct creator receiving payment, with approximately £11.25 million generated annually from UK nightclub royalties and about £5.7 million misallocated after costs. It also reported that music recognition technology was estimated at 90% accuracy where used, while voluntary DJ tracklist submission was estimated at 95% accuracy but used regularly by only a small minority of DJs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">The main issues stem from the lack of standardized music reporting in clubs, relying largely on unreliable methods like analogous distrib...</span></span></span>
 
 The lesson is not that live royalty societies are doing nothing. It is that data collection methods built around bands, venues and conventional setlists can struggle with the reality of modern electronic music. When the system lacks direct track data, it may fall back on proxies. Those proxies can favour more visible or mainstream tracks rather than the underground records actually being played.
 
@@ -580,20 +580,20 @@ The lesson is not that live royalty societies are doing nothing. It is that data
 
 Not every metadata error leads to permanent loss. Often the first effect is delay. A royalty may be placed on hold while a society investigates conflicting claims, missing identifiers, incomplete shares or disputed ownership.
 
-The MLC’s public resources state that it places royalties on hold when a substantiated ownership dispute has been raised, and that the parties must resolve questions of ownership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a sensible safeguard: paying the wrong party too quickly can create its own injustice. But for creators relying on royalty cash flow, a hold can feel very similar to non-payment.
+The MLC’s public resources state that it places royalties on hold when a substantiated ownership dispute has been raised, and that the parties must resolve questions of ownership.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is a sensible safeguard: paying the wrong party too quickly can create its own injustice. But for creators relying on royalty cash flow, a hold can feel very similar to non-payment.
 
-The UK Intellectual Property Office’s metadata work also highlights delay as a central problem. A WIPO-hosted UK IPO update described songwriters being paid slowly, sometimes over periods from six months to two years, and sometimes not being paid at all because of poor or missing metadata. It also noted that creators are often not fully credited on streaming platforms and that some registries for musical works and creators are not readily accessible to all relevant stakeholders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The UK Intellectual Property Office’s metadata work also highlights delay as a central problem. A WIPO-hosted UK IPO update described songwriters being paid slowly, sometimes over periods from six months to two years, and sometimes not being paid at all because of poor or missing metadata. It also noted that creators are often not fully credited on streaming platforms and that some registries for musical works and creators are not readily accessible to all relevant stakeholders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The delay problem tends to be worse for creators with less administrative support. A major publisher may have staff dedicated to cleaning registrations, chasing unmatched income and resolving conflicts. A self-releasing artist, bedroom producer or songwriter without a publisher may not even know which database contains the missing field.
 
 <img src="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-dark.svg" | relative_url }}" alt="Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_metadata_payme_5a11f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Standards help, but they do not fix human workflow
 
-The music industry has not ignored metadata. It has standards, identifiers and data exchange systems. DDEX, the Digital Data Exchange standards body, provides formats for sharing music metadata between companies. Its recording data and rights standard enables the exchange of metadata about recordings, contributors and rights claims between record companies, performer representatives and licensing companies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ddex.net/standards/recording-data-and-rights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddex.net">[DDEX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddex.net</span><span class="citation-popover-title">Recording Data and Rights</span><span class="citation-popover-snippet">Recording Data and Rights</span></span></span> DDEX also says studio metadata is important for attribution and for ensuring royalties, where due, are allocated to the correct people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ddex.net/standards-2023/collection-of-studio-metadata/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddex.net">[DDEX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddex.net</span><span class="citation-popover-title">Collection of Studio Metadata</span><span class="citation-popover-snippet">Collection of Studio Metadata</span></span></span>
+The music industry has not ignored metadata. It has standards, identifiers and data exchange systems. DDEX, the Digital Data Exchange standards body, provides formats for sharing music metadata between companies. Its recording data and rights standard enables the exchange of metadata about recordings, contributors and rights claims between record companies, performer representatives and licensing companies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ddex.net/standards/recording-data-and-rights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddex.net">[DDEX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddex.net</span><span class="citation-popover-title">Recording Data and Rights</span><span class="citation-popover-snippet">Recording Data and Rights</span></span></span> DDEX also says studio metadata is important for attribution and for ensuring royalties, where due, are allocated to the correct people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ddex.net/standards-2023/collection-of-studio-metadata/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddex.net">[DDEX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddex.net</span><span class="citation-popover-title">Collection of Studio Metadata</span><span class="citation-popover-snippet">Collection of Studio Metadata</span></span></span>
 
 The problem is that standards only help if the data exists, is correct, is supplied at the right time, and survives the journey through the supply chain. A songwriter split written in a notes app, a producer credit agreed verbally, a missing IPI number, or a remix uploaded with the wrong ISRC can all break the chain before any standardised exchange begins.
 
-The UK industry agreement on streaming metadata therefore focuses not only on technical fixes, but on education, best practice, shared core data and working groups. It also led to the Get Paid Guide, backed by PRS for Music, The Ivors Academy, the Music Publishers Association and the Intellectual Property Office, to help creators understand what data they need and why. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+The UK industry agreement on streaming metadata therefore focuses not only on technical fixes, but on education, best practice, shared core data and working groups. It also led to the Get Paid Guide, backed by PRS for Music, The Ivors Academy, the Music Publishers Association and the Intellectual Property Office, to help creators understand what data they need and why.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">U K industry agreement on music streaming metadata</span><span class="citation-popover-snippet">UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
 That combination is important. Metadata reform is not just a software problem. It is a behaviour problem across writing rooms, studios, distributors, labels, publishers, collecting societies, platforms, venues and creators themselves.
 
@@ -622,201 +622,201 @@ The practical consequence is that the music may still be heard, streamed, played
 
 Bad metadata does not affect everyone equally. Large catalogues, major publishers and established labels usually have better administrative resources, richer historical data and more leverage to resolve conflicts. Smaller creators may have to discover errors themselves, learn several systems and correct data after money has already gone unmatched.
 
-This is why metadata debates often become fairness debates. If unclaimed or unidentified royalties are eventually redistributed by market share, sample data or proxy usage, the money may flow towards already visible catalogues rather than the exact creators whose music generated the use. In live and DJ contexts, poor track reporting can mean underground or local scenes subsidise better-documented mainstream repertoire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Fair Play found that when music recognition technology is used, payment accuracy improves to 90%, but fewer than 7% of UK clubs have adop...</span></span></span>
+This is why metadata debates often become fairness debates. If unclaimed or unidentified royalties are eventually redistributed by market share, sample data or proxy usage, the money may flow towards already visible catalogues rather than the exact creators whose music generated the use. In live and DJ contexts, poor track reporting can mean underground or local scenes subsidise better-documented mainstream repertoire.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Fair Play found that when music recognition technology is used, payment accuracy improves to 90%, but fewer than 7% of UK clubs have adop...</span></span></span>
 
 The fair answer is not simply to blame one party. Platforms need usable data. Distributors need to pass it cleanly. Publishers and societies need accurate work registrations. Venues and promoters need to report performances. DJs and artists need workable tracklist tools. Creators need to capture splits and identifiers before release, not years later.
 
 Metadata decides who gets paid because it is the evidence layer between music use and money. In a small scene, that evidence might be a handwritten setlist. In global streaming, it might be an ISRC, an ISWC, several IPI numbers and a chain of DDEX messages. The principle is the same: royalties can only travel to the right people when the data tells the system where to send them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Bad Music Data Costs Creators Money. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Bad Music Data Costs Creators Money. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains royalty flows, rights ownership and payment systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains royalty flows, rights ownership and payment systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Musician%27s+Handbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Musician&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2656063-M.jpg" alt="Cover for The Musician&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Musician%27s+Handbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Musician&#x27;s Handbook">The Musician&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Musician%27s+Handbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Musician&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2656063-M.jpg" alt="Cover for The Musician&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Musician%27s+Handbook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Musician&#x27;s Handbook">The Musician&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains business systems that depend on accurate data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Musician%27s+Handbook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains business systems that depend on accurate data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Musician%27s+Handbook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Publishing -- the Complete Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Publishing -- the Complete Guide">Music Publishing -- the Complete Guide</a>
-        </h4>
-        <p class="fr-book-author">By Steve Winogradsky, David Lowery</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Publishing -- the Complete Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Publishing -- the Complete Guide">Music Publishing -- the Complete Guide</a>
+</h4>
+<p class="fr-book-author">By Steve Winogradsky, David Lowery</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Musician%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Musician&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Musician%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Musician&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming"><img src="{{ '/assets/images/marketplace-covers/51545fd00fe1c0d7b200.jpg' | relative_url }}" alt="Listing image for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming"><img src="{{ '/assets/images/marketplace-covers/51545fd00fe1c0d7b200.jpg' | relative_url }}" alt="Listing image for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="metadata-why-bad-music-data-costs-creators-money-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -832,7 +832,7 @@ Metadata decides who gets paid because it is the evidence layer between music us
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -852,7 +852,7 @@ Metadata decides who gets paid because it is the evidence layer between music us
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -884,7 +884,7 @@ Metadata decides who gets paid because it is the evidence layer between music us
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -936,7 +936,7 @@ Metadata decides who gets paid because it is the evidence layer between music us
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -981,7 +981,7 @@ Metadata decides who gets paid because it is the evidence layer between music us
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1022,269 +1022,269 @@ Metadata decides who gets paid because it is the evidence layer between music us
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: U K industry agreement on music streaming metadata  
-   Link: <a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK industry agreement on music streaming metadataMay 31, 2023 — 31 May 2023 — The UK industry agreement on music streaming metadata sets...</p></details>
    Published: May 31, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: united kingdom industry agreement on music streaming metadata  
-   Link: <a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom Industry Agreement on Music Streaming...2 Nov 2023 — This document sets out a roadmap for how industry and Government wil...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/uk-industry-agreement-on-music-streaming-metadata/united-kingdom-industry-agreement-on-music-streaming-metadata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom Industry Agreement on Music Streaming...2 Nov 2023 — This document sets out a roadmap for how industry and Government wil...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: isrc.ifpi.org  
    Title: isrc Isrc@ifpi  
-   Link: <a href="https://isrc.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/</a>  
+   Link:<a href="https://isrc.ifpi.org/" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iswc.org  
-   Link: <a href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow">https://www.iswc.org/iswc</a>  
+   Link:<a href="https://www.iswc.org/iswc" target="_blank" rel="noopener noreferrer nofollow">https://www.iswc.org/iswc</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cisac.org  
    Title: new improved music identifier will help creators all important digital  
-   Link: <a href="https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital</a>  
+   Link:<a href="https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/new-improved-music-identifier-will-help-creators-all-important-digital</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/registering-your-music/ipi-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/ipi-faqs</a>  
+   Link:<a href="https://www.ascap.com/help/registering-your-music/ipi-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/ipi-faqs</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number</a>  
+   Link:<a href="https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/faq/entry/what_is_an_ipi_cae_number</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pages.themlc.com  
-   Link: <a href="https://pages.themlc.com/ipi-numbers" target="_blank" rel="noopener noreferrer nofollow">https://pages.themlc.com/ipi-numbers</a>  
+   Link:<a href="https://pages.themlc.com/ipi-numbers" target="_blank" rel="noopener noreferrer nofollow">https://pages.themlc.com/ipi-numbers</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf</a>  
+   Link:<a href="https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/unclaimed-royalties-final-report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: copyright.gov  
    Title: U.S. Copyright Office  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/MLC-to-USCO-July-21-2025.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: copyright.gov  
    Title: U.S. Copyright Office MLC-Ex-Parte-Meeting  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/2024/MLC-Ex-Parte-Meeting-Summary-2025-11-20.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
+   Link:<a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musicradar.com  
-   Link: <a href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The main issues stem from the lack of standardized music reporting in clubs, relying largely on unreliable methods like analogous distrib...</p></details>
+   Link:<a href="https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/uk-electronic-musicians-arent-getting-the-royalties-they-deserve-and-underground-scenes-are-subsidising-mainstream-producers-according-to-a-new-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The main issues stem from the lack of standardized music reporting in clubs, relying largely on unreliable methods like analogous distrib...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wipo.int  
-   Link: <a href="https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf</a>  
+   Link:<a href="https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/edocs/mdocs/copyright/en/wipo_webinar_cr_2022_18/wipo_webinar_cr_2022_18_www_591431.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ddex.net  
    Title: Recording Data and Rights  
-   Link: <a href="https://ddex.net/standards/recording-data-and-rights/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/standards/recording-data-and-rights/</a>  
+   Link:<a href="https://ddex.net/standards/recording-data-and-rights/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/standards/recording-data-and-rights/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ddex.net  
    Title: Collection of Studio Metadata  
-   Link: <a href="https://ddex.net/standards-2023/collection-of-studio-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/standards-2023/collection-of-studio-metadata/</a>  
+   Link:<a href="https://ddex.net/standards-2023/collection-of-studio-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/standards-2023/collection-of-studio-metadata/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ddex.net  
-   Link: <a href="https://ddex.net/tools-for-capturing-creator-credits/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/tools-for-capturing-creator-credits/</a>  
+   Link:<a href="https://ddex.net/tools-for-capturing-creator-credits/" target="_blank" rel="noopener noreferrer nofollow">https://ddex.net/tools-for-capturing-creator-credits/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cisac.org  
    Title: launches major project upgrade international musical work identifier  
-   Link: <a href="https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier</a>  
+   Link:<a href="https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/news-releases/cisac-launches-major-project-upgrade-international-musical-work-identifier</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: copyright.gov  
    Title: mlc and dlc  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/ex-parte/mlc-and-dlc.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-transition-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-transition-reporting/</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-transition-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-transition-reporting/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: copyright.gov  
    Title: The MLC Reply Submission 07 29 24  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/The-MLC-Reply-Submission-07-29-24.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/2020-5-june-30-2020.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf</a>  
+   Link:<a href="https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/policy/unclaimed-royalties/glossary.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-implementation/copyright-office-letters/responses/mlc-3.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: copyright.gov  
    Title: mlc initial submission 2024  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf</a>  
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/2024/initial-submissions/mlc-initial-submission-2024.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ascap.com  
    Title: iswc number work codes faq  
-   Link: <a href="https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq</a>  
+   Link:<a href="https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/registering-your-music/iswc-number-work-codes-faq</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards</a>  
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/monetaryawards</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
+   Link:<a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
+   Link:<a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ipo.blog.gov.uk  
    Title: music metadata matters how to get paid and credited  
-   Link: <a href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/</a>  
+   Link:<a href="https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/" target="_blank" rel="noopener noreferrer nofollow">https://ipo.blog.gov.uk/2025/04/26/music-metadata-matters-how-to-get-paid-and-credited/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: isrc.ifpi.org  
    Title: music videos  
-   Link: <a href="https://isrc.ifpi.org/why-use-isrc/music-videos" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/why-use-isrc/music-videos</a>  
+   Link:<a href="https://isrc.ifpi.org/why-use-isrc/music-videos" target="_blank" rel="noopener noreferrer nofollow">https://isrc.ifpi.org/why-use-isrc/music-videos</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: artist.tools  
    Title: what is music metadata essential guide for artists labels  
-   Link: <a href="https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels</a>  
+   Link:<a href="https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/what-is-music-metadata-essential-guide-for-artists-labels</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/durp-initiative</a>  
+   Link:<a href="https://www.themlc.com/durp-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/durp-initiative</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/dataprograms" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/dataprograms</a>  
+   Link:<a href="https://www.themlc.com/dataprograms" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/dataprograms</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: themlc.com  
    Title: Mechanical Licensing Collective Resources  
-   Link: <a href="https://www.themlc.com/resources-publishers" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/resources-publishers</a>  
+   Link:<a href="https://www.themlc.com/resources-publishers" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/resources-publishers</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: prsformusic.com  
    Title: PRS for Music Reporting live performances  
-   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
+   Link:<a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: musiciansunion.org.uk  
    Title: how to report live performances to prs for music  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
+   Link:<a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
+   Link:<a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair Play found that when music recognition technology is used, payment accuracy improves to 90%, but fewer than 7% of UK clubs have adop...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/nov/18/musicians-wrongly-allocated-uk-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fair Play found that when music recognition technology is used, payment accuracy improves to 90%, but fewer than 7% of UK clubs have adop...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: themlc.com  
    Title: Mechanical Licensing Collective Resources  
-   Link: <a href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/resources-songwriters</a>  
+   Link:<a href="https://www.themlc.com/resources-songwriters" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/resources-songwriters</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
+   Link:<a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: Wikipedia  
    Title: International Standard Recording Code  
-   Link: <a href="https://en.wikipedia.org/wiki/International_Standard_Recording_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Recording_Code</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/International_Standard_Recording_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Recording_Code</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: Wikipedia  
    Title: International Standard Musical Work Code  
-   Link: <a href="https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/International_Standard_Musical_Work_Code</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: soundcharts.com  
    Title: music metadata  
-   Link: <a href="https://soundcharts.com/en/blog/music-metadata" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/music-metadata</a>  
+   Link:<a href="https://soundcharts.com/en/blog/music-metadata" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/music-metadata</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: musosoup.com  
    Title: music metadata  
-   Link: <a href="https://musosoup.com/blog/music-metadata" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/music-metadata</a>  
+   Link:<a href="https://musosoup.com/blog/music-metadata" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/music-metadata</a>  
 
 ### Additional References
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study</a>  
+   Link:<a href="https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387948806_ISRC_-International_Standard_Recording_Code_A_Need_of_Today%27s_Music_Industry_-A_Study</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: studenttheses.uu.nl  
-   Link: <a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&amp;sequence=1</a>  
+   Link:<a href="https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49359/Atmis%2C%20Dilan%200517100%20-%20APLM%20Masters%20Thesis%202025%20-%20Music%20Metadata%20Challenges%20and%20Potential%20Solutions.pdf?isAllowed=y&amp;sequence=1</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DNA7Tf7M0pO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNA7Tf7M0pO/</a>  
+   Link:<a href="https://www.instagram.com/reel/DNA7Tf7M0pO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNA7Tf7M0pO/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ttgigs/posts/2736459873200979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ttgigs/posts/2736459873200979/</a>  
+   Link:<a href="https://www.facebook.com/groups/ttgigs/posts/2736459873200979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ttgigs/posts/2736459873200979/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/</a>  
+   Link:<a href="https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/ensuring-accurate-music-metadata-for-royalties/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: ivorsacademy.com  
-   Link: <a href="https://ivorsacademy.com/campaign/fix-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/campaign/fix-streaming/</a>  
+   Link:<a href="https://ivorsacademy.com/campaign/fix-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/campaign/fix-streaming/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXG9AJqGk_v/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXG9AJqGk_v/</a>  
+   Link:<a href="https://www.instagram.com/p/DXG9AJqGk_v/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXG9AJqGk_v/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg</a>  
+   Link:<a href="https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: musicrightsmanagement.in  
-   Link: <a href="https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking</a>  
+   Link:<a href="https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.musicrightsmanagement.in/blog/how-can-bad-metadata-impact-royalty-tracking</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: apraamcos.com.au  
-   Link: <a href="https://www.apraamcos.com.au/resources/get-paid/performance-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/resources/get-paid/performance-reports</a>
+   Link:<a href="https://www.apraamcos.com.au/resources/get-paid/performance-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/resources/get-paid/performance-reports</a>

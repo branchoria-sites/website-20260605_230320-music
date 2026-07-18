@@ -274,7 +274,7 @@ image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_
 
 ## Introduction
 
-Can a prompt make a song copyrightable? Under the emerging approach taken by the United States Copyright Office and reinforced by recent court decisions, the answer is usually no. A person who types a text prompt into a music generator and accepts the resulting track without meaningful creative intervention is unlikely to be recognised as the author of the song's expressive content. The key legal question is not who clicked “generate”, but who determined the musical expression that listeners hear. When [melody]({{ 'melody/' | relative_url }}), [lyrics]({{ 'lyrics/' | relative_url }}), arrangement and performance emerge primarily from the model rather than from human creative choices, copyright protection becomes difficult to claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[sidley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> This issue sits at the centre of the broader debate over AI-generated music. Prompt-only songs force copyright law to draw a line between directing a tool and creating a work. That line increasingly determines who can own, license and monetise AI-assisted music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.loc.gov">[newsroom.loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.loc.gov</span><span class="citation-popover-snippet">Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
+Can a prompt make a song copyrightable? Under the emerging approach taken by the United States Copyright Office and reinforced by recent court decisions, the answer is usually no. A person who types a text prompt into a music generator and accepts the resulting track without meaningful creative intervention is unlikely to be recognised as the author of the song's expressive content. The key legal question is not who clicked “generate”, but who determined the musical expression that listeners hear. When [melody]({{ 'melody/' | relative_url }}), [lyrics]({{ 'lyrics/' | relative_url }}), arrangement and performance emerge primarily from the model rather than from human creative choices, copyright protection becomes difficult to claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[sidley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> This issue sits at the centre of the broader debate over AI-generated music. Prompt-only songs force copyright law to draw a line between directing a tool and creating a work. That line increasingly determines who can own, license and monetise AI-assisted music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.loc.gov">[newsroom.loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.loc.gov</span><span class="citation-popover-snippet">Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1-dark.svg" | relative_url }}" alt="Prompt Copyright illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Counts as Human Expression in an AI Song?
@@ -294,41 +294,41 @@ For music, expressive elements can include:
 
 </div>
 
-The U.S. Copyright Office's 2025 report emphasised that copyright can protect human-authored contributions within an AI-assisted work, but protection does not automatically extend to material generated by the system itself. The focus is on identifiable human creativity rather than on the mere use of AI as a tool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowell.com">[Crowell &amp;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowell.com</span><span class="citation-popover-title">&amp; Moring</span><span class="citation-popover-snippet">Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</span></span></span> Moring - Home
+The U.S. Copyright Office's 2025 report emphasised that copyright can protect human-authored contributions within an AI-assisted work, but protection does not automatically extend to material generated by the system itself. The focus is on identifiable human creativity rather than on the mere use of AI as a tool.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowell.com">[Crowell &amp;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowell.com</span><span class="citation-popover-title">&amp; Moring</span><span class="citation-popover-snippet">Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</span></span></span> Moring - Home
 
-This distinction matters for music because modern generators can create complete songs from a few sentences. A prompt such as “write an emotional indie-folk song about lost friendship with acoustic guitar and female vocals” may influence the output, but the system still determines countless expressive details: melody, phrasing, instrumentation, [rhythm]({{ 'rhythm/' | relative_url }}), vocal inflections and arrangement. The user describes a destination; the model chooses much of the route. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
+This distinction matters for music because modern generators can create complete songs from a few sentences. A prompt such as “write an emotional indie-folk song about lost friendship with acoustic guitar and female vocals” may influence the output, but the system still determines countless expressive details: melody, phrasing, instrumentation, [rhythm]({{ 'rhythm/' | relative_url }}), vocal inflections and arrangement. The user describes a destination; the model chooses much of the route.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
 
 ## Why Prompts Alone Face Copyright Limits
 
-The strongest policy signal so far is the Copyright Office's conclusion that prompting, by itself, generally does not create copyrightable authorship. The Office reviewed claims that sophisticated prompts should qualify as creative expression and ultimately rejected the argument that prompting alone provides sufficient control over the generated result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
+The strongest policy signal so far is the Copyright Office's conclusion that prompting, by itself, generally does not create copyrightable authorship. The Office reviewed claims that sophisticated prompts should qualify as creative expression and ultimately rejected the argument that prompting alone provides sufficient control over the generated result.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
 
-The reasoning rests on unpredictability. Even highly detailed prompts do not reliably determine the exact musical expression that emerges from a generative system. The model interprets instructions through its own internal processes, producing outputs that users often cannot fully foresee. According to the Office, that weakens the claim that the resulting expression originated with the human prompter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
+The reasoning rests on unpredictability. Even highly detailed prompts do not reliably determine the exact musical expression that emerges from a generative system. The model interprets instructions through its own internal processes, producing outputs that users often cannot fully foresee. According to the Office, that weakens the claim that the resulting expression originated with the human prompter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyrightalliance.org">[Copyright Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyrightalliance.org</span><span class="citation-popover-title">ai report part 2 copyrightability</span><span class="citation-popover-snippet">USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</span></span></span>
 
-For prompt-only songs, this creates a practical problem. A user may spend significant time refining prompts, regenerating tracks and choosing among outputs. Those actions may involve judgement and taste, but copyright law generally distinguishes between selecting an outcome and authoring the expressive material inside it. The Office specifically identified prompts as insufficient on their own to satisfy the human-authorship requirement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[sidley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> This does not mean prompts are creatively worthless. A skilled prompt writer may consistently obtain better songs than an inexperienced user. The legal question, however, is whether that skill amounts to authorship of the resulting music. Current policy guidance suggests that skill in directing a generator is not automatically equivalent to composing the generated song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">US Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
+For prompt-only songs, this creates a practical problem. A user may spend significant time refining prompts, regenerating tracks and choosing among outputs. Those actions may involve judgement and taste, but copyright law generally distinguishes between selecting an outcome and authoring the expressive material inside it. The Office specifically identified prompts as insufficient on their own to satisfy the human-authorship requirement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[sidley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> This does not mean prompts are creatively worthless. A skilled prompt writer may consistently obtain better songs than an inexperienced user. The legal question, however, is whether that skill amounts to authorship of the resulting music. Current policy guidance suggests that skill in directing a generator is not automatically equivalent to composing the generated song.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">US Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-2-dark.svg" | relative_url }}" alt="Prompt Copyright illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Human Authorship Rule Behind the Debate
 
 The copyright line around prompt-only songs is tied to a broader legal principle: copyright protection requires human authorship.
 
-Recent litigation involving computer scientist Stephen Thaler reinforced that principle. Courts repeatedly upheld the refusal to register a work generated autonomously by an AI system when no human author was identified. Subsequent appeals and the Supreme Court's refusal to disturb those rulings have left the human-authorship requirement intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bakerdonelson.com">[bakerdonelson.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bakerdonelson.com</span><span class="citation-popover-title">Supreme Court Denies Certiorari in Thaler v</span><span class="citation-popover-snippet">Perlmutter5 Mar 2026 — Accordingly, the law remains that AI – by itself – is fundamentally incapable of creating a work that is subject t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairuse.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairuse.stanford.edu</span><span class="citation-popover-title">Copyright and Fair Use Center Thaler v</span><span class="citation-popover-snippet">Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</span></span></span> Copyright and [Fair Use]({{ 'fair-use/' | relative_url }}) Center 3Skadden
+Recent litigation involving computer scientist Stephen Thaler reinforced that principle. Courts repeatedly upheld the refusal to register a work generated autonomously by an AI system when no human author was identified. Subsequent appeals and the Supreme Court's refusal to disturb those rulings have left the human-authorship requirement intact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bakerdonelson.com">[bakerdonelson.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bakerdonelson.com</span><span class="citation-popover-title">Supreme Court Denies Certiorari in Thaler v</span><span class="citation-popover-snippet">Perlmutter5 Mar 2026 — Accordingly, the law remains that AI – by itself – is fundamentally incapable of creating a work that is subject t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairuse.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairuse.stanford.edu</span><span class="citation-popover-title">Copyright and Fair Use Center Thaler v</span><span class="citation-popover-snippet">Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</span></span></span> Copyright and [Fair Use]({{ 'fair-use/' | relative_url }}) Center 3Skadden
 
-Although those cases involved visual art rather than music, their significance extends directly to AI-generated songs. If a song is presented as the product of an autonomous system and the human role consists only of issuing prompts, the same authorship concerns arise. Courts and regulators are increasingly treating human creative contribution as the foundation of copyright eligibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairuse.stanford.edu">[Stanford Copyright and Fair Use Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairuse.stanford.edu</span><span class="citation-popover-title">Copyright and Fair Use Center Thaler v</span><span class="citation-popover-snippet">Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</span></span></span>
+Although those cases involved visual art rather than music, their significance extends directly to AI-generated songs. If a song is presented as the product of an autonomous system and the human role consists only of issuing prompts, the same authorship concerns arise. Courts and regulators are increasingly treating human creative contribution as the foundation of copyright eligibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairuse.stanford.edu">[Stanford Copyright and Fair Use Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairuse.stanford.edu</span><span class="citation-popover-title">Copyright and Fair Use Center Thaler v</span><span class="citation-popover-snippet">Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</span></span></span>
 
-The policy logic is straightforward. Copyright exists partly to reward and encourage human creativity. Granting full protection to machine-generated outputs without meaningful human authorship could dramatically expand private [ownership]({{ 'ownership/' | relative_url }}) over works that were not created through traditional human expression. The Copyright Office has repeatedly signalled concern about extending protection too far in that direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
+The policy logic is straightforward. Copyright exists partly to reward and encourage human creativity. Granting full protection to machine-generated outputs without meaningful human authorship could dramatically expand private [ownership]({{ 'ownership/' | relative_url }}) over works that were not created through traditional human expression. The Copyright Office has repeatedly signalled concern about extending protection too far in that direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[2U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-dark.svg" | relative_url }}" alt="Prompt Copyright illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Editing and Arrangement Can Change the Answer
 
 The legal outcome changes when a person does more than prompt.
 
-The Copyright Office recognises that human authorship can arise through creative selection, arrangement and modification of AI-generated material. This is especially important in music production, where editing decisions often shape the final work as much as initial composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jonesday.com">[jonesday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jonesday.com</span><span class="citation-popover-snippet">Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowell.com">[Crowell &amp;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowell.com</span><span class="citation-popover-title">&amp; Moring</span><span class="citation-popover-snippet">Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</span></span></span> Moring - Home
+The Copyright Office recognises that human authorship can arise through creative selection, arrangement and modification of AI-generated material. This is especially important in music production, where editing decisions often shape the final work as much as initial composition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jonesday.com">[jonesday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jonesday.com</span><span class="citation-popover-snippet">Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowell.com">[Crowell &amp;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowell.com</span><span class="citation-popover-title">&amp; Moring</span><span class="citation-popover-snippet">Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</span></span></span> Moring - Home
 
 Consider three increasingly human-centred scenarios:
 
-1. **Prompt-only generation:** A user enters a prompt, receives a complete song and uploads it unchanged. Copyright protection is likely to be weak or unavailable for the generated musical content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span>
-2. **Curated assembly:** A creator generates multiple AI sections, selects specific passages and assembles them into a new structure. The selection and arrangement may qualify for protection even if the underlying generated material does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jonesday.com">[2jonesday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jonesday.com</span><span class="citation-popover-snippet">Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</span></span></span>
-3. **Substantial transformation:** A musician rewrites lyrics, replaces melodies, records new performances, restructures the arrangement and uses AI material as raw input. In that case, the human-authored elements may receive copyright protection because they reflect original creative expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[2www.hoganlovells.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-title">www.hoganlovells.com U.S</span><span class="citation-popover-snippet">Copyright Office issues report on copyrightability of AI...4 Feb 2025 — This article explores the report&#x27;s guidance and resulting strate...</span></span></span>
+1. **Prompt-only generation:** A user enters a prompt, receives a complete song and uploads it unchanged. Copyright protection is likely to be weak or unavailable for the generated musical content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidley.com">[Sidley Austin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidley.com</span><span class="citation-popover-title">Austin U.S</span><span class="citation-popover-snippet">Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</span></span></span>
+2. **Curated assembly:** A creator generates multiple AI sections, selects specific passages and assembles them into a new structure. The selection and arrangement may qualify for protection even if the underlying generated material does not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jonesday.com">[2jonesday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jonesday.com</span><span class="citation-popover-snippet">Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</span></span></span>
+3. **Substantial transformation:** A musician rewrites lyrics, replaces melodies, records new performances, restructures the arrangement and uses AI material as raw input. In that case, the human-authored elements may receive copyright protection because they reflect original creative expression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-title">and Artificial Intelligence Part 2 Copyrightability Report</span><span class="citation-popover-snippet">Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoganlovells.com">[2www.hoganlovells.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoganlovells.com</span><span class="citation-popover-title">www.hoganlovells.com U.S</span><span class="citation-popover-snippet">Copyright Office issues report on copyrightability of AI...4 Feb 2025 — This article explores the report&#x27;s guidance and resulting strate...</span></span></span>
 
 The crucial shift is from requesting output to shaping expression. Copyright analysis increasingly focuses on the latter.
 
@@ -338,197 +338,197 @@ The crucial shift is from requesting output to shaping expression. Copyright ana
 
 The debate over prompt-only songs is not merely theoretical. It affects ownership, [licensing]({{ 'licensing/' | relative_url }}), enforcement and revenue.
 
-A copyright holder can normally control reproduction, distribution and commercial exploitation of a song. If a prompt-only track lacks sufficient human authorship, those rights may be limited or unavailable. That uncertainty affects creators using tools such as AI music generators, record labels evaluating catalogue rights and platforms deciding how generated music should be treated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.loc.gov">[newsroom.loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.loc.gov</span><span class="citation-popover-snippet">Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> It also creates a new cultural question about authorship itself. Prompt-only music tests whether creative judgement, taste and selection should be enough to establish ownership when the expressive details come from a machine. Current copyright policy largely answers that question in the negative. Human contribution remains the decisive factor, not because prompting lacks value, but because copyright continues to attach most strongly to human-created expression rather than machine-generated output. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">ha anunciado que las obras creadas con la ayuda de la inteligencia artificial (IA) pueden ser protegidas por derechos de autor si contien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finnegan.com">[3Finnegan &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finnegan.com</span><span class="citation-popover-title">Leading IP+ Law Firm U.S</span><span class="citation-popover-snippet">Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — Overall, the Copyright Office found that questions of copyrighta...</span></span></span>
+A copyright holder can normally control reproduction, distribution and commercial exploitation of a song. If a prompt-only track lacks sufficient human authorship, those rights may be limited or unavailable. That uncertainty affects creators using tools such as AI music generators, record labels evaluating catalogue rights and platforms deciding how generated music should be treated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.loc.gov">[newsroom.loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.loc.gov</span><span class="citation-popover-snippet">Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span> It also creates a new cultural question about authorship itself. Prompt-only music tests whether creative judgement, taste and selection should be enough to establish ownership when the expressive details come from a machine. Current copyright policy largely answers that question in the negative. Human contribution remains the decisive factor, not because prompting lacks value, but because copyright continues to attach most strongly to human-created expression rather than machine-generated output.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">ha anunciado que las obras creadas con la ayuda de la inteligencia artificial (IA) pueden ser protegidas por derechos de autor si contien...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[3U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: finnegan.com">[3Finnegan &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">finnegan.com</span><span class="citation-popover-title">Leading IP+ Law Firm U.S</span><span class="citation-popover-snippet">Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — Overall, the Copyright Office found that questions of copyrighta...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Prompt Make a Song Copyrightable?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Prompt Make a Song Copyrightable?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Useful foundation for discussing music creation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful foundation for discussing music creation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Useful for monetisation and ownership implications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for monetisation and ownership implications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The copyright handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/758000-M.jpg" alt="Cover for The copyright handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The copyright handbook">The copyright handbook</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Fishman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The copyright handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/758000-M.jpg" alt="Cover for The copyright handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The copyright handbook">The copyright handbook</a>
+</h4>
+<p class="fr-book-author">By Stephen Fishman</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Popular works, Copyright, International Copyright, Copyright, united states, Copyright, international.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Popular works, Copyright, International Copyright, Copyright, united states, Copyright, international.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Music+Ecosystem+Mark+Clancy+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence and Music Ecosystem on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Music+Ecosystem+Mark+Clancy+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence and Music Ecosystem">Artificial Intelligence and Music Ecosystem</a>
-        </h4>
-        <p class="fr-book-author">By Mark Clancy (ed.)</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Music+Ecosystem+Mark+Clancy+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence and Music Ecosystem on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Music+Ecosystem+Mark+Clancy+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence and Music Ecosystem">Artificial Intelligence and Music Ecosystem</a>
+</h4>
+<p class="fr-book-author">By Mark Clancy (ed.)</p>
         
-        <p class="fr-book-desc">Explores AI authorship and creative control questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Music+Ecosystem+Mark+Clancy+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores AI authorship and creative control questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Music+Ecosystem+Mark+Clancy+%28ed.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+copyright+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The copyright books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+copyright+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The copyright books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEADMAU5 RED STENCIL T SHIRT NEW OFFICIAL HOUSE MUSIC PRODUCER DJ 4X4=12 TECHNO"><img src="{{ '/assets/images/marketplace-covers/17812ab3ff0dff2ee60f.jpg' | relative_url }}" alt="Listing image for DEADMAU5 RED STENCIL T SHIRT NEW OFFICIAL HOUSE MUSIC PRODUCER DJ 4X4=12 TECHNO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DEADMAU5 RED STENCIL T SHIRT NEW OFFICIAL HOUSE MUSIC PRODUCER DJ 4X4=12 TECHNO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEADMAU5 RED STENCIL T SHIRT NEW OFFICIAL HOUSE MUSIC PRODUCER DJ 4X4=12 TECHNO"><img src="{{ '/assets/images/marketplace-covers/17812ab3ff0dff2ee60f.jpg' | relative_url }}" alt="Listing image for DEADMAU5 RED STENCIL T SHIRT NEW OFFICIAL HOUSE MUSIC PRODUCER DJ 4X4=12 TECHNO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DEADMAU5 RED STENCIL T SHIRT NEW OFFICIAL HOUSE MUSIC PRODUCER DJ 4X4=12 TECHNO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Producer T-Shirt, Funny Recording Studio Shirt, Music Producers Gifts"><img src="{{ '/assets/images/marketplace-covers/c073fdb8da6251870c10.jpg' | relative_url }}" alt="Listing image for Music Producer T-Shirt, Funny Recording Studio Shirt, Music Producers Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music Producer T-Shirt, Funny Recording Studio Shirt, Music Producers Gifts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Producer T-Shirt, Funny Recording Studio Shirt, Music Producers Gifts"><img src="{{ '/assets/images/marketplace-covers/c073fdb8da6251870c10.jpg' | relative_url }}" alt="Listing image for Music Producer T-Shirt, Funny Recording Studio Shirt, Music Producers Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music Producer T-Shirt, Funny Recording Studio Shirt, Music Producers Gifts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee"><img src="{{ '/assets/images/marketplace-covers/7af73efd5a32b6982e43.jpg' | relative_url }}" alt="Listing image for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee"><img src="{{ '/assets/images/marketplace-covers/7af73efd5a32b6982e43.jpg' | relative_url }}" alt="Listing image for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL"><img src="{{ '/assets/images/marketplace-covers/4f6e22fd34c7753dd125.jpg' | relative_url }}" alt="Listing image for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL"><img src="{{ '/assets/images/marketplace-covers/4f6e22fd34c7753dd125.jpg' | relative_url }}" alt="Listing image for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="prompt-copyright-can-a-prompt-make-a-song-copyrightable-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ A copyright holder can normally control reproduction, distribution and commercia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ A copyright holder can normally control reproduction, distribution and commercia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ A copyright holder can normally control reproduction, distribution and commercia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ A copyright holder can normally control reproduction, distribution and commercia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ A copyright holder can normally control reproduction, distribution and commercia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,185 +734,185 @@ A copyright holder can normally control reproduction, distribution and commercia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence Part 2 Copyrightability Report  
-   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</p></details>
+   Link:<a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeCopyright and Artificial Intelligence, Part 217 Jan 2025 — This Report by the U.S. Copyright Office addresses the legal a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sidley.com  
    Title: Austin U.S  
-   Link: <a href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</p></details>
+   Link:<a href="https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2025/02/us-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Issues Report on Artificial Intelligence...6 Feb 2025 — The Office concluded that under existing law, “purely AI-genera...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: finnegan.com  
    Title: Leading IP+ Law Firm U.S  
-   Link: <a href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — Overall, the Copyright Office found that questions of copyrighta...</p></details>
+   Link:<a href="https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/ip-updates/us-copyright-office-ai-prompts-alone-provide-insufficient-control-over-expression-to-protect-ai-generated-content.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office: AI Prompts Alone Provide Insufficient...29 Jan 2025 — Overall, the Copyright Office found that questions of copyrighta...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newsroom.loc.gov  
-   Link: <a href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</p></details>
+   Link:<a href="https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.loc.gov/news/copyright-office-releases-part-2-of-artificial-intelligence-report/s/f3959c36-d616-498d-b8f9-67641fd18bab</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office is releasing Part 2 of its report on the legal and policy issues related to copyright and artificial intelligence...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</p></details>
+   Link:<a href="https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/us-copyright-office-issues-highly-anticipated-report-copyrightability-ai-2025-04-02/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues highly anticipated report on copyrightability of AI-generated worksThe U.S. Copyright Office has released Part 2...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wipo.int  
-   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</p></details>
+   Link:<a href="https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office on AI: Human creativity still matters...“Part 2: Copyrightability,” published January 29, 2025, focuses on the c...</p></details>
    Published: January 29, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: crowell.com  
    Title: & Moring  
-   Link: <a href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</p></details>
+   Link:<a href="https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-part-2-of-artificial-intelligence-report-clarifying-copyrightability-of-generative-ai-outputs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Releases Part 2 of Artificial...31 Jan 2025 — Whether human contributions to AI-generated outputs are sufficient to con...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jonesday.com  
-   Link: <a href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</p></details>
+   Link:<a href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Analyzes Human Authorship...The Office concludes that human contributions to AI-generated outputs are sufficient to con...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hoganlovells.com  
    Title: www.hoganlovells.com U.S  
-   Link: <a href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues report on copyrightability of AI...4 Feb 2025 — This article explores the report&#x27;s guidance and resulting strate...</p></details>
+   Link:<a href="https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office issues report on copyrightability of AI...4 Feb 2025 — This article explores the report&#x27;s guidance and resulting strate...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fairuse.stanford.edu  
    Title: Copyright and Fair Use Center Thaler v  
-   Link: <a href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow">https://fairuse.stanford.edu/case/thaler-v-perlmutter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</p></details>
+   Link:<a href="https://fairuse.stanford.edu/case/thaler-v-perlmutter/" target="_blank" rel="noopener noreferrer nofollow">https://fairuse.stanford.edu/case/thaler-v-perlmutter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perlmutter - Stanford Copyright and Fair Use CenterMar 18, 2025 — The court held that the Copyright Act requires all eligible works to be...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skadden.com  
    Title: appellate court affirms human authorship  
-   Link: <a href="https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephen Thaler, a computer scientist, created an artificial intelligence system known as the Creativity Machine, which generated an [artwork](&amp;#123;&amp;#123; &#x27;artwork/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/03/appellate-court-affirms-human-authorship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stephen Thaler, a computer scientist, created an artificial intelligence system known as the Creativity Machine, which generated an [artwork](&amp;#123;&amp;#123; &#x27;artwork/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bakerdonelson.com  
    Title: Supreme Court Denies Certiorari in Thaler v  
-   Link: <a href="https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perlmutter5 Mar 2026 — Accordingly, the law remains that AI – by itself – is fundamentally incapable of creating a work that is subject t...</p></details>
+   Link:<a href="https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perlmutter5 Mar 2026 — Accordingly, the law remains that AI – by itself – is fundamentally incapable of creating a work that is subject t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ha anunciado que las obras creadas con la ayuda de la inteligencia artificial (IA) pueden ser protegidas por derechos de autor si contien...</p></details>
+   Link:<a href="https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/363f1c537eb86b624bf5e81bed70d459</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ha anunciado que las obras creadas con la ayuda de la inteligencia artificial (IA) pueden ser protegidas por derechos de autor si contien...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/newsnet/2025/1060.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNet Issue 1060 | U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected by copyright only...</p></details>
+   Link:<a href="https://www.copyright.gov/newsnet/2025/1060.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/newsnet/2025/1060.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NewsNet Issue 1060 | U.S. Copyright Office29 Jan 2025 — It concludes that the outputs of generative AI can be protected by copyright only...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence | U.S  
-   Link: <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficePart 2 was published on January 29, 2025, and addresses the copyrightability of outputs created using generative AI. On M...</p></details>
+   Link:<a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficePart 2 was published on January 29, 2025, and addresses the copyrightability of outputs created using generative AI. On M...</p></details>
    Published: January 29, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3: Generative [AI Training](&amp;#123;&amp;#123; &#x27;ai-training/&#x27; | relative_url &amp;#125;&amp;#125;) (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyright and Artifici...</p></details>
+   Link:<a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3: Generative [AI Training](&amp;#123;&amp;#123; &#x27;ai-training/&#x27; | relative_url &amp;#125;&amp;#125;) (Pre-Publication Version)6 May 2025 — This Part of the Copyright Office&#x27;s Report on Copyright and Artifici...</p></details>
    Published: May 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skadden.com  
    Title: copyright office publishes report  
-   Link: <a href="https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Copyrightability of AI-...4 Feb 2025 — The United States Copyright Office (USCO) has released its report on the copyrightability of o...</p></details>
+   Link:<a href="https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report" target="_blank" rel="noopener noreferrer nofollow">https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Copyrightability of AI-...4 Feb 2025 — The United States Copyright Office (USCO) has released its report on the copyrightability of o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Copyright Office&#x27;s Report, Copyright and Artificial...6 Feb 2025 — It concludes that the outputs of generative AI can be protected b...</p></details>
+   Link:<a href="https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2025/02/inside-the-copyright-offices-report-copyright-and-artificial-intelligence-part-2-copyrightability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Copyright Office&#x27;s Report, Copyright and Artificial...6 Feb 2025 — It concludes that the outputs of generative AI can be protected b...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: copyrightalliance.org  
    Title: ai report part 2 copyrightability  
-   Link: <a href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/ai-report-part-2-copyrightability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</p></details>
+   Link:<a href="https://copyrightalliance.org/ai-report-part-2-copyrightability/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/ai-report-part-2-copyrightability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USCO Copyright and AI Report; Part 26 Feb 2025 — The US Copyright Office released Part Two of its AI study, which analyzed issues surroun...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: United States  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United StatesThe United States of America (USA), also known as the United States (US) or America, is a country primarily located in No...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United StatesThe United States of America (USA), also known as the United States (US) or America, is a country primarily located in No...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: us copyright office copyright and artificial  
-   Link: <a href="https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Copyright and Artificial Intelligence...However, if you input your own lyrics and there is human input other than promp...</p></details>
+   Link:<a href="https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SunoAI/comments/1ietcuk/us_copyright_office_copyright_and_artificial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Copyright and Artificial Intelligence...However, if you input your own lyrics and there is human input other than promp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mintz.com  
    Title: 2025 02 07 us copyright office publishes second part report ai  
-   Link: <a href="https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office Publishes Second Part of Report on AI...Feb 7, 2025 — Copyright does not extend to purely AI-generated material, or...</p></details>
+   Link:<a href="https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.mintz.com/insights-center/viewpoints/54731/2025-02-07-us-copyright-office-publishes-second-part-report-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Copyright Office Publishes Second Part of Report on AI...Feb 7, 2025 — Copyright does not extend to purely AI-generated material, or...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: klgates.com  
-   Link: <a href="https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection-8-30-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection-8-30-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Court Rules Work Generated by Artificial...Aug 30, 2023 — This summary describes the August 18 ruling in Thayler v. Permutter ho...</p></details>
+   Link:<a href="https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection" target="_blank" rel="noopener noreferrer nofollow">https://www.klgates.com/Federal-Court-Rules-Work-Generated-by-Artificial-Intelligence-Alone-Is-Not-Eligible-for-Copyright-Protection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Court Rules Work Generated by Artificial...Aug 30, 2023 — This summary describes the August 18 ruling in Thayler v. Permutter ho...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/81026600" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81026600</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch UsA serene family vacation turns frightening when a family&#x27;s nightmarish doppelgängers descend upon their waterfront abode. Watch t...</p></details>
+   Link:<a href="https://www.netflix.com/title/81026600" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81026600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch UsA serene family vacation turns frightening when a family&#x27;s nightmarish doppelgängers descend upon their waterfront abode. Watch t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: privacyworld.blog  
-   Link: <a href="https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyrighting AI-Generated Works Requires “Sufficient...4 Feb 2025 — The report finds that protection of AI-generated works requires “suf...</p></details>
+   Link:<a href="https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacyworld.blog/2025/02/copyright-office-copyrighting-ai-generated-works-requires-sufficient-human-control-over-the-expressive-elements-prompts-are-not-enough/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyrighting AI-Generated Works Requires “Sufficient...4 Feb 2025 — The report finds that protection of AI-generated works requires “suf...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: authorsalliance.org  
-   Link: <a href="https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyrightability and Artificial Intelligence: A new report...Feb 20, 2025 — In denying his claim, the Office responded that “when an AI...</p></details>
+   Link:<a href="https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyrightability and Artificial Intelligence: A new report...Feb 20, 2025 — In denying his claim, the Office responded that “when an AI...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: rothjackson.com  
-   Link: <a href="https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Publishes Part 2 of its Artificial Intelligence...Feb 6, 2025 — First and foremost, the report reiterates the longstand...</p></details>
+   Link:<a href="https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.rothjackson.com/blog/2025/02/copyright-office-publishes-part-2-of-its-artificial-intelligence-and-copyright-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Office Publishes Part 2 of its Artificial Intelligence...Feb 6, 2025 — First and foremost, the report reiterates the longstand...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: constitutioncenter.org  
-   Link: <a href="https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright" target="_blank" rel="noopener noreferrer nofollow">https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court denies artificial intelligence authorship...11 Mar 2026 — Thaler, a computer scientist, created a generative artificial in...</p></details>
+   Link:<a href="https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright" target="_blank" rel="noopener noreferrer nofollow">https://constitutioncenter.org/blog/supreme-court-denies-artificial-intelligence-authorship-claim-for-artwork-copyright</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court denies artificial intelligence authorship...11 Mar 2026 — Thaler, a computer scientist, created a generative artificial in...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rimonlaw.com  
-   Link: <a href="https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/" target="_blank" rel="noopener noreferrer nofollow">https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Copyright Office Guidance Applies to Music That...8 May 2025 — The Office affirmed that copyright does not extend to purely AI-gener...</p></details>
+   Link:<a href="https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/" target="_blank" rel="noopener noreferrer nofollow">https://www.rimonlaw.com/how-copyright-office-guidance-applies-to-music-that-includes-ai-generated-material/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Copyright Office Guidance Applies to Music That...8 May 2025 — The Office affirmed that copyright does not extend to purely AI-gener...</p></details>
    Published: May 2025  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: joneswalker.com  
    Title: with thaler closed courts must now turn to the harder question of ai assisted au  
-   Link: <a href="https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5" target="_blank" rel="noopener noreferrer nofollow">https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With Thaler Closed, Courts Must Now Turn to the Harder...Mar 19, 2026 — Perlmutter[1] leaves undisturbed the decision from the DC Circui...</p></details>
+   Link:<a href="https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5" target="_blank" rel="noopener noreferrer nofollow">https://www.joneswalker.com/en/insights/blogs/ai-law-blog/with-thaler-closed-courts-must-now-turn-to-the-harder-question-of-ai-assisted-au.html?id=102mnf5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With Thaler Closed, Courts Must Now Turn to the Harder...Mar 19, 2026 — Perlmutter[1] leaves undisturbed the decision from the DC Circui...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: barrysookman.com  
    Title: understanding the copyrightability of ai insights from the u s copyright office  
-   Link: <a href="https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/" target="_blank" rel="noopener noreferrer nofollow">https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Copyrightability of AI: Insights from the US...3 Feb 2025 — The Office&#x27;s rational that prompts cannot determine expres...</p></details>
+   Link:<a href="https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/" target="_blank" rel="noopener noreferrer nofollow">https://barrysookman.com/2025/02/03/understanding-the-copyrightability-of-ai-insights-from-the-u-s-copyright-office/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Copyrightability of AI: Insights from the US...3 Feb 2025 — The Office&#x27;s rational that prompts cannot determine expres...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: usfblogs.usfca.edu  
    Title: from studio to silicon human authorship ai generated art and the supreme court  
-   Link: <a href="https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/" target="_blank" rel="noopener noreferrer nofollow">https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorship, AI-Generated Art, and the Supreme Court20 Mar 2026 — Stephen Thaler built an AI system he called the “Creativity Machine.” Th...</p></details>
+   Link:<a href="https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/" target="_blank" rel="noopener noreferrer nofollow">https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authorship, AI-Generated Art, and the Supreme Court20 Mar 2026 — Stephen Thaler built an AI system he called the “Creativity Machine.” Th...</p></details>

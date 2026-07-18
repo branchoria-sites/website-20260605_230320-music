@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-spotify-payout-debat/
 description: Focused pages that expand on Spotify Payouts.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_spotify_payout_debat_88bd5d
 parent_title: Spotify Payouts
@@ -16,7 +16,7 @@ parent_permalink: /spotify-payouts/
 
 # Explore Topics in Spotify Payouts
 
-The following pages expand on the main **[Spotify Payouts]({{ '/spotify-payouts/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Spotify Payouts]({{ '/spotify-payouts/' | relative_url }})** page and cover its key branches in.
 
 - [Artist Share]({{ '/artist-share/' | relative_url }})
 - [Payout Data]({{ '/payout-data/' | relative_url }})

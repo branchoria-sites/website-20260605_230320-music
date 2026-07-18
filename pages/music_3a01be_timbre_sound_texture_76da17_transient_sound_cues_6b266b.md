@@ -274,230 +274,230 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_c
 
 ## Introduction
 
-Our ability to tell *what* made a sound — whether it’s a violin’s bow, a breathy soprano, or a struck piano string — doesn’t wait for hundreds of milliseconds of listening. Instead, the auditory system picks up **transient sound cues** — rapid changes in acoustic energy that occur at the very beginning and end of sounds — to recognise sources remarkably quickly. These quick onsets and offsets, along with tiny variations in how sound rises and falls, form part of the **[timbre]({{ 'timbre/' | relative_url }})** that lets us instantly identify voices and instruments. Scientific research shows that listeners can categorise sound sources accurately even when only a few tens of milliseconds of acoustic information are available, and that the ear and brain are particularly sensitive to these fleeting cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+Our ability to tell *what* made a sound — whether it’s a violin’s bow, a breathy soprano, or a struck piano string — doesn’t wait for hundreds of milliseconds of listening. Instead, the auditory system picks up **transient sound cues** — rapid changes in acoustic energy that occur at the very beginning and end of sounds — to recognise sources remarkably quickly. These quick onsets and offsets, along with tiny variations in how sound rises and falls, form part of the **[timbre]({{ 'timbre/' | relative_url }})** that lets us instantly identify voices and instruments. Scientific research shows that listeners can categorise sound sources accurately even when only a few tens of milliseconds of acoustic information are available, and that the ear and brain are particularly sensitive to these fleeting cues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-dark.svg" | relative_url }}" alt="Transient Cues illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Transient Attacks and Decays: The Acoustic Signature of Sound Sources
 
-Every sound has a *temporal envelope* — the pattern of how its amplitude rises and falls over time — composed of phases typically described as attack, sustain, decay, and release. Among these, the **attack phase** is critical for recognition: it contains a burst of energy when a sound begins, often rich in high-frequency and non‑periodic components that are not present once a note has stabilised. This burst, known as a **transient**, arises when the [physical]({{ 'physical/' | relative_url }}) mechanism of the sound — a plucked string, a vocal fold vibration onset, a mallet strike — suddenly shifts the status of the sound production system. Such rapid changes carry distinct acoustic fingerprints that the auditory system uses to differentiate between sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.ircam.fr">[support.ircam.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.ircam.fr</span><span class="citation-popover-title">Transients Method</span><span class="citation-popover-snippet">Introduction - Transient Detection Principles...</span></span></span>
+Every sound has a *temporal envelope* — the pattern of how its amplitude rises and falls over time — composed of phases typically described as attack, sustain, decay, and release. Among these, the **attack phase** is critical for recognition: it contains a burst of energy when a sound begins, often rich in high-frequency and non‑periodic components that are not present once a note has stabilised. This burst, known as a **transient**, arises when the [physical]({{ 'physical/' | relative_url }}) mechanism of the sound — a plucked string, a vocal fold vibration onset, a mallet strike — suddenly shifts the status of the sound production system. Such rapid changes carry distinct acoustic fingerprints that the auditory system uses to differentiate between sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.ircam.fr">[support.ircam.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.ircam.fr</span><span class="citation-popover-title">Transients Method</span><span class="citation-popover-snippet">Introduction - Transient Detection Principles...</span></span></span>
 
-Research specifically probing the *role of attack transients* in instrumental timbre supports their relevance: experiments that selectively remove or alter transient content show that identity judgements become harder, confirming that listeners rely on rapid onset information, though even segments beyond the strict onset also contribute to recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30823780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Specifying the perceptual relevance of onset transients for musical instrument identification - PubMed...</span></span></span>
+Research specifically probing the *role of attack transients* in instrumental timbre supports their relevance: experiments that selectively remove or alter transient content show that identity judgements become harder, confirming that listeners rely on rapid onset information, though even segments beyond the strict onset also contribute to recognition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30823780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Specifying the perceptual relevance of onset transients for musical instrument identification - PubMed...</span></span></span>
 
 ## How Fast Can the Auditory System Recognise a Sound Source?
 
-A striking line of evidence comes from behavioural experiments using rapid presentation paradigms. In these studies, extremely short sound snippets — sometimes just a few tens of milliseconds long — are embedded in sequences of distractors. Listeners are asked to detect or categorise a target sound (e.g., a voice among musical instruments). Remarkably, humans can recognise sound sources at presentation rates up to **30 sounds per second**, corresponding to only **≈33 ms per item**, and performance remains above chance even for durations at or below this level. Recognition for voices is consistently stronger and faster than for other instrument categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+A striking line of evidence comes from behavioural experiments using rapid presentation paradigms. In these studies, extremely short sound snippets — sometimes just a few tens of milliseconds long — are embedded in sequences of distractors. Listeners are asked to detect or categorise a target sound (e.g., a voice among musical instruments). Remarkably, humans can recognise sound sources at presentation rates up to **30 sounds per second**, corresponding to only **≈33 ms per item**, and performance remains above chance even for durations at or below this level. Recognition for voices is consistently stronger and faster than for other instrument categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
-These results indicate that recognition does not require long, stable portions of sound. Instead, the auditory system can extract sufficient timbre cues — likely including transient features — from very brief acoustic windows. The rapid processing implied by these findings places strict temporal constraints on neural models of sound recognition: to succeed, mechanisms must operate on tens of milliseconds timescales, not hundreds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+These results indicate that recognition does not require long, stable portions of sound. Instead, the auditory system can extract sufficient timbre cues — likely including transient features — from very brief acoustic windows. The rapid processing implied by these findings places strict temporal constraints on neural models of sound recognition: to succeed, mechanisms must operate on tens of milliseconds timescales, not hundreds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-2-dark.svg" | relative_url }}" alt="Transient Cues illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Auditory System Sensitivity to Transients
 
-Neurophysiological research supports the behavioural data: the peripheral and central auditory system shows enhanced responsiveness to transient events. Fast response peaks in auditory evoked potentials arise when sound onsets or offsets occur, reflecting synchronous firing across a broad range of cochlear [regions]({{ 'regions/' | relative_url }}) for abrupt sounds. These transient responses are larger and occur earlier for sharper attack characteristics, meaning that cues in the first few milliseconds of a sound play a disproportionately large role in driving neural activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRecognition of brief sounds in rapid serial auditory presentation</span><span class="citation-popover-snippet">2023 Apr 13;18(4):e0284396. doi: 10.1371/journal.pone.0284396 RECOGNITION OF BRIEF SOUNDS IN RAPID SERIAL AUDITORY PRESENTATION Merve Akç...</span></span></span>
+Neurophysiological research supports the behavioural data: the peripheral and central auditory system shows enhanced responsiveness to transient events. Fast response peaks in auditory evoked potentials arise when sound onsets or offsets occur, reflecting synchronous firing across a broad range of cochlear [regions]({{ 'regions/' | relative_url }}) for abrupt sounds. These transient responses are larger and occur earlier for sharper attack characteristics, meaning that cues in the first few milliseconds of a sound play a disproportionately large role in driving neural activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRecognition of brief sounds in rapid serial auditory presentation</span><span class="citation-popover-snippet">2023 Apr 13;18(4):e0284396. doi: 10.1371/journal.pone.0284396 RECOGNITION OF BRIEF SOUNDS IN RAPID SERIAL AUDITORY PRESENTATION Merve Akç...</span></span></span>
 
-This high sensitivity to change is consistent with how the cochlea and auditory brainstem prioritise sudden acoustic energy shifts over steady-state periods, helping the brain detect and encode salient acoustic events quickly. Such mechanisms contribute both to basic sound recognition and to more complex auditory scene analysis (segregating multiple sound sources). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The role of transients in auditory processing</span><span class="citation-popover-snippet">The role of transients in auditory processing - ScienceDirectMay 1, 2007...</span><span class="citation-popover-meta">Published: May 1, 2007</span></span></span>
+This high sensitivity to change is consistent with how the cochlea and auditory brainstem prioritise sudden acoustic energy shifts over steady-state periods, helping the brain detect and encode salient acoustic events quickly. Such mechanisms contribute both to basic sound recognition and to more complex auditory scene analysis (segregating multiple sound sources).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The role of transients in auditory processing</span><span class="citation-popover-snippet">The role of transients in auditory processing - ScienceDirectMay 1, 2007...</span><span class="citation-popover-meta">Published: May 1, 2007</span></span></span>
 
 ## Why Transients Matter for Expressive and Emotional Perception
 
-Beyond recognising *what* produced the sound, transient cues also influence how sound feels expressive. Subtle differences in attack and decay characteristics are part of a source’s signature and can convey information about *how* a sound was produced — whether a note was struck firmly or gently, sung breathily or forcefully. These variations feed into our perception of *expressivity* and emotional content because they reflect dynamic aspects of performance familiar to listeners. Rapid temporal cues thus enrich not just source identity but the *affective quality* of sound, anchoring timbre’s human‑like expressiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+Beyond recognising *what* produced the sound, transient cues also influence how sound feels expressive. Subtle differences in attack and decay characteristics are part of a source’s signature and can convey information about *how* a sound was produced — whether a note was struck firmly or gently, sung breathily or forcefully. These variations feed into our perception of *expressivity* and emotional content because they reflect dynamic aspects of performance familiar to listeners. Rapid temporal cues thus enrich not just source identity but the *affective quality* of sound, anchoring timbre’s human‑like expressiveness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-3-dark.svg" | relative_url }}" alt="Transient Cues illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Interplay With Other Timbre Cues
 
-Transient cues do not work in isolation; they interplay with spectral characteristics such as harmonic content and spectral evolution over time. However, what makes transients particularly powerful for rapid recognition is their **early availability** in the signal. While sustained portions of sound provide complementary identity cues based on frequency content, transients offer the earliest available information the auditory system can exploit, especially when listening conditions are dynamic or cluttered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+Transient cues do not work in isolation; they interplay with spectral characteristics such as harmonic content and spectral evolution over time. However, what makes transients particularly powerful for rapid recognition is their **early availability** in the signal. While sustained portions of sound provide complementary identity cues based on frequency content, transients offer the earliest available information the auditory system can exploit, especially when listening conditions are dynamic or cluttered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 ## Summary
 
-Transient sound cues — especially rapid attack and decay patterns — are critical for the auditory system’s ability to recognise sound sources quickly and accurately. Behavioural studies show that listeners can identify voices and instruments with only a few dozen milliseconds of acoustic information, and neurophysiology reveals enhanced sensory sensitivity to these brief acoustic changes. These transient features not only support rapid source recognition but also contribute to emotional and expressive aspects of timbre, reinforcing timbre’s central role in how sounds *feel* human. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
+Transient sound cues — especially rapid attack and decay patterns — are critical for the auditory system’s ability to recognise sound sources quickly and accurately. Behavioural studies show that listeners can identify voices and instruments with only a few dozen milliseconds of acoustic information, and neurophysiology reveals enhanced sensory sensitivity to these brief acoustic changes. These transient features not only support rapid source recognition but also contribute to emotional and expressive aspects of timbre, reinforcing timbre’s central role in how sounds *feel* human.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The time course of auditory recognition measured with rapid sequences of short natural sounds &#124; Scientific ReportsMay 29, 2019...</span><span class="citation-popover-meta">Published: May 29, 2019</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Brief Attacks Reveal Sound Sources Instantly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Brief Attacks Reveal Sound Sources Instantly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Accessible explanation of how the brain processes musical sound.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Accessible explanation of how the brain processes musical sound.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound+Perry+R.+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, cognition, and computerized sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/149603-M.jpg" alt="Cover for Music, cognition, and computerized sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound+Perry+R.+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, cognition, and computerized sound">Music, cognition, and computerized sound</a>
-        </h4>
-        <p class="fr-book-author">By Perry R. Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound+Perry+R.+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, cognition, and computerized sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/149603-M.jpg" alt="Cover for Music, cognition, and computerized sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound+Perry+R.+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, cognition, and computerized sound">Music, cognition, and computerized sound</a>
+</h4>
+<p class="fr-book-author">By Perry R. Cook</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Psychoacoustics, Music, Acoustics and physics, Psychological aspects, Musique.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound+Perry+R.+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Psychoacoustics, Music, Acoustics and physics, Psychological aspects, Musique.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound+Perry+R.+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+introduction+to+the+psychology+of+hearing+Brian+C.+J.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An introduction to the psychology of hearing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1099335-M.jpg" alt="Cover for An introduction to the psychology of hearing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+introduction+to+the+psychology+of+hearing+Brian+C.+J.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to the psychology of hearing">An introduction to the psychology of hearing</a>
-        </h4>
-        <p class="fr-book-author">By Brian C. J. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+introduction+to+the+psychology+of+hearing+Brian+C.+J.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An introduction to the psychology of hearing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1099335-M.jpg" alt="Cover for An introduction to the psychology of hearing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+introduction+to+the+psychology+of+hearing+Brian+C.+J.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to the psychology of hearing">An introduction to the psychology of hearing</a>
+</h4>
+<p class="fr-book-author">By Brian C. J. Moore</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Auditory perception, Hearing, Psychophysik, Auditieve waarneming, Psychoacoustics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+introduction+to+the+psychology+of+hearing+Brian+C.+J.+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Auditory perception, Hearing, Psychophysik, Auditieve waarneming, Psychoacoustics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+introduction+to+the+psychology+of+hearing+Brian+C.+J.+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Master+Handbook+of+Acoustics+F.+Alton+Everest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Master Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3936315-M.jpg" alt="Cover for Master Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Master+Handbook+of+Acoustics+F.+Alton+Everest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Master Handbook of Acoustics">Master Handbook of Acoustics</a>
-        </h4>
-        <p class="fr-book-author">By F. Alton Everest, Ken C. Pohlmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Master+Handbook+of+Acoustics+F.+Alton+Everest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Master Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3936315-M.jpg" alt="Cover for Master Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Master+Handbook+of+Acoustics+F.+Alton+Everest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Master Handbook of Acoustics">Master Handbook of Acoustics</a>
+</h4>
+<p class="fr-book-author">By F. Alton Everest, Ken C. Pohlmann</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: Sound, Electronics, Nonfiction, Science, Noise control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Master+Handbook+of+Acoustics+F.+Alton+Everest&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: Sound, Electronics, Nonfiction, Science, Noise control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Master+Handbook+of+Acoustics+F.+Alton+Everest&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, cognition, and computerized sound</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+the+psychology+of+hearing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to the psychology of hearing books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+cognition%2C+and+computerized+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, cognition, and computerized sound</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+the+psychology+of+hearing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to the psychology of hearing books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/719f94d725f5b542b59b.jpg' | relative_url }}" alt="Listing image for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/719f94d725f5b542b59b.jpg' | relative_url }}" alt="Listing image for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio"><img src="{{ '/assets/images/marketplace-covers/98d0e7caabfa0a73538c.jpg' | relative_url }}" alt="Listing image for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio"><img src="{{ '/assets/images/marketplace-covers/98d0e7caabfa0a73538c.jpg' | relative_url }}" alt="Listing image for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro"><img src="{{ '/assets/images/marketplace-covers/3a9e3ee69af28ce20b18.jpg' | relative_url }}" alt="Listing image for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro"><img src="{{ '/assets/images/marketplace-covers/3a9e3ee69af28ce20b18.jpg' | relative_url }}" alt="Listing image for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="transient-cues-how-brief-attacks-reveal-sound-sources-instantly-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -513,7 +513,7 @@ Transient sound cues — especially rapid attack and decay patterns — are crit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -533,7 +533,7 @@ Transient sound cues — especially rapid attack and decay patterns — are crit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -565,7 +565,7 @@ Transient sound cues — especially rapid attack and decay patterns — are crit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -617,7 +617,7 @@ Transient sound cues — especially rapid attack and decay patterns — are crit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -662,7 +662,7 @@ Transient sound cues — especially rapid attack and decay patterns — are crit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -703,122 +703,122 @@ Transient sound cues — especially rapid attack and decay patterns — are crit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-019-43126-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-019-43126-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-019-43126-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The time course of auditory recognition measured with rapid sequences of short natural sounds | Scientific ReportsMay 29, 2019...</p></details>
    Published: May 29, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRecognition of brief sounds in rapid serial auditory presentation  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Apr 13;18(4):e0284396. doi: 10.1371/journal.pone.0284396 RECOGNITION OF BRIEF SOUNDS IN RAPID SERIAL AUDITORY PRESENTATION Merve Akç...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10101377/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Apr 13;18(4):e0284396. doi: 10.1371/journal.pone.0284396 RECOGNITION OF BRIEF SOUNDS IN RAPID SERIAL AUDITORY PRESENTATION Merve Akç...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: support.ircam.fr  
    Title: Transients Method  
-   Link: <a href="https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html" target="_blank" rel="noopener noreferrer nofollow">https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction - Transient Detection Principles...</p></details>
+   Link:<a href="https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html" target="_blank" rel="noopener noreferrer nofollow">https://support.ircam.fr/docs/AudioSculpt/3.0/co/Transients%20Method.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction - Transient Detection Principles...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAuditory brainstem response to complex sounds: a tutorial  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2868335/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The role of transients in auditory processing  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of transients in auditory processing - ScienceDirectMay 1, 2007...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0303264706002577</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of transients in auditory processing - ScienceDirectMay 1, 2007...</p></details>
    Published: May 1, 2007  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2006 — HEARING RESEARCH Volume 218, Issues 1–2, August 2006, Pages 50-63 Research paper From noise to pitch: Trans...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378595506001213</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2006 — HEARING RESEARCH Volume 218, Issues 1–2, August 2006, Pages 50-63 Research paper From noise to pitch: Trans...</p></details>
    Published: August 1, 2006  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30823780/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30823780/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifying the perceptual relevance of onset transients for musical instrument [identification](&amp;#123;&amp;#123; &#x27;identification/&#x27; | relative_url &amp;#125;&amp;#125;) - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30823780/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30823780/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Specifying the perceptual relevance of onset transients for musical instrument [identification](&amp;#123;&amp;#123; &#x27;identification/&#x27; | relative_url &amp;#125;&amp;#125;) - PubMed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31142750/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31142750/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 May 29;9(1):8005. doi: 10.1038/s41598-019-43126-5. THE TIME COURSE OF AUDITORY RECOGNITION MEASURED WITH RAPID SEQUENCES OF SHORT NA...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31142750/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31142750/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2019 May 29;9(1):8005. doi: 10.1038/s41598-019-43126-5. THE TIME COURSE OF AUDITORY RECOGNITION MEASURED WITH RAPID SEQUENCES OF SHORT NA...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20084007/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20084007/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient and sustained features in… Figure 1. Transient and sustained features in the cABR to /dɑ/ Time-domain representation of a… Figu...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20084007/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20084007/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transient and sustained features in… Figure 1. Transient and sustained features in the cABR to /dɑ/ Time-domain representation of a… Figu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22559384/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22559384/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2012 May;131(5):4124-33. doi: 10.1121/1.3701865. FAST RECOGNITION OF MUSICAL SOUNDS BASED ON TIMBRE Trevor R Agus^{ 1 }, Clara Suied, Sim...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22559384/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22559384/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2012 May;131(5):4124-33. doi: 10.1121/1.3701865. FAST RECOGNITION OF MUSICAL SOUNDS BASED ON TIMBRE Trevor R Agus^{ 1 }, Clara Suied, Sim...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound &quot;quality&quot; or &quot;timbre&quot; describes those characteristics of sound which allow the ear to distinguish sounds which have...</p></details>
+   Link:<a href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound &quot;quality&quot; or &quot;timbre&quot; describes those characteristics of sound which allow the ear to distinguish sounds which have...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognition Volume 8 - 2017 | [https://doi.org/10.3389/fpsyg.2017.00587](https://doi.org/10.3389/fpsyg.2017.00587) PERCEPTUALLY SALIENT REGIONS OF THE MODULATION POWER SPECTRUM FOR MU...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00587/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognition Volume 8 - 2017 | [https://doi.org/10.3389/fpsyg.2017.00587](https://doi.org/10.3389/fpsyg.2017.00587) PERCEPTUALLY SALIENT REGIONS OF THE MODULATION POWER SPECTRUM FOR MU...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/3860853" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/3860853</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2019 — Published February 26, 2019 | Version v1 Journal article Open SPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
+   Link:<a href="https://zenodo.org/records/3860853" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/3860853</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2019 — Published February 26, 2019 | Version v1 Journal article Open SPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
    Published: February 26, 2019  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: colab.ws  
-   Link: <a href="https://colab.ws/articles/10.1121%2F1.5091778" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1121%2F1.5091778</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifying the perceptual relevance of onset transients for musical instrument identification | CoLabFebruary 1, 2019 — Journal of the Ac...</p></details>
+   Link:<a href="https://colab.ws/articles/10.1121%2F1.5091778" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1121%2F1.5091778</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Specifying the perceptual relevance of onset transients for musical instrument identification | CoLabFebruary 1, 2019 — Journal of the Ac...</p></details>
    Published: February 1, 2019  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4OAM31b9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4OAM31b9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the perceptual relevance of onset transients for musical instrument identificationSPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4OAM31b9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4OAM31b9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the perceptual relevance of onset transients for musical instrument identificationSPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pure.qub.ac.uk  
    Title: qub.ac.uk Auditory gist: Recognition of very short sounds from timbre cues  
-   Link: <a href="https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/" target="_blank" rel="noopener noreferrer nofollow">https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Agus *, Simon J. Thorpe *, Nima Mesgarani *, Daniel Pressnitzer Research output: Contribution to jour...</p></details>
+   Link:<a href="https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/" target="_blank" rel="noopener noreferrer nofollow">https://pure.qub.ac.uk/en/publications/auditory-gist-recognition-of-very-short-sounds-from-timbre-cues/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agus *, Simon J. Thorpe *, Nima Mesgarani *, Daniel Pressnitzer Research output: Contribution to jour...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: audiolabs-erlangen.de  
    Title: An overview of onset detection methods can also be found  
-   Link: <a href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html" target="_blank" rel="noopener noreferrer nofollow">https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C6S1_OnsetDetectionONSET DETECTION Following Section 6.1 of [Müller, FMP, Springer 2015], we introduce in this notebook the task referred...</p></details>
+   Link:<a href="https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html" target="_blank" rel="noopener noreferrer nofollow">https://www.audiolabs-erlangen.de/resources/MIR/FMP/C6/C6S1_OnsetDetection.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C6S1_OnsetDetectionONSET DETECTION Following Section 6.1 of [Müller, FMP, Springer 2015], we introduce in this notebook the task referred...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Jul 12;118(4):2358–2370. doi: 10.1152/jn.01048.2015 INFLUENCE OF ENVELOPE WAVEFORM ON ITD SENSITIVITY OF NEURONS IN THE AUDITORY MID...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5646199/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2017 Jul 12;118(4):2358–2370. doi: 10.1152/jn.01048.2015 INFLUENCE OF ENVELOPE WAVEFORM ON ITD SENSITIVITY OF NEURONS IN THE AUDITORY MID...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Analyzing Attack Transients: The Fingerprints of Musical Instruments  
-   Link: <a href="https://www.youtube.com/watch?v=gJ9i_B6Z76g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gJ9i_B6Z76g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing the Beginning: The Perceptual Role of Rapid Onset Cues...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gJ9i_B6Z76g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gJ9i_B6Z76g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing the Beginning: The Perceptual Role of Rapid Onset Cues...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Science of Sound: Why Transients Matter for Recognition  
-   Link: <a href="https://www.youtube.com/watch?v=kYyAedLpe60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYyAedLpe60</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Attack Transients: The Fingerprints of Musical Instruments...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYyAedLpe60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYyAedLpe60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Attack Transients: The Fingerprints of Musical Instruments...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Hearing the Beginning: The Perceptual Role of Rapid Onset Cues  
-   Link: <a href="https://www.youtube.com/watch?v=I78s7-j_kXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I78s7-j_kXo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Engineering Essentials: Shaping and Detecting Transients...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I78s7-j_kXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I78s7-j_kXo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio Engineering Essentials: Shaping and Detecting Transients...</p></details>

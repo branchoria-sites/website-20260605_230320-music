@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-rhythm-body-movement/
 description: Focused pages that expand on Rhythm.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_rhythm_body_movement_c121e4
 parent_title: Rhythm
@@ -16,7 +16,7 @@ parent_permalink: /rhythm/
 
 # Explore Topics in Rhythm
 
-The following pages expand on the main **[Rhythm]({{ '/rhythm/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Rhythm]({{ '/rhythm/' | relative_url }})** page and cover its key branches in.
 
 - [Beat Brain]({{ '/beat-brain/' | relative_url }})
 - [Hooks]({{ '/hooks/' | relative_url }})

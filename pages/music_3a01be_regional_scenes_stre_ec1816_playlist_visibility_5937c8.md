@@ -277,15 +277,15 @@ image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibili
 Streaming removed many of the old barriers that kept regional music confined to local radio, [physical]({{ 'physical/' | relative_url }}) distribution networks or specialist record shops. A track from Johannesburg, Lagos, Monterrey or Glasgow can now be available worldwide the moment it is uploaded. Yet availability and discoverability are not the same thing. The new border is visibility.
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-1-dark.svg" | relative_url }}" alt="Playlist Gate illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For most listeners, music is not found by searching through millions of tracks. It arrives through playlists, recommendation feeds, personalised mixes and automated suggestions. As a result, the key question is no longer whether regional music can cross borders, but whether platform systems decide it deserves [attention]({{ 'attention/' | relative_url }}). In the streaming era, playlists function as a gate between global availability and actual listening. They determine which local scenes become international success stories and which remain effectively invisible despite being technically accessible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Locating Power in Platformization: Music Streaming</span><span class="citation-popover-snippet">ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</span><span class="citation-popover-meta">Published: June 18, 2020</span></span></span>
+For most listeners, music is not found by searching through millions of tracks. It arrives through playlists, recommendation feeds, personalised mixes and automated suggestions. As a result, the key question is no longer whether regional music can cross borders, but whether platform systems decide it deserves [attention]({{ 'attention/' | relative_url }}). In the streaming era, playlists function as a gate between global availability and actual listening. They determine which local scenes become international success stories and which remain effectively invisible despite being technically accessible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Locating Power in Platformization: Music Streaming</span><span class="citation-popover-snippet">ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</span><span class="citation-popover-meta">Published: June 18, 2020</span></span></span>
 
 ## Why Access Is Not the Same as Discovery
 
 A common assumption about streaming is that equal [access]({{ 'access/' | relative_url }}) creates equal opportunity. In practice, most music exists beyond the listener's field of view.
 
-Recommendation systems and playlists organise overwhelming catalogues into manageable experiences. Platforms increasingly rely on combinations of editorial curation and algorithmic ranking to decide what appears in front of users. Spotify itself describes recommendations as a mixture of human editorial decisions and algorithmic systems designed around listener behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — Some recommendations are based on editorial curation, like a pop playlist cr...</span></span></span>
+Recommendation systems and playlists organise overwhelming catalogues into manageable experiences. Platforms increasingly rely on combinations of editorial curation and algorithmic ranking to decide what appears in front of users. Spotify itself describes recommendations as a mixture of human editorial decisions and algorithmic systems designed around listener behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — Some recommendations are based on editorial curation, like a pop playlist cr...</span></span></span>
 
-This creates a distinction between being present and being visible. A regional artist may be available in 180 countries yet receive little international attention if the track never enters influential playlists or recommendation loops. Researchers studying music recommender systems argue that these systems shape which works circulate culturally and economically, influencing which artists remain peripheral and which become central. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Music recommender systems and the copyright blind spot</span><span class="citation-popover-snippet">OUP AcademicMusic recommender systems and the copyright blind spotApril 23, 2026 — by K Szkalej · 2026 — Music recommender systems struct...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
+This creates a distinction between being present and being visible. A regional artist may be available in 180 countries yet receive little international attention if the track never enters influential playlists or recommendation loops. Researchers studying music recommender systems argue that these systems shape which works circulate culturally and economically, influencing which artists remain peripheral and which become central.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Music recommender systems and the copyright blind spot</span><span class="citation-popover-snippet">OUP AcademicMusic recommender systems and the copyright blind spotApril 23, 2026 — by K Szkalej · 2026 — Music recommender systems struct...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
 The practical effect is that distribution has become abundant while attention remains scarce. [Regional scenes]({{ 'regional-scenes/' | relative_url }}) no longer face a hard border at the point of access; they face a softer but equally powerful border at the point of discovery.
 
@@ -297,7 +297,7 @@ The playlist is not merely a container for songs. It is a mechanism that transfo
 
 ### Editorial playlists as cultural checkpoints
 
-Large editorial playlists remain among the most powerful promotional spaces in streaming. These playlists are curated by platform staff and can expose artists to millions of listeners at once. Placement often acts as a signal that a track deserves broader attention, increasing streams, shares and further algorithmic exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial PlaylistsMar 15, 2026 — Editorial playlists are the most coveted form of playlist placement. Unlike...</span></span></span>
+Large editorial playlists remain among the most powerful promotional spaces in streaming. These playlists are curated by platform staff and can expose artists to millions of listeners at once. Placement often acts as a signal that a track deserves broader attention, increasing streams, shares and further algorithmic exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify editorial playlist</span><span class="citation-popover-snippet">Understanding Spotify Editorial PlaylistsMar 15, 2026 — Editorial playlists are the most coveted form of playlist placement. Unlike...</span></span></span>
 
 For regional genres, editorial playlists can effectively translate a local sound into a global category. A track may move from a city-based scene into international circulation once it appears in a playlist that introduces unfamiliar music to listeners outside its original context.
 
@@ -305,7 +305,7 @@ Because editorial slots are limited, however, platforms make choices about which
 
 ### Algorithmic playlists as amplification systems
 
-Personalised playlists such as [Discover Weekly]({{ 'discover-weekly/' | relative_url }}), Release Radar and similar recommendation products operate differently. Rather than selecting one global playlist for everyone, they use listener behaviour, metadata and engagement signals to determine what each user sees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">behind the playlists your questions answered by our playlist editors</span><span class="citation-popover-snippet">Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Additionally, many of our moods and moments-base...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Spotify has been working to create a better...</span></span></span>
+Personalised playlists such as [Discover Weekly]({{ 'discover-weekly/' | relative_url }}), Release Radar and similar recommendation products operate differently. Rather than selecting one global playlist for everyone, they use listener behaviour, metadata and engagement signals to determine what each user sees.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">behind the playlists your questions answered by our playlist editors</span><span class="citation-popover-snippet">Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Additionally, many of our moods and moments-base...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">humans machines a look behind spotifys algotorial playlists</span><span class="citation-popover-snippet">Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Spotify has been working to create a better...</span></span></span>
 
 This creates a feedback process:
 
@@ -319,7 +319,7 @@ This creates a feedback process:
 
 </div>
 
-The process can help regional music travel rapidly when early signals are strong. Yet it can also reinforce existing advantages. Artists who already receive attention generate more data, making them easier for recommendation systems to classify and promote. Researchers frequently describe this as a form of popularity bias within recommender systems. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2106.02415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The process can help regional music travel rapidly when early signals are strong. Yet it can also reinforce existing advantages. Artists who already receive attention generate more data, making them easier for recommendation systems to classify and promote. Researchers frequently describe this as a form of popularity bias within recommender systems. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2106.02415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-2-dark.svg" | relative_url }}" alt="Playlist Gate illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Which Scenes Get Stuck Below Visibility Thresholds
@@ -333,26 +333,26 @@ Several factors can contribute:
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * **Limited early data:** Smaller scenes generate fewer signals for recommendation systems.
-* **Metadata disadvantages:** Genres, languages and local categories may be classified inconsistently, making discovery harder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.music-tomorrow.com/blog/understanding-music-discovery-algorithms-how-to-amplify-an-artists-visibility-across-streaming-platforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-tomorrow.com">[music-tomorrow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-tomorrow.com</span><span class="citation-popover-snippet">To best leverage them, 1/ get metadata right when distributing songs to streaming platforms.Read more...</span></span></span>
-* **Popularity bias:** Systems often favour content with stronger existing engagement histories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The performance of recommender systems highly impacts both music streaming platform users and the artists providing music.Read more...</span></span></span>
-* **Commercial incentives:** Platforms optimise for engagement and retention, which may favour proven performers over uncertain discoveries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 57 — The impact of streaming platforms on musical pro...</span></span></span>
+* **Metadata disadvantages:** Genres, languages and local categories may be classified inconsistently, making discovery harder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.music-tomorrow.com/blog/understanding-music-discovery-algorithms-how-to-amplify-an-artists-visibility-across-streaming-platforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-tomorrow.com">[music-tomorrow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-tomorrow.com</span><span class="citation-popover-snippet">To best leverage them, 1/ get metadata right when distributing songs to streaming platforms.Read more...</span></span></span>
+* **Popularity bias:** Systems often favour content with stronger existing engagement histories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The performance of recommender systems highly impacts both music streaming platform users and the artists providing music.Read more...</span></span></span>
+* **Commercial incentives:** Platforms optimise for engagement and retention, which may favour proven performers over uncertain discoveries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 57 — The impact of streaming platforms on musical pro...</span></span></span>
 
 </div>
 
 This helps explain why some regional movements suddenly appear global while others remain difficult to find. The difference is often less about artistic quality than about whether a scene accumulates enough signals to cross recommendation thresholds.
 
-Research into music-streaming fairness increasingly focuses on exactly this problem: who gets surfaced, who remains hidden, and how platform design shapes cultural outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fairmuse.eu/news-release/what-the-data-reveals-diversity-and-inequality-in-music-streaming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairmuse.eu">[FairMUSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairmuse.eu</span><span class="citation-popover-title">what the data reveals diversity and inequality in music streaming</span><span class="citation-popover-snippet">What the Data Reveals: Diversity and Inequality in Music...28 May 2025 — This research aims to uncover hidden patterns, structur...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Research into music-streaming fairness increasingly focuses on exactly this problem: who gets surfaced, who remains hidden, and how platform design shapes cultural outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fairmuse.eu/news-release/what-the-data-reveals-diversity-and-inequality-in-music-streaming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairmuse.eu">[FairMUSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairmuse.eu</span><span class="citation-popover-title">what the data reveals diversity and inequality in music streaming</span><span class="citation-popover-snippet">What the Data Reveals: Diversity and Inequality in Music...28 May 2025 — This research aims to uncover hidden patterns, structur...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-3-dark.svg" | relative_url }}" alt="Playlist Gate illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Debate Over Fairness and Transparency
 
 The growing influence of playlists has produced concerns about transparency.
 
-Artists interviewed in academic studies consistently identify audience reach, recommendation visibility and popularity bias as central fairness issues. Many report that they understand streaming platforms as systems that can strongly influence listening behaviour while revealing little about how exposure decisions are made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2106.02415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Artists interviewed in academic studies consistently identify audience reach, recommendation visibility and popularity bias as central fairness issues. Many report that they understand streaming platforms as systems that can strongly influence listening behaviour while revealing little about how exposure decisions are made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2106.02415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The debate extends beyond algorithms themselves. Scholars analysing playlist [culture]({{ 'culture/' | relative_url }}) argue that playlists represent a form of curatorial power: platforms do not simply host music but actively organise attention. The power once associated with radio programmers, television channels or record-store buyers has partly shifted into digital recommendation systems and playlist infrastructures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Locating Power in Platformization: Music Streaming</span><span class="citation-popover-snippet">ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</span><span class="citation-popover-meta">Published: June 18, 2020</span></span></span>
+The debate extends beyond algorithms themselves. Scholars analysing playlist [culture]({{ 'culture/' | relative_url }}) argue that playlists represent a form of curatorial power: platforms do not simply host music but actively organise attention. The power once associated with radio programmers, television channels or record-store buyers has partly shifted into digital recommendation systems and playlist infrastructures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Locating Power in Platformization: Music Streaming</span><span class="citation-popover-snippet">ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</span><span class="citation-popover-meta">Published: June 18, 2020</span></span></span>
 
-Recent discussions around promotional tools such as Spotify's Discovery Mode have intensified these concerns. Critics argue that systems which exchange economic concessions for increased algorithmic exposure risk creating a visibility market in which better-resourced participants gain additional advantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">behind the playlists your questions answered by our playlist editors</span><span class="citation-popover-snippet">Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Additionally, many of our moods and moments-base...</span></span></span>
+Recent discussions around promotional tools such as Spotify's Discovery Mode have intensified these concerns. Critics argue that systems which exchange economic concessions for increased algorithmic exposure risk creating a visibility market in which better-resourced participants gain additional advantages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">behind the playlists your questions answered by our playlist editors</span><span class="citation-popover-snippet">Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Additionally, many of our moods and moments-base...</span></span></span>
 
 The broader question is not whether recommendations should exist. Modern streaming catalogues are too large to navigate without them. The question is how much influence recommendation systems should have over cultural visibility, and whether listeners can meaningfully understand the forces shaping their musical choices.
 
@@ -362,199 +362,199 @@ Regional music now crosses national borders more easily than at any previous mom
 
 The challenge facing many local scenes is no longer uploading music to a global platform. It is entering the playlists, recommendation loops and discovery systems that determine what listeners encounter. Streaming has replaced geographical borders with attention borders. A song can be globally available and still effectively invisible.
 
-That makes playlist visibility one of the most important mechanisms in the international travel of regional music. The artists and scenes that cross this border gain access to worldwide audiences. Those that do not may remain hidden beneath the surface of an apparently open global catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Music recommender systems and the copyright blind spot</span><span class="citation-popover-snippet">OUP AcademicMusic recommender systems and the copyright blind spotApril 23, 2026 — by K Szkalej · 2026 — Music recommender systems struct...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Locating Power in Platformization: Music Streaming</span><span class="citation-popover-snippet">ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</span><span class="citation-popover-meta">Published: June 18, 2020</span></span></span>
+That makes playlist visibility one of the most important mechanisms in the international travel of regional music. The artists and scenes that cross this border gain access to worldwide audiences. Those that do not may remain hidden beneath the surface of an apparently open global catalogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Music recommender systems and the copyright blind spot</span><span class="citation-popover-snippet">OUP AcademicMusic recommender systems and the copyright blind spotApril 23, 2026 — by K Szkalej · 2026 — Music recommender systems struct...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Locating Power in Platformization: Music Streaming</span><span class="citation-popover-snippet">ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</span><span class="citation-popover-meta">Published: June 18, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/omybX4FhZhc" title="How To Get On Spotify Editorial Playlists (Step-By-Step)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=omybX4FhZhc" target="_blank" rel="noopener noreferrer">How To Get On Spotify Editorial Playlists (Step-By-Step)</a></p><p class="youtube-embed-meta">Channel: Orpheus Audio Academy &middot; Views: 553 &middot; Uploaded: February 2022 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=omybX4FhZhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=omybX4FhZhc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The New Border Is Platform Visibility. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The New Border Is Platform Visibility. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides context for changing distribution and discovery systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for changing distribution and discovery systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Streaming around the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ILBWEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Streaming around the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Streaming around the World">Music Streaming around the World</a>
-        </h4>
-        <p class="fr-book-author">By David Hesmondhalgh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Streaming around the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ILBWEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Streaming around the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Streaming around the World">Music Streaming around the World</a>
+</h4>
+<p class="fr-book-author">By David Hesmondhalgh</p>
         
-        <p class="fr-book-desc">Focused on streaming platforms and music circulation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on streaming platforms and music circulation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
+</h4>
+<p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
         
-        <p class="fr-book-desc">Explains how platform ecosystems shape visibility and access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how platform ecosystems shape visibility and access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+by+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-        </h4>
-        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+</h4>
+<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-        <p class="fr-book-desc">Helps readers understand how behavior data influences decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how behavior data influences decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Streaming around the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Streaming around the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sCYAAeSw6SNp1~bf/s-l225.jpg" alt="Listing image for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sCYAAeSw6SNp1~bf/s-l225.jpg" alt="Listing image for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CXwAAeSwMmVp1TrY/s-l225.jpg" alt="Listing image for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CXwAAeSwMmVp1TrY/s-l225.jpg" alt="Listing image for Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">Cassette Tape Music 80s Playlist Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UAU [PLAYLIST #YOUR YOUTH] 2nd Mini Album COMPACT Ver./CD-R+Poster+4 Card+GIFT"><img src="https://i.ebayimg.com/images/g/5ZMAAeSwURVqK6kr/s-l225.jpg" alt="Listing image for UAU [PLAYLIST #YOUR YOUTH] 2nd Mini Album COMPACT Ver./CD-R+Poster+4 Card+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">UAU [PLAYLIST #YOUR YOUTH] 2nd Mini Album COMPACT Ver./CD-R+Poster+4 Card+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UAU [PLAYLIST #YOUR YOUTH] 2nd Mini Album COMPACT Ver./CD-R+Poster+4 Card+GIFT"><img src="https://i.ebayimg.com/images/g/5ZMAAeSwURVqK6kr/s-l225.jpg" alt="Listing image for UAU [PLAYLIST #YOUR YOUTH] 2nd Mini Album COMPACT Ver./CD-R+Poster+4 Card+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">UAU [PLAYLIST #YOUR YOUTH] 2nd Mini Album COMPACT Ver./CD-R+Poster+4 Card+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UAU PLAYLIST #YOUR YOUTH 2nd Mini Album PHOTO BOOK Ver/CD+Book+2Card+Poster+GIFT"><img src="https://i.ebayimg.com/images/g/NEYAAeSwTAVqK61t/s-l225.jpg" alt="Listing image for UAU PLAYLIST #YOUR YOUTH 2nd Mini Album PHOTO BOOK Ver/CD+Book+2Card+Poster+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">UAU PLAYLIST #YOUR YOUTH 2nd Mini Album PHOTO BOOK Ver/CD+Book+2Card+Poster+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UAU PLAYLIST #YOUR YOUTH 2nd Mini Album PHOTO BOOK Ver/CD+Book+2Card+Poster+GIFT"><img src="https://i.ebayimg.com/images/g/NEYAAeSwTAVqK61t/s-l225.jpg" alt="Listing image for UAU PLAYLIST #YOUR YOUTH 2nd Mini Album PHOTO BOOK Ver/CD+Book+2Card+Poster+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">UAU PLAYLIST #YOUR YOUTH 2nd Mini Album PHOTO BOOK Ver/CD+Book+2Card+Poster+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music playlist poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music playlist poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+playlist+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-new-border-is-platform-visibility-music-playlist-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music playlist poster" data-ebay-reference="the-new-border-is-platform-visibility-music-playlist-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ That makes playlist visibility one of the most important mechanisms in the inter
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ That makes playlist visibility one of the most important mechanisms in the inter
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ That makes playlist visibility one of the most important mechanisms in the inter
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ That makes playlist visibility one of the most important mechanisms in the inter
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ That makes playlist visibility one of the most important mechanisms in the inter
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,220 +760,220 @@ That makes playlist visibility one of the most important mechanisms in the inter
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Locating Power in Platformization: Music Streaming  
-   Link: <a href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342295526_Locating_Power_in_Platformization_Music_Streaming_Playlists_and_Curatorial_Power</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Locating Power in Platformization: Music Streaming...June 18, 2020 — 1 Jun 2020 — This article analyzes platform power...</p></details>
    Published: June 18, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fairmuse.eu  
-   Link: <a href="https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Analysis of Music Recommender...by H Ranaivoson · Cited by 2 — A Comprehensive Analysis of Music Recommender Systems, Pl...</p></details>
+   Link:<a href="https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Analysis of Music Recommender...by H Ranaivoson · Cited by 2 — A Comprehensive Analysis of Music Recommender Systems, Pl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — Some recommendations are based on editorial curation, like a pop playlist cr...</p></details>
+   Link:<a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — Some recommendations are based on editorial curation, like a pop playlist cr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
    Title: Academic Music recommender systems and the copyright blind spot  
-   Link: <a href="https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicMusic recommender systems and the copyright blind spotApril 23, 2026 — by K Szkalej · 2026 — Music recommender systems struct...</p></details>
+   Link:<a href="https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jiplp/advance-article/doi/10.1093/jiplp/jpag045/8661314</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicMusic recommender systems and the copyright blind spotApril 23, 2026 — by K Szkalej · 2026 — Music recommender systems struct...</p></details>
    Published: April 23, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The performance of recommender systems highly impacts both music streaming platform users and the artists providing music.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The performance of recommender systems highly impacts both music streaming platform users and the artists providing music.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: orphiq.com  
    Title: spotify editorial playlist  
-   Link: <a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial PlaylistsMar 15, 2026 — Editorial playlists are the most coveted form of playlist placement. Unlike...</p></details>
+   Link:<a href="https://orphiq.com/resources/spotify-editorial-playlist" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-editorial-playlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify Editorial PlaylistsMar 15, 2026 — Editorial playlists are the most coveted form of playlist placement. Unlike...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: artists.spotify.com  
    Title: behind the playlists your questions answered by our playlist editors  
-   Link: <a href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Additionally, many of our moods and moments-base...</p></details>
+   Link:<a href="https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Additionally, many of our moods and moments-base...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Algorithmic playlists like Discover Weekly and R...</p></details>
+   Link:<a href="https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/behind-the-playlists-your-questions-answered-by-our-playlist-editors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsBehind the Playlists: Your Questions Answered by Our...23 Jul 2020 — Algorithmic playlists like Discover Weekly and R...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2106.02415" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2106.02415</a>  
+   Link:<a href="https://arxiv.org/abs/2106.02415" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2106.02415</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393661066_Algorithmic_Fairness_in_Music_Streaming_Platforms_Who_or_What_Determines_the_Success_of_Artists" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393661066_Algorithmic_Fairness_in_Music_Streaming_Platforms_Who_or_What_Determines_the_Success_of_Artists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming platforms like Spotify...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393661066_Algorithmic_Fairness_in_Music_Streaming_Platforms_Who_or_What_Determines_the_Success_of_Artists" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393661066_Algorithmic_Fairness_in_Music_Streaming_Platforms_Who_or_What_Determines_the_Success_of_Artists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming platforms like Spotify...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: music-tomorrow.com  
-   Link: <a href="https://www.music-tomorrow.com/blog/understanding-music-discovery-algorithms-how-to-amplify-an-artists-visibility-across-streaming-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/understanding-music-discovery-algorithms-how-to-amplify-an-artists-visibility-across-streaming-platforms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To best leverage them, 1/ get metadata right when distributing songs to streaming platforms.Read more...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/understanding-music-discovery-algorithms-how-to-amplify-an-artists-visibility-across-streaming-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/understanding-music-discovery-algorithms-how-to-amplify-an-artists-visibility-across-streaming-platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To best leverage them, 1/ get metadata right when distributing songs to streaming platforms.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 57 — The impact of streaming platforms on musical pro...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 57 — The impact of streaming platforms on musical pro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fairmuse.eu  
    Title: what the data reveals diversity and inequality in music streaming  
-   Link: <a href="https://fairmuse.eu/news-release/what-the-data-reveals-diversity-and-inequality-in-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/news-release/what-the-data-reveals-diversity-and-inequality-in-music-streaming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Data Reveals: Diversity and Inequality in Music...28 May 2025 — This research aims to uncover hidden patterns, structur...</p></details>
+   Link:<a href="https://fairmuse.eu/news-release/what-the-data-reveals-diversity-and-inequality-in-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/news-release/what-the-data-reveals-diversity-and-inequality-in-music-streaming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Data Reveals: Diversity and Inequality in Music...28 May 2025 — This research aims to uncover hidden patterns, structur...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: music-tomorrow.com  
    Title: fairness transparency music recommender systems  
-   Link: <a href="https://music-tomorrow.com/blog/fairness-transparency-music-recommender-systems" target="_blank" rel="noopener noreferrer nofollow">https://music-tomorrow.com/blog/fairness-transparency-music-recommender-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness &amp; Transparency in Music Recommender Systems3 Nov 2025 — A 2025 look at the challenges of fair music discovery algorithms — from...</p></details>
+   Link:<a href="https://music-tomorrow.com/blog/fairness-transparency-music-recommender-systems" target="_blank" rel="noopener noreferrer nofollow">https://music-tomorrow.com/blog/fairness-transparency-music-recommender-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness &amp; Transparency in Music Recommender Systems3 Nov 2025 — A 2025 look at the challenges of fair music discovery algorithms — from...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: music-tomorrow.com  
    Title: algorithmic discoverability cultural fairness music streaming recommendations  
-   Link: <a href="https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A case study by Music Tomorrow and APEM on cultural fairness in music...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/algorithmic-discoverability-cultural-fairness-music-streaming-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A case study by Music Tomorrow and APEM on cultural fairness in music...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsDiscovery ModeDiscovery Mode is a tool for artists and music marketers designed to help you find new listeners when it...</p></details>
+   Link:<a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsDiscovery ModeDiscovery Mode is a tool for artists and music marketers designed to help you find new listeners when it...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: music-tomorrow.com  
-   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380940061_Mirroring_the_inequalities_of_mainstream_music_platforms_popularity_revenue_and_monetization_strategies_on_Bandcamp" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380940061_Mirroring_the_inequalities_of_mainstream_music_platforms_popularity_revenue_and_monetization_strategies_on_Bandcamp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirroring the inequalities of mainstream music platforms29 May 2024 — We study Bandcamp, an alternative marketplace that, among other thi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380940061_Mirroring_the_inequalities_of_mainstream_music_platforms_popularity_revenue_and_monetization_strategies_on_Bandcamp" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380940061_Mirroring_the_inequalities_of_mainstream_music_platforms_popularity_revenue_and_monetization_strategies_on_Bandcamp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirroring the inequalities of mainstream music platforms29 May 2024 — We study Bandcamp, an alternative marketplace that, among other thi...</p></details>
    Published: May 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.[publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;). service.gov.uk  
    Title: publishing.service.gov.uk Music and streaming  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(although not confined to new...Read more...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(although not confined to new...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: engineering.atspotify.com  
    Title: humans machines a look behind spotifys algotorial playlists  
-   Link: <a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Spotify has been working to create a better...</p></details>
+   Link:<a href="https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/04/humans-machines-a-look-behind-spotifys-algotorial-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify EngineeringHumans + Machines: A Look Behind the Playlists Powered by...27 Apr 2023 — Spotify has been working to create a better...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: loopsolitaire.co.uk  
-   Link: <a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data.Read more...</p></details>
+   Link:<a href="https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://loopsolitaire.co.uk/blog/spotify-editorial-playlists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ave on their featured artists, revealing and analyzing some in-depth data.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rebelbuzz.medium.com  
    Title: spotify playlists algorithms and power 3757316b9055  
-   Link: <a href="https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055" target="_blank" rel="noopener noreferrer nofollow">https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists, Algorithms and Power | by Leanne de SouzaSpotify usage today has expanded the algorithmically curated consumption of songs and...</p></details>
+   Link:<a href="https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055" target="_blank" rel="noopener noreferrer nofollow">https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists, Algorithms and Power | by Leanne de SouzaSpotify usage today has expanded the algorithmically curated consumption of songs and...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bytebridge.medium.com  
-   Link: <a href="https://bytebridge.medium.com/spotifys-transformative-impact-on-the-music-industry-and-its-innovative-revenue-model-b11d6b5110fd" target="_blank" rel="noopener noreferrer nofollow">https://bytebridge.medium.com/spotifys-transformative-impact-on-the-music-industry-and-its-innovative-revenue-model-b11d6b5110fd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comSpotify&#x27;s Transformative Impact on the Music Industry and Its...The Spotify algorithm influences visibility based on factors s...</p></details>
+   Link:<a href="https://bytebridge.medium.com/spotifys-transformative-impact-on-the-music-industry-and-its-innovative-revenue-model-b11d6b5110fd" target="_blank" rel="noopener noreferrer nofollow">https://bytebridge.medium.com/spotifys-transformative-impact-on-the-music-industry-and-its-innovative-revenue-model-b11d6b5110fd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comSpotify&#x27;s Transformative Impact on the Music Industry and Its...The Spotify algorithm influences visibility based on factors s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: digitalrenaissance.education  
    Title: spotify for artists pitch guide how to get your music on editorial playlists  
-   Link: <a href="https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Pitch Guide for Editorial Playlists1 Mar 2026 — Learn how to pitch to Spotify editorial playlists using metadata, tim...</p></details>
+   Link:<a href="https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalrenaissance.education/magazine/spotify-for-artists-pitch-guide-how-to-get-your-music-on-editorial-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Pitch Guide for Editorial Playlists1 Mar 2026 — Learn how to pitch to Spotify editorial playlists using metadata, tim...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: horusmusic.global  
    Title: spotifys discovery mode explained  
-   Link: <a href="https://www.horusmusic.global/spotifys-discovery-mode-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/spotifys-discovery-mode-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discovery Mode explained.4 Dec 2025 — If your music is eligible for Discovery Mode, this means that it could appear in any plac...</p></details>
+   Link:<a href="https://www.horusmusic.global/spotifys-discovery-mode-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/spotifys-discovery-mode-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discovery Mode explained.4 Dec 2025 — If your music is eligible for Discovery Mode, this means that it could appear in any plac...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l3yZ01USG8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l3yZ01USG8k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of listeners that are highly likely to like and stream your...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l3yZ01USG8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l3yZ01USG8k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of listeners that are highly likely to like and stream your...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: resources.onestowatch.com  
    Title: spotify playlists unsigned artists  
-   Link: <a href="https://resources.onestowatch.com/spotify-playlists-unsigned-artists/" target="_blank" rel="noopener noreferrer nofollow">https://resources.onestowatch.com/spotify-playlists-unsigned-artists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial playlists such as New Music Friday come from...Read more...</p></details>
+   Link:<a href="https://resources.onestowatch.com/spotify-playlists-unsigned-artists/" target="_blank" rel="noopener noreferrer nofollow">https://resources.onestowatch.com/spotify-playlists-unsigned-artists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial playlists such as New Music Friday come from...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dailyplaylists.com  
    Title: spotify algorithm  
-   Link: <a href="https://dailyplaylists.com/en/blog/spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://dailyplaylists.com/en/blog/spotify-algorithm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn How The Spotify Algorithm Works30 May 2024 — Learn the basics on the Spotify algorithm - how it creates a listener&#x27;s profile, how t...</p></details>
+   Link:<a href="https://dailyplaylists.com/en/blog/spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://dailyplaylists.com/en/blog/spotify-algorithm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn How The Spotify Algorithm Works30 May 2024 — Learn the basics on the Spotify algorithm - how it creates a listener&#x27;s profile, how t...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/plmusicpromotion/posts/25990849863900549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/plmusicpromotion/posts/25990849863900549/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms control music visibility on streaming platformsData-Driven Discovery: Algorithms track listening habits, engagement, and share...</p></details>
+   Link:<a href="https://www.facebook.com/groups/plmusicpromotion/posts/25990849863900549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/plmusicpromotion/posts/25990849863900549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms control music visibility on streaming platformsData-Driven Discovery: Algorithms track listening habits, engagement, and share...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ravensbourne.ac.uk  
-   Link: <a href="https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disprupting the Disrupters Music IndustryThe full impact of recommendation algorithms is difficult to gage and creates negative externali...</p></details>
+   Link:<a href="https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disprupting the Disrupters Music IndustryThe full impact of recommendation algorithms is difficult to gage and creates negative externali...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spotify/comments/mfzl92/list_of_spotify_editorial_playlists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spotify/comments/mfzl92/list_of_spotify_editorial_playlists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Spotify Editorial PlaylistsSpotify &quot;editorial&quot; playlists are playlists that are curated by a human being, a Spotify-employed edit...</p></details>
+   Link:<a href="https://www.reddit.com/r/spotify/comments/mfzl92/list_of_spotify_editorial_playlists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spotify/comments/mfzl92/list_of_spotify_editorial_playlists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of Spotify Editorial PlaylistsSpotify &quot;editorial&quot; playlists are playlists that are curated by a human being, a Spotify-employed edit...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cirg.upol.cz  
-   Link: <a href="https://cirg.upol.cz/en/aktualita/new-study-by-petr-szczepanik-and-milos-hroch-on-algorithmic-inequality-in-spotify-playlists-released/" target="_blank" rel="noopener noreferrer nofollow">https://cirg.upol.cz/en/aktualita/new-study-by-petr-szczepanik-and-milos-hroch-on-algorithmic-inequality-in-spotify-playlists-released/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study by Petr Szczepanik and Miloš Hroch...Editorial playlists recreate the old center–periphery hierarchy: they prioritize Anglo-Americ...</p></details>
+   Link:<a href="https://cirg.upol.cz/en/aktualita/new-study-by-petr-szczepanik-and-milos-hroch-on-algorithmic-inequality-in-spotify-playlists-released/" target="_blank" rel="noopener noreferrer nofollow">https://cirg.upol.cz/en/aktualita/new-study-by-petr-szczepanik-and-milos-hroch-on-algorithmic-inequality-in-spotify-playlists-released/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study by Petr Szczepanik and Miloš Hroch...Editorial playlists recreate the old center–periphery hierarchy: they prioritize Anglo-Americ...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: submitlink.io  
    Title: get on spotify playlists a modern artist s guide to get on spotify playlists  
-   Link: <a href="https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Modern Artist&#x27;s Guide to get on spotify playlists12 Jan 2026 — Struggling to get on spotify playlists? Discover proven strategies to pr...</p></details>
+   Link:<a href="https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/get-on-spotify-playlists-a-modern-artist-s-guide-to-get-on-spotify-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Modern Artist&#x27;s Guide to get on spotify playlists12 Jan 2026 — Struggling to get on spotify playlists? Discover proven strategies to pr...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: culturaleconomics.org  
    Title: streamings uneven tune exploring the inequalities on bandcamp music platform  
-   Link: <a href="https://culturaleconomics.org/streamings-uneven-tune-exploring-the-inequalities-on-bandcamp-music-platform/" target="_blank" rel="noopener noreferrer nofollow">https://culturaleconomics.org/streamings-uneven-tune-exploring-the-inequalities-on-bandcamp-music-platform/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLORING THE INEQUALITIES ON BANDCAMP MUSIC...3 Feb 2025 — However, our research reveals that even alternative platforms mirror the ine...</p></details>
+   Link:<a href="https://culturaleconomics.org/streamings-uneven-tune-exploring-the-inequalities-on-bandcamp-music-platform/" target="_blank" rel="noopener noreferrer nofollow">https://culturaleconomics.org/streamings-uneven-tune-exploring-the-inequalities-on-bandcamp-music-platform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLORING THE INEQUALITIES ON BANDCAMP MUSIC...3 Feb 2025 — However, our research reveals that even alternative platforms mirror the ine...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sites.aub.edu.lb  
    Title: the algorithmic influence how digital platforms shape music culture  
-   Link: <a href="https://sites.aub.edu.lb/outlook/2024/02/26/the-algorithmic-influence-how-digital-platforms-shape-music-culture/" target="_blank" rel="noopener noreferrer nofollow">https://sites.aub.edu.lb/outlook/2024/02/26/the-algorithmic-influence-how-digital-platforms-shape-music-culture/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Influence: How Digital Platforms Shape Music...26 Feb 2024 — This article will explore how streaming and algorithms are not...</p></details>
+   Link:<a href="https://sites.aub.edu.lb/outlook/2024/02/26/the-algorithmic-influence-how-digital-platforms-shape-music-culture/" target="_blank" rel="noopener noreferrer nofollow">https://sites.aub.edu.lb/outlook/2024/02/26/the-algorithmic-influence-how-digital-platforms-shape-music-culture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Influence: How Digital Platforms Shape Music...26 Feb 2024 — This article will explore how streaming and algorithms are not...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ualresearchonline.arts.ac.uk  
    Title: Beyond the black box in music streaming O'Dair Fry.docx  
-   Link: <a href="https://ualresearchonline.arts.ac.uk/id/eprint/14616/1/Beyond_the_black_box_in_music_streaming-O%27Dair-Fry.docx" target="_blank" rel="noopener noreferrer nofollow">https://ualresearchonline.arts.ac.uk/id/eprint/14616/1/Beyond_the_black_box_in_music_streaming-O%27Dair-Fry.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the black box in music streamingby M O&#x27;Dair · 2019 · Cited by 74 — Beyond the black box in music streaming: the impact of recommendation...</p></details>
+   Link:<a href="https://ualresearchonline.arts.ac.uk/id/eprint/14616/1/Beyond_the_black_box_in_music_streaming-O%27Dair-Fry.docx" target="_blank" rel="noopener noreferrer nofollow">https://ualresearchonline.arts.ac.uk/id/eprint/14616/1/Beyond_the_black_box_in_music_streaming-O%27Dair-Fry.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the black box in music streamingby M O&#x27;Dair · 2019 · Cited by 74 — Beyond the black box in music streaming: the impact of recommendation...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: bandzoogle.com  
    Title: how to get your music featured on spotify playlists  
-   Link: <a href="https://bandzoogle.com/blog/how-to-get-your-music-featured-on-spotify-playlists" target="_blank" rel="noopener noreferrer nofollow">https://bandzoogle.com/blog/how-to-get-your-music-featured-on-spotify-playlists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial playlists. Spotify&#x27;s editorial team curates playlists based on music trends and data. Many of these playlists have several edit...</p></details>
+   Link:<a href="https://bandzoogle.com/blog/how-to-get-your-music-featured-on-spotify-playlists" target="_blank" rel="noopener noreferrer nofollow">https://bandzoogle.com/blog/how-to-get-your-music-featured-on-spotify-playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial playlists. Spotify&#x27;s editorial team curates playlists based on music trends and data. Many of these playlists have several edit...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theregreview.org  
    Title: stern the inequalities of digital music streaming  
-   Link: <a href="https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Inequalities of Digital Music Streaming30 May 2024 — Artists on average are paid less than one-tenth of a cent [per stream](&amp;#123;&amp;#123; &#x27;per-stream/&#x27; | relative_url &amp;#125;&amp;#125;) on Spotify...</p></details>
+   Link:<a href="https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.theregreview.org/2024/05/30/stern-the-inequalities-of-digital-music-streaming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Inequalities of Digital Music Streaming30 May 2024 — Artists on average are paid less than one-tenth of a cent [per stream](&amp;#123;&amp;#123; &#x27;per-stream/&#x27; | relative_url &amp;#125;&amp;#125;) on Spotify...</p></details>
    Published: May 2024

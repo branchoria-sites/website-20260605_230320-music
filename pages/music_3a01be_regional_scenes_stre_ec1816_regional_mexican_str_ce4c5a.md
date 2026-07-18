@@ -268,16 +268,16 @@ image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_
 
 ## Introduction
 
-Regional Mexican music has become one of the clearest examples of how a locally rooted genre can turn into a cross-border streaming force without abandoning its identity. Rather than succeeding by becoming less Mexican, the genre expanded by connecting listeners who already moved between cultural worlds: audiences in Mexico, Mexican-American communities in the United States, and younger bilingual listeners whose playlists combine regional traditions with hip-hop, pop and digital [culture]({{ 'culture/' | relative_url }}). By 2023, Regional Mexican music had grown by 60% in U.S. on-demand audio streams and generated 21.9 billion streams in the American market alone, making it one of the fastest-growing music categories in the streaming era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
+Regional Mexican music has become one of the clearest examples of how a locally rooted genre can turn into a cross-border streaming force without abandoning its identity. Rather than succeeding by becoming less Mexican, the genre expanded by connecting listeners who already moved between cultural worlds: audiences in Mexico, Mexican-American communities in the United States, and younger bilingual listeners whose playlists combine regional traditions with hip-hop, pop and digital [culture]({{ 'culture/' | relative_url }}). By 2023, Regional Mexican music had grown by 60% in U.S. on-demand audio streams and generated 21.9 billion streams in the American market alone, making it one of the fastest-growing music categories in the streaming era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a-Illustration-1-dark.svg" | relative_url }}" alt="Regional Mexican illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The story is not simply about one breakout star. It is about how migration, family networks, language, social media and streaming platforms combined to create a feedback loop between Mexico and the United States. That loop transformed a genre often labelled “regional” into a genuinely transnational phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
+The story is not simply about one breakout star. It is about how migration, family networks, language, social media and streaming platforms combined to create a feedback loop between Mexico and the United States. That loop transformed a genre often labelled “regional” into a genuinely transnational phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
 
 ## Why US and Mexico Listening Reinforced Each Other
 
 Regional Mexican music entered the streaming age with an advantage that many local genres lack: a large audience already spread across national borders. Decades of migration created communities whose cultural lives connected cities in Mexico with California, Texas, Arizona, Illinois and many other parts of the United States. Streaming did not create those links; it made them measurable and scalable.
 
-Luminate's 2023 findings showed that Regional Mexican music consumption was especially concentrated in the U.S. West Coast and Southwest, closely matching long-established Hispanic population patterns. The same research also found that [Latin music]({{ 'latin-music/' | relative_url }}) fans frequently discover music through friends and relatives, highlighting how family and community networks remain central even in a digital environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
+Luminate's 2023 findings showed that Regional Mexican music consumption was especially concentrated in the U.S. West Coast and Southwest, closely matching long-established Hispanic population patterns. The same research also found that [Latin music]({{ 'latin-music/' | relative_url }}) fans frequently discover music through friends and relatives, highlighting how family and community networks remain central even in a digital environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
 
 This matters because streaming recommendations are influenced by listening behaviour. When large numbers of listeners on both sides of the border engage with the same artists, platforms receive a strong signal that the music has relevance beyond a single territory. Instead of remaining confined to regional [charts]({{ 'charts/' | relative_url }}), songs begin appearing in broader recommendation systems, editorial playlists and algorithmic radio streams.
 
@@ -293,7 +293,7 @@ The result was a reinforcing cycle:
 
 </div>
 
-By the end of 2023, four of the six Latin artists to exceed one billion U.S. audio streams were Mexican acts: Peso Pluma, Eslabon Armado, Junior H and Fuerza Regida. Their success demonstrated that the audience was no longer fragmented between countries but operating as a connected streaming market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
+By the end of 2023, four of the six Latin artists to exceed one billion U.S. audio streams were Mexican acts: Peso Pluma, Eslabon Armado, Junior H and Fuerza Regida. Their success demonstrated that the audience was no longer fragmented between countries but operating as a connected streaming market.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OzvoYWEAMAo" title="Nuevo Mexicano: Peso Pluma And Friends | Billboard Latin Music Week 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OzvoYWEAMAo" target="_blank" rel="noopener noreferrer">Nuevo Mexicano: Peso Pluma And Friends | Billboard Latin Music Week 2024</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 172.2K &middot; Uploaded: October 2024 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OzvoYWEAMAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OzvoYWEAMAo">Open on YouTube</a></p></div></div></div>
 
@@ -301,28 +301,28 @@ By the end of 2023, four of the six Latin artists to exceed one billion U.S. aud
 
 Peso Pluma became the most visible symbol of the genre's expansion, but his importance lies in what he revealed about the broader scene rather than in his individual success alone.
 
-His rise coincided with a period when Regional Mexican music was already accelerating. Luminate identified the genre as one of the major growth stories in the United States, while industry analysts increasingly grouped it alongside other internationally expanding genres such as Afrobeats and K-pop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">regional mexican artists are going global this year</span><span class="citation-popover-snippet">LuminateRegional Mexican Artists Are Going Global This Year &#124; LuminateJul 25, 2023 — The report highlights the success of genres like J-P...</span></span></span>
+His rise coincided with a period when Regional Mexican music was already accelerating. Luminate identified the genre as one of the major growth stories in the United States, while industry analysts increasingly grouped it alongside other internationally expanding genres such as Afrobeats and K-pop.<span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">regional mexican artists are going global this year</span><span class="citation-popover-snippet">LuminateRegional Mexican Artists Are Going Global This Year &#124; LuminateJul 25, 2023 — The report highlights the success of genres like J-P...</span></span></span>
 
-What made Peso Pluma particularly significant was his ability to connect traditional musical elements with contemporary listening habits. His recordings drew from established Regional Mexican traditions while also engaging with production styles, collaborations and online culture familiar to younger streaming audiences. This combination helped him reach listeners who might not previously have explored the genre. Billboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The genre&#x27;s growth is fueled by a young, bilingual Hispanic population with deep online engagement. Latin music&#x27;s unique blend of guitars...</span></span></span>
+What made Peso Pluma particularly significant was his ability to connect traditional musical elements with contemporary listening habits. His recordings drew from established Regional Mexican traditions while also engaging with production styles, collaborations and online culture familiar to younger streaming audiences. This combination helped him reach listeners who might not previously have explored the genre. Billboard<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The genre&#x27;s growth is fueled by a young, bilingual Hispanic population with deep online engagement. Latin music&#x27;s unique blend of guitars...</span></span></span>
 
 Several milestones illustrated the scale of the shift:
 
-* His album *Génesis* became one of the highest-charting Regional Mexican [albums]({{ 'albums/' | relative_url }}) in Billboard history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Peso_Pluma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Peso Pluma</span><span class="citation-popover-snippet">Peso Pluma</span></span></span>
-* "Ella Baila Sola", recorded with Eslabon Armado, became the first Regional Mexican song to reach the top ten of the all-genre Billboard Hot 100, peaking at number four. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
-* Major international festivals, award shows and media outlets increasingly treated Música Mexicana as part of mainstream global music culture rather than a niche regional category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/features/peso-pluma-regional-mexican-cover-story-interview-1235370073/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">peso pluma regional mexican cover story interview 1235370073</span><span class="citation-popover-snippet">Peso Pluma, Superstar: The 24-Year-Old Leading Mexican...13 Jul 2023 — Peso Pluma reflects on the growth of his concerts, regio...</span></span></span>
+* His album *Génesis* became one of the highest-charting Regional Mexican [albums]({{ 'albums/' | relative_url }}) in Billboard history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Peso_Pluma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Peso Pluma</span><span class="citation-popover-snippet">Peso Pluma</span></span></span>
+* "Ella Baila Sola", recorded with Eslabon Armado, became the first Regional Mexican song to reach the top ten of the all-genre Billboard Hot 100, peaking at number four.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
+* Major international festivals, award shows and media outlets increasingly treated Música Mexicana as part of mainstream global music culture rather than a niche regional category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/features/peso-pluma-regional-mexican-cover-story-interview-1235370073/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">peso pluma regional mexican cover story interview 1235370073</span><span class="citation-popover-snippet">Peso Pluma, Superstar: The 24-Year-Old Leading Mexican...13 Jul 2023 — Peso Pluma reflects on the growth of his concerts, regio...</span></span></span>
 
-The key point is that Peso Pluma's success did not emerge in isolation. Streaming data showed a broader ecosystem of artists benefiting from the same bicultural audience dynamics. Fuerza Regida, Junior H and Eslabon Armado were also posting extraordinary streaming numbers, indicating that listeners were embracing a scene rather than a single celebrity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
+The key point is that Peso Pluma's success did not emerge in isolation. Streaming data showed a broader ecosystem of artists benefiting from the same bicultural audience dynamics. Fuerza Regida, Junior H and Eslabon Armado were also posting extraordinary streaming numbers, indicating that listeners were embracing a scene rather than a single celebrity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a-Illustration-2-dark.svg" | relative_url }}" alt="Regional Mexican illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Language and Identity Kept Intact
 
 Many genres that cross borders eventually face pressure to adapt linguistically or stylistically to dominant international markets. Regional Mexican music offers a different model.
 
-Its streaming surge occurred while retaining Spanish-language [lyrics]({{ 'lyrics/' | relative_url }}), recognisable vocal styles and musical traditions associated with Mexican regional culture. Instead of abandoning these characteristics, artists often treated them as strengths. The growing share of Spanish-language music in U.S. streaming reflects a wider audience becoming comfortable engaging with music across language barriers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
+Its streaming surge occurred while retaining Spanish-language [lyrics]({{ 'lyrics/' | relative_url }}), recognisable vocal styles and musical traditions associated with Mexican regional culture. Instead of abandoning these characteristics, artists often treated them as strengths. The growing share of Spanish-language music in U.S. streaming reflects a wider audience becoming comfortable engaging with music across language barriers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span>
 
 For bicultural listeners, authenticity itself became part of the appeal. The music could express family histories, regional identities and cultural references that mainstream English-language genres often did not address. Younger listeners who moved between English-speaking and Spanish-speaking environments did not necessarily see a contradiction between global streaming habits and local cultural identity.
 
-At the same time, artists embraced modern distribution methods. Short-form video, streaming playlists and digital fan communities allowed Regional Mexican music to circulate widely without needing to conform completely to traditional radio [formats]({{ 'formats/' | relative_url }}). This helped preserve distinctive cultural markers while still participating in global music networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The genre&#x27;s growth is fueled by a young, bilingual Hispanic population with deep online engagement. Latin music&#x27;s unique blend of guitars...</span></span></span>
+At the same time, artists embraced modern distribution methods. Short-form video, streaming playlists and digital fan communities allowed Regional Mexican music to circulate widely without needing to conform completely to traditional radio [formats]({{ 'formats/' | relative_url }}). This helped preserve distinctive cultural markers while still participating in global music networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The genre&#x27;s growth is fueled by a young, bilingual Hispanic population with deep online engagement. Latin music&#x27;s unique blend of guitars...</span></span></span>
 
 The result was a notable inversion of an older assumption about international success. Instead of becoming less regional to travel further, Regional Mexican music often became more visible precisely because it remained culturally specific.
 
@@ -331,169 +331,169 @@ The result was a notable inversion of an older assumption about international su
 
 Regional Mexican music demonstrates that streaming's most powerful effect may not be making music universally global. Rather, it can strengthen connections between places that already share cultural ties.
 
-Mexico and the United States formed an unusually fertile environment for this process. Large bilingual audiences, constant cultural exchange and digital distribution created conditions in which a regional genre could accumulate massive scale while maintaining a clear identity. The evidence is visible in the numbers: billions of streams, multiple Mexican artists surpassing one billion U.S. streams, and sustained growth that pushed Regional Mexican music into the centre of conversations about the future of global music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
+Mexico and the United States formed an unusually fertile environment for this process. Large bilingual audiences, constant cultural exchange and digital distribution created conditions in which a regional genre could accumulate massive scale while maintaining a clear identity. The evidence is visible in the numbers: billions of streams, multiple Mexican artists surpassing one billion U.S. streams, and sustained growth that pushed Regional Mexican music into the centre of conversations about the future of global music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-title">34 global streaming growth uplift luminate releases 2023 year end music report</span><span class="citation-popover-snippet">On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</span></span></span>
 
 The genre's rise suggests that in the streaming era, local culture and international reach are not opposites. Under the right conditions, they can reinforce one another. Regional Mexican music became global not by erasing the border in its story, but by turning life on both sides of that border into a shared listening experience.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nwRH_aly718" title="Exactly Who Is Listening To Latin Music? Everyone! | Billboard Latin Music Week 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nwRH_aly718" target="_blank" rel="noopener noreferrer">Exactly Who Is Listening To Latin Music? Everyone! | Billboard Latin Music Week 2023</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 1.1K &middot; Uploaded: October 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nwRH_aly718" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nwRH_aly718">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Regional Mexican Music Crossed Borders Online. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Regional Mexican Music Crossed Borders Online. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Useful framework for understanding regional-to-global music journeys.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for understanding regional-to-global music journeys.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Streaming around the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ILBWEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Streaming around the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Streaming around the World">Music Streaming around the World</a>
-        </h4>
-        <p class="fr-book-author">By David Hesmondhalgh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Streaming around the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ILBWEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Streaming around the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Streaming around the World">Music Streaming around the World</a>
+</h4>
+<p class="fr-book-author">By David Hesmondhalgh</p>
         
-        <p class="fr-book-desc">Relevant to the streaming growth of regional Mexican music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to the streaming growth of regional Mexican music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Latin Beat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/165057-M.jpg" alt="Cover for The Latin Beat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Latin Beat">The Latin Beat</a>
-        </h4>
-        <p class="fr-book-author">By Ed Morales</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Latin Beat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/165057-M.jpg" alt="Cover for The Latin Beat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Latin Beat">The Latin Beat</a>
+</h4>
+<p class="fr-book-author">By Ed Morales</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: History, Latin American influences, Popular music, History and criticism, Music, latin american.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: History, Latin American influences, Popular music, History and criticism, Music, latin american.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
-        </h4>
-        <p class="fr-book-author">By Leila Cobo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
+</h4>
+<p class="fr-book-author">By Leila Cobo</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Latin pop (Music), History and criticism, Popular music, Musicians, Interviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Latin pop (Music), History and criticism, Popular music, Musicians, Interviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Streaming around the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Latin+Beat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Latin Beat</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Streaming around the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Latin+Beat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Latin Beat</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vivelo! Clear Channel Regional Mexican Music Promo Poster Ad Framed"><img src="{{ '/assets/images/marketplace-covers/4b7d4ef7e0f2e7dc69ce.jpg' | relative_url }}" alt="Listing image for Vivelo! Clear Channel Regional Mexican Music Promo Poster Ad Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vivelo! Clear Channel Regional Mexican Music Promo Poster Ad Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for regional mexican poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: regional mexican poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vivelo! Clear Channel Regional Mexican Music Promo Poster Ad Framed"><img src="{{ '/assets/images/marketplace-covers/4b7d4ef7e0f2e7dc69ce.jpg' | relative_url }}" alt="Listing image for Vivelo! Clear Channel Regional Mexican Music Promo Poster Ad Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vivelo! Clear Channel Regional Mexican Music Promo Poster Ad Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for regional mexican poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: regional mexican poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christian Nodal - Mexican Singer - Regional Mexican Music Star - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/05ffb6678f26a60e5e03.jpg' | relative_url }}" alt="Listing image for Christian Nodal - Mexican Singer - Regional Mexican Music Star - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Christian Nodal - Mexican Singer - Regional Mexican Music Star - POSTER 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for regional mexican poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: regional mexican poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christian Nodal - Mexican Singer - Regional Mexican Music Star - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/05ffb6678f26a60e5e03.jpg' | relative_url }}" alt="Listing image for Christian Nodal - Mexican Singer - Regional Mexican Music Star - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Christian Nodal - Mexican Singer - Regional Mexican Music Star - POSTER 20&quot;x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for regional mexican poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: regional mexican poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=regional+mexican+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="regional mexican poster -book -books" data-ebay-reference="regional-mexican-how-regional-mexican-music-crossed-borders-online-music-regional-mexican-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ The genre's rise suggests that in the streaming era, local culture and internati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ The genre's rise suggests that in the streaming era, local culture and internati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ The genre's rise suggests that in the streaming era, local culture and internati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ The genre's rise suggests that in the streaming era, local culture and internati
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ The genre's rise suggests that in the streaming era, local culture and internati
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,158 +699,158 @@ The genre's rise suggests that in the streaming era, local culture and internati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: billboard.com  
    Title: peso pluma regional mexican cover story interview 1235370073  
-   Link: <a href="https://www.billboard.com/music/features/peso-pluma-regional-mexican-cover-story-interview-1235370073/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/features/peso-pluma-regional-mexican-cover-story-interview-1235370073/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peso Pluma, Superstar: The 24-Year-Old Leading Mexican...13 Jul 2023 — Peso Pluma reflects on the growth of his [concerts](&amp;#123;&amp;#123; &#x27;concerts/&#x27; | relative_url &amp;#125;&amp;#125;), regio...</p></details>
+   Link:<a href="https://www.billboard.com/music/features/peso-pluma-regional-mexican-cover-story-interview-1235370073/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/features/peso-pluma-regional-mexican-cover-story-interview-1235370073/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peso Pluma, Superstar: The 24-Year-Old Leading Mexican...13 Jul 2023 — Peso Pluma reflects on the growth of his [concerts](&amp;#123;&amp;#123; &#x27;concerts/&#x27; | relative_url &amp;#125;&amp;#125;), regio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Peso Pluma  
-   Link: <a href="https://en.wikipedia.org/wiki/Peso_Pluma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peso_Pluma</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Peso_Pluma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Peso_Pluma</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/video/nuevo-mexicano-peso-pluma-and-friends-panel-billboard-latin-music-week-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/video/nuevo-mexicano-peso-pluma-and-friends-panel-billboard-latin-music-week-2024/</a>  
+   Link:<a href="https://www.billboard.com/video/nuevo-mexicano-peso-pluma-and-friends-panel-billboard-latin-music-week-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/video/nuevo-mexicano-peso-pluma-and-friends-panel-billboard-latin-music-week-2024/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/wp-content/uploads/2023/06/june-08-2023-billboard-bulletin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/wp-content/uploads/2023/06/june-08-2023-billboard-bulletin-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regional Mexican Music Is Having a Record YearJun 8, 2023 — The genre — comprised of banda, corridos, norteño, sierreño, mariachi and mor...</p></details>
+   Link:<a href="https://www.billboard.com/wp-content/uploads/2023/06/june-08-2023-billboard-bulletin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/wp-content/uploads/2023/06/june-08-2023-billboard-bulletin-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regional Mexican Music Is Having a Record YearJun 8, 2023 — The genre — comprised of banda, corridos, norteño, sierreño, mariachi and mor...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: billboard.com  
    Title: peso pluma friends panel latin music week 2024 best quotes 1235801423  
-   Link: <a href="https://www.billboard.com/music/latin/peso-pluma-friends-panel-latin-music-week-2024-best-quotes-1235801423/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/peso-pluma-friends-panel-latin-music-week-2024-best-quotes-1235801423/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15) on a panel at Billboard Latin Music Week 2024 and for the first time spoke live about his musical origins.Read more...</p></details>
+   Link:<a href="https://www.billboard.com/music/latin/peso-pluma-friends-panel-latin-music-week-2024-best-quotes-1235801423/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/peso-pluma-friends-panel-latin-music-week-2024-best-quotes-1235801423/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15) on a panel at Billboard Latin Music Week 2024 and for the first time spoke live about his musical origins.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: recordoftheday.com  
    Title: 34 global streaming growth uplift luminate releases 2023 year end music report  
-   Link: <a href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</p></details>
+   Link:<a href="https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/on-the-move/news-press/34-global-streaming-growth-uplift-luminate-releases-2023-year-end-music-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On-Demand Audio streams: â—‹ U.S. Regional Mexican listeners see higher concentrations along the...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</p></details>
+   Link:<a href="https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/54aa3735ed707c1d5e9649724cc78c1f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Country and global acts - and Taylor Swift - fueled the growthIn 2023, the global music industry achieved a new milestone by surpassing 4...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: luminatedata.com  
    Title: regional mexican artists are going global this year  
-   Link: <a href="https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LuminateRegional Mexican Artists Are Going Global This Year | LuminateJul 25, 2023 — The report highlights the success of genres like J-P...</p></details>
+   Link:<a href="https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/regional-mexican-artists-are-going-global-this-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LuminateRegional Mexican Artists Are Going Global This Year | LuminateJul 25, 2023 — The report highlights the success of genres like J-P...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: luminatedata.com  
    Title: Luminate New Report: Latin Music and Its Impact on Culture  
-   Link: <a href="https://luminatedata.com/reports/latin-music-us-culture-commerce-impact/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/latin-music-us-culture-commerce-impact/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LuminateRegional Mexican music has grown% in On-Demand Audio streams in the U.S. through the first 34 weeks of 2023 (week ending 8/24/23)...</p></details>
+   Link:<a href="https://luminatedata.com/reports/latin-music-us-culture-commerce-impact/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/reports/latin-music-us-culture-commerce-impact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LuminateRegional Mexican music has grown% in On-Demand Audio streams in the U.S. through the first 34 weeks of 2023 (week ending 8/24/23)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The genre&#x27;s growth is fueled by a young, bilingual Hispanic population with deep online engagement. Latin music&#x27;s unique blend of guitars...</p></details>
+   Link:<a href="https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/music/trumpets-and-tubas-meet-hip-hop-in-musics-hottest-genre-961dcff9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The genre&#x27;s growth is fueled by a young, bilingual Hispanic population with deep online engagement. Latin music&#x27;s unique blend of guitars...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: prime-entertainment.de  
    Title: peso pluma  
-   Link: <a href="https://prime-entertainment.de/aktuelles/peso-pluma/" target="_blank" rel="noopener noreferrer nofollow">https://prime-entertainment.de/aktuelles/peso-pluma/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>His album „GÉNESIS“ broke streaming records, earning him his first GRAMMY® win for Best Música Mexicana Album in 2024. Plus, he became th...</p></details>
+   Link:<a href="https://prime-entertainment.de/aktuelles/peso-pluma/" target="_blank" rel="noopener noreferrer nofollow">https://prime-entertainment.de/aktuelles/peso-pluma/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His album „GÉNESIS“ broke streaming records, earning him his first GRAMMY® win for Best Música Mexicana Album in 2024. Plus, he became th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: luminatedata.com  
    Title: Which Subgenre Is Driving the U.S  
-   Link: <a href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin Music Growth?Jul 23, 2024 — Luminate&#x27;s 2024 Midyear Music Report, released last week, revealed Latin music as the fastest-growing g...</p></details>
+   Link:<a href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latin Music Growth?Jul 23, 2024 — Luminate&#x27;s 2024 Midyear Music Report, released last week, revealed Latin music as the fastest-growing g...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: luminatedata.com  
    Title: Latin Music Grows the Most Among Genres in Q1  
-   Link: <a href="https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LuminateApr 8, 2025 — Latin music grew the most among genres in the first quarter of 2025, according to Luminate&#x27;s Music Connect data con...</p></details>
+   Link:<a href="https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LuminateApr 8, 2025 — Latin music grew the most among genres in the first quarter of 2025, according to Luminate&#x27;s Music Connect data con...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/luminatedata_luminates2024-midyear-music-report-released-activity-7221577237794353152-fX5y" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/luminatedata_luminates2024-midyear-music-report-released-activity-7221577237794353152-fX5y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate&#x27;s 2024 Midyear Music Report, released last week...Latin music leads all US core genres in On-Demand Audio (ODA) streaming growt...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/luminatedata_luminates2024-midyear-music-report-released-activity-7221577237794353152-fX5y" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/luminatedata_luminates2024-midyear-music-report-released-activity-7221577237794353152-fX5y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate&#x27;s 2024 Midyear Music Report, released last week...Latin music leads all US core genres in On-Demand Audio (ODA) streaming growt...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: asianentertainmentandculture.com  
    Title: luminates 2025 yearend report confirms music isnt just about music anymore  
-   Link: <a href="https://asianentertainmentandculture.com/luminates-2025-yearend-report-confirms-music-isnt-just-about-music-anymore/" target="_blank" rel="noopener noreferrer nofollow">https://asianentertainmentandculture.com/luminates-2025-yearend-report-confirms-music-isnt-just-about-music-anymore/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LUMINATE&#x27;S 2025 YEAREND REPORT CONFIRMS...Feb 5, 2026 — On the premium side, the report shows the 2025 share of global premium streams l...</p></details>
+   Link:<a href="https://asianentertainmentandculture.com/luminates-2025-yearend-report-confirms-music-isnt-just-about-music-anymore/" target="_blank" rel="noopener noreferrer nofollow">https://asianentertainmentandculture.com/luminates-2025-yearend-report-confirms-music-isnt-just-about-music-anymore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LUMINATE&#x27;S 2025 YEAREND REPORT CONFIRMS...Feb 5, 2026 — On the premium side, the report shows the 2025 share of global premium streams l...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/billboard-news-peso-pluma-is-currently-on-tour-but-when-he-has-time-off-he-knows/864380828895830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/billboard-news-peso-pluma-is-currently-on-tour-but-when-he-has-time-off-he-knows/864380828895830/</a>  
+   Link:<a href="https://www.facebook.com/Billboard/posts/billboard-news-peso-pluma-is-currently-on-tour-but-when-he-has-time-off-he-knows/864380828895830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/billboard-news-peso-pluma-is-currently-on-tour-but-when-he-has-time-off-he-knows/864380828895830/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: Could Peso Pluma be Latin music's next global superstar?  
-   Link: <a href="https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#BillboardExplains the growth of the Regional Mexican genre and the star at the center...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#BillboardExplains the growth of the Regional Mexican genre and the star at the center...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
    Title: Luminate Year End Report 2024  
-   Link: <a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate 2024 Year-End Music Insights | PDFLuminate&#x27;s 2024 Year-End Music Report analyzes key trends in the music industry, focusing on s...</p></details>
+   Link:<a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luminate 2024 Year-End Music Insights | PDFLuminate&#x27;s 2024 Year-End Music Report analyzes key trends in the music industry, focusing on s...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gq.com  
-   Link: <a href="https://www.gq.com/story/the-outlaw-tales-of-peso-pluma" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/the-outlaw-tales-of-peso-pluma</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his youthful appearance, Peso exudes an old soul&#x27;s wisdom and has achieved remarkable success, including being YouTube&#x27;s most vie...</p></details>
+   Link:<a href="https://www.gq.com/story/the-outlaw-tales-of-peso-pluma" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/the-outlaw-tales-of-peso-pluma</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his youthful appearance, Peso exudes an old soul&#x27;s wisdom and has achieved remarkable success, including being YouTube&#x27;s most vie...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Half of all paid music streams globally take place in just 4...22 Jan 2026 — Just four countries – the United States, Mexico, Brazil and...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Half of all paid music streams globally take place in just 4...22 Jan 2026 — Just four countries – the United States, Mexico, Brazil and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Country and global acts10 Jan 2024 — Armado and Peso Pluma&#x27;s Ella Baila Sola surpassed a billion streams on Spotify in less than a year a...</p></details>
+   Link:<a href="https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/culture/2024-01-10/music-streams-hit-4-trillion-in-2023-country-and-global-acts-and-taylor-swift-fueled-the-growth.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Country and global acts10 Jan 2024 — Armado and Peso Pluma&#x27;s Ella Baila Sola surpassed a billion streams on Spotify in less than a year a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: mexican regional music is gaining global popularity but womens voices remain und  
-   Link: <a href="https://www.facebook.com/KSAT12/posts/mexican-regional-music-is-gaining-global-popularity-but-womens-voices-remain-und/1266441028855669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KSAT12/posts/mexican-regional-music-is-gaining-global-popularity-but-womens-voices-remain-und/1266441028855669/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican regional music is gaining global popularity, but...According to Luminate&#x27;s 2023 end-of-year report, four of the six Latin artist...</p></details>
+   Link:<a href="https://www.facebook.com/KSAT12/posts/mexican-regional-music-is-gaining-global-popularity-but-womens-voices-remain-und/1266441028855669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KSAT12/posts/mexican-regional-music-is-gaining-global-popularity-but-womens-voices-remain-und/1266441028855669/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican regional music is gaining global popularity, but...According to Luminate&#x27;s 2023 end-of-year report, four of the six Latin artist...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: qz.com  
    Title: music streams hit 4 trillion in 2023 country and globa 1851154945  
-   Link: <a href="https://qz.com/music-streams-hit-4-trillion-in-2023-country-and-globa-1851154945" target="_blank" rel="noopener noreferrer nofollow">https://qz.com/music-streams-hit-4-trillion-in-2023-country-and-globa-1851154945</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Country and global actsJan 10, 2024 — Under the Latin umbrella, regional Mexican music saw massive growth. The genre term — which encompa...</p></details>
+   Link:<a href="https://qz.com/music-streams-hit-4-trillion-in-2023-country-and-globa-1851154945" target="_blank" rel="noopener noreferrer nofollow">https://qz.com/music-streams-hit-4-trillion-in-2023-country-and-globa-1851154945</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Country and global actsJan 10, 2024 — Under the Latin umbrella, regional Mexican music saw massive growth. The genre term — which encompa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: latimes.com  
    Title: latin music growth us musica mexicana fuerza regida peso pluma  
-   Link: <a href="https://www.latimes.com/delos/story/2024-07-18/latin-music-growth-us-musica-mexicana-fuerza-regida-peso-pluma" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/delos/story/2024-07-18/latin-music-growth-us-musica-mexicana-fuerza-regida-peso-pluma</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin music takes the lead as the US&#x27;s fastest-growing genreJul 18, 2024 — According to Luminate&#x27;s midyear music report, Latin music is t...</p></details>
+   Link:<a href="https://www.latimes.com/delos/story/2024-07-18/latin-music-growth-us-musica-mexicana-fuerza-regida-peso-pluma" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/delos/story/2024-07-18/latin-music-growth-us-musica-mexicana-fuerza-regida-peso-pluma</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latin music takes the lead as the US&#x27;s fastest-growing genreJul 18, 2024 — According to Luminate&#x27;s midyear music report, Latin music is t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nbcdfw.com  
    Title: regional mexican music is crossing borders and going global  
-   Link: <a href="https://www.nbcdfw.com/entertainment/regional-mexican-music-is-crossing-borders-and-going-global/3446047/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/entertainment/regional-mexican-music-is-crossing-borders-and-going-global/3446047/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regional Mexican music is going global27 Jan 2024 — They were in the top 125 artists streamed. Overall, regional Mexican music grew 60% i...</p></details>
+   Link:<a href="https://www.nbcdfw.com/entertainment/regional-mexican-music-is-crossing-borders-and-going-global/3446047/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/entertainment/regional-mexican-music-is-crossing-borders-and-going-global/3446047/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regional Mexican music is going global27 Jan 2024 — They were in the top 125 artists streamed. Overall, regional Mexican music grew 60% i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: online.berklee.edu  
    Title: how mexican artists are driving the rise of latin music  
-   Link: <a href="https://online.berklee.edu/takenote/how-mexican-artists-are-driving-the-rise-of-latin-music/" target="_blank" rel="noopener noreferrer nofollow">https://online.berklee.edu/takenote/how-mexican-artists-are-driving-the-rise-of-latin-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican Artists Are Driving the Rise of Latin Music2 Apr 2026 — Mexican artists are driving Latin music&#x27;s rise by blending traditional st...</p></details>
+   Link:<a href="https://online.berklee.edu/takenote/how-mexican-artists-are-driving-the-rise-of-latin-music/" target="_blank" rel="noopener noreferrer nofollow">https://online.berklee.edu/takenote/how-mexican-artists-are-driving-the-rise-of-latin-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mexican Artists Are Driving the Rise of Latin Music2 Apr 2026 — Mexican artists are driving Latin music&#x27;s rise by blending traditional st...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/peso-pluma-pays-tribute-to-his-manager-george-prajin-as-billboards-latin-executi/922893376377908/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/peso-pluma-pays-tribute-to-his-manager-george-prajin-as-billboards-latin-executi/922893376377908/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>executive of the year at Billboard&#x27;s Latin Music Power Players...</p></details>
+   Link:<a href="https://www.facebook.com/Billboard/posts/peso-pluma-pays-tribute-to-his-manager-george-prajin-as-billboards-latin-executi/922893376377908/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/peso-pluma-pays-tribute-to-his-manager-george-prajin-as-billboards-latin-executi/922893376377908/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>executive of the year at Billboard&#x27;s Latin Music Power Players...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CyGuTUpA4W-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CyGuTUpA4W-/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the way. With his groundbreaking hit album &#x27;Genesis,&#x27; that had...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CyGuTUpA4W-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CyGuTUpA4W-/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the way. With his groundbreaking hit album &#x27;Genesis,&#x27; that had...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-uk-streaming-policy/
 description: Focused pages that expand on UK Policy.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_uk_streaming_policy_aa90d2
 parent_title: UK Policy
@@ -16,7 +16,7 @@ parent_permalink: /uk-policy/
 
 # Explore Topics in UK Policy
 
-The following pages expand on the main **[UK Policy]({{ '/uk-policy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UK Policy]({{ '/uk-policy/' | relative_url }})** page and cover its key branches in.
 
 - [CMA study]({{ '/cma-study/' | relative_url }})
 - [ER debate]({{ '/er-debate/' | relative_url }})

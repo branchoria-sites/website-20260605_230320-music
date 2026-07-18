@@ -501,7 +501,7 @@ image: /assets/images/music_3a01be_latin_music_streamin_4617cf-overview-social.j
 
 ## Introduction
 
-Latin music became a streaming power because streaming rewarded the things it already did well: rhythmic immediacy, cross-border collaboration, strong [diaspora]({{ 'diaspora/' | relative_url }}) audiences, bilingual listening habits and fast social discovery. Instead of waiting for English-language radio, [physical]({{ 'physical/' | relative_url }}) distribution or a formal crossover campaign, artists could reach listeners through playlists, short-form sharing, algorithmic recommendations and fan networks that stretched from Latin America to the United States, Europe and beyond. The change is visible in the numbers: in the US, Latin music reached a record US$1.4 billion in 2024, with more than 98% of its revenue coming from streaming; globally, Spotify says Latin music rose from 8% of worldwide listening a decade ago to 27% in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024 Year End US Market Latin Music Revenue Report</span><span class="citation-popover-snippet">RIAA 2024 Year End US Market Latin Music Revenue Report</span></span></span>
+Latin music became a streaming power because streaming rewarded the things it already did well: rhythmic immediacy, cross-border collaboration, strong [diaspora]({{ 'diaspora/' | relative_url }}) audiences, bilingual listening habits and fast social discovery. Instead of waiting for English-language radio, [physical]({{ 'physical/' | relative_url }}) distribution or a formal crossover campaign, artists could reach listeners through playlists, short-form sharing, algorithmic recommendations and fan networks that stretched from Latin America to the United States, Europe and beyond. The change is visible in the numbers: in the US, Latin music reached a record US$1.4 billion in 2024, with more than 98% of its revenue coming from streaming; globally, Spotify says Latin music rose from 8% of worldwide listening a decade ago to 27% in 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024 Year End US Market Latin Music Revenue Report</span><span class="citation-popover-snippet">RIAA 2024 Year End US Market Latin Music Revenue Report</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-overview.webp" | relative_url }}" alt="Overview image for Latin Music" loading="eager" decoding="sync" fetchpriority="high">
 The result is not just a bigger market for a single style. It is a reshaping of mainstream pop, where songs in Spanish and Portuguese, [regional scenes]({{ 'regional-scenes/' | relative_url }}), diasporic taste and platform discovery now help decide what becomes global.
@@ -512,7 +512,7 @@ Latin musics rise did not begin with streaming. Salsa, Latin pop, reggaeton, bac
 
 Streaming turned listening into a borderless habit. A teenager in Los Angeles, Madrid or London could hear a Puerto Rican or Colombian track at the same time as fans in Latin America. A bilingual household could move between English-language pop and Spanish-language songs without treating them as separate cultural worlds. A playlist could place a new artist beside an established superstar, and a recommendation system could carry a local hit into an unexpected market.
 
-The economic data shows how decisive that shift became. IFPI reported that Latin Americas recorded music revenues rose 22.5% in 2024, far ahead of global growth, with streaming accounting for 87.8% of recorded music revenues in the region. Brazil grew 21.7%, while Mexico rose 15.6% and became the worlds tenth-largest recorded music market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpicr.cz">[IFPICR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpicr.cz</span><span class="citation-popover-title">global music report 2025</span><span class="citation-popover-snippet">Global Music Report 2025 &#124; NS IFPI...</span></span></span> In the US Latin market, the pattern is even more concentrated: RIAA found that streaming generated more than 98% of Latin music revenue in 2024, compared with physical [formats]({{ 'formats/' | relative_url }}) making up less than 1%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
+The economic data shows how decisive that shift became. IFPI reported that Latin Americas recorded music revenues rose 22.5% in 2024, far ahead of global growth, with streaming accounting for 87.8% of recorded music revenues in the region. Brazil grew 21.7%, while Mexico rose 15.6% and became the worlds tenth-largest recorded music market.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpicr.cz">[IFPICR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpicr.cz</span><span class="citation-popover-title">global music report 2025</span><span class="citation-popover-snippet">Global Music Report 2025 &#124; NS IFPI...</span></span></span> In the US Latin market, the pattern is even more concentrated: RIAA found that streaming generated more than 98% of Latin music revenue in 2024, compared with physical [formats]({{ 'formats/' | relative_url }}) making up less than 1%.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
 
 That matters because Latin musics streaming power is not just about famous artists doing well on global platforms. It shows how a music [culture]({{ 'culture/' | relative_url }}) with large, connected audiences can leap over older industry bottlenecks and become measurable in daily listening data.
 
@@ -522,9 +522,9 @@ For decades, the mainstream US and UK music industries often treated Spanish-lan
 
 Streaming weakened that assumption. Listeners did not need every lyric translated to respond to rhythm, melody, mood, danceability or emotional performance. Just as K-pop and Afrobeats showed that language difference need not block global listening, Latin music proved that Spanish-language songs could become everyday pop without becoming English-language products.
 
-Despacito was a major turning point. Luis Fonsi and Daddy Yankees hit, later amplified by a Justin Bieber remix, became the first Spanish-language song to spend 16 weeks at No. 1 on the Billboard Hot 100 and was reported in 2017 as the most-streamed song in history at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Also, the global hit remains at No.Read more</span><span class="citation-popover-snippet">Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018  On the Billboard charts, Despacito is the first Spanish...</span></span></span> Its importance was not only that it was enormous. It showed labels, platforms and artists that a Spanish-language song could dominate global listening at internet speed.
+Despacito was a major turning point. Luis Fonsi and Daddy Yankees hit, later amplified by a Justin Bieber remix, became the first Spanish-language song to spend 16 weeks at No. 1 on the Billboard Hot 100 and was reported in 2017 as the most-streamed song in history at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">Also, the global hit remains at No.Read more</span><span class="citation-popover-snippet">Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018  On the Billboard charts, Despacito is the first Spanish...</span></span></span> Its importance was not only that it was enormous. It showed labels, platforms and artists that a Spanish-language song could dominate global listening at internet speed.
 
-Yet the post-Despacito story is more interesting than one hit. Bad Bunny built one of the worlds biggest careers largely without switching into English. His 2022 album became a streaming landmark: Billboard reported in 2023 that it had become Spotifys most-streamed album in history, while Guinness World Records noted that it was Spotifys most-streamed album of 2023 with 4.5 billion streams that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny un verano sin ti most streamed album spotify history 1235368920</span><span class="citation-popover-snippet">bad bunny un verano sin ti most streamed album spotify history 1235368920</span></span></span> That changed the symbolic centre of pop success. The question was no longer whether Latin artists could enter the mainstream, but whether the mainstream could keep pretending Spanish-language music was outside it.
+Yet the post-Despacito story is more interesting than one hit. Bad Bunny built one of the worlds biggest careers largely without switching into English. His 2022 album became a streaming landmark: Billboard reported in 2023 that it had become Spotifys most-streamed album in history, while Guinness World Records noted that it was Spotifys most-streamed album of 2023 with 4.5 billion streams that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny un verano sin ti most streamed album spotify history 1235368920</span><span class="citation-popover-snippet">bad bunny un verano sin ti most streamed album spotify history 1235368920</span></span></span> That changed the symbolic centre of pop success. The question was no longer whether Latin artists could enter the mainstream, but whether the mainstream could keep pretending Spanish-language music was outside it.
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-dark.svg" | relative_url }}" alt="Latin Music illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rhythm, repetition and collaboration helped songs travel
@@ -535,24 +535,24 @@ This does not mean Latin music is formulaic. The opposite is often true: its str
 
 Collaboration also accelerated discovery. Artists moved across scenes: Colombian reggaeton stars worked with Puerto Rican rappers; Argentine producers connected with Spanish and Latin American vocalists; Mexican acts collaborated with pop and urban artists; US-based Latino performers bridged English and Spanish audiences. These collaborations are unusually useful in streaming because they join fan bases, trigger platform recommendations and create multiple entry points into a song.
 
-The clearest recent example is regional Mexican music. Associated Press reported that Eslabon Armado and Peso Plumas Ella Baila Sola surpassed one billion Spotify streams and became the first regional Mexican Top 10 hit on Billboards all-genre Hot 100, peaking at No. 4. Luminate data cited by AP showed regional Mexican music growing 60% in the US in 2023, with 21.9 billion on-demand audio streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon &#124; AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon &#124; AP News</span></span></span> That success was not simply a novelty. It showed that streaming could globalise a style long sustained by Mexican and Mexican American audiences, while allowing younger artists to update its sound for a new generation.
+The clearest recent example is regional Mexican music. Associated Press reported that Eslabon Armado and Peso Plumas Ella Baila Sola surpassed one billion Spotify streams and became the first regional Mexican Top 10 hit on Billboards all-genre Hot 100, peaking at No. 4. Luminate data cited by AP showed regional Mexican music growing 60% in the US in 2023, with 21.9 billion on-demand audio streams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon &#124; AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon &#124; AP News</span></span></span> That success was not simply a novelty. It showed that streaming could globalise a style long sustained by Mexican and Mexican American audiences, while allowing younger artists to update its sound for a new generation.
 
 ## Diaspora audiences gave platforms a ready-made network
 
 Latin musics streaming power depends heavily on diaspora audiences. The US is the clearest case because it is both the worlds largest recorded music market and home to a large Latino population with varied ties to Mexico, Puerto Rico, Cuba, the Dominican Republic, Central America, South America and other communities.
 
-Language is one part of that network. Pew Research Center reported in 2023 that Spanish is the most commonly spoken non-English language in the United States, with close to 40 million Latinos speaking Spanish at home. It also found that 75% of US Latinos say they can carry on a conversation in Spanish at least pretty well, though ability varies sharply by generation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For music, this creates a large audience for Spanish-language songs, but not a closed one. Many listeners are bilingual, bicultural or genre-fluid; they may stream Latin music alongside hip-hop, country, pop, rock, Afrobeats and [dance music]({{ 'dance-music/' | relative_url }}).
+Language is one part of that network. Pew Research Center reported in 2023 that Spanish is the most commonly spoken non-English language in the United States, with close to 40 million Latinos speaking Spanish at home. It also found that 75% of US Latinos say they can carry on a conversation in Spanish at least pretty well, though ability varies sharply by generation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For music, this creates a large audience for Spanish-language songs, but not a closed one. Many listeners are bilingual, bicultural or genre-fluid; they may stream Latin music alongside hip-hop, country, pop, rock, Afrobeats and [dance music]({{ 'dance-music/' | relative_url }}).
 
 This helps explain why Latin music performs so strongly on streaming compared with older formats. A listener does not need to live near a specialist record shop or wait for a local radio programmer to validate a song. Family chats, social media clips, parties, car listening, gym playlists and algorithmic recommendations can all carry tracks through diaspora networks.
 
-The US revenue figures show the commercial result. RIAA reported that Latin music hit US$1.4 billion in US recorded music revenue in 2024, up 6%, and represented 8.1% of total US recorded music revenue. Paid subscriptions contributed more than two-thirds of Latin music revenue, while ad-supported on-demand streaming, including services such as YouTube, Vevo, free Spotify and social media platforms, made up nearly a quarter of Latin musics value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">YEAR END 2023 Latin RIAA Revenue Statistics</span><span class="citation-popover-snippet">YEAR END 2023 Latin RIAA Revenue Statistics</span></span></span> That mix matters: Latin music has benefited both from committed paid listeners and from broad, shareable, free-access discovery.
+The US revenue figures show the commercial result. RIAA reported that Latin music hit US$1.4 billion in US recorded music revenue in 2024, up 6%, and represented 8.1% of total US recorded music revenue. Paid subscriptions contributed more than two-thirds of Latin music revenue, while ad-supported on-demand streaming, including services such as YouTube, Vevo, free Spotify and social media platforms, made up nearly a quarter of Latin musics value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">YEAR END 2023 Latin RIAA Revenue Statistics</span><span class="citation-popover-snippet">YEAR END 2023 Latin RIAA Revenue Statistics</span></span></span> That mix matters: Latin music has benefited both from committed paid listeners and from broad, shareable, free-access discovery.
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-dark.svg" | relative_url }}" alt="Latin Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Playlists turned scenes into global front doors
 
 A streaming platform is not neutral shelf space. Editorial playlists, algorithmic playlists and user-generated playlists shape what listeners encounter. Latin musics rise was helped by the fact that platforms built visible front doors for it at the same time that audience demand was rising.
 
-Spotifys Viva Latino is the most obvious example. Spotify says the playlist launched in 2015 as one of the first major Latin music playlists on a streaming platform. By its tenth anniversary in 2025, the company said global Latin music streams on Spotify had grown by more than 2,500%, adding more than 587 billion streams, and Latin music accounted for 27% of all listening worldwide on the platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Celebrating 10 Years of Spotifys Viva Latino Playlist and the Global Rise of Latin Music  Spotify...</span></span></span>
+Spotifys Viva Latino is the most obvious example. Spotify says the playlist launched in 2015 as one of the first major Latin music playlists on a streaming platform. By its tenth anniversary in 2025, the company said global Latin music streams on Spotify had grown by more than 2,500%, adding more than 587 billion streams, and Latin music accounted for 27% of all listening worldwide on the platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Celebrating 10 Years of Spotifys Viva Latino Playlist and the Global Rise of Latin Music  Spotify...</span></span></span>
 
 Playlists matter because they make a sprawling field easier to enter. A listener may not know the difference between reggaeton, Latin trap, bachata, regional Mexican music or Latin pop, but a playlist can offer a path in. Once the listener engages, algorithms can push them deeper: more Bad Bunny, then Feid, Karol G or Rauw Alejandro; one Peso Pluma track, then Fuerza Regida, Junior H or Eslabon Armado; one Shakira collaboration, then a chain of Argentine, Colombian or Spanish-language pop.
 
@@ -566,7 +566,7 @@ That shift helped Latin music compete on more equal terms. The same listener who
 
 Bad Bunnys rise illustrates this new chart logic. His success was not just a single viral moment; it came through sustained streaming depth across albums, collaborations and catalogue listening. Regional Mexican music shows another pattern: a style that had long been important in specific communities suddenly became visible in all-genre streaming data once younger listeners, platform discovery and cross-border networks aligned.
 
-Luminates 2024 midyear analysis found that Latin music led all US core genres in on-demand audio streaming growth by share-point change in the first half of 2024, powered by 15.1% growth in on-demand audio streaming volume. It also identified regional Mexican as the largest Latin subgenre in the US, with Peso Pluma, Fuerza Regida and Junior H among the major streaming drivers outside Bad Bunny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? &#124; Luminate</span><span class="citation-popover-snippet">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? &#124; Luminate</span></span></span>
+Luminates 2024 midyear analysis found that Latin music led all US core genres in on-demand audio streaming growth by share-point change in the first half of 2024, powered by 15.1% growth in on-demand audio streaming volume. It also identified regional Mexican as the largest Latin subgenre in the US, with Peso Pluma, Fuerza Regida and Junior H among the major streaming drivers outside Bad Bunny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luminatedata.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luminatedata.com</span><span class="citation-popover-title">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? &#124; Luminate</span><span class="citation-popover-snippet">Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? &#124; Luminate</span></span></span>
 
 This is why Latin musics streaming story is bigger than a few superstars. Streaming made previously undercounted listening visible. It also made local and diasporic enthusiasm legible to the global industry in numbers that could affect investment, touring, awards, collaborations and marketing.
 
@@ -576,7 +576,7 @@ This is why Latin musics streaming story is bigger than a few superstars. Stream
 
 One easy misunderstanding is to treat Latin music as a single sound. Streaming has made the category more powerful, but also more internally varied. Reggaeton and Latin trap were central to the 2010s boom, but the 2020s made clear that the streaming audience is not limited to urban pop.
 
-Regional Mexican music is the strongest proof. Its global rise did not replace reggaeton; it expanded what Latin success could sound like. AP described regional Mexican as a broad term covering mariachi, banda, corridos, norteo, sierreo and other genres, and noted that streaming helped democratise listening by allowing people who might not otherwise encounter the music to discover it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon &#124; AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon &#124; AP News</span></span></span>
+Regional Mexican music is the strongest proof. Its global rise did not replace reggaeton; it expanded what Latin success could sound like. AP described regional Mexican as a broad term covering mariachi, banda, corridos, norteo, sierreo and other genres, and noted that streaming helped democratise listening by allowing people who might not otherwise encounter the music to discover it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How regional Mexican music became a global phenomenon &#124; AP News</span><span class="citation-popover-snippet">AP News How regional Mexican music became a global phenomenon &#124; AP News</span></span></span>
 
 Other scenes have their own routes. Colombian artists have been central to reggaeton, pop and urban Latin music. Puerto Rico remains foundational to reggaeton and Latin trap. Argentina has become highly visible through producers, rappers and pop collaborations. Spain has contributed artists who connect flamenco, pop, electronic and urban influences. Brazils Portuguese-language market has its own enormous scale, with local styles travelling differently from Spanish-language music.
 
@@ -595,194 +595,194 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-dark.svg" | relative_url }}" alt="Latin Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Latin Music Travels So Far. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Latin Music Travels So Far. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explains how technology and distribution change music consumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how technology and distribution change music consumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Latin Beat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/165057-M.jpg" alt="Cover for The Latin Beat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Latin Beat">The Latin Beat</a>
-        </h4>
-        <p class="fr-book-author">By Ed Morales</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Latin Beat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/165057-M.jpg" alt="Cover for The Latin Beat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Latin Beat">The Latin Beat</a>
+</h4>
+<p class="fr-book-author">By Ed Morales</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: History, Latin American influences, Popular music, History and criticism, Music, latin american.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: History, Latin American influences, Popular music, History and criticism, Music, latin american.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
-        </h4>
-        <p class="fr-book-author">By Leila Cobo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
+</h4>
+<p class="fr-book-author">By Leila Cobo</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Latin pop (Music), History and criticism, Popular music, Musicians, Interviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Latin pop (Music), History and criticism, Popular music, Musicians, Interviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reggaeton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8331410-M.jpg" alt="Cover for Reggaeton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reggaeton">Reggaeton</a>
-        </h4>
-        <p class="fr-book-author">By Raquel Z. Rivera, Deborah Pacini Hernandez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reggaeton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8331410-M.jpg" alt="Cover for Reggaeton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reggaeton">Reggaeton</a>
+</h4>
+<p class="fr-book-author">By Raquel Z. Rivera, Deborah Pacini Hernandez</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Reggaeton, History and criticism, Reggaetón, Reggae music, Reggaeton.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Reggaeton, History and criticism, Reggaetón, Reggae music, Reggaeton.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Latin+Beat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Latin Beat</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+Despacito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding Despacito</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Latin+Beat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Latin Beat</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+Despacito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding Despacito</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/575252c6202735919653.jpg' | relative_url }}" alt="Listing image for Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/575252c6202735919653.jpg' | relative_url }}" alt="Listing image for Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Latin Music Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture"><img src="{{ '/assets/images/marketplace-covers/3c4709e078f9bdf9535c.jpg' | relative_url }}" alt="Listing image for Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture"><img src="{{ '/assets/images/marketplace-covers/3c4709e078f9bdf9535c.jpg' | relative_url }}" alt="Listing image for Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Reggaeton Street Dance Reggae Music Latin American Wall Art Poster Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/34b8fc060d35064ece42.jpg' | relative_url }}" alt="Listing image for Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/34b8fc060d35064ece42.jpg' | relative_url }}" alt="Listing image for Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Reggaeton Latin Street Dance Reggae Music Dance Hall Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/f40a19463d62d09585fd.jpg' | relative_url }}" alt="Listing image for Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;"><img src="{{ '/assets/images/marketplace-covers/f40a19463d62d09585fd.jpg' | relative_url }}" alt="Listing image for Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">Karol G - Colombian Latin Music Star - Singer Fans - Songwriter - POSTER 20&quot;x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for latin music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: latin music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=latin+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=latin-music-why-latin-music-travels-so-far-music-latin-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="latin music poster" data-ebay-reference="latin-music-why-latin-music-travels-so-far-music-latin-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -798,7 +798,7 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -818,7 +818,7 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -850,7 +850,7 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -902,7 +902,7 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -947,7 +947,7 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -988,251 +988,251 @@ For listeners, the change is easier to feel: the mainstream has become less Engl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: riaa.com  
    Title: RIAA 2024 Year End US Market Latin Music Revenue Report  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024-Year-End-US-Market-Latin-Music-Revenue-Report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 10 Years of Spotifys Viva Latino Playlist and the Global Rise of Latin Music  Spotify...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-09-15/viva-latino-10th-anniversary-latin-music-growth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrating 10 Years of Spotifys Viva Latino Playlist and the Global Rise of Latin Music  Spotify...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ifpicr.cz  
    Title: global music report 2025  
-   Link: <a href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow">https://ifpicr.cz/global_music_report_2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Report 2025 | NS IFPI...</p></details>
+   Link:<a href="https://ifpicr.cz/global_music_report_2025" target="_blank" rel="noopener noreferrer nofollow">https://ifpicr.cz/global_music_report_2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Report 2025 | NS IFPI...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: billboard.com  
    Title: Also, the global hit remains at No.Read more  
-   Link: <a href="https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018  On the Billboard charts, Despacito is the first Spanish...</p></details>
+   Link:<a href="https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/despacito-luis-fonsi-daddy-yankee-justin-bieber-billion-streams-spotify-8098451/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard&#x27;Despacito&#x27; Is First Spanish-Language Song to Reach a...6 Feb 2018  On the Billboard charts, Despacito is the first Spanish...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: billboard.com  
    Title: bad bunny un verano sin ti most streamed album spotify history 1235368920  
-   Link: <a href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/</a>  
+   Link:<a href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ifpi.org  
    Title: Global Music Report 2023 State of the Industry  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/</a>  
+   Link:<a href="https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-reports-us-latin-recorded-music-revenue-hits-nearly-500-million-at-2025-mid-year/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: riaa.com  
    Title: YEAR END 2023 Latin RIAA Revenue Statistics  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/04/YEAR-END-2023-Latin-RIAA-Revenue-Statistics.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/</a>  
+   Link:<a href="https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/year-end-2023-riaa-u-s-latin-music-revenue-report-informe-de-fin-del-ano-2023-de-riaa-sobre-ingresos-de-musica-latina-en-estados-unidos/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/</a>  
+   Link:<a href="https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/riaa-mid-year-2024-us-latin-music-revenue-report-informe-semestral-de-ingresos-de-la-musica-latina-en-ee-uu-segun-riaa-2024/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: riaa.com  
    Title: 2024 year end music industry revenue report riaa  
-   Link: <a href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/</a>  
+   Link:<a href="https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/reports/2024-year-end-music-industry-revenue-report-riaa/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: billboard.com  
    Title: non english songs hot 100 top  
-   Link: <a href="https://www.billboard.com/lists/non-english-songs-hot-100-top/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/non-english-songs-hot-100-top/</a>  
+   Link:<a href="https://www.billboard.com/lists/non-english-songs-hot-100-top/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/non-english-songs-hot-100-top/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: billboard.com  
    Title: bad bunny number 1 top latin artists 21st century chart  
-   Link: <a href="https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/</a>  
+   Link:<a href="https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/lists/bad-bunny-number-1-top-latin-artists-21st-century-chart/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: billboard.com  
    Title: latin music revenue record high mid year 2023 riaa  
-   Link: <a href="https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/</a>  
+   Link:<a href="https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/latin-music-revenue-record-high-mid-year-2023-riaa/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: billboard.com  
    Title: peso pluma eslabon armado regional mexican music surge  
-   Link: <a href="https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/</a>  
+   Link:<a href="https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/peso-pluma-eslabon-armado-regional-mexican-music-surge/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5</a>  
+   Link:<a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.spotify.com  
    Title: 3Lk Ur Qcb YOr7Bdp HFVNx Sv  
-   Link: <a href="https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv</a>  
+   Link:<a href="https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/3LkUrQcbYOr7BdpHFVNxSv</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI</a>  
+   Link:<a href="https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: open.spotify.com  
    Title: 79Eow409jinf8v D1jf Wuko  
-   Link: <a href="https://open.spotify.com/track/79Eow409jinf8vD1jfWuko" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/79Eow409jinf8vD1jfWuko</a>  
+   Link:<a href="https://open.spotify.com/track/79Eow409jinf8vD1jfWuko" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/79Eow409jinf8vD1jfWuko</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5</a>  
+   Link:<a href="https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/intl-es/album/3RQQmkQEvNCY4prGKE6oc5</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0</a>  
+   Link:<a href="https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/1f8xH84hJmOa74PelIkKV0</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: variety.com  
    Title: latin music revenue exceeds one billion third year riaa report 1236353141  
-   Link: <a href="https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/</a>  
+   Link:<a href="https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/music/news/latin-music-revenue-exceeds-one-billion-third-year-riaa-report-1236353141/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cwtxkge_xfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cwtxkge_xfo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Cwtxkge_xfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cwtxkge_xfo</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: How Bad Bunny and Latin Music Conquered the Global Stage  
-   Link: <a href="https://www.youtube.com/watch?v=F00sS3k1kZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F00sS3k1kZg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Streaming Revolution: How Latin Music Became a Global Force...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F00sS3k1kZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F00sS3k1kZg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Streaming Revolution: How Latin Music Became a Global Force...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Streaming Revolution: How Latin Music Became a Global Force  
-   Link: <a href="https://www.youtube.com/watch?v=uD5o6n9z458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD5o6n9z458</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Latin Music Dominates Streaming Services Worldwide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uD5o6n9z458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD5o6n9z458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Latin Music Dominates Streaming Services Worldwide...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Why Latin Music Dominates Streaming Services Worldwide  
-   Link: <a href="https://www.youtube.com/watch?v=TfL_348T8f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TfL_348T8f4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithms and Playlists Changed Latin Music Forever...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TfL_348T8f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TfL_348T8f4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithms and Playlists Changed Latin Music Forever...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: How Algorithms and Playlists Changed Latin Music Forever  
-   Link: <a href="https://www.youtube.com/watch?v=kYJv8P-XG-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJv8P-XG-g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of Global Latin Pop in the Digital Era...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYJv8P-XG-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJv8P-XG-g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of Global Latin Pop in the Digital Era...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Rise of Global Latin Pop in the Digital Era  
-   Link: <a href="https://www.youtube.com/watch?v=cQ1308V1y3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cQ1308V1y3Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=cQ1308V1y3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cQ1308V1y3Q</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: guinnessworldrecords.com  
-   Link: <a href="https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559</a>  
+   Link:<a href="https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2023/12/spotify-wrapped-2023-bad-bunny-claims-most-streamed-album-with-un-verano-sin-ti-762559</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: apnews.com  
    Title: AP News How regional Mexican music became a global phenomenon | AP News  
-   Link: <a href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4</a>  
+   Link:<a href="https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3d2093f2dd3775912a0d3c95df1e2aa4</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/</a>  
+   Link:<a href="https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/race-and-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: luminatedata.com  
    Title: Luminate Which Subgenre Is Driving the U.S. Latin Music Growth? | Luminate  
-   Link: <a href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/</a>  
+   Link:<a href="https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/which-subgenre-is-driving-the-u-s-latin-music-growth/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: luminates 2025 report shows the us dominating global streaming with 15 trillion  
-   Link: <a href="https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/</a>  
+   Link:<a href="https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldmusicviews/posts/luminates-2025-report-shows-the-us-dominating-global-streaming-with-15-trillion-/1286811083483729/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/</a>  
+   Link:<a href="https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/billboard-news-bad-bunnys-un-verano-sin-ti-was-the-top-album-of-2022-debuting-at/706591314674783/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pewresearch.org  
    Title: how hispanic americans get their news  
-   Link: <a href="https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/</a>  
+   Link:<a href="https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/journalism/2024/03/19/how-hispanic-americans-get-their-news/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: luminatedata.com  
    Title: Latin Music Grows the Most Among Genres in Q1  
-   Link: <a href="https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/</a>  
+   Link:<a href="https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/latin-music-grows-the-most-among-genres-in-q1/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXXkwipD8Ro/?hl=en</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: omdia.tech.informa.com  
-   Link: <a href="https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year</a>  
+   Link:<a href="https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om143873/luminate-report-shows-slowdown-in-streaming-growth-rates-continued-for-another-year</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Despacito" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Despacito</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Despacito" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Despacito</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: grandviewresearch.com  
    Title: latin america  
-   Link: <a href="https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america" target="_blank" rel="noopener noreferrer nofollow">https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america</a>  
+   Link:<a href="https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america" target="_blank" rel="noopener noreferrer nofollow">https://www.grandviewresearch.com/horizon/outlook/music-streaming-market/latin-america</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: scribd.com  
    Title: Luminate Year End Report 2024  
-   Link: <a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
+   Link:<a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: chartlex.com  
-   Link: <a href="https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY</a>  
+   Link:<a href="https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/streaming/latin?srsltid=AfmBOorvjLHv2suucoByluvyjpXDpyaI0bNtPa_sftv1VGlx1xOUdXBY</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2017/jul/19/despacito-most-streamed-song-of-all-time-luis-fonsi-daddy-yankee-justin-bieber</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This feat surpasses Justin Bieber&#x27;s song &quot;Sorry,&quot; which previously held the record with 4.38 billion streams. Bieber, who is featured on...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DOE-PcVEyzN/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOE-PcVEyzN/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DOE-PcVEyzN/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOE-PcVEyzN/?hl=en</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/</a>  
+   Link:<a href="https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialangiemartinez/posts/bad-bunnys-un-verano-sin-ti-is-officially-spotifys-most-streamed-album-of-all-ti/1535256631298975/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/</a>  
+   Link:<a href="https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bad-bunnys-new-album-un-verano-sin-ti-is-already-making-a-splash-on-streaming-se/10160168142314581/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/</a>  
+   Link:<a href="https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillboardCharts/posts/bad-bunnys-dtmf-dethrones-despacito-as-the-longest-leading-no-1-hit-in-the-histo/1557238536403085/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/</a>  
+   Link:<a href="https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/bizarrap-earns-his-first-no-1-on-the-hot-latin-songs-chart-as-bzrp-music-session/10160723834839581/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/</a>  
+   Link:<a href="https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/could-peso-pluma-be-latin-musics-next-global-superstar-billboardexplains-the-gro/703809394952975/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/</a>  
+   Link:<a href="https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheEconomist/posts/from-bad-bunny-and-peso-pluma-topping-charts-to-netflix-pouring-billions-into-me/1414681970690319/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: playmysong.com  
-   Link: <a href="https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html" target="_blank" rel="noopener noreferrer nofollow">https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html</a>  
+   Link:<a href="https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html" target="_blank" rel="noopener noreferrer nofollow">https://www.playmysong.com/spotify-latin-america-rise-reggaeton-local-genres.html</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados</a>
+   Link:<a href="https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396739521_How_Streaming_Is_Reshaping_Latin_American_Music_Culture_The_Case_of_Mexican_Corridos_Tumbados</a>

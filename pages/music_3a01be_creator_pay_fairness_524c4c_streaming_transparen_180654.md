@@ -271,11 +271,11 @@ image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transpa
 Streaming services and music companies now publish far more royalty information than they did a decade ago. Annual transparency initiatives, public payout reports and industry datasets reveal billions of pounds flowing through the streaming economy. Yet [creator pay]({{ 'creator-pay/' | relative_url }}) remains one of musics most persistent disputes.
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-1-dark.svg" | relative_url }}" alt="Transparency illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The reason is simple: transparency about the market is not the same as transparency about an individual creators income. A report can show how much a platform paid to the industry overall, how many artists crossed a revenue threshold, or how [royalties]({{ 'royalties/' | relative_url }}) are allocated in principle. What it often cannot show is how much a particular songwriter, performer or producer should have received under a specific contract. That gap between aggregate visibility and contract-level accountability explains why bigger royalty reports have not resolved arguments over creator pay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span>
+The reason is simple: transparency about the market is not the same as transparency about an individual creators income. A report can show how much a platform paid to the industry overall, how many artists crossed a revenue threshold, or how [royalties]({{ 'royalties/' | relative_url }}) are allocated in principle. What it often cannot show is how much a particular songwriter, performer or producer should have received under a specific contract. That gap between aggregate visibility and contract-level accountability explains why bigger royalty reports have not resolved arguments over creator pay.<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span>
 
 ## What Industry Transparency Reports Reveal
 
-The most visible example is Spotifys annual Loud & Clear initiative. The company publishes data on total royalty payments, earnings thresholds and the mechanics of its royalty system. Spotify states that roughly two-thirds of its music revenue is paid to [rights]({{ 'rights/' | relative_url }}) holders and explains that royalties are distributed according to each rights holders share of total streams in a given market and period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</span></span></span>
+The most visible example is Spotifys annual Loud & Clear initiative. The company publishes data on total royalty payments, earnings thresholds and the mechanics of its royalty system. Spotify states that roughly two-thirds of its music revenue is paid to [rights]({{ 'rights/' | relative_url }}) holders and explains that royalties are distributed according to each rights holders share of total streams in a given market and period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</span></span></span>
 
 These reports provide useful information that was previously difficult to [access]({{ 'access/' | relative_url }}):
 
@@ -285,11 +285,11 @@ These reports provide useful information that was previously difficult to [acces
 * Growth in industry-wide revenues.
 * The number of artists reaching certain earnings levels.
 * Basic explanations of royalty allocation systems.
-* International trends in music consumption and payouts. Spotify for Artists <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span>
+* International trends in music consumption and payouts. Spotify for Artists<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span>
 
 </div>
 
-Such datasets have value because they challenge common misconceptions. They can demonstrate that streaming revenues have grown substantially and that platforms are transferring large sums to labels, publishers and other rights holders. They also allow policymakers and researchers to understand broader market trends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span>
+Such datasets have value because they challenge common misconceptions. They can demonstrate that streaming revenues have grown substantially and that platforms are transferring large sums to labels, publishers and other rights holders. They also allow policymakers and researchers to understand broader market trends.<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span>
 
 For debates about the health of the overall music economy, this information matters. For disputes about an individual creators pay, however, it is only the beginning of the story.
 
@@ -299,7 +299,7 @@ For debates about the health of the overall music economy, this information matt
 
 The central limitation of transparency reports is that they usually stop at the point where money reaches rights holders.
 
-Spotify itself explains that it pays selected rights holders rather than creators directly in most cases. Once money reaches a label, publisher, distributor or other intermediary, the eventual amount received by an artist depends on separate contractual arrangements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</span></span></span>
+Spotify itself explains that it pays selected rights holders rather than creators directly in most cases. Once money reaches a label, publisher, distributor or other intermediary, the eventual amount received by an artist depends on separate contractual arrangements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</span></span></span>
 
 A public report may reveal that a [catalogue]({{ 'catalogue/' | relative_url }}) generated 100,000 in streaming royalties. It does not automatically reveal:
 
@@ -317,24 +317,24 @@ A public report may reveal that a [catalogue]({{ 'catalogue/' | relative_url }})
 
 As a result, two artists generating identical streaming revenues can receive dramatically different personal incomes. One may control rights through a distribution deal and retain most revenue. Another may receive only a contractual royalty share after recoupment and deductions.
 
-This distinction repeatedly surfaced during the UK Parliaments inquiry into music streaming. The inquiry concluded that major questions about remuneration could not be answered solely by examining platform payouts because contractual relationships further down the chain strongly influence creator earnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span>
+This distinction repeatedly surfaced during the UK Parliaments inquiry into music streaming. The inquiry concluded that major questions about remuneration could not be answered solely by examining platform payouts because contractual relationships further down the chain strongly influence creator earnings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-2-dark.svg" | relative_url }}" alt="Transparency illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Missing Link Between Revenue and Remuneration
 
 A recurring feature of creator-pay disputes is that the parties often agree on the top-line revenue figures while disagreeing about what those figures mean.
 
-Consider a platform announcing that it paid more than US$11 billion to the music industry in a single year. That figure may be accurate. Yet a performer examining a royalty statement is asking a different question: How did my share become this amount? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-title">Music Radar&quot;Spotify is the highest-paying retailer globally</span><span class="citation-popover-snippet">The report reveals that in 2025, Spotify paid the music industry over $11 billion, bringing its total lifetime payouts to nearly $70 bill...</span></span></span>
+Consider a platform announcing that it paid more than US$11 billion to the music industry in a single year. That figure may be accurate. Yet a performer examining a royalty statement is asking a different question: How did my share become this amount?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-title">Music Radar&quot;Spotify is the highest-paying retailer globally</span><span class="citation-popover-snippet">The report reveals that in 2025, Spotify paid the music industry over $11 billion, bringing its total lifetime payouts to nearly $70 bill...</span></span></span>
 
 Transparency reports generally answer questions about revenue generation. Creators frequently need answers about revenue allocation.
 
-This distinction explains why public disclosures can sometimes intensify disputes rather than settle them. When creators see evidence of growing industry revenues but cannot reconcile those figures with their own earnings, [attention]({{ 'attention/' | relative_url }}) shifts from platform payments to contract terms, accounting practices and rights ownership structures. The argument moves from How much money exists? to How was my share calculated? <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span>
+This distinction explains why public disclosures can sometimes intensify disputes rather than settle them. When creators see evidence of growing industry revenues but cannot reconcile those figures with their own earnings, [attention]({{ 'attention/' | relative_url }}) shifts from platform payments to contract terms, accounting practices and rights ownership structures. The argument moves from How much money exists? to How was my share calculated?<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span>
 
 ## Why Auditability Matters for Creator Trust
 
 Because aggregate reporting cannot resolve contract-specific questions, many reform efforts have focused on audit rights and accounting transparency.
 
-The UKs voluntary Code of Good Practice on Transparency in Music Streaming, published in 2024, places significant emphasis on access to information and contractual audit rights. The code states that creators should have the right to audit financial information related to streaming royalties and encourages cooperation when audits are conducted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...January 31, 2024  31 Jan 2024  Recipient Parties (including Music Makers) shou...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">Transparency Code on Music Streaming...31 Jan 2024  The music industry has agreed a Code of Good Practice on Transparency in Music Stre...</span></span></span>
+The UKs voluntary Code of Good Practice on Transparency in Music Streaming, published in 2024, places significant emphasis on access to information and contractual audit rights. The code states that creators should have the right to audit financial information related to streaming royalties and encourages cooperation when audits are conducted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...January 31, 2024  31 Jan 2024  Recipient Parties (including Music Makers) shou...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">Transparency Code on Music Streaming...31 Jan 2024  The music industry has agreed a Code of Good Practice on Transparency in Music Stre...</span></span></span>
 
 Auditability matters because it addresses a different problem from public transparency.
 
@@ -361,192 +361,192 @@ Auditability asks:
 
 The second set of questions is often more important to creators. A musician cannot verify personal earnings using industry-wide averages. They need access to the underlying accounting records that produced their own royalty statement.
 
-The UK Parliaments continuing examination of streaming economics has repeatedly highlighted information asymmetries between creators and larger rights-holding organisations. Better access to royalty information and auditing mechanisms has therefore become a central policy discussion, separate from debates about the size of streaming payments themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span>
+The UK Parliaments continuing examination of streaming economics has repeatedly highlighted information asymmetries between creators and larger rights-holding organisations. Better access to royalty information and auditing mechanisms has therefore become a central policy discussion, separate from debates about the size of streaming payments themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-3-dark.svg" | relative_url }}" alt="Transparency illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Transparency Is Necessary but Not Sufficient
 
-The modern streaming industry is substantially more transparent than it was in the early years of digital music. Platforms publish royalty guides, governments have encouraged transparency codes, and public datasets now offer unprecedented visibility into market-wide revenues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the potential economic impact of er on performers and the music market in the uk</span><span class="citation-popover-snippet">potential economic impact of ER on performers and...19 Feb 2024  The purpose of the work was to consider the impact of introducing ER t...</span></span></span>
+The modern streaming industry is substantially more transparent than it was in the early years of digital music. Platforms publish royalty guides, governments have encouraged transparency codes, and public datasets now offer unprecedented visibility into market-wide revenues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">the potential economic impact of er on performers and the music market in the uk</span><span class="citation-popover-snippet">potential economic impact of ER on performers and...19 Feb 2024  The purpose of the work was to consider the impact of introducing ER t...</span></span></span>
 
 Yet creator pay disputes persist because transparency reports largely illuminate the flow of money into the system rather than the contractual pathways through which money reaches individual creators. Public datasets can explain market growth, but they cannot prove whether a specific songwriter, performer or producer was paid correctly.
 
-That is why larger royalty reports have not ended the argument over streaming remuneration. They answer important questions about the scale of the market, while leaving unresolved the more personal question at the centre of creator pay: not how much the industry earned, but how much each creator was entitled to receive and why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...January 31, 2024  31 Jan 2024  Recipient Parties (including Music Makers) shou...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+That is why larger royalty reports have not ended the argument over streaming remuneration. They answer important questions about the scale of the market, while leaving unresolved the more personal question at the centre of creator pay: not how much the industry earned, but how much each creator was entitled to receive and why.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...January 31, 2024  31 Jan 2024  Recipient Parties (including Music Makers) shou...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqgVEX6v1d0" title="Fact-Checking Spotify&#x27;s &quot;Loud &amp; Clear&quot; Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqgVEX6v1d0" target="_blank" rel="noopener noreferrer">Fact-Checking Spotify&#x27;s &quot;Loud &amp; Clear&quot; Report</a></p><p class="youtube-embed-meta">Channel: Prof John &middot; Views: 400 &middot; Uploaded: March 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqgVEX6v1d0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqgVEX6v1d0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Bigger Royalty Reports Still Leave Questions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Bigger Royalty Reports Still Leave Questions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains royalties, contracts, rights ownership, accounting, and why payout transparency often fails at contract level.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains royalties, contracts, rights ownership, accounting, and why payout transparency often fails at contract level.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Provides context for how digital distribution changed music economics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how digital distribution changed music economics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition+Jeff+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Money and Success 8th Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9201603-M.jpg" alt="Cover for Music Money and Success 8th Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition+Jeff+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Money and Success 8th Edition">Music Money and Success 8th Edition</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Brabec, Todd Brabec</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition+Jeff+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Money and Success 8th Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9201603-M.jpg" alt="Cover for Music Money and Success 8th Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition+Jeff+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Money and Success 8th Edition">Music Money and Success 8th Edition</a>
+</h4>
+<p class="fr-book-author">By Jeff Brabec, Todd Brabec</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Music trade, Music, economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition+Jeff+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Music trade, Music, economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition+Jeff+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Streaming+Music%2C+Streaming+Capital+Eric+Drott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Streaming Music, Streaming Capital on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14590828-M.jpg" alt="Cover for Streaming Music, Streaming Capital" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Streaming+Music%2C+Streaming+Capital+Eric+Drott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Streaming Music, Streaming Capital">Streaming Music, Streaming Capital</a>
-        </h4>
-        <p class="fr-book-author">By Eric Drott</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Streaming+Music%2C+Streaming+Capital+Eric+Drott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Streaming Music, Streaming Capital on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14590828-M.jpg" alt="Cover for Streaming Music, Streaming Capital" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Streaming+Music%2C+Streaming+Capital+Eric+Drott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Streaming Music, Streaming Capital">Streaming Music, Streaming Capital</a>
+</h4>
+<p class="fr-book-author">By Eric Drott</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Streaming+Music%2C+Streaming+Capital+Eric+Drott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Streaming+Music%2C+Streaming+Capital+Eric+Drott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Money and Success 8th Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Money+and+Success+8th+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Money and Success 8th Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster"><img src="{{ '/assets/images/marketplace-covers/21e59d16e1325f0010da.jpg' | relative_url }}" alt="Listing image for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster"><img src="{{ '/assets/images/marketplace-covers/21e59d16e1325f0010da.jpg' | relative_url }}" alt="Listing image for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0b1a51e7e4ddaaf2203.jpg' | relative_url }}" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0b1a51e7e4ddaaf2203.jpg' | relative_url }}" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-6c916a-why-bigger-royalty-reports-still-leave-questions-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ That is why larger royalty reports have not ended the argument over streaming re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ That is why larger royalty reports have not ended the argument over streaming re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ That is why larger royalty reports have not ended the argument over streaming re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ That is why larger royalty reports have not ended the argument over streaming re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ That is why larger royalty reports have not ended the argument over streaming re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,171 +752,171 @@ That is why larger royalty reports have not ended the argument over streaming re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</p></details>
+   Link:<a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideWe pay rightsholders based on streamshare  their share of total streams in a given month. E.g., if an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: musicradar.com  
    Title: Music Radar"Spotify is the highest-paying retailer globally  
-   Link: <a href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The report reveals that in 2025, Spotify paid the music industry over $11 billion, bringing its total lifetime payouts to nearly $70 bill...</p></details>
+   Link:<a href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report reveals that in 2025, Spotify paid the music industry over $11 billion, bringing its total lifetime payouts to nearly $70 bill...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</p></details>
+   Link:<a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesMPs call for a &#x27;complete reset&#x27; of music streaming to fairly...15 Jul 2021  Artists must be given a legal right...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/publications/33512/documents/182096/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/33512/documents/182096/default/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesEconomics of music streaming: follow-up13 Jan 2023  In July 2021, we published our Report into the Economics of...</p></details>
+   Link:<a href="https://committees.parliament.uk/publications/33512/documents/182096/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/33512/documents/182096/default/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesEconomics of music streaming: follow-up13 Jan 2023  In July 2021, we published our Report into the Economics of...</p></details>
    Published: July 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of Good Practice on Transparency in...January 31, 2024  31 Jan 2024  Recipient Parties (including Music Makers) shou...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of Good Practice on Transparency in...January 31, 2024  31 Jan 2024  Recipient Parties (including Music Makers) shou...</p></details>
    Published: January 31, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: industry transparency code on music streaming announced by government  
-   Link: <a href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency Code on Music Streaming...31 Jan 2024  The music industry has agreed a Code of Good Practice on Transparency in Music Stre...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency Code on Music Streaming...31 Jan 2024  The music industry has agreed a Code of Good Practice on Transparency in Music Stre...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: committees.parliament.uk  
    Title: UK Parliament Committees Economics of music streaming: follow-up  
-   Link: <a href="https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Committee published its Report in July 2021 and the Government Response was published...Read more...</p></details>
+   Link:<a href="https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/7041/economics-of-music-streaming-followup/publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Committee published its Report in July 2021 and the Government Response was published...Read more...</p></details>
    Published: July 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: committees.parliament.uk  
    Title: uk Economics of music streaming  
-   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming - Committees - UK ParliamentMPs will examine what economic impact music streaming is having on artists, record labels...</p></details>
+   Link:<a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming - Committees - UK ParliamentMPs will examine what economic impact music streaming is having on artists, record labels...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hansard.parliament.uk  
    Title: Creator Remuneration From Music Streaming Label Led Principles  
-   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remuneration from Music Streaming: Label-led22 Jul 2025  UK record companies have now agreed to a set of voluntary measures that aim to...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remuneration from Music Streaming: Label-led22 Jul 2025  UK record companies have now agreed to a set of voluntary measures that aim to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/16071/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/16071/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming- Recording artists and sessions musicians should be able to earn performance royalties from the streaming of their rec...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/16071/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/16071/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of music streaming- Recording artists and sessions musicians should be able to earn performance royalties from the streaming of their rec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: the potential economic impact of er on performers and the music market in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>potential economic impact of ER on performers and...19 Feb 2024  The purpose of the work was to consider the impact of introducing ER t...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/equitable-remuneration-er-in-the-streaming-age/the-potential-economic-impact-of-er-on-performers-and-the-music-market-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>potential economic impact of ER on performers and...19 Feb 2024  The purpose of the work was to consider the impact of introducing ER t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Music and streaming  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report on Economics of music streaming (2021), paras 161-178. Page 149. 149. Figure 6.1: Summary of how music can appear on UUC platforms...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report on Economics of music streaming (2021), paras 161-178. Page 149. 149. Figure 6.1: Summary of how music can appear on UUC platforms...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023  Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
+   Link:<a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Royalty System to Drive an Additional $1...20 Nov 2023  Starting in early 2024, tracks must have reached at least 1,000 streams in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026  In 2025, artists who generated more than $500,000 in Spotify royalti...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026  In 2025, artists who generated more than $500,000 in Spotify royalti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: support.spotify.com  
    Title: understanding spotify royalties  
-   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesWhen an eligible song gets played on Spotify, the rightsholders receive royalties for it, whether it&#x27;s played by a Premi...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesWhen an eligible song gets played on Spotify, the rightsholders receive royalties for it, whether it&#x27;s played by a Premi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>$11B in 2025 Payouts to What We&#x27;re Building for...28 Jan 2026  Today, Spotify accounts for roughly 30% of recorded music revenue...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>$11B in 2025 Payouts to What We&#x27;re Building for...28 Jan 2026  Today, Spotify accounts for roughly 30% of recorded music revenue...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: artist.tools  
    Title: a guide to royalties for spotify  
-   Link: <a href="https://www.artist.tools/post/a-guide-to-royalties-for-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-for-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025  It&#x27;s determined by your &quot;streamshare.&quot; If your tracks made up 0.1% of all streams on Spotify in a given month, you get 0.1%...</p></details>
+   Link:<a href="https://www.artist.tools/post/a-guide-to-royalties-for-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-for-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025  It&#x27;s determined by your &quot;streamshare.&quot; If your tracks made up 0.1% of all streams on Spotify in a given month, you get 0.1%...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearSpotify Loud &amp; ClearUncover how royalty calculations and artist payouts really work. Find out how royalties work on Spotify...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear A Policy Roadmap  
-   Link: <a href="https://loudandclear.byspotify.com/policy-roadmap/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/policy-roadmap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearA Policy Roadmap - Loud and ClearRightsholders  including labels and publishers  receive roughly twothirds of every doll...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/policy-roadmap/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/policy-roadmap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearA Policy Roadmap - Loud and ClearRightsholders  including labels and publishers  receive roughly twothirds of every doll...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faq/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions, Answered - Loud and ClearFans pay for unlimited access, not per track they listen to. So a [per stream](&amp;#123;&amp;#123; &#x27;per-stream/&#x27; | relative_url &amp;#125;&amp;#125;) rate isn&#x27;t actually ho...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Questions, Answered - Loud and ClearFans pay for unlimited access, not per track they listen to. So a [per stream](&amp;#123;&amp;#123; &#x27;per-stream/&#x27; | relative_url &amp;#125;&amp;#125;) rate isn&#x27;t actually ho...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music Creators&#x27; Earnings in the Digital EraThe UK Intellectual Property Office commissioned research on music creators&#x27; earnings, l...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music Creators&#x27; Earnings in the Digital EraThe UK Intellectual Property Office commissioned research on music creators&#x27; earnings, l...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mpaonline.org.uk  
-   Link: <a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DCMS Economics Of Streaming InquiryThe inquiry sought to investigate the economic impact of streaming on creators remuneration and the wi...</p></details>
+   Link:<a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DCMS Economics Of Streaming InquiryThe inquiry sought to investigate the economic impact of streaming on creators remuneration and the wi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ituaj.jp  
-   Link: <a href="https://ituaj.jp/wp-content/uploads/2025/02/nb37-1_web5_Special_Music-Rights-Business_JASRAC_Endo-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ituaj.jp/wp-content/uploads/2025/02/nb37-1_web5_Special_Music-Rights-Business_JASRAC_Endo-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rights of Music Creators: Current State and IssuesIssues Faced by Music Creators. One of the biggest problems affecting music creators is...</p></details>
+   Link:<a href="https://ituaj.jp/wp-content/uploads/2025/02/nb37-1_web5_Special_Music-Rights-Business_JASRAC_Endo-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ituaj.jp/wp-content/uploads/2025/02/nb37-1_web5_Special_Music-Rights-Business_JASRAC_Endo-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rights of Music Creators: Current State and IssuesIssues Faced by Music Creators. One of the biggest problems affecting music creators is...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: musicartistscoalition.com  
-   Link: <a href="https://www.musicartistscoalition.com/issues/uk-parliament-committee-report-on-the-economics-of-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.musicartistscoalition.com/issues/uk-parliament-committee-report-on-the-economics-of-music-streaming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament Committee Report on the Economics of...The recommendations to benefit artists included: 50/50 [royalty splits](&amp;#123;&amp;#123; &#x27;royalty-splits/&#x27; | relative_url &amp;#125;&amp;#125;), giving recla...</p></details>
+   Link:<a href="https://www.musicartistscoalition.com/issues/uk-parliament-committee-report-on-the-economics-of-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.musicartistscoalition.com/issues/uk-parliament-committee-report-on-the-economics-of-music-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament Committee Report on the Economics of...The recommendations to benefit artists included: 50/50 [royalty splits](&amp;#123;&amp;#123; &#x27;royalty-splits/&#x27; | relative_url &amp;#125;&amp;#125;), giving recla...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mce.dataobservatory.eu  
-   Link: <a href="https://mce.dataobservatory.eu/empirical.html" target="_blank" rel="noopener noreferrer nofollow">https://mce.dataobservatory.eu/empirical.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Music Creator&#x27;s EarningsA research document provided for the Music Creators&#x27; Earnings Project commissioned by the UK Intellectual Prope...</p></details>
+   Link:<a href="https://mce.dataobservatory.eu/empirical.html" target="_blank" rel="noopener noreferrer nofollow">https://mce.dataobservatory.eu/empirical.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Music Creator&#x27;s EarningsA research document provided for the Music Creators&#x27; Earnings Project commissioned by the UK Intellectual Prope...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify is trumpeting big paydays for artists  but only a tiny...12 Mar 2025  Spotify has published its Loud &amp; Clear report, corrallin...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify is trumpeting big paydays for artists  but only a tiny...12 Mar 2025  Spotify has published its Loud &amp; Clear report, corrallin...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bristows.com  
-   Link: <a href="https://www.bristows.com/viewpoint/articles/the-house-of-commons-digital-culture-media-and-sport-select-committee-publishes-a-report-on-their-inquiry-into-the-economics-of-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.bristows.com/viewpoint/articles/the-house-of-commons-digital-culture-media-and-sport-select-committee-publishes-a-report-on-their-inquiry-into-the-economics-of-music-streaming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The House of Commons Digital, Culture, Media and Sport...8 Sept 2021  The report attempts to provide comprehensive analysis of the stat...</p></details>
+   Link:<a href="https://www.bristows.com/viewpoint/articles/the-house-of-commons-digital-culture-media-and-sport-select-committee-publishes-a-report-on-their-inquiry-into-the-economics-of-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://www.bristows.com/viewpoint/articles/the-house-of-commons-digital-culture-media-and-sport-select-committee-publishes-a-report-on-their-inquiry-into-the-economics-of-music-streaming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The House of Commons Digital, Culture, Media and Sport...8 Sept 2021  The report attempts to provide comprehensive analysis of the stat...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: recordoftheday.com  
    Title: industry transparency code on music streaming announced by government  
-   Link: <a href="https://www.recordoftheday.com/news-and-press/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/industry-transparency-code-on-music-streaming-announced-by-government</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Industry transparency code on music streaming announced...31 Jan 2024  This is part of the process to help improve creators&#x27; understand...</p></details>
+   Link:<a href="https://www.recordoftheday.com/news-and-press/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/industry-transparency-code-on-music-streaming-announced-by-government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Industry transparency code on music streaming announced...31 Jan 2024  This is part of the process to help improve creators&#x27; understand...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: musicbusinessresearch.wordpress.com  
    Title: the music streaming economy part 15 pro rata versus user centric  
-   Link: <a href="https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/" target="_blank" rel="noopener noreferrer nofollow">https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Economy  Part 15: Pro-Rata versus...23 Sept 2024  This means that the pro-rata model benefits top artists, while less...</p></details>
+   Link:<a href="https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/" target="_blank" rel="noopener noreferrer nofollow">https://musicbusinessresearch.wordpress.com/2024/09/23/the-music-streaming-economy-part-15-pro-rata-versus-user-centric/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Economy  Part 15: Pro-Rata versus...23 Sept 2024  This means that the pro-rata model benefits top artists, while less...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: royaltyexchange.com  
    Title: how music streaming platforms calculate payouts per stream 2025  
-   Link: <a href="https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Platforms Calculate Payouts Per...4 Mar 2025  For instance, Spotify allocates about 6570% of its revenue to rights...</p></details>
+   Link:<a href="https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/how-music-streaming-platforms-calculate-payouts-per-stream-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Platforms Calculate Payouts Per...4 Mar 2025  For instance, Spotify allocates about 6570% of its revenue to rights...</p></details>

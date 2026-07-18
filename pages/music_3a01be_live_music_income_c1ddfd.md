@@ -501,7 +501,7 @@ image: /assets/images/music_3a01be_live_music_income_c1ddfd-overview-social.jpg
 
 ## Introduction
 
-Live music still matters financially because it pays differently from recordings. Streaming can spread a song globally, but the money is usually delayed, rights-dependent and thinly divided across labels, publishers, platforms, distributors and collaborators. A concert, by contrast, can create several kinds of value at once: ticket income, a performance fee, merchandise sales, public performance [royalties]({{ 'royalties/' | relative_url }}) for songs, fan data, local spending, press [attention]({{ 'attention/' | relative_url }}) and a stronger bond with listeners. That does not make touring easy or equally profitable. It is expensive, risky and increasingly unequal. But it remains one of the few places where music turns attention into visible economic activity in a single night, and where artists can prove demand beyond play counts. Recorded music revenues reached US$31.7 billion globally in 2025, with streaming making up 69.6% of recorded income, but live performance remains a separate economic engine rather than a side activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
+Live music still matters financially because it pays differently from recordings. Streaming can spread a song globally, but the money is usually delayed, rights-dependent and thinly divided across labels, publishers, platforms, distributors and collaborators. A concert, by contrast, can create several kinds of value at once: ticket income, a performance fee, merchandise sales, public performance [royalties]({{ 'royalties/' | relative_url }}) for songs, fan data, local spending, press [attention]({{ 'attention/' | relative_url }}) and a stronger bond with listeners. That does not make touring easy or equally profitable. It is expensive, risky and increasingly unequal. But it remains one of the few places where music turns attention into visible economic activity in a single night, and where artists can prove demand beyond play counts. Recorded music revenues reached US$31.7 billion globally in 2025, with streaming making up 69.6% of recorded income, but live performance remains a separate economic engine rather than a side activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-overview.webp" | relative_url }}" alt="Overview image for Live Income" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a gig earns differently from a stream
@@ -510,15 +510,15 @@ The financial logic of live music begins with [scarcity]({{ 'scarcity/' | relati
 
 For the artist, live work can also concentrate income. A fee for a small venue show, a share of ticket sales, a festival slot or a tour guarantee may be negotiated before the performance. This does not mean the artist keeps the full ticket price. Promoters, venues, ticketing companies, production suppliers, managers, agents, crew, transport, accommodation, insurance, tax and security all sit inside the live cost chain. But the artist can sometimes see a clearer connection between audience demand and earnings than they do in streaming, where income depends on scale, territory, [platform rules]({{ 'platform-rules/' | relative_url }}) and rights ownership.
 
-This is why live music matters even in a streaming-dominated era. IFPI’s 2026 global report shows that paid subscriptions and streaming remain the main drivers of recorded music growth, but those figures describe the recorded market, not the full livelihood of working musicians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> The UK Musicians’ Census found that UK musicians’ average annual income from music work was £20,700, with 43% earning less than £14,000 from music; nearly half said a lack of sustainable income was a barrier to their career. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians &#124; The MU...</span></span></span> Live work is therefore not a luxury add-on for many musicians. It is often part of the patchwork that makes a career possible.
+This is why live music matters even in a streaming-dominated era. IFPI’s 2026 global report shows that paid subscriptions and streaming remain the main drivers of recorded music growth, but those figures describe the recorded market, not the full livelihood of working musicians.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span> The UK Musicians’ Census found that UK musicians’ average annual income from music work was £20,700, with 43% earning less than £14,000 from music; nearly half said a lack of sustainable income was a barrier to their career.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians &#124; The MU...</span></span></span> Live work is therefore not a luxury add-on for many musicians. It is often part of the patchwork that makes a career possible.
 
 ## Tickets, fees and touring economics
 
 Ticket money is the most visible part of live music, but it is not a simple transfer from fan to artist. A show is a small temporary business. Someone must hire the venue, staff the doors, provide sound and lighting, promote the date, pay support acts, arrange travel, cover risk and sell enough tickets to make the numbers work. At small scale, the musician may be the person doing much of that work. At large scale, it becomes a network of agents, promoters, production teams, venue operators and ticketing platforms.
 
-The biggest live companies show how large this economy has become. Live Nation says it connected 159 million fans across 55,000 events in 55 countries in 2025, and its fourth-quarter 2025 results showed concert revenue of US$5.15 billion, up 12% year on year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investors.livenationentertainment.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investors.livenationentertainment.com">[Live Nation Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investors.livenationentertainment.com</span><span class="citation-popover-title">Live Nation Entertainment Investor Relations:: Live Nation Entertainment (LYV</span><span class="citation-popover-snippet">Live Nation Entertainment Investor Relations:: Live Nation Entertainment (LYV</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">live nation entertainment full year and fourth quarter 2025 results</span></span></span> That does not describe the experience of a new band in a 150-capacity room, but it demonstrates the scale of demand for live music as a paid experience.
+The biggest live companies show how large this economy has become. Live Nation says it connected 159 million fans across 55,000 events in 55 countries in 2025, and its fourth-quarter 2025 results showed concert revenue of US$5.15 billion, up 12% year on year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://investors.livenationentertainment.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investors.livenationentertainment.com">[Live Nation Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investors.livenationentertainment.com</span><span class="citation-popover-title">Live Nation Entertainment Investor Relations:: Live Nation Entertainment (LYV</span><span class="citation-popover-snippet">Live Nation Entertainment Investor Relations:: Live Nation Entertainment (LYV</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.livenation.com">[Live Nation Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.livenation.com</span><span class="citation-popover-title">live nation entertainment full year and fourth quarter 2025 results</span><span class="citation-popover-snippet">live nation entertainment full year and fourth quarter 2025 results</span></span></span> That does not describe the experience of a new band in a 150-capacity room, but it demonstrates the scale of demand for live music as a paid experience.
 
-In the UK, live music spending has also become a major consumer market. LIVE reported that UK consumer spending on live music reached £6.68 billion in 2024, up 9.5% on the previous year and more than £2 billion higher than in 2019; concerts accounted for 75.3% of that spending, and more than 23.5 million music tourists attended UK live music events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> UK Music’s wider economic report put the UK music industry’s 2024 contribution at a record £8 billion in gross value added, with 220,000 full-time equivalent jobs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukmusic.org/research-reports/this-is-music-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmusic.org">[UK Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmusic.org</span><span class="citation-popover-title">this is music 2025</span><span class="citation-popover-snippet">this is music 2025</span></span></span>
+In the UK, live music spending has also become a major consumer market. LIVE reported that UK consumer spending on live music reached £6.68 billion in 2024, up 9.5% on the previous year and more than £2 billion higher than in 2019; concerts accounted for 75.3% of that spending, and more than 23.5 million music tourists attended UK live music events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> UK Music’s wider economic report put the UK music industry’s 2024 contribution at a record £8 billion in gross value added, with 220,000 full-time equivalent jobs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukmusic.org/research-reports/this-is-music-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukmusic.org">[UK Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukmusic.org</span><span class="citation-popover-title">this is music 2025</span><span class="citation-popover-snippet">this is music 2025</span></span></span>
 
 For an artist, the live income mix can include:
 
@@ -532,16 +532,16 @@ For an artist, the live income mix can include:
 
 </div>
 
-The problem is that gross ticket revenue can look impressive while net income is modest. Fuel, van hire, hotels, crew wages, visas, carnets, rehearsal rooms, instrument insurance and production costs can eat through a run before the artist is paid properly. The Musicians’ Union’s live engagement guidance reflects this reality: it notes that many gig fees are negotiated case by case and stresses written confirmation of terms so musicians can prove what has been agreed and recover fees if problems arise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians &#124; The MU...</span></span></span>
+The problem is that gross ticket revenue can look impressive while net income is modest. Fuel, van hire, hotels, crew wages, visas, carnets, rehearsal rooms, instrument insurance and production costs can eat through a run before the artist is paid properly. The Musicians’ Union’s live engagement guidance reflects this reality: it notes that many gig fees are negotiated case by case and stresses written confirmation of terms so musicians can prove what has been agreed and recover fees if problems arise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians &#124; The MU...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-dark.svg" | relative_url }}" alt="Live Income illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Performance royalties and public use
 
 Live music also pays through [rights]({{ 'rights/' | relative_url }}), not just through the fee at the door. When a songwriter’s work is performed publicly, that use can generate performance royalties. In the UK, PRS for Music licenses the public performance of compositions and distributes money to songwriters, composers and publishers. This matters because the person performing on stage is not always the person who wrote the songs, and because the song itself has a separate economic life from the ticketed event.
 
-For concerts and many other live music events, PRS’s live tariff increased from 3% to 4% of relevant gross box office receipts, while qualifying festivals have a lower rate of 2.5% or 2.7% depending on reporting criteria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Copyright Tribunal approves Tariff LP</span><span class="citation-popover-snippet">PRS for Music Copyright Tribunal approves Tariff LP</span></span></span> In practice, that means a live show can generate publishing income alongside performance fees and ticket revenue. A songwriter whose work is played at a large show may benefit even if they are not the headline performer.
+For concerts and many other live music events, PRS’s live tariff increased from 3% to 4% of relevant gross box office receipts, while qualifying festivals have a lower rate of 2.5% or 2.7% depending on reporting criteria.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Copyright Tribunal approves Tariff LP</span><span class="citation-popover-snippet">PRS for Music Copyright Tribunal approves Tariff LP</span></span></span> In practice, that means a live show can generate publishing income alongside performance fees and ticket revenue. A songwriter whose work is played at a large show may benefit even if they are not the headline performer.
 
-This mechanism is financially important but imperfect. It depends on setlists being reported and matched correctly. The Guardian reported in 2025 that PRS had collected money from more than 100,000 UK gigs and performances but could not allocate it because it lacked setlist information; the article described an “unclaimed pot” and cited a 2019 figure of £2.7 million in unallocated income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That dispute shows both why live performance royalties matter and why administration can determine who actually receives them.
+This mechanism is financially important but imperfect. It depends on setlists being reported and matched correctly. The Guardian reported in 2025 that PRS had collected money from more than 100,000 UK gigs and performances but could not allocate it because it lacked setlist information; the article described an “unclaimed pot” and cited a 2019 figure of £2.7 million in unallocated income.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That dispute shows both why live performance royalties matter and why administration can determine who actually receives them.
 
 For working musicians, the lesson is practical as well as structural. A gig can create income after the night itself, but only if the relevant songs are reported, the rightsholder information is accurate and the collecting society can connect the performance to the correct writers. Live royalties are not a bonus floating above the business; they are part of the machinery that turns public musical use into payment.
 
@@ -551,7 +551,7 @@ A live show is also a marketing event with financial consequences. Streaming pla
 
 This is why early-stage live work has value even when the immediate fee is small. A support slot can put an artist in front of listeners who would not have found them through playlists. A festival appearance can generate press, social clips and industry attention. A run of sold-out small shows can justify moving to larger venues. The financial payoff may come later through better guarantees, a stronger booking position, higher merchandise sales or a more valuable mailing list.
 
-Grassroots venues are especially important here because they function as the testing ground for future careers. The UK Parliament’s Culture, Media and Sport Committee described grassroots music venues as central to the live music circuit, noting that they hosted about 21.9 million audience visits across 176,000 events in 2022 and more than 1.6 million individual artist performances. It also quoted English Teacher’s Lily Fontaine saying grassroots venues gave her space to develop and start performing for money, making music feel like a possible career. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Grassroots music venues</span><span class="citation-popover-snippet">UK Parliament Grassroots music venues</span></span></span>
+Grassroots venues are especially important here because they function as the testing ground for future careers. The UK Parliament’s Culture, Media and Sport Committee described grassroots music venues as central to the live music circuit, noting that they hosted about 21.9 million audience visits across 176,000 events in 2022 and more than 1.6 million individual artist performances. It also quoted English Teacher’s Lily Fontaine saying grassroots venues gave her space to develop and start performing for money, making music feel like a possible career.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Grassroots music venues</span><span class="citation-popover-snippet">UK Parliament Grassroots music venues</span></span></span>
 
 That development role is financially different from streaming discovery. A playlist placement may lift a track; a live circuit can train an artist, build local demand, employ crew and create repeatable ticket-buying behaviour. The money is not only in the first gig. It is in the career infrastructure that a run of gigs can build.
 
@@ -560,11 +560,11 @@ That development role is financially different from streaming discovery. A playl
 
 The strongest argument against romanticising live music is that touring is not equally available to all artists. It rewards those who can absorb upfront costs, travel repeatedly, survive uncertainty and take time away from other paid work or caring responsibilities. The result is a financial filter: some artists can use live work to grow, while others are priced out before demand has a chance to develop.
 
-The grassroots end of the sector is particularly fragile. The 2024 parliamentary report found that the average grassroots music venue had a profit margin of just 0.5%, less than £3,000 a year, with venues in smaller communities making an average loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Grassroots music venues</span><span class="citation-popover-snippet">UK Parliament Grassroots music venues</span></span></span> A later Music Venue Trust annual report, covered by MusicRadar in 2026, said 53% of UK grassroots music venues made no profit in 2025, 30 small venues closed, and 175 towns and cities no longer received touring shows from professional artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The grassroots end of the sector is particularly fragile. The 2024 parliamentary report found that the average grassroots music venue had a profit margin of just 0.5%, less than £3,000 a year, with venues in smaller communities making an average loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Grassroots music venues</span><span class="citation-popover-snippet">UK Parliament Grassroots music venues</span></span></span> A later Music Venue Trust annual report, covered by MusicRadar in 2026, said 53% of UK grassroots music venues made no profit in 2025, 30 small venues closed, and 175 towns and cities no longer received touring shows from professional artists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters for artists because a weakened venue network means fewer first steps. If small rooms close, new musicians lose places to learn, test songs, meet fans, sell merchandise and make mistakes at survivable scale. The live market can then become more top-heavy: stadium and arena tours generate record spending, while the pipeline that produces future headliners becomes less secure.
 
-[Access]({{ 'access/' | relative_url }}) barriers also fall unevenly. The UK Musicians’ Census found that 23% of musicians said they did not earn enough to support themselves or their families, and 44% saw lack of sustainable income as a career barrier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians &#124; The MU...</span></span></span> Disabled musicians face further structural challenges: a Musicians’ Union report based on Musicians’ Census data found an average disability pay gap of £4,400 among musicians earning all their income from music, with higher debt levels among disabled musicians than non-disabled musicians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians &#124; The MU...</span></span></span>
+[Access]({{ 'access/' | relative_url }}) barriers also fall unevenly. The UK Musicians’ Census found that 23% of musicians said they did not earn enough to support themselves or their families, and 44% saw lack of sustainable income as a career barrier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians &#124; The MU...</span></span></span> Disabled musicians face further structural challenges: a Musicians’ Union report based on Musicians’ Census data found an average disability pay gap of £4,400 among musicians earning all their income from music, with higher debt levels among disabled musicians than non-disabled musicians.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Recommended Minimum Rates for Live Musicians &#124; The MU...</span></span></span>
 
 So live music still pays differently, but not automatically fairly. The artist who can fund rehearsals, travel and losses may reach better rooms; the artist who cannot may be stuck playing unpaid or underpaid shows, or may leave the field altogether.
 
@@ -577,194 +577,194 @@ The tension is that the live economy is both powerful and fragile. At the top, g
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-dark.svg" | relative_url }}" alt="Live Income illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Live Music Still Pays Differently. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Live Music Still Pays Differently. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains touring, royalties, ticketing and revenue structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains touring, royalties, ticketing and revenue structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Steve Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
+</h4>
+<p class="fr-book-author">By Steve Gordon</p>
         
-        <p class="fr-book-desc">Explains changing economics across recordings and live events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains changing economics across recordings and live events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tour:Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2732880-M.jpg" alt="Cover for Tour:Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tour:Smart">Tour:Smart</a>
-        </h4>
-        <p class="fr-book-author">By Martin Atkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tour:Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2732880-M.jpg" alt="Cover for Tour:Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tour:Smart">Tour:Smart</a>
+</h4>
+<p class="fr-book-author">By Martin Atkins</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Concert tours, Management, Vocational guidance, Handbooks, manuals, Music trade.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Concert tours, Management, Vocational guidance, Handbooks, manuals, Music trade.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-live-music-still-pays-differently-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="why-live-music-still-pays-differently-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -780,7 +780,7 @@ The tension is that the live economy is both powerful and fragile. At the top, g
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -800,7 +800,7 @@ The tension is that the live economy is both powerful and fragile. At the top, g
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -832,7 +832,7 @@ The tension is that the live economy is both powerful and fragile. At the top, g
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -884,7 +884,7 @@ The tension is that the live economy is both powerful and fragile. At the top, g
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -929,7 +929,7 @@ The tension is that the live economy is both powerful and fragile. At the top, g
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -970,186 +970,186 @@ The tension is that the live economy is both powerful and fragile. At the top, g
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</p></details>
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED MUSIC REVENUES GROW 6.4% AS RECORD COMPANIES DRIVE INNOVATION - IFPI...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union  
-   Link: <a href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians | The MU...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/first-ever-uk-musicians-census-provides-unparalleled-insight-into-the-careers-of-the-uk-s-musicians</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Ever UK Musicians’ Census Provides Unparalleled Insight into the Careers of the UK’s Musicians | The MU...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommended Minimum Rates for Live Musicians | The MU...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/live-engagement-rates-of-pay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommended Minimum Rates for Live Musicians | The MU...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Grassroots music venues  
-   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: musicradar.com  
-   Link: <a href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis</a>  
+   Link:<a href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ifpi.org  
    Title: MITE 2025  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2025/09/MITE_2025.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/resources/</a>  
+   Link:<a href="https://www.ifpi.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/resources/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: committees.parliament.uk  
    Title: uk Written evidence  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/161871/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161871/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/161871/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161871/html/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: investors.livenationentertainment.com  
    Title: Live Nation Entertainment Investor Relations:: Live Nation Entertainment (LYV)  
-   Link: <a href="https://investors.livenationentertainment.com/" target="_blank" rel="noopener noreferrer nofollow">https://investors.livenationentertainment.com/</a>  
+   Link:<a href="https://investors.livenationentertainment.com/" target="_blank" rel="noopener noreferrer nofollow">https://investors.livenationentertainment.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsroom.livenation.com  
    Title: live nation entertainment full year and fourth quarter 2025 results  
-   Link: <a href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/</a>  
+   Link:<a href="https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.livenation.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high</a>  
+   Link:<a href="https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/sep/03/taylor-swifts-eras-tour-helps-fuel-uk-consumer-spending-on-live-music-to-record-67bn-high</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ukmusic.org  
    Title: this is music 2025  
-   Link: <a href="https://www.ukmusic.org/research-reports/this-is-music-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/research-reports/this-is-music-2025/</a>  
+   Link:<a href="https://www.ukmusic.org/research-reports/this-is-music-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/research-reports/this-is-music-2025/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: prsformusic.com  
    Title: PRS for Music Copyright Tribunal approves Tariff LP  
-   Link: <a href="https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing</a>  
+   Link:<a href="https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/press/archive/industry-reaches-agreement-on-new-live-music-[licensing</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union Musicians' Census Reveals Disabled  
-   Link: <a href="https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges</a>  
+   Link:<a href="https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/musicians-census-reveals-disabled-musicians-experience-discrimination-poor-wellbeing-and-financial-challenges</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: investors.livenationentertainment.com  
    Title: annual reports  
-   Link: <a href="https://investors.livenationentertainment.com/sec-filings/annual-reports" target="_blank" rel="noopener noreferrer nofollow">https://investors.livenationentertainment.com/sec-filings/annual-reports</a>  
+   Link:<a href="https://investors.livenationentertainment.com/sec-filings/annual-reports" target="_blank" rel="noopener noreferrer nofollow">https://investors.livenationentertainment.com/sec-filings/annual-reports</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: musiciansunion.org.uk  
    Title: how to report live performances to prs for music  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
+   Link:<a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy</a>  
+   Link:<a href="https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: musiciansunion.org.uk  
    Title: take the musicians census 2023  
-   Link: <a href="https://musiciansunion.org.uk/news/take-the-musicians-census-2023" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/take-the-musicians-census-2023</a>  
+   Link:<a href="https://musiciansunion.org.uk/news/take-the-musicians-census-2023" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/take-the-musicians-census-2023</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: musiciansunion.org.uk  
    Title: less than 24 hours left to take the musicians census 2023  
-   Link: <a href="https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023</a>  
+   Link:<a href="https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/less-than-24-hours-left-to-take-the-musicians-census-2023</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: prsformusic.com  
    Title: performing right society limited  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy</a>  
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf</a>  
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/licensing/live-events/tariff-lp/live-consultation-summary-responses.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ukmusic.org  
    Title: the four commercial assets inside the economics of the music industry  
-   Link: <a href="https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/</a>  
+   Link:<a href="https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukmusic.org/news/the-four-commercial-assets-inside-the-economics-of-the-music-industry/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Musician" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Musician</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Musician" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Musician</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd</a>  
+   Link:<a href="https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/uk-music-ltd_uk-musics-this-is-music-report-into-the-activity-7414970779660070912-dhjd</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CxDPvGxNCW-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CxDPvGxNCW-/</a>  
+   Link:<a href="https://www.instagram.com/p/CxDPvGxNCW-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CxDPvGxNCW-/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: store.mintel.com  
    Title: uk music concerts and festivals market report  
-   Link: <a href="https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report" target="_blank" rel="noopener noreferrer nofollow">https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report</a>  
+   Link:<a href="https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report" target="_blank" rel="noopener noreferrer nofollow">https://store.mintel.com/report/uk-music-concerts-and-festivals-market-report</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: prnewswire.com  
    Title: live nation entertainment third quarter 2025 results 302604664  
-   Link: <a href="https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html</a>  
+   Link:<a href="https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/live-nation-entertainment-third-quarter-2025-results-302604664.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cultuurmonitor.nl  
-   Link: <a href="https://www.cultuurmonitor.nl/en/domein/muziek/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultuurmonitor.nl/en/domein/muziek/</a>  
+   Link:<a href="https://www.cultuurmonitor.nl/en/domein/muziek/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultuurmonitor.nl/en/domein/muziek/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/[charts</a>  
+   Link:<a href="https://www.billboard.com/[charts" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/[charts</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pollstar.com  
-   Link: <a href="https://pollstar.com/charts" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/charts</a>  
+   Link:<a href="https://pollstar.com/charts" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/charts</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I</a>  
+   Link:<a href="https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/new-industry-focus_ifpi-highlights-91-surge-in-eu-recorded-activity-7376685496841936896-Pz8I</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/</a>  
+   Link:<a href="https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/makingmusicuk/posts/if-your-music-group-performs-in-public-you-may-need-to-pay-royalties-to-the-comp/1309040740779881/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: musicianscensus.co.uk  
-   Link: <a href="https://www.musicianscensus.co.uk/insight-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscensus.co.uk/insight-reports</a>  
+   Link:<a href="https://www.musicianscensus.co.uk/insight-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscensus.co.uk/insight-reports</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DU_usMTlwji/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU_usMTlwji/</a>  
+   Link:<a href="https://www.instagram.com/p/DU_usMTlwji/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU_usMTlwji/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: musicvenuetrust.com  
-   Link: <a href="https://musicvenuetrust.com/" target="_blank" rel="noopener noreferrer nofollow">https://musicvenuetrust.com/</a>  
+   Link:<a href="https://musicvenuetrust.com/" target="_blank" rel="noopener noreferrer nofollow">https://musicvenuetrust.com/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: musiciansfriend.com  
-   Link: <a href="https://www.musiciansfriend.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.musiciansfriend.com/</a>  
+   Link:<a href="https://www.musiciansfriend.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.musiciansfriend.com/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/495179813977387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/495179813977387/</a>  
+   Link:<a href="https://www.facebook.com/groups/495179813977387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/495179813977387/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: musicianscensus.co.uk  
-   Link: <a href="https://www.musicianscensus.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscensus.co.uk/</a>
+   Link:<a href="https://www.musicianscensus.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscensus.co.uk/</a>

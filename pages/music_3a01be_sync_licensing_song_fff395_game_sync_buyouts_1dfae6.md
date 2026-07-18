@@ -274,7 +274,7 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_
 
 ## Introduction
 
-A game sync placement can give a song a remarkably long second life. Unlike a film scene that lasts a few minutes, a game may expose players to the same music across dozens or even hundreds of hours. A track can become tied to a virtual city, a favourite mission, a racing route or a multiplayer memory. That intensity of exposure makes game [licensing]({{ 'licensing/' | relative_url }}) valuable, but it also creates tensions over [ownership]({{ 'ownership/' | relative_url }}), duration and compensation. The central dispute is often simple: developers want certainty and long-term control, while musicians and composers want to preserve future income and rights. As games have grown into one of the world's largest entertainment sectors, arguments over buyouts, royalties and licence terms have become increasingly visible. VGC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
+A game sync placement can give a song a remarkably long second life. Unlike a film scene that lasts a few minutes, a game may expose players to the same music across dozens or even hundreds of hours. A track can become tied to a virtual city, a favourite mission, a racing route or a multiplayer memory. That intensity of exposure makes game [licensing]({{ 'licensing/' | relative_url }}) valuable, but it also creates tensions over [ownership]({{ 'ownership/' | relative_url }}), duration and compensation. The central dispute is often simple: developers want certainty and long-term control, while musicians and composers want to preserve future income and rights. As games have grown into one of the world's largest entertainment sectors, arguments over buyouts, royalties and licence terms have become increasingly visible. VGC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1-dark.svg" | relative_url }}" alt="Game Deals illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Games Create Repeated Listening
@@ -283,7 +283,7 @@ Music in games functions differently from music in most screen media. A player m
 
 This repeated exposure can create unusually strong associations. Radio stations in open-world games, licensed songs in sports titles and recurring menu themes often become inseparable from the player's [memory]({{ 'memory/' | relative_url }}) of the game itself. When a placement succeeds, the song benefits from long-term engagement rather than a brief burst of [attention]({{ 'attention/' | relative_url }}).
 
-The commercial implications are significant. A publisher may want the right to keep using the music across updates, downloadable content, remasters, streaming features and future platform releases. For [rights]({{ 'rights/' | relative_url }}) holders, however, granting such broad rights can mean giving up opportunities to renegotiate as a game's audience and value grow over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[Polygon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span>
+The commercial implications are significant. A publisher may want the right to keep using the music across updates, downloadable content, remasters, streaming features and future platform releases. For [rights]({{ 'rights/' | relative_url }}) holders, however, granting such broad rights can mean giving up opportunities to renegotiate as a game's audience and value grow over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[Polygon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span>
 
 ## How Game Sync Terms Differ
 
@@ -291,7 +291,7 @@ The commercial implications are significant. A publisher may want the right to k
 
 Games often remain commercially active far longer than originally anticipated. A title released today may still be sold digitally a decade later, receive anniversary editions or gain new players through subscription services.
 
-Because of this uncertainty, music licences in games are frequently negotiated around duration and scope. Some deals are perpetual, while others expire after a fixed period. When licences expire, publishers must either renegotiate, remove the music or stop distributing the affected version of the game. Legal commentators note that games have historically been more likely than films to rely on limited-term licences, particularly when publishers did not expect products to remain commercially valuable for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[Polygon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">gta 4 soundtrack removed song list patch</span><span class="citation-popover-snippet">Grand Theft Auto 4 update removes a long list of songs27 Apr 2018 — The removal of expiring licensed songs is not much of a surprise thes...</span></span></span>
+Because of this uncertainty, music licences in games are frequently negotiated around duration and scope. Some deals are perpetual, while others expire after a fixed period. When licences expire, publishers must either renegotiate, remove the music or stop distributing the affected version of the game. Legal commentators note that games have historically been more likely than films to rely on limited-term licences, particularly when publishers did not expect products to remain commercially valuable for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[Polygon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">gta 4 soundtrack removed song list patch</span><span class="citation-popover-snippet">Grand Theft Auto 4 update removes a long list of songs27 Apr 2018 — The removal of expiring licensed songs is not much of a surprise thes...</span></span></span>
 
 The result is that game music rights are not merely about initial use. They are also about future distribution, re-releases, remasters and platform migrations.
 
@@ -301,242 +301,242 @@ The result is that game music rights are not merely about initial use. They are 
 
 For developers, broad rights reduce future risk. A licence covering all platforms, territories and future versions prevents costly renegotiations later. For musicians, however, such terms can dramatically increase the value of what they are surrendering.
 
-Industry guidance for game composers frequently stresses that contracts should specify who controls soundtrack releases, live performances, streaming exploitation and other future uses. These rights may become valuable years after a game's launch, especially if a soundtrack develops a dedicated audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcam.co.uk">[PCAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcam.co.uk</span><span class="citation-popover-title">PCAMA GUIDE FOR COMPOSERS IN THE VIDEO GAMES</span><span class="citation-popover-snippet">It is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</span></span></span>
+Industry guidance for game composers frequently stresses that contracts should specify who controls soundtrack releases, live performances, streaming exploitation and other future uses. These rights may become valuable years after a game's launch, especially if a soundtrack develops a dedicated audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcam.co.uk">[PCAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcam.co.uk</span><span class="citation-popover-title">PCAMA GUIDE FOR COMPOSERS IN THE VIDEO GAMES</span><span class="citation-popover-snippet">It is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</span></span></span>
 
 ## The Dispute Over Buyouts and Royalties
 
 ### What a Buyout Means
 
-A buyout generally means that a composer or rights holder receives a one-time payment while the commissioning company receives extensive ownership or control over the music. In game development, this often appears as a work-for-hire arrangement in which the studio owns the resulting copyright. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
+A buyout generally means that a composer or rights holder receives a one-time payment while the commissioning company receives extensive ownership or control over the music. In game development, this often appears as a work-for-hire arrangement in which the studio owns the resulting copyright.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
 
 From a publisher's perspective, buyouts simplify administration. The company knows exactly what it has paid and avoids future royalty accounting. From the creator's perspective, the arrangement transfers future upside to the publisher. If the game becomes a major success, the original payment may end up looking small relative to the value created.
 
-This tension has become one of the most debated issues in game music. The UK-based Musicians' Union has publicly campaigned against contracts that exclude composers from future royalty participation, arguing that buyouts can prevent creators from sharing in the long-term success of their work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/campaigns/fair-score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Musicians&#x27; Union Composers Against Music Buyouts</span><span class="citation-popover-snippet">Watch the video looking at buyouts, royalties, and protecting your future.Read more...</span></span></span>
+This tension has become one of the most debated issues in game music. The UK-based Musicians' Union has publicly campaigned against contracts that exclude composers from future royalty participation, arguing that buyouts can prevent creators from sharing in the long-term success of their work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/campaigns/fair-score" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Musicians&#x27; Union Composers Against Music Buyouts</span><span class="citation-popover-snippet">Watch the video looking at buyouts, royalties, and protecting your future.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-2-dark.svg" | relative_url }}" alt="Game Deals illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Composers Push Back
 
-Composers and songwriters often argue that game music can generate value beyond the game itself. Soundtracks may be streamed, sold separately, performed in [concerts]({{ 'concerts/' | relative_url }}) or licensed into other media. When rights are transferred entirely, creators may lose access to those future revenue streams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+Composers and songwriters often argue that game music can generate value beyond the game itself. Soundtracks may be streamed, sold separately, performed in [concerts]({{ 'concerts/' | relative_url }}) or licensed into other media. When rights are transferred entirely, creators may lose access to those future revenue streams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
-Professional discussions among composers frequently centre on the same concern: a buyout may appear reasonable when a project is small, but its consequences can extend decades into the future. Independent composers regularly debate how much additional compensation should be required before surrendering ownership altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">company wants a total buyout of music I made for their game</span><span class="citation-popover-snippet">What would a fair price be? For the licensing I had charged about $400 + $800 per minute.Read more...</span></span></span>
+Professional discussions among composers frequently centre on the same concern: a buyout may appear reasonable when a project is small, but its consequences can extend decades into the future. Independent composers regularly debate how much additional compensation should be required before surrendering ownership altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">company wants a total buyout of music I made for their game</span><span class="citation-popover-snippet">What would a fair price be? For the licensing I had charged about $400 + $800 per minute.Read more...</span></span></span>
 
-Critics of broad buyouts also point out that games increasingly generate music fandoms of their own. Successful soundtracks can attract millions of streams and become cultural products independent of the games that introduced them. In that environment, a one-time fee can feel disconnected from the continuing economic life of the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: videogameschronicle.com">[VGC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">videogameschronicle.com</span><span class="citation-popover-title">composers tell us why developers still dont take game music seriously</span><span class="citation-popover-snippet">VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+Critics of broad buyouts also point out that games increasingly generate music fandoms of their own. Successful soundtracks can attract millions of streams and become cultural products independent of the games that introduced them. In that environment, a one-time fee can feel disconnected from the continuing economic life of the music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: videogameschronicle.com">[VGC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">videogameschronicle.com</span><span class="citation-popover-title">composers tell us why developers still dont take game music seriously</span><span class="citation-popover-snippet">VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 ### Why Publishers Prefer Them
 
 Publishers have their own practical concerns. Games involve complex chains of rights, multiple territories and long support cycles. A buyout reduces legal uncertainty and helps ensure that future updates, ports and commercial uses are not blocked by unresolved music negotiations.
 
-For large companies managing global franchises, predictability can outweigh the benefits of royalty-sharing models. Negotiating separate approvals every time a game expands or reappears on a new platform creates administrative costs and legal risks that publishers often seek to avoid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
+For large companies managing global franchises, predictability can outweigh the benefits of royalty-sharing models. Negotiating separate approvals every time a game expands or reappears on a new platform creates administrative costs and legal risks that publishers often seek to avoid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamedeveloper.com">[Game Developer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamedeveloper.com</span><span class="citation-popover-snippet">Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5qQLpKHBqFc" title="Game Music Contracts, Taxes, &amp; Pricing | Audience Q&amp;A with Peter Jones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5qQLpKHBqFc" target="_blank" rel="noopener noreferrer">Game Music Contracts, Taxes, &amp; Pricing | Audience Q&amp;A with Peter Jones</a></p><p class="youtube-embed-meta">Channel: Steven Melin &middot; Views: 1.0K &middot; Uploaded: February 2020 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5qQLpKHBqFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5qQLpKHBqFc">Open on YouTube</a></p></div></div></div>
 
 ## When Licensing Terms Alter the Game Itself
 
-Perhaps the clearest demonstration of licensing stakes comes when rights expire. Several major games have had songs removed, replaced or altered because publishers could not or would not renew music licences. The Grand Theft Auto series has become a widely cited example. Over time, various entries have lost licensed tracks from their in-game radio stations after agreements expired, leading to patched versions that differ from the original release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span> Polygon These cases reveal a distinctive feature of game music licensing: contractual decisions made years earlier can directly affect what future pl <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[polygon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span> ayers experience. A film scene generally remains fixed once released, but a digitally distributed game can be modified long after launch. When music rights lapse, the playable world itself changes.
+Perhaps the clearest demonstration of licensing stakes comes when rights expire. Several major games have had songs removed, replaced or altered because publishers could not or would not renew music licences. The Grand Theft Auto series has become a widely cited example. Over time, various entries have lost licensed tracks from their in-game radio stations after agreements expired, leading to patched versions that differ from the original release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span> Polygon These cases reveal a distinctive feature of game music licensing: contractual decisions made years earlier can directly affect what future pl<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polygon.com">[polygon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polygon.com</span><span class="citation-popover-title">Do TV shows and movies lose rights to songs like video games do?</span><span class="citation-popover-snippet">For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</span></span></span> ayers experience. A film scene generally remains fixed once released, but a digitally distributed game can be modified long after launch. When music rights lapse, the playable world itself changes.
 
-For fans, this can feel like cultural erosion. For publishers, it illustrates the cost of limited-term licensing. For rights holders, it demonstrates why long-term usage rights carry substantial value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gtaforums.com">[GTA Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gtaforums.com</span><span class="citation-popover-title">976405 is there a way to renew expired music licenses</span><span class="citation-popover-snippet">There are, however, some musicians or more often their estates that simply won&#x27;t...Read more...</span></span></span>
+For fans, this can feel like cultural erosion. For publishers, it illustrates the cost of limited-term licensing. For rights holders, it demonstrates why long-term usage rights carry substantial value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamerant.com">[Gamerant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamerant.com</span><span class="citation-popover-title">grand theft auto rockstar remove music radio stations licensing</span><span class="citation-popover-snippet">Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gtaforums.com">[GTA Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gtaforums.com</span><span class="citation-popover-title">976405 is there a way to renew expired music licenses</span><span class="citation-popover-snippet">There are, however, some musicians or more often their estates that simply won&#x27;t...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aqCeihR8eiM" title="Music Licensing in Gaming: The Expanding Frontier for Music Placement &amp; Artist Discovery in Gaming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aqCeihR8eiM" target="_blank" rel="noopener noreferrer">Music Licensing in Gaming: The Expanding Frontier for Music Placement &amp; Artist Discovery in Gaming</a></p><p class="youtube-embed-meta">Channel: Ohio University Music Industry Summit &middot; Views: 150 &middot; Uploaded: June 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aqCeihR8eiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aqCeihR8eiM">Open on YouTube</a></p></div></div></div>
 
 ## A Growing Debate as Games Expand
 
-The growth of live-service games, digital storefronts and soundtrack streaming has intensified scrutiny of how music creators are compensated. Recent disputes have extended beyond individual contracts to broader questions about how music rights operate in digital game distribution and online availability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">PRS, which manages music royalties for composers and songwriters, claims Valve is unlawfully making its members&#x27; music available both in...</span></span></span>
+The growth of live-service games, digital storefronts and soundtrack streaming has intensified scrutiny of how music creators are compensated. Recent disputes have extended beyond individual contracts to broader questions about how music rights operate in digital game distribution and online availability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pcgamer.com">[PC Gamer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pcgamer.com</span><span class="citation-popover-snippet">PRS, which manages music royalties for composers and songwriters, claims Valve is unlawfully making its members&#x27; music available both in...</span></span></span>
 
 As games become longer-lived and more interconnected with streaming platforms, soundtrack releases and online services, the distinction between a simple sync placement and an ongoing music business relationship becomes harder to maintain. The core tension remains unresolved: developers seek permanent certainty, while creators seek participation in the enduring value their music may generate.
 
-That tension is precisely what makes game placements different from many other forms of sync licensing. A song in a game is not merely accompanying a scene. It may become part of a world that players return to for years, and the fight over who benefits from that longevity increasingly sits at the centre of modern game music deals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The offer, part of a $22,500 total payment shared among the band members, was for a full buyout of any future royalties from the game. Cr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: videogameschronicle.com">[VGC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">videogameschronicle.com</span><span class="citation-popover-title">composers tell us why developers still dont take game music seriously</span><span class="citation-popover-snippet">VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+That tension is precisely what makes game placements different from many other forms of sync licensing. A song in a game is not merely accompanying a scene. It may become part of a world that players return to for years, and the fight over who benefits from that longevity increasingly sits at the centre of modern game music deals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The offer, part of a $22,500 total payment shared among the band members, was for a full buyout of any future royalties from the game. Cr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: videogameschronicle.com">[VGC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">videogameschronicle.com</span><span class="citation-popover-title">composers tell us why developers still dont take game music seriously</span><span class="citation-popover-snippet">VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-3-dark.svg" | relative_url }}" alt="Game Deals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Songs Become Part of Game Worlds. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Songs Become Part of Game Worlds. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Provides legal and financial background relevant to licensing negotiations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides legal and financial background relevant to licensing negotiations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Composer%27s+Guide+to+Game+Music+Winifred+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Composer&#x27;s Guide to Game Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8882136-M.jpg" alt="Cover for A Composer&#x27;s Guide to Game Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Composer%27s+Guide+to+Game+Music+Winifred+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Composer&#x27;s Guide to Game Music">A Composer&#x27;s Guide to Game Music</a>
-        </h4>
-        <p class="fr-book-author">By Winifred Phillips</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Composer%27s+Guide+to+Game+Music+Winifred+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Composer&#x27;s Guide to Game Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8882136-M.jpg" alt="Cover for A Composer&#x27;s Guide to Game Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Composer%27s+Guide+to+Game+Music+Winifred+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Composer&#x27;s Guide to Game Music">A Composer&#x27;s Guide to Game Music</a>
+</h4>
+<p class="fr-book-author">By Winifred Phillips</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Games with music, Music, instruction and study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Composer%27s+Guide+to+Game+Music+Winifred+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Games with music, Music, instruction and study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Composer%27s+Guide+to+Game+Music+Winifred+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Rights+Unveiled+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Rights Unveiled on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Rights+Unveiled+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Rights Unveiled">Music Rights Unveiled</a>
-        </h4>
-        <p class="fr-book-author">By Steve Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Rights+Unveiled+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Rights Unveiled on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Rights+Unveiled+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Rights Unveiled">Music Rights Unveiled</a>
+</h4>
+<p class="fr-book-author">By Steve Gordon</p>
         
-        <p class="fr-book-desc">Explains sync rights, negotiations and buyout structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Rights+Unveiled+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sync rights, negotiations and buyout structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Rights+Unveiled+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Composer%27s+to+Game+Music+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Composer&#x27;s to Game Music books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Composer%27s+to+Game+Music+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Composer&#x27;s to Game Music books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles"><img src="{{ '/assets/images/marketplace-covers/299876f3eab4031391e3.jpg' | relative_url }}" alt="Listing image for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles"><img src="{{ '/assets/images/marketplace-covers/299876f3eab4031391e3.jpg' | relative_url }}" alt="Listing image for Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Wind-Up Music Box Bay Crib Mobile Replacement Brahms-Lullaby Singles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat And A Gramophone Music Box Plays A Lullaby"><img src="{{ '/assets/images/marketplace-covers/963b05c360257c71fe77.jpg' | relative_url }}" alt="Listing image for Cat And A Gramophone Music Box Plays A Lullaby" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Cat And A Gramophone Music Box Plays A Lullaby</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat And A Gramophone Music Box Plays A Lullaby"><img src="{{ '/assets/images/marketplace-covers/963b05c360257c71fe77.jpg' | relative_url }}" alt="Listing image for Cat And A Gramophone Music Box Plays A Lullaby" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Cat And A Gramophone Music Box Plays A Lullaby</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD"><img src="{{ '/assets/images/marketplace-covers/2121a3736003b80c6656.jpg' | relative_url }}" alt="Listing image for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD"><img src="{{ '/assets/images/marketplace-covers/2121a3736003b80c6656.jpg' | relative_url }}" alt="Listing image for MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">MUSIC BOX LULLABY CD - SOOTHING MELODIES FOR SLEEP &amp; RELAXATION CD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden"><img src="{{ '/assets/images/marketplace-covers/da12a67c49d4a1cb9dbf.jpg' | relative_url }}" alt="Listing image for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search <span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden"><img src="{{ '/assets/images/marketplace-covers/da12a67c49d4a1cb9dbf.jpg' | relative_url }}" alt="Listing image for Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">Vintage Sevi Mother And Baby Brahms Lullaby Music Box Wooden</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for lullaby music box">Search<span data-ebay-domain-label>eBay.co.uk</span>: lullaby music box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=lullaby+music+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lullaby music box" data-ebay-reference="game-deals-when-songs-become-part-of-game-worlds-music-lullaby-music-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ That tension is precisely what makes game placements different from many other f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ That tension is precisely what makes game placements different from many other f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ That tension is precisely what makes game placements different from many other f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ That tension is precisely what makes game placements different from many other f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ That tension is precisely what makes game placements different from many other f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,187 +742,187 @@ That tension is precisely what makes game placements different from many other f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: videogameschronicle.com  
    Title: composers tell us why developers still dont take game music seriously  
-   Link: <a href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow">https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</p></details>
+   Link:<a href="https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/" target="_blank" rel="noopener noreferrer nofollow">https://www.videogameschronicle.com/features/composers-tell-us-why-developers-still-dont-take-game-music-seriously/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VGCComposers tell us why developers still don&#x27;t take game...4 May 2021 — A buyout is an agreement where the party commissioning the work...</p></details>
    Published: May 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: polygon.com  
    Title: Do TV shows and movies lose rights to songs like video games do?  
-   Link: <a href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</p></details>
+   Link:<a href="https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For video games, titles like &quot;Alan Wake&quot; and &quot;Grand Theft Auto: Vice City&quot; have faced licensing problems leading to games being pulled or...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</p></details>
+   Link:<a href="https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/composer/comments/1ftrc8q/why_do_game_devs_want_the_composer_to_transfer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do game devs want the composer to transfer them...October 1, 2024 — The benefit of keeping your rights means that you get perf...</p></details>
    Published: October 1, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: company wants a total buyout of music I made for their game  
-   Link: <a href="https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What would a fair price be? For the licensing I had charged about $400 + $800 per minute.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GameAudio/comments/1vtgyw/need_some_advice_company_wants_a_total_buyout_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What would a fair price be? For the licensing I had charged about $400 + $800 per minute.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gamerant.com  
    Title: grand theft auto rockstar remove music radio stations licensing  
-   Link: <a href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</p></details>
+   Link:<a href="https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://gamerant.com/grand-theft-auto-rockstar-remove-music-radio-stations-licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto&#x27;s History of Removing Music23 Oct 2021 — Grand Theft Auto has a long history of removing music from various game...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: polygon.com  
    Title: gta 4 soundtrack removed song list patch  
-   Link: <a href="https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/" target="_blank" rel="noopener noreferrer nofollow">https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto 4 update removes a long list of songs27 Apr 2018 — The removal of expiring licensed songs is not much of a [surprise](&amp;#123;&amp;#123; &#x27;surprise/&#x27; | relative_url &amp;#125;&amp;#125;) thes...</p></details>
+   Link:<a href="https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/" target="_blank" rel="noopener noreferrer nofollow">https://www.polygon.com/2018/4/27/17292836/gta-4-soundtrack-removed-song-list-patch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto 4 update removes a long list of songs27 Apr 2018 — The removal of expiring licensed songs is not much of a [surprise](&amp;#123;&amp;#123; &#x27;surprise/&#x27; | relative_url &amp;#125;&amp;#125;) thes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Rockstar only remove certain songs from their...I know that there are licensures and such for having songs in game, and after s...</p></details>
+   Link:<a href="https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GrandTheftAutoV/comments/1aqxugi/why_does_rockstar_only_remove_certain_songs_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does Rockstar only remove certain songs from their...I know that there are licensures and such for having songs in game, and after s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/</a>  
+   Link:<a href="https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/gtaonline/comments/po6bdv/fyi_rockstar_is_starting_to_remove_songs_from_the/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gamedeveloper.com  
-   Link: <a href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow">https://www.gamedeveloper.com/audio/game-audio-contracts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</p></details>
+   Link:<a href="https://www.gamedeveloper.com/audio/game-audio-contracts" target="_blank" rel="noopener noreferrer nofollow">https://www.gamedeveloper.com/audio/game-audio-contracts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Game DeveloperGame Audio ContractsIn a buyout, the composer is hired to create an original music score on a &quot;work for hire&quot; basis. The co...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The offer, part of a $22,500 total payment shared among the band members, was for a full buyout of any future royalties from the game. Cr...</p></details>
+   Link:<a href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The offer, part of a $22,500 total payment shared among the band members, was for a full buyout of any future royalties from the game. Cr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pcam.co.uk  
    Title: PCAMA GUIDE FOR COMPOSERS IN THE VIDEO GAMES  
-   Link: <a href="https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</p></details>
+   Link:<a href="https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcam.co.uk/a-guide-for-composers-in-the-video-games-industry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is very normal for the standard employment contract in the games industry to state that all music copyright and IP is owned by the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: musiciansunion.org.uk  
    Title: Musicians' Union Composers Against Music Buyouts  
-   Link: <a href="https://musiciansunion.org.uk/campaigns/fair-score" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/campaigns/fair-score</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the video looking at buyouts, royalties, and protecting your future.Read more...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/campaigns/fair-score" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/campaigns/fair-score</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the video looking at buyouts, royalties, and protecting your future.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gtaforums.com  
    Title: 976405 is there a way to renew expired music licenses  
-   Link: <a href="https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are, however, some musicians or more often their estates that simply won&#x27;t...Read more...</p></details>
+   Link:<a href="https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://gtaforums.com/topic/976405-is-there-a-way-to-renew-expired-music-licenses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There are, however, some musicians or more often their estates that simply won&#x27;t...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pcgamer.com  
-   Link: <a href="https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS, which manages music royalties for composers and songwriters, claims Valve is unlawfully making its members&#x27; music available both in...</p></details>
+   Link:<a href="https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/games/notorious-uk-rights-group-launches-legal-action-against-valve-for-distributing-music-in-games-on-steam-without-a-license/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS, which manages music royalties for composers and songwriters, claims Valve is unlawfully making its members&#x27; music available both in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music is responsible for ensuring songwriters, composers, and publishers in the UK are paid for their music. Last year, music roy...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2019/apr/29/music-industry-takes-aim-at-fortnite-over-song-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music is responsible for ensuring songwriters, composers, and publishers in the UK are paid for their music. Last year, music roy...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Video" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoVideo is an electronic medium used for the [recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;), copying, playback, transmission, and display of moving visual images and pi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Video" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideoVideo is an electronic medium used for the [recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;), copying, playback, transmission, and display of moving visual images and pi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: steamcommunity.com  
-   Link: <a href="https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&amp;l=tchinese" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&amp;l=tchinese</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You must be out of your mind. Their license for the music expired and that&#x27;s it. You signed the EULA. #34.Read more...</p></details>
+   Link:<a href="https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&amp;l=tchinese" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/12210/discussions/0/1696045708645301099/?ctp=3&amp;l=tchinese</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You must be out of your mind. Their license for the music expired and that&#x27;s it. You signed the EULA. #34.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: steamcommunity.com  
-   Link: <a href="https://steamcommunity.com/app/271590/discussions/0/603025608224547784/" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/271590/discussions/0/603025608224547784/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing:: Grand Theft Auto V Legacy General...23 Mar 2025 — Yes, the music in GTA V (like previous Rockstar games) is licensed...</p></details>
+   Link:<a href="https://steamcommunity.com/app/271590/discussions/0/603025608224547784/" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/271590/discussions/0/603025608224547784/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing:: Grand Theft Auto V Legacy General...23 Mar 2025 — Yes, the music in GTA V (like previous Rockstar games) is licensed...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: steamcommunity.com  
    Title: Music Licensing  
-   Link: <a href="https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto V Legacy1 Jan 2025 — Yes, the music in GTA V (like previous Rockstar games) is licensed for a set period, meaning that s...</p></details>
+   Link:<a href="https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch" target="_blank" rel="noopener noreferrer nofollow">https://steamcommunity.com/app/271590/discussions/0/603025608224547784/?l=dutch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto V Legacy1 Jan 2025 — Yes, the music in GTA V (like previous Rockstar games) is licensed for a set period, meaning that s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gtaforums.com  
    Title: 908139 iv song removal due to licenses expiring  
-   Link: <a href="https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/" target="_blank" rel="noopener noreferrer nofollow">https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IV Song Removal Due to Licenses expiring.11 Apr 2018 — Many news outlets are saying that GTA IV will have songs removed from the game due...</p></details>
+   Link:<a href="https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/" target="_blank" rel="noopener noreferrer nofollow">https://gtaforums.com/topic/908139-iv-song-removal-due-to-licenses-expiring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IV Song Removal Due to Licenses expiring.11 Apr 2018 — Many news outlets are saying that GTA IV will have songs removed from the game due...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gamedev.net  
    Title: There's also a spectrum of licensing deals.Read more  
-   Link: <a href="https://gamedev.net/forums/topic/688308-music-rights/" target="_blank" rel="noopener noreferrer nofollow">https://gamedev.net/forums/topic/688308-music-rights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Rights - Games Business and Law - Forums2 May 2017 — As for specifics, there&#x27;s a big difference between ownership and licensing (th...</p></details>
+   Link:<a href="https://gamedev.net/forums/topic/688308-music-rights/" target="_blank" rel="noopener noreferrer nofollow">https://gamedev.net/forums/topic/688308-music-rights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Rights - Games Business and Law - Forums2 May 2017 — As for specifics, there&#x27;s a big difference between ownership and licensing (th...</p></details>
    Published: May 2017  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pcgamer.com  
    Title: rockstar confirms that some grand theft auto 4 music is being removed  
-   Link: <a href="https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rockstar confirms that some Grand Theft Auto 4 music is...Apr 12, 2018 — Rockstar has confirmed a Kotaku UK report that some of the radi...</p></details>
+   Link:<a href="https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/rockstar-confirms-that-some-grand-theft-auto-4-music-is-being-removed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rockstar confirms that some Grand Theft Auto 4 music is...Apr 12, 2018 — Rockstar has confirmed a Kotaku UK report that some of the radi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pcgamer.com  
    Title: What songs do you want to see on Grand Theft Auto 6's radio stations?  
-   Link: <a href="https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/</a>  
+   Link:<a href="https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/games/grand-theft-auto/what-songs-do-you-want-to-see-on-grand-theft-auto-6s-radio-stations/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Selling Out: Sync, Licensing, Buyouts and Works For HireA buyout can be a work for hire, These types of licenses are distinct from royalt...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/selling-out-sync-licensing-buyouts-works-hire-mark-frieser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Selling Out: Sync, Licensing, Buyouts and Works For HireA buyout can be a work for hire, These types of licenses are distinct from royalt...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where To Find Music For GamesThis blog aims to help you find the right music for your game and addresses several important topics, such a...</p></details>
+   Link:<a href="https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40joffer.winks/where-to-find-music-for-games-4a43a7636c8e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where To Find Music For GamesThis blog aims to help you find the right music for your game and addresses several important topics, such a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thetrichordist.com  
-   Link: <a href="https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/" target="_blank" rel="noopener noreferrer nofollow">https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Videogame Industry is Larger Than Film and TV...22 Sept 2023 — Most if not all of the composers creating original videogame music ar...</p></details>
+   Link:<a href="https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/" target="_blank" rel="noopener noreferrer nofollow">https://thetrichordist.com/2023/09/22/the-videogame-industry-is-larger-than-film-and-tv-combined-why-arent-they-paying-musicians-fairly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Videogame Industry is Larger Than Film and TV...22 Sept 2023 — Most if not all of the composers creating original videogame music ar...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kotaku.com  
    Title: rockstar must cut some music from gta iv but plans to 1825159152  
-   Link: <a href="https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152" target="_blank" rel="noopener noreferrer nofollow">https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rockstar Must Cut Some Music From GTA IV, But Plans To...10 Apr 2018 — A Rockstar representative confirmed to us today that songs will i...</p></details>
+   Link:<a href="https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152" target="_blank" rel="noopener noreferrer nofollow">https://kotaku.com/rockstar-must-cut-some-music-from-gta-iv-but-plans-to-1825159152</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rockstar Must Cut Some Music From GTA IV, But Plans To...10 Apr 2018 — A Rockstar representative confirmed to us today that songs will i...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: international.yourmusicyourfuture.com  
    Title: royalties and control vs buyout and lump sum fee a case study  
-   Link: <a href="https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and control vs buyout and lump sum fee: a Case...28 Jan 2021 — European film and TV composer David learned the hard way in his negotiati...</p></details>
+   Link:<a href="https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://international.yourmusicyourfuture.com/royalties-and-control-vs-buyout-and-lump-sum-fee-a-case-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and control vs buyout and lump sum fee: a Case...28 Jan 2021 — European film and TV composer David learned the hard way in his negotiati...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: kitguru.net  
-   Link: <a href="https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/" target="_blank" rel="noopener noreferrer nofollow">https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GTA IV is about to turn ten, so some of its music licenses...13 Apr 2018 — Some of the tracks heard on radio stations in GTA IV will be...</p></details>
+   Link:<a href="https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/" target="_blank" rel="noopener noreferrer nofollow">https://www.kitguru.net/gaming/matthew-wilson/gta-iv-is-about-to-turn-ten-so-some-of-its-music-licenses-are-expiring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GTA IV is about to turn ten, so some of its music licenses...13 Apr 2018 — Some of the tracks heard on radio stations in GTA IV will be...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: houseoftracks.com  
-   Link: <a href="https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games" target="_blank" rel="noopener noreferrer nofollow">https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music licensing for video games: Sync, master &amp; rightsMost in-game music is licensed via a one-time fee or buyout, so ongoing royalties a...</p></details>
+   Link:<a href="https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games" target="_blank" rel="noopener noreferrer nofollow">https://houseoftracks.com/faq/how-does-music-licensing-work-in-video-games</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music licensing for video games: Sync, master &amp; rightsMost in-game music is licensed via a one-time fee or buyout, so ongoing royalties a...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: neogaf.com  
    Title: grand theft auto v starts to remove music.1613675  
-   Link: <a href="https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/" target="_blank" rel="noopener noreferrer nofollow">https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto V starts to remove music21 Jul 2021 — Normally this is done on the 10th anniversary because Rockstar do not like to rene...</p></details>
+   Link:<a href="https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/" target="_blank" rel="noopener noreferrer nofollow">https://www.neogaf.com/threads/grand-theft-auto-v-starts-to-remove-music.1613675/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Theft Auto V starts to remove music21 Jul 2021 — Normally this is done on the 10th anniversary because Rockstar do not like to rene...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: mediamusiccomposer.com  
    Title: Trust me; this journey into game music creation will be a blast!Read more  
-   Link: <a href="https://www.mediamusiccomposer.com/blog/hire-game-music-composer" target="_blank" rel="noopener noreferrer nofollow">https://www.mediamusiccomposer.com/blog/hire-game-music-composer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hire Game Music Composer: Cost, Timeline, &amp; License...22 Jan 2024 — In this article, we will cover the real game-changers: Cost, Timelin...</p></details>
+   Link:<a href="https://www.mediamusiccomposer.com/blog/hire-game-music-composer" target="_blank" rel="noopener noreferrer nofollow">https://www.mediamusiccomposer.com/blog/hire-game-music-composer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hire Game Music Composer: Cost, Timeline, &amp; License...22 Jan 2024 — In this article, we will cover the real game-changers: Cost, Timelin...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ivorsacademy.com  
-   Link: <a href="https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the commissioner - pays a single fee for the composition.Read more...</p></details>
+   Link:<a href="https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/wp-content/uploads/2025/06/A-guide-to-buyouts-for-media-composers.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the commissioner - pays a single fee for the composition.Read more...</p></details>

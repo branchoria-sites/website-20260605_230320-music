@@ -274,16 +274,16 @@ image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies
 
 ## Introduction
 
-Can a baby be soothed by a lullaby from a [culture]({{ 'culture/' | relative_url }}) they have never encountered, sung in a language they cannot understand? Research suggests the answer is yes. One of the most striking findings in the science of music and infancy is that babies relax when hearing unfamiliar foreign [lullabies]({{ 'lullabies/' | relative_url }}), even when those songs come from distant cultures and contain completely unknown words. This finding matters because it helps separate the calming effects of musical structure from the effects of language, memory, or cultural familiarity. Rather than responding only to songs they have learned, infants appear sensitive to acoustic features that lullabies share across societies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
+Can a baby be soothed by a lullaby from a [culture]({{ 'culture/' | relative_url }}) they have never encountered, sung in a language they cannot understand? Research suggests the answer is yes. One of the most striking findings in the science of music and infancy is that babies relax when hearing unfamiliar foreign [lullabies]({{ 'lullabies/' | relative_url }}), even when those songs come from distant cultures and contain completely unknown words. This finding matters because it helps separate the calming effects of musical structure from the effects of language, memory, or cultural familiarity. Rather than responding only to songs they have learned, infants appear sensitive to acoustic features that lullabies share across societies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-1-dark.svg" | relative_url }}" alt="Foreign Songs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Unfamiliar-Song Studies Tested
 
-The strongest evidence comes from a large infant study led by researchers associated with Harvard's Music Lab and published in *Nature Human Behaviour*. The researchers tested 144 infants ranging from roughly two months to fourteen months of age. Instead of using familiar nursery songs, they selected eight lullabies from foreign cultures that American infants were extremely unlikely to have heard before. These songs were compared with non-lullaby songs drawn from the same broad cultural sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
+The strongest evidence comes from a large infant study led by researchers associated with Harvard's Music Lab and published in *Nature Human Behaviour*. The researchers tested 144 infants ranging from roughly two months to fourteen months of age. Instead of using familiar nursery songs, they selected eight lullabies from foreign cultures that American infants were extremely unlikely to have heard before. These songs were compared with non-lullaby songs drawn from the same broad cultural sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
 
-The design was important because it addressed a common alternative explanation: perhaps babies relax simply because they recognise a song, understand its language, or associate it with a caregiver. By using unfamiliar recordings in unfamiliar languages, researchers could ask whether the musical form itself produced a calming response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
+The design was important because it addressed a common alternative explanation: perhaps babies relax simply because they recognise a song, understand its language, or associate it with a caregiver. By using unfamiliar recordings in unfamiliar languages, researchers could ask whether the musical form itself produced a calming response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
 
-The results consistently favoured the lullabies. Across the first year of life, infants relaxed more when listening to the foreign lullabies than when listening to the matched non-lullaby songs. The effect appeared despite the infants having no known prior exposure to the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
+The results consistently favoured the lullabies. Across the first year of life, infants relaxed more when listening to the foreign lullabies than when listening to the matched non-lullaby songs. The effect appeared despite the infants having no known prior exposure to the music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
 
 ## What Happened to Heart Rate, Pupils, and Skin Conductance?
 
@@ -291,223 +291,223 @@ The study did not rely on subjective impressions. Researchers measured several p
 
 ### Heart Rate
 
-Heart rate slowed during exposure to the unfamiliar lullabies. A reduction in heart rate is a classic sign that the body is shifting away from heightened alertness and towards a calmer state. The effect was observed repeatedly across the infant age range studied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
+Heart rate slowed during exposure to the unfamiliar lullabies. A reduction in heart rate is a classic sign that the body is shifting away from heightened alertness and towards a calmer state. The effect was observed repeatedly across the infant age range studied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-2-dark.svg" | relative_url }}" alt="Foreign Songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Pupil Size
 
-The researchers also tracked pupil dilation. Larger pupils are often associated with increased [attention]({{ 'attention/' | relative_url }}) or arousal, whereas smaller pupils can indicate reduced activation. Infants listening to the foreign lullabies showed smaller pupil sizes than when listening to the comparison songs, consistent with relaxation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
+The researchers also tracked pupil dilation. Larger pupils are often associated with increased [attention]({{ 'attention/' | relative_url }}) or arousal, whereas smaller pupils can indicate reduced activation. Infants listening to the foreign lullabies showed smaller pupil sizes than when listening to the comparison songs, consistent with relaxation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
 
 ### Skin Conductance
 
-Electrodermal activity, sometimes called skin conductance, measures subtle changes in sweating controlled by the autonomic nervous system. Elevated skin conductance generally reflects increased arousal. During the lullabies, infants showed lower or more stable electrodermal responses than during non-lullaby songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
+Electrodermal activity, sometimes called skin conductance, measures subtle changes in sweating controlled by the autonomic nervous system. Elevated skin conductance generally reflects increased arousal. During the lullabies, infants showed lower or more stable electrodermal responses than during non-lullaby songs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
 
-Taken together, these three measures point in the same direction. The calming effect was not simply a matter of researchers interpreting facial expressions or parental reports. It was visible in objective physiological data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
+Taken together, these three measures point in the same direction. The calming effect was not simply a matter of researchers interpreting facial expressions or parental reports. It was visible in objective physiological data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
 
 ## Why Language Is Not the Whole Story
 
-The foreign-lullaby findings challenge the idea that soothing depends mainly on understanding words. The infants in these experiments could not comprehend the languages being sung, yet they still relaxed. This suggests that key elements of lullabies operate independently of linguistic meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">research shows lullabies in any language relax babies</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babiesOct 19, 2020  Researchers at Harvard&#x27;s Music Lab have determined tha...</span></span></span>
+The foreign-lullaby findings challenge the idea that soothing depends mainly on understanding words. The infants in these experiments could not comprehend the languages being sung, yet they still relaxed. This suggests that key elements of lullabies operate independently of linguistic meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">research shows lullabies in any language relax babies</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babiesOct 19, 2020  Researchers at Harvard&#x27;s Music Lab have determined tha...</span></span></span>
 
-Researchers argue that lullabies from many societies share recurring acoustic characteristics. Although cultures differ in [melody]({{ 'melody/' | relative_url }}), scale systems, and vocal style, lullabies often feature relatively gentle rhythms, smooth melodic contours, repetition, and predictable timing. Infants may be responding to these broad structural patterns rather than to specific [lyrics]({{ 'lyrics/' | relative_url }}). Harvard Gazette <span class="citation-chip-wrap"><a class="citation-chip" href="https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polifonia-project.eu">[Polifonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polifonia-project.eu</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesInfants are sensitive to the cross-culturally consistent features of lullabies...</span></span></span>
+Researchers argue that lullabies from many societies share recurring acoustic characteristics. Although cultures differ in [melody]({{ 'melody/' | relative_url }}), scale systems, and vocal style, lullabies often feature relatively gentle rhythms, smooth melodic contours, repetition, and predictable timing. Infants may be responding to these broad structural patterns rather than to specific [lyrics]({{ 'lyrics/' | relative_url }}). Harvard Gazette<span class="citation-chip-wrap"><a class="citation-chip" href="https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polifonia-project.eu">[Polifonia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polifonia-project.eu</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesInfants are sensitive to the cross-culturally consistent features of lullabies...</span></span></span>
 
-The age range of the participants strengthens this interpretation. Very young infants have had limited musical experience compared with adults. If babies only relaxed because they had learned cultural conventions, researchers would expect weaker or inconsistent responses. Instead, the relaxation effect appeared throughout the first year of life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
+The age range of the participants strengthens this interpretation. Very young infants have had limited musical experience compared with adults. If babies only relaxed because they had learned cultural conventions, researchers would expect weaker or inconsistent responses. Instead, the relaxation effect appeared throughout the first year of life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-3-dark.svg" | relative_url }}" alt="Foreign Songs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Evidence Suggests About Lullabies
 
-The unfamiliar-lullaby studies do not prove that every lullaby works equally well for every child. [Familiar songs]({{ 'familiar-songs/' | relative_url }}) can still gain additional power through repetition, caregiver bonding, and emotional association. However, the evidence indicates that lullabies possess calming musical features that travel across cultural boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">research shows lullabies in any language relax babies</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babiesOct 19, 2020  Researchers at Harvard&#x27;s Music Lab have determined tha...</span></span></span>
+The unfamiliar-lullaby studies do not prove that every lullaby works equally well for every child. [Familiar songs]({{ 'familiar-songs/' | relative_url }}) can still gain additional power through repetition, caregiver bonding, and emotional association. However, the evidence indicates that lullabies possess calming musical features that travel across cultural boundaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">research shows lullabies in any language relax babies</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babiesOct 19, 2020  Researchers at Harvard&#x27;s Music Lab have determined tha...</span></span></span>
 
-For the broader question of how lullabies use music to calm, this is a significant finding. Babies do not appear to require familiar words, familiar singers, or familiar traditions to experience relaxation. The physiological evidence suggests that the structure of lullaby music itself carries signals that young listeners can recognise, even when those signals arrive from a completely unfamiliar culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
+For the broader question of how lullabies use music to calm, this is a significant finding. Babies do not appear to require familiar words, familiar singers, or familiar traditions to experience relaxation. The physiological evidence suggests that the structure of lullaby music itself carries signals that young listeners can recognise, even when those signals arrive from a completely unfamiliar culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfants relax in response to unfamiliar foreign lullabies</span><span class="citation-popover-snippet">relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Unknown Lullabies Still Calm Babies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Unknown Lullabies Still Calm Babies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Provides foundations for understanding universal responses to music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundations for understanding universal responses to music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Shows how music affects people regardless of language content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how music affects people regardless of language content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. edición">The singing neanderthals : the origins of music, language, mi...</a>
-        </h4>
-        <p class="fr-book-author">By Steven Mithen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. edición">The singing neanderthals : the origins of music, language, mi...</a>
+</h4>
+<p class="fr-book-author">By Steven Mithen</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Human evolution, Music, psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Human evolution, Music, psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
-        </h4>
-        <p class="fr-book-author">By John Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
+</h4>
+<p class="fr-book-author">By John Powell</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. edición</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. edición</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art"><img src="{{ '/assets/images/marketplace-covers/3ffd723e77e10ca54f2d.jpg' | relative_url }}" alt="Listing image for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art"><img src="{{ '/assets/images/marketplace-covers/3ffd723e77e10ca54f2d.jpg' | relative_url }}" alt="Listing image for 4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">4PCS White MDF Cloud Wall Decor Nursery Kids Baby Room Wooden Cloud Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor"><img src="{{ '/assets/images/marketplace-covers/91b206abc52b7700858f.jpg' | relative_url }}" alt="Listing image for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor"><img src="{{ '/assets/images/marketplace-covers/91b206abc52b7700858f.jpg' | relative_url }}" alt="Listing image for Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Princess Character Wall Art Prints Set of 12 |A4/A3 Kids Bedroom Nursery Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room"><img src="{{ '/assets/images/marketplace-covers/7ae66a001a65912aa079.jpg' | relative_url }}" alt="Listing image for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room"><img src="{{ '/assets/images/marketplace-covers/7ae66a001a65912aa079.jpg' | relative_url }}" alt="Listing image for Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neutral Safari Nursery Prints | Cute Jungle Animal Wall Art Set for Baby Room</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art"><img src="{{ '/assets/images/marketplace-covers/9c97288735f416b2cd4e.jpg' | relative_url }}" alt="Listing image for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art"><img src="{{ '/assets/images/marketplace-covers/9c97288735f416b2cd4e.jpg' | relative_url }}" alt="Listing image for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery wall art" data-ebay-reference="foreign-songs-can-unknown-lullabies-still-calm-babies-music-nursery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -523,7 +523,7 @@ For the broader question of how lullabies use music to calm, this is a significa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -543,7 +543,7 @@ For the broader question of how lullabies use music to calm, this is a significa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -575,7 +575,7 @@ For the broader question of how lullabies use music to calm, this is a significa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -627,7 +627,7 @@ For the broader question of how lullabies use music to calm, this is a significa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -672,7 +672,7 @@ For the broader question of how lullabies use music to calm, this is a significa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,112 +713,112 @@ For the broader question of how lullabies use music to calm, this is a significa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesby CM Bainbridge  2021  Cited by 113  We show that US infants (N = 144)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfants relax in response to unfamiliar foreign lullabies  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>relax in response to unfamiliar foreign lullabies - PMCby CM Bainbridge  2020  Cited by 117  Relative to non-lullabies, infants&#x27; heart...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.harvard.edu  
    Title: research shows lullabies in any language relax babies  
-   Link: <a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babiesOct 19, 2020  Researchers at Harvard&#x27;s Music Lab have determined tha...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babiesOct 19, 2020  Researchers at Harvard&#x27;s Music Lab have determined tha...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.harvard.edu  
    Title: music may transcend cultural boundaries to become universally human  
-   Link: <a href="https://news.harvard.edu/gazette/story/2018/01/music-may-transcend-cultural-boundaries-to-become-universally-human/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2018/01/music-may-transcend-cultural-boundaries-to-become-universally-human/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteSongs in the key of humanityJan 26, 2018  A new Harvard study suggests that people around the globe can identify lullabie...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2018/01/music-may-transcend-cultural-boundaries-to-become-universally-human/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2018/01/music-may-transcend-cultural-boundaries-to-become-universally-human/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteSongs in the key of humanityJan 26, 2018  A new Harvard study suggests that people around the globe can identify lullabie...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.harvard.edu  
-   Link: <a href="https://news.harvard.edu/gazette/section/science-technology/page/18/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/section/science-technology/page/18/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/section/science-technology/page/18/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/section/science-technology/page/18/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.harvard.edu  
-   Link: <a href="https://news.harvard.edu/gazette/page/125/?p=gazette%2Fprivacy-policy" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/page/125/?p=gazette%2Fprivacy-policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 125 of 918  Harvard Gazette... relaxed when played lullabies that were unfamiliar and in a foreign language. October 19, 2020. Ba...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/page/125/?p=gazette%2Fprivacy-policy" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/page/125/?p=gazette%2Fprivacy-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 125 of 918  Harvard Gazette... relaxed when played lullabies that were unfamiliar and in a foreign language. October 19, 2020. Ba...</p></details>
    Published: October 19, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Infants relax in response to unfamiliar foreign lullabies  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>relax in response to unfamiliar foreign lullabies - PubMedby CM Bainbridge  2021  Cited by 117  We show that US infants (N = 144) rela...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>relax in response to unfamiliar foreign lullabies - PubMedby CM Bainbridge  2021  Cited by 117  We show that US infants (N = 144) rela...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: polifonia-project.eu  
-   Link: <a href="https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/" target="_blank" rel="noopener noreferrer nofollow">https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesInfants are sensitive to the cross-culturally consistent features of lullabies...</p></details>
+   Link:<a href="https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/" target="_blank" rel="noopener noreferrer nofollow">https://polifonia-project.eu/seminars/infants-relax-in-response-to-unfamiliar-foreign-lullabies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesInfants are sensitive to the cross-culturally consistent features of lullabies...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Infant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infant</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InfantBefore birth, the offspring is called a fetus. The term infant is typically applied to very young children under one year of age...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Infant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InfantBefore birth, the offspring is called a fetus. The term infant is typically applied to very young children under one year of age...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iammonline.com  
    Title: does the language of a lullaby play a role in soothing infants  
-   Link: <a href="https://iammonline.com/2020/12/03/does-the-language-of-a-lullaby-play-a-role-in-soothing-infants/" target="_blank" rel="noopener noreferrer nofollow">https://iammonline.com/2020/12/03/does-the-language-of-a-lullaby-play-a-role-in-soothing-infants/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the language of a lullaby play a role in soothing...Dec 3, 2020  Infants relax in response to foreign unfamiliar lullabies...</p></details>
+   Link:<a href="https://iammonline.com/2020/12/03/does-the-language-of-a-lullaby-play-a-role-in-soothing-infants/" target="_blank" rel="noopener noreferrer nofollow">https://iammonline.com/2020/12/03/does-the-language-of-a-lullaby-play-a-role-in-soothing-infants/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the language of a lullaby play a role in soothing...Dec 3, 2020  Infants relax in response to foreign unfamiliar lullabies...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cognitivesciencesociety.org  
-   Link: <a href="https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Science SocietyInfants Relax in Response to Unfamiliar Foreign Lullabiesby C Bainbridge  Cited by 113  Here we show that infa...</p></details>
+   Link:<a href="https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html" target="_blank" rel="noopener noreferrer nofollow">https://cognitivesciencesociety.org/cogsci20/papers/0591/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Science SocietyInfants Relax in Response to Unfamiliar Foreign Lullabiesby C Bainbridge  Cited by 113  Here we show that infa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesHere, we show that US infants (N = 144) relax in response to eight unfamiliar fo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344783134_Infants_relax_in_response_to_unfamiliar_foreign_lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesHere, we show that US infants (N = 144) relax in response to eight unfamiliar fo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: themusiclab.org  
-   Link: <a href="https://www.themusiclab.org/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.themusiclab.org/lullabies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesWhen we played songs from around the world to infants, we found that infants rel...</p></details>
+   Link:<a href="https://www.themusiclab.org/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.themusiclab.org/lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabiesWhen we played songs from around the world to infants, we found that infants rel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/preoccupy-negative-thoughts/lullabies-of-any-language-relaxes-babies-fbd60b276609" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/preoccupy-negative-thoughts/lullabies-of-any-language-relaxes-babies-fbd60b276609</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies of Any Language Relaxes Babies | by Synthia StarkAccording to a study done by researchers at Harvard University&#x27;s Music Lab, Am...</p></details>
+   Link:<a href="https://medium.com/preoccupy-negative-thoughts/lullabies-of-any-language-relaxes-babies-fbd60b276609" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/preoccupy-negative-thoughts/lullabies-of-any-language-relaxes-babies-fbd60b276609</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lullabies of Any Language Relaxes Babies | by Synthia StarkAccording to a study done by researchers at Harvard University&#x27;s Music Lab, Am...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/olenkaschoolofmusic/posts/researchers-played-infants-music-from-around-the-world-and-found-they-relaxed-mo/1625151148903116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/olenkaschoolofmusic/posts/researchers-played-infants-music-from-around-the-world-and-found-they-relaxed-mo/1625151148903116/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Olenka School of Music and the ArtsResearch shows lullabies in any language relax babies. NEWS.HARVARD.EDU. Research shows lullabies in a...</p></details>
+   Link:<a href="https://www.facebook.com/olenkaschoolofmusic/posts/researchers-played-infants-music-from-around-the-world-and-found-they-relaxed-mo/1625151148903116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/olenkaschoolofmusic/posts/researchers-played-infants-music-from-around-the-world-and-found-they-relaxed-mo/1625151148903116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Olenka School of Music and the ArtsResearch shows lullabies in any language relax babies. NEWS.HARVARD.EDU. Research shows lullabies in a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443336515000227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443336515000227</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep, baby, sleep: Lullabies in infancy and childhoodAcross the tested age range, infants showed a relaxation effect (characterized by r...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443336515000227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443336515000227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep, baby, sleep: Lullabies in infancy and childhoodAcross the tested age range, infants showed a relaxation effect (characterized by r...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: upf.edu  
-   Link: <a href="https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized" target="_blank" rel="noopener noreferrer nofollow">https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universitat Pompeu FabraInfants relax in response to unfamiliar foreign lullabies - CBCIn this talk, I will present a recent paper (Bainb...</p></details>
+   Link:<a href="https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized" target="_blank" rel="noopener noreferrer nofollow">https://www.upf.edu/web/cbc/activities/-/asset_publisher/Lemqx7vH40kE/content/infants-relax-in-response-to-unfamiliar-foreign-lullabies/maximized</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universitat Pompeu FabraInfants relax in response to unfamiliar foreign lullabies - CBCIn this talk, I will present a recent paper (Bainb...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: infants relaxed more in response to the lullabies including unfamiliar foreign o  
-   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relaxed more in response to the lullabies, including...Infants relaxed more in response to the lullabies, including unfamiliar f...</p></details>
+   Link:<a href="https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/infants-relaxed-more-in-response-to-the-lullabies-including-unfamiliar-foreign-o/10158129951193167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relaxed more in response to the lullabies, including...Infants relaxed more in response to the lullabies, including unfamiliar f...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: webmd.com  
-   Link: <a href="https://www.webmd.com/parenting/what-to-know-lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/parenting/what-to-know-lullabies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Babies React to... Harvard Gazette: &quot;Research shows lullabies in any language relax babies.Read more...</p></details>
+   Link:<a href="https://www.webmd.com/parenting/what-to-know-lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/parenting/what-to-know-lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Babies React to... Harvard Gazette: &quot;Research shows lullabies in any language relax babies.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ouci.dntb.gov.ua  
    Title: dntb.gov.ua Infants relax in response to unfamiliar foreign lullabies  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/7pxGVvk7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/7pxGVvk7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabies. General... DOI. 10.1038/s41562-020-00963-z. Journal. 2020, Nature Human Behav...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/7pxGVvk7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/7pxGVvk7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabies. General... DOI. 10.1038/s41562-020-00963-z. Journal. 2020, Nature Human Behav...</p></details>

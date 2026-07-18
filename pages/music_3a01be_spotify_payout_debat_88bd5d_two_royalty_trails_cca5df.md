@@ -268,18 +268,18 @@ image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trail
 
 ## Introduction
 
-A single Spotify stream does not create a single payment. It creates payments linked to two separate copyrights: the sound [recording]({{ 'recording/' | relative_url }}) that listeners hear and the underlying song composition that was written. Because those [rights]({{ 'rights/' | relative_url }}) are owned, licensed and administered through different systems, performers and songwriters are often paid through different routes, on different timelines and with different levels of transparency. This split is one of the most important reasons why streaming income can feel confusing. A performer may receive money through a label or distributor, while the songwriter behind the same track receives money through publishers, collecting societies and other rights organisations. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
+A single Spotify stream does not create a single payment. It creates payments linked to two separate copyrights: the sound [recording]({{ 'recording/' | relative_url }}) that listeners hear and the underlying song composition that was written. Because those [rights]({{ 'rights/' | relative_url }}) are owned, licensed and administered through different systems, performers and songwriters are often paid through different routes, on different timelines and with different levels of transparency. This split is one of the most important reasons why streaming income can feel confusing. A performer may receive money through a label or distributor, while the songwriter behind the same track receives money through publishers, collecting societies and other rights organisations. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1-dark.svg" | relative_url }}" alt="Two Rights illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The difference between master and composition rights
 
-The first royalty trail comes from the **master recording**, sometimes called the sound recording right. This covers the actual recorded performance released on Spotify. The second trail comes from the **composition**, meaning the melody, [lyrics]({{ 'lyrics/' | relative_url }}) and musical work itself. Every stream relies on both rights. Without a recording there is nothing to play, and without a song there is nothing to record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-hub.com">[music hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-hub.com</span><span class="citation-popover-title">what are your streams on spotify co worth</span><span class="citation-popover-snippet">MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</span></span></span> Because the rights are distinct, the money flows separately:
+The first royalty trail comes from the **master recording**, sometimes called the sound recording right. This covers the actual recorded performance released on Spotify. The second trail comes from the **composition**, meaning the melody, [lyrics]({{ 'lyrics/' | relative_url }}) and musical work itself. Every stream relies on both rights. Without a recording there is nothing to play, and without a song there is nothing to record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-hub.com">[music hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-hub.com</span><span class="citation-popover-title">what are your streams on spotify co worth</span><span class="citation-popover-snippet">MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</span></span></span> Because the rights are distinct, the money flows separately:
 
 * **Recording [royalties]({{ 'royalties/' | relative_url }})** are generally paid to the owner of the master recording, often a record label or an independent artist using a distributor.
 * **Publishing royalties** are owed to songwriters and publishers because the composition has been used.
-* Publishing income is usually divided into performance and [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}), each with its own collection process in many territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/how-spotify-streams-turn-into-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[2blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-title">how spotify streams turn into royalties</span><span class="citation-popover-snippet">2 Jan 2020 — Publishing royalties include performance and mechanical royalties, which are earned, tracked, and collected by societies aro...</span></span></span>
+* Publishing income is usually divided into performance and [mechanical royalties]({{ 'mechanical-royalties/' | relative_url }}), each with its own collection process in many territories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.songtrust.com/how-spotify-streams-turn-into-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.songtrust.com">[2blog.songtrust.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.songtrust.com</span><span class="citation-popover-title">how spotify streams turn into royalties</span><span class="citation-popover-snippet">2 Jan 2020 — Publishing royalties include performance and mechanical royalties, which are earned, tracked, and collected by societies aro...</span></span></span>
 
-Spotify itself describes its royalty system as paying both recording and publishing rightsholders rather than paying artists and songwriters directly. Roughly two-thirds of Spotify's revenue is paid out to recording and publishing rightsholders, who then distribute income according to [ownership]({{ 'ownership/' | relative_url }}) shares and contractual agreements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span>
+Spotify itself describes its royalty system as paying both recording and publishing rightsholders rather than paying artists and songwriters directly. Roughly two-thirds of Spotify's revenue is paid out to recording and publishing rightsholders, who then distribute income according to [ownership]({{ 'ownership/' | relative_url }}) shares and contractual agreements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span>
 
 This means that a singer who did not write a song and a songwriter who did not perform on the recording can both earn money from the same stream, but through entirely different administrative pathways.
 
@@ -287,25 +287,25 @@ This means that a singer who did not write a song and a songwriter who did not p
 
 ## How publishers and collecting societies fit in
 
-The recording side is often relatively straightforward. Spotify pays a label or distributor, which then pays the artist according to its contract. The publishing side is usually more fragmented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
+The recording side is often relatively straightforward. Spotify pays a label or distributor, which then pays the artist according to its contract. The publishing side is usually more fragmented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
 
 ### Why publishing royalties need extra intermediaries
 
-Songwriters frequently own only a portion of a composition. A modern pop song may have several writers, each with different percentages. Publishers and collecting societies exist to track these shares and distribute income accordingly. SAE Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">how to understanding publishing rights</span><span class="citation-popover-snippet">How to... understanding publishing rights14 May 2021 — We asked Simon to give us insights on copyright, publishing specialities, publishi...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+Songwriters frequently own only a portion of a composition. A modern pop song may have several writers, each with different percentages. Publishers and collecting societies exist to track these shares and distribute income accordingly. SAE Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">how to understanding publishing rights</span><span class="citation-popover-snippet">How to... understanding publishing rights14 May 2021 — We asked Simon to give us insights on copyright, publishing specialities, publishi...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
-Depending on the country, publishing royalties may involve: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentric.com">[sentric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentric.com</span><span class="citation-popover-title">publishing royalties from streaming</span><span class="citation-popover-snippet">News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</span></span></span>
+Depending on the country, publishing royalties may involve:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentric.com">[sentric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentric.com</span><span class="citation-popover-title">publishing royalties from streaming</span><span class="citation-popover-snippet">News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</span></span></span>
 
 * Performing rights organisations (PROs) or collecting societies that handle performance royalties.
 * Mechanical rights organisations that collect mechanical royalties generated by reproductions and streams.
 * Music publishers that administer registrations, ownership claims and international collections.
-* Reciprocal agreements between societies in different countries so royalties can cross borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-snippet">How To Get All Your Music Royalties2 Mar 2025 — PROs make money to pay songwriter royalties and publishing royalties... composition perf...</span></span></span>
+* Reciprocal agreements between societies in different countries so royalties can cross borders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-snippet">How To Get All Your Music Royalties2 Mar 2025 — PROs make money to pay songwriter royalties and publishing royalties... composition perf...</span></span></span>
 
-Streaming complicates matters because it generates both performance and mechanical income for songwriters. In the United States, for example, a songwriter may need relationships with both a performing rights organisation and a mechanical collection system to capture all royalties generated by streams. Spotify has highlighted this issue in guidance explaining that joining only one organisation may leave part of a songwriter's streaming income uncollected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span>
+Streaming complicates matters because it generates both performance and mechanical income for songwriters. In the United States, for example, a songwriter may need relationships with both a performing rights organisation and a mechanical collection system to capture all royalties generated by streams. Spotify has highlighted this issue in guidance explaining that joining only one organisation may leave part of a songwriter's streaming income uncollected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-2-dark.svg" | relative_url }}" alt="Two Rights illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### One stream, multiple destinations
 
-Industry explanations of streaming royalties often describe a rough split in which most money flows to [master rights]({{ 'master-rights/' | relative_url }}) and a smaller portion to publishing rights. Once the publishing share is separated, it may be divided again between performance and mechanical royalties before reaching writers and publishers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentric.com">[sentric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentric.com</span><span class="citation-popover-title">publishing royalties from streaming</span><span class="citation-popover-snippet">News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">Spotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</span></span></span> The result is that the performer and songwriter connected to the same track can receive payments from different organisations, at different times and with different reporting formats.
+Industry explanations of streaming royalties often describe a rough split in which most money flows to [master rights]({{ 'master-rights/' | relative_url }}) and a smaller portion to publishing rights. Once the publishing share is separated, it may be divided again between performance and mechanical royalties before reaching writers and publishers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentric.com">[sentric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentric.com</span><span class="citation-popover-title">publishing royalties from streaming</span><span class="citation-popover-snippet">News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">Spotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</span></span></span> The result is that the performer and songwriter connected to the same track can receive payments from different organisations, at different times and with different reporting formats.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3mWxrGfRiYM" title="Scary Truth About Spotify Royalties, How Artists Get Paid Labels Hate Me for This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer">Scary Truth About Spotify Royalties, How Artists Get Paid Labels Hate Me for This</a></p><p class="youtube-embed-meta">Channel: SMARTMUSICBUSINESS - Chris Greenwood &middot; Views: 1.2K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3mWxrGfRiYM">Open on YouTube</a></p></div></div></div>
 
@@ -313,210 +313,210 @@ Industry explanations of streaming royalties often describe a rough split in whi
 
 The existence of two royalty trails is not merely an accounting curiosity. It has practical consequences for transparency and income tracking.
 
-A performer signed to a label may receive most streaming information through a single royalty statement. Songwriters, by contrast, may receive separate payments from multiple organisations handling different rights, territories and royalty categories. Missing registrations, incorrect metadata or ownership disputes can interrupt those payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span> Spotify The complexity becomes even greater when music is exploited globally. A stream in one country may generate royalties collected locally <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[support.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span>, processed through international agreements and then forwarded to another society before reaching the writer. Each step introduces delays and increases the need for accurate metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[Curve Royalty Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Curve Royalty SystemsThe 4 Different Types Of Music Publishing Royalties And...Jul 9, 2025 — The common split is 50/50, but some PROs ha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/global-publishing-royalties-from-spotify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">global publishing royalties from spotify</span><span class="citation-popover-snippet">performance and mechanical royalties to songwriters for streams from all over the world.Read more...</span></span></span>
+A performer signed to a label may receive most streaming information through a single royalty statement. Songwriters, by contrast, may receive separate payments from multiple organisations handling different rights, territories and royalty categories. Missing registrations, incorrect metadata or ownership disputes can interrupt those payments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span> Spotify The complexity becomes even greater when music is exploited globally. A stream in one country may generate royalties collected locally<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[support.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</span></span></span>, processed through international agreements and then forwarded to another society before reaching the writer. Each step introduces delays and increases the need for accurate metadata.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: curveroyaltysystems.com">[Curve Royalty Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">curveroyaltysystems.com</span><span class="citation-popover-snippet">Curve Royalty SystemsThe 4 Different Types Of Music Publishing Royalties And...Jul 9, 2025 — The common split is 50/50, but some PROs ha...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://aristake.com/global-publishing-royalties-from-spotify/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-title">global publishing royalties from spotify</span><span class="citation-popover-snippet">performance and mechanical royalties to songwriters for streams from all over the world.Read more...</span></span></span>
 
-Recent reporting on royalty administration has highlighted how difficult matching and tracking can be. Royalty specialists increasingly work with enormous datasets from streaming platforms, and industry organisations continue to warn about unmatched works and unallocated royalties when ownership information is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span>
+Recent reporting on royalty administration has highlighted how difficult matching and tracking can be. Royalty specialists increasingly work with enormous datasets from streaming platforms, and industry organisations continue to warn about unmatched works and unallocated royalties when ownership information is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span>
 
-This is one reason debates about Spotify payouts often sound contradictory. Large sums may be entering the music ecosystem, yet individual songwriters can still struggle to identify whether they have collected every royalty they are owed. The challenge is not only how much money a stream generates, but also whether every piece of the publishing chain successfully identifies the writer and routes the payment correctly. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span>
+This is one reason debates about Spotify payouts often sound contradictory. Large sums may be entering the music ecosystem, yet individual songwriters can still struggle to identify whether they have collected every royalty they are owed. The challenge is not only how much money a stream generates, but also whether every piece of the publishing chain successfully identifies the writer and routes the payment correctly. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-dark.svg" | relative_url }}" alt="Two Rights illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the split remains controversial
 
-Supporters of the current system argue that separate royalty routes reflect a basic reality of copyright: recordings and compositions are different creative assets with different owners. Distinct collection systems exist because the rights themselves are distinct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-hub.com">[MusicHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-hub.com</span><span class="citation-popover-title">what are your streams on spotify co worth</span><span class="citation-popover-snippet">MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</span></span></span>
+Supporters of the current system argue that separate royalty routes reflect a basic reality of copyright: recordings and compositions are different creative assets with different owners. Distinct collection systems exist because the rights themselves are distinct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-hub.com">[MusicHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-hub.com</span><span class="citation-popover-title">what are your streams on spotify co worth</span><span class="citation-popover-snippet">MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</span></span></span>
 
-Critics respond that the separation creates opacity. A performer can often see recording income through a label or distributor dashboard, while songwriters may need to monitor several organisations, registrations and royalty categories to understand their earnings. When metadata is incomplete or registrations are missing, songwriter income can be delayed, reduced or left unclaimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span>
+Critics respond that the separation creates opacity. A performer can often see recording income through a label or distributor dashboard, while songwriters may need to monitor several organisations, registrations and royalty categories to understand their earnings. When metadata is incomplete or registrations are missing, songwriter income can be delayed, reduced or left unclaimed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear Additional Resources</span><span class="citation-popover-snippet">Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</span></span></span>
 
-For anyone trying to understand streaming economics, the key insight is simple: a Spotify stream is not one royalty. It is the starting point for two separate copyright systems. The performer follows the recording trail; the songwriter follows the composition trail. Much of the confusion surrounding streaming payouts arises from where those two paths diverge after the stream has already happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">How Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
+For anyone trying to understand streaming economics, the key insight is simple: a Spotify stream is not one royalty. It is the starting point for two separate copyright systems. The performer follows the recording trail; the songwriter follows the composition trail. Much of the confusion surrounding streaming payouts arises from where those two paths diverge after the stream has already happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revelator.com">[Revelator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revelator.com</span><span class="citation-popover-snippet">How Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Payments are typically made via publishers, agencies and collecting...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why one stream creates two royalty trails. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why one stream creates two royalty trails. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Clearly explains master rights, publishing rights, and royalty flows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clearly explains master rights, publishing rights, and royalty flows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
-        </h4>
-        <p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
+</h4>
+<p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
         
-        <p class="fr-book-desc">Strong coverage of copyright, publishing, and recording revenue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of copyright, publishing, and recording revenue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Music+Publishing+for+Musicians+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Music Publishing for Musicians on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Music+Publishing+for+Musicians+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Music Publishing for Musicians">Introduction to Music Publishing for Musicians</a>
-        </h4>
-        <p class="fr-book-author">By Bobby Borg, Michael Eames</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Music+Publishing+for+Musicians+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Music Publishing for Musicians on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Music+Publishing+for+Musicians+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Music Publishing for Musicians">Introduction to Music Publishing for Musicians</a>
+</h4>
+<p class="fr-book-author">By Bobby Borg, Michael Eames</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Music, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Music+Publishing+for+Musicians+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Music, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Music+Publishing+for+Musicians+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Seoul Spotify Poster Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/7d99752055048239fa0d.jpg' | relative_url }}" alt="Listing image for Enhypen Seoul Spotify Poster Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Enhypen Seoul Spotify Poster Music Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Seoul Spotify Poster Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/7d99752055048239fa0d.jpg' | relative_url }}" alt="Listing image for Enhypen Seoul Spotify Poster Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Enhypen Seoul Spotify Poster Music Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcb5d301da604a806cc8.jpg' | relative_url }}" alt="Listing image for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcb5d301da604a806cc8.jpg' | relative_url }}" alt="Listing image for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art"><img src="{{ '/assets/images/marketplace-covers/08bb55fbd9b39ecb9ff7.jpg' | relative_url }}" alt="Listing image for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art"><img src="{{ '/assets/images/marketplace-covers/08bb55fbd9b39ecb9ff7.jpg' | relative_url }}" alt="Listing image for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e47571132a696d447246.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e47571132a696d447246.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster" data-ebay-reference="two-rights-why-one-stream-creates-two-royalty-trails-music-spotify-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For anyone trying to understand streaming economics, the key insight is simple: 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For anyone trying to understand streaming economics, the key insight is simple: 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For anyone trying to understand streaming economics, the key insight is simple: 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For anyone trying to understand streaming economics, the key insight is simple: 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For anyone trying to understand streaming economics, the key insight is simple: 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,225 +722,225 @@ For anyone trying to understand streaming economics, the key insight is simple: 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: support.spotify.com  
-   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Spotify royaltiesPublishing royalties: The money owed to songwriter(s) or owner(s) of a composition. These payments...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: revelator.com  
-   Link: <a href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/how-music-streaming-royalties-work</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</p></details>
+   Link:<a href="https://revelator.com/blog/how-music-streaming-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://revelator.com/blog/how-music-streaming-royalties-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Royalties Work7 days ago — Music streaming royalties are complex because one stream creates multiple payment...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</p></details>
+   Link:<a href="https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIESThe Composition/Song license has a second separate royalty generated for each qualifying S...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: artist.tools  
    Title: the ultimate guide to spotify royalty payments  
-   Link: <a href="https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 3, 2026 — Unlock your earnings potential. This guide breaks down Spotify royalty payments, how they&#x27;re calculated, and how to maximiz...</p></details>
+   Link:<a href="https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/the-ultimate-guide-to-spotify-royalty-payments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 3, 2026 — Unlock your earnings potential. This guide breaks down Spotify royalty payments, how they&#x27;re calculated, and how to maximiz...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blog.songtrust.com  
    Title: how spotify streams turn into royalties  
-   Link: <a href="https://blog.songtrust.com/how-spotify-streams-turn-into-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-spotify-streams-turn-into-royalties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jan 2020 — Publishing royalties include performance and mechanical royalties, which are earned, tracked, and collected by societies aro...</p></details>
+   Link:<a href="https://blog.songtrust.com/how-spotify-streams-turn-into-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-spotify-streams-turn-into-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jan 2020 — Publishing royalties include performance and mechanical royalties, which are earned, tracked, and collected by societies aro...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</p></details>
+   Link:<a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideSpotify pays out roughly two-thirds of its revenue to recording and publishing rightsholders on behalf...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sae.edu  
    Title: Institute Music Publishing and Royalties Explained  
-   Link: <a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAE InstituteMusic Publishing and Royalties ExplainedJanuary 20, 2026 — Our blog explores music publishing, the collection of royalties a...</p></details>
+   Link:<a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAE InstituteMusic Publishing and Royalties ExplainedJanuary 20, 2026 — Our blog explores music publishing, the collection of royalties a...</p></details>
    Published: January 20, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: support.spotify.com  
-   Link: <a href="https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/performing-rights-organizations-and-collecting-societies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — On the flip side, songwriters cannot collect performance royalties simply by joining with The MLC. So you have t...</p></details>
+   Link:<a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — On the flip side, songwriters cannot collect performance royalties simply by joining with The MLC. So you have t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sentric.com  
    Title: publishing royalties from streaming  
-   Link: <a href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.sentric.com/news/publishing-royalties-from-streaming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</p></details>
+   Link:<a href="https://www.sentric.com/news/publishing-royalties-from-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.sentric.com/news/publishing-royalties-from-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News28 Feb 2024 — Usually this is split 50/50 so it&#x27;d look like this for 1,000,000 streams: £4,000 – Master Rights Income; £500 – Publish...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: musosoup.com  
-   Link: <a href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</p></details>
+   Link:<a href="https://musosoup.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/spotify-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalties Explained: How They Work and What You...Most royalties go to recording rights holders, with the rest to songwr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: artists.spotify.com  
    Title: how royalties work  
-   Link: <a href="https://artists.spotify.com/en/video/how-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/how-royalties-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties Work – Spotify for ArtistsMatt and Kim, Sheryl Crow, and Cienfue weigh in on the importance of royalties and how they work on S...</p></details>
+   Link:<a href="https://artists.spotify.com/en/video/how-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/how-royalties-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties Work – Spotify for ArtistsMatt and Kim, Sheryl Crow, and Cienfue weigh in on the importance of royalties and how they work on S...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: artist.tools  
    Title: how do artists get paid on spotify a musician s guide  
-   Link: <a href="https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our guide demystifies royalties, the revenue pool, and payment systems to help you maximize your...</p></details>
+   Link:<a href="https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-do-artists-get-paid-on-spotify-a-musician-s-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our guide demystifies royalties, the revenue pool, and payment systems to help you maximize your...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: artist.tools  
    Title: a guide to royalties from spotify and how to get paid  
-   Link: <a href="https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 1, 2026 — Unlock your earnings with our guide to royalties from Spotify. Learn how payouts work, who gets paid, and the strategies to...</p></details>
+   Link:<a href="https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-from-spotify-and-how-to-get-paid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 1, 2026 — Unlock your earnings with our guide to royalties from Spotify. Learn how payouts work, who gets paid, and the strategies to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payments are typically made via publishers, agencies and collecting...Read more...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Payments are typically made via publishers, agencies and collecting...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: music-hub.com  
    Title: what are your streams on spotify co worth  
-   Link: <a href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow">https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</p></details>
+   Link:<a href="https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth" target="_blank" rel="noopener noreferrer nofollow">https://www.music-hub.com/en-blog/what-are-your-streams-on-spotify-co-worth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MusicHubWhat are your streams on Spotify &amp; co. worth?25 Mar 2024 — Song Copyright (&quot;Publishing Rights&quot;); Recording Copyright (&quot;Master Rig...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: soundcharts.com  
    Title: mechanical royalties  
-   Link: <a href="https://soundcharts.com/en/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/mechanical-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide: Who Pays &amp; Collects Them?3 Mar 2020 — Learn what mechanical royalties are, how they differ from performance royalties, who pays th...</p></details>
+   Link:<a href="https://soundcharts.com/en/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/mechanical-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide: Who Pays &amp; Collects Them?3 Mar 2020 — Learn what mechanical royalties are, how they differ from performance royalties, who pays th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: royaltysolutionscorp.com  
-   Link: <a href="https://www.royaltysolutionscorp.com/blog/spotifyroyalties" target="_blank" rel="noopener noreferrer nofollow">https://www.royaltysolutionscorp.com/blog/spotifyroyalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty SolutionsSpotify Hits $10B in Payouts — How Are Royalties Paid Out?Mar 20, 2025 — Spotify pays the distributor or label for the s...</p></details>
+   Link:<a href="https://www.royaltysolutionscorp.com/blog/spotifyroyalties" target="_blank" rel="noopener noreferrer nofollow">https://www.royaltysolutionscorp.com/blog/spotifyroyalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty SolutionsSpotify Hits $10B in Payouts — How Are Royalties Paid Out?Mar 20, 2025 — Spotify pays the distributor or label for the s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: prsformusic.com  
    Title: how to understanding publishing rights  
-   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to... understanding publishing rights14 May 2021 — We asked Simon to give us insights on copyright, publishing specialities, publishi...</p></details>
+   Link:<a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to... understanding publishing rights14 May 2021 — We asked Simon to give us insights on copyright, publishing specialities, publishi...</p></details>
    Published: May 2021  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aristake.com  
-   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — PROs make money to pay songwriter royalties and publishing royalties... composition perf...</p></details>
+   Link:<a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — PROs make money to pay songwriter royalties and publishing royalties... composition perf...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: curveroyaltysystems.com  
-   Link: <a href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curve Royalty SystemsThe 4 Different Types Of Music Publishing Royalties And...Jul 9, 2025 — The common split is 50/50, but some PROs ha...</p></details>
+   Link:<a href="https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ" target="_blank" rel="noopener noreferrer nofollow">https://www.curveroyaltysystems.com/news/types-music-publishing-royalties-how-differ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curve Royalty SystemsThe 4 Different Types Of Music Publishing Royalties And...Jul 9, 2025 — The common split is 50/50, but some PROs ha...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Publishing Royalites: r/musicindustryNo one really answered properly. About 20% of the total Spotify payout goes to publishing a...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1mlbxqh/spotify_publishing_royalites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Publishing Royalites: r/musicindustryNo one really answered properly. About 20% of the total Spotify payout goes to publishing a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear Additional Resources  
-   Link: <a href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/additional-resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/additional-resources/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/additional-resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearAdditional Resources - Loud and ClearSpotify Resources. From $11B in 2025 Payouts to What We&#x27;re Building for Artists in 202...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</p></details>
+   Link:<a href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aristake.com  
    Title: global publishing royalties from spotify  
-   Link: <a href="https://aristake.com/global-publishing-royalties-from-spotify/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/global-publishing-royalties-from-spotify/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>performance and mechanical royalties to songwriters for streams from all over the world.Read more...</p></details>
+   Link:<a href="https://aristake.com/global-publishing-royalties-from-spotify/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/global-publishing-royalties-from-spotify/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>performance and mechanical royalties to songwriters for streams from all over the world.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: Spotify royalty more to the recording side?  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/musicindustryAccording to this diagram, 59.9% of the 75% stream royalty that gets paid out goes to the recording side ie the master rec...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/ymazkp/spotify_royalty_more_to_the_recording_side/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/musicindustryAccording to this diagram, 59.9% of the 75% stream royalty that gets paid out goes to the recording side ie the master rec...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUsers can search for music based on artist, album, or genre, and can create, edit, and share playlists. It offers some social m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUsers can search for music based on artist, album, or genre, and can create, edit, and share playlists. It offers some social m...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: viewmaniac.com  
    Title: spotify royalties calculator  
-   Link: <a href="https://viewmaniac.com/spotify-royalties-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://viewmaniac.com/spotify-royalties-calculator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated 2026 EstimatesUse a Spotify royalties calculator to get insights into your music earnings and optimize your streaming revenue...</p></details>
+   Link:<a href="https://viewmaniac.com/spotify-royalties-calculator/" target="_blank" rel="noopener noreferrer nofollow">https://viewmaniac.com/spotify-royalties-calculator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updated 2026 EstimatesUse a Spotify royalties calculator to get insights into your music earnings and optimize your streaming revenue...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: emastered.com  
    Title: spotify royalties  
-   Link: <a href="https://emastered.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://emastered.com/blog/spotify-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need to Know1 Oct 2024 — Spotify royalties are the amount of money that Spotify owes rights holders (artists, songwriters, labels...</p></details>
+   Link:<a href="https://emastered.com/blog/spotify-royalties" target="_blank" rel="noopener noreferrer nofollow">https://emastered.com/blog/spotify-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need to Know1 Oct 2024 — Spotify royalties are the amount of money that Spotify owes rights holders (artists, songwriters, labels...</p></details>
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: apraamcos.com.au  
-   Link: <a href="https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music royalties explainedIf you are making music, find out how song royalties, royalty payments and different types of royalties work...</p></details>
+   Link:<a href="https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/music-creators/membership-explained/royalties-overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music royalties explainedIf you are making music, find out how song royalties, royalty payments and different types of royalties work...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: submitlink.io  
    Title: a professional s guide to maximizing royalties for spotify in 2026  
-   Link: <a href="https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Professional&#x27;s Guide to Maximizing Royalties for Spotify...Mar 4, 2026 — Unlock royalties for spotify insights to boost payouts, prote...</p></details>
+   Link:<a href="https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.submitlink.io/post/a-professional-s-guide-to-maximizing-royalties-for-spotify-in-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Professional&#x27;s Guide to Maximizing Royalties for Spotify...Mar 4, 2026 — Unlock royalties for spotify insights to boost payouts, prote...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: lsj.com.au  
    Title: music to the ears music publisher and artist royalties to rise  
-   Link: <a href="https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/" target="_blank" rel="noopener noreferrer nofollow">https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music to the ears: Music publisher and artist royalties to rise22 Jun 2023 — A landmark ruling by the US Copyright Royalty Board required...</p></details>
+   Link:<a href="https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/" target="_blank" rel="noopener noreferrer nofollow">https://lsj.com.au/articles/music-to-the-ears-music-publisher-and-artist-royalties-to-rise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music to the ears: Music publisher and artist royalties to rise22 Jun 2023 — A landmark ruling by the US Copyright Royalty Board required...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: digitalmusicnews.com  
    Title: 9af FVQp5k Et DMN Report Spotify Royalty Change Price  
-   Link: <a href="https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY&#x27;S CHANGES IN...Dec 20, 2023 — We explore payouts under Spotify&#x27;s soon-to-rollout in 2024 model, where so...</p></details>
+   Link:<a href="https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/dmnpro/weekly/9afFVQp5kEt-DMN-Report-Spotify-Royalty-Change-Price.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE DEFINITIVE GUIDE TO SPOTIFY&#x27;S CHANGES IN...Dec 20, 2023 — We explore payouts under Spotify&#x27;s soon-to-rollout in 2024 model, where so...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: &middot; Why Musicians Are Broke and How to Fix It  
-   Link: <a href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3mWxrGfRiYM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scary Truth About Spotify Royalties, How Artists Get Paid...How To ACTUALLY Collect Your Music Royalties &amp;middot; Spotify No Longer Payi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3mWxrGfRiYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3mWxrGfRiYM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scary Truth About Spotify Royalties, How Artists Get Paid...How To ACTUALLY Collect Your Music Royalties &amp;middot; Spotify No Longer Payi...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: waterbear.org.uk  
    Title: What Are Music Publishing Deals?  
-   Link: <a href="https://waterbear.org.uk/blog/what-are-music-publishing-deals/" target="_blank" rel="noopener noreferrer nofollow">https://waterbear.org.uk/blog/what-are-music-publishing-deals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Sept 2025 — To summarise, PROs focus on ensuring songwriters and composers are paid when their compositions are publicly perfo...</p></details>
+   Link:<a href="https://waterbear.org.uk/blog/what-are-music-publishing-deals/" target="_blank" rel="noopener noreferrer nofollow">https://waterbear.org.uk/blog/what-are-music-publishing-deals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Sept 2025 — To summarise, PROs focus on ensuring songwriters and composers are paid when their compositions are publicly perfo...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: tracklib.com  
-   Link: <a href="https://www.tracklib.com/blog/music-publishing" target="_blank" rel="noopener noreferrer nofollow">https://www.tracklib.com/blog/music-publishing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishing Made Easy: The Ultimate Guide for...Performance royalties are typically split 50/50 between the composer(s)/songwriter(...</p></details>
+   Link:<a href="https://www.tracklib.com/blog/music-publishing" target="_blank" rel="noopener noreferrer nofollow">https://www.tracklib.com/blog/music-publishing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishing Made Easy: The Ultimate Guide for...Performance royalties are typically split 50/50 between the composer(s)/songwriter(...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: leedsconservatoire.ac.uk  
    Title: music publishing income streams  
-   Link: <a href="https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2020 — MCPS collects the royalties and pays them to the publishers. The statutory rate is obligatory and is a fixed rate of 8.5% o...</p></details>
+   Link:<a href="https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.leedsconservatoire.ac.uk/about-us/progression-portal/musicians-survival-guide-articles/music-publishing-income-streams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2020 — MCPS collects the royalties and pays them to the publishers. The statutory rate is obligatory and is a fixed rate of 8.5% o...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: widerbergmusic.com  
    Title: what are publishing royalties  
-   Link: <a href="https://www.widerbergmusic.com/what-are-publishing-royalties.html" target="_blank" rel="noopener noreferrer nofollow">https://www.widerbergmusic.com/what-are-publishing-royalties.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>? The Complete Guide for...5 May 2026 — Publishing royalties are payments songwriters earn when their composition is streamed, broadcast...</p></details>
+   Link:<a href="https://www.widerbergmusic.com/what-are-publishing-royalties.html" target="_blank" rel="noopener noreferrer nofollow">https://www.widerbergmusic.com/what-are-publishing-royalties.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>? The Complete Guide for...5 May 2026 — Publishing royalties are payments songwriters earn when their composition is streamed, broadcast...</p></details>
    Published: May 2026

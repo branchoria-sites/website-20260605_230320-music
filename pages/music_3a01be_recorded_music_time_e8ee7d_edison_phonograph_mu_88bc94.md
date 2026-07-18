@@ -268,230 +268,230 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_
 
 ## Introduction
 
-In the history of music and sound, the invention of the phonograph by **Thomas Edison** in 1877 stands as a genuine turning point because it made the first **reliable audio [recording]({{ 'recording/' | relative_url }}) and playback** possible. Before Edison’s machine, sound could be notated, remembered orally, or inscribed visually — but never *replayed* mechanically. The phonograph’s ability to fix a performance as an object that could be stored, carried, compared and later reproduced laid the groundwork for preserving musical performances far beyond the temporal and spatial limits of a live event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+In the history of music and sound, the invention of the phonograph by **Thomas Edison** in 1877 stands as a genuine turning point because it made the first **reliable audio [recording]({{ 'recording/' | relative_url }}) and playback** possible. Before Edison’s machine, sound could be notated, remembered orally, or inscribed visually — but never *replayed* mechanically. The phonograph’s ability to fix a performance as an object that could be stored, carried, compared and later reproduced laid the groundwork for preserving musical performances far beyond the temporal and spatial limits of a live event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1-dark.svg" | relative_url }}" alt="Edison Phonograph illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Invention and Technical Breakthroughs
 
-Edison’s phonograph translated acoustic vibrations into **[physical]({{ 'physical/' | relative_url }}) grooves engraved or indented on a medium**, initially tin‑foil wrapped cylinders, that could later be traced by a stylus to mechanically reproduce the original sound. This was the first time a device performed both **recording and playback**, distinguishing it from earlier devices like the phonautograph that could only visualise sound waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/technology/phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Edison’s phonograph translated acoustic vibrations into **[physical]({{ 'physical/' | relative_url }}) grooves engraved or indented on a medium**, initially tin‑foil wrapped cylinders, that could later be traced by a stylus to mechanically reproduce the original sound. This was the first time a device performed both **recording and playback**, distinguishing it from earlier devices like the phonautograph that could only visualise sound waves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/technology/phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-While Edison’s earliest device was rudimentary, subsequent improvements replaced tin foil with **wax cylinders** and later **mass‑produced hard‑wax and celluloid [formats]({{ 'formats/' | relative_url }})**. These refinements made recordings more durable and commercially viable. The cylinder itself — sometimes called an **Edison cylinder** — became one of the first commercial audio media capable of carrying actual musical sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph_cylinder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phonograph cylinder</span><span class="citation-popover-snippet">Phonograph cylinder</span></span></span>
+While Edison’s earliest device was rudimentary, subsequent improvements replaced tin foil with **wax cylinders** and later **mass‑produced hard‑wax and celluloid [formats]({{ 'formats/' | relative_url }})**. These refinements made recordings more durable and commercially viable. The cylinder itself — sometimes called an **Edison cylinder** — became one of the first commercial audio media capable of carrying actual musical sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph_cylinder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phonograph cylinder</span><span class="citation-popover-snippet">Phonograph cylinder</span></span></span>
 
-From a preservation perspective, these early formats were–for the first time–**physical repositories** of performances that did not vanish when an artist stopped singing or playing. Instead of dependent [memory]({{ 'memory/' | relative_url }}) or notation, music could be stored and revisited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.sciencemuseumgroup.org.uk">[Science Museum Group Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.sciencemuseumgroup.org.uk</span><span class="citation-popover-snippet">Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</span></span></span>
+From a preservation perspective, these early formats were–for the first time–**physical repositories** of performances that did not vanish when an artist stopped singing or playing. Instead of dependent [memory]({{ 'memory/' | relative_url }}) or notation, music could be stored and revisited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.sciencemuseumgroup.org.uk">[Science Museum Group Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.sciencemuseumgroup.org.uk</span><span class="citation-popover-snippet">Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_2DRLhFviFE" title="The Edison Cylinder Phonograph: How Audio Recording Changed the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_2DRLhFviFE" target="_blank" rel="noopener noreferrer">The Edison Cylinder Phonograph: How Audio Recording Changed the World</a></p><p class="youtube-embed-meta">Channel: Our Own Devices &middot; Views: 24.0K &middot; Uploaded: January 2023 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_2DRLhFviFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_2DRLhFviFE">Open on YouTube</a></p></div></div></div>
 
 ## Early Music Applications
 
-Although Edison initially viewed his phonograph as a novelty and a tool for dictation, inventors and entrepreneurs quickly explored its musical uses. By the late 1880s and into the 1890s, phonographs and cylinder recordings were being made of a wide range of music: popular songs, instrumental pieces, operatic excerpts and instrumental solos. Notables such as Josef Hofmann and Hans von Bülow made early recorded performances that survive in recorded history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/technology/phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Although Edison initially viewed his phonograph as a novelty and a tool for dictation, inventors and entrepreneurs quickly explored its musical uses. By the late 1880s and into the 1890s, phonographs and cylinder recordings were being made of a wide range of music: popular songs, instrumental pieces, operatic excerpts and instrumental solos. Notables such as Josef Hofmann and Hans von Bülow made early recorded performances that survive in recorded history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/technology/phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The **commercialisation of music recordings** in the 1890s, including the establishment of companies such as **Edison Records**, marked the phonograph’s transition to a medium for preserving performances for listeners who might never hear live versions. Edison Records produced many tens of thousands of recordings before the company ceased operations in 1929, and some of these early discs remain preserved today in archives and libraries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edison_Records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edison Records</span><span class="citation-popover-snippet">Edison Records</span></span></span>
+The **commercialisation of music recordings** in the 1890s, including the establishment of companies such as **Edison Records**, marked the phonograph’s transition to a medium for preserving performances for listeners who might never hear live versions. Edison Records produced many tens of thousands of recordings before the company ceased operations in 1929, and some of these early discs remain preserved today in archives and libraries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edison_Records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edison Records</span><span class="citation-popover-snippet">Edison Records</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-2-dark.svg" | relative_url }}" alt="Edison Phonograph illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Preserving Cultural and Musical Memory
 
-Beyond commercial music, phonographs became tools for **ethnographic and field research**, capturing music and speech from cultures and traditions that had previously existed only in lived performance. Academics and explorers used cylinder recorders in the field from as early as the 1890s, preserving language, song and oral history in ways that surviving notation alone could not convey. These unique recordings now offer irreplaceable insight into musical traditions of remote communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Bill Klinger; Association for Recorded Sound Collections</span><span class="citation-popover-snippet">The Library of CongressBill Klinger; Association for Recorded Sound CollectionsJune 7, 2007 — As early as 1890, academic researchers were...</span><span class="citation-popover-meta">Published: June 7, 2007</span></span></span>
+Beyond commercial music, phonographs became tools for **ethnographic and field research**, capturing music and speech from cultures and traditions that had previously existed only in lived performance. Academics and explorers used cylinder recorders in the field from as early as the 1890s, preserving language, song and oral history in ways that surviving notation alone could not convey. These unique recordings now offer irreplaceable insight into musical traditions of remote communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Bill Klinger; Association for Recorded Sound Collections</span><span class="citation-popover-snippet">The Library of CongressBill Klinger; Association for Recorded Sound CollectionsJune 7, 2007 — As early as 1890, academic researchers were...</span><span class="citation-popover-meta">Published: June 7, 2007</span></span></span>
 
-Institutional collections, such as the **Cylinder Audio Archive** maintained by the University of California, Santa Barbara Library, have digitised thousands of phonograph cylinders — many originally produced by Edison’s companies — making them accessible to researchers and the public as enduring historical resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cylinder_Audio_Archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cylinder Audio Archive</span><span class="citation-popover-snippet">Cylinder Audio Archive</span></span></span>
+Institutional collections, such as the **Cylinder Audio Archive** maintained by the University of California, Santa Barbara Library, have digitised thousands of phonograph cylinders — many originally produced by Edison’s companies — making them accessible to researchers and the public as enduring historical resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cylinder_Audio_Archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cylinder Audio Archive</span><span class="citation-popover-snippet">Cylinder Audio Archive</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-dark.svg" | relative_url }}" alt="Edison Phonograph illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cultural Impact of Repeatable Sound
 
-Edison’s phonograph changed music by making performances **repeatable and collectible**, not just ephemeral. For the first time, listeners could hear a specific rendition over and over, compare interpretations, memorise details from distant performers, and build personal or scholarly collections of recorded sound. This fostered new listening practices and altered concepts of musical memory and authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.sciencemuseumgroup.org.uk">[Science Museum Group Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.sciencemuseumgroup.org.uk</span><span class="citation-popover-snippet">Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</span></span></span>
+Edison’s phonograph changed music by making performances **repeatable and collectible**, not just ephemeral. For the first time, listeners could hear a specific rendition over and over, compare interpretations, memorise details from distant performers, and build personal or scholarly collections of recorded sound. This fostered new listening practices and altered concepts of musical memory and authenticity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.sciencemuseumgroup.org.uk">[Science Museum Group Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.sciencemuseumgroup.org.uk</span><span class="citation-popover-snippet">Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</span></span></span>
 
-The existence of recordings transformed how music could be preserved across generations. Rather than relying solely on written scores or oral transmission, recorded sound became a material trace of performance. This shift has enduring consequences: modern preservationists now work to digitise fragile analog media like cylinders to safeguard early recordings against physical deterioration, expanding [access]({{ 'access/' | relative_url }}) while respecting the phonograph’s role as the genesis of audio preservation practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The existence of recordings transformed how music could be preserved across generations. Rather than relying solely on written scores or oral transmission, recorded sound became a material trace of performance. This shift has enduring consequences: modern preservationists now work to digitise fragile analog media like cylinders to safeguard early recordings against physical deterioration, expanding [access]({{ 'access/' | relative_url }}) while respecting the phonograph’s role as the genesis of audio preservation practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-These early mechanical recordings thus mark the origin of a long continuum of **audio archiving and music preservation** that stretches from wax cylinders to today’s digital libraries, enabling us to experience, analyse and appreciate performances across time and place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clir.org/pubs/reports/pub137/part1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[clir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-snippet">Part OneThe recording and playback of sound began with Thomas Edison&#x27;s invention of the phonograph in 1877. In the wake of that landmark...</span></span></span>
+These early mechanical recordings thus mark the origin of a long continuum of **audio archiving and music preservation** that stretches from wax cylinders to today’s digital libraries, enabling us to experience, analyse and appreciate performances across time and place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clir.org/pubs/reports/pub137/part1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[clir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-snippet">Part OneThe recording and playback of sound began with Thomas Edison&#x27;s invention of the phonograph in 1877. In the wake of that landmark...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Edison&#x27;s Phonograph Changed Musical Memory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Edison&#x27;s Phonograph Changed Musical Memory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How music got free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14858603-M.jpg" alt="Cover for How music got free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How music got free">How music got free</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How music got free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14858603-M.jpg" alt="Cover for How music got free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How music got free">How music got free</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Places the phonograph in the longer story of recorded music technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the phonograph in the longer story of recorded music technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity+Emily+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape of Modernity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/152607-M.jpg" alt="Cover for The Soundscape of Modernity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity+Emily+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape of Modernity">The Soundscape of Modernity</a>
-        </h4>
-        <p class="fr-book-author">By Emily Thompson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity+Emily+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape of Modernity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/152607-M.jpg" alt="Cover for The Soundscape of Modernity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity+Emily+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape of Modernity">The Soundscape of Modernity</a>
+</h4>
+<p class="fr-book-author">By Emily Thompson</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Architectural acoustics, Music, Acoustics and physics, Music, acoustics and physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity+Emily+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Architectural acoustics, Music, Acoustics and physics, Music, acoustics and physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity+Emily+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The recording angel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162093-M.jpg" alt="Cover for The recording angel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The recording angel">The recording angel</a>
-        </h4>
-        <p class="fr-book-author">By Evan Eisenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The recording angel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162093-M.jpg" alt="Cover for The recording angel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The recording angel">The recording angel</a>
+</h4>
+<p class="fr-book-author">By Evan Eisenberg</p>
         
-        <p class="fr-book-desc">First published 1986. Subjects: Social aspects of Sound recordings, Social aspects, Music and society, Sound recording industry, Music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1986. Subjects: Social aspects of Sound recordings, Social aspects, Music and society, Sound recording industry, Music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Denialism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Denialism">Denialism</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Denialism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Denialism">Denialism</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how recording transformed music from live experience into reproducible sound.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how recording transformed music from live experience into reproducible sound.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How music got free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape of Modernity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+recording+angel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The recording angel</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How music got free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape+of+Modernity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape of Modernity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+recording+angel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The recording angel</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b65bff00ad5a6c6e16b1.jpg' | relative_url }}" alt="Listing image for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b65bff00ad5a6c6e16b1.jpg' | relative_url }}" alt="Listing image for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/86c5f6bdf13f08f4a38f.jpg' | relative_url }}" alt="Listing image for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">[NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/86c5f6bdf13f08f4a38f.jpg' | relative_url }}" alt="Listing image for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">[NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign"><img src="{{ '/assets/images/marketplace-covers/86ef54b4c2b925940340.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign"><img src="{{ '/assets/images/marketplace-covers/86ef54b4c2b925940340.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led"><img src="{{ '/assets/images/marketplace-covers/bd723ffa5588c7212a24.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led"><img src="{{ '/assets/images/marketplace-covers/bd723ffa5588c7212a24.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="edison-phonograph-how-edison-s-phonograph-changed-musical-memory-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -507,7 +507,7 @@ These early mechanical recordings thus mark the origin of a long continuum of **
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -527,7 +527,7 @@ These early mechanical recordings thus mark the origin of a long continuum of **
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -559,7 +559,7 @@ These early mechanical recordings thus mark the origin of a long continuum of **
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -611,7 +611,7 @@ These early mechanical recordings thus mark the origin of a long continuum of **
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -656,7 +656,7 @@ These early mechanical recordings thus mark the origin of a long continuum of **
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -697,131 +697,131 @@ These early mechanical recordings thus mark the origin of a long continuum of **
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phonograph</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phonograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phonograph</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/technology/phonograph" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/phonograph</a>  
+   Link:<a href="https://www.britannica.com/technology/phonograph" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/phonograph</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Phonograph cylinder  
-   Link: <a href="https://en.wikipedia.org/wiki/Phonograph_cylinder" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phonograph_cylinder</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phonograph_cylinder" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phonograph_cylinder</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Music recording  
-   Link: <a href="https://www.britannica.com/topic/music-recording/The-development-of-musical-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/The-development-of-musical-recording</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Audio Technology, Preservation, History | Britannica...</p></details>
+   Link:<a href="https://www.britannica.com/topic/music-recording/The-development-of-musical-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/music-recording/The-development-of-musical-recording</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMusic recording - Audio Technology, Preservation, History | Britannica...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Edison Records  
-   Link: <a href="https://en.wikipedia.org/wiki/Edison_Records" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edison_Records</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Edison_Records" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edison_Records</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Cylinder Audio Archive  
-   Link: <a href="https://en.wikipedia.org/wiki/Cylinder_Audio_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cylinder_Audio_Archive</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cylinder_Audio_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cylinder_Audio_Archive</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: clir.org  
-   Link: <a href="https://www.clir.org/pubs/reports/pub137/part1/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub137/part1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Part OneThe recording and playback of sound began with Thomas Edison&#x27;s invention of the phonograph in 1877. In the wake of that landmark...</p></details>
+   Link:<a href="https://www.clir.org/pubs/reports/pub137/part1/" target="_blank" rel="noopener noreferrer nofollow">https://www.clir.org/pubs/reports/pub137/part1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part OneThe recording and playback of sound began with Thomas Edison&#x27;s invention of the phonograph in 1877. In the wake of that landmark...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/technology/cylinder-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/cylinder-recording</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1904. CYLINDER RECORDING phonograph record Written and fact-checked by Britannica Editors History [Button: Ask Anything ] Table...</p></details>
+   Link:<a href="https://www.britannica.com/technology/cylinder-recording" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/cylinder-recording</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1904. CYLINDER RECORDING phonograph record Written and fact-checked by Britannica Editors History [Button: Ask Anything ] Table...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blog.sciencemuseumgroup.org.uk  
-   Link: <a href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow">https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</p></details>
+   Link:<a href="https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/" target="_blank" rel="noopener noreferrer nofollow">https://blog.sciencemuseumgroup.org.uk/eavesdropping-on-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Museum Group BlogEavesdropping on history: listening to our collection21 Feb 2022 — This was a ground-breaking development; the p...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: loc.gov  
    Title: The Library of Congress Bill Klinger; Association for Recorded Sound Collections  
-   Link: <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressBill Klinger; Association for Recorded Sound CollectionsJune 7, 2007 — As early as 1890, academic researchers were...</p></details>
+   Link:<a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/klinger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressBill Klinger; Association for Recorded Sound CollectionsJune 7, 2007 — As early as 1890, academic researchers were...</p></details>
    Published: June 7, 2007  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/innovation/inventions/phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/innovation/inventions/phonograph.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Phonograph Revolutionized Sound Recording | HowStuffWorksJuly 18, 2023 — HOW THE PHONOGRAPH REVOLUTIONIZED SOUND RECORDING By: Desire...</p></details>
+   Link:<a href="https://science.howstuffworks.com/innovation/inventions/phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/innovation/inventions/phonograph.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Phonograph Revolutionized Sound Recording | HowStuffWorksJuly 18, 2023 — HOW THE PHONOGRAPH REVOLUTIONIZED SOUND RECORDING By: Desire...</p></details>
    Published: July 18, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scalar.oberlincollegelibrary.org  
    Title: the phonograph 1  
-   Link: <a href="https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1" target="_blank" rel="noopener noreferrer nofollow">https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonograph - ScalarThe invention of the phonograph, which allowed sound to be recorded for the first time, changed the way people conduct...</p></details>
+   Link:<a href="https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1" target="_blank" rel="noopener noreferrer nofollow">https://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/the-phonograph-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phonograph - ScalarThe invention of the phonograph, which allowed sound to be recorded for the first time, changed the way people conduct...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: americanhistory.si.edu  
    Title: replaying sound  
-   Link: <a href="https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound" target="_blank" rel="noopener noreferrer nofollow">https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound | National Museum of American HistoryREPLAYING SOUND THOMAS EDISON (1847–1931) * Hear My Voice * Explore Online * Picturing Sound *...</p></details>
+   Link:<a href="https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound" target="_blank" rel="noopener noreferrer nofollow">https://americanhistory.si.edu/explore/exhibitions/hear-my-voice/online/replaying-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound | National Museum of American HistoryREPLAYING SOUND THOMAS EDISON (1847–1931) * Hear My Voice * Explore Online * Picturing Sound *...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Cylinder PhonographThe phonograph was developed as a result of Thomas Edison&#x27;s work on two other inventions, the telegraph...</p></details>
+   Link:<a href="https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Cylinder PhonographThe phonograph was developed as a result of Thomas Edison&#x27;s work on two other inventions, the telegraph...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: EDISON&#x27;S PATH TO THE PHONOGRAPH Image: Scott phonautograph and Edison p...</p></details>
+   Link:<a href="https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: EDISON&#x27;S PATH TO THE PHONOGRAPH Image: Scott phonautograph and Edison p...</p></details>
    Published: July 17, 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/arts-[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-[culture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Phonograph Changed Music ForeverHOW THE PHONOGRAPH CHANGED MUSIC FOREVER MUCH LIKE STREAMING MUSIC SERVICES TODAY ARE RESHAPING O...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/arts-[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-[culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Phonograph Changed Music ForeverHOW THE PHONOGRAPH CHANGED MUSIC FOREVER MUCH LIKE STREAMING MUSIC SERVICES TODAY ARE RESHAPING O...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hibar-research.org  
-   Link: <a href="https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/" target="_blank" rel="noopener noreferrer nofollow">https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The HIBAR Research AllianceRestoring and Preserving Historical Audio RecordingsIRENE is currently in use by a number of archives and inst...</p></details>
+   Link:<a href="https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/" target="_blank" rel="noopener noreferrer nofollow">https://hibar-research.org/restoring-and-preserving-historical-audio-recordings-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The HIBAR Research AllianceRestoring and Preserving Historical Audio RecordingsIRENE is currently in use by a number of archives and inst...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: recordinghistory.org  
-   Link: <a href="https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/" target="_blank" rel="noopener noreferrer nofollow">https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/</a>  
+   Link:<a href="https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/" target="_blank" rel="noopener noreferrer nofollow">https://recordinghistory.org/technology/phonograph-record-technologies-from-the-beginning-almost-to-the-end/edisons-invention-of-the-phonograph/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: on this day in 1878 the phonograph patent changed music forever did you know how  
-   Link: <a href="https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1878: The Phonograph Patent changed...On this day in 1878: The Phonograph Patent changed music forever 🔄🎶 Did you know ho...</p></details>
+   Link:<a href="https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abbeyroad/posts/on-this-day-in-1878-the-phonograph-patent-changed-music-forever-did-you-know-how/1165707541779359/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1878: The Phonograph Patent changed...On this day in 1878: The Phonograph Patent changed music forever 🔄🎶 Did you know ho...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: home.nps.gov  
    Title: origins of sound recording edisons path to the phonograph  
-   Link: <a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — Edison’s Embossing Translating Telegraph made evident the many advantages of recording messages on...</p></details>
+   Link:<a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edisons-path-to-the-phonograph.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — Edison’s Embossing Translating Telegraph made evident the many advantages of recording messages on...</p></details>
    Published: July 17, 2017  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: loc.gov  
    Title: Edison on hearing his voice play back to him from  
-   Link: <a href="https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Edison Sound Recordings | Articles and Essays | Inventing Entertainment: The Early Motion Pictures and Sound Recordings of the...</p></details>
+   Link:<a href="https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of Edison Sound Recordings | Articles and Essays | Inventing Entertainment: The Early Motion Pictures and Sound Recordings of the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: home.nps.gov  
    Title: origins of sound recording the inventors  
-   Link: <a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: THE INVENTORS Edouard-Léon Scott de Martinville (1817-1879) WHO INVENTE...</p></details>
+   Link:<a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-the-inventors.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: THE INVENTORS Edouard-Léon Scott de Martinville (1817-1879) WHO INVENTE...</p></details>
    Published: July 17, 2017  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: home.nps.gov  
    Title: origins of sound recording thomas edison  
-   Link: <a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: THE INVENTORS Image: Thomas Edison Thomas Edison (1847-1931) National P...</p></details>
+   Link:<a href="https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm" target="_blank" rel="noopener noreferrer nofollow">https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-thomas-edison.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park Service)July 17, 2017 — ORIGINS OF SOUND RECORDING: THE INVENTORS Image: Thomas Edison Thomas Edison (1847-1931) National P...</p></details>
    Published: July 17, 2017

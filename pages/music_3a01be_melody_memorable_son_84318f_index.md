@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-melody-memorable-son/
 description: Focused pages that expand on Melody.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_melody_memorable_son_84318f
 parent_title: Melody
@@ -16,7 +16,7 @@ parent_permalink: /melody/
 
 # Explore Topics in Melody
 
-The following pages expand on the main **[Melody]({{ '/melody/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Melody]({{ '/melody/' | relative_url }})** page and cover its key branches in.
 
 - [Choruses]({{ '/choruses/' | relative_url }})
 - [Earworms]({{ '/earworms/' | relative_url }})

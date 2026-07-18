@@ -274,31 +274,31 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearan
 
 ## Introduction
 
-A song used in a film, television programme, advertisement or video game often requires two separate permissions before it can legally accompany moving images. One permission covers the underlying composition—the melody and lyrics written by songwriters and controlled by publishers. The other covers the specific sound [recording]({{ 'recording/' | relative_url }}) that audiences recognise, usually controlled by a record label or the recording owner. This “two-rights” structure sits at the centre of most sync [licensing]({{ 'licensing/' | relative_url }}) deals and explains why a producer can secure approval from one rights holder yet still be unable to use the music. The process may seem administrative, but it shapes costs, timelines, creative choices and even which songs ultimately appear on screen. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</span></span></span>
+A song used in a film, television programme, advertisement or video game often requires two separate permissions before it can legally accompany moving images. One permission covers the underlying composition—the melody and lyrics written by songwriters and controlled by publishers. The other covers the specific sound [recording]({{ 'recording/' | relative_url }}) that audiences recognise, usually controlled by a record label or the recording owner. This “two-rights” structure sits at the centre of most sync [licensing]({{ 'licensing/' | relative_url }}) deals and explains why a producer can secure approval from one rights holder yet still be unable to use the music. The process may seem administrative, but it shapes costs, timelines, creative choices and even which songs ultimately appear on screen. ASCAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-dark.svg" | relative_url }}" alt="Clearance illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Composition Rights Versus Master Rights
 
-The first approval is the synchronisation licence, commonly called a sync licence. This grants permission to pair a musical composition with visual content. It applies to the song itself—the words, [melody]({{ 'melody/' | relative_url }}) and underlying musical work—regardless of who performs it. Publishers, songwriters or their representatives usually control this right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">A Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</span></span></span>
+The first approval is the synchronisation licence, commonly called a sync licence. This grants permission to pair a musical composition with visual content. It applies to the song itself—the words, [melody]({{ 'melody/' | relative_url }}) and underlying musical work—regardless of who performs it. Publishers, songwriters or their representatives usually control this right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">A Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</span></span></span>
 
-The second approval is the master use licence. This covers the actual recording that listeners hear. If a producer wants to use a famous recording rather than create a new version, permission must also come from whoever owns the master recording, often a record label but sometimes the artist or another [rights]({{ 'rights/' | relative_url }}) holder. Musicbed <span class="citation-chip-wrap"><a class="citation-chip" href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartdaylaw.com">[2bartdaylaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartdaylaw.com</span><span class="citation-popover-title">Licensing Music For Films</span><span class="citation-popover-snippet">So, if the producer of a film, television show,Read more...</span></span></span>
+The second approval is the master use licence. This covers the actual recording that listeners hear. If a producer wants to use a famous recording rather than create a new version, permission must also come from whoever owns the master recording, often a record label but sometimes the artist or another [rights]({{ 'rights/' | relative_url }}) holder. Musicbed<span class="citation-chip-wrap"><a class="citation-chip" href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartdaylaw.com">[2bartdaylaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartdaylaw.com</span><span class="citation-popover-title">Licensing Music For Films</span><span class="citation-popover-snippet">So, if the producer of a film, television show,Read more...</span></span></span>
 
-A simple example illustrates the distinction. A television producer may want to use a classic hit. The composition belongs to the songwriters and publisher, while the well-known recording belongs to a label. Even if the publisher approves the placement, the producer cannot use the original recording without the label's consent. Likewise, label approval alone is insufficient because the composition remains separately protected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">What is a Music Synchronization License?</span><span class="citation-popover-snippet">Sync...3 Sept 2019 — Master use license from a record label/recording artists, allowing to synchronize the sound recording. Music superv...</span></span></span> This separation is a consequence of copyright structure rather than industry habit. Music copyright generally recognises the composition andthe sound recording as distinct assets, each with its own ownership chain and licensing requirements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hornwright.com">[Horn Wright, LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hornwright.com</span><span class="citation-popover-snippet">Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and lyrics.Read more...</span></span></span>
+A simple example illustrates the distinction. A television producer may want to use a classic hit. The composition belongs to the songwriters and publisher, while the well-known recording belongs to a label. Even if the publisher approves the placement, the producer cannot use the original recording without the label's consent. Likewise, label approval alone is insufficient because the composition remains separately protected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">What is a Music Synchronization License?</span><span class="citation-popover-snippet">Sync...3 Sept 2019 — Master use license from a record label/recording artists, allowing to synchronize the sound recording. Music superv...</span></span></span> This separation is a consequence of copyright structure rather than industry habit. Music copyright generally recognises the composition andthe sound recording as distinct assets, each with its own ownership chain and licensing requirements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hornwright.com">[Horn Wright, LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hornwright.com</span><span class="citation-popover-snippet">Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and lyrics.Read more...</span></span></span>
 
 ## Why Split Ownership Slows Approvals
 
 The creative appeal of a song can be obvious within seconds, but clearance often takes much longer. The reason is that ownership is frequently fragmented across multiple parties.
 
-A modern pop song may have several songwriters, multiple publishers and a separate master owner. Each stakeholder may control a percentage share and may have approval rights over sync uses. In practice, this means music supervisors and producers must identify every relevant rights holder and negotiate terms with each of them. E S Collab. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slinkyproductions.co.uk">[2slinkyproductions.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slinkyproductions.co.uk</span><span class="citation-popover-title">05 music sync licensing patrick cloherty</span><span class="citation-popover-snippet">05 – Music Sync Licensing For Film, TV &amp; VideoA music synchronisation license is a music license granted by the owner or composer of a pa...</span></span></span>
+A modern pop song may have several songwriters, multiple publishers and a separate master owner. Each stakeholder may control a percentage share and may have approval rights over sync uses. In practice, this means music supervisors and producers must identify every relevant rights holder and negotiate terms with each of them. E S Collab.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slinkyproductions.co.uk">[2slinkyproductions.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slinkyproductions.co.uk</span><span class="citation-popover-title">05 music sync licensing patrick cloherty</span><span class="citation-popover-snippet">05 – Music Sync Licensing For Film, TV &amp; VideoA music synchronisation license is a music license granted by the owner or composer of a pa...</span></span></span>
 
 Several factors can delay approval:
 
 * **Multiple composition owners.** A song with several writers may require consent from all publishing interests.
 * **Separate master ownership.** Labels and artists may have contractual approval provisions even when the label formally owns the recording.
 * **Different commercial expectations.** One side may accept a proposed fee while another demands more.
-* **Creative objections.** Rights holders may reject uses that conflict with their brand, values or artistic preferences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartdaylaw.com">[bartdaylaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartdaylaw.com</span><span class="citation-popover-title">Licensing Music For Films</span><span class="citation-popover-snippet">So, if the producer of a film, television show,Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
+* **Creative objections.** Rights holders may reject uses that conflict with their brand, values or artistic preferences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bartdaylaw.com">[bartdaylaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bartdaylaw.com</span><span class="citation-popover-title">Licensing Music For Films</span><span class="citation-popover-snippet">So, if the producer of a film, television show,Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
 
-The practical consequence is that a producer can spend weeks pursuing a song only to discover that one stakeholder refuses permission. Industry discussions frequently describe sync clearance as requiring unanimous approval from all relevant owners rather than a simple majority decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</span></span></span>
+The practical consequence is that a producer can spend weeks pursuing a song only to discover that one stakeholder refuses permission. Industry discussions frequently describe sync clearance as requiring unanimous approval from all relevant owners rather than a simple majority decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</span></span></span>
 
 For screen productions operating under tight schedules, this uncertainty can be as significant as the licensing fee itself. A perfect creative match may be abandoned because clearance cannot be completed before delivery deadlines.
 
@@ -307,14 +307,14 @@ For screen productions operating under tight schedules, this uncertainty can be 
 
 The two-rights system is fundamentally a governance system. It determines who gets to say yes, who receives compensation and who controls how music is associated with visual storytelling.
 
-From a rights-holder perspective, separate approvals provide meaningful control. Songwriters can protect the integrity of their compositions, while recording owners can decide how a particular performance or production is used. A publisher may approve a cover version in a commercial while refusing use of the original recording, or vice versa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hornwright.com">[Horn Wright, LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hornwright.com</span><span class="citation-popover-snippet">Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and lyrics.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mraservices.com/licensing-of-popular-music-in-advertising/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mraservices.com">[MRA Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mraservices.com</span><span class="citation-popover-snippet">MRA ServicesLicensing of Popular Music in Advertising - MRA Services11 Dec 2017 — Synchronization License: Rights to synchronize the musi...</span></span></span>
+From a rights-holder perspective, separate approvals provide meaningful control. Songwriters can protect the integrity of their compositions, while recording owners can decide how a particular performance or production is used. A publisher may approve a cover version in a commercial while refusing use of the original recording, or vice versa.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hornwright.com">[Horn Wright, LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hornwright.com</span><span class="citation-popover-snippet">Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and lyrics.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mraservices.com/licensing-of-popular-music-in-advertising/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mraservices.com">[MRA Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mraservices.com</span><span class="citation-popover-snippet">MRA ServicesLicensing of Popular Music in Advertising - MRA Services11 Dec 2017 — Synchronization License: Rights to synchronize the musi...</span></span></span>
 
-For producers, however, the same structure creates transaction costs. Locating owners, verifying ownership percentages and coordinating negotiations all consume time and legal resources. Industry organisations such as ASCAP and BMI provide databases and rights-management tools that help identify ownership information, but the responsibility for obtaining permissions remains with the producer or music supervisor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanolaw.com">[Romano Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanolaw.com</span><span class="citation-popover-title">staying sync rights owners clear music tv film</span><span class="citation-popover-snippet">Romano LawHow to Clear Music for TV and FilmOct 5, 2022 — Songview can be accessed through either the ASCAP or BMI website. As with label...</span></span></span> ASCAP The result is a balancing act between creative freedom <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span>, copyright protection and commercial efficiency. Every screen placement effectively becomes a small governance exercise involving multiple stakeholders with different interests.
+For producers, however, the same structure creates transaction costs. Locating owners, verifying ownership percentages and coordinating negotiations all consume time and legal resources. Industry organisations such as ASCAP and BMI provide databases and rights-management tools that help identify ownership information, but the responsibility for obtaining permissions remains with the producer or music supervisor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romanolaw.com">[Romano Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romanolaw.com</span><span class="citation-popover-title">staying sync rights owners clear music tv film</span><span class="citation-popover-snippet">Romano LawHow to Clear Music for TV and FilmOct 5, 2022 — Songview can be accessed through either the ASCAP or BMI website. As with label...</span></span></span> ASCAP The result is a balancing act between creative freedom<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</span></span></span>, copyright protection and commercial efficiency. Every screen placement effectively becomes a small governance exercise involving multiple stakeholders with different interests.
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-dark.svg" | relative_url }}" alt="Clearance illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When One-Stop Music Becomes Attractive
 
-Because two-rights clearance can be slow and uncertain, music supervisors often value what the industry calls “one-stop” music. In a one-stop arrangement, a single person or company controls both the publishing and [master rights]({{ 'master-rights/' | relative_url }}) and can grant all necessary permissions through one negotiation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
+Because two-rights clearance can be slow and uncertain, music supervisors often value what the industry calls “one-stop” music. In a one-stop arrangement, a single person or company controls both the publishing and [master rights]({{ 'master-rights/' | relative_url }}) and can grant all necessary permissions through one negotiation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
 
 One-stop music offers several advantages:
 
@@ -323,13 +323,13 @@ One-stop music offers several advantages:
 * Faster approval processes.
 * Fewer contracts and negotiations.
 * Reduced risk that a single rights holder will block a deal.
-* Greater certainty for productions working under tight deadlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
+* Greater certainty for productions working under tight deadlines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thatpitch.com">[That Pitch Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thatpitch.com</span><span class="citation-popover-title">That Pitch Blog What Master Rights Mean in Sync Licensing</span><span class="citation-popover-snippet">That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</span></span></span>
 
 </div>
 
-This is one reason independent artists who own both their masters and publishing rights can become attractive sync candidates. Their songs may not have the cultural recognition of major catalogue hits, but they can often be licensed more quickly and with fewer legal complications. Trailer music libraries and production music catalogues frequently build their business models around this streamlined clearance structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonalchaostrailers.com">[tonalchaostrailers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonalchaostrailers.com</span><span class="citation-popover-snippet">A master license covers the specific recording. A blanket license covers an entire...Read more...</span></span></span>
+This is one reason independent artists who own both their masters and publishing rights can become attractive sync candidates. Their songs may not have the cultural recognition of major catalogue hits, but they can often be licensed more quickly and with fewer legal complications. Trailer music libraries and production music catalogues frequently build their business models around this streamlined clearance structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonalchaostrailers.com">[tonalchaostrailers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonalchaostrailers.com</span><span class="citation-popover-snippet">A master license covers the specific recording. A blanket license covers an entire...Read more...</span></span></span>
 
-Importantly, “one-stop” does not mean copyright disappears. It means that the necessary permissions are consolidated under a single decision-maker, reducing administrative friction while preserving legal protection for the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundstripe.com/blogs/music-licensing-terms-decoded" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundstripe.com">[soundstripe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundstripe.com</span><span class="citation-popover-title">music licensing terms decoded</span><span class="citation-popover-snippet">Synchronization License: Music Licensing Terms Decoded14 May 2026 — Practical implication: when a music license claims to be &quot;all-in,&quot; co...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Importantly, “one-stop” does not mean copyright disappears. It means that the necessary permissions are consolidated under a single decision-maker, reducing administrative friction while preserving legal protection for the music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundstripe.com/blogs/music-licensing-terms-decoded" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundstripe.com">[soundstripe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundstripe.com</span><span class="citation-popover-title">music licensing terms decoded</span><span class="citation-popover-snippet">Synchronization License: Music Licensing Terms Decoded14 May 2026 — Practical implication: when a music license claims to be &quot;all-in,&quot; co...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V33bcQ0g_NE" title="Licensing Your Music - Understanding the Different Types and How to Do It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V33bcQ0g_NE" target="_blank" rel="noopener noreferrer">Licensing Your Music - Understanding the Different Types and How to Do It</a></p><p class="youtube-embed-meta">Channel: Powered By Rock &middot; Views: 391 &middot; Uploaded: February 2024 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V33bcQ0g_NE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V33bcQ0g_NE">Open on YouTube</a></p></div></div></div>
 
@@ -337,197 +337,197 @@ Importantly, “one-stop” does not mean copyright disappears. It means that th
 
 The most memorable sync placements often appear effortless to audiences. Viewers experience only the emotional effect of the music within a scene. Behind that moment, however, sits a clearance process designed to respect the distinct rights embedded in a song.
 
-The requirement for both composition and master approval influences which recordings reach screens, how quickly deals can be completed and whether a production chooses a famous recording, a cover version or an entirely different track. Understanding this two-rights framework explains why music licensing is not merely a creative decision but also a legal and organisational one. Every successful sync placement depends on securing both halves of the song before it can begin its new life alongside moving images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filmsupply.com/articles/film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmsupply.com">[filmsupply.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmsupply.com</span><span class="citation-popover-snippet">The sync is the song itself and how it is synchronized...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[3ASCAP 3PRS for Music(#endnote-20]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP does not license rights for recording artists, musicians, singers or record labels.... A synchronization...</span></span></span> "Snippet: PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...")
+The requirement for both composition and master approval influences which recordings reach screens, how quickly deals can be completed and whether a production chooses a famous recording, a cover version or an entirely different track. Understanding this two-rights framework explains why music licensing is not merely a creative decision but also a legal and organisational one. Every successful sync placement depends on securing both halves of the song before it can begin its new life alongside moving images.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filmsupply.com/articles/film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmsupply.com">[filmsupply.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmsupply.com</span><span class="citation-popover-snippet">The sync is the song itself and how it is synchronized...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[3ASCAP 3PRS for Music(#endnote-20]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP does not license rights for recording artists, musicians, singers or record labels.... A synchronization...</span></span></span> "Snippet: PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...")
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Song Often Needs Two Yeses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Song Often Needs Two Yeses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Strong coverage of publishing, copyright and licensing approvals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of publishing, copyright and licensing approvals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Plain+%26+Simple+Guide+to+Music+Publishing+-+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Plain &amp; Simple Guide to Music Publishing - 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11957182-M.jpg" alt="Cover for The Plain &amp; Simple Guide to Music Publishing - 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Plain+%26+Simple+Guide+to+Music+Publishing+-+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Plain &amp; Simple Guide to Music Publishing - 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty">The Plain &amp; Simple Guide to Music Publishing - 4th Edition, b...</a>
-        </h4>
-        <p class="fr-book-author">By Randall D. Wixen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Plain+%26+Simple+Guide+to+Music+Publishing+-+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Plain &amp; Simple Guide to Music Publishing - 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11957182-M.jpg" alt="Cover for The Plain &amp; Simple Guide to Music Publishing - 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Plain+%26+Simple+Guide+to+Music+Publishing+-+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Plain &amp; Simple Guide to Music Publishing - 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty">The Plain &amp; Simple Guide to Music Publishing - 4th Edition, b...</a>
+</h4>
+<p class="fr-book-author">By Randall D. Wixen</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Music publishing, Copyright, Music, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Plain+%26+Simple+Guide+to+Music+Publishing+-+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Music publishing, Copyright, Music, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Plain+%26+Simple+Guide+to+Music+Publishing+-+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Plain+%26+Simple+to+Music+Publishing+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Plain &amp; Simple to Music Publishing 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Plain+%26+Simple+to+Music+Publishing+4th+Edition%2C+by+Randall+D.+Wixen+with+a+Foreword+by+Tom+Petty+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Plain &amp; Simple to Music Publishing 4th Edition, by Randall D. Wixen with a Foreword by Tom Petty books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media"><img src="{{ '/assets/images/marketplace-covers/c25f7c6e735c91c6b38d.jpg' | relative_url }}" alt="Listing image for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media"><img src="{{ '/assets/images/marketplace-covers/c25f7c6e735c91c6b38d.jpg' | relative_url }}" alt="Listing image for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="clearance-why-one-song-often-needs-two-yeses-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ The requirement for both composition and master approval influences which record
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ The requirement for both composition and master approval influences which record
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ The requirement for both composition and master approval influences which record
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ The requirement for both composition and master approval influences which record
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ The requirement for both composition and master approval influences which record
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,205 +733,205 @@ The requirement for both composition and master approval influences which record
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</p></details>
+   Link:<a href="https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/career-development/How-To-Acquire-Music-For-Films</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Acquire Music For FilmsSynchronization License: This is the right to synchronize a song or a piece of music with your visual...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: soundcharts.com  
    Title: What is a Music Synchronization License?  
-   Link: <a href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/how-music-sync-licensing-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sync...3 Sept 2019 — Master use license from a record label/recording artists, allowing to synchronize the sound recording. Music superv...</p></details>
+   Link:<a href="https://soundcharts.com/en/blog/how-music-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/how-music-sync-licensing-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sync...3 Sept 2019 — Master use license from a record label/recording artists, allowing to synchronize the sound recording. Music superv...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</p></details>
+   Link:<a href="https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/career-development/a-checklist-for-using-music-in-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Checklist for Using Music in Film or other Audio-Video...Synchronization License: This is the right to synchronize a song or musi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: musicbed.com  
-   Link: <a href="https://www.musicbed.com/articles/resources/types-of-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbed.com/articles/resources/types-of-music-licenses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Types of Music Licenses for Film and...A Master Use License grants permission to use a specific recording of a...</p></details>
+   Link:<a href="https://www.musicbed.com/articles/resources/types-of-music-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbed.com/articles/resources/types-of-music-licenses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Types of Music Licenses for Film and...A Master Use License grants permission to use a specific recording of a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bartdaylaw.com  
    Title: Licensing Music For Films  
-   Link: <a href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow">https://bartdaylaw.com/licensing-music-for-films/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So, if the producer of a film, television show,Read more...</p></details>
+   Link:<a href="https://bartdaylaw.com/licensing-music-for-films/" target="_blank" rel="noopener noreferrer nofollow">https://bartdaylaw.com/licensing-music-for-films/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So, if the producer of a film, television show,Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hornwright.com  
-   Link: <a href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow">https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/" target="_blank" rel="noopener noreferrer nofollow">https://www.hornwright.com/business-transactions/entertainment-media/music-synchronization-licensing-protecting-your-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Composition rights belong to the songwriter or music publisher. These rights cover the underlying music and [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: slinkyproductions.co.uk  
    Title: 05 music sync licensing patrick cloherty  
-   Link: <a href="https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/" target="_blank" rel="noopener noreferrer nofollow">https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>05 – Music Sync Licensing For Film, TV &amp; VideoA music synchronisation license is a music license granted by the owner or composer of a pa...</p></details>
+   Link:<a href="https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/" target="_blank" rel="noopener noreferrer nofollow">https://www.slinkyproductions.co.uk/backlight/05-music-sync-licensing-patrick-cloherty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>05 – Music Sync Licensing For Film, TV &amp; VideoA music synchronisation license is a music license granted by the owner or composer of a pa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</p></details>
+   Link:<a href="https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Filmmakers/comments/1ot82me/a_comprehensive_overview_of_sync_music_licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive overview of sync (music) licensing, plus...In order to legally &#x27;synchronise&#x27; any existing recording, 100% of all p...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP does not license rights for recording artists, musicians, singers or record labels.... A synchronization...</p></details>
+   Link:<a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP does not license rights for recording artists, musicians, singers or record labels.... A synchronization...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI and Performing Rights | BMI.comThe “synch license,” as it is sometimes called, pays copyright owners when their music is used in comb...</p></details>
+   Link:<a href="https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing/entry/business_using_music_bmi_and_performing_rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMI and Performing Rights | BMI.comThe “synch license,” as it is sometimes called, pays copyright owners when their music is used in comb...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tonalchaostrailers.com  
-   Link: <a href="https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A master license covers the specific recording. A blanket license covers an entire...Read more...</p></details>
+   Link:<a href="https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/" target="_blank" rel="noopener noreferrer nofollow">https://tonalchaostrailers.com/blog/music-rights-101-sync-master-blanket-licenses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A master license covers the specific recording. A blanket license covers an entire...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: soundstripe.com  
    Title: music licensing terms decoded  
-   Link: <a href="https://www.soundstripe.com/blogs/music-licensing-terms-decoded" target="_blank" rel="noopener noreferrer nofollow">https://www.soundstripe.com/blogs/music-licensing-terms-decoded</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronization License: Music Licensing Terms Decoded14 May 2026 — Practical implication: when a music license claims to be &quot;all-in,&quot; co...</p></details>
+   Link:<a href="https://www.soundstripe.com/blogs/music-licensing-terms-decoded" target="_blank" rel="noopener noreferrer nofollow">https://www.soundstripe.com/blogs/music-licensing-terms-decoded</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronization License: Music Licensing Terms Decoded14 May 2026 — Practical implication: when a music license claims to be &quot;all-in,&quot; co...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: musicbed.com  
-   Link: <a href="https://www.musicbed.com/knowledge-base/types-of-music-licenses/28" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbed.com/knowledge-base/types-of-music-licenses/28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Music LicensesThe master license gives the user permission to use a pre-recorded version... Generally a master license is issue...</p></details>
+   Link:<a href="https://www.musicbed.com/knowledge-base/types-of-music-licenses/28" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbed.com/knowledge-base/types-of-music-licenses/28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Music LicensesThe master license gives the user permission to use a pre-recorded version... Generally a master license is issue...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: filmsupply.com  
-   Link: <a href="https://www.filmsupply.com/articles/film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsupply.com/articles/film-music-licensing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sync is the song itself and how it is synchronized...Read more...</p></details>
+   Link:<a href="https://www.filmsupply.com/articles/film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsupply.com/articles/film-music-licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sync is the song itself and how it is synchronized...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing | BMI.comA BMI music license gives you clearance to play over 25 million songs in BMI&#x27;s award-winning catalog. SEARCH SON...</p></details>
+   Link:<a href="https://www.bmi.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Licensing | BMI.comA BMI music license gives you clearance to play over 25 million songs in BMI&#x27;s award-winning catalog. SEARCH SON...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
+   Link:<a href="https://www.bmi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bmi.com  
    Title: 10 things you need to know about placing music on tv and in films  
-   Link: <a href="https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This license is issued by...Read more...</p></details>
+   Link:<a href="https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/news/entry/10_things_you_need_to_know_about_placing_music_on_tv_and_in_films</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This license is issued by...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Need to license certain songs for using them in a feature filmApproach the publisher label. They typically retain and deal with sync righ...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1o1zaw1/need_to_license_certain_songs_for_using_them_in_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Need to license certain songs for using them in a feature filmApproach the publisher label. They typically retain and deal with sync righ...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index</a>  
+   Link:<a href="https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</p></details>
+   Link:<a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingThe composition/publishing rights (the words and melody that make up the song) are owned by w...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thatpitch.com  
    Title: That Pitch Blog What Master Rights Mean in Sync Licensing  
-   Link: <a href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</p></details>
+   Link:<a href="https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-master-rights-mean-in-sync-licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogWhat Master Rights Mean in Sync Licensing - That PitchIn sync licensing, obtaining master rights means securing permission...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mraservices.com  
-   Link: <a href="https://mraservices.com/licensing-of-popular-music-in-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://mraservices.com/licensing-of-popular-music-in-advertising/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MRA ServicesLicensing of Popular Music in Advertising - MRA Services11 Dec 2017 — Synchronization License: Rights to synchronize the musi...</p></details>
+   Link:<a href="https://mraservices.com/licensing-of-popular-music-in-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://mraservices.com/licensing-of-popular-music-in-advertising/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MRA ServicesLicensing of Popular Music in Advertising - MRA Services11 Dec 2017 — Synchronization License: Rights to synchronize the musi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: library.mi.edu  
-   Link: <a href="https://library.mi.edu/musiccopyright/licensing" target="_blank" rel="noopener noreferrer nofollow">https://library.mi.edu/musiccopyright/licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Copyright and LicensingDec 2, 2022 — Synchronization licenses pay the composer for the right to sync their composition (music and l...</p></details>
+   Link:<a href="https://library.mi.edu/musiccopyright/licensing" target="_blank" rel="noopener noreferrer nofollow">https://library.mi.edu/musiccopyright/licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Copyright and LicensingDec 2, 2022 — Synchronization licenses pay the composer for the right to sync their composition (music and l...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: romanolaw.com  
    Title: staying [sync rights](&#123;&#123; 'sync-rights/' | relative_url &#125;&#125;) owners clear music tv film  
-   Link: <a href="https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Romano LawHow to Clear Music for TV and FilmOct 5, 2022 — Songview can be accessed through either the ASCAP or BMI website. As with label...</p></details>
+   Link:<a href="https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.romanolaw.com/staying-sync-rights-owners-clear-music-tv-film/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Romano LawHow to Clear Music for TV and FilmOct 5, 2022 — Songview can be accessed through either the ASCAP or BMI website. As with label...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thatpitch.com  
    Title: That Pitch Blog What Music Supervisors Do in Sync Licensing  
-   Link: <a href="https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>synchronization licenses for the composition and master use licenses for the specific recording.Read more...</p></details>
+   Link:<a href="https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/what-music-supervisors-do-in-sync-licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>synchronization licenses for the composition and master use licenses for the specific recording.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thatpitch.com  
-   Link: <a href="https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogOne-Stop Clearance in Sync Licensing Explained - That Pitch24 Mar 2026 — Sync licensing is how your music gets placed in v...</p></details>
+   Link:<a href="https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/one-stop-clearance-in-sync-licensing-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That Pitch BlogOne-Stop Clearance in Sync Licensing Explained - That Pitch24 Mar 2026 — Sync licensing is how your music gets placed in v...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thatpitch.com  
-   Link: <a href="https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing and Master Rights in Sync Licensing ContractsA sync license agreement is essentially a contract that grants permission to sync...</p></details>
+   Link:<a href="https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/publishing-and-master-rights-in-sync-licensing-contracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing and Master Rights in Sync Licensing ContractsA sync license agreement is essentially a contract that grants permission to sync...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: truecadence.org  
    Title: sync licensing  
-   Link: <a href="https://truecadence.org/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://truecadence.org/sync-licensing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know14 Mar 2026 — Sync licensing is an agreement between a production team (who could be working on a film, video...</p></details>
+   Link:<a href="https://truecadence.org/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://truecadence.org/sync-licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know14 Mar 2026 — Sync licensing is an agreement between a production team (who could be working on a film, video...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: calculator.net  
-   Link: <a href="https://www.calculator.net/bmi-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/bmi-calculator.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI CalculatorBMI is a measurement of a person&#x27;s leanness or corpulence based on their height and weight, and is intended to quantify tis...</p></details>
+   Link:<a href="https://www.calculator.net/bmi-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/bmi-calculator.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMI CalculatorBMI is a measurement of a person&#x27;s leanness or corpulence based on their height and weight, and is intended to quantify tis...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reelcrafter.com  
-   Link: <a href="https://www.reelcrafter.com/blog/how-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow">https://www.reelcrafter.com/blog/how-sync-licensing-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How sync licensing worksIn this post, we&#x27;ll cover the basics of sync licensing, from copyright and composition to fees and [royalties](&amp;#123;&amp;#123; &#x27;royalties/&#x27; | relative_url &amp;#125;&amp;#125;). Read...</p></details>
+   Link:<a href="https://www.reelcrafter.com/blog/how-sync-licensing-works" target="_blank" rel="noopener noreferrer nofollow">https://www.reelcrafter.com/blog/how-sync-licensing-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How sync licensing worksIn this post, we&#x27;ll cover the basics of sync licensing, from copyright and composition to fees and [royalties](&amp;#123;&amp;#123; &#x27;royalties/&#x27; | relative_url &amp;#125;&amp;#125;). Read...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: unitedmasters.com  
-   Link: <a href="https://unitedmasters.com/en/sync-licensing-101" target="_blank" rel="noopener noreferrer nofollow">https://unitedmasters.com/en/sync-licensing-101</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sync Licensing 101 for ArtistsA music synchronization license, or “sync” for short, is a music license granted by an artist, record label...</p></details>
+   Link:<a href="https://unitedmasters.com/en/sync-licensing-101" target="_blank" rel="noopener noreferrer nofollow">https://unitedmasters.com/en/sync-licensing-101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sync Licensing 101 for ArtistsA music synchronization license, or “sync” for short, is a music license granted by an artist, record label...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theupstatesound.com  
-   Link: <a href="https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Sync Licensing in the Music IndustryWhen a song is licensed for use in a commercial, a TV show, or a film, it is “synchroni...</p></details>
+   Link:<a href="https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://theupstatesound.com/understanding-sync-licensing-in-the-music-industry-a-complete-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Sync Licensing in the Music IndustryWhen a song is licensed for use in a commercial, a TV show, or a film, it is “synchroni...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aristake.com  
-   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties9 May 2019 — Any songwriter in the US can sign up for ASCAP or BMI without being invited or having to...</p></details>
+   Link:<a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties9 May 2019 — Any songwriter in the US can sign up for ASCAP or BMI without being invited or having to...</p></details>
    Published: May 2019  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: discmakers.com  
-   Link: <a href="https://www.discmakers.com/resources/music-licensing-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.discmakers.com/resources/music-licensing-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The different types of music licenses: a complete overviewYou&#x27;ll still need the master use license even if it&#x27;s your own recording...</p></details>
+   Link:<a href="https://www.discmakers.com/resources/music-licensing-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.discmakers.com/resources/music-licensing-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The different types of music licenses: a complete overviewYou&#x27;ll still need the master use license even if it&#x27;s your own recording...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: certificates.gsbf.co.uk  
    Title: gsbf.co.uk Synchronization and Licensing — Guide  
-   Link: <a href="https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing" target="_blank" rel="noopener noreferrer nofollow">https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Licensing — Guide - GSBF1 day ago — Sync licenses often require the approval of both the music publisher (who controls the compositio...</p></details>
+   Link:<a href="https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing" target="_blank" rel="noopener noreferrer nofollow">https://certificates.gsbf.co.uk/guides/4032977/synchronization-and-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Licensing — Guide - GSBF1 day ago — Sync licenses often require the approval of both the music publisher (who controls the compositio...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r copyright and this is given to artist or record label 2-...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bgreggae/posts/when-music-appears-in-a-film-permission-must-be-obtained-from-the-rights-holders/1343866211114482/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r copyright and this is given to artist or record label 2-...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/newuse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rces and template licences for TV, film and advertising companies...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/newuse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rces and template licences for TV, film and advertising companies...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e actual sound recording. Mechanical License → For...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kamal-sharif-b186222b0_when-preparing-metadata-for-your-songespecially-activity-7367752387182170112-oVV9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e actual sound recording. Mechanical License → For...Read more...</p></details>

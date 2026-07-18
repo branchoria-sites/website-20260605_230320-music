@@ -506,224 +506,224 @@ Protest songs are not just lyrical expressions of dissent; they are collective i
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-overview.webp" | relative_url }}" alt="Overview image for Protest Songs" loading="eager" decoding="sync" fetchpriority="high">
 ## Chant, Chorus and Solidarity
 
-When people sing together in a protest setting, something more than sound is generated: a **collective emotional experience** that can strengthen solidarity and morale. Sociological research on [collective singing]({{ 'collective-singing/' | relative_url }}) during intense protests finds that participants use group singing to **evoke emotions that raise morale**, help them vent sorrow and anger, and foster a sense of closeness both within the group and, at times, even with opponents. Singing together can bring about a sense of *spiritual transcendence* and shared purpose that is difficult to achieve through isolated action alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
+When people sing together in a protest setting, something more than sound is generated: a **collective emotional experience** that can strengthen solidarity and morale. Sociological research on [collective singing]({{ 'collective-singing/' | relative_url }}) during intense protests finds that participants use group singing to **evoke emotions that raise morale**, help them vent sorrow and anger, and foster a sense of closeness both within the group and, at times, even with opponents. Singing together can bring about a sense of *spiritual transcendence* and shared purpose that is difficult to achieve through isolated action alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
 
-This effect relates to classic ideas in the sociology of music and protest: the Canadian sociologist R. Serge Denisoff distinguished between **“magnetic” protest songs**, which attract people to a movement and promote group commitment, and **“rhetorical” songs**, which focus on persuading external audiences. “Magnetic” songs—with their repetitive refrains and simple structures—are often the ones that become **[choruses]({{ 'choruses/' | relative_url }}) of solidarity** that people chant together at marches or rallies, reinforcing a shared identity and collective intent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Protest_song" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Protest song</span><span class="citation-popover-snippet">Protest song</span></span></span>
+This effect relates to classic ideas in the sociology of music and protest: the Canadian sociologist R. Serge Denisoff distinguished between **“magnetic” protest songs**, which attract people to a movement and promote group commitment, and **“rhetorical” songs**, which focus on persuading external audiences. “Magnetic” songs—with their repetitive refrains and simple structures—are often the ones that become **[choruses]({{ 'choruses/' | relative_url }}) of solidarity** that people chant together at marches or rallies, reinforcing a shared identity and collective intent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Protest_song" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Protest song</span><span class="citation-popover-snippet">Protest song</span></span></span>
 
 Such collective performance does more than communicate information; it **embodies the protest’s emotional core**. The act of [shared singing]({{ 'shared-singing/' | relative_url }}) reinforces bonds between participants, gives emotional shape to shared grievances, and can even help to sustain morale when protests are long, difficult, or risky.
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-1-dark.svg" | relative_url }}" alt="Protest Songs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Political Memory in Songs
 
-A key way protest songs build collective power is through their connection to **memory and historical continuity**. Songs can act as **portable monuments** to past struggles, allowing later movements to draw on earlier histories and adapt their messages. For example, the Italian partisan song *Bella ciao* has been adopted, adapted and re‑used by diverse activist movements globally; its capacity to be reinterpreted—what scholars call *portability*—helps link contemporary causes with historical legacies of resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
+A key way protest songs build collective power is through their connection to **memory and historical continuity**. Songs can act as **portable monuments** to past struggles, allowing later movements to draw on earlier histories and adapt their messages. For example, the Italian partisan song *Bella ciao* has been adopted, adapted and re‑used by diverse activist movements globally; its capacity to be reinterpreted—what scholars call *portability*—helps link contemporary causes with historical legacies of resistance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
 
 This dynamic shows how music serves not just as immediate expression but **as cultural memory**. When movements reuse classic protest songs, or borrow melodic motifs or refrains, they situate present struggles within a longer arc of resistance. This creates a sense of continuity and shared lineage that can bolster participants’ belief that their actions are part of something enduring and significant.
 
-Moreover, feminist and cultural scholars have emphasised that songs embed emotion and affect in social memory. When people remember a protest song, they recall not just its [lyrics]({{ 'lyrics/' | relative_url }}) but *how it felt to sing it together*, to be part of a crowd in that moment. These emotional memories can shape future participation and identity within a movement, reinforcing the sense that collective action has meaning beyond the immediate event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doaj.org/article/9927c5760c8f4585aa3dc3650a96321f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doaj.org">[Directory of Open Access Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doaj.org</span><span class="citation-popover-snippet">Directory of Open Access JournalsThe Soundtrack of Revolution Memory, Affect, and the Power of Protest Songs – DOAJJune 1, 2013...</span><span class="citation-popover-meta">Published: June 1, 2013</span></span></span>
+Moreover, feminist and cultural scholars have emphasised that songs embed emotion and affect in social memory. When people remember a protest song, they recall not just its [lyrics]({{ 'lyrics/' | relative_url }}) but *how it felt to sing it together*, to be part of a crowd in that moment. These emotional memories can shape future participation and identity within a movement, reinforcing the sense that collective action has meaning beyond the immediate event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://doaj.org/article/9927c5760c8f4585aa3dc3650a96321f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doaj.org">[Directory of Open Access Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doaj.org</span><span class="citation-popover-snippet">Directory of Open Access JournalsThe Soundtrack of Revolution Memory, Affect, and the Power of Protest Songs – DOAJJune 1, 2013...</span><span class="citation-popover-meta">Published: June 1, 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-2-dark.svg" | relative_url }}" alt="Protest Songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Risks of Simplification and Appropriation
 
 While protest songs can be powerful tools for collective mobilisation, they also carry risks that can affect how—or whether—they build power. One challenge is **simplification**: effective protest songs often rely on clear, repeated refrains and uncomplicated messages. This can help unify large crowds quickly, but it also runs the risk of **flattening complex issues** into catchy slogans that lack nuance or depth. Some critics argue that this simplification can make protest slogans seem superficial or disconnected from deeper political analysis when used outside their original context.
 
-Another modern challenge is **appropriation and fragmentation** in a digital age. Platforms like TikTok enable rapid dissemination of protest music, but social media’s connective action logic can result in songs being detached from the movements that gave them meaning, repackaged primarily as personal expression or entertainment rather than tools of collective mobilisation. Research on digital protest music notes this dual potential: it can build unity and positive self‑definition within communities of shared identity, but it can also detach songs from their political context and limit their mobilisation potential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
+Another modern challenge is **appropriation and fragmentation** in a digital age. Platforms like TikTok enable rapid dissemination of protest music, but social media’s connective action logic can result in songs being detached from the movements that gave them meaning, repackaged primarily as personal expression or entertainment rather than tools of collective mobilisation. Research on digital protest music notes this dual potential: it can build unity and positive self‑definition within communities of shared identity, but it can also detach songs from their political context and limit their mobilisation potential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
 
 Finally, there are debates within movements about **whose songs get sung and why**. Traditional protest anthems may resonate more strongly with certain demographics or historical memories than with others, potentially excluding some voices or experiences even as they unify others. Music can build solidarity, but it can also reflect the power structures and cultural norms of the groups that adopt it.
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-3-dark.svg" | relative_url }}" alt="Protest Songs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
-Protest songs build collective power by turning individual sentiments into **shared voices of dissent**, reinforcing solidarity through collective performance, and anchoring movements within broader historical memories of resistance. They work at the intersection of emotion, identity, and social communication, helping participants feel part of something larger while signalling to outsiders that a collective force exists. At the same time, the ways songs simplify, travel and are repurposed underscore that their power is neither automatic nor unambiguous: it depends on [cultural context]({{ 'cultural-context/' | relative_url }}), emotional resonance, and the ongoing work of movements to make music a living part of collective struggle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
+Protest songs build collective power by turning individual sentiments into **shared voices of dissent**, reinforcing solidarity through collective performance, and anchoring movements within broader historical memories of resistance. They work at the intersection of emotion, identity, and social communication, helping participants feel part of something larger while signalling to outsiders that a collective force exists. At the same time, the ways songs simplify, travel and are repurposed underscore that their power is neither automatic nor unambiguous: it depends on [cultural context]({{ 'cultural-context/' | relative_url }}), emotional resonance, and the ongoing work of movements to make music a living part of collective struggle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Protest Songs Still Mobilize People. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Protest Songs Still Mobilize People. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides context for music&#x27;s social functions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for music&#x27;s social functions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebel+music+Hisham+Aidi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebel music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12185192-M.jpg" alt="Cover for Rebel music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebel+music+Hisham+Aidi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebel music">Rebel music</a>
-        </h4>
-        <p class="fr-book-author">By Hisham Aidi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rebel+music+Hisham+Aidi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebel music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12185192-M.jpg" alt="Cover for Rebel music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebel+music+Hisham+Aidi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebel music">Rebel music</a>
+</h4>
+<p class="fr-book-author">By Hisham Aidi</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Social conditions, Music and youth, Protest movements, Muslim youth, SOCIAL SCIENCE / Islamic Studies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebel+music+Hisham+Aidi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Social conditions, Music and youth, Protest movements, Muslim youth, SOCIAL SCIENCE / Islamic Studies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebel+music+Hisham+Aidi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songs of America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8745589-M.jpg" alt="Cover for Songs of America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songs of America">Songs of America</a>
-        </h4>
-        <p class="fr-book-author">By Jon Meacham, Tim McGraw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songs of America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8745589-M.jpg" alt="Cover for Songs of America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songs of America">Songs of America</a>
+</h4>
+<p class="fr-book-author">By Jon Meacham, Tim McGraw</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Music, history and criticism, Music, social aspects, Protest songs, Patriotic music, Music, american.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Music, history and criticism, Music, social aspects, Protest songs, Patriotic music, Music, american.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
-        </h4>
-        <p class="fr-book-author">By Dorian Lynskey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
+</h4>
+<p class="fr-book-author">By Dorian Lynskey</p>
         
-        <p class="fr-book-desc">Directly addresses protest music across eras.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses protest music across eras.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebel+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebel music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Songs+of+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Songs of America</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rebel+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rebel music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Songs+of+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Songs of America</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT - PROTEST SONGS - 1989 ADVERT POSTER A3 SIZE XLA1"><img src="https://i.ebayimg.com/images/g/X7UAAOSwC29jRFV7/s-l225.jpg" alt="Listing image for PREFAB SPROUT - PROTEST SONGS - 1989 ADVERT POSTER A3 SIZE XLA1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT - PROTEST SONGS - 1989 ADVERT POSTER A3 SIZE XLA1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT - PROTEST SONGS - 1989 ADVERT POSTER A3 SIZE XLA1"><img src="https://i.ebayimg.com/images/g/X7UAAOSwC29jRFV7/s-l225.jpg" alt="Listing image for PREFAB SPROUT - PROTEST SONGS - 1989 ADVERT POSTER A3 SIZE XLA1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT - PROTEST SONGS - 1989 ADVERT POSTER A3 SIZE XLA1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver"><img src="https://i.ebayimg.com/images/g/Ep8AAeSwGjRqBvwh/s-l225.jpg" alt="Listing image for PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver"><img src="https://i.ebayimg.com/images/g/Ep8AAeSwGjRqBvwh/s-l225.jpg" alt="Listing image for PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT PROTEST SONGS (B) (FRAMED) POSTER SIZED original music press adver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19"><img src="https://i.ebayimg.com/images/g/vnUAAeSwwSZp6IzA/s-l225.jpg" alt="Listing image for PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19"><img src="https://i.ebayimg.com/images/g/vnUAAeSwwSZp6IzA/s-l225.jpg" alt="Listing image for PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">PREFAB SPROUT PROTEST SONGS (A) POSTER SIZED original music press advert from 19</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Propaganda Political Protest Song Cuba Communism Rose Thorn Blood Poster Bb2646A"><img src="https://i.ebayimg.com/images/g/OS4AAOSwbw1aICdI/s-l225.jpg" alt="Listing image for Propaganda Political Protest Song Cuba Communism Rose Thorn Blood Poster Bb2646A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">Propaganda Political Protest Song Cuba Communism Rose Thorn Blood Poster Bb2646A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Propaganda Political Protest Song Cuba Communism Rose Thorn Blood Poster Bb2646A"><img src="https://i.ebayimg.com/images/g/OS4AAOSwbw1aICdI/s-l225.jpg" alt="Listing image for Propaganda Political Protest Song Cuba Communism Rose Thorn Blood Poster Bb2646A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">Propaganda Political Protest Song Cuba Communism Rose Thorn Blood Poster Bb2646A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for protest song poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: protest song poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=protest+song+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-protest-songs-still-mobilize-people-protest-song-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="protest song poster" data-ebay-reference="why-protest-songs-still-mobilize-people-protest-song-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ Protest songs build collective power by turning individual sentiments into **sha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ Protest songs build collective power by turning individual sentiments into **sha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ Protest songs build collective power by turning individual sentiments into **sha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ Protest songs build collective power by turning individual sentiments into **sha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ Protest songs build collective power by turning individual sentiments into **sha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,85 +929,85 @@ Protest songs build collective power by turning individual sentiments into **sha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0038038511416160</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0038038511416160" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0038038511416160</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Sociological Role of Collective Singing during Intense Moments of Protest: The Disengagement from the Gaza Strip - Moshe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Protest song  
-   Link: <a href="https://en.wikipedia.org/wiki/Protest_song" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Protest_song</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Protest_song" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Protest_song</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals‘Bella ciao’: A portable monument for transnational activism  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13678779221145374</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13678779221145374</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</p></details>
    Published: January 9, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: doaj.org  
-   Link: <a href="https://doaj.org/article/9927c5760c8f4585aa3dc3650a96321f" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/9927c5760c8f4585aa3dc3650a96321f</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directory of Open [Access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) JournalsThe Soundtrack of Revolution Memory, Affect, and the Power of Protest Songs – DOAJJune 1, 2013...</p></details>
+   Link:<a href="https://doaj.org/article/9927c5760c8f4585aa3dc3650a96321f" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/9927c5760c8f4585aa3dc3650a96321f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directory of Open [Access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) JournalsThe Soundtrack of Revolution Memory, Affect, and the Power of Protest Songs – DOAJJune 1, 2013...</p></details>
    Published: June 1, 2013  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051221094769</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051221094769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cultureunbound.ep.liu.se  
-   Link: <a href="https://cultureunbound.ep.liu.se/article/view/2044" target="_blank" rel="noopener noreferrer nofollow">https://cultureunbound.ep.liu.se/article/view/2044</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Soundtrack of Revolution Memory, Affect, and the Power of Protest Songs | [Culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;) UnboundJune 12, 2013 — THE SOUNDTRACK OF REVOLUTION MEM...</p></details>
+   Link:<a href="https://cultureunbound.ep.liu.se/article/view/2044" target="_blank" rel="noopener noreferrer nofollow">https://cultureunbound.ep.liu.se/article/view/2044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soundtrack of Revolution Memory, Affect, and the Power of Protest Songs | [Culture](&amp;#123;&amp;#123; &#x27;culture/&#x27; | relative_url &amp;#125;&amp;#125;) UnboundJune 12, 2013 — THE SOUNDTRACK OF REVOLUTION MEM...</p></details>
    Published: June 12, 2013  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: etheses.lse.ac.uk  
-   Link: <a href="https://etheses.lse.ac.uk/4370/" target="_blank" rel="noopener noreferrer nofollow">https://etheses.lse.ac.uk/4370/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of feminist protests in London: collective identity construction through sonic resonance - LSE Theses OnlineSOUNDSCAPES OF FEMINIST PROTE...</p></details>
+   Link:<a href="https://etheses.lse.ac.uk/4370/" target="_blank" rel="noopener noreferrer nofollow">https://etheses.lse.ac.uk/4370/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of feminist protests in London: collective identity construction through sonic resonance - LSE Theses OnlineSOUNDSCAPES OF FEMINIST PROTE...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research-portal.uea.ac.uk  
    Title: uea.ac.uk'Fight the Power': the politics of music and the music of politics  
-   Link: <a href="https://research-portal.uea.ac.uk/en/publications/fight-the-power-the-politics-of-music-and-the-music-of-politics" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/fight-the-power-the-politics-of-music-and-the-music-of-politics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of East Anglia&#x27;FIGHT THE POWER&#x27;: THE POLITICS OF MUSIC AND THE MUSIC OF POLITICS John Street * Politics &amp; International Relati...</p></details>
+   Link:<a href="https://research-portal.uea.ac.uk/en/publications/fight-the-power-the-politics-of-music-and-the-music-of-politics" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/fight-the-power-the-politics-of-music-and-the-music-of-politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of East Anglia&#x27;FIGHT THE POWER&#x27;: THE POLITICS OF MUSIC AND THE MUSIC OF POLITICS John Street * Politics &amp; International Relati...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: research-portal.uea.ac.uk  
    Title: our subversive voice the history and politics of english protest  
-   Link: <a href="https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subversive Voice: The History and Politics of English Protest Songs, 1600-2020 - University of East AngliaOUR SUBVERSIVE VOICE: THE HISTO...</p></details>
+   Link:<a href="https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subversive Voice: The History and Politics of English Protest Songs, 1600-2020 - University of East AngliaOUR SUBVERSIVE VOICE: THE HISTO...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: research-portal.uu.nl  
    Title: nl‘Bella ciao’: A portable monument for transnational activism  
-   Link: <a href="https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism - Utrecht UniversityMarch 1, 2023 — ‘BELLA CIAO’: A PORTABLE MONUMENT F...</p></details>
+   Link:<a href="https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism - Utrecht UniversityMarch 1, 2023 — ‘BELLA CIAO’: A PORTABLE MONUMENT F...</p></details>
    Published: March 1, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: colab.ws  
    Title: Stewart ^{1} Hide authors affilia  
-   Link: <a href="https://colab.ws/articles/10.1080%2F10510979109368340" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1080%2F10510979109368340</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ego function of protest songs: An application of Gregg&#x27;s theory of protest rhetoric | CoLabSeptember 1, 1991 — Communication Studies...</p></details>
+   Link:<a href="https://colab.ws/articles/10.1080%2F10510979109368340" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1080%2F10510979109368340</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ego function of protest songs: An application of Gregg&#x27;s theory of protest rhetoric | CoLabSeptember 1, 1991 — Communication Studies...</p></details>
    Published: September 1, 1991  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/twentieth-century-music/article/songs-of-fire-1975-sonic-narratives-of-resistance-and-collective-memory/EA0A3A26A6F6B2C065697BBFA62CB667" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/twentieth-century-music/article/songs-of-fire-1975-sonic-narratives-of-resistance-and-collective-memory/EA0A3A26A6F6B2C065697BBFA62CB667</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Songs of Fire (1975): Sonic Narratives of Resistance and Collective Memory | Twentieth-Century Music | Cambridge CoreFebruary 10, 202...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/twentieth-century-music/article/songs-of-fire-1975-sonic-narratives-of-resistance-and-collective-memory/EA0A3A26A6F6B2C065697BBFA62CB667" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/twentieth-century-music/article/songs-of-fire-1975-sonic-narratives-of-resistance-and-collective-memory/EA0A3A26A6F6B2C065697BBFA62CB667</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Songs of Fire (1975): Sonic Narratives of Resistance and Collective Memory | Twentieth-Century Music | Cambridge CoreFebruary 10, 202...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0094582X231194310" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0094582X231194310</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repressive and Economic Threats: Música contestataria and Collective Resistance in Central America - Paul Almeida, Luis Rubén González Má...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0094582X231194310" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0094582X231194310</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repressive and Economic Threats: Música contestataria and Collective Resistance in Central America - Paul Almeida, Luis Rubén González Má...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/20563051221094769</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements - Olivia Sadler, 2022April 28, 2022 — First published online April 28, 2022 Request permissio...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/20563051221094769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements - Olivia Sadler, 2022April 28, 2022 — First published online April 28, 2022 Request permissio...</p></details>
    Published: April 28, 2022

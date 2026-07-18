@@ -274,23 +274,23 @@ image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_sc
 
 ## Introduction
 
-Streaming platforms have changed more than music distribution. They have created a new form of evidence. For regional music scenes trying to attract label investment, festival bookings, media [attention]({{ 'attention/' | relative_url }}) or international collaborators, listening data can now function as proof that an audience exists. Instead of relying solely on local reputation, radio support or anecdotal buzz, artists and scene organisers can point to measurable patterns: streams, listener locations, playlist additions, audience growth and royalty flows. These metrics help transform a local cultural movement into something that looks legible to investors and gatekeepers. At the same time, the power of data introduces governance questions about who controls measurement, which signals count as success, and what forms of cultural value remain invisible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>
+Streaming platforms have changed more than music distribution. They have created a new form of evidence. For regional music scenes trying to attract label investment, festival bookings, media [attention]({{ 'attention/' | relative_url }}) or international collaborators, listening data can now function as proof that an audience exists. Instead of relying solely on local reputation, radio support or anecdotal buzz, artists and scene organisers can point to measurable patterns: streams, listener locations, playlist additions, audience growth and royalty flows. These metrics help transform a local cultural movement into something that looks legible to investors and gatekeepers. At the same time, the power of data introduces governance questions about who controls measurement, which signals count as success, and what forms of cultural value remain invisible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-dark.svg" | relative_url }}" alt="Data Proof illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Streaming Data Can Prove
 
 [Regional scenes]({{ 'regional-scenes/' | relative_url }}) rarely persuade outsiders through raw stream totals alone. The more valuable evidence often comes from the structure of listening patterns.
 
-Streaming platforms and music analytics services can reveal: <span class="citation-chip-wrap"><a class="citation-chip" href="https://chartmetric.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chartmetric.com">[chartmetric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chartmetric.com</span><span class="citation-popover-snippet">Track listener age distributions, geographic...Read more...</span></span></span>
+Streaming platforms and music analytics services can reveal:<span class="citation-chip-wrap"><a class="citation-chip" href="https://chartmetric.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chartmetric.com">[chartmetric.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chartmetric.com</span><span class="citation-popover-snippet">Track listener age distributions, geographic...Read more...</span></span></span>
 
 * Which cities generate the most listeners.
 * Whether audience growth is sustained or temporary.
 * How much listening comes from outside the scene's home region.
 * Which songs trigger international discovery.
 * Whether listeners save tracks, revisit artists and engage repeatedly.
-* Where [royalties]({{ 'royalties/' | relative_url }}) are actually being generated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/spotify-analytics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-snippet">Spotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</span></span></span> For a promoter considering a first booking, city-level concentration can matter more than national popularity. A regional scene from one country may discover unexpectedly strong audiences in London, Paris, Toronto or Mexico City. Those patterns become evidence that travel, marketing and venue investment might be justified. Analytics platforms such as Chartmetric and Soundcharts were built partly around this need to translate audience geography into actionable business intelligence. How Music [Charts]({{ 'charts/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water and Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-title">how the touring industry will use data in 2021 even in a pandemic</span><span class="citation-popover-snippet">Water and MusicHow the touring industry will use data in 20219 Dec 2020 — Soundcharts is one of many tools that promoters and agents can...</span></span></span>
+* Where [royalties]({{ 'royalties/' | relative_url }}) are actually being generated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://soundcharts.com/en/spotify-analytics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-snippet">Spotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</span></span></span> For a promoter considering a first booking, city-level concentration can matter more than national popularity. A regional scene from one country may discover unexpectedly strong audiences in London, Paris, Toronto or Mexico City. Those patterns become evidence that travel, marketing and venue investment might be justified. Analytics platforms such as Chartmetric and Soundcharts were built partly around this need to translate audience geography into actionable business intelligence. How Music [Charts]({{ 'charts/' | relative_url }})<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waterandmusic.com">[Water and Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waterandmusic.com</span><span class="citation-popover-title">how the touring industry will use data in 2021 even in a pandemic</span><span class="citation-popover-snippet">Water and MusicHow the touring industry will use data in 20219 Dec 2020 — Soundcharts is one of many tools that promoters and agents can...</span></span></span>
 
-Royalty data adds another layer of proof. Spotify's Loud & Clear reporting has repeatedly shown that international listening is increasingly important to [artist income]({{ 'artist-income/' | relative_url }}). By 2026, Spotify reported that artists on average received more than half of their royalties from outside their home country only two years after debuting. This matters because it demonstrates that streaming demand is not merely symbolic attention; it can generate measurable economic activity across borders. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</span></span></span>
+Royalty data adds another layer of proof. Spotify's Loud & Clear reporting has repeatedly shown that international listening is increasingly important to [artist income]({{ 'artist-income/' | relative_url }}). By 2026, Spotify reported that artists on average received more than half of their royalties from outside their home country only two years after debuting. This matters because it demonstrates that streaming demand is not merely symbolic attention; it can generate measurable economic activity across borders. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</span></span></span>
 
 ## How Labels and Promoters Read Demand
 
@@ -298,22 +298,22 @@ A regional scene's streaming footprint becomes persuasive when it reduces uncert
 
 ### Why A&R Teams Care About Geography
 
-Artists and Repertoire (A&R) departments increasingly use analytics tools to identify developing markets before traditional industry indicators catch up. Geographic clustering can signal that a scene is gaining traction beyond its original community. Instead of asking whether a genre is culturally interesting, decision-makers can ask whether audience growth appears repeatable and scalable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.popfiltr.com/resources/chartmetric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.popfiltr.com">[PopFiltr for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.popfiltr.com</span><span class="citation-popover-title">Pop Filtr for Artists Chartmetric</span><span class="citation-popover-snippet">PopFiltr for ArtistsChartmetric - Empowering Artists with Data26 Jun 2024 — Chartmetric empowers artists with the data-driven insights th...</span></span></span>
+Artists and Repertoire (A&R) departments increasingly use analytics tools to identify developing markets before traditional industry indicators catch up. Geographic clustering can signal that a scene is gaining traction beyond its original community. Instead of asking whether a genre is culturally interesting, decision-makers can ask whether audience growth appears repeatable and scalable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.popfiltr.com/resources/chartmetric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.popfiltr.com">[PopFiltr for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.popfiltr.com</span><span class="citation-popover-title">Pop Filtr for Artists Chartmetric</span><span class="citation-popover-snippet">PopFiltr for ArtistsChartmetric - Empowering Artists with Data26 Jun 2024 — Chartmetric empowers artists with the data-driven insights th...</span></span></span>
 
-For example, a cluster of growing listeners across multiple cities may suggest that a scene has crossed from local enthusiasm into wider networked adoption. Data can also reveal "trigger cities"—places where new music spreads unusually quickly and often predicts wider growth. These cities become important indicators for labels seeking early signs of international potential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reports.chartmetric.com/trigger-cities/2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reports.chartmetric.com">[Chartmetric Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reports.chartmetric.com</span><span class="citation-popover-title">trigger cities</span><span class="citation-popover-snippet">Chartmetric ReportsChartmetric Trigger Cities 2024Explore Chartmetric&#x27;s trigger cities and learn how emerging artists and A&amp;R executives...</span></span></span>
+For example, a cluster of growing listeners across multiple cities may suggest that a scene has crossed from local enthusiasm into wider networked adoption. Data can also reveal "trigger cities"—places where new music spreads unusually quickly and often predicts wider growth. These cities become important indicators for labels seeking early signs of international potential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reports.chartmetric.com/trigger-cities/2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reports.chartmetric.com">[Chartmetric Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reports.chartmetric.com</span><span class="citation-popover-title">trigger cities</span><span class="citation-popover-snippet">Chartmetric ReportsChartmetric Trigger Cities 2024Explore Chartmetric&#x27;s trigger cities and learn how emerging artists and A&amp;R executives...</span></span></span>
 
 ### How Promoters Turn Streams Into Shows
 
-Promoters often compare streaming locations with venue capacity, ticket history and social engagement. A city showing strong streaming numbers may justify a trial booking, support slot or festival invitation. Tour planners increasingly use streaming geography to decide routing, venue size and local partnerships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
+Promoters often compare streaming locations with venue capacity, ticket history and social engagement. A city showing strong streaming numbers may justify a trial booking, support slot or festival invitation. Tour planners increasingly use streaming geography to decide routing, venue size and local partnerships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
 
-This does not mean streams automatically translate into ticket sales. Industry analytics guides consistently warn that streaming data is only one input among many. Experienced promoters cross-reference listening patterns with local fan activity, historical attendance and community engagement before committing resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
+This does not mean streams automatically translate into ticket sales. Industry analytics guides consistently warn that streaming data is only one input among many. Experienced promoters cross-reference listening patterns with local fan activity, historical attendance and community engagement before committing resources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-2-dark.svg" | relative_url }}" alt="Data Proof illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When Regional Scenes Become Export Markets
 
 Streaming data is especially valuable for scenes attempting to prove export potential. If a genre develops a measurable overseas audience, labels can justify international marketing budgets, translation efforts, touring support and collaborative projects.
 
-Recent Spotify reporting has highlighted how artists from increasingly diverse countries derive substantial income from foreign audiences. More than 50% of royalties now come from abroad on average, and artists generating significant royalty income represent dozens of countries rather than a small number of dominant music markets. This helps regional scenes argue that they are not dependent on domestic demand alone. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</span></span></span>
+Recent Spotify reporting has highlighted how artists from increasingly diverse countries derive substantial income from foreign audiences. More than 50% of royalties now come from abroad on average, and artists generating significant royalty income represent dozens of countries rather than a small number of dominant music markets. This helps regional scenes argue that they are not dependent on domestic demand alone. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-snippet">Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</span></span></span>
 
 ## When Streaming Data Strengthens a Scene's Story
 
@@ -327,7 +327,7 @@ A regional scene can use streaming evidence to demonstrate:
 
 **Sustained momentum.** Growth over months or years is more persuasive than a brief viral spike.
 
-**Economic significance.** Royalty flows provide evidence that attention is creating financial value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> Spotify This kind of evidence is particularly useful when scenes seek festival representation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[artists.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>, cultural funding, export support programmes or international partnerships. Numbers help convert cultural claims into arguments that institutions recognise.
+**Economic significance.** Royalty flows provide evidence that attention is creating financial value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-title">spotify for artists listener locations</span><span class="citation-popover-snippet">Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> Spotify This kind of evidence is particularly useful when scenes seek festival representation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[artists.spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">how to read your spotify for artists data</span><span class="citation-popover-snippet">Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</span></span></span>, cultural funding, export support programmes or international partnerships. Numbers help convert cultural claims into arguments that institutions recognise.
 
 <img src="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-3-dark.svg" | relative_url }}" alt="Data Proof illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Data Can Misrepresent Real Cultural Value
@@ -336,211 +336,211 @@ The same metrics that make regional scenes visible can also distort how they are
 
 ### Streams Are Not Communities
 
-A stream measures a listening event, not cultural commitment. A city with high stream counts may have weak local infrastructure, few active fans and little appetite for live events. Conversely, a scene with deep local influence may appear modest in platform analytics because its importance depends on clubs, radio, social networks or informal circulation rather than streaming volume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
+A stream measures a listening event, not cultural commitment. A city with high stream counts may have weak local infrastructure, few active fans and little appetite for live events. Conversely, a scene with deep local influence may appear modest in platform analytics because its importance depends on clubs, radio, social networks or informal circulation rather than streaming volume.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmc.chartmetric.com">[How Music Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmc.chartmetric.com</span><span class="citation-popover-title">how to plan a tour using streaming data part 3</span><span class="citation-popover-snippet">How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</span><span class="citation-popover-meta">Published: April 16, 2020</span></span></span>
 
 ### Platform Metrics Reflect Platform Priorities
 
-Streaming data is created inside systems designed by private companies. Platforms decide which metrics are visible, how listeners are counted and which forms of engagement receive emphasis. Researchers have long noted that artist-facing analytics encourage musicians to view audiences through measurable indicators, potentially narrowing definitions of success. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Data Matters</span><span class="citation-popover-snippet">2017)May 2, 2017 — 5 May 2017 — PDF &#124; On May 2, 2017, Andrew Rae published Data Matters - &#x27;Spotify For Artists&#x27; - Rae, A. (2017) &#124; Find...</span><span class="citation-popover-meta">Published: May 2, 2017</span></span></span>
+Streaming data is created inside systems designed by private companies. Platforms decide which metrics are visible, how listeners are counted and which forms of engagement receive emphasis. Researchers have long noted that artist-facing analytics encourage musicians to view audiences through measurable indicators, potentially narrowing definitions of success.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Data Matters</span><span class="citation-popover-snippet">2017)May 2, 2017 — 5 May 2017 — PDF &#124; On May 2, 2017, Andrew Rae published Data Matters - &#x27;Spotify For Artists&#x27; - Rae, A. (2017) &#124; Find...</span><span class="citation-popover-meta">Published: May 2, 2017</span></span></span>
 
 A regional scene may therefore optimise for what platforms can count rather than what local [culture]({{ 'culture/' | relative_url }}) values. Community influence, artistic innovation, [grassroots]({{ 'grassroots/' | relative_url }}) mentorship and local identity often resist simple quantification.
 
 ### Economic Transparency Has Limits
 
-Royalty statistics provide useful evidence of international demand, but they do not necessarily reveal how revenue is distributed after labels, distributors, publishers and other [rights]({{ 'rights/' | relative_url }}) holders receive their shares. Critics of streaming economics argue that platform-level transparency can obscure continuing inequalities within the wider music industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spotify is trumpeting big paydays for artists</span><span class="citation-popover-snippet">The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The initiative follows protests from the Union of Musicians and Allied Workers demanding better payment. Spotify provided data showing th...</span></span></span>, strong streaming data should not automatically be interpreted as proof that a scene is financially healthy or that most participants are benefiting equally.
+Royalty statistics provide useful evidence of international demand, but they do not necessarily reveal how revenue is distributed after labels, distributors, publishers and other [rights]({{ 'rights/' | relative_url }}) holders receive their shares. Critics of streaming economics argue that platform-level transparency can obscure continuing inequalities within the wider music industry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spotify is trumpeting big paydays for artists</span><span class="citation-popover-snippet">The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The initiative follows protests from the Union of Musicians and Allied Workers demanding better payment. Spotify provided data showing th...</span></span></span>, strong streaming data should not automatically be interpreted as proof that a scene is financially healthy or that most participants are benefiting equally.
 
 ## Why Data Proof Matters
 
 Streaming has given regional scenes a language that powerful institutions already understand: measurable demand. City-level listening, audience growth and royalty flows allow local movements to demonstrate that their reach extends beyond anecdote and reputation. For labels, promoters and collaborators, these datasets reduce uncertainty and support investment decisions. Yet data remains evidence rather than truth. It can reveal where a scene is being heard, but not fully explain why it matters, how deeply it is embedded in communities or what cultural significance it carries. The most successful regional scenes use streaming metrics not as a replacement for cultural value, but as proof that cultural value is finding listeners.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Streams Become Proof Of A Scene. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Streams Become Proof Of A Scene. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains industry use of data, royalties and commercial signals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains industry use of data, royalties and commercial signals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Connects technology, audiences and music ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects technology, audiences and music ecosystems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Streaming around the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ILBWEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Streaming around the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Streaming around the World">Music Streaming around the World</a>
-        </h4>
-        <p class="fr-book-author">By David Hesmondhalgh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Streaming around the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ILBWEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Streaming around the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Streaming around the World">Music Streaming around the World</a>
+</h4>
+<p class="fr-book-author">By David Hesmondhalgh</p>
         
-        <p class="fr-book-desc">Addresses streaming metrics and platformization globally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses streaming metrics and platformization globally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Streaming+around+the+World+by+David+Hesmondhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14833271-M.jpg" alt="Cover for Mood Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Liz Pelly</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14833271-M.jpg" alt="Cover for Mood Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Liz Pelly</p>
         
-        <p class="fr-book-desc">First published 2025. Subjects: Music, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2025. Subjects: Music, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Streaming around the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Streaming+around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Streaming around the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Local Music Scene Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/49613861e596d4c8e236.jpg' | relative_url }}" alt="Listing image for Local Music Scene Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Local Music Scene Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Local Music Scene Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/49613861e596d4c8e236.jpg' | relative_url }}" alt="Listing image for Local Music Scene Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Local Music Scene Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mythological Music Scene Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5914edc63851dd6f2317.jpg' | relative_url }}" alt="Listing image for Mythological Music Scene Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mythological Music Scene Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mythological Music Scene Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5914edc63851dd6f2317.jpg' | relative_url }}" alt="Listing image for Mythological Music Scene Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mythological Music Scene Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roxy Music 1972 Original Double-Sided Poster Gered Mankowitz Music Scene Tree"><img src="{{ '/assets/images/marketplace-covers/1a77e5988426e483d4be.jpg' | relative_url }}" alt="Listing image for Roxy Music 1972 Original Double-Sided Poster Gered Mankowitz Music Scene Tree" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Roxy Music 1972 Original Double-Sided Poster Gered Mankowitz Music Scene Tree</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roxy Music 1972 Original Double-Sided Poster Gered Mankowitz Music Scene Tree"><img src="{{ '/assets/images/marketplace-covers/1a77e5988426e483d4be.jpg' | relative_url }}" alt="Listing image for Roxy Music 1972 Original Double-Sided Poster Gered Mankowitz Music Scene Tree" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Roxy Music 1972 Original Double-Sided Poster Gered Mankowitz Music Scene Tree</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Music Scene Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d6ac69076d4edb525b59.jpg' | relative_url }}" alt="Listing image for The Music Scene Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Music Scene Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Music Scene Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d6ac69076d4edb525b59.jpg' | relative_url }}" alt="Listing image for The Music Scene Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Music Scene Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music scene poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music scene poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+scene+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music scene poster -book -books" data-ebay-reference="data-proof-when-streams-become-proof-of-a-scene-music-music-scene-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Streaming has given regional scenes a language that powerful institutions alread
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Streaming has given regional scenes a language that powerful institutions alread
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Streaming has given regional scenes a language that powerful institutions alread
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Streaming has given regional scenes a language that powerful institutions alread
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Streaming has given regional scenes a language that powerful institutions alread
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,134 +746,134 @@ Streaming has given regional scenes a language that powerful institutions alread
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: artists.spotify.com  
    Title: how to read your spotify for artists data  
-   Link: <a href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</p></details>
+   Link:<a href="https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/how-to-read-your-spotify-for-artists-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsHow to Read Your Spotify for Artists Data24 Feb 2020 — The Spotify for Artists app puts a bounty of listener data at y...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: orphiq.com  
    Title: spotify for artists listener locations  
-   Link: <a href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-for-artists-listener-locations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</p></details>
+   Link:<a href="https://orphiq.com/resources/spotify-for-artists-listener-locations" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/spotify-for-artists-listener-locations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for Artists Listener Locations Explained11 May 2026 — How to find Spotify for Artists listener locations, what the city and...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: soundcharts.com  
-   Link: <a href="https://soundcharts.com/en/spotify-analytics" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/spotify-analytics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</p></details>
+   Link:<a href="https://soundcharts.com/en/spotify-analytics" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/spotify-analytics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Analytics: Playlists, Charts &amp; AudienceMonitor Spotify stats for 2M+ artists. Track followers, charts, playlist exposu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: chartmetric.com  
-   Link: <a href="https://chartmetric.com/" target="_blank" rel="noopener noreferrer nofollow">https://chartmetric.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Track listener age distributions, geographic...Read more...</p></details>
+   Link:<a href="https://chartmetric.com/" target="_blank" rel="noopener noreferrer nofollow">https://chartmetric.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Track listener age distributions, geographic...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hmc.chartmetric.com  
    Title: how to plan a tour using streaming data part 3  
-   Link: <a href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</p></details>
+   Link:<a href="https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://hmc.chartmetric.com/how-to-plan-a-tour-using-streaming-data-part-3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music ChartsHow to Plan a Tour Using Streaming Data: Part 3April 16, 2020 — Learn what venues to book, how to negotiate with local pr...</p></details>
    Published: April 16, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newsroom.spotify.com  
    Title: As Spotify Turns 20, the Most Global and Diverse Music  
-   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On average, artists see more than half of their royalties coming from outside their home country...Read more...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On average, artists see more than half of their royalties coming from outside their home country...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: artists.popfiltr.com  
    Title: Pop Filtr for Artists Chartmetric  
-   Link: <a href="https://artists.popfiltr.com/resources/chartmetric" target="_blank" rel="noopener noreferrer nofollow">https://artists.popfiltr.com/resources/chartmetric</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PopFiltr for ArtistsChartmetric - Empowering Artists with Data26 Jun 2024 — Chartmetric empowers artists with the data-driven insights th...</p></details>
+   Link:<a href="https://artists.popfiltr.com/resources/chartmetric" target="_blank" rel="noopener noreferrer nofollow">https://artists.popfiltr.com/resources/chartmetric</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PopFiltr for ArtistsChartmetric - Empowering Artists with Data26 Jun 2024 — Chartmetric empowers artists with the data-driven insights th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reports.chartmetric.com  
    Title: trigger cities  
-   Link: <a href="https://reports.chartmetric.com/trigger-cities/2024" target="_blank" rel="noopener noreferrer nofollow">https://reports.chartmetric.com/trigger-cities/2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chartmetric ReportsChartmetric Trigger Cities 2024Explore Chartmetric&#x27;s trigger cities and learn how emerging artists and A&amp;R executives...</p></details>
+   Link:<a href="https://reports.chartmetric.com/trigger-cities/2024" target="_blank" rel="noopener noreferrer nofollow">https://reports.chartmetric.com/trigger-cities/2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chartmetric ReportsChartmetric Trigger Cities 2024Explore Chartmetric&#x27;s trigger cities and learn how emerging artists and A&amp;R executives...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hmc.chartmetric.com  
    Title: how to route a tour using streaming data part 1 tour planning series  
-   Link: <a href="https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/" target="_blank" rel="noopener noreferrer nofollow">https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music ChartsHow to Route a Tour Using Streaming Data: Part 1March 19, 2020 — 19 Mar 2020 — Streaming and social data will only help y...</p></details>
+   Link:<a href="https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/" target="_blank" rel="noopener noreferrer nofollow">https://hmc.chartmetric.com/how-to-route-a-tour-using-streaming-data-part-1-tour-planning-series/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music ChartsHow to Route a Tour Using Streaming Data: Part 1March 19, 2020 — 19 Mar 2020 — Streaming and social data will only help y...</p></details>
    Published: March 19, 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Data Matters  
-   Link: <a href="https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017)May 2, 2017 — 5 May 2017 — PDF | On May 2, 2017, Andrew Rae published Data Matters - &#x27;Spotify For Artists&#x27; - Rae, A. (2017) | Find...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317617947_Data_Matters_-_%27Spotify_For_Artists%27_-_Rae_A_2017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2017)May 2, 2017 — 5 May 2017 — PDF | On May 2, 2017, Andrew Rae published Data Matters - &#x27;Spotify For Artists&#x27; - Rae, A. (2017) | Find...</p></details>
    Published: May 2, 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The initiative follows protests from the Union of Musicians and Allied Workers demanding better payment. Spotify provided data showing th...</p></details>
+   Link:<a href="https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-launches-loud-and-clear-transparency-initiative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The initiative follows protests from the Union of Musicians and Allied Workers demanding better payment. Spotify provided data showing th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: waterandmusic.com  
    Title: how the touring industry will use data in 2021 even in a pandemic  
-   Link: <a href="https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Water and MusicHow the touring industry will use data in 20219 Dec 2020 — Soundcharts is one of many tools that promoters and agents can...</p></details>
+   Link:<a href="https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterandmusic.com/how-the-touring-industry-will-use-data-in-2021-even-in-a-pandemic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Water and MusicHow the touring industry will use data in 20219 Dec 2020 — Soundcharts is one of many tools that promoters and agents can...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Spotify is trumpeting big paydays for artists  
-   Link: <a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2024 report claims that Spotify paid out $10bn in royalties last year, but the report&#x27;s timing is contentious due to recent revelatio...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Loud &amp; Clear Report: Artist Royalties and Earningsmore than 13,800 artists generated over $100K artists at all levels now...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Loud &amp; Clear Report: Artist Royalties and Earningsmore than 13,800 artists generated over $100K artists at all levels now...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: musicradar.com  
    Title: Music Radar"Spotify is the highest-paying retailer globally  
-   Link: <a href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report reveals that in 2025, Spotify paid the music industry over $11 billion, bringing its total lifetime payouts to nearly $70 bill...</p></details>
+   Link:<a href="https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/streaming-sharing/spotify-is-the-highest-paying-retailer-globally-paying-the-music-industry-more-than-usd11-billion-in-2025-spotify-reveals-how-much-it-actually-pays-out-to-musicians-in-its-new-loud-and-clear-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report reveals that in 2025, Spotify paid the music industry over $11 billion, bringing its total lifetime payouts to nearly $70 bill...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: midiaresearch.com  
    Title: spotifys loud and clear is about fandom not royalties  
-   Link: <a href="https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchSpotify&#x27;s Loud and Clear is about fandom, not royalties24 Mar 2022 — Spotify has updated its Loud &amp; Clear website exploring...</p></details>
+   Link:<a href="https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/spotifys-loud-and-clear-is-about-fandom-not-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchSpotify&#x27;s Loud and Clear is about fandom, not royalties24 Mar 2022 — Spotify has updated its Loud &amp; Clear website exploring...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: How Labels Use Streaming Data to Find New Talent  
-   Link: <a href="https://www.youtube.com/watch?v=J32R2m195pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J32R2m195pU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turning Music Trends Into Business Decisions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J32R2m195pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J32R2m195pU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turning Music Trends Into Business Decisions...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Making Sense of Spotify for Artists Data  
-   Link: <a href="https://www.youtube.com/watch?v=QpT6a02iT1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpT6a02iT1w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Labels Use Streaming Data to Find New Talent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QpT6a02iT1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpT6a02iT1w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Labels Use Streaming Data to Find New Talent...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Using Data to Build Your Music Career  
-   Link: <a href="https://www.youtube.com/watch?v=kY05G8eD-mI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY05G8eD-mI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making Sense of Spotify for Artists Data...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kY05G8eD-mI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY05G8eD-mI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making Sense of Spotify for Artists Data...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: How Music Analytics Tools Are Changing the Industry  
-   Link: <a href="https://www.youtube.com/watch?v=Fj-yO2G_d0s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj-yO2G_d0s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data to Build Your Music Career...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fj-yO2G_d0s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj-yO2G_d0s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data to Build Your Music Career...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Turning Music Trends Into Business Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=H74t4PqT59o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H74t4PqT59o</a>
+   Link:<a href="https://www.youtube.com/watch?v=H74t4PqT59o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H74t4PqT59o</a>

@@ -501,227 +501,227 @@ image: /assets/images/music_3a01be_lullabies_calm_memor_4de0e2-overview-social.j
 
 ## Introduction
 
-Lullabies are among the most widespread musical practices in human societies  quietly sung at the end of the day to soothe infants and help them settle. But they are more than cultural habit: a growing body of scientific research shows that specific musical features in lullabies can **directly calm listeners**, especially infants, by influencing physiological arousal and emotional states. These calming effects occur even when the music is unfamiliar or in a language the baby does not understand, suggesting that the musical form itself plays a fundamental role in soothing, not just cultural familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
+Lullabies are among the most widespread musical practices in human societies  quietly sung at the end of the day to soothe infants and help them settle. But they are more than cultural habit: a growing body of scientific research shows that specific musical features in lullabies can **directly calm listeners**, especially infants, by influencing physiological arousal and emotional states. These calming effects occur even when the music is unfamiliar or in a language the baby does not understand, suggesting that the musical form itself plays a fundamental role in soothing, not just cultural familiarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-overview.webp" | relative_url }}" alt="Overview image for Lullabies" loading="eager" decoding="sync" fetchpriority="high">
 ## How Musical Structure Encourages Calm
 
-Lullabies tend to share simple, repetitive, and gentle musical patterns that differentiate them from many other song types. Across cultures, melodies are often slow, smooth, and minimally accented, with predictable [rhythm]({{ 'rhythm/' | relative_url }}) and few sudden changes. Adult listeners can consistently recognise infant-directed lullabies across cultures on the basis of these features alone  and infants likewise respond with physiological markers of relaxation when hearing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
+Lullabies tend to share simple, repetitive, and gentle musical patterns that differentiate them from many other song types. Across cultures, melodies are often slow, smooth, and minimally accented, with predictable [rhythm]({{ 'rhythm/' | relative_url }}) and few sudden changes. Adult listeners can consistently recognise infant-directed lullabies across cultures on the basis of these features alone  and infants likewise respond with physiological markers of relaxation when hearing them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
 **[Slow tempo]({{ 'slow-tempo/' | relative_url }}) and gentle dynamics:** Lullabies typically unfold at [slow tempos]({{ 'slow-tempo/' | relative_url }}) with soft dynamics. This pacing corresponds with lower arousal states and aligns with basic human physiology, where slower rhythm and fewer sudden acoustic events help reduce nervous-system activation and support relaxation.
 
-**Repetition and predictability:** Repetitive melodic and rhythmic patterns  for example repeating simple phrases or syllables  create predictability in the sound, reducing uncertainty and arousal. When a baby hears a predictable musical pattern, theres less stimulation to process, which can promote calming rather than alerting responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-title">SAGE Publications Sage Reference</span><span class="citation-popover-snippet">SAGE PublicationsSage Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - Lullabies...</span></span></span>
+**Repetition and predictability:** Repetitive melodic and rhythmic patterns  for example repeating simple phrases or syllables  create predictability in the sound, reducing uncertainty and arousal. When a baby hears a predictable musical pattern, theres less stimulation to process, which can promote calming rather than alerting responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-title">SAGE Publications Sage Reference</span><span class="citation-popover-snippet">SAGE PublicationsSage Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - Lullabies...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-1-dark.svg" | relative_url }}" alt="Lullabies illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Physiological Evidence from Infant Studies
 
-In controlled research, infants physiological responses  such as heart rate, pupil dilation, and skin conductance  show measurable changes when listening to lullabies compared with other non-lullaby music. In a wellcited experiment, US infants under one year old exhibited **slower heart rates, smaller pupil sizes, and reduced electrodermal activity** when exposed to unfamiliar lullabies from foreign cultures versus matched non-lullaby songs. These markers are consistent with a **relaxation response**, independent of the infants prior exposure to the specific melodies or languages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
+In controlled research, infants physiological responses  such as heart rate, pupil dilation, and skin conductance  show measurable changes when listening to lullabies compared with other non-lullaby music. In a wellcited experiment, US infants under one year old exhibited **slower heart rates, smaller pupil sizes, and reduced electrodermal activity** when exposed to unfamiliar lullabies from foreign cultures versus matched non-lullaby songs. These markers are consistent with a **relaxation response**, independent of the infants prior exposure to the specific melodies or languages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
-The same studies found that parents overwhelmingly *preferred* lullabies over other song types when deciding what to use to soothe a fussy infant  even when the songs were unfamiliar  which suggests caregivers intuitively respond to the same structural features that signal calm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies  Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</span></span></span>
+The same studies found that parents overwhelmingly *preferred* lullabies over other song types when deciding what to use to soothe a fussy infant  even when the songs were unfamiliar  which suggests caregivers intuitively respond to the same structural features that signal calm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies  Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-dark.svg" | relative_url }}" alt="Lullabies illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Social and Emotional Context: More than Sound Alone
 
-While the acoustic structure of lullabies is central, the context in which they are delivered also matters. Developmental psychologists highlight that lullabies are typically embedded in a **multimodal caregiving experience** involving close [physical]({{ 'physical/' | relative_url }}) contact, eye contact, and gentle movement (rocking or swaying). This combination of **musical cues and social presence** enhances the calming effect, reducing stress not just in infants but often in caregivers too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</span><span class="citation-popover-meta">Published: November 19, 2020</span></span></span>
+While the acoustic structure of lullabies is central, the context in which they are delivered also matters. Developmental psychologists highlight that lullabies are typically embedded in a **multimodal caregiving experience** involving close [physical]({{ 'physical/' | relative_url }}) contact, eye contact, and gentle movement (rocking or swaying). This combination of **musical cues and social presence** enhances the calming effect, reducing stress not just in infants but often in caregivers too.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</span><span class="citation-popover-meta">Published: November 19, 2020</span></span></span>
 
-This social embedding may help explain why familiar lullabies  those learned through repeated interaction between caregiver and child  can be even more effective, as they carry emotional association and security beyond their acoustic features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</span><span class="citation-popover-meta">Published: November 19, 2020</span></span></span>
+This social embedding may help explain why familiar lullabies  those learned through repeated interaction between caregiver and child  can be even more effective, as they carry emotional association and security beyond their acoustic features.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nationalgeographic.org">[National Geographic Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nationalgeographic.org</span><span class="citation-popover-snippet">National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</span><span class="citation-popover-meta">Published: November 19, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-dark.svg" | relative_url }}" alt="Lullabies illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lullabies_calm_memor_4de0e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Lullabies Reveal About Musics Uses
 
-Lullabies illustrate how music can serve functions beyond entertainment: they are regulatory tools that help manage arousal, foster social bonding, and mark care within families. The universal presence of lullabylike songs across cultures hints at deep connections between **musical structure and human emotional regulation**, a theme that continues to interest researchers exploring why music evolved in human societies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
+Lullabies illustrate how music can serve functions beyond entertainment: they are regulatory tools that help manage arousal, foster social bonding, and mark care within families. The universal presence of lullabylike songs across cultures hints at deep connections between **musical structure and human emotional regulation**, a theme that continues to interest researchers exploring why music evolved in human societies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Infants relax in response to unfamiliar foreign lullabies &#124; Nature Human BehaviourOctober 19, 2020...</span><span class="citation-popover-meta">Published: October 19, 2020</span></span></span>
 
-By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melody/' | relative_url }}), and repetition  lullabies show that musics capacity to soothe is grounded in both biological responsiveness and social experience, offering a window into one of musics most ancient and caregivingoriented roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies  Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</span></span></span>
+By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melody/' | relative_url }}), and repetition  lullabies show that musics capacity to soothe is grounded in both biological responsiveness and social experience, offering a window into one of musics most ancient and caregivingoriented roles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Research shows lullabies in any language relax babies  Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Lullabies Work Across Cultures. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Lullabies Work Across Cultures. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains cognitive and emotional effects of musical structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive and emotional effects of musical structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Examines deep human responses to music across contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines deep human responses to music across contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. edición">The singing neanderthals : the origins of music, language, mi...</a>
-        </h4>
-        <p class="fr-book-author">By Steven Mithen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The singing neanderthals : the origins of music, language, mind and body - 1. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8080464-M.jpg" alt="Cover for The singing neanderthals : the origins of music, language, mind and body - 1. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The singing neanderthals : the origins of music, language, mind and body - 1. edición">The singing neanderthals : the origins of music, language, mi...</a>
+</h4>
+<p class="fr-book-author">By Steven Mithen</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Human evolution, Music, psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Human evolution, Music, psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+-+1.+edici%C3%B3n+Steven+Mithen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14535145-M.jpg" alt="Cover for Why We Love Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Love Music">Why We Love Music</a>
-        </h4>
-        <p class="fr-book-author">By John Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14535145-M.jpg" alt="Cover for Why We Love Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Love Music">Why We Love Music</a>
+</h4>
+<p class="fr-book-author">By John Powell</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music appreciation, Music -- Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music appreciation, Music -- Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. edición</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+singing+neanderthals+%3A+the+origins+of+music%2C+language%2C+mind+and+body+1.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The singing neanderthals : the origins of music, language, mind and body 1. edición</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Bow Nursery Wall Art Set Baby Girl Bedroom Prints Coquette Decor"><img src="{{ '/assets/images/marketplace-covers/c29628b9e720cc51ac87.jpg' | relative_url }}" alt="Listing image for Pink Bow Nursery Wall Art Set Baby Girl Bedroom Prints Coquette Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Pink Bow Nursery Wall Art Set Baby Girl Bedroom Prints Coquette Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Bow Nursery Wall Art Set Baby Girl Bedroom Prints Coquette Decor"><img src="{{ '/assets/images/marketplace-covers/c29628b9e720cc51ac87.jpg' | relative_url }}" alt="Listing image for Pink Bow Nursery Wall Art Set Baby Girl Bedroom Prints Coquette Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Pink Bow Nursery Wall Art Set Baby Girl Bedroom Prints Coquette Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26"><img src="{{ '/assets/images/marketplace-covers/31a1ccfa9a7d5cdae936.jpg' | relative_url }}" alt="Listing image for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26"><img src="{{ '/assets/images/marketplace-covers/31a1ccfa9a7d5cdae936.jpg' | relative_url }}" alt="Listing image for Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Microphone Music Notes Vinyl Wall Art Sticker Decal Home Decor Crafts MU26</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Music Fan Portrait Poster Wall Art Print Gift Home Decor AVRIL"><img src="{{ '/assets/images/marketplace-covers/dfc17541a865f30cb160.jpg' | relative_url }}" alt="Listing image for A3 Music Fan Portrait Poster Wall Art Print Gift Home Decor AVRIL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">A3 Music Fan Portrait Poster Wall Art Print Gift Home Decor AVRIL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Music Fan Portrait Poster Wall Art Print Gift Home Decor AVRIL"><img src="{{ '/assets/images/marketplace-covers/dfc17541a865f30cb160.jpg' | relative_url }}" alt="Listing image for A3 Music Fan Portrait Poster Wall Art Print Gift Home Decor AVRIL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">A3 Music Fan Portrait Poster Wall Art Print Gift Home Decor AVRIL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art"><img src="{{ '/assets/images/marketplace-covers/9c97288735f416b2cd4e.jpg' | relative_url }}" alt="Listing image for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art"><img src="{{ '/assets/images/marketplace-covers/9c97288735f416b2cd4e.jpg' | relative_url }}" alt="Listing image for Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">Paw Patrol Boys Bedroom Prints, Nursery Wall Art, Kids Room Decor, Kids Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nursery music wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: nursery music wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nursery+music+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nursery music wall art" data-ebay-reference="lullabies-why-lullabies-work-across-cultures-music-nursery-music-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -841,7 +841,7 @@ By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -886,7 +886,7 @@ By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -927,114 +927,114 @@ By making calming cues acoustically salient  slow pace, simple [melody]({{ 'melo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabies | Nature Human BehaviourOctober 19, 2020...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-020-00963-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-020-00963-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants relax in response to unfamiliar foreign lullabies | Nature Human BehaviourOctober 19, 2020...</p></details>
    Published: October 19, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.harvard.edu  
    Title: Gazette Research shows lullabies in any language relax babies  Harvard Gazette  
-   Link: <a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteResearch shows lullabies in any language relax babies  Harvard Gazette...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sk.sagepub.com  
    Title: SAGE Publications Sage Reference  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE PublicationsSage Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - Lullabies...</p></details>
+   Link:<a href="https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/embed/music-in-the-social-and-behavioral-sciences/chpt/lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE PublicationsSage Reference - Music in the Social and Behavioral Sciences: An Encyclopedia - Lullabies...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: education.nationalgeographic.org  
-   Link: <a href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</p></details>
+   Link:<a href="https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/what-lullabies-we-sing-our-children-reveal-about-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationWhat the Lullabies We Sing to Our Children Reveal About UsNovember 19, 2020...</p></details>
    Published: November 19, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/full/10.1177/10693971241272406" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/full/10.1177/10693971241272406</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Universality: An Ethnographic Review - Stphane Aubinet, 2024August 6, 2024  Open [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) Research article First published online Aug...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/full/10.1177/10693971241272406" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/full/10.1177/10693971241272406</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Universality: An Ethnographic Review - Stphane Aubinet, 2024August 6, 2024  Open [access](&amp;#123;&amp;#123; &#x27;access/&#x27; | relative_url &amp;#125;&amp;#125;) Research article First published online Aug...</p></details>
    Published: August 6, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: utmb.edu  
-   Link: <a href="https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sally Robinson Image: dreamstime_l_182318256 * * * The oldest known lullaby is a Babylonian lullaby found inscribed on a clay tablet...</p></details>
+   Link:<a href="https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies" target="_blank" rel="noopener noreferrer nofollow">https://www.utmb.edu/pedi/news/news-article-page/2021/01/29/lullabies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sally Robinson Image: dreamstime_l_182318256 * * * The oldest known lullaby is a Babylonian lullaby found inscribed on a clay tablet...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1049909107310139" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1049909107310139</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.comLullament: Lullaby and Lament Therapeutic Qualities Actualized Through Music Therapy - Clare O&#x27;Callaghan, 2008January 15, 2008...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1049909107310139" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1049909107310139</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.comLullament: Lullaby and Lament Therapeutic Qualities Actualized Through Music Therapy - Clare O&#x27;Callaghan, 2008January 15, 2008...</p></details>
    Published: January 15, 2008  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unyk, Sandra E. Trehub, Laurel J. Trainor, E. Glenn Schellenberg, 1992April 1, 1992  First published April 1992 Request permissions LULL...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/0305735692201002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unyk, Sandra E. Trehub, Laurel J. Trainor, E. Glenn Schellenberg, 1992April 1, 1992  First published April 1992 Request permissions LULL...</p></details>
    Published: April 1, 1992  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735692201002" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735692201002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unyk, Sandra E. Trehub, Laurel J. Trainor, E. Glenn Schellenberg, 1992First published April 1992 Request permissions LULLABIES AND SIMPLI...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0305735692201002" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735692201002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unyk, Sandra E. Trehub, Laurel J. Trainor, E. Glenn Schellenberg, 1992First published April 1992 Request permissions LULLABIES AND SIMPLI...</p></details>
    Published: April 1992  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2021  SOUND SLEEP: LULLABIES AS A TEST CASE FOR THE NEUROBIOLOGICAL EFFECTS OF MUSIC Published online by Cambridge Univers...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sound-sleep-lullabies-as-a-test-case-for-the-neurobiological-effects-of-music/3C301CFA1A2B6D5AE9C1BB3E0EF0C19E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2021  SOUND SLEEP: LULLABIES AS A TEST CASE FOR THE NEUROBIOLOGICAL EFFECTS OF MUSIC Published online by Cambridge Univers...</p></details>
    Published: September 30, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unibw.de  
-   Link: <a href="https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english" target="_blank" rel="noopener noreferrer nofollow">https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universality of Lullabies  Institut fr PsychologieUNIVERSALITY OF LULLABIES ABOUT OUR PROJECT In this study, we want to investigate the...</p></details>
+   Link:<a href="https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english" target="_blank" rel="noopener noreferrer nofollow">https://www.unibw.de/hum-psychologie/online-liste-forschungsprojekte/lullaby_english</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universality of Lullabies  Institut fr PsychologieUNIVERSALITY OF LULLABIES ABOUT OUR PROJECT In this study, we want to investigate the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aip.org  
    Title: Lullabies May be Product of Battle Between Parents and Babies  
-   Link: <a href="https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16, 2017  Inside Science Inside Science Inside Science / Article LULLABIES MAY BE PRODUCT OF BATTLE BETWEEN PARENTS AND BABIES NOV 16, 2...</p></details>
+   Link:<a href="https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/inside-science/lullabies-may-be-product-of-battle-between-parents-and-babies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16, 2017  Inside Science Inside Science Inside Science / Article LULLABIES MAY BE PRODUCT OF BATTLE BETWEEN PARENTS AND BABIES NOV 16, 2...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Sleep, baby, sleep: Lullabies in infancy and childhood  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/B9780443336515000227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/B9780443336515000227</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUSIC AND SLEEP A Scientific Perspective 2026, Pages 151-170 CHAPTER 8 - SLEEP, BABY, SLEEP: LULLABIES IN INFANCY AND CHILDH...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/B9780443336515000227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/B9780443336515000227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUSIC AND SLEEP A Scientific Perspective 2026, Pages 151-170 CHAPTER 8 - SLEEP, BABY, SLEEP: LULLABIES IN INFANCY AND CHILDH...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: edweek.org  
    Title: Ask a Scientist: Do Lullabies for Infants Really Work?  
-   Link: <a href="https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01" target="_blank" rel="noopener noreferrer nofollow">https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Lillian Mongeau  January 07, 2016 3 min read * * Remove Save to favorites Save to favorites * Print Email Facebook LinkedIn Twitter Co...</p></details>
+   Link:<a href="https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01" target="_blank" rel="noopener noreferrer nofollow">https://www.edweek.org/teaching-learning/ask-a-scientist-do-lullabies-for-infants-really-work/2016/01</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Lillian Mongeau  January 07, 2016 3 min read * * Remove Save to favorites Save to favorites * Print Email Facebook LinkedIn Twitter Co...</p></details>
    Published: January 7, 2016  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the bas...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33077883/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33077883/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the bas...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govUniversality, domain-specificity, and development of psychological responses to music - PMCJune 1, 2023  Among the different beha...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10745197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govUniversality, domain-specificity, and development of psychological responses to music - PMCJune 1, 2023  Among the different beha...</p></details>
    Published: June 1, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Mar 20;2019:3972918. doi: 10.1155/2019/3972918 NEUROPROCESSING MECHANISMS OF MUSIC DURING FETAL AND NEONATAL DEVELOPMENT: A ROLE IN...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6446122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Mar 20;2019:3972918. doi: 10.1155/2019/3972918 NEUROPROCESSING MECHANISMS OF MUSIC DURING FETAL AND NEONATAL DEVELOPMENT: A ROLE IN...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the ba...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, adult listeners accurately identify unfamiliar lullabies as infant-directed on the ba...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How Music Affects Your Baby's Brain  
-   Link: <a href="https://www.youtube.com/watch?v=83i1q7lUv48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83i1q7lUv48</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Lullabies for Infant Development...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=83i1q7lUv48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83i1q7lUv48</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Lullabies for Infant Development...</p></details>

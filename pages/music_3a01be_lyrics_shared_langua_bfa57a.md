@@ -506,7 +506,7 @@ Lyrics are one of the clearest ways songs turn private feelings into a language 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-overview.webp" | relative_url }}" alt="Overview image for Lyrics" loading="eager" decoding="sync" fetchpriority="high">
 ## Voice, Story and Identification
 
-At its core, a lyric anchors emotion in a narrative. Unlike instrumental music, which conveys mood through prosody and acoustic cues, lyrics offer propositional meaning through language that listeners can parse and internalise. In psychological studies, researchers have observed that lyrics can shape listeners’ emotional responses by evoking episodic memories or visual imagery, increasing the accessibility of emotional meaning compared with instrumental music alone. For example, participants listening to songs with lyrics reported enhanced activation of [memory]({{ 'memory/' | relative_url }})-related mechanisms and stronger effects on mood compared with versions without text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</span></span></span>
+At its core, a lyric anchors emotion in a narrative. Unlike instrumental music, which conveys mood through prosody and acoustic cues, lyrics offer propositional meaning through language that listeners can parse and internalise. In psychological studies, researchers have observed that lyrics can shape listeners’ emotional responses by evoking episodic memories or visual imagery, increasing the accessibility of emotional meaning compared with instrumental music alone. For example, participants listening to songs with lyrics reported enhanced activation of [memory]({{ 'memory/' | relative_url }})-related mechanisms and stronger effects on mood compared with versions without text.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</span></span></span>
 
 The act of *[identification]({{ 'identification/' | relative_url }})*—where listeners recognise their own feelings or stories in the words—is part of how lyrics become shared. Narratives in lyrics often feature familiar emotional arcs (loss, yearning, reconciliation) that mirror everyday talk and thought. That narrative structure, whether overtly poetic or conversational, allows a listener to project their internal states onto the song’s language, and in doing so makes those states feel less isolated and more universally understood. It is this intersection of personal reflection with accessible language that underpins lyrics’ role as a vehicle for shared feeling.
 
@@ -522,208 +522,208 @@ This mechanism works because choruses distil emotional meaning into a compact, r
 
 Lyrics sometimes do more than express individual sentiment—they become public slogans or cultural touchstones. When language in a chorus or hook resonates beyond its original context, it starts to function as a *symbolic marker* of shared experience. Whether it’s a line from a protest song adopted by a movement or a pop refrain quoted in advertisements and memes, lyrics acquire a life as communal language when they capture an affective truth that others recognise as theirs.
 
-Cultural studies highlight how this process is tied to *shared meaning* in a community. Music with prosocial or emotionally charged lyrics can influence group identity; in some lab studies, songs with such lyrics not only evoked emotional responses but also shaped subsequent behaviour, suggesting that shared lyrical cues can bridge individual feeling and collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 3, 2021...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> Moreover, because lyrics interact with cultural norms and context—varying in emotional impact across different groups—they do not convey fixed meanings but rather become part of a negotiated, social language of feeling.
+Cultural studies highlight how this process is tied to *shared meaning* in a community. Music with prosocial or emotionally charged lyrics can influence group identity; in some lab studies, songs with such lyrics not only evoked emotional responses but also shaped subsequent behaviour, suggesting that shared lyrical cues can bridge individual feeling and collective action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 3, 2021...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> Moreover, because lyrics interact with cultural norms and context—varying in emotional impact across different groups—they do not convey fixed meanings but rather become part of a negotiated, social language of feeling.
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-dark.svg" | relative_url }}" alt="Lyrics illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Beyond Sound: Integration of Language and Music
 
-Research on cognitive processing of song shows that lyrics and music are not interpreted wholly separately. [Familiar songs]({{ 'familiar-songs/' | relative_url }}), for instance, are judged as more meaningful when sung than when the same words are presented as spoken text, indicating that *music enhances the perceived meaning of language* by embedding it within a richer emotional context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span> This integration helps explain why lyrics feel especially powerful: words in song benefit from both linguistic semantics and musical affective cues.
+Research on cognitive processing of song shows that lyrics and music are not interpreted wholly separately. [Familiar songs]({{ 'familiar-songs/' | relative_url }}), for instance, are judged as more meaningful when sung than when the same words are presented as spoken text, indicating that *music enhances the perceived meaning of language* by embedding it within a richer emotional context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span> This integration helps explain why lyrics feel especially powerful: words in song benefit from both linguistic semantics and musical affective cues.
 
-At a deeper level, theories of emotion in music suggest that language and sound influence listeners’ interpretation of affect not just through discrete words but by engaging processes like episodic recall, imagery and evaluative conditioning. This means that lyrics play dual roles: they guide semantic interpretation (what feeling is being described) and shape how that feeling is *felt* in response to the music’s emotional cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2073 431X</span><span class="citation-popover-snippet">Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience &#124; MDPIOctober 24, 2025...</span><span class="citation-popover-meta">Published: October 24, 2025</span></span></span>
+At a deeper level, theories of emotion in music suggest that language and sound influence listeners’ interpretation of affect not just through discrete words but by engaging processes like episodic recall, imagery and evaluative conditioning. This means that lyrics play dual roles: they guide semantic interpretation (what feeling is being described) and shape how that feeling is *felt* in response to the music’s emotional cues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2073 431X</span><span class="citation-popover-snippet">Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience &#124; MDPIOctober 24, 2025...</span><span class="citation-popover-meta">Published: October 24, 2025</span></span></span>
 
 ## Summary
 
 Lyrics turn feelings into shared language by packaging emotions in narratively structured, repeatable, and culturally resonant phrases. This mechanism rests on how words carry propositional meaning, how repetition and chorus structure embed that meaning in memory and communal use, and how music and language together amplify emotional interpretation. As a result, lyrics become more than personal expression: they become a shared lexicon of feeling that can define identities, shape group discourse and, at times, become slogans for collective sentiment.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Lyrics Make Feelings Public. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Lyrics Make Feelings Public. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Discusses how songs function socially, culturally, and emotionally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how songs function socially, culturally, and emotionally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains why words and music combine so powerfully.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why words and music combine so powerfully.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
-        </h4>
-        <p class="fr-book-author">By Pat Pattison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
+</h4>
+<p class="fr-book-author">By Pat Pattison</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songwriters on songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164829-M.jpg" alt="Cover for Songwriters on songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songwriters on songwriting">Songwriters on songwriting</a>
-        </h4>
-        <p class="fr-book-author">By Paul Zollo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songwriters on songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164829-M.jpg" alt="Cover for Songwriters on songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songwriters on songwriting">Songwriters on songwriting</a>
+</h4>
+<p class="fr-book-author">By Paul Zollo</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Composers, Popular music, Interviews, History and criticism, Lyricists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Composers, Popular music, Interviews, History and criticism, Lyricists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary wall art poster" data-ebay-reference="how-lyrics-make-feelings-public-ufo-documentary-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,91 +929,91 @@ Lyrics turn feelings into shared language by packaging emotions in narratively s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2021...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8641538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2021...</p></details>
    Published: December 3, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
    Title: 2073 431X  
-   Link: <a href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/14/11/460</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/14/11/460</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025...</p></details>
    Published: October 24, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2226-471X/9/11/349/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/9/11/349/html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lyrical Code-Switching, Multimodal Intertextuality, and Identity in Popular Music | MDPINovember 14, 2024 — 14 November 2024 LYRICAL CODE...</p></details>
+   Link:<a href="https://www.mdpi.com/2226-471X/9/11/349/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/9/11/349/html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lyrical Code-Switching, Multimodal Intertextuality, and Identity in Popular Music | MDPINovember 14, 2024 — 14 November 2024 LYRICAL CODE...</p></details>
    Published: November 14, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: research.bond.edu.au  
-   Link: <a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
+   Link:<a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/03057356211013390</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, Laura S Sakka, 2022...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/03057356211013390</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, Laura S Sakka, 2022...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 28 February 2018 Sec. Theoretical and Philosophical Psychology Volume 9 - 2018 | [https://doi.org/10.3389/fpsyg.2018.00215](https://doi.org/10.3389/fpsyg.2018.00215) Publi...</p></details>
+   Link:<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00215</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 28 February 2018 Sec. Theoretical and Philosophical Psychology Volume 9 - 2018 | [https://doi.org/10.3389/fpsyg.2018.00215](https://doi.org/10.3389/fpsyg.2018.00215) Publi...</p></details>
    Published: February 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 28 February 2018 Sec. Theoretical and Philosophical Psychology Volume 9 - 2018 | [https://doi.org/10.3389/fpsyg.2018.00215](https://doi.org/10.3389/fpsyg.2018.00215) Publi...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00215/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 28 February 2018 Sec. Theoretical and Philosophical Psychology Volume 9 - 2018 | [https://doi.org/10.3389/fpsyg.2018.00215](https://doi.org/10.3389/fpsyg.2018.00215) Publi...</p></details>
    Published: February 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S156625352600182X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S156625352600182X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>challenges - ScienceDirectINFORMATION FUSION Volume 133, September 2026, 104303 Full Length Article Revisiting the role of lyrics in musi...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S156625352600182X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S156625352600182X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>challenges - ScienceDirectINFORMATION FUSION Volume 133, September 2026, 104303 Full Length Article Revisiting the role of lyrics in musi...</p></details>
    Published: September 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iris.unisa.it  
-   Link: <a href="https://www.iris.unisa.it/handle/11386/1662036" target="_blank" rel="noopener noreferrer nofollow">https://www.iris.unisa.it/handle/11386/1662036</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unisa.it“Sometimes I feel like my only friend...”: identity and alterity in urban milieus through song lyrics“SOMETIMES I FEEL LIKE MY ON...</p></details>
+   Link:<a href="https://www.iris.unisa.it/handle/11386/1662036" target="_blank" rel="noopener noreferrer nofollow">https://www.iris.unisa.it/handle/11386/1662036</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unisa.it“Sometimes I feel like my only friend...”: identity and alterity in urban milieus through song lyrics“SOMETIMES I FEEL LIKE MY ON...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journal.psych.ac.cn  
-   Link: <a href="https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346" target="_blank" rel="noopener noreferrer nofollow">https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 ›› Issue (12): 1346-1355.doi: 10.3724/SP.J.1041.2018.01346 EFFECTS OF LYRICS ON THE PROCESSING OF MUSICAL EMOTION: BEHAVIOURAL...</p></details>
+   Link:<a href="https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346" target="_blank" rel="noopener noreferrer nofollow">https://journal.psych.ac.cn/acps/EN/10.3724/SP.J.1041.2018.01346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 ›› Issue (12): 1346-1355.doi: 10.3724/SP.J.1041.2018.01346 EFFECTS OF LYRICS ON THE PROCESSING OF MUSICAL EMOTION: BEHAVIOURAL...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cir.nii.ac.jp  
    Title: nii.ac.jp Songs and emotions: are lyrics and melodies equal partners?  
-   Link: <a href="https://cir.nii.ac.jp/crid/1360306912569186176" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360306912569186176</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CiNii ResearchSONGS AND EMOTIONS: ARE LYRICS AND MELODIES EQUAL PARTNERS? DOI Web Site 被引用文献1件 * S. Omar Ali * Zehra F. Peynircioğlu DE...</p></details>
+   Link:<a href="https://cir.nii.ac.jp/crid/1360306912569186176" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360306912569186176</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CiNii ResearchSONGS AND EMOTIONS: ARE LYRICS AND MELODIES EQUAL PARTNERS? DOI Web Site 被引用文献1件 * S. Omar Ali * Zehra F. Peynircioğlu DE...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Old songs can be as fresh as new: An ERP study on lyrics processing  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0911604415000068</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JOURNAL OF NEUROLINGUISTICS Volume 35, August 2015, Pages 55-67 OLD SONGS CAN BE AS FRESH AS NEW: AN ERP STUDY ON LYRICS PRO...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0911604415000068</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JOURNAL OF NEUROLINGUISTICS Volume 35, August 2015, Pages 55-67 OLD SONGS CAN BE AS FRESH AS NEW: AN ERP STUDY ON LYRICS PRO...</p></details>
    Published: August 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Exceptions include melodies t  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Design Features of Music and Language: The Choric/Dialogic Distinction - PMCApril 22, 2022 — AESTHETICS IN LANGUAGE AND PROPOSITIONALITY...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9075586/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Design Features of Music and Language: The Choric/Dialogic Distinction - PMCApril 22, 2022 — AESTHETICS IN LANGUAGE AND PROPOSITIONALITY...</p></details>
    Published: April 22, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2015 Mar 19;370(1664):20140096. doi: 10.1098/rstb.2014.0096 CROSS-CULTURAL PERSPECTIVES ON MUSIC AND MUSICALITY Sandra E Trehub SANDRA E...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4321137/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2015 Mar 19;370(1664):20140096. doi: 10.1098/rstb.2014.0096 CROSS-CULTURAL PERSPECTIVES ON MUSIC AND MUSICALITY Sandra E Trehub SANDRA E...</p></details>

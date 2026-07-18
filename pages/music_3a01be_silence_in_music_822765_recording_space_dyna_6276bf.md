@@ -268,232 +268,232 @@ image: /assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_
 
 ## Introduction
 
-In recorded music, *[silence]({{ 'silence/' | relative_url }})* and *space* are not mere absences of sound — they are fundamental structural tools that dramatically shape how a mix feels, how musical contrasts are perceived, and how listeners connect emotionally with what they hear. In practical terms, *[recording]({{ 'recording/' | relative_url }}) space* refers to both the literal gaps between sounds and the way those sounds inhabit frequency, stereo field, and dynamic range. *Dynamic contrast* — the difference between quiet and loud moments — gives music its sense of motion, impact and emotional contour. When engineered thoughtfully, space and dynamics work together to prevent cluttered mixes and to make important moments feel more powerful and meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
+In recorded music, *[silence]({{ 'silence/' | relative_url }})* and *space* are not mere absences of sound — they are fundamental structural tools that dramatically shape how a mix feels, how musical contrasts are perceived, and how listeners connect emotionally with what they hear. In practical terms, *[recording]({{ 'recording/' | relative_url }}) space* refers to both the literal gaps between sounds and the way those sounds inhabit frequency, stereo field, and dynamic range. *Dynamic contrast* — the difference between quiet and loud moments — gives music its sense of motion, impact and emotional contour. When engineered thoughtfully, space and dynamics work together to prevent cluttered mixes and to make important moments feel more powerful and meaningful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-1-dark.svg" | relative_url }}" alt="Recording Space illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Mixing for Space and Clarity
 
 Effective mixes make deliberate space for each element so that sounds don’t compete unnecessarily. Rather than stacking layer upon layer at full volume, engineers look at **silent gaps, frequency gaps and spatial separation** as positive design choices:
 
-* **[Physical]({{ 'physical/' | relative_url }}) silence:** Strategic moments of literal quiet — such as a pause before a beat drop or a gap between phrases — give listeners’ ears room to reset and make subsequent hits feel more dramatic. Silence is perceived as anticipation and contrast, not emptiness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
-* **Frequency space:** At any given moment, sounds occupy portions of the frequency spectrum. If several instruments crowd the same band (for example, kick and bass in the low end), clarity diminishes. Engineering choices such as frequency carving with EQ or arranging parts to avoid overlap preserve perceptual space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.transmissionsamples.com/tutorials/tutorials/mixing-and-mastering/music-production-mixing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transmissionsamples.com">[transmissionsamples.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transmissionsamples.com</span><span class="citation-popover-title">Music Production arrangement and mixing tutorial</span><span class="citation-popover-snippet">Music Production arrangement and mixing tutorial</span></span></span>
-* **Stereo and depth placement:** Spreading elements across the stereo field or adding appropriate reverbs and delays helps create perceived depth. Properly balanced reverb and dry signals can make elements feel further back or closer without masking each other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundonsound.com/techniques/5-biggest-mixing-mistakes-and-how-avoid-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
+* **[Physical]({{ 'physical/' | relative_url }}) silence:** Strategic moments of literal quiet — such as a pause before a beat drop or a gap between phrases — give listeners’ ears room to reset and make subsequent hits feel more dramatic. Silence is perceived as anticipation and contrast, not emptiness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
+* **Frequency space:** At any given moment, sounds occupy portions of the frequency spectrum. If several instruments crowd the same band (for example, kick and bass in the low end), clarity diminishes. Engineering choices such as frequency carving with EQ or arranging parts to avoid overlap preserve perceptual space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.transmissionsamples.com/tutorials/tutorials/mixing-and-mastering/music-production-mixing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transmissionsamples.com">[transmissionsamples.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transmissionsamples.com</span><span class="citation-popover-title">Music Production arrangement and mixing tutorial</span><span class="citation-popover-snippet">Music Production arrangement and mixing tutorial</span></span></span>
+* **Stereo and depth placement:** Spreading elements across the stereo field or adding appropriate reverbs and delays helps create perceived depth. Properly balanced reverb and dry signals can make elements feel further back or closer without masking each other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundonsound.com/techniques/5-biggest-mixing-mistakes-and-how-avoid-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundonsound.com">[Sound On Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundonsound.com</span><span class="citation-popover-snippet">Sound On Sound</span></span></span>
 
-This approach to space means the mix *breathes*: it isn’t continually dense, and each element has a turning point where it feels intentional rather than [background]({{ 'background/' | relative_url }}) noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://recordingstudioinphiladelphia.com/mixtraining-level-grey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordingstudioinphiladelphia.com">[Ronter Sound Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordingstudioinphiladelphia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This approach to space means the mix *breathes*: it isn’t continually dense, and each element has a turning point where it feels intentional rather than [background]({{ 'background/' | relative_url }}) noise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://recordingstudioinphiladelphia.com/mixtraining-level-grey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordingstudioinphiladelphia.com">[Ronter Sound Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordingstudioinphiladelphia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-2-dark.svg" | relative_url }}" alt="Recording Space illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dynamic Range and Listener Perception
 
-Dynamic range describes the **difference between the loudest and softest parts** of a track or mix. It’s measured in decibels and directly impacts how we emotionally and physically respond to the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hub.yamaha.com/audio/music/what-is-dynamic-range-and-why-does-it-matter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hub.yamaha.com">[Yamaha Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hub.yamaha.com</span><span class="citation-popover-title">Music What Is Dynamic Range, and Why Does it Matter?</span><span class="citation-popover-snippet">Yamaha MusicWhat Is Dynamic Range, and Why Does it Matter?October 8, 2021...</span><span class="citation-popover-meta">Published: October 8, 2021</span></span></span>
+Dynamic range describes the **difference between the loudest and softest parts** of a track or mix. It’s measured in decibels and directly impacts how we emotionally and physically respond to the music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hub.yamaha.com/audio/music/what-is-dynamic-range-and-why-does-it-matter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hub.yamaha.com">[Yamaha Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hub.yamaha.com</span><span class="citation-popover-title">Music What Is Dynamic Range, and Why Does it Matter?</span><span class="citation-popover-snippet">Yamaha MusicWhat Is Dynamic Range, and Why Does it Matter?October 8, 2021...</span><span class="citation-popover-meta">Published: October 8, 2021</span></span></span>
 
 **Why dynamic contrast matters in mixes:**
 
-* **Emotional engagement:** Quiet passages draw listeners in; loud peaks give energy and release. Too little difference between the two results in mixes that feel *flat* or exhausting because there’s no journey from hush to impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundbrenner.com/blogs/articles/dynamic-range-in-music-the-art-of-loudness-and-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundbrenner.com">[Soundbrenner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundbrenner.com</span><span class="citation-popover-title">Dynamic range in music: The art of loudness and silence – Soundbrenner</span><span class="citation-popover-snippet">Dynamic range in music: The art of loudness and silence – SoundbrennerAugust 15, 2024...</span><span class="citation-popover-meta">Published: August 15, 2024</span></span></span>
-* **Perceived loudness vs. musical expression:** Heavy compression reduces dynamic range, often to make a track sound “consistently loud.” However, this can remove nuance and make transients (the initial attack of a sound) less punchy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundgym.co/blog/item?id=dynamic-range-in-audio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundgym.co">[SoundGym]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundgym.co</span><span class="citation-popover-snippet">What is Dynamic Range in Audio? How Loudness, Compression, and Limiting Affect Your MixJanuary 12, 2026...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
-* **Contextual impact:** A rhythmic pause before a powerful chorus or drop makes the louder section hit harder because the ear has adjusted to quiet. Even in electronically driven genres, professional tracks rely on this contrast to avoid listener fatigue and maintain clarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackscore.ai/blog/dynamic-range-electronic-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackscore.ai">[TrackScore.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackscore.ai</span><span class="citation-popover-snippet">Dynamic Range in Electronic Music: How Much Compression Is Too Much? &#124; TRACKSCORE.AI...</span></span></span>
+* **Emotional engagement:** Quiet passages draw listeners in; loud peaks give energy and release. Too little difference between the two results in mixes that feel *flat* or exhausting because there’s no journey from hush to impact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundbrenner.com/blogs/articles/dynamic-range-in-music-the-art-of-loudness-and-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundbrenner.com">[Soundbrenner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundbrenner.com</span><span class="citation-popover-title">Dynamic range in music: The art of loudness and silence – Soundbrenner</span><span class="citation-popover-snippet">Dynamic range in music: The art of loudness and silence – SoundbrennerAugust 15, 2024...</span><span class="citation-popover-meta">Published: August 15, 2024</span></span></span>
+* **Perceived loudness vs. musical expression:** Heavy compression reduces dynamic range, often to make a track sound “consistently loud.” However, this can remove nuance and make transients (the initial attack of a sound) less punchy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundgym.co/blog/item?id=dynamic-range-in-audio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundgym.co">[SoundGym]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundgym.co</span><span class="citation-popover-snippet">What is Dynamic Range in Audio? How Loudness, Compression, and Limiting Affect Your MixJanuary 12, 2026...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
+* **Contextual impact:** A rhythmic pause before a powerful chorus or drop makes the louder section hit harder because the ear has adjusted to quiet. Even in electronically driven genres, professional tracks rely on this contrast to avoid listener fatigue and maintain clarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://trackscore.ai/blog/dynamic-range-electronic-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackscore.ai">[TrackScore.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackscore.ai</span><span class="citation-popover-snippet">Dynamic Range in Electronic Music: How Much Compression Is Too Much? &#124; TRACKSCORE.AI...</span></span></span>
 
-Dynamic range also ties into *headroom*, the space left in a mix before clipping or distortion occurs. Leaving intentional headroom allows quiet parts to remain audible while loud sections have room to breathe, making dynamics more natural and expressive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.peak-studios.de/en/headroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peak-studios.de">[Peak-Studios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peak-studios.de</span><span class="citation-popover-title">Headroom in audio production: levels, mix and mastering</span><span class="citation-popover-snippet">Headroom in audio production: levels, mix and masteringOctober 15, 2016...</span><span class="citation-popover-meta">Published: October 15, 2016</span></span></span>
+Dynamic range also ties into *headroom*, the space left in a mix before clipping or distortion occurs. Leaving intentional headroom allows quiet parts to remain audible while loud sections have room to breathe, making dynamics more natural and expressive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.peak-studios.de/en/headroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peak-studios.de">[Peak-Studios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peak-studios.de</span><span class="citation-popover-title">Headroom in audio production: levels, mix and mastering</span><span class="citation-popover-snippet">Headroom in audio production: levels, mix and masteringOctober 15, 2016...</span><span class="citation-popover-meta">Published: October 15, 2016</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-3-dark.svg" | relative_url }}" alt="Recording Space illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sparse Arrangements and Intimacy
 
 Creating space isn’t just a technical balancing act — it also influences the *feel* of a recording. Sparse arrangements can make performances feel more intimate or focused:
 
-* **Minimal layers:** Having fewer instruments playing simultaneously gives each one weight and clarity. This isn’t about sterility; it’s about prioritising what needs to be heard and letting other sounds rest when they’re not essential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
-* **Strategic silence:** Silence between notes or sections invites listeners to *anticipate* and *feel* the music. In electronic genres, for example, drops are made more impactful by intentionally omitting certain elements just before they return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alecforshag.com/how-pros-use-silence-and-space-in-edm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alecforshag.com">[Alec Forshag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alecforshag.com</span><span class="citation-popover-title">Alec Forshag How Pros Use Silence and Space in EDM</span><span class="citation-popover-snippet">Alec ForshagHow Pros Use Silence and Space in EDM - Alec Forshag...</span></span></span>
-* **Contrast as power:** When quiet and loud, sparse and dense, narrow and wide are juxtaposed properly, the result feels more engaging because the ear constantly recalibrates what’s important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://recordingstudioinphiladelphia.com/mixtraining-level-grey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordingstudioinphiladelphia.com">[Ronter Sound Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordingstudioinphiladelphia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Minimal layers:** Having fewer instruments playing simultaneously gives each one weight and clarity. This isn’t about sterility; it’s about prioritising what needs to be heard and letting other sounds rest when they’re not essential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
+* **Strategic silence:** Silence between notes or sections invites listeners to *anticipate* and *feel* the music. In electronic genres, for example, drops are made more impactful by intentionally omitting certain elements just before they return.<span class="citation-chip-wrap"><a class="citation-chip" href="https://alecforshag.com/how-pros-use-silence-and-space-in-edm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alecforshag.com">[Alec Forshag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alecforshag.com</span><span class="citation-popover-title">Alec Forshag How Pros Use Silence and Space in EDM</span><span class="citation-popover-snippet">Alec ForshagHow Pros Use Silence and Space in EDM - Alec Forshag...</span></span></span>
+* **Contrast as power:** When quiet and loud, sparse and dense, narrow and wide are juxtaposed properly, the result feels more engaging because the ear constantly recalibrates what’s important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://recordingstudioinphiladelphia.com/mixtraining-level-grey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordingstudioinphiladelphia.com">[Ronter Sound Philadelphia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordingstudioinphiladelphia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This interplay between absence and presence shapes the emotional narrative of a mix. Producers who lean into silence and controlled space craft mixes that feel dynamic, alive and easier to listen to — the opposite of crowded, continuous loudness that leaves no room for impact or nuance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
+This interplay between absence and presence shapes the emotional narrative of a mix. Producers who lean into silence and controlled space craft mixes that feel dynamic, alive and easier to listen to — the opposite of crowded, continuous loudness that leaves no room for impact or nuance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Silence Shapes the Impact of Recorded Music. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Silence Shapes the Impact of Recorded Music. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mixing secrets for the small studio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9839081-M.jpg" alt="Cover for Mixing secrets for the small studio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mixing secrets for the small studio">Mixing secrets for the small studio</a>
-        </h4>
-        <p class="fr-book-author">By Mike Senior</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mixing secrets for the small studio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9839081-M.jpg" alt="Cover for Mixing secrets for the small studio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mixing secrets for the small studio">Mixing secrets for the small studio</a>
+</h4>
+<p class="fr-book-author">By Mike Senior</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Sound, Recording and reproducing, Sound studios, High-fidelity sound systems, Sound, recording and reprod...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Sound, Recording and reproducing, Sound studios, High-fidelity sound systems, Sound, recording and reprod...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Behind the Glass on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/674772-M.jpg" alt="Cover for Behind the Glass" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Behind the Glass">Behind the Glass</a>
-        </h4>
-        <p class="fr-book-author">By Howard Massey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Behind the Glass on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/674772-M.jpg" alt="Cover for Behind the Glass" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Behind the Glass">Behind the Glass</a>
+</h4>
+<p class="fr-book-author">By Howard Massey</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: History and criticism, Interviews, Sound recording executives and producers, Popular music, Sound recordi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: History and criticism, Interviews, Sound recording executives and producers, Popular music, Sound recordi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mixing Engineer&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2004232-M.jpg" alt="Cover for The Mixing Engineer&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mixing Engineer&#x27;s Handbook">The Mixing Engineer&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Bobby Owsinski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mixing Engineer&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2004232-M.jpg" alt="Cover for The Mixing Engineer&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mixing Engineer&#x27;s Handbook">The Mixing Engineer&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Bobby Owsinski</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Sound, Production and direction, Recording and reproducing, Handbooks, manuals, Sound recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Sound, Production and direction, Recording and reproducing, Handbooks, manuals, Sound recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mastering Audio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/146039-M.jpg" alt="Cover for Mastering Audio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mastering Audio">Mastering Audio</a>
-        </h4>
-        <p class="fr-book-author">By Bob Katz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mastering Audio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/146039-M.jpg" alt="Cover for Mastering Audio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mastering Audio">Mastering Audio</a>
+</h4>
+<p class="fr-book-author">By Bob Katz</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Sound, Mastering (Sound recordings), Recording and reproducing, Digital techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Sound, Mastering (Sound recordings), Recording and reproducing, Digital techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mixing secrets for the small studio</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Behind+the+Glass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Behind the Glass</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mixing Engineer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mixing secrets for the small studio</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Behind+the+Glass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Behind the Glass</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mixing Engineer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b65bff00ad5a6c6e16b1.jpg' | relative_url }}" alt="Listing image for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b65bff00ad5a6c6e16b1.jpg' | relative_url }}" alt="Listing image for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led"><img src="{{ '/assets/images/marketplace-covers/bd723ffa5588c7212a24.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led"><img src="{{ '/assets/images/marketplace-covers/bd723ffa5588c7212a24.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign Home Decor led</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club"><img src="{{ '/assets/images/marketplace-covers/045d09e33673453380c7.jpg' | relative_url }}" alt="Listing image for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club"><img src="{{ '/assets/images/marketplace-covers/045d09e33673453380c7.jpg' | relative_url }}" alt="Listing image for Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Studio Recording Records Disc 20&quot; Neon Light Sign Lamp Wall Decor Glass Club</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/3c8e70269a0f6d435d6c.jpg' | relative_url }}" alt="Listing image for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/3c8e70269a0f6d435d6c.jpg' | relative_url }}" alt="Listing image for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="recording-space-why-silence-shapes-the-impact-of-recorded-music-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ This interplay between absence and presence shapes the emotional narrative of a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ This interplay between absence and presence shapes the emotional narrative of a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ This interplay between absence and presence shapes the emotional narrative of a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ This interplay between absence and presence shapes the emotional narrative of a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ This interplay between absence and presence shapes the emotional narrative of a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,124 +699,124 @@ This interplay between absence and presence shapes the emotional narrative of a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: trackscore.ai  
-   Link: <a href="https://trackscore.ai/blog/dynamic-range-electronic-music" target="_blank" rel="noopener noreferrer nofollow">https://trackscore.ai/blog/dynamic-range-electronic-music</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamic Range in Electronic Music: How Much Compression Is Too Much? | TRACKSCORE.AI...</p></details>
+   Link:<a href="https://trackscore.ai/blog/dynamic-range-electronic-music" target="_blank" rel="noopener noreferrer nofollow">https://trackscore.ai/blog/dynamic-range-electronic-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamic Range in Electronic Music: How Much Compression Is Too Much? | TRACKSCORE.AI...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: transmissionsamples.com  
    Title: Music Production arrangement and mixing tutorial  
-   Link: <a href="https://www.transmissionsamples.com/tutorials/tutorials/mixing-and-mastering/music-production-mixing" target="_blank" rel="noopener noreferrer nofollow">https://www.transmissionsamples.com/tutorials/tutorials/mixing-and-mastering/music-production-mixing</a>  
+   Link:<a href="https://www.transmissionsamples.com/tutorials/tutorials/mixing-and-mastering/music-production-mixing" target="_blank" rel="noopener noreferrer nofollow">https://www.transmissionsamples.com/tutorials/tutorials/mixing-and-mastering/music-production-mixing</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: soundonsound.com  
    Title: Sound On Sound  
-   Link: <a href="https://www.soundonsound.com/techniques/5-biggest-mixing-mistakes-and-how-avoid-them" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/5-biggest-mixing-mistakes-and-how-avoid-them</a>  
+   Link:<a href="https://www.soundonsound.com/techniques/5-biggest-mixing-mistakes-and-how-avoid-them" target="_blank" rel="noopener noreferrer nofollow">https://www.soundonsound.com/techniques/5-biggest-mixing-mistakes-and-how-avoid-them</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hub.yamaha.com  
    Title: Music What Is Dynamic Range, and Why Does it Matter?  
-   Link: <a href="https://hub.yamaha.com/audio/music/what-is-dynamic-range-and-why-does-it-matter/" target="_blank" rel="noopener noreferrer nofollow">https://hub.yamaha.com/audio/music/what-is-dynamic-range-and-why-does-it-matter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yamaha MusicWhat Is Dynamic Range, and Why Does it Matter?October 8, 2021...</p></details>
+   Link:<a href="https://hub.yamaha.com/audio/music/what-is-dynamic-range-and-why-does-it-matter/" target="_blank" rel="noopener noreferrer nofollow">https://hub.yamaha.com/audio/music/what-is-dynamic-range-and-why-does-it-matter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yamaha MusicWhat Is Dynamic Range, and Why Does it Matter?October 8, 2021...</p></details>
    Published: October 8, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: soundbrenner.com  
    Title: Dynamic range in music: The art of loudness and silence – Soundbrenner  
-   Link: <a href="https://www.soundbrenner.com/blogs/articles/dynamic-range-in-music-the-art-of-loudness-and-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.soundbrenner.com/blogs/articles/dynamic-range-in-music-the-art-of-loudness-and-silence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamic range in music: The art of loudness and silence – SoundbrennerAugust 15, 2024...</p></details>
+   Link:<a href="https://www.soundbrenner.com/blogs/articles/dynamic-range-in-music-the-art-of-loudness-and-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.soundbrenner.com/blogs/articles/dynamic-range-in-music-the-art-of-loudness-and-silence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamic range in music: The art of loudness and silence – SoundbrennerAugust 15, 2024...</p></details>
    Published: August 15, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: soundgym.co  
-   Link: <a href="https://www.soundgym.co/blog/item?id=dynamic-range-in-audio" target="_blank" rel="noopener noreferrer nofollow">https://www.soundgym.co/blog/item?id=dynamic-range-in-audio</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Dynamic Range in Audio? How Loudness, Compression, and Limiting Affect Your MixJanuary 12, 2026...</p></details>
+   Link:<a href="https://www.soundgym.co/blog/item?id=dynamic-range-in-audio" target="_blank" rel="noopener noreferrer nofollow">https://www.soundgym.co/blog/item?id=dynamic-range-in-audio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Dynamic Range in Audio? How Loudness, Compression, and Limiting Affect Your MixJanuary 12, 2026...</p></details>
    Published: January 12, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: peak-studios.de  
    Title: Headroom in audio production: levels, mix and mastering  
-   Link: <a href="https://www.peak-studios.de/en/headroom/" target="_blank" rel="noopener noreferrer nofollow">https://www.peak-studios.de/en/headroom/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Headroom in audio production: levels, mix and masteringOctober 15, 2016...</p></details>
+   Link:<a href="https://www.peak-studios.de/en/headroom/" target="_blank" rel="noopener noreferrer nofollow">https://www.peak-studios.de/en/headroom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Headroom in audio production: levels, mix and masteringOctober 15, 2016...</p></details>
    Published: October 15, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blog.samplefocus.com  
    Title: Sample Focus Blog Using Space and [Silence in Music](&#123;&#123; 'silence/' | relative_url &#125;&#125;) Production  
-   Link: <a href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow">https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</p></details>
+   Link:<a href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow">https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</p></details>
    Published: January 7, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: alecforshag.com  
    Title: Alec Forshag How Pros Use Silence and Space in EDM  
-   Link: <a href="https://alecforshag.com/how-pros-use-silence-and-space-in-edm/" target="_blank" rel="noopener noreferrer nofollow">https://alecforshag.com/how-pros-use-silence-and-space-in-edm/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alec ForshagHow Pros Use Silence and Space in EDM - Alec Forshag...</p></details>
+   Link:<a href="https://alecforshag.com/how-pros-use-silence-and-space-in-edm/" target="_blank" rel="noopener noreferrer nofollow">https://alecforshag.com/how-pros-use-silence-and-space-in-edm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alec ForshagHow Pros Use Silence and Space in EDM - Alec Forshag...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: recordingstudioinphiladelphia.com  
-   Link: <a href="https://recordingstudioinphiladelphia.com/mixtraining-level-grey/" target="_blank" rel="noopener noreferrer nofollow">https://recordingstudioinphiladelphia.com/mixtraining-level-grey/</a>  
+   Link:<a href="https://recordingstudioinphiladelphia.com/mixtraining-level-grey/" target="_blank" rel="noopener noreferrer nofollow">https://recordingstudioinphiladelphia.com/mixtraining-level-grey/</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cask.zone  
-   Link: <a href="https://cask.zone/understanding-amplitude-loudness-and-dynamic-range-in-music-why-maintaining-dynamic-range-matters-in-mixing-and-mastering/" target="_blank" rel="noopener noreferrer nofollow">https://cask.zone/understanding-amplitude-loudness-and-dynamic-range-in-music-why-maintaining-dynamic-range-matters-in-mixing-and-mastering/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 24, 2024 — UNDERSTANDING AMPLITUDE, LOUDNESS, AND DYNAMIC RANGE IN MUSIC: WHY MAINTAINING DYNAMIC RANGE MATTERS IN MIXING AND MA...</p></details>
+   Link:<a href="https://cask.zone/understanding-amplitude-loudness-and-dynamic-range-in-music-why-maintaining-dynamic-range-matters-in-mixing-and-mastering/" target="_blank" rel="noopener noreferrer nofollow">https://cask.zone/understanding-amplitude-loudness-and-dynamic-range-in-music-why-maintaining-dynamic-range-matters-in-mixing-and-mastering/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 24, 2024 — UNDERSTANDING AMPLITUDE, LOUDNESS, AND DYNAMIC RANGE IN MUSIC: WHY MAINTAINING DYNAMIC RANGE MATTERS IN MIXING AND MA...</p></details>
    Published: December 24, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: michaelmusco.com  
-   Link: <a href="https://www.michaelmusco.com/2024/09/unlocking-power-of-dynamic-range-in.html" target="_blank" rel="noopener noreferrer nofollow">https://www.michaelmusco.com/2024/09/unlocking-power-of-dynamic-range-in.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>world of production music—where [attention](&amp;#123;&amp;#123; &#x27;attention/&#x27; | relative_url &amp;#125;&amp;#125;) spans are short, competition is intense, and every second of audio is expected to delive...</p></details>
+   Link:<a href="https://www.michaelmusco.com/2024/09/unlocking-power-of-dynamic-range-in.html" target="_blank" rel="noopener noreferrer nofollow">https://www.michaelmusco.com/2024/09/unlocking-power-of-dynamic-range-in.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>world of production music—where [attention](&amp;#123;&amp;#123; &#x27;attention/&#x27; | relative_url &amp;#125;&amp;#125;) spans are short, competition is intense, and every second of audio is expected to delive...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shockwave-sound.com  
    Title: Depth and space in the mix, Part 1 – Shockwave-Sound Blog and Articles  
-   Link: <a href="https://www.shockwave-sound.com/blog/depth-and-space-in-mix-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.shockwave-sound.com/blog/depth-and-space-in-mix-part-1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2014 — DEPTH AND SPACE IN THE MIX, PART 1 June 9, 2014August 9, 2017 Bjorn Lynne Shockwave-Sound by Piotr Pacyna “When some thing...</p></details>
+   Link:<a href="https://www.shockwave-sound.com/blog/depth-and-space-in-mix-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.shockwave-sound.com/blog/depth-and-space-in-mix-part-1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2014 — DEPTH AND SPACE IN THE MIX, PART 1 June 9, 2014August 9, 2017 Bjorn Lynne Shockwave-Sound by Piotr Pacyna “When some thing...</p></details>
    Published: June 9, 2014  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mtosmt.org  
    Title: SANDVIK, AND JON MARIUS AARESKJOLD-DRECKER KEYWORDS: groove, [rhythm](&#123;&#123; 'rhythm/' | relative_url &#125;&#125;),  
-   Link: <a href="https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 26.2: Brøvig-Hanssen, Dynamic Range ProcessingDYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSI...</p></details>
+   Link:<a href="https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mtosmt.org/issues/mto.20.26.2/mto.20.26.2.brovighanssen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 26.2: Brøvig-Hanssen, Dynamic Range ProcessingDYNAMIC RANGE PROCESSING AND ITS INFLUENCE ON PERCEIVED TIMING IN ELECTRONIC DANCE MUSI...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: musicguymixing.com  
    Title: What is Dynamic Range in Audio (and Why It's Important)  
-   Link: <a href="https://www.musicguymixing.com/dynamic-range-in-audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicguymixing.com/dynamic-range-in-audio/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Guy MixingOctober 9, 2024 — WHAT IS DYNAMIC RANGE IN AUDIO (AND WHY IT’S IMPORTANT) October 9, 2024 / Mixing Terms / By Music Guy M...</p></details>
+   Link:<a href="https://www.musicguymixing.com/dynamic-range-in-audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicguymixing.com/dynamic-range-in-audio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Guy MixingOctober 9, 2024 — WHAT IS DYNAMIC RANGE IN AUDIO (AND WHY IT’S IMPORTANT) October 9, 2024 / Mixing Terms / By Music Guy M...</p></details>
    Published: October 9, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: genesismixlab.com  
    Title: Learn LCR panning, mid-side processing, and how to c  
-   Link: <a href="https://genesismixlab.com/guides/mixing-fundamentals/stereo-width-and-panning/" target="_blank" rel="noopener noreferrer nofollow">https://genesismixlab.com/guides/mixing-fundamentals/stereo-width-and-panning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stereo Width &amp; Panning | Mix Space Guide | Genesis Mix LabSTEREO WIDTH AND PANNING: HOW TO CREATE SPACE IN YOUR MIX Master stereo imaging...</p></details>
+   Link:<a href="https://genesismixlab.com/guides/mixing-fundamentals/stereo-width-and-panning/" target="_blank" rel="noopener noreferrer nofollow">https://genesismixlab.com/guides/mixing-fundamentals/stereo-width-and-panning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stereo Width &amp; Panning | Mix Space Guide | Genesis Mix LabSTEREO WIDTH AND PANNING: HOW TO CREATE SPACE IN YOUR MIX Master stereo imaging...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: izotope.com  
    Title: “Loudness normalizatio  
-   Link: <a href="https://www.izotope.com/en/learn/loud-mix" target="_blank" rel="noopener noreferrer nofollow">https://www.izotope.com/en/learn/loud-mix</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to get a loud mix while preserving dynamic rangeJanuary 31, 2024 — HOW TO GET A LOUD MIX WHILE PRESERVING DYNAMIC RANGE Ian Stewart A...</p></details>
+   Link:<a href="https://www.izotope.com/en/learn/loud-mix" target="_blank" rel="noopener noreferrer nofollow">https://www.izotope.com/en/learn/loud-mix</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to get a loud mix while preserving dynamic rangeJanuary 31, 2024 — HOW TO GET A LOUD MIX WHILE PRESERVING DYNAMIC RANGE Ian Stewart A...</p></details>
    Published: January 31, 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: beatkitchen.io  
-   Link: <a href="https://beatkitchen.io/guides/mix-primer/22-introduction-to-stereo/" target="_blank" rel="noopener noreferrer nofollow">https://beatkitchen.io/guides/mix-primer/22-introduction-to-stereo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A wide element only sounds wide in contrast to narrow elements around it. If every track in your mix is a wide stereo source — stereo...</p></details>
+   Link:<a href="https://beatkitchen.io/guides/mix-primer/22-introduction-to-stereo/" target="_blank" rel="noopener noreferrer nofollow">https://beatkitchen.io/guides/mix-primer/22-introduction-to-stereo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A wide element only sounds wide in contrast to narrow elements around it. If every track in your mix is a wide stereo source — stereo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: levelsmusicproduction.com  
    Title: Use subtractive EQ,  
-   Link: <a href="https://www.levelsmusicproduction.com/blog/how-to-create-space-and-clarity-in-mixes-with-eq-and-panning" target="_blank" rel="noopener noreferrer nofollow">https://www.levelsmusicproduction.com/blog/how-to-create-space-and-clarity-in-mixes-with-eq-and-panning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Create Space and Clarity in Mixes With EQ and PanningHOW TO CREATE SPACE AND CLARITY IN MIXES WITH EQ AND PANNING 🎚️ eq panning Im...</p></details>
+   Link:<a href="https://www.levelsmusicproduction.com/blog/how-to-create-space-and-clarity-in-mixes-with-eq-and-panning" target="_blank" rel="noopener noreferrer nofollow">https://www.levelsmusicproduction.com/blog/how-to-create-space-and-clarity-in-mixes-with-eq-and-panning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Create Space and Clarity in Mixes With EQ and PanningHOW TO CREATE SPACE AND CLARITY IN MIXES WITH EQ AND PANNING 🎚️ eq panning Im...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: blog.landr.com  
-   Link: <a href="https://blog.landr.com/dynamic-range-mastering/" target="_blank" rel="noopener noreferrer nofollow">https://blog.landr.com/dynamic-range-mastering/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Range: What It Is and Why It Matters in Mastering | LANDR BlogMarch 22, 2023 — DYNAMIC RANGE: WHAT IT IS AND WHY IT MATTERS IN MASTERING...</p></details>
+   Link:<a href="https://blog.landr.com/dynamic-range-mastering/" target="_blank" rel="noopener noreferrer nofollow">https://blog.landr.com/dynamic-range-mastering/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Range: What It Is and Why It Matters in Mastering | LANDR BlogMarch 22, 2023 — DYNAMIC RANGE: WHAT IT IS AND WHY IT MATTERS IN MASTERING...</p></details>
    Published: March 22, 2023

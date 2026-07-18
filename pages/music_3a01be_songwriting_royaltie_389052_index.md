@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-songwriting-royaltie/
 description: Focused pages that expand on Publishing.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_songwriting_royaltie_389052
 parent_title: Publishing
@@ -16,7 +16,7 @@ parent_permalink: /publishing/
 
 # Explore Topics in Publishing
 
-The following pages expand on the main **[Publishing]({{ '/publishing/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Publishing]({{ '/publishing/' | relative_url }})** page and cover its key branches in.
 
 - [Broadcast Income]({{ '/broadcast-income/' | relative_url }})
 - [Setlist Gaps]({{ '/setlist-gaps/' | relative_url }})

@@ -501,7 +501,7 @@ image: /assets/images/music_3a01be_sync_licensing_song_fff395-overview-social.jp
 
 ## Introduction
 
-Sync licensing gives songs new lives by placing them inside films, television, games and advertising, where music stops being only a track and becomes part of a scene, a character, a brand memory or a playable world. A well-chosen placement can make an old [recording]({{ 'recording/' | relative_url }}) feel newly urgent, introduce a cult song to a mass audience, or turn a [catalogue]({{ 'catalogue/' | relative_url }}) track into a fresh income stream. The mechanism is simple in outline but complex in practice: the producer needs permission to pair music with moving images, usually clearing both the composition and the specific sound recording. When the match works, the result can outlive the original campaign or episode. Kate Bush’s “Running Up That Hill” returning to number one after *Stranger Things*, Nick Drake’s “Pink Moon” finding a new audience through Volkswagen, and Sophie Ellis-Bextor’s “Murder on the Dancefloor” surging after *Saltburn* all show how context can restart a song’s public life. Billboard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</span></span></span>
+Sync licensing gives songs new lives by placing them inside films, television, games and advertising, where music stops being only a track and becomes part of a scene, a character, a brand memory or a playable world. A well-chosen placement can make an old [recording]({{ 'recording/' | relative_url }}) feel newly urgent, introduce a cult song to a mass audience, or turn a [catalogue]({{ 'catalogue/' | relative_url }}) track into a fresh income stream. The mechanism is simple in outline but complex in practice: the producer needs permission to pair music with moving images, usually clearing both the composition and the specific sound recording. When the match works, the result can outlive the original campaign or episode. Kate Bush’s “Running Up That Hill” returning to number one after *Stranger Things*, Nick Drake’s “Pink Moon” finding a new audience through Volkswagen, and Sophie Ellis-Bextor’s “Murder on the Dancefloor” surging after *Saltburn* all show how context can restart a song’s public life. Billboard<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-overview.webp" | relative_url }}" alt="Overview image for Sync" loading="eager" decoding="sync" fetchpriority="high">
 ## Why screen placement can revive a song
@@ -510,20 +510,20 @@ A sync placement works differently from a playlist add or radio spin. It does no
 
 The strongest revivals usually happen when three forces meet: a memorable scene, an emotionally legible song, and a route for immediate rediscovery. In the pre-streaming era, viewers might have had to search record shops or soundtrack listings. Today, they can identify a track, stream it, share the scene, post a clip and push the song into recommendation systems within minutes. That is why screen placements now often combine with social media, chart algorithms and streaming platforms rather than replacing them.
 
-[Kate Bush]({{ 'kate-bush/' | relative_url }})’s “Running Up That Hill” is the modern benchmark. The song was first released in 1985, but its use in *Stranger Things* turned it into a protective emotional motif for the character Max rather than a [background]({{ 'background/' | relative_url }}) nostalgia cue. Official Charts records show that the track eventually reached number one in the UK in 2022, setting records including the longest time taken for a single to reach number one and the longest gap between UK number one singles for an artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</span></span></span> Billboard reported that Spotify data showed an 8,700% increase in global streams shortly after the season arrived, while WIPO later framed the resurgence as an example of how copyright, streaming and audiovisual storytelling can combine to generate renewed royalty value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Sophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</span></span></span>
+[Kate Bush]({{ 'kate-bush/' | relative_url }})’s “Running Up That Hill” is the modern benchmark. The song was first released in 1985, but its use in *Stranger Things* turned it into a protective emotional motif for the character Max rather than a [background]({{ 'background/' | relative_url }}) nostalgia cue. Official Charts records show that the track eventually reached number one in the UK in 2022, setting records including the longest time taken for a single to reach number one and the longest gap between UK number one singles for an artist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</span></span></span> Billboard reported that Spotify data showed an 8,700% increase in global streams shortly after the season arrived, while WIPO later framed the resurgence as an example of how copyright, streaming and audiovisual storytelling can combine to generate renewed royalty value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-snippet">Sophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</span></span></span>
 
-The revival was not just statistical. Bush herself publicly connected the renewed popularity to the emotional power of the show and its characters, which helps explain why the placement felt less like a detached marketing trick and more like a new chapter in the song’s meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Kate Bush&#x27;s &quot;Running Up That Hill&quot; Hits No. 1 on UK Singles Chart</span><span class="citation-popover-snippet">Kate Bush&#x27;s &quot;Running Up That Hill&quot; Hits No. 1 on UK Singles Chart</span></span></span>
+The revival was not just statistical. Bush herself publicly connected the renewed popularity to the emotional power of the show and its characters, which helps explain why the placement felt less like a detached marketing trick and more like a new chapter in the song’s meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Kate Bush&#x27;s &quot;Running Up That Hill&quot; Hits No. 1 on UK Singles Chart</span><span class="citation-popover-snippet">Kate Bush&#x27;s &quot;Running Up That Hill&quot; Hits No. 1 on UK Singles Chart</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-1-dark.svg" | relative_url }}" alt="Sync illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_sync_licensing_song_fff395-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Music in film, games and ads
 
 Film, games and advertising all use sync, but they create different kinds of afterlife for songs.
 
-In film and television, a song often becomes fused with a scene. The final sequence of *Saltburn* did this for Sophie Ellis-Bextor’s “Murder on the Dancefloor”. The song was already a major early-2000s hit, but its placement in the film’s closing scene turned it into a fresh cultural reference point. Billboard reported that the song entered the US Hot 100 for the first time after the *Saltburn* resurgence, while contemporary coverage tracked its renewed movement through UK and global [charts]({{ 'charts/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">kate bush running up that hill stranger things spotify 1235079096</span><span class="citation-popover-snippet">kate bush running up that hill stranger things spotify 1235079096</span></span></span> The key point is not simply that a younger audience discovered the song. It is that the film gave the track a new dramatic frame: glamour, excess, discomfort and triumph all at once.
+In film and television, a song often becomes fused with a scene. The final sequence of *Saltburn* did this for Sophie Ellis-Bextor’s “Murder on the Dancefloor”. The song was already a major early-2000s hit, but its placement in the film’s closing scene turned it into a fresh cultural reference point. Billboard reported that the song entered the US Hot 100 for the first time after the *Saltburn* resurgence, while contemporary coverage tracked its renewed movement through UK and global [charts]({{ 'charts/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">kate bush running up that hill stranger things spotify 1235079096</span><span class="citation-popover-snippet">kate bush running up that hill stranger things spotify 1235079096</span></span></span> The key point is not simply that a younger audience discovered the song. It is that the film gave the track a new dramatic frame: glamour, excess, discomfort and triumph all at once.
 
-Advertising can revive a song by making it memorable in a repeated, compressed form. Nick Drake’s “Pink Moon” is one of the clearest examples. Drake was admired by critics and musicians but had limited commercial impact during his lifetime. After Volkswagen used “Pink Moon” in a 1999 Cabrio advert, the song became associated with a quiet nocturnal drive rather than conventional car-ad excitement. The *Los Angeles Times* reported that US sales of the *Pink Moon* album rose from about 6,000 copies in 1999 to 74,000 in 2000, according to Palm Pictures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2001 apr 11 ca 49418 story</span><span class="citation-popover-snippet">Los Angeles TimesFrom Obscurity to Hit in 1 TV Commercial11 Apr 2001 — Drake, who died in 1974 at the age of 26, got his big break when h...</span></span></span> The placement worked because the song’s stillness contradicted the usual automotive language of speed and shine; the advert did not make Drake sound more commercial, it made the commercial feel more intimate.
+Advertising can revive a song by making it memorable in a repeated, compressed form. Nick Drake’s “Pink Moon” is one of the clearest examples. Drake was admired by critics and musicians but had limited commercial impact during his lifetime. After Volkswagen used “Pink Moon” in a 1999 Cabrio advert, the song became associated with a quiet nocturnal drive rather than conventional car-ad excitement. The *Los Angeles Times* reported that US sales of the *Pink Moon* album rose from about 6,000 copies in 1999 to 74,000 in 2000, according to Palm Pictures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2001 apr 11 ca 49418 story</span><span class="citation-popover-snippet">Los Angeles TimesFrom Obscurity to Hit in 1 TV Commercial11 Apr 2001 — Drake, who died in 1974 at the age of 26, got his big break when h...</span></span></span> The placement worked because the song’s stillness contradicted the usual automotive language of speed and shine; the advert did not make Drake sound more commercial, it made the commercial feel more intimate.
 
-Games create a different form of revival because the listener may spend dozens of hours inside the placement environment. Radio stations in open-world games, rhythm games and sports titles can turn songs into part of a player’s routine. A track heard while driving through a virtual city may become linked to place, control and repetition in a way that film cannot match. This is why games are increasingly important to music discovery, but also why negotiations can be contentious. Reporting on the dispute between Heaven 17’s Martyn Ware and Rockstar over a proposed *Grand Theft Auto VI* placement described how game sync deals may involve both recording and [publishing]({{ 'publishing/' | relative_url }}) rights, defined usage terms, and, increasingly, one-time buyouts rather than ongoing royalties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">murder on the dancefloor gregg alexander saltburn obamas joni mitchell</span><span class="citation-popover-snippet">Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</span></span></span>
+Games create a different form of revival because the listener may spend dozens of hours inside the placement environment. Radio stations in open-world games, rhythm games and sports titles can turn songs into part of a player’s routine. A track heard while driving through a virtual city may become linked to place, control and repetition in a way that film cannot match. This is why games are increasingly important to music discovery, but also why negotiations can be contentious. Reporting on the dispute between Heaven 17’s Martyn Ware and Rockstar over a proposed *Grand Theft Auto VI* placement described how game sync deals may involve both recording and [publishing]({{ 'publishing/' | relative_url }}) rights, defined usage terms, and, increasingly, one-time buyouts rather than ongoing royalties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">murder on the dancefloor gregg alexander saltburn obamas joni mitchell</span><span class="citation-popover-snippet">Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</span></span></span>
 
 The common thread is context. The same recording can be a memory trigger in a series, a mood engine in an advert, or part of a world-building system in a game. Sync revives songs when that context gives listeners a reason to care again.
 
@@ -531,9 +531,9 @@ The common thread is context. The same recording can be a memory trigger in a se
 
 ## Licensing, rights and negotiation
 
-Sync looks glamorous when a song explodes on the charts, but the practical mechanism is a rights clearance process. In most commercial uses, there are two main permissions to secure. The composition rights cover the song as written: melody, lyrics and underlying musical work. The [master rights]({{ 'master-rights/' | relative_url }}) cover the particular recording being used. PRS for Music explains that composition and publishing rights are owned by writers, composers, arrangers or publishers, while master rights are owned by recording artists, musicians, producers or record companies; using an original recording usually means approaching the owners of both sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</span></span></span>
+Sync looks glamorous when a song explodes on the charts, but the practical mechanism is a rights clearance process. In most commercial uses, there are two main permissions to secure. The composition rights cover the song as written: melody, lyrics and underlying musical work. The [master rights]({{ 'master-rights/' | relative_url }}) cover the particular recording being used. PRS for Music explains that composition and publishing rights are owned by writers, composers, arrangers or publishers, while master rights are owned by recording artists, musicians, producers or record companies; using an original recording usually means approaching the owners of both sides.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</span></span></span>
 
-That split matters because a producer may love a song but fail to clear it. A composition can have several writers and publishers. A recording can have label, performer, producer or session-musician considerations. In the UK, the Musicians’ Union notes that new uses of commercial recordings, including sync for advertising, film and television, may require clearance for session musicians whose original consent covered commercial release but not every later audiovisual use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That split matters because a producer may love a song but fail to clear it. A composition can have several writers and publishers. A recording can have label, performer, producer or session-musician considerations. In the UK, the Musicians’ Union notes that new uses of commercial recordings, including sync for advertising, film and television, may require clearance for session musicians whose original consent covered commercial release but not every later audiovisual use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Negotiation usually turns on several variables:
 
@@ -544,7 +544,7 @@ Negotiation usually turns on several variables:
 * **Territory:** Is the placement local, national, multi-territory or worldwide?
 * **Media:** Does it cover cinema, broadcast television, streaming, social advertising, games, trailers, physical media and future formats?
 * **Exclusivity and prominence:** A famous song used as the emotional centre of a campaign costs more than a brief background cue.
-* **Clearance complexity:** “One-stop” music, where one party can clear both publishing and master rights, is attractive because it reduces delay and legal uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clearmusic.nl">[Clear Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clearmusic.nl</span><span class="citation-popover-title">music licensing 101</span><span class="citation-popover-snippet">music licensing 101</span></span></span>
+* **Clearance complexity:** “One-stop” music, where one party can clear both publishing and master rights, is attractive because it reduces delay and legal uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clearmusic.nl">[Clear Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clearmusic.nl</span><span class="citation-popover-title">music licensing 101</span><span class="citation-popover-snippet">music licensing 101</span></span></span>
 
 </div>
 
@@ -555,11 +555,11 @@ This is why sync fees vary so widely. A global advert for a famous recording is 
 
 Sync can be valuable because it pays differently from streaming. A placement may generate an upfront fee, and in some contexts it may also lead to performance royalties when the audiovisual work is broadcast or publicly communicated. It can also produce indirect value: more streams, downloads, catalogue sales, Shazam searches, playlisting, press coverage, touring interest and new licensing enquiries.
 
-At market level, however, sync is not the biggest part of recorded music revenue. IFPI’s Global Music Report 2026 said global recorded music revenue reached US$31.7 billion in 2025, while synchronisation revenue declined after four years of growth to US$641 million. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">Open source on ifpi.org.</span></span></span> That makes sync a small slice of the overall recorded music economy, but a disproportionately visible one because the best placements produce stories people remember.
+At market level, however, sync is not the biggest part of recorded music revenue. IFPI’s Global Music Report 2026 said global recorded music revenue reached US$31.7 billion in 2025, while synchronisation revenue declined after four years of growth to US$641 million.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">Open source on ifpi.org.</span></span></span> That makes sync a small slice of the overall recorded music economy, but a disproportionately visible one because the best placements produce stories people remember.
 
 For heritage artists and estates, sync can be especially powerful. It lets a catalogue song re-enter culture without requiring a new album cycle, tour, interview campaign or remix. For independent artists, it can provide a meaningful fee and validation, particularly when streaming income is fragmented. For labels and publishers, it is a way to activate catalogue assets that might otherwise sit quietly in databases.
 
-The risk is that “exposure” can be used to justify weak terms. The Heaven 17 and Rockstar dispute showed how artists may reject a placement if the fee, buyout structure or lack of future participation feels unfair relative to the scale of the project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">murder on the dancefloor gregg alexander saltburn obamas joni mitchell</span><span class="citation-popover-snippet">Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</span></span></span> A sync can revive a song culturally while still leaving open hard questions about who captures the value.
+The risk is that “exposure” can be used to justify weak terms. The Heaven 17 and Rockstar dispute showed how artists may reject a placement if the fee, buyout structure or lack of future participation feels unfair relative to the scale of the project.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">murder on the dancefloor gregg alexander saltburn obamas joni mitchell</span><span class="citation-popover-snippet">Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</span></span></span> A sync can revive a song culturally while still leaving open hard questions about who captures the value.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dWB-jTTkz7s" title="How to Get Started with Music Sync Licensing in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dWB-jTTkz7s" target="_blank" rel="noopener noreferrer">How to Get Started with Music Sync Licensing in 2025</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy &middot; Views: 19.0K &middot; Uploaded: December 2024 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dWB-jTTkz7s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dWB-jTTkz7s">Open on YouTube</a></p></div></div></div>
 
@@ -567,11 +567,11 @@ The risk is that “exposure” can be used to justify weak terms. The Heaven 17
 
 A song does not enter a screen placement as a blank object. It brings its existing associations: release era, genre, artist identity, lyrical themes, fan memories, previous uses and cultural baggage. But the screen can overwrite, intensify or complicate those associations.
 
-“Running Up That Hill” had long been interpreted as a song about empathy, exchange and impossible bargains. In *Stranger Things*, it became a literal lifeline: a song that helps a character resist annihilation. That did not erase the original song; it gave a new generation a story-shaped way into it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+“Running Up That Hill” had long been interpreted as a song about empathy, exchange and impossible bargains. In *Stranger Things*, it became a literal lifeline: a song that helps a character resist annihilation. That did not erase the original song; it gave a new generation a story-shaped way into it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-“Murder on the Dancefloor” had the brightness and snap of early-2000s disco-pop. In *Saltburn*, that same brightness becomes unsettling because of what the viewer has just watched. The placement works through contrast: the song’s pleasure is not removed, but it is reframed by arrogance, possession and release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">murder on the dancefloor gregg alexander saltburn obamas joni mitchell</span><span class="citation-popover-snippet">Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</span></span></span>
+“Murder on the Dancefloor” had the brightness and snap of early-2000s disco-pop. In *Saltburn*, that same brightness becomes unsettling because of what the viewer has just watched. The placement works through contrast: the song’s pleasure is not removed, but it is reframed by arrogance, possession and release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">murder on the dancefloor gregg alexander saltburn obamas joni mitchell</span><span class="citation-popover-snippet">Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</span></span></span>
 
-“Pink Moon” is the inverse. Volkswagen did not use Drake’s song for irony or shock. It used restraint. The quietness of the track made the car advert feel less like a sales pitch and more like a private memory. That shift helped listeners hear the song as intimate, cinematic and contemporary decades after its release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2001 apr 11 ca 49418 story</span><span class="citation-popover-snippet">Los Angeles TimesFrom Obscurity to Hit in 1 TV Commercial11 Apr 2001 — Drake, who died in 1974 at the age of 26, got his big break when h...</span></span></span>
+“Pink Moon” is the inverse. Volkswagen did not use Drake’s song for irony or shock. It used restraint. The quietness of the track made the car advert feel less like a sales pitch and more like a private memory. That shift helped listeners hear the song as intimate, cinematic and contemporary decades after its release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2001 apr 11 ca 49418 story</span><span class="citation-popover-snippet">Los Angeles TimesFrom Obscurity to Hit in 1 TV Commercial11 Apr 2001 — Drake, who died in 1974 at the age of 26, got his big break when h...</span></span></span>
 
 This is the core artistic power of sync: it can make a familiar song unfamiliar again. Sometimes the image clarifies what was already in the music. Sometimes it bends the song towards a new emotional use. Sometimes it creates tension because fans feel a beloved song has been commercialised or misread. The placement is never neutral; it is an interpretation.
 
@@ -580,9 +580,9 @@ This is the core artistic power of sync: it can make a familiar song unfamiliar 
 
 Not every good song is easy to place. Music supervisors and sync agents often need tracks that are emotionally clear, technically ready and legally clean. A brilliant song can lose out if nobody can identify the rights holders, if approval takes too long, if there are uncleared samples, or if the available version has [lyrics]({{ 'lyrics/' | relative_url }}) that clash with the scene.
 
-For artists and rightsholders, sync-readiness usually means more than uploading a track to a library. It means having accurate metadata, contact information, writer and publisher splits, instrumental mixes, clean edits, stems, broadcast-quality files and clarity over who can approve a deal. Industry explainers repeatedly stress that supervisors value music that is easy to search, easy to clear and easy to adapt to picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisseloord.org">[Wisseloord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisseloord.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For artists and rightsholders, sync-readiness usually means more than uploading a track to a library. It means having accurate metadata, contact information, writer and publisher splits, instrumental mixes, clean edits, stems, broadcast-quality files and clarity over who can approve a deal. Industry explainers repeatedly stress that supervisors value music that is easy to search, easy to clear and easy to adapt to picture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisseloord.org">[Wisseloord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisseloord.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-One-stop clearance is especially attractive for lower-budget productions and fast-moving advertising work. If a supervisor can clear both the composition and the master through one authorised party, the song becomes less risky than a comparable track with multiple unresolved owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clearmusic.nl">[Clear Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clearmusic.nl</span><span class="citation-popover-title">music licensing 101</span><span class="citation-popover-snippet">music licensing 101</span></span></span> This does not guarantee placement, but it can decide which song survives a deadline.
+One-stop clearance is especially attractive for lower-budget productions and fast-moving advertising work. If a supervisor can clear both the composition and the master through one authorised party, the song becomes less risky than a comparable track with multiple unresolved owners.<span class="citation-chip-wrap"><a class="citation-chip" href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clearmusic.nl">[Clear Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clearmusic.nl</span><span class="citation-popover-title">music licensing 101</span><span class="citation-popover-snippet">music licensing 101</span></span></span> This does not guarantee placement, but it can decide which song survives a deadline.
 
 For catalogue owners, the practical lesson is similar. A decades-old track may be culturally valuable, but if ownership is messy or materials are missing, it may be passed over. Sync revival often looks sudden from the outside, but it depends on groundwork: rights administration, searchable catalogues, relationships with supervisors, and the ability to say yes quickly without losing control of terms.
 
@@ -597,194 +597,194 @@ That is why older songs can outperform newly commissioned music in certain momen
 Sync licensing therefore sits at the intersection of art, memory and commerce. It gives creators another way to earn, gives supervisors a tool for storytelling, gives brands and games emotional texture, and gives listeners a reason to return to music they might never have found otherwise. Its power is not just that it places songs in front of audiences. It places songs inside moments.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Screen Placements Revive Songs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Screen Placements Revive Songs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Broad explanation of music, culture, technology and industry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad explanation of music, culture, technology and industry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Contains extensive coverage of licensing, publishing and sync deals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains extensive coverage of licensing, publishing and sync deals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)"><img src="https://i.ebayimg.com/images/g/kI4AAeSwaslqJv~i/s-l225.jpg" alt="Listing image for GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)"><img src="https://i.ebayimg.com/images/g/kI4AAeSwaslqJv~i/s-l225.jpg" alt="Listing image for GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">GORANSSON, Ludwig - The Mandalorian &amp; Grogu (Soundtrack) - Vinyl (10&quot;)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search<span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/PIYAAeSwpp1qGjTI/s-l225.jpg" alt="Listing image for Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/PIYAAeSwpp1qGjTI/s-l225.jpg" alt="Listing image for Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Toy Story: Songs to Infinity &amp; Beyond Zoetrope Picture Disc Vinyl 12&quot; Album</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search<span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/XNUAAeSwl6lqIpOL/s-l225.jpg" alt="Listing image for Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album"><img src="https://i.ebayimg.com/images/g/XNUAAeSwl6lqIpOL/s-l225.jpg" alt="Listing image for Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Star Wars: The Mandalorian and Grogu Soundtrack Vinyl 12&quot; Album</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search<span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP"><img src="https://i.ebayimg.com/images/g/t-wAAOSwfYJh7sx3/s-l225.jpg" alt="Listing image for Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search <span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP"><img src="https://i.ebayimg.com/images/g/t-wAAOSwfYJh7sx3/s-l225.jpg" alt="Listing image for Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">Captain Scarlet &amp; The Mysterons Original TV Soundtrack vinyl - Barry Gray DLP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for soundtrack vinyl">Search<span data-ebay-domain-label>eBay.co.uk</span>: soundtrack vinyl</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=soundtrack+vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-screen-placements-revive-songs-soundtrack-vinyl&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="soundtrack vinyl" data-ebay-reference="how-screen-placements-revive-songs-soundtrack-vinyl" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -800,7 +800,7 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -820,7 +820,7 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -852,7 +852,7 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -904,7 +904,7 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -949,7 +949,7 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -990,168 +990,168 @@ Sync licensing therefore sits at the intersection of art, memory and commerce. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</p></details>
+   Link:<a href="https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/sophie-ellis-bextor-hot-100-debut-murder-on-the-dancefloor-saltburn-1235578361/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sophie Ellis-Bextor Debuts on Hot 100 With &#x27;Murder on the...Beyond the Hot 100, “Murder on the Dancefloor” rises 7-4 for a new...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: billboard.com  
    Title: kate bush running up that hill stranger things spotify 1235079096  
-   Link: <a href="https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/</a>  
+   Link:<a href="https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-running-up-that-hill-stranger-things-spotify-1235079096/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wipo.int  
-   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
+   Link:<a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Kate Bush's "Running Up That Hill" Hits No. 1 on UK Singles Chart  
-   Link: <a href="https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart</a>  
+   Link:<a href="https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/kate-bush-running-up-that-hill-hits-no-1-on-uk-singles-chart</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ifpi.org  
    Title: GMR2026 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wisseloord.org  
-   Link: <a href="https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for" target="_blank" rel="noopener noreferrer nofollow">https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for</a>  
+   Link:<a href="https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for" target="_blank" rel="noopener noreferrer nofollow">https://wisseloord.org/uncategorized/what-skills-do-music-supervisors-actually-look-for</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</p></details>
+   Link:<a href="https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/commercial-music-sync-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCommercial Music Sync LicensingWe can act as agents working between our members and customers who need to use specific music...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</p></details>
+   Link:<a href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsRUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: latimes.com  
    Title: la xpm 2001 apr 11 ca 49418 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesFrom Obscurity to Hit in 1 TV Commercial11 Apr 2001 — Drake, who died in 1974 at the age of 26, got his big break when h...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2001-apr-11-ca-49418-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesFrom Obscurity to Hit in 1 TV Commercial11 Apr 2001 — Drake, who died in 1974 at the age of 26, got his big break when h...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: murder on the dancefloor gregg alexander saltburn obamas joni mitchell  
-   Link: <a href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/04/murder-on-the-dancefloor-gregg-alexander-saltburn-obamas-joni-mitchell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alexander attributes his decision to release &quot;You Get What You Give&quot; first, which also became a massive hit, propelling New Radicals to f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian Heaven 17 v Rockstar: are games being fair to music artists?  
-   Link: <a href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1990s, music licensing in games brought significant royalties, but most publishers now prefer one-time buyouts. Complex negotiatio...</p></details>
+   Link:<a href="https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/games/2024/sep/23/heaven-17-v-rockstar-are-games-being-fair-to-music-artists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1990s, music licensing in games brought significant royalties, but most publishers now prefer one-time buyouts. Complex negotiatio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/newuse</a>  
+   Link:<a href="https://musiciansunion.org.uk/newuse" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/newuse</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: clearmusic.nl  
    Title: music licensing 101  
-   Link: <a href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow">https://clearmusic.nl/music-licensing-101/</a>  
+   Link:<a href="https://clearmusic.nl/music-licensing-101/" target="_blank" rel="noopener noreferrer nofollow">https://clearmusic.nl/music-licensing-101/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: egofm.de  
    Title: murder on the dancefloor  
-   Link: <a href="https://www.egofm.de/musik/news/murder-on-the-dancefloor" target="_blank" rel="noopener noreferrer nofollow">https://www.egofm.de/musik/news/murder-on-the-dancefloor</a>  
+   Link:<a href="https://www.egofm.de/musik/news/murder-on-the-dancefloor" target="_blank" rel="noopener noreferrer nofollow">https://www.egofm.de/musik/news/murder-on-the-dancefloor</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Murder on the Dancefloor  
-   Link: <a href="https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Running Up That Hill  
-   Link: <a href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Running_Up_That_Hill</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Running_Up_That_Hill</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Sophie Ellis-Bextor  
-   Link: <a href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hAx6mYeC6pY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=hAx6mYeC6pY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hAx6mYeC6pY</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: that syncing feeling how stranger things supercharged the music industry  
-   Link: <a href="https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry</a>  
+   Link:<a href="https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jul/12/that-syncing-feeling-how-stranger-things-supercharged-the-music-industry</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: diymusician.cdbaby.com  
    Title: sync licensing  
-   Link: <a href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-career/sync-licensing/</a>  
+   Link:<a href="https://diymusician.cdbaby.com/music-career/sync-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://diymusician.cdbaby.com/music-career/sync-licensing/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: kworb.net  
    Title: Kate Bush  
-   Link: <a href="https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html</a>  
+   Link:<a href="https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/1aSxMhuvixZ8h9dK9jIDwL_songs.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: officialcharts.com  
    Title: sophie ellis bextor murder on the dancefloor  
-   Link: <a href="https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/</a>  
+   Link:<a href="https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/sophie-ellis-bextor-murder-on-the-dancefloor/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aristake.com  
    Title: sync agents  
-   Link: <a href="https://aristake.com/sync-agents/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/sync-agents/</a>  
+   Link:<a href="https://aristake.com/sync-agents/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/sync-agents/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hitparade.ch  
    Title: Sophie Ellis-Bextor  
-   Link: <a href="https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140" target="_blank" rel="noopener noreferrer nofollow">https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140</a>  
+   Link:<a href="https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140" target="_blank" rel="noopener noreferrer nofollow">https://hitparade.ch/song/Sophie-Ellis-Bextor/Murder-On-The-Dancefloor-5140</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials</a>  
+   Link:<a href="https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239781321_Attitude_toward_the_advertising_music_An_overlooked_potential_pitfall_in_commercials</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thatpitch.com  
-   Link: <a href="https://thatpitch.com/blog/sync-artist/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/sync-artist/</a>  
+   Link:<a href="https://thatpitch.com/blog/sync-artist/" target="_blank" rel="noopener noreferrer nofollow">https://thatpitch.com/blog/sync-artist/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide</a>  
+   Link:<a href="https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/497780727/AIM-Presents-The-Sync-Guide</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/473293957022577/posts/701471920871445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473293957022577/posts/701471920871445/</a>  
+   Link:<a href="https://www.facebook.com/groups/473293957022577/posts/701471920871445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473293957022577/posts/701471920871445/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/203560668055122/posts/1257396319338213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203560668055122/posts/1257396319338213/</a>  
+   Link:<a href="https://www.facebook.com/groups/203560668055122/posts/1257396319338213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203560668055122/posts/1257396319338213/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY5EDPkjn5G/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY5EDPkjn5G/</a>  
+   Link:<a href="https://www.instagram.com/p/DY5EDPkjn5G/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY5EDPkjn5G/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: syncsmith.com  
-   Link: <a href="https://www.syncsmith.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.syncsmith.com/faq</a>  
+   Link:<a href="https://www.syncsmith.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.syncsmith.com/faq</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/</a>  
+   Link:<a href="https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/katebushnews/posts/happy-new-year-kate-remains-at-24-in-the-first-global-daily-spotify-chart-of-202/1401066731412669/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: andrmusic.co  
-   Link: <a href="https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/</a>  
+   Link:<a href="https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/" target="_blank" rel="noopener noreferrer nofollow">https://andrmusic.co/behind-the-music/sync-licensing-songs-passive-income/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/</a>
+   Link:<a href="https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GrandTheftAutoV/comments/aus33l/how_does_rockstar_get_the_music_for_their_radios/</a>

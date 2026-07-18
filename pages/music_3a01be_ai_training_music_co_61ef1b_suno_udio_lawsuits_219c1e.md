@@ -274,43 +274,43 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuit
 
 ## Introduction
 
-The lawsuits against Suno and Udio transformed a long-running theoretical debate about [AI training]({{ 'ai-training/' | relative_url }}) into a concrete copyright battle over music recordings. Both companies offer systems that generate complete songs from text prompts. In June 2024, major record companies alleged that those systems were built by copying vast numbers of copyrighted sound recordings without permission. The companies did not merely challenge AI-generated outputs; they targeted the training process itself. That distinction matters because the cases ask a foundational question for generative music: can an AI developer lawfully make training copies of commercial recordings without obtaining licences from the owners of those recordings? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
+The lawsuits against Suno and Udio transformed a long-running theoretical debate about [AI training]({{ 'ai-training/' | relative_url }}) into a concrete copyright battle over music recordings. Both companies offer systems that generate complete songs from text prompts. In June 2024, major record companies alleged that those systems were built by copying vast numbers of copyrighted sound recordings without permission. The companies did not merely challenge AI-generated outputs; they targeted the training process itself. That distinction matters because the cases ask a foundational question for generative music: can an AI developer lawfully make training copies of commercial recordings without obtaining licences from the owners of those recordings?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1-dark.svg" | relative_url }}" alt="Suno and Udio illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The cases are widely viewed as a test of whether music training data will become a licensed market or remain largely governed by claims of [fair use]({{ 'fair-use/' | relative_url }}). Because Suno and Udio acknowledged training on copyrighted recordings while arguing that the practice is lawful, the dispute centres less on whether copying occurred and more on whether that copying is legally excused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</span></span></span>
+The cases are widely viewed as a test of whether music training data will become a licensed market or remain largely governed by claims of [fair use]({{ 'fair-use/' | relative_url }}). Because Suno and Udio acknowledged training on copyrighted recordings while arguing that the practice is lawful, the dispute centres less on whether copying occurred and more on whether that copying is legally excused.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</span></span></span>
 
 ## What the labels alleged
 
-The lawsuits were filed by companies affiliated with major record groups including Sony Music, Universal Music Group and Warner Records. The complaints accused Suno and Udio of “mass copyright infringement” through the unauthorised use of copyrighted sound recordings during model training. The labels sought substantial statutory damages and injunctions against further infringement. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</span></span></span> A notable feature of the complaints was their focus on recordings rather than abstract AI behaviour. The labels argued that training required reproducing protected works and that the resulting systems could compete with the music on which they were trained. According to the complaints, users were able to generate outputs resembling well-known songs and artist styles, which the labels cited as evidence that commercially valuable recordings had been absorbed into the systems. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</span></span></span> The lawsuits also highlighted specific recordings allegedly copied during training. Reuters reported that the complaints identified hundredsof copyrighted songs and sought damages that could reach up to US$150,000 per infringed work under US copyright law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
+The lawsuits were filed by companies affiliated with major record groups including Sony Music, Universal Music Group and Warner Records. The complaints accused Suno and Udio of “mass copyright infringement” through the unauthorised use of copyrighted sound recordings during model training. The labels sought substantial statutory damages and injunctions against further infringement. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</span></span></span> A notable feature of the complaints was their focus on recordings rather than abstract AI behaviour. The labels argued that training required reproducing protected works and that the resulting systems could compete with the music on which they were trained. According to the complaints, users were able to generate outputs resembling well-known songs and artist styles, which the labels cited as evidence that commercially valuable recordings had been absorbed into the systems. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</span></span></span> The lawsuits also highlighted specific recordings allegedly copied during training. Reuters reported that the complaints identified hundredsof copyrighted songs and sought damages that could reach up to US$150,000 per infringed work under US copyright law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
-What made the litigation unusual was that it targeted the hidden stage of AI development rather than the final generated songs. Traditional music copyright disputes often revolve around sampling, distribution or public performance. Here, the core allegation was that the act of building the model itself required unauthorised copies of protected recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
+What made the litigation unusual was that it targeted the hidden stage of AI development rather than the final generated songs. Traditional music copyright disputes often revolve around sampling, distribution or public performance. Here, the core allegation was that the act of building the model itself required unauthorised copies of protected recordings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Music labels sue AI companies Suno, Udio for US copyright infringement</span><span class="citation-popover-snippet">The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lPufLa1Lml4" title="SHOCKING Copyright AI Training Report l Lawyer Reacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lPufLa1Lml4" target="_blank" rel="noopener noreferrer">SHOCKING Copyright AI Training Report l Lawyer Reacts</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 35.5K &middot; Uploaded: May 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lPufLa1Lml4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lPufLa1Lml4">Open on YouTube</a></p></div></div></div>
 
 ## How fair use enters the dispute
 
-After the lawsuits were filed, both Suno and Udio responded with a defence that has become central across generative AI litigation: fair use. In court filings during 2024, the companies argued that training on copyrighted recordings was a transformative use because the systems learn patterns from music and then generate new works rather than distributing the originals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</span></span></span>
+After the lawsuits were filed, both Suno and Udio responded with a defence that has become central across generative AI litigation: fair use. In court filings during 2024, the companies argued that training on copyrighted recordings was a transformative use because the systems learn patterns from music and then generate new works rather than distributing the originals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</span></span></span>
 
-The significance of those filings went beyond the legal argument. Reports on the filings noted that both companies effectively acknowledged training on copyrighted recordings while contending that the practice was protected by fair use. That shifted the dispute away from factual questions about whether copyrighted music had been used and towards legal questions about whether such use is permissible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
+The significance of those filings went beyond the legal argument. Reports on the filings noted that both companies effectively acknowledged training on copyrighted recordings while contending that the practice was protected by fair use. That shifted the dispute away from factual questions about whether copyrighted music had been used and towards legal questions about whether such use is permissible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
 
 The competing positions can be summarised as follows:
 
-* **Suno and Udio's position:** training is analogous to learning from existing music and produces new expressive outputs rather than replacement copies. Therefore, the use is transformative and should qualify as fair use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
-* **The labels' position:** the systems required wholesale copying of protected recordings and are capable of competing in the same market as human-created music. Therefore, the copying should require permission and compensation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</span></span></span>
+* **Suno and Udio's position:** training is analogous to learning from existing music and produces new expressive outputs rather than replacement copies. Therefore, the use is transformative and should qualify as fair use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
+* **The labels' position:** the systems required wholesale copying of protected recordings and are capable of competing in the same market as human-created music. Therefore, the copying should require permission and compensation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</span></span></span>
 
-The fair-use dispute is especially important because music differs from many other AI training contexts. The value of a [recording]({{ 'recording/' | relative_url }}) often lies in its sound, performance and production choices. The labels argue that extracting those qualities without a licence is not comparable to ordinary human listening and learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
+The fair-use dispute is especially important because music differs from many other AI training contexts. The value of a [recording]({{ 'recording/' | relative_url }}) often lies in its sound, performance and production choices. The labels argue that extracting those qualities without a licence is not comparable to ordinary human listening and learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-2-dark.svg" | relative_url }}" alt="Suno and Udio illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the admissions became a turning point
 
-One reason the Suno and Udio cases attracted intense [attention]({{ 'attention/' | relative_url }}) is that they produced unusually direct statements about training practices. Before these lawsuits, many AI copyright disputes involved uncertainty about exactly what material had been used. The music cases became notable because the defendants did not simply deny training on copyrighted works. Instead, they largely argued that such training was lawful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
+One reason the Suno and Udio cases attracted intense [attention]({{ 'attention/' | relative_url }}) is that they produced unusually direct statements about training practices. Before these lawsuits, many AI copyright disputes involved uncertainty about exactly what material had been used. The music cases became notable because the defendants did not simply deny training on copyrighted works. Instead, they largely argued that such training was lawful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge AI music startups say copyright violation is just rock and roll</span><span class="citation-popover-snippet">The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</span></span></span>
 
 That distinction altered the debate. If training on copyrighted recordings occurred, then the legal focus shifts to questions such as:
 
 * Whether training copies are themselves infringing reproductions.
 * Whether the scale of copying affects the fair-use analysis.
 * Whether existing or emerging [licensing]({{ 'licensing/' | relative_url }}) markets should influence the outcome.
-* Whether AI-generated music competes with the same commercial market as the recordings used for training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
+* Whether AI-generated music competes with the same commercial market as the recordings used for training.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
 The lawsuits therefore became a vehicle for testing the boundaries of copyright law rather than a dispute over factual [access]({{ 'access/' | relative_url }}) to music catalogues.
 
@@ -320,210 +320,210 @@ The lawsuits therefore became a vehicle for testing the boundaries of copyright 
 
 The most important lesson from the Suno and Udio litigation is that training data has become the central copyright battleground for AI music.
 
-For years, public discussion often focused on outputs: whether an AI song sounded too similar to an existing track or imitated a famous artist. The lawsuits redirected attention to an earlier stage. The labels argued that the legally significant act occurred when recordings were copied into training pipelines, regardless of whether any later output reproduced a particular song. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
+For years, public discussion often focused on outputs: whether an AI song sounded too similar to an existing track or imitated a famous artist. The lawsuits redirected attention to an earlier stage. The labels argued that the legally significant act occurred when recordings were copied into training pipelines, regardless of whether any later output reproduced a particular song.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
-The cases also revealed how difficult it can be to separate AI development from access to large music catalogues. Later court filings and discovery disputes reportedly centred on the scale of recordings used for training and on identifying specific works within training datasets. Those fights underscored the practical importance of knowing what material enters a model and under what legal authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">As Suno and Udio admit training AI with unlicensed...5 Aug 2024 — Controversial AI music startups Suno and Udio were sued by the major r...</span></span></span>
+The cases also revealed how difficult it can be to separate AI development from access to large music catalogues. Later court filings and discovery disputes reportedly centred on the scale of recordings used for training and on identifying specific works within training datasets. Those fights underscored the practical importance of knowing what material enters a model and under what legal authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">As Suno and Udio admit training AI with unlicensed...5 Aug 2024 — Controversial AI music startups Suno and Udio were sued by the major r...</span></span></span>
 
-A broader implication is that the music industry increasingly views training data as a licensable asset. While the lawsuits began as infringement claims, subsequent industry developments included licensing discussions and settlements involving some parties, suggesting that commercial licensing may become one path forward even as core legal questions remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">Wall Street Journal Universal Music Settles With AI Firm Udio</span><span class="citation-popover-snippet">As part of the agreement, Udio will launch a licensed subscription-based music creation platform in 2026, allowing users to remix and cus...</span></span></span>
+A broader implication is that the music industry increasingly views training data as a licensable asset. While the lawsuits began as infringement claims, subsequent industry developments included licensing discussions and settlements involving some parties, suggesting that commercial licensing may become one path forward even as core legal questions remain unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">Wall Street Journal Universal Music Settles With AI Firm Udio</span><span class="citation-popover-snippet">As part of the agreement, Udio will launch a licensed subscription-based music creation platform in 2026, allowing users to remix and cus...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-3-dark.svg" | relative_url }}" alt="Suno and Udio illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why these lawsuits matter
 
 The Suno and Udio cases matter because they put a concrete legal question before the courts: does copyright law permit AI developers to copy commercial music recordings for training without permission?
 
-Unlike debates about artist style imitation, synthetic voices or AI-generated outputs, these lawsuits focus directly on the evidence trail of training copies. The cases therefore sit at the heart of the broader conflict between generative AI and music copyright. Their eventual outcomes are likely to influence not only AI music generators but also how courts evaluate training data practices across creative industries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
+Unlike debates about artist style imitation, synthetic voices or AI-generated outputs, these lawsuits focus directly on the evidence trail of training copies. The cases therefore sit at the heart of the broader conflict between generative AI and music copyright. Their eventual outcomes are likely to influence not only AI music generators but also how courts evaluate training data practices across creative industries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u9lnUyXsAIE" title="Suno AI Lawsuit Just Settled - What Does It Means for Music Licensing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer">Suno AI Lawsuit Just Settled - What Does It Means for Music Licensing?</a></p><p class="youtube-embed-meta">Channel: YoPaulie Music | Tech • Truth • Commentary &middot; Views: 63.7K &middot; Uploaded: November 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u9lnUyXsAIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u9lnUyXsAIE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Suno and Udio lawsuits matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Suno and Udio lawsuits matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remix on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5727404-M.jpg" alt="Cover for Remix" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remix">Remix</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remix on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5727404-M.jpg" alt="Cover for Remix" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remix">Remix</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides foundational thinking around copying, creativity, fair use and digital-era copyright debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational thinking around copying, creativity, fair use and digital-era copyright debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Steve Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
+</h4>
+<p class="fr-book-author">By Steve Gordon</p>
         
-        <p class="fr-book-desc">Explains music copyright, licensing, rights ownership and industry legal disputes central to AI training cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains music copyright, licensing, rights ownership and industry legal disputes central to AI training cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Gives readers practical context on rights, licensing and the economics behind industry lawsuits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers practical context on rights, licensing and the economics behind industry lawsuits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+copyright+book+William+S.+Strong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The copyright book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1154191-M.jpg" alt="Cover for The copyright book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+copyright+book+William+S.+Strong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The copyright book">The copyright book</a>
-        </h4>
-        <p class="fr-book-author">By William S. Strong</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+copyright+book+William+S.+Strong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The copyright book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1154191-M.jpg" alt="Cover for The copyright book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+copyright+book+William+S.+Strong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The copyright book">The copyright book</a>
+</h4>
+<p class="fr-book-author">By William S. Strong</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: Copyright, United States, Copyright, united states, Droit d&#x27;auteur, LAW.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+copyright+book+William+S.+Strong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: Copyright, United States, Copyright, united states, Droit d&#x27;auteur, LAW.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+copyright+book+William+S.+Strong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remix</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remix</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 CAT WOMAN AI MUSIC FILM ART RETRO POSTER CULTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/cf8946c7b0c4e803f1f4.jpg' | relative_url }}" alt="Listing image for A4 CAT WOMAN AI MUSIC FILM ART RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 CAT WOMAN AI MUSIC FILM ART RETRO POSTER CULTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 CAT WOMAN AI MUSIC FILM ART RETRO POSTER CULTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/cf8946c7b0c4e803f1f4.jpg' | relative_url }}" alt="Listing image for A4 CAT WOMAN AI MUSIC FILM ART RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 CAT WOMAN AI MUSIC FILM ART RETRO POSTER CULTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 CAT WOMAN AI BATMAN YELLOW MUSIC FILM ART RETRO POSTER CULTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/9f3fa9bc7ac2ccc45ad4.jpg' | relative_url }}" alt="Listing image for A4 CAT WOMAN AI BATMAN YELLOW MUSIC FILM ART RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 CAT WOMAN AI BATMAN YELLOW MUSIC FILM ART RETRO POSTER CULTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 CAT WOMAN AI BATMAN YELLOW MUSIC FILM ART RETRO POSTER CULTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/9f3fa9bc7ac2ccc45ad4.jpg' | relative_url }}" alt="Listing image for A4 CAT WOMAN AI BATMAN YELLOW MUSIC FILM ART RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 CAT WOMAN AI BATMAN YELLOW MUSIC FILM ART RETRO POSTER CULTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 58493 NBA AI Youngboy Music Cover Money Wall Decor Print Poster"><img src="{{ '/assets/images/marketplace-covers/b30b06e95974a32eb524.jpg' | relative_url }}" alt="Listing image for 58493 NBA AI Youngboy Music Cover Money Wall Decor Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">58493 NBA AI Youngboy Music Cover Money Wall Decor Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 58493 NBA AI Youngboy Music Cover Money Wall Decor Print Poster"><img src="{{ '/assets/images/marketplace-covers/b30b06e95974a32eb524.jpg' | relative_url }}" alt="Listing image for 58493 NBA AI Youngboy Music Cover Money Wall Decor Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">58493 NBA AI Youngboy Music Cover Money Wall Decor Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 AI IRON MAN ULTRA ART MUSIC FILM RETRO POSTER CULTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/ba365e303cead2110d81.jpg' | relative_url }}" alt="Listing image for A4 AI IRON MAN ULTRA ART MUSIC FILM RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 AI IRON MAN ULTRA ART MUSIC FILM RETRO POSTER CULTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 AI IRON MAN ULTRA ART MUSIC FILM RETRO POSTER CULTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/ba365e303cead2110d81.jpg' | relative_url }}" alt="Listing image for A4 AI IRON MAN ULTRA ART MUSIC FILM RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 AI IRON MAN ULTRA ART MUSIC FILM RETRO POSTER CULTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: AI music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI music poster -book -books" data-ebay-reference="suno-and-udio-why-the-suno-and-udio-lawsuits-matter-music-ai-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ Unlike debates about artist style imitation, synthetic voices or AI-generated ou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ Unlike debates about artist style imitation, synthetic voices or AI-generated ou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ Unlike debates about artist style imitation, synthetic voices or AI-generated ou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ Unlike debates about artist style imitation, synthetic voices or AI-generated ou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ Unlike debates about artist style imitation, synthetic voices or AI-generated ou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,151 +729,151 @@ Unlike debates about artist style imitation, synthetic voices or AI-generated ou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: Music labels sue AI companies Suno, Udio for US copyright infringement  
-   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</p></details>
+   Link:<a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The labels claim that the AI companies used their music recordings without permission to train music-generating AI systems, which compete...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</p></details>
+   Link:<a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Companies Bring Landmark Cases for...24 Jun 2024 — Unlicensed services like Suno and Udio that claim it&#x27;s &#x27;fair&#x27; to copy an a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/music-ai-startups-suno-udio-slam-record-label-lawsuits-court-filings-2024-08-01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits accuse the startups of using copyrighted sound recordings to train their AI music-generation systems without permission. Sun...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techcrunch.com  
-   Link: <a href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</p></details>
+   Link:<a href="https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI music startup Suno claims training model on copyrighted...1 Aug 2024 — Suno admitted in a court filing on Thursday that it...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</p></details>
+   Link:<a href="https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/music-industry-groups-sue-ai-companies-for-stealing-artists-work-to-generate-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The plaintiffs, including Sony Music Entertainment, UMG Recordings, and Warner Records, claim that the AI companies are saturating the ma...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/gold-platinum/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Gold &amp; PlatinumRIAA&#x27;s historic Gold® &amp; Platinum® Program defines success in the recorded music industry. Originally conceived to hon...</p></details>
+   Link:<a href="https://www.riaa.com/gold-platinum/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/gold-platinum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA Gold &amp; PlatinumRIAA&#x27;s historic Gold® &amp; Platinum® Program defines success in the recorded music industry. Originally conceived to hon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: riaa.com  
    Title: Udio Complaint 6.24.241  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Udio-Complaint-6.24.241.pdf24 Jun 2024 — Defendants John Does 1-10 are unknown parties who directly copied Plaintiffs&#x27; federally copyrigh...</p></details>
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Udio-Complaint-6.24.241.pdf24 Jun 2024 — Defendants John Does 1-10 are unknown parties who directly copied Plaintiffs&#x27; federally copyrigh...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: suno.com  
-   Link: <a href="https://suno.com/" target="_blank" rel="noopener noreferrer nofollow">https://suno.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music GeneratorCreate stunning original music for free in seconds using our AI generator. Make your own masterpieces, share wit...</p></details>
+   Link:<a href="https://suno.com/" target="_blank" rel="noopener noreferrer nofollow">https://suno.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Music GeneratorCreate stunning original music for free in seconds using our AI generator. Make your own masterpieces, share wit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</p></details>
+   Link:<a href="https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/copyright-law-2025-courts-begin-draw-lines-around-ai-training-piracy-market-harm--pracin-2026-03-16/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright Law in 2025: Courts begin to draw lines around...16 Mar 2026 — Both Suno and Udio have also moved to dismiss DMCA claims, argu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theverge.com  
    Title: The Verge AI music startups say copyright violation is just rock and roll  
-   Link: <a href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</p></details>
+   Link:<a href="https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuits claim that Suno and Udio unlawfully used copyrighted sound recordings to train their music-generating AI models. The RIAA se...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As Suno and Udio admit training AI with unlicensed...5 Aug 2024 — Controversial AI music startups Suno and Udio were sued by the major r...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-suno-and-udio-admit-training-ai-with-unlicensed-music-record-industry-says-theres-nothing-fair-about-stealing-an-artists-lifes-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As Suno and Udio admit training AI with unlicensed...5 Aug 2024 — Controversial AI music startups Suno and Udio were sued by the major r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno argues none of the millions of tracks made on its...26 Aug 2025 — In August 2024, both Suno and Udio argued that their use of copyr...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-argues-none-of-the-millions-of-tracks-made-on-its-platform-contain-anything-like-a-sample/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suno argues none of the millions of tracks made on its...26 Aug 2025 — In August 2024, both Suno and Udio argued that their use of copyr...</p></details>
    Published: August 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideUMG and Sony seek to add over 61k recordings to Suno...3 days ago — UMG and Sony seek to add over 61k recordings...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/umg-and-sony-seek-to-add-61000-copyrighted-works-to-suno-lawsuit-after-discovery-reveals-suno-trained-on-millions-of-their-recordings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideUMG and Sony seek to add over 61k recordings to Suno...3 days ago — UMG and Sony seek to add over 61k recordings...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno moves to keep size of its AI training data sealed in...2 days ago — The filing makes clear that Suno is not attempting to seal the...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suno moves to keep size of its AI training data sealed in...2 days ago — The filing makes clear that Suno is not attempting to seal the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wsj.com  
    Title: Wall Street Journal Universal Music Settles With AI Firm Udio  
-   Link: <a href="https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As part of the agreement, Udio will launch a licensed subscription-based music creation platform in 2026, allowing users to remix and cus...</p></details>
+   Link:<a href="https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As part of the agreement, Udio will launch a licensed subscription-based music creation platform in 2026, allowing users to remix and cus...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Udio admits to scraping YouTube audio for AI training in...6 days ago — In August 2024, Udio and Suno pretty much admitted that they use...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Udio admits to scraping YouTube audio for AI training in...6 days ago — In August 2024, Udio and Suno pretty much admitted that they use...</p></details>
    Published: August 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: musicbusinessworldwide.com  
    Title: SUNO response to copyright suit  
-   Link: <a href="https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case 1:24-cv-11611-FDS Document 28 Filed 08/01/...by AOFD SUNO — The only act that Plaintiffs contend was unlawful is Suno&#x27;s allegedly h...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/files/2024/08/SUNO-response-to-copyright-suit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case 1:24-cv-11611-FDS Document 28 Filed 08/01/...by AOFD SUNO — The only act that Plaintiffs contend was unlawful is Suno&#x27;s allegedly h...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Udio" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Udio</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UdioUdio is a generative artificial intelligence model that produces music based on simple text prompts. It can generate vocals and in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Udio" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Udio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UdioUdio is a generative artificial intelligence model that produces music based on simple text prompts. It can generate vocals and in...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA targeting Suno and music creatorsThe RIAA will not stop at destroying just Udio, Suno is the one that they really want, and they wil...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1118818620292019/posts/1223937603113453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RIAA targeting Suno and music creatorsThe RIAA will not stop at destroying just Udio, Suno is the one that they really want, and they wil...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV1bH9SEfes/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1bH9SEfes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Setting the record straight on &quot;Fair Use&quot; and &quot;A.I. training...RIAA SUES SUNO AND UDIO for allegedly training AI models using copyrighte...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DV1bH9SEfes/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1bH9SEfes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Setting the record straight on &quot;Fair Use&quot; and &quot;A.I. training...RIAA SUES SUNO AND UDIO for allegedly training AI models using copyrighte...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theplayground.co.uk  
-   Link: <a href="https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/" target="_blank" rel="noopener noreferrer nofollow">https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno Announces Updates Amid Ongoing Legal BattlesBoth Suno and rival Udio have acknowledged training their AI on copyrighted music, maint...</p></details>
+   Link:<a href="https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/" target="_blank" rel="noopener noreferrer nofollow">https://theplayground.co.uk/suno-announces-updates-amid-ongoing-legal-battles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suno Announces Updates Amid Ongoing Legal BattlesBoth Suno and rival Udio have acknowledged training their AI on copyrighted music, maint...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: completemusicupdate.com  
-   Link: <a href="https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno doesn&#x27;t understand copyright law and is wrong about...22 Oct 2025 — Not only is Suno wrong to claim that AI training is fair use un...</p></details>
+   Link:<a href="https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/suno-doesnt-understand-copyright-law-and-is-wrong-about-stream-ripping-rules-say-major-labels/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suno doesn&#x27;t understand copyright law and is wrong about...22 Oct 2025 — Not only is Suno wrong to claim that AI training is fair use un...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/</a>  
+   Link:<a href="https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: musiccreator.ai  
-   Link: <a href="https://www.musiccreator.ai/udio" target="_blank" rel="noopener noreferrer nofollow">https://www.musiccreator.ai/udio</a>  
+   Link:<a href="https://www.musiccreator.ai/udio" target="_blank" rel="noopener noreferrer nofollow">https://www.musiccreator.ai/udio</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: completemusicupdate.com  
-   Link: <a href="https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First major ruling on AI and fair use goes against the copyright...25 Jun 2025 — A judge has ruled in a legal battle between a group of...</p></details>
+   Link:<a href="https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/first-major-ruling-on-ai-and-fair-use-goes-against-the-copyright-industries-though-with-a-silver-lining-relating-to-pirated-training-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First major ruling on AI and fair use goes against the copyright...25 Jun 2025 — A judge has ruled in a legal battle between a group of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: transparencycoalition.ai  
    Title: ai music startup suno admits to using copyrighted music but says its fair use  
-   Link: <a href="https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use" target="_blank" rel="noopener noreferrer nofollow">https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music startup Suno admits to using copyrighted...7 Aug 2025 — AI music startup Suno has admitted that its AI model is trained on copy...</p></details>
+   Link:<a href="https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use" target="_blank" rel="noopener noreferrer nofollow">https://www.transparencycoalition.ai/news/ai-music-startup-suno-admits-to-using-copyrighted-music-but-says-its-fair-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI music startup Suno admits to using copyrighted...7 Aug 2025 — AI music startup Suno has admitted that its AI model is trained on copy...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: completemusicupdate.com  
    Title: suno says indie musicians copyright claims about its ais output are bogus  
-   Link: <a href="https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suno says indie musician&#x27;s copyright claims about its AI&#x27;s...20 Aug 2025 — In June, independent artist Anthony Justice sued AI company S...</p></details>
+   Link:<a href="https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/suno-says-indie-musicians-copyright-claims-about-its-ais-output-are-bogus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suno says indie musician&#x27;s copyright claims about its AI&#x27;s...20 Aug 2025 — In June, independent artist Anthony Justice sued AI company S...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lPufLa1Lml4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lPufLa1Lml4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING Copyright AI Training Report l Lawyer ReactsAI Training on Copyrighted Data Is in Trouble... Massive Suno v5.5 UPDATE — The Cop...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lPufLa1Lml4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lPufLa1Lml4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING Copyright AI Training Report l Lawyer ReactsAI Training on Copyrighted Data Is in Trouble... Massive Suno v5.5 UPDATE — The Cop...</p></details>

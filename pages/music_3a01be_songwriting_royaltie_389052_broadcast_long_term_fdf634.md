@@ -268,20 +268,20 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_te
 
 ## Introduction
 
-A song does not need to be a chart hit to become a long-term source of songwriting income. In many cases, the most durable royalty streams come from broadcast use. When a composition is repeatedly used as a television theme, radio signature tune, sports intro, news ident, programme cue or recurring [background]({{ 'background/' | relative_url }}) track, each broadcast can generate performance [royalties]({{ 'royalties/' | relative_url }}) for the songwriters and publishers who own the composition. Over years or even decades, thousands of broadcasts can accumulate into a significant income stream. Performing rights organisations such as PRS for Music, ASCAP and BMI license broadcasters and distribute royalties when music is transmitted on television, radio and related media services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> ASCAP Broadcast media has therefore played a distinctive role in music publishing history. While recordings often rise and fall with public taste <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, a theme song attached to a successful programme can remain in circulation for generations, creating an unusually long commercial life for the underlying composition.
+A song does not need to be a chart hit to become a long-term source of songwriting income. In many cases, the most durable royalty streams come from broadcast use. When a composition is repeatedly used as a television theme, radio signature tune, sports intro, news ident, programme cue or recurring [background]({{ 'background/' | relative_url }}) track, each broadcast can generate performance [royalties]({{ 'royalties/' | relative_url }}) for the songwriters and publishers who own the composition. Over years or even decades, thousands of broadcasts can accumulate into a significant income stream. Performing rights organisations such as PRS for Music, ASCAP and BMI license broadcasters and distribute royalties when music is transmitted on television, radio and related media services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> ASCAP Broadcast media has therefore played a distinctive role in music publishing history. While recordings often rise and fall with public taste<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, a theme song attached to a successful programme can remain in circulation for generations, creating an unusually long commercial life for the underlying composition.
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-dark.svg" | relative_url }}" alt="Broadcast Income illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Repeated Broadcasts Matter More Than a Single Hit
 
 A broadcast theme is valuable because it is designed to be heard repeatedly. Unlike a song that receives a brief burst of radio [attention]({{ 'attention/' | relative_url }}) around its release, a television or radio theme may be transmitted every time a programme airs. If a series runs for years, enters syndication, is sold internationally, or is repeated on archive channels, the composition can continue generating performance income long after its original creation.
 
-This helps explain why composers have historically viewed broadcast placements as especially attractive. A theme attached to a nightly news programme, a long-running soap opera, a sports broadcast or a popular entertainment series may receive thousands of performances across many years. Each performance represents a potentially licensable use of the composition. Performing [rights]({{ 'rights/' | relative_url }}) organisations collect licence fees from broadcasters and distribute royalties based on reported usage and distribution rules. ASCAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://cyber.harvard.edu/is02/readings/ascap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyber.harvard.edu">[Berkman Klein Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyber.harvard.edu</span><span class="citation-popover-snippet">Berkman Klein CenterASCAP is a membership association of more than 120000 UASCAP receives payment for public performances of songs and co...</span></span></span>
+This helps explain why composers have historically viewed broadcast placements as especially attractive. A theme attached to a nightly news programme, a long-running soap opera, a sports broadcast or a popular entertainment series may receive thousands of performances across many years. Each performance represents a potentially licensable use of the composition. Performing [rights]({{ 'rights/' | relative_url }}) organisations collect licence fees from broadcasters and distribute royalties based on reported usage and distribution rules. ASCAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://cyber.harvard.edu/is02/readings/ascap.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyber.harvard.edu">[Berkman Klein Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyber.harvard.edu</span><span class="citation-popover-snippet">Berkman Klein CenterASCAP is a membership association of more than 120000 UASCAP receives payment for public performances of songs and co...</span></span></span>
 
 The result is a different economic pattern from most commercial recordings. A successful single may generate large income quickly. A broadcast theme often generates smaller payments per use but benefits from extraordinary longevity.
 
 ## Radio and Television Royalty Triggers
 
-Broadcast royalties arise because television and radio transmissions are public performances of copyrighted musical works. Broadcasters obtain licences from performing rights organisations, which then distribute income to writers and publishers whose music has been used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+Broadcast royalties arise because television and radio transmissions are public performances of copyrighted musical works. Broadcasters obtain licences from performing rights organisations, which then distribute income to writers and publishers whose music has been used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
 Several common broadcast situations can trigger royalties:
 
@@ -310,7 +310,7 @@ When audiences hear the opening notes of a familiar news bulletin, quiz show or 
 
 Recurring cues create a similar effect on a smaller scale. A composer may write short musical elements that appear repeatedly throughout a programme. Individually these cues may be brief, but collectively they can generate substantial numbers of performances over a long period.
 
-Production music libraries have built entire business models around this principle. Library tracks are licensed into documentaries, reality television, sports coverage and factual programming. A cue that becomes a regular editorial tool for broadcasters can continue generating royalty income whenever it is logged and broadcast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span>
+Production music libraries have built entire business models around this principle. Library tracks are licensed into documentaries, reality television, sports coverage and factual programming. A cue that becomes a regular editorial tool for broadcasters can continue generating royalty income whenever it is logged and broadcast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span>
 
 This long-tail effect is one reason [catalogue]({{ 'catalogue/' | relative_url }}) ownership has become so valuable within music [publishing]({{ 'publishing/' | relative_url }}). The future earnings potential of recurring broadcast use can persist long after the original commission fee has been paid.
 
@@ -319,9 +319,9 @@ This long-tail effect is one reason [catalogue]({{ 'catalogue/' | relative_url }
 
 The ability to earn from broadcast use depends heavily on accurate reporting. Royalties cannot be distributed correctly unless collecting societies know what music was used and when.
 
-In television, cue sheets are a central tool. A cue sheet records details about the music used within a programme, including titles, writers, publishers, timing information and usage classifications. Broadcasters and production companies submit these records so performing rights organisations can match broadcasts to the correct rights holders. PRS for Music describes cue sheets as the mechanism through which music used in television programmes and films is identified for royalty distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+In television, cue sheets are a central tool. A cue sheet records details about the music used within a programme, including titles, writers, publishers, timing information and usage classifications. Broadcasters and production companies submit these records so performing rights organisations can match broadcasts to the correct rights holders. PRS for Music describes cue sheets as the mechanism through which music used in television programmes and films is identified for royalty distribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
-Without reliable cue-sheet data, payments may be delayed, misallocated or missed altogether. Industry guidance repeatedly emphasises that cue sheets are essential because they allow collecting societies to identify the correct creators and publishers for broadcast uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span> ASCAP Radio operates through a mixture of reporting systems <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, including direct logs, monitored broadcasts, representative sampling and pay-per-play methodologies, depending on the territory and broadcaster involved. PRS for Music notes that radio royalty calculations rely on multiple tracking methods to determine what has been played and how payments should be allocated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+Without reliable cue-sheet data, payments may be delayed, misallocated or missed altogether. Industry guidance repeatedly emphasises that cue sheets are essential because they allow collecting societies to identify the correct creators and publishers for broadcast uses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orfium.com">[ORFIUM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orfium.com</span><span class="citation-popover-snippet">Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</span></span></span> ASCAP Radio operates through a mixture of reporting systems<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ascap.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</span></span></span>, including direct logs, monitored broadcasts, representative sampling and pay-per-play methodologies, depending on the territory and broadcaster involved. PRS for Music notes that radio royalty calculations rely on multiple tracking methods to determine what has been played and how payments should be allocated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer">Link</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer">Link</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mByKhL8uwXg">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +329,7 @@ Without reliable cue-sheet data, payments may be delayed, misallocated or missed
 
 One of the most distinctive features of broadcast royalty income is its ability to survive beyond the initial life of a programme.
 
-A television series may be repeated domestically, exported to foreign markets, carried on specialist channels, released through archive services or incorporated into new distribution platforms. Whenever those uses remain within licensed broadcast frameworks, the music can continue generating performance income. Collecting societies maintain international representation agreements specifically so royalties can flow back to writers and publishers when works are used abroad. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+A television series may be repeated domestically, exported to foreign markets, carried on specialist channels, released through archive services or incorporated into new distribution platforms. Whenever those uses remain within licensed broadcast frameworks, the music can continue generating performance income. Collecting societies maintain international representation agreements specifically so royalties can flow back to writers and publishers when works are used abroad.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
 This means a composer's financial relationship with a programme often extends well beyond the production period. In some cases, the most valuable years of royalty income occur after a show has already established a long afterlife through reruns and international distribution.
 
@@ -338,201 +338,201 @@ The underlying composition effectively becomes a reusable intellectual property 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-dark.svg" | relative_url }}" alt="Broadcast Income illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Broadcast Themes Remain Important in Publishing
 
-The broadcast landscape has changed dramatically since the peak era of network television and national radio dominance, yet broadcast use remains a significant part of songwriting income. Major collecting societies continue [licensing]({{ 'licensing/' | relative_url }}) television and radio broadcasters and distributing royalties derived from those uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+The broadcast landscape has changed dramatically since the peak era of network television and national radio dominance, yet broadcast use remains a significant part of songwriting income. Major collecting societies continue [licensing]({{ 'licensing/' | relative_url }}) television and radio broadcasters and distributing royalties derived from those uses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
 For songwriters and composers, broadcast themes illustrate one of the central ideas of music publishing: a composition can have a commercial life that extends far beyond its original [recording]({{ 'recording/' | relative_url }}). A memorable theme or regularly used cue may become embedded in a programme, repeated for years, documented through usage logs and paid through royalty systems that were designed precisely to reward ongoing public performance.
 
-That combination of repetition, documentation and long-term reuse is why broadcast music has historically produced some of the most enduring royalty streams in the songwriting business. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
+That combination of repetition, documentation and long-term reuse is why broadcast music has historically produced some of the most enduring royalty streams in the songwriting business.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Broadcast Use Can Last for Decades. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Broadcast Use Can Last for Decades. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains broadcast royalties and recurring music uses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains broadcast royalties and recurring music uses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Business of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YYwYAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Business of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Business of Music">This Business of Music</a>
-        </h4>
-        <p class="fr-book-author">By M. William Krasilovsky, Sidney Shemel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Business of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YYwYAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Business of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Business of Music">This Business of Music</a>
+</h4>
+<p class="fr-book-author">By M. William Krasilovsky, Sidney Shemel</p>
         
-        <p class="fr-book-desc">Useful for understanding broadcast exploitation and licensing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding broadcast exploitation and licensing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
-        </h4>
-        <p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
+</h4>
+<p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
         
-        <p class="fr-book-desc">Provides context for radio and television royalty systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for radio and television royalty systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Business+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Business of Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Business+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Business of Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b65bff00ad5a6c6e16b1.jpg' | relative_url }}" alt="Listing image for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor"><img src="{{ '/assets/images/marketplace-covers/b65bff00ad5a6c6e16b1.jpg' | relative_url }}" alt="Listing image for LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">LED Recording Studio Sign USB Acrylic Orange Light Studio Wall Desk Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/3c8e70269a0f6d435d6c.jpg' | relative_url }}" alt="Listing image for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/3c8e70269a0f6d435d6c.jpg' | relative_url }}" alt="Listing image for Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">Quiet Recording Studio Sign Indoor/Outdoor Wall Art Gift Room Decor Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/86c5f6bdf13f08f4a38f.jpg' | relative_url }}" alt="Listing image for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">[NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor"><img src="{{ '/assets/images/marketplace-covers/86c5f6bdf13f08f4a38f.jpg' | relative_url }}" alt="Listing image for [NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">[NO EXTRA CUSTOMS TAX] Recording Studio LED Neon Light Sign Mic Music Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign"><img src="{{ '/assets/images/marketplace-covers/86ef54b4c2b925940340.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign"><img src="{{ '/assets/images/marketplace-covers/86ef54b4c2b925940340.jpg' | relative_url }}" alt="Listing image for RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">RGB Multicolour Recording Studio Microphone On Air LED Neon Sign room decor Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio decor" data-ebay-reference="broadcast-income-why-broadcast-use-can-last-for-decades-music-recording-studio-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ That combination of repetition, documentation and long-term reuse is why broadca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ That combination of repetition, documentation and long-term reuse is why broadca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ That combination of repetition, documentation and long-term reuse is why broadca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ That combination of repetition, documentation and long-term reuse is why broadca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ That combination of repetition, documentation and long-term reuse is why broadca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,154 +738,154 @@ That combination of repetition, documentation and long-term reuse is why broadca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</p></details>
+   Link:<a href="https://www.ascap.com/help/ascap-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/ascap-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Music Licensing FAQsASCAP licenses the public performances of its members&#x27; musical works. A public performance is one that occ...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: orfium.com  
-   Link: <a href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</p></details>
+   Link:<a href="https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://www.orfium.com/cue-sheets/cue-sheets-guide-tv-film-music-licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Top 20 Cue Sheet Questions Answered By ExpertsCue sheets are not just paperwork; they are the mechanism that ensures performin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment/payment/identifying" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/identifying</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>am, including the writers and publishers, their respective royalty...Read more...</p></details>
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment/payment/identifying" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment/payment/identifying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>am, including the writers and publishers, their respective royalty...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). If y...</p></details>
+   Link:<a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help CenterWhen ASCAP distributes royalties for a performance of your music, 50% goes to the writer(s), and 50% to the publisher(s). If y...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentRemember, ASCAP can only pay you royalties if your music appears in our performance surveys. So play your songs live...</p></details>
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentRemember, ASCAP can only pay you royalties if your music appears in our performance surveys. So play your songs live...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
+   Link:<a href="https://www.bmi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMI.comBMI, the world&#x27;s leading performing rights organization, advocates for the value of music, representing over 25 million work...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bmi.com  
    Title: U.S. Television Royalties  
-   Link: <a href="https://www.bmi.com/creators/royalty/us_television_royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/royalty/us_television_royalties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Each year, BMI receives royalties from the U.S. Copyright Office for music performed on distant-signal broadcast television stations c...</p></details>
+   Link:<a href="https://www.bmi.com/creators/royalty/us_television_royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/royalty/us_television_royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each year, BMI receives royalties from the U.S. Copyright Office for music performed on distant-signal broadcast television stations c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/creators/detail/what_is_a_cue_sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/detail/what_is_a_cue_sheet</a>  
+   Link:<a href="https://www.bmi.com/creators/detail/what_is_a_cue_sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/detail/what_is_a_cue_sheet</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/tv-royalties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/tv-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/tv-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicTV royaltiesWe pay royalties for the use of our members&#x27; music on TV through licensing agreements with broadcasters, includi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music: royalties, music copyright and licensingWe license the use of our members&#x27; music by businesses, online, in br...</p></details>
+   Link:<a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music: royalties, music copyright and licensingWe license the use of our members&#x27; music by businesses, online, in br...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cyber.harvard.edu  
-   Link: <a href="https://cyber.harvard.edu/is02/readings/ascap.html" target="_blank" rel="noopener noreferrer nofollow">https://cyber.harvard.edu/is02/readings/ascap.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkman Klein CenterASCAP is a membership association of more than 120000 UASCAP receives payment for public performances of songs and co...</p></details>
+   Link:<a href="https://cyber.harvard.edu/is02/readings/ascap.html" target="_blank" rel="noopener noreferrer nofollow">https://cyber.harvard.edu/is02/readings/ascap.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berkman Klein CenterASCAP is a membership association of more than 120000 UASCAP receives payment for public performances of songs and co...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/radio-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/radio-royalties</a>  
+   Link:<a href="https://www.prsformusic.com/royalties/radio-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/radio-royalties</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/search-cue-sheets" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/search-cue-sheets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCinema royaltiesCue sheets show details of all the music used within a TV programme or film, and are usually supplied to us...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/search-cue-sheets" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/search-cue-sheets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicCinema royaltiesCue sheets show details of all the music used within a TV programme or film, and are usually supplied to us...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic guide to cue sheetsCue sheets are crucial for the accurate – and timely – distribution of royalties to our members. This basic guid...</p></details>
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/newsletters/newsletter-may-2012/cue-sheets-simple-guide-to-cue-sheets-draft-for-member-discussions-25052012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basic guide to cue sheetsCue sheets are crucial for the accurate – and timely – distribution of royalties to our members. This basic guid...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS Distribution Policy Guide ContentsIncome from the licence fee enables the BBC to broadcast national radio stations offering music and...</p></details>
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/april-2023/full-document--prs-distribution-policy--april-23</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS Distribution Policy Guide ContentsIncome from the licence fee enables the BBC to broadcast national radio stations offering music and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/search?query=cue+sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/search?query=cue+sheet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SearchA guide to royalties generated from cinemas for members of PRS for Music. docx. S4C IPC Terms and Agreement 2025. 132kb. Download.R...</p></details>
+   Link:<a href="https://www.prsformusic.com/search?query=cue+sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/search?query=cue+sheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SearchA guide to royalties generated from cinemas for members of PRS for Music. docx. S4C IPC Terms and Agreement 2025. 132kb. Download.R...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/search?page=5&amp;query=cue+sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/search?page=5&amp;query=cue+sheet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SearchMember royalties | PRS for Music. Get all the information on your royalties including where they come from, the distribution schedu...</p></details>
+   Link:<a href="https://www.prsformusic.com/search?page=5&amp;query=cue+sheet" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/search?page=5&amp;query=cue+sheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SearchMember royalties | PRS for Music. Get all the information on your royalties including where they come from, the distribution schedu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Member royaltiesExpecting a royalty payment for work that&#x27;s been used in a film or TV programme? Check our cue sheets to see if it&#x27;s incl...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Member royaltiesExpecting a royalty payment for work that&#x27;s been used in a film or TV programme? Check our cue sheets to see if it&#x27;s incl...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: ASCA P vs BMI: Most Musicians Pick the Wrong PRO  
-   Link: <a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mByKhL8uwXg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP vs BMI: Most Musicians Pick the Wrong PRO - Here&#x27;s...ASCAP and BMI don&#x27;t just pay you differently they are designed to reward two...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mByKhL8uwXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mByKhL8uwXg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP vs BMI: Most Musicians Pick the Wrong PRO - Here&#x27;s...ASCAP and BMI don&#x27;t just pay you differently they are designed to reward two...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ascapexperience.com  
-   Link: <a href="https://ascapexperience.com/" target="_blank" rel="noopener noreferrer nofollow">https://ascapexperience.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Experience 2026 | Where music creators connect.The ASCAP Experience is a one-of-a-kind conference that brings together the vibrant...</p></details>
+   Link:<a href="https://ascapexperience.com/" target="_blank" rel="noopener noreferrer nofollow">https://ascapexperience.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP Experience 2026 | Where music creators connect.The ASCAP Experience is a one-of-a-kind conference that brings together the vibrant...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/33202815" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33202815</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing Pre-Existing Compositions for TV Theme SongsThe license agreement is normally a life of copyright all media excluding theatrica...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/33202815" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33202815</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing Pre-Existing Compositions for TV Theme SongsThe license agreement is normally a life of copyright all media excluding theatrica...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: prsguitars.com  
-   Link: <a href="https://prsguitars.com/" target="_blank" rel="noopener noreferrer nofollow">https://prsguitars.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS Guitars | Electric and Acoustic Guitars, Basses, Amplifiers...Maryland-based Manufacturer of Electric Guitars, Acoustic Guitars, Bas...</p></details>
+   Link:<a href="https://prsguitars.com/" target="_blank" rel="noopener noreferrer nofollow">https://prsguitars.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS Guitars | Electric and Acoustic Guitars, Basses, Amplifiers...Maryland-based Manufacturer of Electric Guitars, Acoustic Guitars, Bas...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: downloads.bbc.co.uk  
-   Link: <a href="https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music in the BBC Cue SheetPRS collects and distributes payments for composers, songwriters and music publishers. The PRS Search in Silver...</p></details>
+   Link:<a href="https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/academy/academyfiles/bs_silvermouse_indies_cue_sheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music in the BBC Cue SheetPRS collects and distributes payments for composers, songwriters and music publishers. The PRS Search in Silver...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets-corporate.channel4.com  
-   Link: <a href="https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>channel4.com1 C4 Music Rights and Clearances GuideOnce approved you will need to submit your cue sheet/s to &#x27;PRS for Music&#x27; at tvprogramm...</p></details>
+   Link:<a href="https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets-corporate.channel4.com/_flysystem/s3/documents/2025-06/C4%20Music%20Guide%20%28Producers%29%202025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>channel4.com1 C4 Music Rights and Clearances GuideOnce approved you will need to submit your cue sheet/s to &#x27;PRS for Music&#x27; at tvprogramm...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wipo.int  
-   Link: <a href="https://www.wipo.int/en/web/ipday/2015/creating_value_from_music" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/ipday/2015/creating_value_from_music</a>  
+   Link:<a href="https://www.wipo.int/en/web/ipday/2015/creating_value_from_music" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/ipday/2015/creating_value_from_music</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: mcpsproductionmusic.co.uk  
-   Link: <a href="https://mcpsproductionmusic.co.uk/reporting/" target="_blank" rel="noopener noreferrer nofollow">https://mcpsproductionmusic.co.uk/reporting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicReportingBroadcast Blankets &amp; TV Programmes... If you are making programmes under one of our television licences, you can download...</p></details>
+   Link:<a href="https://mcpsproductionmusic.co.uk/reporting/" target="_blank" rel="noopener noreferrer nofollow">https://mcpsproductionmusic.co.uk/reporting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MusicReportingBroadcast Blankets &amp; TV Programmes... If you are making programmes under one of our television licences, you can download...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tvmlc.com  
-   Link: <a href="https://www.tvmlc.com/pros" target="_blank" rel="noopener noreferrer nofollow">https://www.tvmlc.com/pros</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROs | Empower Your BroadcastThe ASCAP licenses cover, on a through-to-the-viewer basis, performances of ASCAP music in programming that...</p></details>
+   Link:<a href="https://www.tvmlc.com/pros" target="_blank" rel="noopener noreferrer nofollow">https://www.tvmlc.com/pros</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROs | Empower Your BroadcastThe ASCAP licenses cover, on a through-to-the-viewer basis, performances of ASCAP music in programming that...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: talkbass.com  
-   Link: <a href="https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/" target="_blank" rel="noopener noreferrer nofollow">https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What kind of songwriting/publishing royalties can I expect...14 Nov 2008 — We received a royalty statement from BMI for one of the clien...</p></details>
+   Link:<a href="https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/" target="_blank" rel="noopener noreferrer nofollow">https://www.talkbass.com/threads/what-kind-of-songwriting-publishing-royalties-can-i-expect-off-a-tv-show-placement.487581/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What kind of songwriting/publishing royalties can I expect...14 Nov 2008 — We received a royalty statement from BMI for one of the clien...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aristake.com  
-   Link: <a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — Register with your country&#x27;s neighbouring rights organization to collect sound recording...</p></details>
+   Link:<a href="https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/what-is-soundexchange-ascap-bmi-pros-hfa-mechanicals-and-how-to-get-all-your-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Get All Your Music Royalties2 Mar 2025 — Register with your country&#x27;s neighbouring rights organization to collect sound recording...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: trolley.com  
    Title: understanding payouts how are performance royalties calculated and reported  
-   Link: <a href="https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/" target="_blank" rel="noopener noreferrer nofollow">https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Are Performance Royalties Calculated and Reported?Feb 22, 2024 — This guide serves as an entry point for those looking to understand...</p></details>
+   Link:<a href="https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/" target="_blank" rel="noopener noreferrer nofollow">https://trolley.com/learning-center/understanding-payouts-how-are-performance-royalties-calculated-and-reported/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Are Performance Royalties Calculated and Reported?Feb 22, 2024 — This guide serves as an entry point for those looking to understand...</p></details>

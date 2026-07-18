@@ -268,46 +268,46 @@ image: /assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licens
 
 ## Introduction
 
-Cover songs are one of the easiest ways to understand why music rights are divided into separate layers. When an artist records a new version of an existing song, they are not using the original [recording]({{ 'recording/' | relative_url }}). They are using the underlying composition: the melody, lyrics and musical structure created by the songwriter. That distinction is crucial because it means a cover usually needs permission for the composition, but not for the original master recording. In many situations, the law provides a specific [licensing]({{ 'licensing/' | relative_url }}) route for this purpose, often called a mechanical licence. The result is a system in which a musician can legally record and release a famous song without negotiating for the original recording, provided the correct composition rights are cleared and royalties are paid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
+Cover songs are one of the easiest ways to understand why music rights are divided into separate layers. When an artist records a new version of an existing song, they are not using the original [recording]({{ 'recording/' | relative_url }}). They are using the underlying composition: the melody, lyrics and musical structure created by the songwriter. That distinction is crucial because it means a cover usually needs permission for the composition, but not for the original master recording. In many situations, the law provides a specific [licensing]({{ 'licensing/' | relative_url }}) route for this purpose, often called a mechanical licence. The result is a system in which a musician can legally record and release a famous song without negotiating for the original recording, provided the correct composition rights are cleared and royalties are paid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-1-dark.svg" | relative_url }}" alt="Cover songs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why covers need one licence, not two
 
-A cover version creates a new recording. Because the artist is making their own recording from scratch, they are not copying or exploiting the original master owned by a record label or performer. The original master copyright therefore remains untouched. What the cover artist is using is the song itself: the composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
+A cover version creates a new recording. Because the artist is making their own recording from scratch, they are not copying or exploiting the original master owned by a record label or performer. The original master copyright therefore remains untouched. What the cover artist is using is the song itself: the composition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
 
-This is why a standard audio-only cover release generally requires [clearance]({{ 'clearance/' | relative_url }}) for only one copyright layer. The songwriter and publisher must be compensated because their composition is being reproduced and distributed, but the owner of the original recording does not need to be involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltysolutionscorp.com">[Royalty Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltysolutionscorp.com</span><span class="citation-popover-title">the art of mechanical licensing a guide to cover songs</span><span class="citation-popover-snippet">Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</span></span></span>
+This is why a standard audio-only cover release generally requires [clearance]({{ 'clearance/' | relative_url }}) for only one copyright layer. The songwriter and publisher must be compensated because their composition is being reproduced and distributed, but the owner of the original recording does not need to be involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltysolutionscorp.com">[Royalty Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltysolutionscorp.com</span><span class="citation-popover-title">the art of mechanical licensing a guide to cover songs</span><span class="citation-popover-snippet">Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</span></span></span>
 
 The distinction becomes clearer when compared with other uses:
 
-* **Recording a cover song:** composition licence required; original master not used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirate.com">[pirate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirate.com</span><span class="citation-popover-title">cover song licensing</span><span class="citation-popover-snippet">Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</span></span></span>
+* **Recording a cover song:** composition licence required; original master not used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirate.com">[pirate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirate.com</span><span class="citation-popover-title">cover song licensing</span><span class="citation-popover-snippet">Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</span></span></span>
 * **Using the original recording in a film or advert:** composition [rights]({{ 'rights/' | relative_url }}) and [master rights]({{ 'master-rights/' | relative_url }}) both required.
 * **Sampling part of the original recording:** master rights become relevant because part of the original recording is being copied.
-* **Creating a music video for a cover:** additional synchronisation rights may be needed because music is being combined with visual content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirate.com">[Pirate Studios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirate.com</span><span class="citation-popover-title">cover song licensing</span><span class="citation-popover-snippet">Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</span></span></span>
+* **Creating a music video for a cover:** additional synchronisation rights may be needed because music is being combined with visual content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirate.com">[Pirate Studios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirate.com</span><span class="citation-popover-title">cover song licensing</span><span class="citation-popover-snippet">Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DhMLTLH6pc4" title="How to Release A Cover Song (LEGALLY &amp; Creatively)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DhMLTLH6pc4" target="_blank" rel="noopener noreferrer">How to Release A Cover Song (LEGALLY &amp; Creatively)</a></p><p class="youtube-embed-meta">Channel: Lucas Fournier &middot; Views: 44.1K &middot; Uploaded: February 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DhMLTLH6pc4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DhMLTLH6pc4">Open on YouTube</a></p></div></div></div>
 
 ## Composition rights behind a cover
 
-The licence most closely associated with cover songs is the **mechanical licence**. Historically, mechanical rights developed around the reproduction of songs on [physical]({{ 'physical/' | relative_url }}) formats such as records and CDs. Today they also apply to many forms of digital distribution. A mechanical licence authorises the reproduction and distribution of a copyrighted musical composition in a new recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tunecore.com/guides/mechanical-licensing-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tunecore.com">[TuneCore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tunecore.com</span><span class="citation-popover-snippet">Mechanical Licensing 101A mechanical license grants to the licensee (the person acquiring the license) the rights to reproduce an...</span></span></span>
+The licence most closely associated with cover songs is the **mechanical licence**. Historically, mechanical rights developed around the reproduction of songs on [physical]({{ 'physical/' | relative_url }}) formats such as records and CDs. Today they also apply to many forms of digital distribution. A mechanical licence authorises the reproduction and distribution of a copyrighted musical composition in a new recording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tunecore.com/guides/mechanical-licensing-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tunecore.com">[TuneCore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tunecore.com</span><span class="citation-popover-snippet">Mechanical Licensing 101A mechanical license grants to the licensee (the person acquiring the license) the rights to reproduce an...</span></span></span>
 
-In the United States, Section 115 of the Copyright Act provides a compulsory mechanical licensing framework. Once a song has been released to the public, another artist can generally obtain a licence to record and distribute a faithful cover, provided statutory requirements are followed and [royalties]({{ 'royalties/' | relative_url }}) are paid. The copyright owner cannot simply refuse permission for an ordinary cover that complies with the rules. U.S. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.harryfox.com">[Harry Fox Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.harryfox.com</span><span class="citation-popover-snippet">is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</span></span></span>
+In the United States, Section 115 of the Copyright Act provides a compulsory mechanical licensing framework. Once a song has been released to the public, another artist can generally obtain a licence to record and distribute a faithful cover, provided statutory requirements are followed and [royalties]({{ 'royalties/' | relative_url }}) are paid. The copyright owner cannot simply refuse permission for an ordinary cover that complies with the rules. U.S. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.harryfox.com">[Harry Fox Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.harryfox.com</span><span class="citation-popover-snippet">is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</span></span></span>
 
-This compulsory system is one reason cover recordings have become such a common part of popular music. Artists can reinterpret songs without negotiating individual deals for every release, while songwriters continue to receive royalties from each authorised use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
+This compulsory system is one reason cover recordings have become such a common part of popular music. Artists can reinterpret songs without negotiating individual deals for every release, while songwriters continue to receive royalties from each authorised use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
 
-In practice, many creators do not interact directly with publishers. Licensing services and rights administrators often handle the process. In the United States, organisations such as the Harry Fox Agency provide mechanisms for obtaining cover-song licences and administering royalty payments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.harryfox.com">[Harry Fox Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.harryfox.com</span><span class="citation-popover-snippet">is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.harryfox.com">[Harry Fox Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.harryfox.com</span><span class="citation-popover-snippet">is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</span></span></span>
+In practice, many creators do not interact directly with publishers. Licensing services and rights administrators often handle the process. In the United States, organisations such as the Harry Fox Agency provide mechanisms for obtaining cover-song licences and administering royalty payments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.harryfox.com">[Harry Fox Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.harryfox.com</span><span class="citation-popover-snippet">is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.harryfox.com">[Harry Fox Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.harryfox.com</span><span class="citation-popover-snippet">is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</span></span></span>
 
-The UK follows a different administrative model. Mechanical rights are commonly administered through MCPS, which licenses reproductions of musical works and distributes mechanical royalties to rights holders. Artists releasing recordings that contain copyrighted songs may need MCPS-related licensing arrangements depending on the release format and distribution method. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/find-licences/music-licences-for-physical-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Music licences for physical productsYou may need a licence from the Mechanical-Copyright Protection Society (MCPS) if you make copies of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/what-we-do/prs-and-mcps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS and MCPS: Who does what?The Mechanical-Copyright Protection Society (MCPS) have a service agreement in place with PRS for Music who p...</span></span></span>
+The UK follows a different administrative model. Mechanical rights are commonly administered through MCPS, which licenses reproductions of musical works and distributes mechanical royalties to rights holders. Artists releasing recordings that contain copyrighted songs may need MCPS-related licensing arrangements depending on the release format and distribution method.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/find-licences/music-licences-for-physical-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Music licences for physical productsYou may need a licence from the Mechanical-Copyright Protection Society (MCPS) if you make copies of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/what-we-do/prs-and-mcps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-snippet">PRS and MCPS: Who does what?The Mechanical-Copyright Protection Society (MCPS) have a service agreement in place with PRS for Music who p...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-2-dark.svg" | relative_url }}" alt="Cover songs illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the original master is not used
 
 Many listeners assume that a cover artist is somehow borrowing the original recording. Legally, that is not what happens.
 
-When a singer records a cover of a classic song, every vocal, instrument and production element is newly recorded. The resulting sound recording becomes a separate copyright. The cover artist or their label may own that new master, while the original songwriter and publisher continue to own the composition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
+When a singer records a cover of a classic song, every vocal, instrument and production element is newly recorded. The resulting sound recording becomes a separate copyright. The cover artist or their label may own that new master, while the original songwriter and publisher continue to own the composition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
 
-This arrangement explains how dozens of artists can legally release recordings of the same song. The composition remains the common element, while each performer creates a distinct recording with its own ownership and revenue streams. Royalties connected to the composition flow to the songwriter and publisher, while revenues associated with the new recording flow to the owner of the new master. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltysolutionscorp.com">[Royalty Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltysolutionscorp.com</span><span class="citation-popover-title">the art of mechanical licensing a guide to cover songs</span><span class="citation-popover-snippet">Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</span></span></span>
+This arrangement explains how dozens of artists can legally release recordings of the same song. The composition remains the common element, while each performer creates a distinct recording with its own ownership and revenue streams. Royalties connected to the composition flow to the songwriter and publisher, while revenues associated with the new recording flow to the owner of the new master.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltysolutionscorp.com">[Royalty Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltysolutionscorp.com</span><span class="citation-popover-title">the art of mechanical licensing a guide to cover songs</span><span class="citation-popover-snippet">Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</span></span></span>
 
-The legal simplicity of a cover compared with a sample is therefore not accidental. A cover avoids copying the original recording altogether, which removes the need to license the master. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
+The legal simplicity of a cover compared with a sample is therefore not accidental. A cover avoids copying the original recording altogether, which removes the need to license the master.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OegBwyRBw2c" title="NEW UPDATES! | Post Cover Songs LEGALLY on YouTube 2025 (Step by Step Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OegBwyRBw2c" target="_blank" rel="noopener noreferrer">NEW UPDATES! | Post Cover Songs LEGALLY on YouTube 2025 (Step by Step Guide)</a></p><p class="youtube-embed-meta">Channel: Top Music Attorney &middot; Views: 139.3K &middot; Uploaded: December 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OegBwyRBw2c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OegBwyRBw2c">Open on YouTube</a></p></div></div></div>
 
@@ -315,216 +315,216 @@ The legal simplicity of a cover compared with a sample is therefore not accident
 
 ### Assuming a cover is automatically legal
 
-A frequent misunderstanding is that changing the performer automatically makes a recording lawful. Recording a new version removes the need for a master-use licence, but it does not eliminate the need to clear the composition. Releasing a cover without securing the necessary mechanical rights can still create copyright problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.songfile.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songfile.com">[Songfile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songfile.com</span><span class="citation-popover-snippet">The easy way to license songs... U.S. Copyright Law requires that you get a mechanical license. This is required regardless of whether or...</span></span></span>
+A frequent misunderstanding is that changing the performer automatically makes a recording lawful. Recording a new version removes the need for a master-use licence, but it does not eliminate the need to clear the composition. Releasing a cover without securing the necessary mechanical rights can still create copyright problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.songfile.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songfile.com">[Songfile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songfile.com</span><span class="citation-popover-snippet">The easy way to license songs... U.S. Copyright Law requires that you get a mechanical license. This is required regardless of whether or...</span></span></span>
 
 ### Treating a music video like an audio release
 
-Many artists correctly obtain a mechanical licence for the audio recording and then assume they can freely upload a music video. Combining music with moving images introduces synchronisation rights, which are distinct from ordinary mechanical rights. A cover video may therefore require additional permissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirate.com">[Pirate Studios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirate.com</span><span class="citation-popover-title">cover song licensing</span><span class="citation-popover-snippet">Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</span></span></span>
+Many artists correctly obtain a mechanical licence for the audio recording and then assume they can freely upload a music video. Combining music with moving images introduces synchronisation rights, which are distinct from ordinary mechanical rights. A cover video may therefore require additional permissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirate.com">[Pirate Studios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirate.com</span><span class="citation-popover-title">cover song licensing</span><span class="citation-popover-snippet">Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-3-dark.svg" | relative_url }}" alt="Cover songs illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Changing the song too much
 
-The compulsory licensing framework in the United States is designed for genuine cover versions. Significant alterations to [lyrics]({{ 'lyrics/' | relative_url }}), narrative meaning or the fundamental character of a song can move beyond the scope of a straightforward cover and create additional legal questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/mechanical-license-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-snippet">Mechanical License for Cover Songs: How to Get One9 Apr 2026 — Under US compulsory license law, they cannot block a faithful cover...</span></span></span>
+The compulsory licensing framework in the United States is designed for genuine cover versions. Significant alterations to [lyrics]({{ 'lyrics/' | relative_url }}), narrative meaning or the fundamental character of a song can move beyond the scope of a straightforward cover and create additional legal questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orphiq.com/resources/mechanical-license-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orphiq.com">[Orphiq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orphiq.com</span><span class="citation-popover-snippet">Mechanical License for Cover Songs: How to Get One9 Apr 2026 — Under US compulsory license law, they cannot block a faithful cover...</span></span></span>
 
 ### Confusing streaming administration with cover licensing
 
-Modern streaming systems involve organisations such as the Mechanical Licensing Collective (MLC) for certain digital mechanical royalties. However, administration of streaming royalties is not the same thing as obtaining permission to release a cover recording. Artists still need to ensure the underlying composition has been properly licensed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
+Modern streaming systems involve organisations such as the Mechanical Licensing Collective (MLC) for certain digital mechanical royalties. However, administration of streaming royalties is not the same thing as obtaining permission to release a cover recording. Artists still need to ensure the underlying composition has been properly licensed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uhekM42gUIs" title="How to License a Cover Song | Easy Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uhekM42gUIs" target="_blank" rel="noopener noreferrer">How to License a Cover Song | Easy Song</a></p><p class="youtube-embed-meta">Channel: Easy Song &middot; Views: 7.1K &middot; Uploaded: March 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uhekM42gUIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uhekM42gUIs">Open on YouTube</a></p></div></div></div>
 
 ## The practical lesson from cover songs
 
-Cover versions reveal the central divide that runs through modern music copyright. A song and a recording are not the same asset. By creating a new recording, a cover artist avoids using the original master, which is why only the composition side normally requires licensing. The mechanical licence exists to make that process workable: it allows new performers to reinterpret existing songs while ensuring that the original songwriters and publishers continue to be paid. U.S. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltysolutionscorp.com">[Royalty Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltysolutionscorp.com</span><span class="citation-popover-title">the art of mechanical licensing a guide to cover songs</span><span class="citation-popover-snippet">Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</span></span></span>
+Cover versions reveal the central divide that runs through modern music copyright. A song and a recording are not the same asset. By creating a new recording, a cover artist avoids using the original master, which is why only the composition side normally requires licensing. The mechanical licence exists to make that process workable: it allows new performers to reinterpret existing songs while ensuring that the original songwriters and publishers continue to be paid. U.S. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltysolutionscorp.com">[Royalty Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltysolutionscorp.com</span><span class="citation-popover-title">the art of mechanical licensing a guide to cover songs</span><span class="citation-popover-snippet">Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why covers need one licence, not two. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why covers need one licence, not two. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Contains extensive explanations of mechanical licensing and cover songs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains extensive explanations of mechanical licensing and cover songs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The plain and simple guide to music publishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1331461-M.jpg" alt="Cover for The plain and simple guide to music publishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The plain and simple guide to music publishing">The plain and simple guide to music publishing</a>
-        </h4>
-        <p class="fr-book-author">By Randall D. Wixen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The plain and simple guide to music publishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1331461-M.jpg" alt="Cover for The plain and simple guide to music publishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The plain and simple guide to music publishing">The plain and simple guide to music publishing</a>
+</h4>
+<p class="fr-book-author">By Randall D. Wixen</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Copyright, Economic aspects of Music, Music publishing, Music, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Copyright, Economic aspects of Music, Music publishing, Music, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Publishing -- the Complete Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Publishing -- the Complete Guide">Music Publishing -- the Complete Guide</a>
-        </h4>
-        <p class="fr-book-author">By Steve Winogradsky, David Lowery</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Publishing -- the Complete Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Publishing -- the Complete Guide">Music Publishing -- the Complete Guide</a>
+</h4>
+<p class="fr-book-author">By Steve Winogradsky, David Lowery</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Publishing+--+the+Complete+Guide+Steve+Winogradsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+plain+and+simple+to+music+publishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The plain and simple to music publishing books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+plain+and+simple+to+music+publishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The plain and simple to music publishing books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruno Mars 4 Photo American RnB Star Pop Singer Picture Songwriter Music Poster"><img src="https://i.ebayimg.com/images/g/EcIAAOSwBBpbxlS-/s-l225.jpg" alt="Listing image for Bruno Mars 4 Photo American RnB Star Pop Singer Picture Songwriter Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Bruno Mars 4 Photo American RnB Star Pop Singer Picture Songwriter Music Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruno Mars 4 Photo American RnB Star Pop Singer Picture Songwriter Music Poster"><img src="https://i.ebayimg.com/images/g/EcIAAOSwBBpbxlS-/s-l225.jpg" alt="Listing image for Bruno Mars 4 Photo American RnB Star Pop Singer Picture Songwriter Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Bruno Mars 4 Photo American RnB Star Pop Singer Picture Songwriter Music Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriter Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fLEAAeSwAj9pwX3~/s-l225.jpg" alt="Listing image for Songwriter Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Songwriter Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriter Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/fLEAAeSwAj9pwX3~/s-l225.jpg" alt="Listing image for Songwriter Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Songwriter Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tori Amos American Singer Songwriter Poster A5 A4 A3 Print / Framed Poster #929"><img src="https://i.ebayimg.com/images/g/TxwAAeSw1WRpgnrJ/s-l225.jpg" alt="Listing image for Tori Amos American Singer Songwriter Poster A5 A4 A3 Print / Framed Poster #929" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Tori Amos American Singer Songwriter Poster A5 A4 A3 Print / Framed Poster #929</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tori Amos American Singer Songwriter Poster A5 A4 A3 Print / Framed Poster #929"><img src="https://i.ebayimg.com/images/g/TxwAAeSw1WRpgnrJ/s-l225.jpg" alt="Listing image for Tori Amos American Singer Songwriter Poster A5 A4 A3 Print / Framed Poster #929" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Tori Amos American Singer Songwriter Poster A5 A4 A3 Print / Framed Poster #929</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/8jwAAeSwhK9odBC7/s-l225.jpg" alt="Listing image for Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/8jwAAeSwhK9odBC7/s-l225.jpg" alt="Listing image for Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">Songwriter Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-covers-need-one-licence-not-two-songwriter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter poster" data-ebay-reference="why-covers-need-one-licence-not-two-songwriter-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ Cover versions reveal the central divide that runs through modern music copyrigh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ Cover versions reveal the central divide that runs through modern music copyrigh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ Cover versions reveal the central divide that runs through modern music copyrigh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ Cover versions reveal the central divide that runs through modern music copyrigh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ Cover versions reveal the central divide that runs through modern music copyrigh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,164 +730,164 @@ Cover versions reveal the central divide that runs through modern music copyrigh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/circs/circ73.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</p></details>
+   Link:<a href="https://www.copyright.gov/circs/circ73.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/circs/circ73.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeCompulsory License for Making and Distributing...Does a Compulsory License Cover Making and Reproducing a Sound Recordin...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tunecore.com  
-   Link: <a href="https://www.tunecore.com/guides/mechanical-licensing-101" target="_blank" rel="noopener noreferrer nofollow">https://www.tunecore.com/guides/mechanical-licensing-101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing 101A mechanical license grants to the licensee (the person acquiring the license) the rights to reproduce an...</p></details>
+   Link:<a href="https://www.tunecore.com/guides/mechanical-licensing-101" target="_blank" rel="noopener noreferrer nofollow">https://www.tunecore.com/guides/mechanical-licensing-101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing 101A mechanical license grants to the licensee (the person acquiring the license) the rights to reproduce an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pirate.com  
    Title: cover song licensing  
-   Link: <a href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://pirate.com/en/blog/cover-song-licensing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</p></details>
+   Link:<a href="https://pirate.com/en/blog/cover-song-licensing/" target="_blank" rel="noopener noreferrer nofollow">https://pirate.com/en/blog/cover-song-licensing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pirate StudiosCover Song Licensing Explained22 Mar 2024 — Do music videos for cover songs require a license? Yes, for music videos of cov...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: songfile.com  
-   Link: <a href="https://www.songfile.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.songfile.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The easy way to license songs... U.S. Copyright Law requires that you get a mechanical license. This is required regardless of whether or...</p></details>
+   Link:<a href="https://www.songfile.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.songfile.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The easy way to license songs... U.S. Copyright Law requires that you get a mechanical license. This is required regardless of whether or...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/find-licences/music-licences-for-physical-products" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/find-licences/music-licences-for-physical-products</a>  
+   Link:<a href="https://www.gov.uk/find-licences/music-licences-for-physical-products" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/find-licences/music-licences-for-physical-products</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: orphiq.com  
-   Link: <a href="https://orphiq.com/resources/mechanical-license-cover-songs" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/mechanical-license-cover-songs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical License for Cover Songs: How to Get One9 Apr 2026 — Under US compulsory license law, they cannot block a faithful cover...</p></details>
+   Link:<a href="https://orphiq.com/resources/mechanical-license-cover-songs" target="_blank" rel="noopener noreferrer nofollow">https://orphiq.com/resources/mechanical-license-cover-songs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical License for Cover Songs: How to Get One9 Apr 2026 — Under US compulsory license law, they cannot block a faithful cover...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: copyright.gov  
    Title: music modernization  
-   Link: <a href="https://www.copyright.gov/music-modernization/115/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/115/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeMusic Licensing Modernization | U.S. Copyright OfficeThe legislation establishes a “mechanical licensing collective” (“ML...</p></details>
+   Link:<a href="https://www.copyright.gov/music-modernization/115/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/115/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeMusic Licensing Modernization | U.S. Copyright OfficeThe legislation establishes a “mechanical licensing collective” (“ML...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tunecore.com  
-   Link: <a href="https://www.tunecore.com/cover-song-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.tunecore.com/cover-song-licensing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical License for Cover SongsBy requesting a mechanical license, you are ensuring that the original creator of the song is getting t...</p></details>
+   Link:<a href="https://www.tunecore.com/cover-song-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.tunecore.com/cover-song-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical License for Cover SongsBy requesting a mechanical license, you are ensuring that the original creator of the song is getting t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: help.harryfox.com  
-   Link: <a href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow">https://help.harryfox.com/what-is-a-compulsory-mechanical-license</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</p></details>
+   Link:<a href="https://help.harryfox.com/what-is-a-compulsory-mechanical-license" target="_blank" rel="noopener noreferrer nofollow">https://help.harryfox.com/what-is-a-compulsory-mechanical-license</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is a compulsory mechanical license?The Harry Fox Agency Knowledge Base · General Information... It allows you to distribute your cover r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: royaltysolutionscorp.com  
    Title: the art of mechanical licensing a guide to cover songs  
-   Link: <a href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</p></details>
+   Link:<a href="https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.royaltysolutionscorp.com/blog/2023/7/28/the-art-of-mechanical-licensing-a-guide-to-cover-songs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty SolutionsThe Art of Mechanical Licensing: A Guide to Cover Songs28 Jul 2023 — Mechanical licensing refers to the process of obtai...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: harryfox.com  
-   Link: <a href="https://www.harryfox.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.harryfox.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Songfile helps you license cover songs for physical and digital formats such as CDs, downloads, ringtones and streams.Read more...</p></details>
+   Link:<a href="https://www.harryfox.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.harryfox.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Songfile helps you license cover songs for physical and digital formats such as CDs, downloads, ringtones and streams.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: help.harryfox.com  
-   Link: <a href="https://help.harryfox.com/how-do-i-get-a-license" target="_blank" rel="noopener noreferrer nofollow">https://help.harryfox.com/how-do-i-get-a-license</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Fox AgencyHow to License Music with HFAIf you&#x27;re looking to license cover songs in limited quantities, you can obtain mechanical li...</p></details>
+   Link:<a href="https://help.harryfox.com/how-do-i-get-a-license" target="_blank" rel="noopener noreferrer nofollow">https://help.harryfox.com/how-do-i-get-a-license</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Fox AgencyHow to License Music with HFAIf you&#x27;re looking to license cover songs in limited quantities, you can obtain mechanical li...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/what-we-do/prs-and-mcps" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/prs-and-mcps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS and MCPS: Who does what?The Mechanical-Copyright Protection Society (MCPS) have a service agreement in place with PRS for Music who p...</p></details>
+   Link:<a href="https://www.prsformusic.com/what-we-do/prs-and-mcps" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/what-we-do/prs-and-mcps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS and MCPS: Who does what?The Mechanical-Copyright Protection Society (MCPS) have a service agreement in place with PRS for Music who p...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Mechanical license  
-   Link: <a href="https://en.wikipedia.org/wiki/Mechanical_license" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mechanical_license</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical licenseA mechanical license is a license provided by the holder of the copyright of the composition or musical work to anot...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mechanical_license" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mechanical_license</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical licenseA mechanical license is a license provided by the holder of the copyright of the composition or musical work to anot...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: royalties, music copyright and licensingWe license the use of our members&#x27; music by businesses, online, in broadcasts and...</p></details>
+   Link:<a href="https://www.prsformusic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music: royalties, music copyright and licensingWe license the use of our members&#x27; music by businesses, online, in broadcasts and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products/limited-manufacture" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/limited-manufacture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Licences for limited manufacture productsThe Limited Manufacture Licence is quick, affordable and grants you &#x27;blanket&#x27; permission to lega...</p></details>
+   Link:<a href="https://www.prsformusic.com/licences/releasing-music-products/limited-manufacture" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products/limited-manufacture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Licences for limited manufacture productsThe Limited Manufacture Licence is quick, affordable and grants you &#x27;blanket&#x27; permission to lega...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: prsformusic.com  
    Title: Releasing music products  
-   Link: <a href="https://www.prsformusic.com/licences/releasing-music-products" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LicencesWe&#x27;ll help you get the right music licence for the music product you&#x27;re releasing with our guide below. We offer music licences f...</p></details>
+   Link:<a href="https://www.prsformusic.com/licences/releasing-music-products" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/licences/releasing-music-products</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LicencesWe&#x27;ll help you get the right music licence for the music product you&#x27;re releasing with our guide below. We offer music licences f...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/music-audio-product-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/music-audio-product-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MCPS music audio product royaltiesYour music may be used in a variety of ways on audio products. Choose an option below to find out how w...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/music-audio-product-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/music-audio-product-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MCPS music audio product royaltiesYour music may be used in a variety of ways on audio products. Choose an option below to find out how w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: harryfox.com  
-   Link: <a href="https://www.harryfox.com/music-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.harryfox.com/music-tech/</a>  
+   Link:<a href="https://www.harryfox.com/music-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.harryfox.com/music-tech/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: help.harryfox.com  
-   Link: <a href="https://help.harryfox.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://help.harryfox.com/licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to common questions about licensing through HFA, including mechanical licenses, cover song licensing, and how to request or manage licenses...</p></details>
+   Link:<a href="https://help.harryfox.com/licensing" target="_blank" rel="noopener noreferrer nofollow">https://help.harryfox.com/licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to common questions about licensing through HFA, including mechanical licenses, cover song licensing, and how to request or manage licenses...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: PRS for Music  
-   Link: <a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music Limited is a British music copyright collective, made up of two collection societies: the Mechanical-Copyri...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/PRS_for_Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PRS_for_Music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicPRS for Music Limited is a British music copyright collective, made up of two collection societies: the Mechanical-Copyri...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: elasticstage.zendesk.com  
-   Link: <a href="https://elasticstage.zendesk.com/hc/en-gb/articles/30043181242897-Do-I-need-to-obtain-a-mechanical-licence-in-order-to-make-records-with-elasticStage" target="_blank" rel="noopener noreferrer nofollow">https://elasticstage.zendesk.com/hc/en-gb/articles/30043181242897-Do-I-need-to-obtain-a-mechanical-licence-in-order-to-make-records-with-elasticStage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If necessary, we obtain a mechanical licence on your behalf from the MCPS in the UK. All you have to do is list the songwriters (and publ...</p></details>
+   Link:<a href="https://elasticstage.zendesk.com/hc/en-gb/articles/30043181242897-Do-I-need-to-obtain-a-mechanical-licence-in-order-to-make-records-with-elasticStage" target="_blank" rel="noopener noreferrer nofollow">https://elasticstage.zendesk.com/hc/en-gb/articles/30043181242897-Do-I-need-to-obtain-a-mechanical-licence-in-order-to-make-records-with-elasticStage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If necessary, we obtain a mechanical licence on your behalf from the MCPS in the UK. All you have to do is list the songwriters (and publ...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: landr.com  
-   Link: <a href="https://www.landr.com/cover-song-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.landr.com/cover-song-licensing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cover Song Licensing with LANDR | Fast, Easy, and LegalA mechanical license allows you to reproduce and distribute a cover version of a s...</p></details>
+   Link:<a href="https://www.landr.com/cover-song-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.landr.com/cover-song-licensing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cover Song Licensing with LANDR | Fast, Easy, and LegalA mechanical license allows you to reproduce and distribute a cover version of a s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/473293957022577/posts/1108829350135698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473293957022577/posts/1108829350135698/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cover song licensing in the U.S. explainedHere&#x27;s why: • You own the rights: A mechanical license is essentially permission to reproduce a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/473293957022577/posts/1108829350135698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473293957022577/posts/1108829350135698/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cover song licensing in the U.S. explainedHere&#x27;s why: • You own the rights: A mechanical license is essentially permission to reproduce a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mcpsproductionmusic.co.uk  
-   Link: <a href="https://mcpsproductionmusic.co.uk/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://mcpsproductionmusic.co.uk/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQsMCPS Production Music offers a convenient solution for licensing music from multiple rights holders: Single point of licensing carrie...</p></details>
+   Link:<a href="https://mcpsproductionmusic.co.uk/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://mcpsproductionmusic.co.uk/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQsMCPS Production Music offers a convenient solution for licensing music from multiple rights holders: Single point of licensing carrie...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicproduction/comments/13xm4qu/licensing_a_cover_song/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicproduction/comments/13xm4qu/licensing_a_cover_song/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing a cover song: r/musicproductionThe current statutory rate for mechanical licenses in the US is 9.1 cents per downloaded song o...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicproduction/comments/13xm4qu/licensing_a_cover_song/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicproduction/comments/13xm4qu/licensing_a_cover_song/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing a cover song: r/musicproductionThe current statutory rate for mechanical licenses in the US is 9.1 cents per downloaded song o...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/mechanical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/mechanical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MECHANICAL Definition &amp; MeaningThe meaning of MECHANICAL is of or relating to machinery or tools. How to use mechanical in a sentence. Sy...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/mechanical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/mechanical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MECHANICAL Definition &amp; MeaningThe meaning of MECHANICAL is of or relating to machinery or tools. How to use mechanical in a sentence. Sy...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: customanthems.com  
-   Link: <a href="https://customanthems.com/blogs/music-production-tips-tricks/posts/7524559/how-to-legally-release-a-cover-song" target="_blank" rel="noopener noreferrer nofollow">https://customanthems.com/blogs/music-production-tips-tricks/posts/7524559/how-to-legally-release-a-cover-song</a>  
+   Link:<a href="https://customanthems.com/blogs/music-production-tips-tricks/posts/7524559/how-to-legally-release-a-cover-song" target="_blank" rel="noopener noreferrer nofollow">https://customanthems.com/blogs/music-production-tips-tricks/posts/7524559/how-to-legally-release-a-cover-song</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lawditmusic.co.uk  
    Title: ver songs and copyright how to play and distribute other peoples music lawfully  
-   Link: <a href="https://www.lawditmusic.co.uk/cover-songs-and-copyright-how-to-play-and-distribute-other-peoples-music-lawfully/" target="_blank" rel="noopener noreferrer nofollow">https://www.lawditmusic.co.uk/cover-songs-and-copyright-how-to-play-and-distribute-other-peoples-music-lawfully/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Legally Play and Distribute Other People&#x27;s...1 May 2025 — Once a song has been released by the original artist, anyone else can l...</p></details>
+   Link:<a href="https://www.lawditmusic.co.uk/cover-songs-and-copyright-how-to-play-and-distribute-other-peoples-music-lawfully/" target="_blank" rel="noopener noreferrer nofollow">https://www.lawditmusic.co.uk/cover-songs-and-copyright-how-to-play-and-distribute-other-peoples-music-lawfully/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Legally Play and Distribute Other People&#x27;s...1 May 2025 — Once a song has been released by the original artist, anyone else can l...</p></details>
    Published: May 2025  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: beyonceweekumbc.org  
-   Link: <a href="https://www.beyonceweekumbc.org/spring2024/cover-music" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonceweekumbc.org/spring2024/cover-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In regards to cover songs, a mechanical license is needed even if the covering artist adds...Read more...</p></details>
+   Link:<a href="https://www.beyonceweekumbc.org/spring2024/cover-music" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonceweekumbc.org/spring2024/cover-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In regards to cover songs, a mechanical license is needed even if the covering artist adds...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: icmp.ac.uk  
-   Link: <a href="https://www.icmp.ac.uk/blog/understanding-music-copyrights-and-licenses" target="_blank" rel="noopener noreferrer nofollow">https://www.icmp.ac.uk/blog/understanding-music-copyrights-and-licenses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to distribute it (either physically or digitally), you&#x27;ll need a mechanical license...Read more...</p></details>
+   Link:<a href="https://www.icmp.ac.uk/blog/understanding-music-copyrights-and-licenses" target="_blank" rel="noopener noreferrer nofollow">https://www.icmp.ac.uk/blog/understanding-music-copyrights-and-licenses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to distribute it (either physically or digitally), you&#x27;ll need a mechanical license...Read more...</p></details>

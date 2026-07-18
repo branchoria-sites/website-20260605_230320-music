@@ -504,32 +504,32 @@ image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6-overview-social.j
 A setlist is not just a fan souvenir or a reminder of what happened on stage. For songwriters, it can be the evidence that turns a public performance into a royalty payment. When a venue, promoter, artist or collecting society cannot identify which songs were played, the money collected for live music can become hard to allocate to the correct writers and publishers. That matters most for smaller acts, support slots, [grassroots]({{ 'grassroots/' | relative_url }}) venues, DJs, cover performers and working songwriters whose live-performance income may be modest per show but meaningful across a tour.
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-overview.webp" | relative_url }}" alt="Overview image for Setlists" loading="eager" decoding="sync" fetchpriority="high">
-The risk is simple: live [royalties]({{ 'royalties/' | relative_url }}) depend on performance data. PRS for Music tells members that songs performed live can earn royalties and that reporting setlists helps writers get paid what they are owed; it also explains that royalties are calculated differently for small venues, popular [concerts]({{ 'concerts/' | relative_url }}), classical concerts, festivals, busking and cover bands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> In other words, missing setlists are not a paperwork nuisance. They are a broken link in the evidence chain between a song being played in public and its writer being paid.
+The risk is simple: live [royalties]({{ 'royalties/' | relative_url }}) depend on performance data. PRS for Music tells members that songs performed live can earn royalties and that reporting setlists helps writers get paid what they are owed; it also explains that royalties are calculated differently for small venues, popular [concerts]({{ 'concerts/' | relative_url }}), classical concerts, festivals, busking and cover bands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> In other words, missing setlists are not a paperwork nuisance. They are a broken link in the evidence chain between a song being played in public and its writer being paid.
 
 ## How live royalties depend on setlists
 
-Live-performance royalties are paid for the public performance of compositions: the underlying songs, not just the recordings. A performing [rights]({{ 'rights/' | relative_url }}) organisation or collecting society licenses venues, promoters, broadcasters and other music users, then distributes money to songwriters, composers and publishers according to the data it can match to registered works. In the live sector, that data often starts with the setlist: song title, writer information, performer, date, venue and sometimes duration. PRS’s own live-performance guidance says that live music “earns royalties” for the member and that reporting setlists means “getting paid what you’re owed”; its live policy infographic describes the process as matching songs performed to the songwriters who wrote them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span>
+Live-performance royalties are paid for the public performance of compositions: the underlying songs, not just the recordings. A performing [rights]({{ 'rights/' | relative_url }}) organisation or collecting society licenses venues, promoters, broadcasters and other music users, then distributes money to songwriters, composers and publishers according to the data it can match to registered works. In the live sector, that data often starts with the setlist: song title, writer information, performer, date, venue and sometimes duration. PRS’s own live-performance guidance says that live music “earns royalties” for the member and that reporting setlists means “getting paid what you’re owed”; its live policy infographic describes the process as matching songs performed to the songwriters who wrote them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span>
 
-The mechanics vary by society and territory, but the same principle appears internationally. BMI Live lets affiliated performing songwriters enter recent performance data so that concerts can be considered for payment, with payments made according to quarterly distributions once details are verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">BM I Live &#124; BMI.com</span><span class="citation-popover-snippet">BM I Live &#124; BMI.com</span></span></span> ASCAP’s OnStage programme similarly allows writer members to submit eligible claims when they perform their own songs live at licensed venues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Open source on ascap.com.</span></span></span> SOCAN tells members that concert royalties may already be waiting and directs them to “Concerts with No Setlist” or to submit a Notification of Live Music Performance with the setlist attached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/resource-centre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-title">Resource Centre</span><span class="citation-popover-snippet">Resource Centre</span></span></span>
+The mechanics vary by society and territory, but the same principle appears internationally. BMI Live lets affiliated performing songwriters enter recent performance data so that concerts can be considered for payment, with payments made according to quarterly distributions once details are verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">BM I Live &#124; BMI.com</span><span class="citation-popover-snippet">BM I Live &#124; BMI.com</span></span></span> ASCAP’s OnStage programme similarly allows writer members to submit eligible claims when they perform their own songs live at licensed venues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">Open source on ascap.com.</span></span></span> SOCAN tells members that concert royalties may already be waiting and directs them to “Concerts with No Setlist” or to submit a Notification of Live Music Performance with the setlist attached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/resource-centre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-title">Resource Centre</span><span class="citation-popover-snippet">Resource Centre</span></span></span>
 
-The important point is that the setlist is not merely descriptive. It is a rights-management dataset. It tells the royalty system which works were used, who wrote them, whether they were registered, and which rightsholders should share in the money collected from the event. PRS says that at popular concerts it charges venues a proportion of gross box-office receipts and then divides the money so each work receives a value based on the number of seconds performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> Without a reliable list of works and, where required, duration, that calculation becomes approximate, delayed or impossible.
+The important point is that the setlist is not merely descriptive. It is a rights-management dataset. It tells the royalty system which works were used, who wrote them, whether they were registered, and which rightsholders should share in the money collected from the event. PRS says that at popular concerts it charges venues a proportion of gross box-office receipts and then divides the money so each work receives a value based on the number of seconds performed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> Without a reliable list of works and, where required, duration, that calculation becomes approximate, delayed or impossible.
 
-This can also affect people who were not on stage. PRS notes that for cover bands, royalties are not paid to the performers but to the writers of the songs performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> That means a pub band playing a songwriter’s [catalogue]({{ 'catalogue/' | relative_url }}), a DJ playing a producer’s track, or a festival act covering another writer’s song can generate money for someone who may never know the performance happened unless the setlist is captured.
+This can also affect people who were not on stage. PRS notes that for cover bands, royalties are not paid to the performers but to the writers of the songs performed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> That means a pub band playing a songwriter’s [catalogue]({{ 'catalogue/' | relative_url }}), a DJ playing a producer’s track, or a festival act covering another writer’s song can generate money for someone who may never know the performance happened unless the setlist is captured.
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-1-dark.svg" | relative_url }}" alt="Setlists illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why gig data goes missing
 
 Setlists go missing because live music is messy in ways that streaming and radio are not. A [recording]({{ 'recording/' | relative_url }}) platform generates digital logs automatically. A concert may involve a handwritten sheet taped to a stage, a last-minute encore, a support artist whose details are poorly advertised, a venue that is not primarily a music venue, or a performer who does not know they need to report anything.
 
-PRS’s own member guidance makes this distinction clear. It says concert venues such as the O2 or Royal Albert Hall are required to send performance data in the form of setlists, but that non-concert venues such as pubs with occasional gigs may not be able to do so, so members need to report the performance themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> The Musicians’ Union’s practical guidance for PRS members also shows how much detail is needed: the member must find the venue or festival stage, select the performed works by song title, tunecode or International Standard Musical Work Code, include covers, and identify the performing act. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">how to report live performances to prs for music</span><span class="citation-popover-snippet">how to report live performances to prs for music</span></span></span>
+PRS’s own member guidance makes this distinction clear. It says concert venues such as the O2 or Royal Albert Hall are required to send performance data in the form of setlists, but that non-concert venues such as pubs with occasional gigs may not be able to do so, so members need to report the performance themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> The Musicians’ Union’s practical guidance for PRS members also shows how much detail is needed: the member must find the venue or festival stage, select the performed works by song title, tunecode or International Standard Musical Work Code, include covers, and identify the performing act.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">how to report live performances to prs for music</span><span class="citation-popover-snippet">how to report live performances to prs for music</span></span></span>
 
 Several failure points follow from that:
 
 * **The performer is not the writer.** A singer may perform songs written by bandmates, collaborators or outside writers. A cover performer may not know exact writer credits.
-* **The writer has not registered the work properly.** PRS’s reporting terms say works submitted on a setlist must be registered in its database to be considered for distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span>
-* **The deadline is missed.** PRS says small UK venue claims must be submitted within 12 months, while concert-venue claims have a three-year deadline unless additional validation is arranged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> SOCAN requires paid in-person concerts to be submitted within one year of the concert date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">Open source on socan.com.</span></span></span>
+* **The writer has not registered the work properly.** PRS’s reporting terms say works submitted on a setlist must be registered in its database to be considered for distribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span>
+* **The deadline is missed.** PRS says small UK venue claims must be submitted within 12 months, while concert-venue claims have a three-year deadline unless additional validation is arranged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> SOCAN requires paid in-person concerts to be submitted within one year of the concert date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">Open source on socan.com.</span></span></span>
 * **The event is licensed but not matched.** A venue or promoter may have paid a licence fee, but the collecting society may still lack a usable list of songs.
-* **The data is physically poor.** PRS has said it manually researches setlist details and has piloted tools to turn photos of handwritten setlists into readable text, which indicates how much of this system still depends on incomplete, late or informal documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **The data is physically poor.** PRS has said it manually researches setlist details and has piloted tools to turn photos of handwritten setlists into readable text, which indicates how much of this system still depends on incomplete, late or informal documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The result is not always a simple unpaid invoice. Sometimes the money is held while the society tries to identify the performance. Sometimes it is distributed later by a rule or analogy. Sometimes a songwriter can still claim it if they find the concert in an unidentified-performance list. But the longer the gap persists, the more likely the payment becomes detached from the actual song that generated it.
 
@@ -537,23 +537,23 @@ The result is not always a simple unpaid invoice. Sometimes the money is held wh
 
 ## The “black box” problem is a trust problem
 
-The most visible recent dispute in the UK has centred on PRS for Music and so-called “black box” royalties: money collected for music use that cannot be readily matched to the correct rightsholders. In July 2025, the Guardian reported that PRS’s list of concerts available for distribution had grown to more than 106,000 performances dating back to 2022, with money collected but not yet allocated because of missing or insufficient setlist information. The report said nearly three-quarters related to pop gigs, many in grassroots venues, and cited a 2019 unclaimed-pot figure of £2.7 million. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most visible recent dispute in the UK has centred on PRS for Music and so-called “black box” royalties: money collected for music use that cannot be readily matched to the correct rightsholders. In July 2025, the Guardian reported that PRS’s list of concerts available for distribution had grown to more than 106,000 performances dating back to 2022, with money collected but not yet allocated because of missing or insufficient setlist information. The report said nearly three-quarters related to pop gigs, many in grassroots venues, and cited a 2019 unclaimed-pot figure of £2.7 million.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That reporting fed into a wider legal and industry argument. Dave Rowntree of Blur brought collective proceedings against PRS over the distribution of unmatched royalties, alleging that PRS’s treatment of black box income unfairly benefited publishers over songwriters. The Competition Appeal Tribunal recorded the case in 2024 and issued its judgment on 27 August 2025. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catribunal.org.uk/cases/16347724-mr-david-alexander-de-horne-rowntree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catribunal.org.uk">[Competition Appeal Tribunal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catribunal.org.uk</span><span class="citation-popover-title">16347724 mr david alexander de horne rowntree</span><span class="citation-popover-snippet">16347724 mr david alexander de horne rowntree</span></span></span> Legal summaries of the judgment say the Tribunal refused certification and struck out the proposed collective claim, partly because the proposed class included all PRS writer members rather than only members with individual claims, and partly because the claimant had not provided a plausible method for calculating what should have been paid under the counterfactual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linklaters.com">[Linklaters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linklaters.com</span><span class="citation-popover-title">no encore for rowntree</span><span class="citation-popover-snippet">no encore for rowntree</span></span></span>
+That reporting fed into a wider legal and industry argument. Dave Rowntree of Blur brought collective proceedings against PRS over the distribution of unmatched royalties, alleging that PRS’s treatment of black box income unfairly benefited publishers over songwriters. The Competition Appeal Tribunal recorded the case in 2024 and issued its judgment on 27 August 2025.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catribunal.org.uk/cases/16347724-mr-david-alexander-de-horne-rowntree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catribunal.org.uk">[Competition Appeal Tribunal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catribunal.org.uk</span><span class="citation-popover-title">16347724 mr david alexander de horne rowntree</span><span class="citation-popover-snippet">16347724 mr david alexander de horne rowntree</span></span></span> Legal summaries of the judgment say the Tribunal refused certification and struck out the proposed collective claim, partly because the proposed class included all PRS writer members rather than only members with individual claims, and partly because the claimant had not provided a plausible method for calculating what should have been paid under the counterfactual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linklaters.com">[Linklaters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linklaters.com</span><span class="citation-popover-title">no encore for rowntree</span><span class="citation-popover-snippet">no encore for rowntree</span></span></span>
 
-That outcome does not make the setlist issue disappear. It shows why missing live data is difficult to litigate: if the works are unknown, proving exactly who lost how much becomes extremely hard. One legal commentary noted that the Tribunal considered unidentified works “prima facie unknowable” for the purpose of working out writer and publisher shares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macfarlanes.com/insights/102lo5x/rowntree-v-prs-unpacking-the-first-collective-proceedings-strike-out-ruling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macfarlanes.com">[Macfarlanes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macfarlanes.com</span><span class="citation-popover-title">Rowntree v PRS: unpacking the first collective proceedings</span><span class="citation-popover-snippet">Rowntree v PRS: unpacking the first collective proceedings</span></span></span> That is the core risk in miniature. Once the song data is absent, even a strong intuition that someone has been underpaid may not translate into an evidentially clean claim.
+That outcome does not make the setlist issue disappear. It shows why missing live data is difficult to litigate: if the works are unknown, proving exactly who lost how much becomes extremely hard. One legal commentary noted that the Tribunal considered unidentified works “prima facie unknowable” for the purpose of working out writer and publisher shares.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macfarlanes.com/insights/102lo5x/rowntree-v-prs-unpacking-the-first-collective-proceedings-strike-out-ruling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macfarlanes.com">[Macfarlanes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macfarlanes.com</span><span class="citation-popover-title">Rowntree v PRS: unpacking the first collective proceedings</span><span class="citation-popover-snippet">Rowntree v PRS: unpacking the first collective proceedings</span></span></span> That is the core risk in miniature. Once the song data is absent, even a strong intuition that someone has been underpaid may not translate into an evidentially clean claim.
 
-PRS has also pushed back against the idea that it simply withholds money. In a 2025 Music Business Worldwide opinion piece, Crispin Hunt, President of the PRS Members’ Council, argued that live-performance royalties are paid out based on available performance data and that setlist reporting should be treated as a basic part of the live economy rather than an optional extra. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The dispute, then, is not only about whether money exists. It is about whether the industry’s data pipeline is fair enough, transparent enough and practical enough for the songwriters who depend on it.
+PRS has also pushed back against the idea that it simply withholds money. In a 2025 Music Business Worldwide opinion piece, Crispin Hunt, President of the PRS Members’ Council, argued that live-performance royalties are paid out based on available performance data and that setlist reporting should be treated as a basic part of the live economy rather than an optional extra.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The dispute, then, is not only about whether money exists. It is about whether the industry’s data pipeline is fair enough, transparent enough and practical enough for the songwriters who depend on it.
 
 ## Why smaller writers feel the loss first
 
 A stadium artist may have managers, publishers, tour accountants and production staff whose routines include setlist submission. A new songwriter playing clubs may have none of that. They may be loading their own gear, selling [merch]({{ 'merch/' | relative_url }}), driving home at 2am and learning about live-performance royalties months later. The payment from one gig may not be life-changing, but across a year of support slots, small venues and festival stages it can become part of a working musician’s cash flow.
 
-PRS’s 2025 results underline why this matters. CISAC reported that more than 37,600 PRS members received royalties from live performances, and that a quarter of first-time earners received royalties because their music was performed live. It also said more than 231,000 live-performance setlists were submitted, helping more performances be recognised and paid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span><span class="citation-popover-snippet">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span></span></span> Those figures show both sides of the story: live royalties can open the door for emerging creators, but only when the performances are visible to the system.
+PRS’s 2025 results underline why this matters. CISAC reported that more than 37,600 PRS members received royalties from live performances, and that a quarter of first-time earners received royalties because their music was performed live. It also said more than 231,000 live-performance setlists were submitted, helping more performances be recognised and paid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span><span class="citation-popover-snippet">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span></span></span> Those figures show both sides of the story: live royalties can open the door for emerging creators, but only when the performances are visible to the system.
 
-There is also an equity issue. Missing data does not harm everyone equally. A market-share redistribution of unmatched money tends to follow the already visible catalogue, because the system has to distribute by some available proxy. That may be administratively defensible, but it can feel unfair to a writer whose income is most likely to come from small, poorly documented shows rather than heavily monitored tours. The Guardian quoted Music Venue Trust founder Mark Davyd describing the effect as a “reverse Robin Hood” problem, because money collected from many grassroots shows can become difficult to return to the exact songwriters whose work was performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There is also an equity issue. Missing data does not harm everyone equally. A market-share redistribution of unmatched money tends to follow the already visible catalogue, because the system has to distribute by some available proxy. That may be administratively defensible, but it can feel unfair to a writer whose income is most likely to come from small, poorly documented shows rather than heavily monitored tours. The Guardian quoted Music Venue Trust founder Mark Davyd describing the effect as a “reverse Robin Hood” problem, because money collected from many grassroots shows can become difficult to return to the exact songwriters whose work was performed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same pattern appears in official guidance from outside the UK. SOCAN explicitly tells members to search for “Concerts with No Setlist” because royalties may already be waiting, and BMI Live testimonials emphasise that the programme is especially useful for touring artists playing medium and smaller venues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/resource-centre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-title">Resource Centre</span><span class="citation-popover-snippet">Resource Centre</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/creators/royalty-policy-manual" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">royalty policy manual</span><span class="citation-popover-snippet">royalty policy manual</span></span></span> The practical message is clear: the less infrastructure surrounds the gig, the more the songwriter or their representative may need to become the data source.
+The same pattern appears in official guidance from outside the UK. SOCAN explicitly tells members to search for “Concerts with No Setlist” because royalties may already be waiting, and BMI Live testimonials emphasise that the programme is especially useful for touring artists playing medium and smaller venues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/resource-centre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-title">Resource Centre</span><span class="citation-popover-snippet">Resource Centre</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/creators/royalty-policy-manual" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">royalty policy manual</span><span class="citation-popover-snippet">royalty policy manual</span></span></span> The practical message is clear: the less infrastructure surrounds the gig, the more the songwriter or their representative may need to become the data source.
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-2-dark.svg" | relative_url }}" alt="Setlists illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What better reporting changes
@@ -562,15 +562,15 @@ Better setlist reporting does not magically solve every royalty dispute. Songs s
 
 For songwriters, better reporting changes three things. First, it makes [live income]({{ 'live-income/' | relative_url }}) more direct. Instead of relying on proxy distributions or waiting for a society to identify a concert later, the writer gives the system the information needed to match the performance to the work. Second, it makes statements more intelligible. A royalty line linked to a known venue and date is easier to audit than a broad distribution that cannot be tied back to a performance. Third, it strengthens bargaining power. If a songwriter can see which songs are earning from live use, they can make better decisions about touring, publishing administration and catalogue management.
 
-For venues and promoters, better reporting turns licensing into a more credible exchange. They already pay for the right to use music publicly. The setlist is the proof that the fee can be routed to the creators whose work supplied the value. PRS’s live policy infographic says a venue, promoter or performer can send the setlist and that it should include all songs performed, writer names, song titles and duration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> That is not a glamorous reform, but it is a practical one: embed setlist capture into settlement paperwork, promoter agreements, festival advance forms and artist post-show routines.
+For venues and promoters, better reporting turns licensing into a more credible exchange. They already pay for the right to use music publicly. The setlist is the proof that the fee can be routed to the creators whose work supplied the value. PRS’s live policy infographic says a venue, promoter or performer can send the setlist and that it should include all songs performed, writer names, song titles and duration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> That is not a glamorous reform, but it is a practical one: embed setlist capture into settlement paperwork, promoter agreements, festival advance forms and artist post-show routines.
 
-For collecting societies, better reporting is about trust as much as efficiency. PRS says it continues to invest in improved tracking and reporting tools, and CISAC connects increased setlist submission with more performances being recognised and paid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span><span class="citation-popover-snippet">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span></span></span> But the controversy around unidentified concerts shows that creators also want clearer visibility over what is missing, how long it remains claimable, what happens after deadlines pass and how unmatched money is ultimately distributed.
+For collecting societies, better reporting is about trust as much as efficiency. PRS says it continues to invest in improved tracking and reporting tools, and CISAC connects increased setlist submission with more performances being recognised and paid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisac.org">[CISAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisac.org</span><span class="citation-popover-title">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span><span class="citation-popover-snippet">PRS for Music expands the reach of royalties across the industry &#124; CISAC</span></span></span> But the controversy around unidentified concerts shows that creators also want clearer visibility over what is missing, how long it remains claimable, what happens after deadlines pass and how unmatched money is ultimately distributed.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LZ3ZqrU-00Y" title="How to Claim Your PRS for Music Royalties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LZ3ZqrU-00Y" target="_blank" rel="noopener noreferrer">How to Claim Your PRS for Music Royalties</a></p><p class="youtube-embed-meta">Channel: Sam Horton Music &middot; Views: 2.9K &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LZ3ZqrU-00Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LZ3ZqrU-00Y">Open on YouTube</a></p></div></div></div>
 
 ## The useful habit: treat every setlist as payment data
 
-The simplest cultural shift is to stop treating setlists as informal scraps of stagecraft. They are payment data. A songwriter who performs live should register works before touring, keep a dated record of every show, note the venue and stage, include covers where the society requires them, and submit within the relevant deadline. PRS encourages members to report all live performances as soon as possible and says eligibility depends on membership at the time of the performance, timely reporting and the music having been played live. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> BMI requires performance day and time, setlist and venue information, and says payments depend on verification and distribution schedules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">BM I Live &#124; BMI.com</span><span class="citation-popover-snippet">BM I Live &#124; BMI.com</span></span></span> SOCAN asks for a setlist and supporting proof such as a ticket stub, poster, digital asset or promoter agreement for paid concerts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">Open source on socan.com.</span></span></span>
+The simplest cultural shift is to stop treating setlists as informal scraps of stagecraft. They are payment data. A songwriter who performs live should register works before touring, keep a dated record of every show, note the venue and stage, include covers where the society requires them, and submit within the relevant deadline. PRS encourages members to report all live performances as soon as possible and says eligibility depends on membership at the time of the performance, timely reporting and the music having been played live.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zh-hk.facebook.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zh-hk.facebook.com</span><span class="citation-popover-title">PRSfor Music</span><span class="citation-popover-snippet">PRSfor Music</span></span></span> BMI requires performance day and time, setlist and venue information, and says payments depend on verification and distribution schedules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">BM I Live &#124; BMI.com</span><span class="citation-popover-snippet">BM I Live &#124; BMI.com</span></span></span> SOCAN asks for a setlist and supporting proof such as a ticket stub, poster, digital asset or promoter agreement for paid concerts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socan.com">[SOCAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socan.com</span><span class="citation-popover-snippet">Open source on socan.com.</span></span></span>
 
 A practical live-music routine looks less like a legal process than a tour habit:
 
@@ -585,199 +585,199 @@ A practical live-music routine looks less like a legal process than a tour habit
 
 </div>
 
-That habit matters because the live economy is increasingly important for creators, while its data remains uneven. PRS reported strong live growth in 2025, with live royalties topping £100 million and more than 231,000 setlists collected according to public reporting around its results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span> The more money flows through live performance, the more costly missing setlists become. A missing setlist is not just a lost memory of the night. It can be the difference between a song being heard and a songwriter being paid.
+That habit matters because the live economy is increasingly important for creators, while its data remains uneven. PRS reported strong live growth in 2025, with live royalties topping £100 million and more than 231,000 setlists collected according to public reporting around its results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span> The more money flows through live performance, the more costly missing setlists become. A missing setlist is not just a lost memory of the night. It can be the difference between a song being heard and a songwriter being paid.
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-3-dark.svg" | relative_url }}" alt="Setlists illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Setlists Are More Than Souvenirs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Setlists Are More Than Souvenirs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains royalties, rights administration, and industry payments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains royalties, rights administration, and industry payments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The plain and simple guide to music publishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1331461-M.jpg" alt="Cover for The plain and simple guide to music publishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The plain and simple guide to music publishing">The plain and simple guide to music publishing</a>
-        </h4>
-        <p class="fr-book-author">By Randall D. Wixen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The plain and simple guide to music publishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1331461-M.jpg" alt="Cover for The plain and simple guide to music publishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The plain and simple guide to music publishing">The plain and simple guide to music publishing</a>
+</h4>
+<p class="fr-book-author">By Randall D. Wixen</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Copyright, Economic aspects of Music, Music publishing, Music, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Copyright, Economic aspects of Music, Music publishing, Music, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+plain+and+simple+to+music+publishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The plain and simple to music publishing books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+plain+and+simple+to+music+publishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The plain and simple to music publishing books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-setlists-are-more-than-souvenirs-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -793,7 +793,7 @@ That habit matters because the live economy is increasingly important for creato
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -813,7 +813,7 @@ That habit matters because the live economy is increasingly important for creato
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -845,7 +845,7 @@ That habit matters because the live economy is increasingly important for creato
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -897,7 +897,7 @@ That habit matters because the live economy is increasingly important for creato
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -942,7 +942,7 @@ That habit matters because the live economy is increasingly important for creato
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -983,229 +983,229 @@ That habit matters because the live economy is increasingly important for creato
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bmi.com  
    Title: BM I Live | BMI.com  
-   Link: <a href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/special/bmi_live</a>  
+   Link:<a href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/special/bmi_live</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
+   Link:<a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: socan.com  
    Title: Resource Centre  
-   Link: <a href="https://www.socan.com/resource-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/resource-centre/</a>  
+   Link:<a href="https://www.socan.com/resource-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/resource-centre/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: linklaters.com  
    Title: no encore for rowntree  
-   Link: <a href="https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree" target="_blank" rel="noopener noreferrer nofollow">https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree</a>  
+   Link:<a href="https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree" target="_blank" rel="noopener noreferrer nofollow">https://www.linklaters.com/en/insights/blogs/linkingcollectiveredress/2025/september/no-encore-for-rowntree</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: macfarlanes.com  
    Title: Rowntree v PRS: unpacking the first collective proceedings  
-   Link: <a href="https://www.macfarlanes.com/insights/102lo5x/rowntree-v-prs-unpacking-the-first-collective-proceedings-strike-out-ruling" target="_blank" rel="noopener noreferrer nofollow">https://www.macfarlanes.com/insights/102lo5x/rowntree-v-prs-unpacking-the-first-collective-proceedings-strike-out-ruling</a>  
+   Link:<a href="https://www.macfarlanes.com/insights/102lo5x/rowntree-v-prs-unpacking-the-first-collective-proceedings-strike-out-ruling" target="_blank" rel="noopener noreferrer nofollow">https://www.macfarlanes.com/insights/102lo5x/rowntree-v-prs-unpacking-the-first-collective-proceedings-strike-out-ruling</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cisac.org  
    Title: PRS for Music expands the reach of royalties across the industry | CISAC  
-   Link: <a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
+   Link:<a href="https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.cisac.org/Newsroom/society-news/prs-music-expands-reach-royalties-across-industry</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lindacooganb.medium.com  
-   Link: <a href="https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557" target="_blank" rel="noopener noreferrer nofollow">https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557</a>  
+   Link:<a href="https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557" target="_blank" rel="noopener noreferrer nofollow">https://lindacooganb.medium.com/the-royalty-maze-why-so-many-artists-still-dont-understand-how-music-money-works-4d241c24e557</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: socan.com  
-   Link: <a href="https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf</a>  
+   Link:<a href="https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socan.com/wp-content/themes/socan/assets/files/Get-Set-Get-Paid-Concerts-with-no-set-list-guide.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bmi.com  
    Title: royalty policy manual  
-   Link: <a href="https://www.bmi.com/creators/royalty-policy-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/royalty-policy-manual</a>  
+   Link:<a href="https://www.bmi.com/creators/royalty-policy-manual" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/creators/royalty-policy-manual</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: in the latest issue of music business worldwide mbw prs members council presiden  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/in-the-latest-issue-of-music-business-worldwide-mbw-prs-members-council-presiden/1380149070147445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/in-the-latest-issue-of-music-business-worldwide-mbw-prs-members-council-presiden/1380149070147445/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/in-the-latest-issue-of-music-business-worldwide-mbw-prs-members-council-presiden/1380149070147445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/in-the-latest-issue-of-music-business-worldwide-mbw-prs-members-council-presiden/1380149070147445/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/494929453962326/posts/7528418260613375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/494929453962326/posts/7528418260613375/</a>  
+   Link:<a href="https://www.facebook.com/groups/494929453962326/posts/7528418260613375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/494929453962326/posts/7528418260613375/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: zh-hk.facebook.com  
    Title: PRSfor Music  
-   Link: <a href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow">https://zh-hk.facebook.com/PRSforMusic</a>  
+   Link:<a href="https://zh-hk.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow">https://zh-hk.facebook.com/PRSforMusic</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/videos/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1314464800860011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/videos/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1314464800860011/</a>  
+   Link:<a href="https://www.facebook.com/PRSforMusic/videos/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1314464800860011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/videos/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1314464800860011/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lv-lv.facebook.com  
    Title: PRSfor Music  
-   Link: <a href="https://lv-lv.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow">https://lv-lv.facebook.com/PRSforMusic</a>  
+   Link:<a href="https://lv-lv.facebook.com/PRSforMusic" target="_blank" rel="noopener noreferrer nofollow">https://lv-lv.facebook.com/PRSforMusic</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
+   Link:<a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/songview" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/songview</a>  
+   Link:<a href="https://www.ascap.com/songview" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/songview</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: prsformusic.com  
    Title: PRS for Music Reporting live performances | PRS for Music  
-   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
+   Link:<a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: prsformusic.com  
    Title: PRS for Music Live Policy Infographic  
-   Link: <a href="https://www.prsformusic.com/-/media/images/2025-livelihood-campaign/live-policy-infographic--v6-511.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/images/2025-livelihood-campaign/live-policy-infographic--v6-511.ashx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicLive Policy InfographicNovember 5, 2025 — A venue, promoter or performer can send us the setlist. It must list all songs per...</p></details>
+   Link:<a href="https://www.prsformusic.com/-/media/images/2025-livelihood-campaign/live-policy-infographic--v6-511.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/images/2025-livelihood-campaign/live-policy-infographic--v6-511.ashx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicLive Policy InfographicNovember 5, 2025 — A venue, promoter or performer can send us the setlist. It must list all songs per...</p></details>
    Published: November 5, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: prsformusic.com  
    Title: how to maximise your prs membership  
-   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-your-prs-membership" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-your-prs-membership</a>  
+   Link:<a href="https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-your-prs-membership" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-maximise-your-prs-membership</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: musiciansunion.org.uk  
    Title: how to report live performances to prs for music  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
+   Link:<a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/terms-of-use/reporting-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/terms-of-use/reporting-live-performances</a>  
+   Link:<a href="https://www.prsformusic.com/terms-of-use/reporting-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/terms-of-use/reporting-live-performances</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: catribunal.org.uk  
    Title: 16347724 mr david alexander de horne rowntree  
-   Link: <a href="https://www.catribunal.org.uk/cases/16347724-mr-david-alexander-de-horne-rowntree" target="_blank" rel="noopener noreferrer nofollow">https://www.catribunal.org.uk/cases/16347724-mr-david-alexander-de-horne-rowntree</a>  
+   Link:<a href="https://www.catribunal.org.uk/cases/16347724-mr-david-alexander-de-horne-rowntree" target="_blank" rel="noopener noreferrer nofollow">https://www.catribunal.org.uk/cases/16347724-mr-david-alexander-de-horne-rowntree</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/setlist-reporting-isnt-an-optional-extra-its-a-fundamental-part-of-the-live-music-economy/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aristake.com  
-   Link: <a href="https://aristake.com/bmi/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/bmi/</a>  
+   Link:<a href="https://aristake.com/bmi/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/bmi/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: prsformusic.com  
    Title: performing right society limited  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy</a>  
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/public-performance-revenue--prs-distribution-policy</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: prsformusic.com  
    Title: performing right society limited  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/full-document--prs-distribution-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/full-document--prs-distribution-policy.pdf</a>  
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/full-document--prs-distribution-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/prs-distribution-policy/full-document--prs-distribution-policy.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/overseas-revenue-prs-dist-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/overseas-revenue-prs-dist-policy</a>  
+   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/overseas-revenue-prs-dist-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/membership/membership-policies/overseas-revenue-prs-dist-policy</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/claim-unpaid-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/claim-unpaid-royalties</a>  
+   Link:<a href="https://www.prsformusic.com/royalties/claim-unpaid-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/claim-unpaid-royalties</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances</a>  
+   Link:<a href="https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances/self-administering-public-performances</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
+   Link:<a href="https://www.prsformusic.com/royalties/dj-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/dj-royalties</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMciKhxoixj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMciKhxoixj/</a>  
+   Link:<a href="https://www.instagram.com/reel/DMciKhxoixj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMciKhxoixj/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DGTPL_3tw04/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGTPL_3tw04/</a>  
+   Link:<a href="https://www.instagram.com/reel/DGTPL_3tw04/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGTPL_3tw04/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/a-modern-collecting-society-needs-the-pace-and-resilience-of-a-modern-digital-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/a-modern-collecting-society-needs-the-pace-and-resilience-of-a-modern-digital-service/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/a-modern-collecting-society-needs-the-pace-and-resilience-of-a-modern-digital-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/a-modern-collecting-society-needs-the-pace-and-resilience-of-a-modern-digital-service/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: guitargirlmag.com  
    Title: socan muzooka collaborate streamline live show reporting artists  
-   Link: <a href="https://guitargirlmag.com/news/socan-muzooka-collaborate-streamline-live-show-reporting-artists/" target="_blank" rel="noopener noreferrer nofollow">https://guitargirlmag.com/news/socan-muzooka-collaborate-streamline-live-show-reporting-artists/</a>  
+   Link:<a href="https://guitargirlmag.com/news/socan-muzooka-collaborate-streamline-live-show-reporting-artists/" target="_blank" rel="noopener noreferrer nofollow">https://guitargirlmag.com/news/socan-muzooka-collaborate-streamline-live-show-reporting-artists/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: brickcourt.co.uk  
    Title: mpetition appeal tribunal strikes out blur drummers cpo claim  
-   Link: <a href="https://www.brickcourt.co.uk/news/detail/competition-appeal-tribunal-strikes-out-blur-drummers-cpo-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.brickcourt.co.uk/news/detail/competition-appeal-tribunal-strikes-out-blur-drummers-cpo-claim</a>  
+   Link:<a href="https://www.brickcourt.co.uk/news/detail/competition-appeal-tribunal-strikes-out-blur-drummers-cpo-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.brickcourt.co.uk/news/detail/competition-appeal-tribunal-strikes-out-blur-drummers-cpo-claim</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: muzooka.com  
    Title: SOCA N Setlist Reporting  
-   Link: <a href="https://www.muzooka.com/performing-rights-organization/socan" target="_blank" rel="noopener noreferrer nofollow">https://www.muzooka.com/performing-rights-organization/socan</a>  
+   Link:<a href="https://www.muzooka.com/performing-rights-organization/socan" target="_blank" rel="noopener noreferrer nofollow">https://www.muzooka.com/performing-rights-organization/socan</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Performance Rights Organizations and Live Music Royalties  
-   Link: <a href="https://www.youtube.com/watch?v=vV9V0j7sX8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV9V0j7sX8c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Live Performance Royalties and Setlists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vV9V0j7sX8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV9V0j7sX8c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Live Performance Royalties and Setlists...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Music Royalties: The Importance of Performance Reporting  
-   Link: <a href="https://www.youtube.com/watch?v=wX-y0M5m29s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-y0M5m29s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Paid for Live Gigs as a Songwriter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wX-y0M5m29s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-y0M5m29s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Paid for Live Gigs as a Songwriter...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/</a>  
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/1oyi71f/are_you_collecting_all_the_royalties_youre_owed/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/140046243/BMI-Royalty-Information" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/140046243/BMI-Royalty-Information</a>  
+   Link:<a href="https://www.scribd.com/document/140046243/BMI-Royalty-Information" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/140046243/BMI-Royalty-Information</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/georgeholliday_most-brands-i-talk-to-think-bespoke-music-activity-7449385570419564544-cc64" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/georgeholliday_most-brands-i-talk-to-think-bespoke-music-activity-7449385570419564544-cc64</a>  
+   Link:<a href="https://www.linkedin.com/posts/georgeholliday_most-brands-i-talk-to-think-bespoke-music-activity-7449385570419564544-cc64" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/georgeholliday_most-brands-i-talk-to-think-bespoke-music-activity-7449385570419564544-cc64</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg</a>  
+   Link:<a href="https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/prs-for-music_the-story-of-a-setlist-activity-7392163184037556224-xJvg</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQti4BaiIHp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQti4BaiIHp/</a>  
+   Link:<a href="https://www.instagram.com/p/DQti4BaiIHp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQti4BaiIHp/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: anotemusic.com  
-   Link: <a href="https://www.anotemusic.com/news/articles/how-music-royalties-distribution-works" target="_blank" rel="noopener noreferrer nofollow">https://www.anotemusic.com/news/articles/how-music-royalties-distribution-works</a>  
+   Link:<a href="https://www.anotemusic.com/news/articles/how-music-royalties-distribution-works" target="_blank" rel="noopener noreferrer nofollow">https://www.anotemusic.com/news/articles/how-music-royalties-distribution-works</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicians/comments/1cv2n54/if_you_play_original_music_live_you_should_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicians/comments/1cv2n54/if_you_play_original_music_live_you_should_be/</a>  
+   Link:<a href="https://www.reddit.com/r/musicians/comments/1cv2n54/if_you_play_original_music_live_you_should_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicians/comments/1cv2n54/if_you_play_original_music_live_you_should_be/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CmLwNU_I8UN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CmLwNU_I8UN/</a>
+   Link:<a href="https://www.instagram.com/reel/CmLwNU_I8UN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CmLwNU_I8UN/</a>

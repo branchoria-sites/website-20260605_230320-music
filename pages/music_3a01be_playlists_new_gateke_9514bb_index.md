@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-playlists-new-gateke/
 description: Focused pages that expand on Playlists.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_playlists_new_gateke_9514bb
 parent_title: Playlists
@@ -16,7 +16,7 @@ parent_permalink: /playlists/
 
 # Explore Topics in Playlists
 
-The following pages expand on the main **[Playlists]({{ '/playlists/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Playlists]({{ '/playlists/' | relative_url }})** page and cover its key branches in.
 
 - [Algotorial]({{ '/algotorial/' | relative_url }})
 - [Discover Weekly]({{ '/discover-weekly/' | relative_url }})

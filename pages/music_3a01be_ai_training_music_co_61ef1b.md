@@ -501,25 +501,25 @@ image: /assets/images/music_3a01be_ai_training_music_co_61ef1b-overview-social.j
 
 ## Introduction
 
-AI music systems challenge copyright because they need large quantities of existing music to learn how songs, recordings, voices, genres and production styles work. The dispute is not simply about whether a machine can make a song. It is about whether companies may copy copyrighted recordings and compositions into training datasets without permission, whether that copying is excused by law, and whether musicians should be paid when their work becomes part of the raw material for a competing system. The argument has moved quickly from theory to litigation: major record companies sued [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) in 2024 over alleged mass copying of sound recordings, while later settlements began pushing parts of the market towards licensed AI music models. RIAA <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+AI music systems challenge copyright because they need large quantities of existing music to learn how songs, recordings, voices, genres and production styles work. The dispute is not simply about whether a machine can make a song. It is about whether companies may copy copyrighted recordings and compositions into training datasets without permission, whether that copying is excused by law, and whether musicians should be paid when their work becomes part of the raw material for a competing system. The argument has moved quickly from theory to litigation: major record companies sued [Suno and Udio]({{ 'suno-and-udio/' | relative_url }}) in 2024 over alleged mass copying of sound recordings, while later settlements began pushing parts of the market towards licensed AI music models. RIAA<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-overview.webp" | relative_url }}" alt="Overview image for AI Training" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Training Is Different From Ordinary Listening
 
-A human listener can learn from music without making a commercial copy of a [catalogue]({{ 'catalogue/' | relative_url }}). AI training is different because it typically involves collecting files, converting them into machine-readable form, extracting patterns and repeatedly processing them to adjust a model. In copyright terms, that process may involve reproductions of recordings, compositions or lyrics even before any AI-generated output reaches the public. The US Copyright Offices 2025 report framed training as a chain of acts that can affect copyright markets through lost sales, market dilution and lost [licensing]({{ 'licensing/' | relative_url }}) opportunities, rather than as a single abstract act of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A human listener can learn from music without making a commercial copy of a [catalogue]({{ 'catalogue/' | relative_url }}). AI training is different because it typically involves collecting files, converting them into machine-readable form, extracting patterns and repeatedly processing them to adjust a model. In copyright terms, that process may involve reproductions of recordings, compositions or lyrics even before any AI-generated output reaches the public. The US Copyright Offices 2025 report framed training as a chain of acts that can affect copyright markets through lost sales, market dilution and lost [licensing]({{ 'licensing/' | relative_url }}) opportunities, rather than as a single abstract act of learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Music makes this especially sensitive because a commercially released track usually contains more than one right. A sound [recording]({{ 'recording/' | relative_url }}) may be owned or controlled by a label; the underlying composition may involve songwriters and publishers; [lyrics]({{ 'lyrics/' | relative_url }}) may have separate licensing issues; performances may raise performer and voice-related concerns. A model trained on a recording may therefore touch multiple layers of rights at once, even if the final generated track does not reproduce a whole chorus or sample in the traditional sense.
 
-The legal question is not settled everywhere. AI developers often argue that training is transformative because the system is not built to distribute copies of the original works but to generate new material. Music rightsholders answer that training requires unlicensed copying, that the resulting systems can compete directly with human-made songs, and that copyright already provides licensing markets for uses of recordings and musical works. The US Copyright Office noted that licensing markets for AI training were already being discussed or developed in sectors including music, and that such markets need not be old or universal to matter in a copyright analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The legal question is not settled everywhere. AI developers often argue that training is transformative because the system is not built to distribute copies of the original works but to generate new material. Music rightsholders answer that training requires unlicensed copying, that the resulting systems can compete directly with human-made songs, and that copyright already provides licensing markets for uses of recordings and musical works. The US Copyright Office noted that licensing markets for AI training were already being discussed or developed in sectors including music, and that such markets need not be old or universal to matter in a copyright analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-1-dark.svg" | relative_url }}" alt="AI Training illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Training Data and Permission
 
 The central permission problem is practical as well as legal. A modern music model may need huge volumes of audio to learn rhythm, harmony, vocal timbre, mixing choices, genre conventions and how words sit against melody. If that material is drawn from commercial catalogues, the model developer may need permission from parties who control both recordings and songs. That is manageable for a narrow licensed catalogue, but far harder for internet-scale scraping, old recordings with unclear ownership, remixes, samples, covers and user-uploaded tracks.
 
-The Suno and Udio cases made this issue concrete. The Recording Industry Association of America announced lawsuits in June 2024 on behalf of major labels, alleging that the companies copied copyrighted sound recordings without permission to train music-generation services. Reuters reported that the labels sought statutory damages of up to US$150,000 per copied song and alleged copying of hundreds or thousands of works across the two cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
+The Suno and Udio cases made this issue concrete. The Recording Industry Association of America announced lawsuits in June 2024 on behalf of major labels, alleging that the companies copied copyrighted sound recordings without permission to train music-generation services. Reuters reported that the labels sought statutory damages of up to US$150,000 per copied song and alleged copying of hundreds or thousands of works across the two cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-snippet">Open source on riaa.com.</span></span></span>
 
-The defendants broad answer was that training on copyrighted works can be lawful fair use under US law. That matters because fair use is not a blanket permission rule; it is a context-specific defence that weighs factors such as purpose, amount used and market effect. In music, the market-effect question is unusually sharp because AI songs can occupy the same attention economy as the recordings that may have helped train the model. The US Copyright Office stressed that courts consider not only harm from one defendants act but also the effect of unrestricted and widespread conduct of the same kind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The defendants broad answer was that training on copyrighted works can be lawful fair use under US law. That matters because fair use is not a blanket permission rule; it is a context-specific defence that weighs factors such as purpose, amount used and market effect. In music, the market-effect question is unusually sharp because AI songs can occupy the same attention economy as the recordings that may have helped train the model. The US Copyright Office stressed that courts consider not only harm from one defendants act but also the effect of unrestricted and widespread conduct of the same kind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Permission also becomes harder when AI firms treat training datasets as trade secrets. Developers may argue that dataset disclosure would reveal competitive information, while rightsholders argue that they cannot enforce [rights]({{ 'rights/' | relative_url }}), negotiate licences or verify opt-outs without knowing what was used. This is why transparency has become a governance issue rather than a mere paperwork issue: without some form of dataset disclosure, audit trail or rights-reservation mechanism, consent can be almost impossible to check after the fact.
 
@@ -529,20 +529,20 @@ Permission also becomes harder when AI firms treat training datasets as trade se
 
 The policy fight is often described as licensing versus innovation, but the real choice is more precise: who bears the transaction cost of permission? An opt-in system requires AI developers to secure licences before using copyrighted music. An opt-out system allows some uses unless rightsholders reserve their rights in a recognised way. A broad exception allows training with little or no case-by-case permission. Each approach favours different actors.
 
-The UKs 2026 report on copyright and AI shows how divided the field is. In the UK consultation, a broad data-mining exception with rights reservation was supported by only 3% of respondents, while the report recorded strong opposition from creative industries, individual creators and performers. A separate option to strengthen copyright so that licensing is required for AI development was supported by 81% of respondents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
+The UKs 2026 report on copyright and AI shows how divided the field is. In the UK consultation, a broad data-mining exception with rights reservation was supported by only 3% of respondents, while the report recorded strong opposition from creative industries, individual creators and performers. A separate option to strengthen copyright so that licensing is required for AI development was supported by 81% of respondents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
-The opt-out model sounds tidy until it meets the realities of music. A global hit may be controlled by sophisticated companies that can deploy technical rights reservations, but a session musician, independent songwriter, small label or self-releasing artist may not know where their work has travelled or how to mark it machine-readably. The UK report recorded concerns that opt-outs could impose a heavy administrative burden on rightsholders, especially individuals and small businesses, while AI developers themselves disagreed over what form of rights reservation should count. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
+The opt-out model sounds tidy until it meets the realities of music. A global hit may be controlled by sophisticated companies that can deploy technical rights reservations, but a session musician, independent songwriter, small label or self-releasing artist may not know where their work has travelled or how to mark it machine-readably. The UK report recorded concerns that opt-outs could impose a heavy administrative burden on rightsholders, especially individuals and small businesses, while AI developers themselves disagreed over what form of rights reservation should count.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
-Licensing is not a magic fix either. Direct deals can bring money and control, but they may favour large catalogues that have the leverage to negotiate. Collective licensing can reduce transaction costs and help smaller rightsholders bargain together, but it may not suit every right, repertoire or market. The UK government described AI training licensing as a new and growing market, noted that collective licensing is often useful where direct licensing is impractical, and said it would keep market-led licensing under review rather than impose a licensing structure immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
+Licensing is not a magic fix either. Direct deals can bring money and control, but they may favour large catalogues that have the leverage to negotiate. Collective licensing can reduce transaction costs and help smaller rightsholders bargain together, but it may not suit every right, repertoire or market. The UK government described AI training licensing as a new and growing market, noted that collective licensing is often useful where direct licensing is impractical, and said it would keep market-led licensing under review rather than impose a licensing structure immediately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
-Recent music deals show the market moving towards controlled licensing, but not uniformly. Universal Music Group reached an agreement with Udio that includes compensation for participating UMG artists and songwriters for training and outputs, with a new platform planned under licensed terms. Warner Music Group later settled with Suno, with Reuters reporting that Suno would replace current models with licensed AI models in 2026 and introduce download restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent music deals show the market moving towards controlled licensing, but not uniformly. Universal Music Group reached an agreement with Udio that includes compensation for participating UMG artists and songwriters for training and outputs, with a new platform planned under licensed terms. Warner Music Group later settled with Suno, with Reuters reporting that Suno would replace current models with licensed AI models in 2026 and introduce download restrictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-2-dark.svg" | relative_url }}" alt="AI Training illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Outputs Do Not Solve the Training Problem
 
 A common misunderstanding is that copyright is only implicated if an AI-generated song sounds too much like a protected work. Output similarity matters, but it is not the whole dispute. Rightsholders argue that the unauthorised copying happens at the training stage, even if many outputs are new. Developers answer that training is analogous to analysis and that liability should depend on whether the system produces infringing material. This difference explains why the same case can involve both technical questions about training data and familiar questions about substantial similarity.
 
-Music also has a distinctive style problem. Copyright generally does not protect style in the abstract: no one owns 1980s synth-pop, trap hi-hats or Beatles-like harmony as a general idea. Yet a model that can produce tracks strongly associated with a living artists sound may still affect that artists market, reputation and negotiating power. The US Copyright Office noted that even where outputs are not substantially similar to a specific work, stylistic imitation made possible by training can affect a creators market, while also recognising that copyright protection for style itself is legally limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Music also has a distinctive style problem. Copyright generally does not protect style in the abstract: no one owns 1980s synth-pop, trap hi-hats or Beatles-like harmony as a general idea. Yet a model that can produce tracks strongly associated with a living artists sound may still affect that artists market, reputation and negotiating power. The US Copyright Office noted that even where outputs are not substantially similar to a specific work, stylistic imitation made possible by training can affect a creators market, while also recognising that copyright protection for style itself is legally limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S. Copyright Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is why the music industry often links [training disputes]({{ 'training-disputes/' | relative_url }}) to voice, likeness and artist identity. A synthetic song may not copy a full recording, but it can imitate a singers timbre, a producers sonic signature or a genre niche built by real performers. That may fall partly outside traditional copyright and into publicity rights, passing off, unfair competition, contract or platform policy, depending on jurisdiction. Still, the training question remains the foundation: whether the model should have been allowed to absorb the relevant recordings and compositions in the first place.
 
@@ -550,13 +550,13 @@ This is why the music industry often links [training disputes]({{ 'training-disp
 
 ## How Regulation Is Trying to Catch Up
 
-Governments are experimenting with transparency, rights reservation and licensing support rather than converging on one global rule. The EU AI Act requires general-purpose AI providers to address transparency and copyright compliance obligations, and the European Commissions General-Purpose AI Code of Practice includes separate transparency and copyright chapters to help providers comply with Article 53 obligations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Governments are experimenting with transparency, rights reservation and licensing support rather than converging on one global rule. The EU AI Act requires general-purpose AI providers to address transparency and copyright compliance obligations, and the European Commissions General-Purpose AI Code of Practice includes separate transparency and copyright chapters to help providers comply with Article 53 obligations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For music, EU-style transparency matters because it can make hidden training practices more visible. If a model provider must document training processes or summarise training content, rightsholders gain at least some basis for asking whether their catalogues were used. However, high-level summaries may still be too vague for a songwriter or small label trying to prove that a particular work was copied. That tension is why creator organisations continue to argue that transparency must be detailed enough to support enforcement, not merely broad enough to satisfy regulators.
 
-The UK has taken a more cautious path after strong opposition to an opt-out exception. Its 2026 report proposed monitoring market-led licensing and developing best practice on input transparency and technical standards, rather than immediately imposing a new licensing mechanism. That approach avoids rushing a flawed framework, but it also leaves uncertainty for musicians and developers while courts, licences and platform policies evolve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
+The UK has taken a more cautious path after strong opposition to an opt-out exception. Its 2026 report proposed monitoring market-led licensing and developing best practice on input transparency and technical standards, rather than immediately imposing a new licensing mechanism. That approach avoids rushing a flawed framework, but it also leaves uncertainty for musicians and developers while courts, licences and platform policies evolve.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
-The United States remains especially important because many leading AI companies and major music rights disputes are centred there. The Copyright Office did not recommend an immediate compulsory licensing scheme for generative AI training, but its analysis rejected the idea that all training is automatically fair use or automatically infringing. For music, that means case-specific litigation and negotiated licensing will continue to shape the practical rules before a single legislative answer emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcdermottlaw.com">[McDermott]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcdermottlaw.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The United States remains especially important because many leading AI companies and major music rights disputes are centred there. The Copyright Office did not recommend an immediate compulsory licensing scheme for generative AI training, but its analysis rejected the idea that all training is automatically fair use or automatically infringing. For music, that means case-specific litigation and negotiated licensing will continue to shape the practical rules before a single legislative answer emerges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcdermottlaw.com">[McDermott]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcdermottlaw.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-3-dark.svg" | relative_url }}" alt="AI Training illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_ai_training_music_co_61ef1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Dispute Affects Human Creators
@@ -565,7 +565,7 @@ For listeners, AI music may look like another production tool. For working music
 
 The effect will not be the same for every creator. Some established artists and catalogues may benefit from licensing deals, official remix tools or fan-interaction products. Some disabled, independent or experimental musicians may use AI tools to sketch ideas, arrange demos or overcome technical barriers. But those benefits do not erase the copyright question: a tool can be creatively useful and still be built on contested training data. The governance challenge is to make space for legitimate AI-assisted creativity without treating the existing music ecosystem as free infrastructure.
 
-Compensation is also about distribution, not just whether money changes hands. A label-level licence may pay a rightsholder, but performers, songwriters and producers may not automatically share equally unless contracts, collective agreements or policy rules require it. The UK report recorded creator-group concerns that AI licensing benefits may not flow to individual or small rightsholders, and that consent should be explicit, specific and meaningful rather than buried in old or generic contracts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
+Compensation is also about distribution, not just whether money changes hands. A label-level licence may pay a rightsholder, but performers, songwriters and producers may not automatically share equally unless contracts, collective agreements or policy rules require it. The UK report recorded creator-group concerns that AI licensing benefits may not flow to individual or small rightsholders, and that consent should be explicit, specific and meaningful rather than buried in old or generic contracts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Report on Copyright and Artificial Intelligence</span><span class="citation-popover-snippet">Report on Copyright and Artificial Intelligence</span></span></span>
 
 The deepest concern is cultural as well as economic. Music scenes depend on people taking risks, developing voices, building audiences and making a living long enough to keep creating. If AI systems can absorb that labour without permission, the incentive to invest in new human artists may weaken. If permission and payment systems are too rigid or expensive, smaller AI developers and independent musicians may be locked out while only large technology firms and major catalogues can participate. A sustainable settlement has to solve both sides of that problem.
 
@@ -578,194 +578,194 @@ The future of AI music copyright is unlikely to be decided by one court case or 
 The hard question is not whether AI can learn from music. It can. The hard question is whether that learning should happen by unlicensed copying, by negotiated permission, by statutory exception, or by a hybrid system that distinguishes research, commercial deployment, public-domain works, licensed catalogues and creator opt-outs. Music copyright is being forced to define what learning means when the learner is not a person, the training material is a valuable cultural catalogue, and the outputs can enter the same market as the humans whose work made the system possible.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can AI Learn From Copyrighted Music?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can AI Learn From Copyrighted Music?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Platform+Revolution+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Platform Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bvd1CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Platform Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Platform Revolution">Platform Revolution</a>
+</h4>
+<p class="fr-book-author">By Geoffrey G. Parker, Marshall W. Van Alstyne et al.</p>
         
-        <p class="fr-book-desc">Directly useful for understanding moderation and governance tradeoffs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Platform+Revolution+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly useful for understanding moderation and governance tradeoffs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Platform+Revolution+Geoffrey+G.+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains rights ownership and compensation structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains rights ownership and compensation structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Major+Labels+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
-        </h4>
-        <p class="fr-book-author">By Kelefa Sanneh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Major+Labels+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
+</h4>
+<p class="fr-book-author">By Kelefa Sanneh</p>
         
-        <p class="fr-book-desc">Connects genres, culture and commercial music systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Major+Labels+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects genres, culture and commercial music systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Major+Labels+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The copyright handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/758000-M.jpg" alt="Cover for The copyright handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The copyright handbook">The copyright handbook</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Fishman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The copyright handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/758000-M.jpg" alt="Cover for The copyright handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The copyright handbook">The copyright handbook</a>
+</h4>
+<p class="fr-book-author">By Stephen Fishman</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Popular works, Copyright, International Copyright, Copyright, united states, Copyright, international.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Popular works, Copyright, International Copyright, Copyright, united states, Copyright, international.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+copyright+handbook+Stephen+Fishman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Platform+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Platform Revolution</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster"><img src="{{ '/assets/images/marketplace-covers/0ec66dc070ac96c9a946.jpg' | relative_url }}" alt="Listing image for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster"><img src="{{ '/assets/images/marketplace-covers/0ec66dc070ac96c9a946.jpg' | relative_url }}" alt="Listing image for RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">RARE 1961 Music Hall Theatre Restaurant “East Lynne Production Large Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LP Pristine Reboot CD/POSTER/GATEFOLD NEAR MINT Pristine Music Production"><img src="{{ '/assets/images/marketplace-covers/cfb2aaf3f8eec50ebe39.jpg' | relative_url }}" alt="Listing image for LP Pristine Reboot CD/POSTER/GATEFOLD NEAR MINT Pristine Music Production" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LP Pristine Reboot CD/POSTER/GATEFOLD NEAR MINT Pristine Music Production</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LP Pristine Reboot CD/POSTER/GATEFOLD NEAR MINT Pristine Music Production"><img src="{{ '/assets/images/marketplace-covers/cfb2aaf3f8eec50ebe39.jpg' | relative_url }}" alt="Listing image for LP Pristine Reboot CD/POSTER/GATEFOLD NEAR MINT Pristine Music Production" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">LP Pristine Reboot CD/POSTER/GATEFOLD NEAR MINT Pristine Music Production</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide"><img src="{{ '/assets/images/marketplace-covers/87c0c41a86b4469a0ce6.jpg' | relative_url }}" alt="Listing image for Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide"><img src="{{ '/assets/images/marketplace-covers/87c0c41a86b4469a0ce6.jpg' | relative_url }}" alt="Listing image for Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Production Steinberg Cubase Lessons For Life Poster 84cm Long x 60cm Wide</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER"><img src="{{ '/assets/images/marketplace-covers/77e6fb8f96f8d20e9399.jpg' | relative_url }}" alt="Listing image for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER"><img src="{{ '/assets/images/marketplace-covers/77e6fb8f96f8d20e9399.jpg' | relative_url }}" alt="Listing image for BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">BOB DYLAN Words &amp; Music At The Latest Stage 1987 US stage Production POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music production poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music production poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+production+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music production poster -book -books" data-ebay-reference="ai-training-can-ai-learn-from-copyrighted-music-music-music-production-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -781,7 +781,7 @@ The hard question is not whether AI can learn from music. It can. The hard quest
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -801,7 +801,7 @@ The hard question is not whether AI can learn from music. It can. The hard quest
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -833,7 +833,7 @@ The hard question is not whether AI can learn from music. It can. The hard quest
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -885,7 +885,7 @@ The hard question is not whether AI can learn from music. It can. The hard quest
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -930,7 +930,7 @@ The hard question is not whether AI can learn from music. It can. The hard quest
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -971,116 +971,116 @@ The hard question is not whether AI can learn from music. It can. The hard quest
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: riaa.com  
-   Link: <a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
+   Link:<a href="https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit</a>  
+   Link:<a href="https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/universal-music-group-and-ai-music-company-udio-reach-agreement-in-lawsuit</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
+   Link:<a href="https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/warner-music-group-settles-copyright-case-with-suno-licensed-ai-music-2025-11-25/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
+   Link:<a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
+   Link:<a href="https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/music-labels-sue-ai-companies-suno-udio-us-copyright-infringement-2024-06-24/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Report on Copyright and Artificial Intelligence  
-   Link: <a href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence</a>  
+   Link:<a href="https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
+   Link:<a href="https://www.copyright.gov/ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: copyright.gov  
    Title: and Artificial Intelligence Part 2 Copyrightability Report  
-   Link: <a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
+   Link:<a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: engage.pc.gov.au  
-   Link: <a href="https://engage.pc.gov.au/document/2640" target="_blank" rel="noopener noreferrer nofollow">https://engage.pc.gov.au/document/2640</a>  
+   Link:<a href="https://engage.pc.gov.au/document/2640" target="_blank" rel="noopener noreferrer nofollow">https://engage.pc.gov.au/document/2640</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: riaa.com  
    Title: Udio Complaint 6.24.241  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/06/Udio-Complaint-6.24.241.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: ai code practice  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mcdermottlaw.com  
-   Link: <a href="https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/</a>  
+   Link:<a href="https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcdermottlaw.com/insights/us-copyright-office-issues-report-addressing-use-of-copyrighted-material-to-train-generative-ai-systems/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: eu A I Act | Shaping Europe's digital future  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mishcon.com  
    Title: us copyright office report part 3 generative ai training  
-   Link: <a href="https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training</a>  
+   Link:<a href="https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training" target="_blank" rel="noopener noreferrer nofollow">https://www.mishcon.com/news/us-copyright-office-report-part-3-generative-ai-training</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: completemusicupdate.com  
-   Link: <a href="https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/</a>  
+   Link:<a href="https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/us-copyright-office-report-on-whether-ai-training-is-fair-use-concludes-it-depends-but-generally-favours-copyright-owners/</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How To Copyright AI  
-   Link: <a href="https://www.youtube.com/watch?v=lCIFGCJDj90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lCIFGCJDj90</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI music training copyright issues explained How To Copyright AI (Step By Step Guide) | Lawyer Explains Top Music Attorney...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lCIFGCJDj90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lCIFGCJDj90</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI music training copyright issues explained How To Copyright AI (Step By Step Guide) | Lawyer Explains Top Music Attorney...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0</a>  
+   Link:<a href="https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/meera-nair-11baa735_understanding-cc-licenses-and-ai-training-activity-7329142745225199616-f8E0</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: taylorwessing.com  
-   Link: <a href="https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker</a>  
+   Link:<a href="https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/en/campaigns/de/2025/ai-and-copyright-tracker</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e</a>  
+   Link:<a href="https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-training-uks-proposed-opt-out-copyright-model-shift-irving-david-un41e</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/</a>  
+   Link:<a href="https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicradartech/posts/ai-powered-music-generation-platforms-suno-and-udio-have-come-under-fire-in-rece/1118267656996650/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: humanartistrycampaign.com  
-   Link: <a href="https://www.humanartistrycampaign.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanartistrycampaign.com/</a>  
+   Link:<a href="https://www.humanartistrycampaign.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanartistrycampaign.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/</a>  
+   Link:<a href="https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/creativecommons/comments/10c2iw2/is_there_a_creative_commons_license_that/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/</a>  
+   Link:<a href="https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OpenAI/comments/1dni56e/record_labels_sue_suno_and_udio_over_aigenerated/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV1bH9SEfes/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1bH9SEfes/</a>  
+   Link:<a href="https://www.instagram.com/reel/DV1bH9SEfes/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1bH9SEfes/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/</a>
+   Link:<a href="https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/suno-moves-to-keep-size-of-its-ai-training-data-sealed-in-umg-and-sonys-copyright-case-citing-competitive-harm/</a>

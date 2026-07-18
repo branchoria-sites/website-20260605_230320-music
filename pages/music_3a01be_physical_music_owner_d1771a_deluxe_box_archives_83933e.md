@@ -268,7 +268,7 @@ image: /assets/images/music_3a01be_physical_music_owner_d1771a_deluxe_box_archiv
 
 ## Introduction
 
-Deluxe box sets occupy a special place in music collecting because they preserve far more than an album’s tracklist. At their best, they function as miniature archives of a specific creative period, gathering demos, studio outtakes, photographs, essays, memorabilia, technical notes and historical context into a single [physical]({{ 'physical/' | relative_url }}) object. In an era when streaming provides instant access to the finished [recording]({{ 'recording/' | relative_url }}), box sets answer a different need: they document how an album was made, how it was marketed, how it evolved and what it meant at the time of release. Rather than simply owning the music, fans gain access to an organised record of an album era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sting.com">[Sting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sting.com</span><span class="citation-popover-snippet">Synchronicity 6-Disc Limited Edition Deluxe BoxsetDeluxe Boxset containing 55 previously unreleased tracks, new liner notes and interview...</span></span></span>
+Deluxe box sets occupy a special place in music collecting because they preserve far more than an album’s tracklist. At their best, they function as miniature archives of a specific creative period, gathering demos, studio outtakes, photographs, essays, memorabilia, technical notes and historical context into a single [physical]({{ 'physical/' | relative_url }}) object. In an era when streaming provides instant access to the finished [recording]({{ 'recording/' | relative_url }}), box sets answer a different need: they document how an album was made, how it was marketed, how it evolved and what it meant at the time of release. Rather than simply owning the music, fans gain access to an organised record of an album era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sting.com">[Sting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sting.com</span><span class="citation-popover-snippet">Synchronicity 6-Disc Limited Edition Deluxe BoxsetDeluxe Boxset containing 55 previously unreleased tracks, new liner notes and interview...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_deluxe_box_archives_83933e-Illustration-1-dark.svg" | relative_url }}" alt="Box Sets illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_deluxe_box_archives_83933e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_physical_music_owner_d1771a_deluxe_box_archives_83933e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Box Sets Add Beyond the Album
@@ -283,7 +283,7 @@ The most significant additions tend to fall into several categories:
 * **Cultural artefacts:** posters, replica tickets, press materials, fan-club items and promotional memorabilia.
 * **Technical perspectives:** new mixes, surround-sound versions and remastering notes.
 
-Together, these materials transform listening into a form of historical exploration. Instead of hearing only what survived the editing process, fans can trace decisions, abandoned ideas and alternate directions. Many collectors value this documentary aspect as much as the music itself. Reviews of major box-set releases repeatedly highlight the importance of books, essays and contextual material alongside the recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://norselandsrock.com/best-box-sets-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norselandsrock.com">[Rocking In the Norselands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norselandsrock.com</span><span class="citation-popover-title">best box sets 2022</span><span class="citation-popover-snippet">Rocking In the NorselandsThe Best Music Boxed Sets of 2022January 21, 2023 — 21 Jan 2023 — Rocking In the Norselands has taken stock of t...</span><span class="citation-popover-meta">Published: January 21, 2023</span></span></span>
+Together, these materials transform listening into a form of historical exploration. Instead of hearing only what survived the editing process, fans can trace decisions, abandoned ideas and alternate directions. Many collectors value this documentary aspect as much as the music itself. Reviews of major box-set releases repeatedly highlight the importance of books, essays and contextual material alongside the recordings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://norselandsrock.com/best-box-sets-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norselandsrock.com">[Rocking In the Norselands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norselandsrock.com</span><span class="citation-popover-title">best box sets 2022</span><span class="citation-popover-snippet">Rocking In the NorselandsThe Best Music Boxed Sets of 2022January 21, 2023 — 21 Jan 2023 — Rocking In the Norselands has taken stock of t...</span><span class="citation-popover-meta">Published: January 21, 2023</span></span></span>
 
 The result is closer to a museum exhibition [catalogue]({{ 'catalogue/' | relative_url }}) than a conventional album package. The songs remain central, but they become part of a larger narrative.
 
@@ -295,11 +295,11 @@ The result is closer to a museum exhibition [catalogue]({{ 'catalogue/' | relati
 
 One of the strongest archival functions of a box set is its ability to preserve artistic development.
 
-The most celebrated editions often organise unreleased recordings chronologically, allowing listeners to hear songs move from rough sketches to finished masters. The fiftieth-anniversary edition of *The Beatles' White Album*, for example, assembled Esher demos and extensive session recordings alongside the album itself, creating a documented journey through the recording process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: superdeluxeedition.com">[Super Deluxe Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">superdeluxeedition.com</span><span class="citation-popover-title">sdes box sets of the year</span><span class="citation-popover-snippet">What follows are nine boxes, singled out for special praise, but listed in no...Read more...</span></span></span>
+The most celebrated editions often organise unreleased recordings chronologically, allowing listeners to hear songs move from rough sketches to finished masters. The fiftieth-anniversary edition of *The Beatles' White Album*, for example, assembled Esher demos and extensive session recordings alongside the album itself, creating a documented journey through the recording process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: superdeluxeedition.com">[Super Deluxe Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">superdeluxeedition.com</span><span class="citation-popover-title">sdes box sets of the year</span><span class="citation-popover-snippet">What follows are nine boxes, singled out for special praise, but listed in no...Read more...</span></span></span>
 
 This material changes how fans understand familiar music. A finished track can seem inevitable until an early version reveals different [lyrics]({{ 'lyrics/' | relative_url }}), arrangements or structures. Hearing those alternatives turns the album from a fixed object into a record of creative choices.
 
-The same principle appears in modern archival projects. Wilco's *Yankee Hotel Foxtrot* super-deluxe edition included multiple stages of the album's development, large quantities of unreleased recordings and extensive documentation, effectively preserving the album's creation as a historical event rather than merely reissuing the final product. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/wilco-announce-yankee-hotel-foxtrot-deluxe-box-set-reissues-with-unreleased-tracks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The reissues are set to be released on September 16, 2022, through Nonesuch. In anticipation, the band shared a 2002 live version of &quot;Res...</span><span class="citation-popover-meta">Published: September 16, 2022</span></span></span>
+The same principle appears in modern archival projects. Wilco's *Yankee Hotel Foxtrot* super-deluxe edition included multiple stages of the album's development, large quantities of unreleased recordings and extensive documentation, effectively preserving the album's creation as a historical event rather than merely reissuing the final product.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/wilco-announce-yankee-hotel-foxtrot-deluxe-box-set-reissues-with-unreleased-tracks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The reissues are set to be released on September 16, 2022, through Nonesuch. In anticipation, the band shared a 2002 live version of &quot;Res...</span><span class="citation-popover-meta">Published: September 16, 2022</span></span></span>
 
 ### Essays and Books Preserve Context
 
@@ -307,7 +307,7 @@ Audio alone rarely explains why an album mattered.
 
 Many deluxe editions therefore include substantial books containing interviews, newly commissioned essays, session histories and track-by-track annotations. These texts often bring together perspectives from artists, producers, engineers and historians.
 
-The Beatles' *Let It Be* special edition illustrates this archival approach. Its accompanying book contains contributions from participants and historians, detailed track notes and essays addressing long-standing narratives surrounding the recording sessions, supported by rare photographs and archival imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeatles.com">[The Beatles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeatles.com</span><span class="citation-popover-title">beatles get back let it be special edition releases</span><span class="citation-popover-snippet">The BeatlesTHE BEATLES GET BACK TO LET IT BE WITH SPECIAL...26 Aug 2021 — The Super Deluxe CD and vinyl collections&#x27; beautiful book feat...</span></span></span>
+The Beatles' *Let It Be* special edition illustrates this archival approach. Its accompanying book contains contributions from participants and historians, detailed track notes and essays addressing long-standing narratives surrounding the recording sessions, supported by rare photographs and archival imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeatles.com">[The Beatles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeatles.com</span><span class="citation-popover-title">beatles get back let it be special edition releases</span><span class="citation-popover-snippet">The BeatlesTHE BEATLES GET BACK TO LET IT BE WITH SPECIAL...26 Aug 2021 — The Super Deluxe CD and vinyl collections&#x27; beautiful book feat...</span></span></span>
 
 Without such documentation, much of this context would remain scattered across magazines, interviews and fan research. Box sets consolidate it into a durable reference work linked directly to the music.
 
@@ -318,7 +318,7 @@ Albums are cultural events as well as collections of songs.
 
 Replica posters, fan-club documents, tour materials and promotional items help preserve how a release was experienced in its original era. These objects may not change the music itself, but they document the ecosystem that surrounded it.
 
-For example, recent super-deluxe editions have included reproductions of fan-club materials, photographs, posters and other period artefacts alongside the recordings and books. Such items capture the visual identity and marketing language of the period, providing evidence of how artists and labels presented an album to the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/guns-n-roses-announce-new-use-your-illusion-i-and-ii-box-set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Guns N&#x27; Roses Announce New Use Your Illusion I &amp; II Box Set</span><span class="citation-popover-snippet">The box set, which will be released on November 11 via UMe/Geffen, includes a variety of formats including 12-LP and seven-CD sets, a Blu...</span></span></span>
+For example, recent super-deluxe editions have included reproductions of fan-club materials, photographs, posters and other period artefacts alongside the recordings and books. Such items capture the visual identity and marketing language of the period, providing evidence of how artists and labels presented an album to the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/guns-n-roses-announce-new-use-your-illusion-i-and-ii-box-set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Guns N&#x27; Roses Announce New Use Your Illusion I &amp; II Box Set</span><span class="citation-popover-snippet">The box set, which will be released on November 11 via UMe/Geffen, includes a variety of formats including 12-LP and seven-CD sets, a Blu...</span></span></span>
 
 For younger fans who were not present when an album first appeared, these reproductions can make a distant era feel tangible.
 
@@ -339,7 +339,7 @@ Collectors often judge a set by whether it feels comprehensive and transparent. 
 
 </div>
 
-When these elements are missing, fans often feel that an opportunity has been lost. Discussions around major reissues frequently focus on omissions, unavailable session recordings or unexplained editorial choices, reflecting how strongly collectors value completeness in archival projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beatlefansomethingnew.wordpress.com/2020/01/05/why-the-skimpy-bonus-material-on-the-abbey-road-deluxe-box/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlefansomethingnew.wordpress.com">[SOMETHING NEW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlefansomethingnew.wordpress.com</span><span class="citation-popover-title">Those two discs clock in at 43:47 and 42:16, respectively.Read more</span><span class="citation-popover-snippet">SOMETHING NEWWhy the skimpy bonus material on the &#x27;Abbey Road&#x27; deluxe...January 5, 2020 — 5 Jan 2020 — The “Abbey Road” box has the remi...</span><span class="citation-popover-meta">Published: January 5, 2020</span></span></span>
+When these elements are missing, fans often feel that an opportunity has been lost. Discussions around major reissues frequently focus on omissions, unavailable session recordings or unexplained editorial choices, reflecting how strongly collectors value completeness in archival projects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beatlefansomethingnew.wordpress.com/2020/01/05/why-the-skimpy-bonus-material-on-the-abbey-road-deluxe-box/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlefansomethingnew.wordpress.com">[SOMETHING NEW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlefansomethingnew.wordpress.com</span><span class="citation-popover-title">Those two discs clock in at 43:47 and 42:16, respectively.Read more</span><span class="citation-popover-snippet">SOMETHING NEWWhy the skimpy bonus material on the &#x27;Abbey Road&#x27; deluxe...January 5, 2020 — 5 Jan 2020 — The “Abbey Road” box has the remi...</span><span class="citation-popover-meta">Published: January 5, 2020</span></span></span>
 
 This expectation distinguishes a true archive from a marketing bundle. The goal is not simply to provide more content but to provide enough evidence to understand an album's history.
 
@@ -351,201 +351,201 @@ The value of a deluxe box set depends less on quantity than on insight.
 
 A collection packed with discs may still feel superficial if the material lacks context. Conversely, a carefully curated package with a strong book, meaningful session recordings and well-chosen memorabilia can deepen appreciation of an album that a listener already knows by heart.
 
-The most successful sets create a sense of immersion. Fans move between photographs, essays, session tapes and finished recordings, constructing a richer picture of a particular moment in an artist's career. Releases devoted to landmark works by artists such as The Beatles, Prince, Wilco and The Police demonstrate how archival material can transform a familiar album into a documented creative era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sting.com">[Sting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sting.com</span><span class="citation-popover-snippet">Synchronicity 6-Disc Limited Edition Deluxe BoxsetDeluxe Boxset containing 55 previously unreleased tracks, new liner notes and interview...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeatles.com">[The Beatles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeatles.com</span><span class="citation-popover-title">beatles get back let it be special edition releases</span><span class="citation-popover-snippet">The BeatlesTHE BEATLES GET BACK TO LET IT BE WITH SPECIAL...26 Aug 2021 — The Super Deluxe CD and vinyl collections&#x27; beautiful book feat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: superdeluxeedition.com">[Super Deluxe Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">superdeluxeedition.com</span><span class="citation-popover-title">sdes box sets of the year</span><span class="citation-popover-snippet">What follows are nine boxes, singled out for special praise, but listed in no...Read more...</span></span></span>
+The most successful sets create a sense of immersion. Fans move between photographs, essays, session tapes and finished recordings, constructing a richer picture of a particular moment in an artist's career. Releases devoted to landmark works by artists such as The Beatles, Prince, Wilco and The Police demonstrate how archival material can transform a familiar album into a documented creative era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sting.com">[Sting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sting.com</span><span class="citation-popover-snippet">Synchronicity 6-Disc Limited Edition Deluxe BoxsetDeluxe Boxset containing 55 previously unreleased tracks, new liner notes and interview...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebeatles.com">[The Beatles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebeatles.com</span><span class="citation-popover-title">beatles get back let it be special edition releases</span><span class="citation-popover-snippet">The BeatlesTHE BEATLES GET BACK TO LET IT BE WITH SPECIAL...26 Aug 2021 — The Super Deluxe CD and vinyl collections&#x27; beautiful book feat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: superdeluxeedition.com">[Super Deluxe Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">superdeluxeedition.com</span><span class="citation-popover-title">sdes box sets of the year</span><span class="citation-popover-snippet">What follows are nine boxes, singled out for special praise, but listed in no...Read more...</span></span></span>
 
 Within the broader story of physical music [ownership]({{ 'ownership/' | relative_url }}), this is the distinctive power of the deluxe box set. It does not merely preserve songs. It preserves evidence: the decisions, images, stories and artefacts that explain how those songs came to exist. For many fans, owning that record of an era is what makes the box worth keeping long after the music itself is available everywhere.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFUFRBgD6Q0" title="SDE Music Box Set &amp; Reissue Roundup - JULY 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFUFRBgD6Q0" target="_blank" rel="noopener noreferrer">SDE Music Box Set &amp; Reissue Roundup - JULY 2024</a></p><p class="youtube-embed-meta">Channel: SuperDeluxeEdition &middot; Views: 10.8K &middot; Uploaded: July 2024 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFUFRBgD6Q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFUFRBgD6Q0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Deluxe Box Sets Feel Like Archives. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Deluxe Box Sets Feel Like Archives. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Beatles Recording Sessions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9035725-M.jpg" alt="Cover for The Complete Beatles Recording Sessions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Beatles Recording Sessions">The Complete Beatles Recording Sessions</a>
-        </h4>
-        <p class="fr-book-author">By Mark Lewisohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Beatles Recording Sessions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9035725-M.jpg" alt="Cover for The Complete Beatles Recording Sessions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Beatles Recording Sessions">The Complete Beatles Recording Sessions</a>
+</h4>
+<p class="fr-book-author">By Mark Lewisohn</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Discography, Chronology, History, Beatles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Discography, Chronology, History, Beatles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Age+Max+Brzezinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10532196-M.jpg" alt="Cover for Vinyl Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vinyl+Age+Max+Brzezinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl Age">Vinyl Age</a>
-        </h4>
-        <p class="fr-book-author">By Max Brzezinski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Age+Max+Brzezinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10532196-M.jpg" alt="Cover for Vinyl Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vinyl+Age+Max+Brzezinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl Age">Vinyl Age</a>
+</h4>
+<p class="fr-book-author">By Max Brzezinski</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Music, history and criticism, Sound, recording and reproducing, Sound recordings, collectors and collecting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vinyl+Age+Max+Brzezinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Music, history and criticism, Sound, recording and reproducing, Sound recordings, collectors and collecting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vinyl+Age+Max+Brzezinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl">Vinyl</a>
-        </h4>
-        <p class="fr-book-author">By Mike Evans</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl">Vinyl</a>
+</h4>
+<p class="fr-book-author">By Mike Evans</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Sound recordings, Album covers, Pictorial works, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Sound recordings, Album covers, Pictorial works, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
-        </h4>
-        <p class="fr-book-author">By Eilon Paz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
+</h4>
+<p class="fr-book-author">By Eilon Paz</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Interviews, Sound recordings, Collectors and collecting, Pictorial works, Anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Interviews, Sound recordings, Collectors and collecting, Pictorial works, Anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Beatles Recording Sessions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Beatles+Recording+Sessions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Beatles Recording Sessions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl Age</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eagles : One of These Nights (Deluxe Edition) VINYL 12&quot; Album Box Set 3 discs"><img src="https://i.ebayimg.com/images/g/QukAAeSwALNqGGfC/s-l225.jpg" alt="Listing image for Eagles : One of These Nights (Deluxe Edition) VINYL 12&quot; Album Box Set 3 discs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">Eagles : One of These Nights (Deluxe Edition) VINYL 12&quot; Album Box Set 3 discs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search <span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eagles : One of These Nights (Deluxe Edition) VINYL 12&quot; Album Box Set 3 discs"><img src="https://i.ebayimg.com/images/g/QukAAeSwALNqGGfC/s-l225.jpg" alt="Listing image for Eagles : One of These Nights (Deluxe Edition) VINYL 12&quot; Album Box Set 3 discs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">Eagles : One of These Nights (Deluxe Edition) VINYL 12&quot; Album Box Set 3 discs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search<span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Queensryche Operation Mindcrime 4 CD / DVD Super Deluxe Box Set"><img src="https://i.ebayimg.com/images/g/qIQAAeSwarlqHZTZ/s-l225.jpg" alt="Listing image for Queensryche Operation Mindcrime 4 CD / DVD Super Deluxe Box Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">Queensryche Operation Mindcrime 4 CD / DVD Super Deluxe Box Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search <span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Queensryche Operation Mindcrime 4 CD / DVD Super Deluxe Box Set"><img src="https://i.ebayimg.com/images/g/qIQAAeSwarlqHZTZ/s-l225.jpg" alt="Listing image for Queensryche Operation Mindcrime 4 CD / DVD Super Deluxe Box Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">Queensryche Operation Mindcrime 4 CD / DVD Super Deluxe Box Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search<span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ULTRAVOX - QUARTET (SUPER DELUXE 6CD + DVD BOX SET)"><img src="https://i.ebayimg.com/images/g/lbEAAeSwPQNqK~kW/s-l225.jpg" alt="Listing image for ULTRAVOX - QUARTET (SUPER DELUXE 6CD + DVD BOX SET)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">ULTRAVOX - QUARTET (SUPER DELUXE 6CD + DVD BOX SET)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search <span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ULTRAVOX - QUARTET (SUPER DELUXE 6CD + DVD BOX SET)"><img src="https://i.ebayimg.com/images/g/lbEAAeSwPQNqK~kW/s-l225.jpg" alt="Listing image for ULTRAVOX - QUARTET (SUPER DELUXE 6CD + DVD BOX SET)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">ULTRAVOX - QUARTET (SUPER DELUXE 6CD + DVD BOX SET)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search<span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marillion : Brave VINYL Deluxe 12&quot; Album Box Set 5 discs (2024) ***NEW***"><img src="https://i.ebayimg.com/images/g/ErEAAeSwX3ln0GiD/s-l225.jpg" alt="Listing image for Marillion : Brave VINYL Deluxe 12&quot; Album Box Set 5 discs (2024) ***NEW***" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">Marillion : Brave VINYL Deluxe 12&quot; Album Box Set 5 discs (2024) ***NEW***</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search <span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marillion : Brave VINYL Deluxe 12&quot; Album Box Set 5 discs (2024) ***NEW***"><img src="https://i.ebayimg.com/images/g/ErEAAeSwX3ln0GiD/s-l225.jpg" alt="Listing image for Marillion : Brave VINYL Deluxe 12&quot; Album Box Set 5 discs (2024) ***NEW***" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">Marillion : Brave VINYL Deluxe 12&quot; Album Box Set 5 discs (2024) ***NEW***</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for deluxe album box set">Search<span data-ebay-domain-label>eBay.co.uk</span>: deluxe album box set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=deluxe+album+box+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="deluxe album box set" data-ebay-reference="why-deluxe-box-sets-feel-like-archives-deluxe-album-box-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ Within the broader story of physical music [ownership]({{ 'ownership/' | relativ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ Within the broader story of physical music [ownership]({{ 'ownership/' | relativ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ Within the broader story of physical music [ownership]({{ 'ownership/' | relativ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ Within the broader story of physical music [ownership]({{ 'ownership/' | relativ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ Within the broader story of physical music [ownership]({{ 'ownership/' | relativ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,134 +751,134 @@ Within the broader story of physical music [ownership]({{ 'ownership/' | relativ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sting.com  
-   Link: <a href="https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw" target="_blank" rel="noopener noreferrer nofollow">https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity 6-Disc Limited Edition Deluxe BoxsetDeluxe Boxset containing 55 previously unreleased tracks, new liner notes and interview...</p></details>
+   Link:<a href="https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw" target="_blank" rel="noopener noreferrer nofollow">https://sting.com/products/synchronicity-6-disc-limited-edition-deluxe-boxset?srsltid=AfmBOoqpSrtVLnwItVGQ9JEA5iV-gBiIv-9dW84gRJAT1C8nozfWqSzw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity 6-Disc Limited Edition Deluxe BoxsetDeluxe Boxset containing 55 previously unreleased tracks, new liner notes and interview...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/wilco-announce-yankee-hotel-foxtrot-deluxe-box-set-reissues-with-unreleased-tracks" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/wilco-announce-yankee-hotel-foxtrot-deluxe-box-set-reissues-with-unreleased-tracks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The reissues are set to be released on September 16, 2022, through Nonesuch. In anticipation, the band shared a 2002 live version of &quot;Res...</p></details>
+   Link:<a href="https://pitchfork.com/news/wilco-announce-yankee-hotel-foxtrot-deluxe-box-set-reissues-with-unreleased-tracks" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/wilco-announce-yankee-hotel-foxtrot-deluxe-box-set-reissues-with-unreleased-tracks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The reissues are set to be released on September 16, 2022, through Nonesuch. In anticipation, the band shared a 2002 live version of &quot;Res...</p></details>
    Published: September 16, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pitchfork.com  
    Title: Guns N' Roses Announce New Use Your Illusion I & II Box Set  
-   Link: <a href="https://pitchfork.com/news/guns-n-roses-announce-new-use-your-illusion-i-and-ii-box-set" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/guns-n-roses-announce-new-use-your-illusion-i-and-ii-box-set</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The box set, which will be released on November 11 via UMe/Geffen, includes a variety of [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) including 12-LP and seven-CD sets, a Blu...</p></details>
+   Link:<a href="https://pitchfork.com/news/guns-n-roses-announce-new-use-your-illusion-i-and-ii-box-set" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/guns-n-roses-announce-new-use-your-illusion-i-and-ii-box-set</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The box set, which will be released on November 11 via UMe/Geffen, includes a variety of [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) including 12-LP and seven-CD sets, a Blu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: beatlefansomethingnew.wordpress.com  
    Title: Those two discs clock in at 43:47 and 42:16, respectively.Read more  
-   Link: <a href="https://beatlefansomethingnew.wordpress.com/2020/01/05/why-the-skimpy-bonus-material-on-the-abbey-road-deluxe-box/" target="_blank" rel="noopener noreferrer nofollow">https://beatlefansomethingnew.wordpress.com/2020/01/05/why-the-skimpy-bonus-material-on-the-abbey-road-deluxe-box/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING NEWWhy the skimpy bonus material on the &#x27;Abbey Road&#x27; deluxe...January 5, 2020 — 5 Jan 2020 — The “Abbey Road” box has the remi...</p></details>
+   Link:<a href="https://beatlefansomethingnew.wordpress.com/2020/01/05/why-the-skimpy-bonus-material-on-the-abbey-road-deluxe-box/" target="_blank" rel="noopener noreferrer nofollow">https://beatlefansomethingnew.wordpress.com/2020/01/05/why-the-skimpy-bonus-material-on-the-abbey-road-deluxe-box/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING NEWWhy the skimpy bonus material on the &#x27;Abbey Road&#x27; deluxe...January 5, 2020 — 5 Jan 2020 — The “Abbey Road” box has the remi...</p></details>
    Published: January 5, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thebeatles.com  
    Title: beatles get back let it be special edition releases  
-   Link: <a href="https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The BeatlesTHE BEATLES GET BACK TO LET IT BE WITH SPECIAL...26 Aug 2021 — The Super Deluxe CD and vinyl collections&#x27; beautiful book feat...</p></details>
+   Link:<a href="https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeatles.com/beatles-get-back-let-it-be-special-edition-releases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BeatlesTHE BEATLES GET BACK TO LET IT BE WITH SPECIAL...26 Aug 2021 — The Super Deluxe CD and vinyl collections&#x27; beautiful book feat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: norselandsrock.com  
    Title: best box sets 2022  
-   Link: <a href="https://norselandsrock.com/best-box-sets-2022/" target="_blank" rel="noopener noreferrer nofollow">https://norselandsrock.com/best-box-sets-2022/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocking In the NorselandsThe Best Music Boxed Sets of 2022January 21, 2023 — 21 Jan 2023 — Rocking In the Norselands has taken stock of t...</p></details>
+   Link:<a href="https://norselandsrock.com/best-box-sets-2022/" target="_blank" rel="noopener noreferrer nofollow">https://norselandsrock.com/best-box-sets-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocking In the NorselandsThe Best Music Boxed Sets of 2022January 21, 2023 — 21 Jan 2023 — Rocking In the Norselands has taken stock of t...</p></details>
    Published: January 21, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: superdeluxeedition.com  
    Title: sdes box sets of the year  
-   Link: <a href="https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What follows are nine boxes, singled out for special praise, but listed in no...Read more...</p></details>
+   Link:<a href="https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/feature/sdes-box-sets-of-the-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What follows are nine boxes, singled out for special praise, but listed in no...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: superdeluxeedition.com  
    Title: Super Deluxe Edition The Beatles / The 'White Album' 50th anniversary super  
-   Link: <a href="https://superdeluxeedition.com/news/the-beatles-the-white-album-50th-anniversary-super-deluxe-edition/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/news/the-beatles-the-white-album-50th-anniversary-super-deluxe-edition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New stereo remix • 6CD+blu-ray box set • 5.1 surround mix • Esher demos • Three CDs of...Read more...</p></details>
+   Link:<a href="https://superdeluxeedition.com/news/the-beatles-the-white-album-50th-anniversary-super-deluxe-edition/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/news/the-beatles-the-white-album-50th-anniversary-super-deluxe-edition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New stereo remix • 6CD+blu-ray box set • 5.1 surround mix • Esher demos • Three CDs of...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: welleyenever.com  
    Title: the beatles super deluxe box sets  
-   Link: <a href="https://welleyenever.com/2022/11/11/the-beatles-super-deluxe-box-sets/" target="_blank" rel="noopener noreferrer nofollow">https://welleyenever.com/2022/11/11/the-beatles-super-deluxe-box-sets/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Beatles – Super Deluxe Box Sets11 Nov 2022 — Sessions material, rehearsals &amp; demos on 2 CDs for Let It Be, Sgt Pepper, Abbey Road &amp; R...</p></details>
+   Link:<a href="https://welleyenever.com/2022/11/11/the-beatles-super-deluxe-box-sets/" target="_blank" rel="noopener noreferrer nofollow">https://welleyenever.com/2022/11/11/the-beatles-super-deluxe-box-sets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Beatles – Super Deluxe Box Sets11 Nov 2022 — Sessions material, rehearsals &amp; demos on 2 CDs for Let It Be, Sgt Pepper, Abbey Road &amp; R...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: superdeluxeedition.com  
-   Link: <a href="https://superdeluxeedition.com/video/sdetv-kate-bush-unboxing-the-remastered-cd-and-vinyl-box-sets/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/video/sdetv-kate-bush-unboxing-the-remastered-cd-and-vinyl-box-sets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SDEtv / [Kate Bush](&amp;#123;&amp;#123; &#x27;kate-bush/&#x27; | relative_url &amp;#125;&amp;#125;): Unboxing the remastered CD and vinyl...Watch this SDEtv unboxing video which examines and evaluates the first wave of...</p></details>
+   Link:<a href="https://superdeluxeedition.com/video/sdetv-kate-bush-unboxing-the-remastered-cd-and-vinyl-box-sets/" target="_blank" rel="noopener noreferrer nofollow">https://superdeluxeedition.com/video/sdetv-kate-bush-unboxing-the-remastered-cd-and-vinyl-box-sets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SDEtv / [Kate Bush](&amp;#123;&amp;#123; &#x27;kate-bush/&#x27; | relative_url &amp;#125;&amp;#125;): Unboxing the remastered CD and vinyl...Watch this SDEtv unboxing video which examines and evaluates the first wave of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: classicrock.net  
    Title: beatles deluxe boxset zu abbey road  
-   Link: <a href="https://classicrock.net/beatles-deluxe-boxset-zu-abbey-road/" target="_blank" rel="noopener noreferrer nofollow">https://classicrock.net/beatles-deluxe-boxset-zu-abbey-road/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Beatles: Boxset zum Jubiläum von ABBEY ROAD13 Aug 2019 — Neben den remasterten Album-Tracks finden sich darauf auf insgesamt drei CDs...</p></details>
+   Link:<a href="https://classicrock.net/beatles-deluxe-boxset-zu-abbey-road/" target="_blank" rel="noopener noreferrer nofollow">https://classicrock.net/beatles-deluxe-boxset-zu-abbey-road/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Beatles: Boxset zum Jubiläum von ABBEY ROAD13 Aug 2019 — Neben den remasterten Album-Tracks finden sich darauf auf insgesamt drei CDs...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: basschat.co.uk  
    Title: Super Deluxe Editions/Reissues  
-   Link: <a href="https://www.basschat.co.uk/topic/501529-super-deluxe-editionsreissues/" target="_blank" rel="noopener noreferrer nofollow">https://www.basschat.co.uk/topic/501529-super-deluxe-editionsreissues/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Discussion5 Oct 2024 — The Deluxe/Expanded editions of UFO&#x27;s Strangers In The Night and Thin Lizzy&#x27;s Live and Dangerous are also...</p></details>
+   Link:<a href="https://www.basschat.co.uk/topic/501529-super-deluxe-editionsreissues/" target="_blank" rel="noopener noreferrer nofollow">https://www.basschat.co.uk/topic/501529-super-deluxe-editionsreissues/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Discussion5 Oct 2024 — The Deluxe/Expanded editions of UFO&#x27;s Strangers In The Night and Thin Lizzy&#x27;s Live and Dangerous are also...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: kaufhaus.ludwigbeck.de  
-   Link: <a href="https://kaufhaus.ludwigbeck.de/The-Beatles-Abbey-Road" target="_blank" rel="noopener noreferrer nofollow">https://kaufhaus.ludwigbeck.de/The-Beatles-Abbey-Road</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BEATLES | Abbey RoadFür die Vinylfans gibt es zudem das limitierte Deluxe-3-LP-Boxset mit allen 40 Tracks der Super-Deluxe-Edition auf dr...</p></details>
+   Link:<a href="https://kaufhaus.ludwigbeck.de/The-Beatles-Abbey-Road" target="_blank" rel="noopener noreferrer nofollow">https://kaufhaus.ludwigbeck.de/The-Beatles-Abbey-Road</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BEATLES | Abbey RoadFür die Vinylfans gibt es zudem das limitierte Deluxe-3-LP-Boxset mit allen 40 Tracks der Super-Deluxe-Edition auf dr...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gq.com  
-   Link: <a href="https://www.gq.com/story/prince-sign-o-the-times-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/prince-sign-o-the-times-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Housing hundreds, if not thousands, of tracks, the Vault has yielded a vast array of Prince&#x27;s creative endeavours, many of which have now...</p></details>
+   Link:<a href="https://www.gq.com/story/prince-sign-o-the-times-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/prince-sign-o-the-times-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Housing hundreds, if not thousands, of tracks, the Vault has yielded a vast array of Prince&#x27;s creative endeavours, many of which have now...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/super_deluxe_edition/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/super_deluxe_edition/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music. Reissues. Box sets. (@super_deluxe_edition)This is probably the rarest #PaulMcCartney &#x27;The Boys Of Dungeon Lane&#x27; vinyl in the UK b...</p></details>
+   Link:<a href="https://www.instagram.com/super_deluxe_edition/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/super_deluxe_edition/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music. Reissues. Box sets. (@super_deluxe_edition)This is probably the rarest #PaulMcCartney &#x27;The Boys Of Dungeon Lane&#x27; vinyl in the UK b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/-/en/Complete-Vinyl-Box-Set/dp/B06X42M66Z" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Complete-Vinyl-Box-Set/dp/B06X42M66Z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Complete Vinyl Box SetThe box set is nicely packaged, with a sturdy outer case. The vinyls were all 180g - as stated in the descripti...</p></details>
+   Link:<a href="https://www.amazon.nl/-/en/Complete-Vinyl-Box-Set/dp/B06X42M66Z" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Complete-Vinyl-Box-Set/dp/B06X42M66Z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Complete Vinyl Box SetThe box set is nicely packaged, with a sturdy outer case. The vinyls were all 180g - as stated in the descripti...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UbvUqucZOLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UbvUqucZOLA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Beatles Super Deluxe Edition Box...So FarThe Beatles Revolver Deluxe Vinyl Box Set | An In-Depth REVIEW... Review: Beatles Whit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UbvUqucZOLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UbvUqucZOLA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Beatles Super Deluxe Edition Box...So FarThe Beatles Revolver Deluxe Vinyl Box Set | An In-Depth REVIEW... Review: Beatles Whit...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rluWgGPeMQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rluWgGPeMQo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Who Sell Out / super deluxe edition unboxedSubscribe to this channel: [http://bit.ly/2sQ5PIK](http://bit.ly/2sQ5PIK) SuperDeluxeEdition.com editor, Paul Sincl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rluWgGPeMQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rluWgGPeMQo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Who Sell Out / super deluxe edition unboxedSubscribe to this channel: [http://bit.ly/2sQ5PIK](http://bit.ly/2sQ5PIK) SuperDeluxeEdition.com editor, Paul Sincl...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: therecordhub.com  
    Title: A simple guide to the best reissues, essential tracks and perfect music  
-   Link: <a href="https://www.therecordhub.com/blogs/news/best-box-sets" target="_blank" rel="noopener noreferrer nofollow">https://www.therecordhub.com/blogs/news/best-box-sets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Staff Picks: The 15 Best Box Sets to Gift Music Lovers3 Dec 2025 — Explore our top 15 box sets of 2025, chosen for collectors and fans...</p></details>
+   Link:<a href="https://www.therecordhub.com/blogs/news/best-box-sets" target="_blank" rel="noopener noreferrer nofollow">https://www.therecordhub.com/blogs/news/best-box-sets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Staff Picks: The 15 Best Box Sets to Gift Music Lovers3 Dec 2025 — Explore our top 15 box sets of 2025, chosen for collectors and fans...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/beatles/comments/1i61n2r/what_is_your_favorite_super_deluxe_box_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/beatles/comments/1i61n2r/what_is_your_favorite_super_deluxe_box_in_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I would say personally my favorite is The White Album. The tracks sound superior and...</p></details>
+   Link:<a href="https://www.reddit.com/r/beatles/comments/1i61n2r/what_is_your_favorite_super_deluxe_box_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/beatles/comments/1i61n2r/what_is_your_favorite_super_deluxe_box_in_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I would say personally my favorite is The White Album. The tracks sound superior and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/-/en/Special-Deluxe-5SHM-CD-Blu-ray-Limited/dp/B09DQ1QVKY" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/-/en/Special-Deluxe-5SHM-CD-Blu-ray-Limited/dp/B09DQ1QVKY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Includes a total of 57 tracks on CD. CD1: original album...Read more...</p></details>
+   Link:<a href="https://www.amazon.de/-/en/Special-Deluxe-5SHM-CD-Blu-ray-Limited/dp/B09DQ1QVKY" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/-/en/Special-Deluxe-5SHM-CD-Blu-ray-Limited/dp/B09DQ1QVKY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Includes a total of 57 tracks on CD. CD1: original album...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uncut.co.uk  
    Title: uncut top 30 archive releases of 2025 152629  
-   Link: <a href="https://www.uncut.co.uk/features/lists/uncut-top-30-archive-releases-of-2025-152629/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncut.co.uk/features/lists/uncut-top-30-archive-releases-of-2025-152629/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncut&#x27;s Top 30 archive releases of 202523 Dec 2025 — Uncut&#x27;s Top 30 archive releases of 2025. Handsome 5LP boxset containing virtually ev...</p></details>
+   Link:<a href="https://www.uncut.co.uk/features/lists/uncut-top-30-archive-releases-of-2025-152629/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncut.co.uk/features/lists/uncut-top-30-archive-releases-of-2025-152629/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uncut&#x27;s Top 30 archive releases of 202523 Dec 2025 — Uncut&#x27;s Top 30 archive releases of 2025. Handsome 5LP boxset containing virtually ev...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bestclassicbands.com  
    Title: 2025 best music boxed sets reissues 11 6 25  
-   Link: <a href="https://bestclassicbands.com/2025-best-music-boxed-sets-reissues-11-6-25/" target="_blank" rel="noopener noreferrer nofollow">https://bestclassicbands.com/2025-best-music-boxed-sets-reissues-11-6-25/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Boxed Sets, Collections &amp; Reissues of 20258 Nov 2025 — The best classic rock boxed sets, collections and reissues of 2025 include re...</p></details>
+   Link:<a href="https://bestclassicbands.com/2025-best-music-boxed-sets-reissues-11-6-25/" target="_blank" rel="noopener noreferrer nofollow">https://bestclassicbands.com/2025-best-music-boxed-sets-reissues-11-6-25/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Boxed Sets, Collections &amp; Reissues of 20258 Nov 2025 — The best classic rock boxed sets, collections and reissues of 2025 include re...</p></details>

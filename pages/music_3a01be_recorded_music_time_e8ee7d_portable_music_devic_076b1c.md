@@ -316,194 +316,194 @@ The personal listening revolution also left visible marks on commerce and techno
 Portable listening devices transformed recorded music from a stationary, communal phenomenon into an intimate, mobile companion. Starting with devices like the boombox and crystallised through the Sony Walkman and its descendants, this shift empowered individuals to curate their own soundscapes amidst the routines of everyday life. The social impact of this transformation is visible in how we navigate public space, relate to personal and shared experiences of sound, and understand music as both a private refuge and a cultural artefact woven into the rhythms of daily life.[Wikipedia]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Portable Devices Made Music Personal Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Portable Devices Made Music Personal Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How music got free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14858603-M.jpg" alt="Cover for How music got free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How music got free">How music got free</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How music got free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14858603-M.jpg" alt="Cover for How music got free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How music got free">How music got free</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Covers the MP3 revolution that followed portable cassette and CD players.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the MP3 revolution that followed portable cassette and CD players.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Retromania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9756889-M.jpg" alt="Cover for Retromania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Retromania">Retromania</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Retromania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9756889-M.jpg" alt="Cover for Retromania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Retromania">Retromania</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Touches on changing music consumption habits and technology-driven nostalgia.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Touches on changing music consumption habits and technology-driven nostalgia.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The recording angel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162093-M.jpg" alt="Cover for The recording angel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The recording angel">The recording angel</a>
-        </h4>
-        <p class="fr-book-author">By Evan Eisenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The recording angel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162093-M.jpg" alt="Cover for The recording angel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The recording angel">The recording angel</a>
+</h4>
+<p class="fr-book-author">By Evan Eisenberg</p>
         
-        <p class="fr-book-desc">First published 1986. Subjects: Social aspects of Sound recordings, Social aspects, Music and society, Sound recording industry, Music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1986. Subjects: Social aspects of Sound recordings, Social aspects, Music and society, Sound recording industry, Music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Denialism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Denialism">Denialism</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Denialism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Denialism">Denialism</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for the evolution from home listening to portable playback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the evolution from home listening to portable playback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How music got free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Retromania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+recording+angel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The recording angel</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+music+got+free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How music got free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Retromania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Retromania</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+recording+angel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The recording angel</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo"><img src="https://i.ebayimg.com/images/g/z~AAAeSwuTFqKNmz/s-l225.jpg" alt="Listing image for REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo"><img src="https://i.ebayimg.com/images/g/z~AAAeSwuTFqKNmz/s-l225.jpg" alt="Listing image for REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">REFURBISHED FULLY WORKING Sony Walkman WM-FX193 NEW BELT Personal Stereo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search<span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sony walkman vintage"><img src="https://i.ebayimg.com/images/g/OrMAAeSwh8lqLGyO/s-l225.jpg" alt="Listing image for sony walkman vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">sony walkman vintage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for sony walkman vintage"><img src="https://i.ebayimg.com/images/g/OrMAAeSwh8lqLGyO/s-l225.jpg" alt="Listing image for sony walkman vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">sony walkman vintage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search<span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT"><img src="https://i.ebayimg.com/images/g/stgAAeSww81qLDsP/s-l225.jpg" alt="Listing image for SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT"><img src="https://i.ebayimg.com/images/g/stgAAeSww81qLDsP/s-l225.jpg" alt="Listing image for SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">SERVICED Sony Walkman WM-EX21 personal stereo cassette player NEW BELT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search<span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sony Walkman WM-B15 cassette player"><img src="https://i.ebayimg.com/images/g/TmgAAeSwPQNqLHme/s-l225.jpg" alt="Listing image for Sony Walkman WM-B15 cassette player" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">Sony Walkman WM-B15 cassette player</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search <span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sony Walkman WM-B15 cassette player"><img src="https://i.ebayimg.com/images/g/TmgAAeSwPQNqLHme/s-l225.jpg" alt="Listing image for Sony Walkman WM-B15 cassette player" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">Sony Walkman WM-B15 cassette player</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Sony Walkman">Search<span data-ebay-domain-label>eBay.co.uk</span>: Sony Walkman</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Sony+Walkman&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-portable-devices-made-music-personal-everywhere-sony-walkman&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Sony Walkman" data-ebay-reference="how-portable-devices-made-music-personal-everywhere-sony-walkman" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -519,7 +519,7 @@ Portable listening devices transformed recorded music from a stationary, communa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -539,7 +539,7 @@ Portable listening devices transformed recorded music from a stationary, communa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -571,7 +571,7 @@ Portable listening devices transformed recorded music from a stationary, communa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -623,7 +623,7 @@ Portable listening devices transformed recorded music from a stationary, communa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -668,7 +668,7 @@ Portable listening devices transformed recorded music from a stationary, communa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -709,101 +709,101 @@ Portable listening devices transformed recorded music from a stationary, communa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Walkman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walkman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Boombox" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boombox</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Boombox" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boombox</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Walkman effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Walkman_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walkman_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman_effect</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: indianexpress.com  
-   Link: <a href="https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/" target="_blank" rel="noopener noreferrer nofollow">https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Indian ExpressRewind, Replay: How the Walkman changed the way we hear music | Technology News - The Indian Express...</p></details>
+   Link:<a href="https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/" target="_blank" rel="noopener noreferrer nofollow">https://indianexpress.com/article/technology/rewind-replay-how-the-walkman-changed-way-we-hear-music-10108139/lite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Indian ExpressRewind, Replay: How the Walkman changed the way we hear music | Technology News - The Indian Express...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20592043211032852" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043211032852</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOn the Move: Principal Components of the Functions and Experiences of Mobile Music Listening - Mia Kuch, Clemens Wöllner, 20...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20592043211032852" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043211032852</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOn the Move: Principal Components of the Functions and Experiences of Mobile Music Listening - Mia Kuch, Clemens Wöllner, 20...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/13548565211060297" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13548565211060297</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe epitome of reprehensible individualism: The Dutch response to the Walkman, 1980–1995 - Jesper Verhoef, 2022April 19, 2022...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/13548565211060297" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13548565211060297</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe epitome of reprehensible individualism: The Dutch response to the Walkman, 1980–1995 - Jesper Verhoef, 2022April 19, 2022...</p></details>
    Published: April 19, 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially reliant on headphones for nearly every daily activity, the author came to realize how pervasive and escapist their usage had be...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/jun/09/come-on-feel-the-noise-how-i-unplugged-my-headphones-and-reconnected-with-the-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially reliant on headphones for nearly every daily activity, the author came to realize how pervasive and escapist their usage had be...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Walkman&#x27;s Invention 40 Years Ago Launched a Cultural RevolutionTHE WALKMAN’S INVENTION 40 YEARS AGO LAUNCHED A CULTURAL REVOLUTION IN...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Walkman&#x27;s Invention 40 Years Ago Launched a Cultural RevolutionTHE WALKMAN’S INVENTION 40 YEARS AGO LAUNCHED A CULTURAL REVOLUTION IN...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cir.nii.ac.jp  
-   Link: <a href="https://cir.nii.ac.jp/crid/1390853649843071232" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1390853649843071232</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Portable Music Player as the Landmark Commodity: In Case of Sony&#x27;s Walkman | CiNii ResearchMarch 15, 2007 — THE PORTABLE MUSIC PLAYER AS...</p></details>
+   Link:<a href="https://cir.nii.ac.jp/crid/1390853649843071232" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1390853649843071232</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portable Music Player as the Landmark Commodity: In Case of Sony&#x27;s Walkman | CiNii ResearchMarch 15, 2007 — THE PORTABLE MUSIC PLAYER AS...</p></details>
    Published: March 15, 2007  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmamagazine.org  
-   Link: <a href="https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/" target="_blank" rel="noopener noreferrer nofollow">https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boombox Bonanza: The History and Evolution of Portable Music PlayersJuly 23, 2024 — BOOMBOX BONANZA: THE HISTORY AND EVOLUTION OF PORTABL...</p></details>
+   Link:<a href="https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/" target="_blank" rel="noopener noreferrer nofollow">https://pmamagazine.org/boombox-bonanza-the-history-and-evolution-of-portable-music-players/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boombox Bonanza: The History and Evolution of Portable Music PlayersJuly 23, 2024 — BOOMBOX BONANZA: THE HISTORY AND EVOLUTION OF PORTABL...</p></details>
    Published: July 23, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: allhist.com  
-   Link: <a href="https://allhist.com/walkman" target="_blank" rel="noopener noreferrer nofollow">https://allhist.com/walkman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e that resonates with the hiss of magnetic tape and the vibrant pulse of 1980s pop culture, was far more than a mere gad...</p></details>
+   Link:<a href="https://allhist.com/walkman" target="_blank" rel="noopener noreferrer nofollow">https://allhist.com/walkman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e that resonates with the hiss of magnetic tape and the vibrant pulse of 1980s pop culture, was far more than a mere gad...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: neuroetpsycho.com  
    Title: They slip quietly into our daily lives, unnoticed at first, until we can n  
-   Link: <a href="https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Walkman: From shared [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;) to solitary symphony - Neuro &amp; PsychoJune 20, 2025 — THE WALKMAN: FROM SHARED MELODY TO SOLITARY SYMPHONY...</p></details>
+   Link:<a href="https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroetpsycho.com/en/walkman-personal-listening-revolution/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Walkman: From shared [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;) to solitary symphony - Neuro &amp; PsychoJune 20, 2025 — THE WALKMAN: FROM SHARED MELODY TO SOLITARY SYMPHONY...</p></details>
    Published: June 20, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambridge.org  
    Title: The walkman effect* | Popular Music | Cambridge Core  
-   Link: <a href="https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2008 — THE WALKMAN EFFECT* Published online by Cambridge University Press: 11 November 2008 Shuhei Hosokawa * * * Article co...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/walkman-effect/88BE235E3BF397CADFECEC5BEFF47035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 11, 2008 — THE WALKMAN EFFECT* Published online by Cambridge University Press: 11 November 2008 Shuhei Hosokawa * * * Article co...</p></details>
    Published: November 11, 2008  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: throwbacks.com  
    Title: The Rise and Fall of the Walkman Era | Throwbacks  
-   Link: <a href="https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era" target="_blank" rel="noopener noreferrer nofollow">https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 10, 2026 — THE RISE AND FALL OF THE WALKMAN ERA By Wren AnderssonApril 10, 2026 Music &amp; AudioSony Walkman 90s Nostalgia Portable Au...</p></details>
+   Link:<a href="https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era" target="_blank" rel="noopener noreferrer nofollow">https://www.throwbacks.com/posts/the-rise-and-fall-of-the-walkman-era</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 10, 2026 — THE RISE AND FALL OF THE WALKMAN ERA By Wren AnderssonApril 10, 2026 Music &amp; AudioSony Walkman 90s Nostalgia Portable Au...</p></details>
    Published: April 10, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blog.oup.com  
-   Link: <a href="https://blog.oup.com/2012/07/introduction-walkman-transform-listening/" target="_blank" rel="noopener noreferrer nofollow">https://blog.oup.com/2012/07/introduction-walkman-transform-listening/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>transformation of listening with the Walkman | OUPblogJuly 1, 2012 — THE TRANSFORMATION OF LISTENING WITH THE WALKMAN Image THE SOCIAL AN...</p></details>
+   Link:<a href="https://blog.oup.com/2012/07/introduction-walkman-transform-listening/" target="_blank" rel="noopener noreferrer nofollow">https://blog.oup.com/2012/07/introduction-walkman-transform-listening/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>transformation of listening with the Walkman | OUPblogJuly 1, 2012 — THE TRANSFORMATION OF LISTENING WITH THE WALKMAN Image THE SOCIAL AN...</p></details>
    Published: July 1, 2012  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: generationxnow.com  
    Title: Why Was The Sony Walkman Important?  
-   Link: <a href="https://www.generationxnow.com/why-was-the-sony-walkman-important/" target="_blank" rel="noopener noreferrer nofollow">https://www.generationxnow.com/why-was-the-sony-walkman-important/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generation X NowMarch 28, 2025 — WHY WAS THE SONY WALKMAN IMPORTANT? generationxnow_5c2o4a March 28, 2025 Image: image March 27th 2025: T...</p></details>
+   Link:<a href="https://www.generationxnow.com/why-was-the-sony-walkman-important/" target="_blank" rel="noopener noreferrer nofollow">https://www.generationxnow.com/why-was-the-sony-walkman-important/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generation X NowMarch 28, 2025 — WHY WAS THE SONY WALKMAN IMPORTANT? generationxnow_5c2o4a March 28, 2025 Image: image March 27th 2025: T...</p></details>
    Published: March 28, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newyorker.com  
    Title: The Walkman, Forty Years On | The New Yorker  
-   Link: <a href="https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Matt Alt June 29, 2020 Image: The Walkman TPSL2 model The Walkman débuted in Japan, in 1979, to near [silence](&amp;#123;&amp;#123; &#x27;silence/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/cultural-comment/the-walkman-forty-years-on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Matt Alt June 29, 2020 Image: The Walkman TPSL2 model The Walkman débuted in Japan, in 1979, to near [silence](&amp;#123;&amp;#123; &#x27;silence/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
    Published: June 29, 2020

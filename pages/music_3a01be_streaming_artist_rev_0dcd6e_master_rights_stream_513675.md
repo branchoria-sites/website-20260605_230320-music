@@ -274,264 +274,264 @@ image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_str
 
 ## Introduction
 
-When a song is streamed, the recording money does not normally go to the performer first. It goes to whoever controls the master rights—the copyright in the specific sound recording being played. In many cases that is a record label, although it can also be an independent artist, a distributor account, or a company that has acquired the recording rights. The distinction matters because streaming platforms generally pay the master-rights holder, and the artist's eventual share depends on the contract governing that recording. [Ownership]({{ 'ownership/' | relative_url }}), [licensing]({{ 'licensing/' | relative_url }}) terms and recoupment rules often determine whether an artist receives most of the streaming income, a small percentage of it, or nothing yet at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/master-rights-vs-[publishing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">Master Rights vs</span><span class="citation-popover-snippet">Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</span></span></span>
+When a song is streamed, the recording money does not normally go to the performer first. It goes to whoever controls the master rights—the copyright in the specific sound recording being played. In many cases that is a record label, although it can also be an independent artist, a distributor account, or a company that has acquired the recording rights. The distinction matters because streaming platforms generally pay the master-rights holder, and the artist's eventual share depends on the contract governing that recording. [Ownership]({{ 'ownership/' | relative_url }}), [licensing]({{ 'licensing/' | relative_url }}) terms and recoupment rules often determine whether an artist receives most of the streaming income, a small percentage of it, or nothing yet at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/master-rights-vs-[publishing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">Master Rights vs</span><span class="citation-popover-snippet">Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-dark.svg" | relative_url }}" alt="Master rights illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the sound recording copyright covers
 
-The master, or sound [recording]({{ 'recording/' | relative_url }}) copyright, protects a particular recorded performance rather than the underlying song. A recording of a composition and the composition itself are separate assets with separate revenue streams. If several artists record the same song, each recording has its own master copyright even though the underlying composition remains the same. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
+The master, or sound [recording]({{ 'recording/' | relative_url }}) copyright, protects a particular recorded performance rather than the underlying song. A recording of a composition and the composition itself are separate assets with separate revenue streams. If several artists record the same song, each recording has its own master copyright even though the underlying composition remains the same.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
 
 Control of the master usually belongs to one of three parties:
 
 * A record label that financed, acquired or contractually owns the recording.
 * An independent artist who funded and released the recording themselves.
-* A company or investor that later purchased or licensed the master [catalogue]({{ 'catalogue/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/master-rights-vs-publishing-rights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">Master Rights vs</span><span class="citation-popover-snippet">Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</span></span></span>
+* A company or investor that later purchased or licensed the master [catalogue]({{ 'catalogue/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/master-rights-vs-publishing-rights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">Master Rights vs</span><span class="citation-popover-snippet">Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</span></span></span>
 
-Because streaming services license recordings from master-[rights]({{ 'rights/' | relative_url }}) holders, the first recipient of most recording-side streaming revenue is the entity controlling those rights. The platform does not usually examine the artist's private royalty agreement; it simply pays the recognised rights holder according to its licence arrangements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
+Because streaming services license recordings from master-[rights]({{ 'rights/' | relative_url }}) holders, the first recipient of most recording-side streaming revenue is the entity controlling those rights. The platform does not usually examine the artist's private royalty agreement; it simply pays the recognised rights holder according to its licence arrangements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
 
-A useful way to think about the system is that streaming services pay for access to recordings, not directly for artistic labour. The contractual relationship between artist and label determines how the resulting money is divided after it reaches the master owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span>
+A useful way to think about the system is that streaming services pay for access to recordings, not directly for artistic labour. The contractual relationship between artist and label determines how the resulting money is divided after it reaches the master owner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span>
 
 ## How labels and distributors receive master royalties
 
-Streaming platforms aggregate usage data and allocate recording [royalties]({{ 'royalties/' | relative_url }}) to the owners or controllers of the master recordings. For major-label releases, payments typically flow to the label. For self-released music, payments generally flow through a distributor and then to the artist or artist-owned company. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
+Streaming platforms aggregate usage data and allocate recording [royalties]({{ 'royalties/' | relative_url }}) to the owners or controllers of the master recordings. For major-label releases, payments typically flow to the label. For self-released music, payments generally flow through a distributor and then to the artist or artist-owned company.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[2sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
 
 The route can look very different depending on the deal structure:
 
 Release modelFirst recipient of recording revenueArtist positionTraditional major-label dealLabelReceives contractual royalty share after accountingIndependent release through distributorArtist or artist-owned companyKeeps most revenue after distribution feesLicensing dealLabel may administer revenue during licence termOwnership may remain with artistCatalogue acquisitionRights buyer receives revenueOriginal artist receives only what contract provides
 
-Traditional record contracts often give labels ownership or long-term control of masters in exchange for advances, recording budgets, marketing investment and global distribution. In that arrangement, streaming income is first collected by the label and then accounted to the artist according to the royalty provisions in the contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recording_contract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recording contract</span><span class="citation-popover-snippet">Recording contract</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
+Traditional record contracts often give labels ownership or long-term control of masters in exchange for advances, recording budgets, marketing investment and global distribution. In that arrangement, streaming income is first collected by the label and then accounted to the artist according to the royalty provisions in the contract.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recording_contract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recording contract</span><span class="citation-popover-snippet">Recording contract</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
 
-By contrast, an artist who owns their masters can receive recording royalties much more directly. Distributors generally deduct fees or commissions and pass the remainder to the rights holder rather than taking ownership of the recordings themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span>
+By contrast, an artist who owns their masters can receive recording royalties much more directly. Distributors generally deduct fees or commissions and pass the remainder to the rights holder rather than taking ownership of the recordings themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span>
 
-The practical consequence is that identical streaming numbers can produce radically different artist earnings. A self-releasing artist who owns the master may retain the majority of recording revenue, while a signed artist may receive only the royalty percentage negotiated in their contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
+The practical consequence is that identical streaming numbers can produce radically different artist earnings. A self-releasing artist who owns the master may retain the majority of recording revenue, while a signed artist may receive only the royalty percentage negotiated in their contract.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-2-dark.svg" | relative_url }}" alt="Master rights illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why recoupment can delay artist cash
 
-One of the most important but least visible features of master-rights economics is recoupment. Under many recording agreements, labels advance money to artists for recording, marketing, touring support or other career development costs. Those advances are usually recoverable from the artist's royalty share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-recording-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 recording royalties</span><span class="citation-popover-snippet">Royalty ExchangeRecording Royalties: What They Are &amp; How They Work16 Apr 2026 — A signed artist on a standard label deal usually earns 10...</span></span></span>
+One of the most important but least visible features of master-rights economics is recoupment. Under many recording agreements, labels advance money to artists for recording, marketing, touring support or other career development costs. Those advances are usually recoverable from the artist's royalty share.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/music-royalties-101-recording-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 recording royalties</span><span class="citation-popover-snippet">Royalty ExchangeRecording Royalties: What They Are &amp; How They Work16 Apr 2026 — A signed artist on a standard label deal usually earns 10...</span></span></span>
 
-This means streaming revenue may be generated immediately, yet the artist may not receive cash payments for a long period. The label first applies the artist's royalty share toward the outstanding balance of recoupable costs. Only after that balance is cleared does additional royalty income become payable to the artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
+This means streaming revenue may be generated immediately, yet the artist may not receive cash payments for a long period. The label first applies the artist's royalty share toward the outstanding balance of recoupable costs. Only after that balance is cleared does additional royalty income become payable to the artist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
 For example:
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A label pays recording and marketing advances.
-2. Streaming royalties flow to the label as master owner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
+2. Streaming royalties flow to the label as master owner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepwell.substack.com">[sleepwell.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepwell.substack.com</span><span class="citation-popover-title">Music Streaming Royalties 101</span><span class="citation-popover-snippet">The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</span></span></span>
 3. The artist's contractual royalty share is calculated.
 4. That share is credited against unrecouped costs.
-5. Cash payments begin only after recoupment is complete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
+5. Cash payments begin only after recoupment is complete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">music royalties 101 intro to royalties</span><span class="citation-popover-snippet">Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</span></span></span>
 
 </div>
 
-Industry guidance from the UK's Musicians' Union notes that artists generally receive royalty payments only after advances and recording costs have been recouped according to the contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
+Industry guidance from the UK's Musicians' Union notes that artists generally receive royalty payments only after advances and recording costs have been recouped according to the contract.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
 
-Some agreements also contain cross-collateralisation provisions, allowing certain advances or losses from one project to be recovered against income from another. This can extend the period before artists receive direct streaming income. The Jacobson Firm, P.C. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejacobsonfirmpc.com">[thejacobsonfirmpc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejacobsonfirmpc.com</span><span class="citation-popover-snippet">or any other agreement between the parties” shall be recouped from any and all streams of income...Read more...</span></span></span>
+Some agreements also contain cross-collateralisation provisions, allowing certain advances or losses from one project to be recovered against income from another. This can extend the period before artists receive direct streaming income. The Jacobson Firm, P.C.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejacobsonfirmpc.com">[thejacobsonfirmpc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejacobsonfirmpc.com</span><span class="citation-popover-snippet">or any other agreement between the parties” shall be recouped from any and all streams of income...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-dark.svg" | relative_url }}" alt="Master rights illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why master ownership has become a strategic asset
 
-The growth of streaming has increased the long-term value of master recordings because successful tracks can generate revenue for many years. As a result, ownership of masters has become one of the most important negotiating points in modern music contracts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Prominent artists like Neil Young, Shakira, and Lindsey Buckingham have sold their rights to Hipgnosis Songs Fund, a notable new player m...</span></span></span>
+The growth of streaming has increased the long-term value of master recordings because successful tracks can generate revenue for many years. As a result, ownership of masters has become one of the most important negotiating points in modern music contracts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Prominent artists like Neil Young, Shakira, and Lindsey Buckingham have sold their rights to Hipgnosis Songs Fund, a notable new player m...</span></span></span>
 
 Artists who retain ownership typically gain:
 
 * Greater participation in future streaming income.
 * More control over licensing decisions.
-* A valuable catalogue asset that can be sold, licensed or inherited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
+* A valuable catalogue asset that can be sold, licensed or inherited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
 
-Labels, however, argue that master ownership reflects the financial risk they assume through advances, promotion, marketing, distribution networks and long-term investment in recordings. The resulting trade-off is central to modern recording agreements: artists may exchange ownership or control for funding and industry support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
+Labels, however, argue that master ownership reflects the financial risk they assume through advances, promotion, marketing, distribution networks and long-term investment in recordings. The resulting trade-off is central to modern recording agreements: artists may exchange ownership or control for funding and industry support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-snippet">Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties &#124; The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</span></span></span>
 
-This is why discussions about streaming payouts often miss the crucial question. The key issue is not only how much money a platform pays for streams, but who owns the master recording that receives that payment in the first place. Ownership determines where the money arrives first, while the contract determines how much of it ultimately reaches the artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
+This is why discussions about streaming payouts often miss the crucial question. The key issue is not only how much money a platform pays for streams, but who owns the master recording that receives that payment in the first place. Ownership determines where the money arrives first, while the contract determines how much of it ultimately reaches the artist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiemusicacademy.com">[Indie Music Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiemusicacademy.com</span><span class="citation-popover-snippet">Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundcharts.com">[Soundcharts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundcharts.com</span><span class="citation-popover-title">music royalties</span><span class="citation-popover-snippet">How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who gets the recording money first?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who gets the recording money first?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Extensive coverage of master ownership, labels, and recoupment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Extensive coverage of master ownership, labels, and recoupment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
-        </h4>
-        <p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
+</h4>
+<p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
         
-        <p class="fr-book-desc">Explains recording copyrights and royalty distribution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains recording copyrights and royalty distribution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music Industry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KydqDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Music Industry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music Industry Handbook">The Music Industry Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Paul Rutter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music Industry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KydqDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Music Industry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music Industry Handbook">The Music Industry Handbook</a>
+</h4>
+<p class="fr-book-author">By Paul Rutter</p>
         
-        <p class="fr-book-desc">Provides context for rights ownership and industry structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for rights ownership and industry structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Music+Industry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Music Industry books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Music+Industry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Music Industry books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life Is Better With Music Sweatshirt EDM DJ Music Lover Musician Outfit"><img src="{{ '/assets/images/marketplace-covers/9ca27902dd853d8af709.jpg' | relative_url }}" alt="Listing image for Life Is Better With Music Sweatshirt EDM DJ Music Lover Musician Outfit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">Life Is Better With Music Sweatshirt EDM DJ Music Lover Musician Outfit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life Is Better With Music Sweatshirt EDM DJ Music Lover Musician Outfit"><img src="{{ '/assets/images/marketplace-covers/9ca27902dd853d8af709.jpg' | relative_url }}" alt="Listing image for Life Is Better With Music Sweatshirt EDM DJ Music Lover Musician Outfit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">Life Is Better With Music Sweatshirt EDM DJ Music Lover Musician Outfit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Headphones Heartbeat Adult Hoodie Funny Music DJ Producer House Small to 3XL"><img src="{{ '/assets/images/marketplace-covers/3f39c9180421710e0ab0.jpg' | relative_url }}" alt="Listing image for Headphones Heartbeat Adult Hoodie Funny Music DJ Producer House Small to 3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">Headphones Heartbeat Adult Hoodie Funny Music DJ Producer House Small to 3XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Headphones Heartbeat Adult Hoodie Funny Music DJ Producer House Small to 3XL"><img src="{{ '/assets/images/marketplace-covers/3f39c9180421710e0ab0.jpg' | relative_url }}" alt="Listing image for Headphones Heartbeat Adult Hoodie Funny Music DJ Producer House Small to 3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">Headphones Heartbeat Adult Hoodie Funny Music DJ Producer House Small to 3XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Lover Gifts Hoodie Sweater Sweatshirt Rap Funny Make Hip Hop Great Again"><img src="{{ '/assets/images/marketplace-covers/be8b1c7cb219e1d0d1cb.jpg' | relative_url }}" alt="Listing image for Music Lover Gifts Hoodie Sweater Sweatshirt Rap Funny Make Hip Hop Great Again" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">Music Lover Gifts Hoodie Sweater Sweatshirt Rap Funny Make Hip Hop Great Again</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Lover Gifts Hoodie Sweater Sweatshirt Rap Funny Make Hip Hop Great Again"><img src="{{ '/assets/images/marketplace-covers/be8b1c7cb219e1d0d1cb.jpg' | relative_url }}" alt="Listing image for Music Lover Gifts Hoodie Sweater Sweatshirt Rap Funny Make Hip Hop Great Again" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">Music Lover Gifts Hoodie Sweater Sweatshirt Rap Funny Make Hip Hop Great Again</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOOG HOODIE SYNTHESIZER MUSIC PRODUCER"><img src="{{ '/assets/images/marketplace-covers/275f3ab8d3c08b153ce9.jpg' | relative_url }}" alt="Listing image for MOOG HOODIE SYNTHESIZER MUSIC PRODUCER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">MOOG HOODIE SYNTHESIZER MUSIC PRODUCER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOOG HOODIE SYNTHESIZER MUSIC PRODUCER"><img src="{{ '/assets/images/marketplace-covers/275f3ab8d3c08b153ce9.jpg' | relative_url }}" alt="Listing image for MOOG HOODIE SYNTHESIZER MUSIC PRODUCER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">MOOG HOODIE SYNTHESIZER MUSIC PRODUCER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer hoodie" data-ebay-reference="master-rights-who-gets-the-recording-money-first-music-music-producer-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ This is why discussions about streaming payouts often miss the crucial question.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ This is why discussions about streaming payouts often miss the crucial question.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ This is why discussions about streaming payouts often miss the crucial question.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ This is why discussions about streaming payouts often miss the crucial question.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ This is why discussions about streaming payouts often miss the crucial question.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,124 +737,124 @@ This is why discussions about streaming payouts often miss the crucial question.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: soundcharts.com  
    Title: Master Rights vs  
-   Link: <a href="https://soundcharts.com/en/blog/master-rights-vs-[publishing" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/master-rights-vs-[publishing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</p></details>
+   Link:<a href="https://soundcharts.com/en/blog/master-rights-vs-[publishing" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/master-rights-vs-[publishing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing Rights in Music30 Jul 2025 — Master rights belong to whoever financed or controls the recording—often a label or an independen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prominent artists like Neil Young, Shakira, and Lindsey Buckingham have sold their rights to Hipgnosis Songs Fund, a notable new player m...</p></details>
+   Link:<a href="https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/thepitch/what-to-know-about-musics-copyright-gold-rush</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prominent artists like Neil Young, Shakira, and Lindsey Buckingham have sold their rights to Hipgnosis Songs Fund, a notable new player m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Recording contract  
-   Link: <a href="https://en.wikipedia.org/wiki/Recording_contract" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recording_contract</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Recording_contract" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recording_contract</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sleepwell.substack.com  
    Title: Music Streaming Royalties 101  
-   Link: <a href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow">https://sleepwell.substack.com/p/music-streaming-royalties-101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</p></details>
+   Link:<a href="https://sleepwell.substack.com/p/music-streaming-royalties-101" target="_blank" rel="noopener noreferrer nofollow">https://sleepwell.substack.com/p/music-streaming-royalties-101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sleepwell StrategyThe Master is negotiated with and paid to the Labels and Distributors directly, while Music Publishing rates are ov...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: soundcharts.com  
    Title: music royalties  
-   Link: <a href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/music-royalties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</p></details>
+   Link:<a href="https://soundcharts.com/en/blog/music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://soundcharts.com/en/blog/music-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Royalties Work: 6 Types of Music Royalties8 Jan 2020 — A complete guide to music royalties: understand streaming payouts, perfo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: royaltyexchange.com  
    Title: music royalties 101 intro to royalties  
-   Link: <a href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</p></details>
+   Link:<a href="https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-intro-to-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeMusic Royalties 101: An In-Depth Guide20 Mar 2026 — The sound recording copyright (called the &quot;master&quot;) covers one specif...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/recording-and-broadcasting/musician-royalties-from-recordings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionSession Musician &amp; Recording Artist Royalties | The MUAdvice on music and sound recording royalties. The Musicians&#x27; Union...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: indiemusicacademy.com  
-   Link: <a href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.indiemusicacademy.com/blog/music-royalties-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</p></details>
+   Link:<a href="https://www.indiemusicacademy.com/blog/music-royalties-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.indiemusicacademy.com/blog/music-royalties-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indie Music AcademyMusic Royalties Explained: The Ultimate Guide for 2026Streaming royalties are the fees paid out to the Master Rights o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionRecord Label Contracts &amp; AgreementsAdvice on recording contracts, record deals, dealing with record labels, production ag...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/working-as-a-recording-artist/record-label-contracts-agreements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionRecord Label Contracts &amp; AgreementsAdvice on recording contracts, record deals, dealing with record labels, production ag...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: royaltyexchange.com  
    Title: music royalties 101 recording royalties  
-   Link: <a href="https://royaltyexchange.com/blog/music-royalties-101-recording-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-recording-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeRecording Royalties: What They Are &amp; How They Work16 Apr 2026 — A signed artist on a standard label deal usually earns 10...</p></details>
+   Link:<a href="https://royaltyexchange.com/blog/music-royalties-101-recording-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/music-royalties-101-recording-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeRecording Royalties: What They Are &amp; How They Work16 Apr 2026 — A signed artist on a standard label deal usually earns 10...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thejacobsonfirmpc.com  
-   Link: <a href="https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/" target="_blank" rel="noopener noreferrer nofollow">https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or any other agreement between the parties” shall be recouped from any and all streams of income...Read more...</p></details>
+   Link:<a href="https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/" target="_blank" rel="noopener noreferrer nofollow">https://thejacobsonfirmpc.com/the-artist-record-label-relationship-a-look-at-the-standard-record-deal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or any other agreement between the parties” shall be recouped from any and all streams of income...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e secondary and further use of recordings.Read more...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e secondary and further use of recordings.Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iconcollective.edu  
-   Link: <a href="https://www.iconcollective.edu/how-music-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://www.iconcollective.edu/how-music-royalties-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: How Music Royalties Work in the Music IndustryMusic royalties are payments made to rights holders (such as songwriters, compos...</p></details>
+   Link:<a href="https://www.iconcollective.edu/how-music-royalties-work" target="_blank" rel="noopener noreferrer nofollow">https://www.iconcollective.edu/how-music-royalties-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: How Music Royalties Work in the Music IndustryMusic royalties are payments made to rights holders (such as songwriters, compos...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sae.edu  
-   Link: <a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishing and Royalties ExplainedOur blog explores music publishing, the collection of royalties and how this ecosystem helps song...</p></details>
+   Link:<a href="https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.sae.edu/gbr/insights/music-publishing-and-royalties-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishing and Royalties ExplainedOur blog explores music publishing, the collection of royalties and how this ecosystem helps song...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicVisit the YouTube Music Channel to find today&#x27;s top talent, featured artists, and playlists. Subscribe to see the latest in the musi...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MusicVisit the YouTube Music Channel to find today&#x27;s top talent, featured artists, and playlists. Subscribe to see the latest in the musi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aristake.com  
    Title: session musicians master royalties  
-   Link: <a href="https://aristake.com/session-musicians-master-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/session-musicians-master-royalties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Time To Normalize Cutting Session Musicians Into...Sep 30, 2025 — Historically, major labels would keep 82% of master royalties, an...</p></details>
+   Link:<a href="https://aristake.com/session-musicians-master-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/session-musicians-master-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Time To Normalize Cutting Session Musicians Into...Sep 30, 2025 — Historically, major labels would keep 82% of master royalties, an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: royalti.io  
    Title: label owners guide [royalty splits](&#123;&#123; 'royalty-splits/' | relative_url &#125;&#125;)  
-   Link: <a href="https://royalti.io/blog/label-owners-guide-royalty-splits" target="_blank" rel="noopener noreferrer nofollow">https://royalti.io/blog/label-owners-guide-royalty-splits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Label Owner&#x27;s Guide to Royalty SplitsFeb 24, 2026 — When someone streams a song, roughly 80% of the royalty goes to the master rights h...</p></details>
+   Link:<a href="https://royalti.io/blog/label-owners-guide-royalty-splits" target="_blank" rel="noopener noreferrer nofollow">https://royalti.io/blog/label-owners-guide-royalty-splits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Label Owner&#x27;s Guide to Royalty SplitsFeb 24, 2026 — When someone streams a song, roughly 80% of the royalty goes to the master rights h...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mubert.com  
-   Link: <a href="https://mubert.com/blog/types-of-royalties-in-music-publishing-explained" target="_blank" rel="noopener noreferrer nofollow">https://mubert.com/blog/types-of-royalties-in-music-publishing-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Royalties in Music Publishing Explained12 Jan 2026 — Master recording royalties are tied to the actual sound recording of a song...</p></details>
+   Link:<a href="https://mubert.com/blog/types-of-royalties-in-music-publishing-explained" target="_blank" rel="noopener noreferrer nofollow">https://mubert.com/blog/types-of-royalties-in-music-publishing-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Royalties in Music Publishing Explained12 Jan 2026 — Master recording royalties are tied to the actual sound recording of a song...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: can someone explain how streaming services  
-   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>royalties are...For instance, let’s say Apple Music pays out $5000 for 1 million streams...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/p0kjcx/can_someone_explain_how_streaming_services/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>royalties are...For instance, let’s say Apple Music pays out $5000 for 1 million streams...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aulart.com  
-   Link: <a href="https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE" target="_blank" rel="noopener noreferrer nofollow">https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties Part II: Recording Artists and ProducersDec 22, 2020 — Master Royalties: These are the royalties paid to labels, recordin...</p></details>
+   Link:<a href="https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE" target="_blank" rel="noopener noreferrer nofollow">https://www.aulart.com/blog/music-royalties-part-ii-recording-artists-and-producers/?srsltid=AfmBOoqaV4t2dz3KODqXTgMjFHEHNeItZSkus5_CsOUvCI17iH3A9liE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties Part II: Recording Artists and ProducersDec 22, 2020 — Master Royalties: These are the royalties paid to labels, recordin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>understanding publishing rights14 May 2021 — Essentially, an MCPS royalty is generated every time your music is reproduced and that&#x27;s acr...</p></details>
+   Link:<a href="https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/how-to/how-to-understanding-publishing-rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>understanding publishing rights14 May 2021 — Essentially, an MCPS royalty is generated every time your music is reproduced and that&#x27;s acr...</p></details>
    Published: May 2021  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Music Royalties Explained: Master vs. Publishing  
-   Link: <a href="https://www.youtube.com/watch?v=kYJ7x-w7Y8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ7x-w7Y8k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Royalties Really Work...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYJ7x-w7Y8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ7x-w7Y8k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Music Streaming Royalties Really Work...</p></details>

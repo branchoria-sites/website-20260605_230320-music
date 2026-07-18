@@ -274,226 +274,226 @@ image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_i
 
 ## Introduction
 
-Many listeners find themselves thinking, *“It’s like this song was written about me”* when a line in a verse or chorus mirrors a personal feeling or experience. This sense of recognition isn’t just poetic shorthand; it emerges from how [lyrics]({{ 'lyrics/' | relative_url }}) transform abstract emotion into words that map onto individual lives. Through linguistic meaning, narrative cues, and psychological mechanisms like empathy and [memory]({{ 'memory/' | relative_url }}), lyrics help people recognise aspects of themselves, their histories and their emotional worlds within a song—bridging the gap between private experience and shared language. Research shows that lyrics do more than accompany music: they give listeners a way to *see* their own feelings reflected back at them in language they can grasp and revisit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
+Many listeners find themselves thinking, *“It’s like this song was written about me”* when a line in a verse or chorus mirrors a personal feeling or experience. This sense of recognition isn’t just poetic shorthand; it emerges from how [lyrics]({{ 'lyrics/' | relative_url }}) transform abstract emotion into words that map onto individual lives. Through linguistic meaning, narrative cues, and psychological mechanisms like empathy and [memory]({{ 'memory/' | relative_url }}), lyrics help people recognise aspects of themselves, their histories and their emotional worlds within a song—bridging the gap between private experience and shared language. Research shows that lyrics do more than accompany music: they give listeners a way to *see* their own feelings reflected back at them in language they can grasp and revisit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1-dark.svg" | relative_url }}" alt="Identification illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Narrative Arcs Listeners Recognise
 
-One way lyrics help listeners recognise themselves is through *narrative structure*. Songs often follow emotional arcs—conflict, longing, resolution—that resemble the unfolding of real-life stories. When listeners hear a familiar arc in words, it can cue episodic memory and personal reflection. For example, psychological research into lyrical content highlights that lyrics can make emotions and personal problems more accessible for listeners who are dealing with similar issues. In other words, stories in lyrics provide *mental scripts* that mirror everyday emotional journeys and help listeners locate their own experiences within those arcs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
+One way lyrics help listeners recognise themselves is through *narrative structure*. Songs often follow emotional arcs—conflict, longing, resolution—that resemble the unfolding of real-life stories. When listeners hear a familiar arc in words, it can cue episodic memory and personal reflection. For example, psychological research into lyrical content highlights that lyrics can make emotions and personal problems more accessible for listeners who are dealing with similar issues. In other words, stories in lyrics provide *mental scripts* that mirror everyday emotional journeys and help listeners locate their own experiences within those arcs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
 
-Importantly, listeners do more than hear melodies; they process the **meaning** of lyrics even when they are familiar with a song, indicating that semantic understanding persists beyond initial exposure. A neurocognitive study using event‑related potentials found that people process the semantic content of lyrics continually, suggesting ongoing integration of lyrical meaning with personal relevance over repeated listens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Old songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</span></span></span>
+Importantly, listeners do more than hear melodies; they process the **meaning** of lyrics even when they are familiar with a song, indicating that semantic understanding persists beyond initial exposure. A neurocognitive study using event‑related potentials found that people process the semantic content of lyrics continually, suggesting ongoing integration of lyrical meaning with personal relevance over repeated listens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Old songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</span></span></span>
 
 ## Memory and Imagery in Lyric Listening
 
-Lyrics often function as *memory cues*. Language has a unique ability to trigger autobiographical memories because it connects with narrative structures stored in long‑term memory. Research into music and emotion shows that lyrics can *intensify* emotional responses and evoke memories more strongly than music alone, partly because words give distinct cues that map onto specific life events or feelings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
+Lyrics often function as *memory cues*. Language has a unique ability to trigger autobiographical memories because it connects with narrative structures stored in long‑term memory. Research into music and emotion shows that lyrics can *intensify* emotional responses and evoke memories more strongly than music alone, partly because words give distinct cues that map onto specific life events or feelings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
 
 The process isn’t merely about recalling a song; it’s about bringing memories and feelings to the surface. For some listeners, certain lines become tightly linked with personal milestones—break‑ups, first loves, losses or turning points—precisely because the words articulate what they were feeling at that moment. In a psychological context, this can serve both *identity exploration* and *narrative coherence*, as lyrics help listeners interpret and organise personal experience through tailored verbal imagery.
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-2-dark.svg" | relative_url }}" alt="Identification illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Personal Feeling Becomes Shareable
 
-Lyrics do more than reflect private feelings—they enable listeners to *project* their own experiences onto a shared cultural text. Cognitive and social theories of music suggest that identification with song lyrics involves empathic engagement: listeners imaginatively *place themselves in the songwriter’s perspective*, thus blurring the distinction between self and the narrative voice. This identification is not purely emotional but involves simulating the thoughts and feelings expressed in the song. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">usic-Listening-Induced Eudaimonia (UMMIE)November 28, 2025 — It is not implausible that a message component (a word, imagery) that is com...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+Lyrics do more than reflect private feelings—they enable listeners to *project* their own experiences onto a shared cultural text. Cognitive and social theories of music suggest that identification with song lyrics involves empathic engagement: listeners imaginatively *place themselves in the songwriter’s perspective*, thus blurring the distinction between self and the narrative voice. This identification is not purely emotional but involves simulating the thoughts and feelings expressed in the song.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">usic-Listening-Induced Eudaimonia (UMMIE)November 28, 2025 — It is not implausible that a message component (a word, imagery) that is com...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
-Familiar or emotionally rich lyrics often feel *meaningful* because they resonate with common human themes—loss, love, resilience—which listeners can latch onto and interpret in the context of their own lives. In some studies, lyrics attached to familiar melodies are judged more meaningful than the same words spoken as poetry, indicating that the musical context enhances the personal salience of the text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
+Familiar or emotionally rich lyrics often feel *meaningful* because they resonate with common human themes—loss, love, resilience—which listeners can latch onto and interpret in the context of their own lives. In some studies, lyrics attached to familiar melodies are judged more meaningful than the same words spoken as poetry, indicating that the musical context enhances the personal salience of the text.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.bond.edu.au">[Bond University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.bond.edu.au</span><span class="citation-popover-snippet">Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</span></span></span>
 
-This mechanism also helps explain why ambiguous or open‑ended lyrics often feel especially personal: by leaving space for interpretation, they invite listeners to fill in gaps with their own stories, making the song’s meaning uniquely theirs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://songtakes.com/blog/why-write-songs-decoding-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtakes.com">[SongTakes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtakes.com</span><span class="citation-popover-title">Song Takes Why We Write Songs And How Listeners Decode Them &#124; Song Takes</span><span class="citation-popover-snippet">Why We Write Songs And How Listeners Decode Them &#124; SongTakesMay 16, 2026...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
+This mechanism also helps explain why ambiguous or open‑ended lyrics often feel especially personal: by leaving space for interpretation, they invite listeners to fill in gaps with their own stories, making the song’s meaning uniquely theirs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://songtakes.com/blog/why-write-songs-decoding-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songtakes.com">[SongTakes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songtakes.com</span><span class="citation-popover-title">Song Takes Why We Write Songs And How Listeners Decode Them &#124; Song Takes</span><span class="citation-popover-snippet">Why We Write Songs And How Listeners Decode Them &#124; SongTakesMay 16, 2026...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-dark.svg" | relative_url }}" alt="Identification illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confidence and Limitations in Recognition
 
-It’s worth acknowledging that not all listeners experience lyrics in the same way. Some engage more with emotional tone and musical texture than with lexical meaning, and comprehension of language influences how much lyrics shape emotional interpretation. Listeners who do not process lyrics deeply may still respond to mood and sound, but those who *attend* to the words are more likely to recognise and internalise them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1909.05882" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">September 12, 2019...</span><span class="citation-popover-meta">Published: September 12, 2019</span></span></span>
+It’s worth acknowledging that not all listeners experience lyrics in the same way. Some engage more with emotional tone and musical texture than with lexical meaning, and comprehension of language influences how much lyrics shape emotional interpretation. Listeners who do not process lyrics deeply may still respond to mood and sound, but those who *attend* to the words are more likely to recognise and internalise them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1909.05882" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">September 12, 2019...</span><span class="citation-popover-meta">Published: September 12, 2019</span></span></span>
 
-Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in which they see their own reflections, and maps that help them make sense of inner landscapes otherwise hard to articulate. Through narrative cues, memory triggers, empathic engagement and cultural sharing, lyrics help listeners find a sense of recognition that feels both deeply personal and broadly human. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
+Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in which they see their own reflections, and maps that help them make sense of inner landscapes otherwise hard to articulate. Through narrative cues, memory triggers, empathic engagement and cultural sharing, lyrics help listeners find a sense of recognition that feels both deeply personal and broadly human.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSystematic review and meta-analysis on the psychological effects of song lyrics: A perspective from critical music education...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some Lyrics Feel Like Your Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some Lyrics Feel Like Your Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains links between music, memory, and emotion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains links between music, memory, and emotion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Places listener identification in a wider social context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places listener identification in a wider social context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
-        </h4>
-        <p class="fr-book-author">By Pat Pattison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
+</h4>
+<p class="fr-book-author">By Pat Pattison</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songwriters on songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164829-M.jpg" alt="Cover for Songwriters on songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songwriters on songwriting">Songwriters on songwriting</a>
-        </h4>
-        <p class="fr-book-author">By Paul Zollo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songwriters on songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164829-M.jpg" alt="Cover for Songwriters on songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songwriters on songwriting">Songwriters on songwriting</a>
+</h4>
+<p class="fr-book-author">By Paul Zollo</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Composers, Popular music, Interviews, History and criticism, Lyricists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Composers, Popular music, Interviews, History and criticism, Lyricists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Song Lyric &amp; Photo for husband or wife"><img src="{{ '/assets/images/marketplace-covers/8e4d7164569f0ebd4c69.jpg' | relative_url }}" alt="Listing image for Personalised Song Lyric &amp; Photo for husband or wife" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Song Lyric &amp; Photo for husband or wife</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Song Lyric &amp; Photo for husband or wife"><img src="{{ '/assets/images/marketplace-covers/8e4d7164569f0ebd4c69.jpg' | relative_url }}" alt="Listing image for Personalised Song Lyric &amp; Photo for husband or wife" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Song Lyric &amp; Photo for husband or wife</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Song Lyric &amp; Photo - Personalised - A4 or A3 - Can be framed"><img src="{{ '/assets/images/marketplace-covers/aefc4b70aaf1a36eeeff.jpg' | relative_url }}" alt="Listing image for Song Lyric &amp; Photo - Personalised - A4 or A3 - Can be framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Song Lyric &amp; Photo - Personalised - A4 or A3 - Can be framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Song Lyric &amp; Photo - Personalised - A4 or A3 - Can be framed"><img src="{{ '/assets/images/marketplace-covers/aefc4b70aaf1a36eeeff.jpg' | relative_url }}" alt="Listing image for Song Lyric &amp; Photo - Personalised - A4 or A3 - Can be framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Song Lyric &amp; Photo - Personalised - A4 or A3 - Can be framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA"><img src="{{ '/assets/images/marketplace-covers/394258bb2d3f732cd213.jpg' | relative_url }}" alt="Listing image for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA"><img src="{{ '/assets/images/marketplace-covers/394258bb2d3f732cd213.jpg' | relative_url }}" alt="Listing image for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster"><img src="{{ '/assets/images/marketplace-covers/23b010174a2517ad53bc.jpg' | relative_url }}" alt="Listing image for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster"><img src="{{ '/assets/images/marketplace-covers/23b010174a2517ad53bc.jpg' | relative_url }}" alt="Listing image for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="identification-why-some-lyrics-feel-like-your-story-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,115 +699,115 @@ Nonetheless, for many people, lyrics act as *mirrors* and *maps*—mirrors in wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0911604415000068</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Old songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0911604415000068" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0911604415000068</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Old songs can be as fresh as new: An ERP study on lyrics processing - ScienceDirect...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: songtakes.com  
    Title: Song Takes Why We Write Songs And How Listeners Decode Them | Song Takes  
-   Link: <a href="https://songtakes.com/blog/why-write-songs-decoding-songs" target="_blank" rel="noopener noreferrer nofollow">https://songtakes.com/blog/why-write-songs-decoding-songs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Write Songs And How Listeners Decode Them | SongTakesMay 16, 2026...</p></details>
+   Link:<a href="https://songtakes.com/blog/why-write-songs-decoding-songs" target="_blank" rel="noopener noreferrer nofollow">https://songtakes.com/blog/why-write-songs-decoding-songs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Write Songs And How Listeners Decode Them | SongTakesMay 16, 2026...</p></details>
    Published: May 16, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1909.05882" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.05882</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1909.05882" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.05882</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 2019...</p></details>
    Published: September 12, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: The consumption of music as self-representation in social interaction  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1441358209000056" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1441358209000056</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectVolume 17, Issue 1, May 2009, Pages 16-26 THE CONSUMPTION OF MUSIC AS SELF-REPRESENTATION IN SOCIAL INTERACTION [https://doi...&quot;](https://doi...&quot;)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1441358209000056" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1441358209000056</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectVolume 17, Issue 1, May 2009, Pages 16-26 THE CONSUMPTION OF MUSIC AS SELF-REPRESENTATION IN SOCIAL INTERACTION [https://doi...&quot;](https://doi...&quot;)...</p></details>
    Published: May 2009  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356251387705</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/03057356251387705" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356251387705</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/03057356211013390" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03057356211013390</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhen words matter: A cross-cultural perspective on lyrics and their relationship to musical emotions - Gonçalo T Barradas, L...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Songs for the Ego: Theorizing Musical Self-EnhancementJanuary 20, 2016...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00002/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Songs for the Ego: Theorizing Musical Self-EnhancementJanuary 20, 2016...</p></details>
    Published: January 20, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.bond.edu.au  
-   Link: <a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
+   Link:<a href="https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics" target="_blank" rel="noopener noreferrer nofollow">https://research.bond.edu.au/en/publications/the-attribution-of-meaning-and-emotion-to-song-lyrics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bond University Research PortalThe attribution of meaning and emotion to song lyrics - Bond University Research Portal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>usic-Listening-Induced Eudaimonia (UMMIE)November 28, 2025 — It is not implausible that a message component (a word, imagery) that is com...</p></details>
+   Link:<a href="https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fcogn.2025.1705976/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usic-Listening-Induced Eudaimonia (UMMIE)November 28, 2025 — It is not implausible that a message component (a word, imagery) that is com...</p></details>
    Published: November 28, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
    Title: Frontiers | Lyrics do matter: how “coping songs” relate to well-being goals  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID pandemic caseDecember 23, 2024 — THE ROLE OF LYRICS IN MOOD REGULATION The personal “meaning” of a song for an individual arise...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1431741/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID pandemic caseDecember 23, 2024 — THE ROLE OF LYRICS IN MOOD REGULATION The personal “meaning” of a song for an individual arise...</p></details>
    Published: December 23, 2024  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: research.ed.ac.uk  
-   Link: <a href="https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the self through songwriting: An analysis of songs composed by people with acquired neurodisability in an inpatient rehabilitation progra...</p></details>
+   Link:<a href="https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/exploring-the-self-through-songwriting-an-analysis-of-songs-compo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the self through songwriting: An analysis of songs composed by people with acquired neurodisability in an inpatient rehabilitation progra...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSongs for the Ego: Theorizing Musical Self-Enhancement  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for the Ego: Theorizing Musical Self-Enhancement - PMCJanuary 20, 2016 — EMPATHY AND MUSICAL SUBJECTIVITY: EGO PROJECTION A very intuitiv...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4718989/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for the Ego: Theorizing Musical Self-Enhancement - PMCJanuary 20, 2016 — EMPATHY AND MUSICAL SUBJECTIVITY: EGO PROJECTION A very intuitiv...</p></details>
    Published: January 20, 2016  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>* Nave, Andrea M. * Yaworsky, Renée R. Author information * ^{1}Department of Psychology, Le Moyne College ^{2}...</p></details>
+   Link:<a href="https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/paca/pdf/10.1037/1931-3896.2.4.236~nostalgia-and-identity-in-song-lyrics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>* Nave, Andrea M. * Yaworsky, Renée R. Author information * ^{1}Department of Psychology, Le Moyne College ^{2}...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: repozytorium.ukw.edu.pl  
    Title: ukw.edu.pl The Attribution of Emotion and Meaning to Song Lyrics  
-   Link: <a href="https://repozytorium.ukw.edu.pl/handle/item/852" target="_blank" rel="noopener noreferrer nofollow">https://repozytorium.ukw.edu.pl/handle/item/852</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attribution of Emotion and Meaning to Song Lyrics - Repozytorium Uniwersytetu Kazimierza WielkiegoTHE ATTRIBUTION OF EMOTION AND MEANING...</p></details>
+   Link:<a href="https://repozytorium.ukw.edu.pl/handle/item/852" target="_blank" rel="noopener noreferrer nofollow">https://repozytorium.ukw.edu.pl/handle/item/852</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attribution of Emotion and Meaning to Song Lyrics - Repozytorium Uniwersytetu Kazimierza WielkiegoTHE ATTRIBUTION OF EMOTION AND MEANING...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: s1.propertyindustryeye.com  
    Title: song lyrics just like me 1770877611  
-   Link: <a href="https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611" target="_blank" rel="noopener noreferrer nofollow">https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lyrics just like me: why personal connection mattersFebruary 12, 2026 — SONG LYRICS JUST LIKE ME: WHY PERSONAL CONNECTION MATTERS Feb 12...</p></details>
+   Link:<a href="https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611" target="_blank" rel="noopener noreferrer nofollow">https://s1.propertyindustryeye.com/civic-talk/song-lyrics-just-like-me-1770877611</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lyrics just like me: why personal connection mattersFebruary 12, 2026 — SONG LYRICS JUST LIKE ME: WHY PERSONAL CONNECTION MATTERS Feb 12...</p></details>
    Published: February 12, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.gov“Finding my Blackness, Finding my [Rhythm](&amp;#123;&amp;#123; &#x27;rhythm/&#x27; | relative_url &amp;#125;&amp;#125;)”: Music and Identity Development in African, Caribbean, and Black Emerging Adults - PMCJu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9260469/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.gov“Finding my Blackness, Finding my [Rhythm](&amp;#123;&amp;#123; &#x27;rhythm/&#x27; | relative_url &amp;#125;&amp;#125;)”: Music and Identity Development in African, Caribbean, and Black Emerging Adults - PMCJu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music is a human universal with structure and functions that are strikingly similar across cultures, suggesting deep evolutionary roots...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11098490/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music is a human universal with structure and functions that are strikingly similar across cultures, suggesting deep evolutionary roots...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mdpi.com  
    Title: 2073 431X  
-   Link: <a href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/14/11/460</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025 — 24 October 2025 EMOTION IN W...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-431X/14/11/460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-431X/14/11/460</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion in Words: The Role of Ed Sheeran and Sia’s Lyrics on the Musical Experience | MDPIOctober 24, 2025 — 24 October 2025 EMOTION IN W...</p></details>
    Published: October 24, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20592043241301997" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043241301997</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greasley, 2025January 15, 2025 — First published online January 15, 2025 Request permissions “WITH A LITTLE HELP FROM MY FRIENDS”: EXPLOR...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20592043241301997" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20592043241301997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greasley, 2025January 15, 2025 — First published online January 15, 2025 Request permissions “WITH A LITTLE HELP FROM MY FRIENDS”: EXPLOR...</p></details>
    Published: January 15, 2025

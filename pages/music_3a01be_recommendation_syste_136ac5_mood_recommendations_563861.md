@@ -277,17 +277,17 @@ image: /assets/images/music_3a01be_recommendation_syste_136ac5_mood_recommendati
 Music discovery increasingly begins with a feeling rather than a name. Instead of searching for a specific artist, many listeners now open a streaming service looking for music to study to, unwind with, exercise to, focus with, or match a particular emotional state. Mood playlists and context-aware recommendations have transformed discovery from a search for genres and performers into a search for experiences.
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_mood_recommendations_563861-Illustration-1-dark.svg" | relative_url }}" alt="Mood Matching illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_mood_recommendations_563861-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_mood_recommendations_563861-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift represents one of the most significant changes in recommendation systems. Rather than asking what music a listener likes in general, platforms increasingly ask what kind of music fits the current moment. Mood-based listening has helped streaming services make enormous catalogues easier to navigate, but it has also changed how songs are categorised, surfaced, and valued. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
+This shift represents one of the most significant changes in recommendation systems. Rather than asking what music a listener likes in general, platforms increasingly ask what kind of music fits the current moment. Mood-based listening has helped streaming services make enormous catalogues easier to navigate, but it has also changed how songs are categorised, surfaced, and valued.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
 
 ## Why context matters in streaming recommendations
 
 For much of recorded music history, discovery revolved around artists, albums, genres, radio [formats]({{ 'formats/' | relative_url }}), or local scenes. Streaming introduced a different challenge: listeners suddenly had [access]({{ 'access/' | relative_url }}) to tens of millions of tracks. Recommendation systems responded by organising music around situations as much as musical categories.
 
-The appeal is straightforward. People often choose music to support an activity or emotional goal rather than to explore a genre. A commuter may want calm music for a crowded train. A student may want concentration music. Someone exercising may want energy and momentum. Research on music listening behaviour consistently shows that listeners use music for mood regulation, motivation, focus, relaxation, and emotional management, making context a powerful predictor of what they will choose next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7004375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Do the shuffle: Exploring reasons for music listening through...by KRM Sanfilippo · 2020 · Cited by 33 — This project aims to explore...</span></span></span>
+The appeal is straightforward. People often choose music to support an activity or emotional goal rather than to explore a genre. A commuter may want calm music for a crowded train. A student may want concentration music. Someone exercising may want energy and momentum. Research on music listening behaviour consistently shows that listeners use music for mood regulation, motivation, focus, relaxation, and emotional management, making context a powerful predictor of what they will choose next.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7004375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Do the shuffle: Exploring reasons for music listening through...by KRM Sanfilippo · 2020 · Cited by 33 — This project aims to explore...</span></span></span>
 
-Mood playlists simplify discovery because they remove the need for specialised musical knowledge. A listener does not need to know the difference between dream pop, ambient electronica, or contemporary classical music to find suitable [background]({{ 'background/' | relative_url }}) music for concentration. Instead, they can simply select “Focus” or “Deep Work” and let the platform assemble the experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Experiencing mood on SpotifyThe mood playlists curated by Spotify are used occasionally by participants, offering a listening pathw...</span></span></span>
+Mood playlists simplify discovery because they remove the need for specialised musical knowledge. A listener does not need to know the difference between dream pop, ambient electronica, or contemporary classical music to find suitable [background]({{ 'background/' | relative_url }}) music for concentration. Instead, they can simply select “Focus” or “Deep Work” and let the platform assemble the experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Experiencing mood on SpotifyThe mood playlists curated by Spotify are used occasionally by participants, offering a listening pathw...</span></span></span>
 
-As a result, playlists labelled by emotional states and activities have become some of the most widely used discovery surfaces in streaming. Mood categories frequently cut across traditional genre boundaries, allowing jazz, electronic, indie, classical, and pop tracks to coexist if they serve a similar listening purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40payne.max867/a-deep-dive-into-spotifys-recommendation-algorithm-c1efeead50cc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Deep Dive into Spotify&#x27;s Recommendation AlgorithmThe overarching goal of Spotify&#x27;s recommendation algorithm is to increase user engagem...</span></span></span>
+As a result, playlists labelled by emotional states and activities have become some of the most widely used discovery surfaces in streaming. Mood categories frequently cut across traditional genre boundaries, allowing jazz, electronic, indie, classical, and pop tracks to coexist if they serve a similar listening purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40payne.max867/a-deep-dive-into-spotifys-recommendation-algorithm-c1efeead50cc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">A Deep Dive into Spotify&#x27;s Recommendation AlgorithmThe overarching goal of Spotify&#x27;s recommendation algorithm is to increase user engagem...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UHzSFCI_MKw" title="User profiling from Music Recommendation Systems - An AI research spills the beans!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UHzSFCI_MKw" target="_blank" rel="noopener noreferrer">User profiling from Music Recommendation Systems - An AI research spills the beans!</a></p><p class="youtube-embed-meta">Channel: 123 of AI &middot; Views: 17 &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UHzSFCI_MKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UHzSFCI_MKw">Open on YouTube</a></p></div></div></div>
 
@@ -295,7 +295,7 @@ As a result, playlists labelled by emotional states and activities have become s
 
 Mood recommendations are not usually generated from a single source of information. Modern systems blend algorithmic prediction with human judgement.
 
-A useful example comes from Deezer's Flow Moods system. According to the company's published research, the platform combines collaborative filtering, audio analysis, and mood annotations supplied by professional music curators. Users can select moods such as “Chill”, “Focus”, “Motivation”, or “Party”, and the system generates personalised playlists tailored to both the chosen mood and the individual's listening history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
+A useful example comes from Deezer's Flow Moods system. According to the company's published research, the platform combines collaborative filtering, audio analysis, and mood annotations supplied by professional music curators. Users can select moods such as “Chill”, “Focus”, “Motivation”, or “Party”, and the system generates personalised playlists tailored to both the chosen mood and the individual's listening history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
 
 In practice, mood recommendation systems often draw on several layers of information:
 
@@ -303,13 +303,13 @@ In practice, mood recommendation systems often draw on several layers of informa
 * **Audio characteristics:** tempo, energy, loudness, [rhythm]({{ 'rhythm/' | relative_url }}), and other measurable features.
 * **Metadata and tags:** genre labels, editorial descriptions, and mood classifications.
 * **Contextual signals:** device type, time of day, listening session patterns, and related behavioural cues.
-* **Human curation:** editors who define mood categories and review playlist quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span> Spotify The result is a hybrid system. Algorithms can scale recommendations across millions of users <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop c...</span></span></span>, while editorial teams help define what concepts such as “Relax”, “Confidence Boost”, or “Late Night Drive” actually mean within the platform.
+* **Human curation:** editors who define mood categories and review playlist quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span> Spotify The result is a hybrid system. Algorithms can scale recommendations across millions of users<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[spotify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop c...</span></span></span>, while editorial teams help define what concepts such as “Relax”, “Confidence Boost”, or “Late Night Drive” actually mean within the platform.
 
 ### The move from taste profiles to moment profiles
 
 Traditional recommendation systems attempted to model a listener's enduring preferences. Context-based systems increasingly model temporary states as well.
 
-Spotify's published descriptions of recommendation technology indicate that recommendations can vary according to contextual factors such as device usage and listening environment. More recent research from the company describes recommendation approaches that incorporate temporal signals such as time of day and contextual features such as device type alongside long-term taste information. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">calibrated recommendations with contextual bandits on spotify homepage</span><span class="citation-popover-snippet">Spotify ResearchCalibrated Recommendations with Contextual Bandits on...Sep 18, 2025 — Context is represented through temporal signals (...</span></span></span>
+Spotify's published descriptions of recommendation technology indicate that recommendations can vary according to contextual factors such as device usage and listening environment. More recent research from the company describes recommendation approaches that incorporate temporal signals such as time of day and contextual features such as device type alongside long-term taste information. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">calibrated recommendations with contextual bandits on spotify homepage</span><span class="citation-popover-snippet">Spotify ResearchCalibrated Recommendations with Contextual Bandits on...Sep 18, 2025 — Context is represented through temporal signals (...</span></span></span>
 
 This reflects an important implementation change. A listener may enjoy heavy metal, jazz, and ambient music, but not in every circumstance. Context-aware systems attempt to predict which part of a person's musical identity is relevant at a specific moment.
 
@@ -322,9 +322,9 @@ Mood playlists succeed because they lower the cost of exploration.
 
 A listener entering through a mood category often encounters artists they would never have searched for directly. Someone browsing a focus playlist may discover a contemporary composer. A workout playlist may introduce an independent electronic producer. The recommendation pathway starts with a use case and ends with [artist discovery]({{ 'artist-discovery/' | relative_url }}).
 
-This process differs from older forms of discovery because the artist is often secondary to the immediate function of the music. Discovery happens indirectly. The listener first seeks a mood or activity soundtrack and only later notices particular songs or performers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2056305119847514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultivating Moods and Emotions through Playlists on Spotifyby I Siles · 2019 · Cited by 99 — This article bridges work on me...</span></span></span>
+This process differs from older forms of discovery because the artist is often secondary to the immediate function of the music. Discovery happens indirectly. The listener first seeks a mood or activity soundtrack and only later notices particular songs or performers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2056305119847514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCultivating Moods and Emotions through Playlists on Spotifyby I Siles · 2019 · Cited by 99 — This article bridges work on me...</span></span></span>
 
-Mood categories also help platforms bridge familiar and unfamiliar music. Recommendations can remain emotionally coherent while introducing tracks outside a listener's established genres. From the platform's perspective, this creates opportunities to increase listening diversity without forcing abrupt stylistic jumps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">calibrated recommendations with contextual bandits on spotify homepage</span><span class="citation-popover-snippet">Spotify ResearchCalibrated Recommendations with Contextual Bandits on...Sep 18, 2025 — Context is represented through temporal signals (...</span></span></span>
+Mood categories also help platforms bridge familiar and unfamiliar music. Recommendations can remain emotionally coherent while introducing tracks outside a listener's established genres. From the platform's perspective, this creates opportunities to increase listening diversity without forcing abrupt stylistic jumps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">calibrated recommendations with contextual bandits on spotify homepage</span><span class="citation-popover-snippet">Spotify ResearchCalibrated Recommendations with Contextual Bandits on...Sep 18, 2025 — Context is represented through temporal signals (...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jm9JamrbSv8" title="Music Recommender System Using Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jm9JamrbSv8" target="_blank" rel="noopener noreferrer">Music Recommender System Using Python</a></p><p class="youtube-embed-meta">Channel: KNOWLEDGE DOCTOR &middot; Views: 83.3K &middot; Uploaded: August 2023 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jm9JamrbSv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jm9JamrbSv8">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +332,7 @@ Mood categories also help platforms bridge familiar and unfamiliar music. Recomm
 
 For many artists, mood-based discovery creates valuable opportunities.
 
-Tracks that may never receive radio play or prominent genre coverage can find large audiences through contextual playlists. Instrumental music, ambient recordings, lo-fi productions, neo-classical compositions, and atmospheric electronic tracks often perform particularly well because they suit common listening situations such as studying, working, sleeping, or relaxing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</span></span></span>
+Tracks that may never receive radio play or prominent genre coverage can find large audiences through contextual playlists. Instrumental music, ambient recordings, lo-fi productions, neo-classical compositions, and atmospheric electronic tracks often perform particularly well because they suit common listening situations such as studying, working, sleeping, or relaxing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</span></span></span>
 
 Mood playlists can also extend the lifespan of music. A track may continue attracting listeners for years if it consistently satisfies a recurring context. Unlike news-driven releases or trend-based hits, context-oriented songs can remain relevant whenever listeners seek a particular emotional or functional experience.
 
@@ -343,9 +343,9 @@ For emerging artists, this creates an alternative route to visibility. Success m
 
 The same mechanisms can also create tensions.
 
-When music is consumed primarily as a mood tool, listeners may pay less [attention]({{ 'attention/' | relative_url }}) to artist identity, album structure, lyrical content, or creative context. Critics have argued that some playlist ecosystems encourage passive listening in which songs function more as atmosphere than as artistic statements. Bridge Ratings Media Research <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">The book argues that Spotify&#x27;s playlists and recommendation algorithms have created a controlled and market-driven music experience, focu...</span></span></span>
+When music is consumed primarily as a mood tool, listeners may pay less [attention]({{ 'attention/' | relative_url }}) to artist identity, album structure, lyrical content, or creative context. Critics have argued that some playlist ecosystems encourage passive listening in which songs function more as atmosphere than as artistic statements. Bridge Ratings Media Research<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">The book argues that Spotify&#x27;s playlists and recommendation algorithms have created a controlled and market-driven music experience, focu...</span></span></span>
 
-This concern has become prominent in discussions of streaming [culture]({{ 'culture/' | relative_url }}). Journalist Liz Pelly's widely discussed work on Spotify's playlist ecosystem argues that mood-focused recommendations can favour music that is unobtrusive, predictable, and suitable for background listening. Critics worry that recommendation systems may reward tracks that fit playlists efficiently rather than tracks that challenge listeners or demand focused attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">The book argues that Spotify&#x27;s playlists and recommendation algorithms have created a controlled and market-driven music experience, focu...</span></span></span>
+This concern has become prominent in discussions of streaming [culture]({{ 'culture/' | relative_url }}). Journalist Liz Pelly's widely discussed work on Spotify's playlist ecosystem argues that mood-focused recommendations can favour music that is unobtrusive, predictable, and suitable for background listening. Critics worry that recommendation systems may reward tracks that fit playlists efficiently rather than tracks that challenge listeners or demand focused attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-snippet">The book argues that Spotify&#x27;s playlists and recommendation algorithms have created a controlled and market-driven music experience, focu...</span></span></span>
 
 The issue is not that mood playlists eliminate discovery. Rather, they may redefine what discovery means. Instead of leading listeners toward new scenes, movements, or artistic visions, discovery can become a search for ever more precise emotional matches.
 
@@ -353,199 +353,199 @@ The issue is not that mood playlists eliminate discovery. Rather, they may redef
 
 ## The future of context-based listening
 
-Mood recommendations are evolving beyond static playlists. Recommendation research increasingly focuses on richer contextual understanding, combining long-term taste with short-term behavioural signals and situational cues. Platforms are also experimenting with more explicit user control, allowing listeners to steer recommendations through prompts, preferences, and adjustable taste profiles. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/a-new-way-to-put-meaningful-control-of-the-algorithm-directly-in-your-hands-can-spotifys-prompted-playlist-feature-put-you-back-in-the-driving-seat-when-it-comes-to-your-music-listening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">This tool allows users to create personalized playlists using text prompts, aiming to return more control to listeners wary of algorithmi...</span></span></span>, researchers continue exploring emotion-aware recommendation systems that account for differences in how people interpret moods and use music emotionally. Evidence suggests that emotional preferences vary substantially between individuals, making mood recommendation a more complex problem than simply assigning songs to categories such as happy or sad. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
+Mood recommendations are evolving beyond static playlists. Recommendation research increasingly focuses on richer contextual understanding, combining long-term taste with short-term behavioural signals and situational cues. Platforms are also experimenting with more explicit user control, allowing listeners to steer recommendations through prompts, preferences, and adjustable taste profiles. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-tech/a-new-way-to-put-meaningful-control-of-the-algorithm-directly-in-your-hands-can-spotifys-prompted-playlist-feature-put-you-back-in-the-driving-seat-when-it-comes-to-your-music-listening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">This tool allows users to create personalized playlists using text prompts, aiming to return more control to listeners wary of algorithmi...</span></span></span>, researchers continue exploring emotion-aware recommendation systems that account for differences in how people interpret moods and use music emotionally. Evidence suggests that emotional preferences vary substantially between individuals, making mood recommendation a more complex problem than simply assigning songs to categories such as happy or sad.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
 
-The broader trend appears clear. In streaming, music discovery increasingly happens through context. Listeners still follow artists and genres, but recommendation systems are increasingly organised around moments, activities, and emotional needs. The playlist has become less a collection of songs and more a personalised response to a situation, turning music discovery into a continuous process of matching sound to everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop c...</span></span></span>
+The broader trend appears clear. In streaming, music discovery increasingly happens through context. Listeners still follow artists and genres, but recommendation systems are increasingly organised around moments, activities, and emotional needs. The playlist has become less a collection of songs and more a personalised response to a situation, turning music discovery into a continuous process of matching sound to everyday life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop c...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How mood playlists changed music discovery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How mood playlists changed music discovery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains emotional responses that underpin mood-based playlists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains emotional responses that underpin mood-based playlists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores how music affects emotion and mental states.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how music affects emotion and mental states.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Discusses how context shapes music listening.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how context shapes music listening.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computing Taste on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computing Taste">Computing Taste</a>
-        </h4>
-        <p class="fr-book-author">By Nick Seaver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computing Taste on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computing Taste">Computing Taste</a>
+</h4>
+<p class="fr-book-author">By Nick Seaver</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 MORRISSEY MOOD THE SMITHS ART MUSIC FILM RETRO POSTER CULTURE PRINT"><img src="https://i.ebayimg.com/images/g/mfsAAOSww4Zkf256/s-l225.jpg" alt="Listing image for A4 MORRISSEY MOOD THE SMITHS ART MUSIC FILM RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">A4 MORRISSEY MOOD THE SMITHS ART MUSIC FILM RETRO POSTER CULTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 MORRISSEY MOOD THE SMITHS ART MUSIC FILM RETRO POSTER CULTURE PRINT"><img src="https://i.ebayimg.com/images/g/mfsAAOSww4Zkf256/s-l225.jpg" alt="Listing image for A4 MORRISSEY MOOD THE SMITHS ART MUSIC FILM RETRO POSTER CULTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">A4 MORRISSEY MOOD THE SMITHS ART MUSIC FILM RETRO POSTER CULTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mood: Dancing with No Music Framed Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/O6AAAeSw25tp1~ba/s-l225.jpg" alt="Listing image for Mood: Dancing with No Music Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">Mood: Dancing with No Music Framed Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mood: Dancing with No Music Framed Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/O6AAAeSw25tp1~ba/s-l225.jpg" alt="Listing image for Mood: Dancing with No Music Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">Mood: Dancing with No Music Framed Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROBERT PLANT IN THE MOOD 1983 SINGLE MUSIC ADVERT 8.5X11&quot; POSTER"><img src="https://i.ebayimg.com/images/g/ZuIAAOSwxcJkX6NL/s-l225.jpg" alt="Listing image for ROBERT PLANT IN THE MOOD 1983 SINGLE MUSIC ADVERT 8.5X11&quot; POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">ROBERT PLANT IN THE MOOD 1983 SINGLE MUSIC ADVERT 8.5X11&quot; POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROBERT PLANT IN THE MOOD 1983 SINGLE MUSIC ADVERT 8.5X11&quot; POSTER"><img src="https://i.ebayimg.com/images/g/ZuIAAOSwxcJkX6NL/s-l225.jpg" alt="Listing image for ROBERT PLANT IN THE MOOD 1983 SINGLE MUSIC ADVERT 8.5X11&quot; POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">ROBERT PLANT IN THE MOOD 1983 SINGLE MUSIC ADVERT 8.5X11&quot; POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAVID JOHN &amp; THE MOOD Concert Poster - Imperial Ballroom Nelson - 10&quot;x8&quot; reprint"><img src="https://i.ebayimg.com/images/g/bvQAAOSwIUFmbfaq/s-l225.jpg" alt="Listing image for DAVID JOHN &amp; THE MOOD Concert Poster - Imperial Ballroom Nelson - 10&quot;x8&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">DAVID JOHN &amp; THE MOOD Concert Poster - Imperial Ballroom Nelson - 10&quot;x8&quot; reprint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAVID JOHN &amp; THE MOOD Concert Poster - Imperial Ballroom Nelson - 10&quot;x8&quot; reprint"><img src="https://i.ebayimg.com/images/g/bvQAAOSwIUFmbfaq/s-l225.jpg" alt="Listing image for DAVID JOHN &amp; THE MOOD Concert Poster - Imperial Ballroom Nelson - 10&quot;x8&quot; reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">DAVID JOHN &amp; THE MOOD Concert Poster - Imperial Ballroom Nelson - 10&quot;x8&quot; reprint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music mood poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music mood poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+mood+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-mood-playlists-changed-music-discovery-music-mood-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music mood poster" data-ebay-reference="how-mood-playlists-changed-music-discovery-music-mood-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ The broader trend appears clear. In streaming, music discovery increasingly happ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ The broader trend appears clear. In streaming, music discovery increasingly happ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ The broader trend appears clear. In streaming, music discovery increasingly happ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ The broader trend appears clear. In streaming, music discovery increasingly happ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ The broader trend appears clear. In streaming, music discovery increasingly happ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,202 +751,202 @@ The broader trend appears clear. In streaming, music discovery increasingly happ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Flow Moods: Recommending Music by Moods on Deezer  
-   Link: <a href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.11229</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.11229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</p></details>
    Published: July 15, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop c...</p></details>
+   Link:<a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on SpotifyMar 12, 2026 — Example: If you listen to classical music while using the Spotify desktop c...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7004375/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7004375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do the shuffle: Exploring reasons for music listening through...by KRM Sanfilippo · 2020 · Cited by 33 — This project aims to explore...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7004375/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7004375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do the shuffle: Exploring reasons for music listening through...by KRM Sanfilippo · 2020 · Cited by 33 — This project aims to explore...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiencing mood on SpotifyThe mood playlists curated by Spotify are used occasionally by participants, offering a listening pathw...</p></details>
+   Link:<a href="https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/music-x-tech-x-future/experiencing-mood-on-spotify-5c58eeb9fa5a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experiencing mood on SpotifyThe mood playlists curated by Spotify are used occasionally by participants, offering a listening pathw...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/music-productivity-playlist-spotify-pandora</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</p></details>
+   Link:<a href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/music-productivity-playlist-spotify-pandora</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2207.11229" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2207.11229</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on Deezerby T Bontempelli · 2022 · Cited by 44 — In this paper, we present Flow Moods, an im...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2207.11229" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2207.11229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on Deezerby T Bontempelli · 2022 · Cited by 44 — In this paper, we present Flow Moods, an im...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newsroom.spotify.com  
    Title: taste profile beta announcement  
-   Link: <a href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Era of Personalization: Shape Your Taste Profile on...Mar 13, 2026 — Taste Profile lets you see how Spotify understands you...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Era of Personalization: Shape Your Taste Profile on...Mar 13, 2026 — Taste Profile lets you see how Spotify understands you...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: musicradar.com  
-   Link: <a href="https://www.musicradar.com/music-tech/a-new-way-to-put-meaningful-control-of-the-algorithm-directly-in-your-hands-can-spotifys-prompted-playlist-feature-put-you-back-in-the-driving-seat-when-it-comes-to-your-music-listening" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/a-new-way-to-put-meaningful-control-of-the-algorithm-directly-in-your-hands-can-spotifys-prompted-playlist-feature-put-you-back-in-the-driving-seat-when-it-comes-to-your-music-listening</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This tool allows users to create personalized playlists using text prompts, aiming to return more control to listeners wary of algorithmi...</p></details>
+   Link:<a href="https://www.musicradar.com/music-tech/a-new-way-to-put-meaningful-control-of-the-algorithm-directly-in-your-hands-can-spotifys-prompted-playlist-feature-put-you-back-in-the-driving-seat-when-it-comes-to-your-music-listening" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-tech/a-new-way-to-put-meaningful-control-of-the-algorithm-directly-in-your-hands-can-spotifys-prompted-playlist-feature-put-you-back-in-the-driving-seat-when-it-comes-to-your-music-listening</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This tool allows users to create personalized playlists using text prompts, aiming to return more control to listeners wary of algorithmi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.14090" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14090</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion-aware Personalized Music Recommendation with a Heterogeneity-aware Deep Bayesian NetworkJune 20, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.14090" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.14090</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion-aware Personalized Music Recommendation with a Heterogeneity-aware Deep Bayesian NetworkJune 20, 2024...</p></details>
    Published: June 20, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2508.20289v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.20289v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on Deezer. In Proceedings of the 16th ACM Conference on Recommender Systems (Seattle, WA, USA)...</p></details>
+   Link:<a href="https://arxiv.org/html/2508.20289v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.20289v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on Deezer. In Proceedings of the 16th ACM Conference on Recommender Systems (Seattle, WA, USA)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2501.05894" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2501.05894</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In: Proceedings of the 16th ACM Conference on Recommender Systems. pp. 452–455 (2022).Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2501.05894" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2501.05894</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In: Proceedings of the 16th ACM Conference on Recommender Systems. pp. 452–455 (2022).Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2307.03045v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2307.03045v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on Deezer. In Proceedings of the 16th ACM Conference on Recommender Systems. 452–455. Brauwers an...</p></details>
+   Link:<a href="https://arxiv.org/html/2307.03045v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2307.03045v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on Deezer. In Proceedings of the 16th ACM Conference on Recommender Systems. 452–455. Brauwers an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2406.14090v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2406.14090v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flow moods: Recommending music by moods on deezer. In Proceedings of the 16th ACM Conference on Recommender Systems (RecSys &#x27;22&#x27;). ACM, N...</p></details>
+   Link:<a href="https://arxiv.org/html/2406.14090v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2406.14090v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flow moods: Recommending music by moods on deezer. In Proceedings of the 16th ACM Conference on Recommender Systems (RecSys &#x27;22&#x27;). ACM, N...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ads.spotify.com  
-   Link: <a href="https://ads.spotify.com/en-NL/stream-context-guide-everyday-audio-moments" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-NL/stream-context-guide-everyday-audio-moments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Context: A guide to everyday audio momentsWe asked users why and how they listen in order to more fully understand their streaming con...</p></details>
+   Link:<a href="https://ads.spotify.com/en-NL/stream-context-guide-everyday-audio-moments" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-NL/stream-context-guide-everyday-audio-moments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Context: A guide to everyday audio momentsWe asked users why and how they listen in order to more fully understand their streaming con...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ads.spotify.com  
    Title: mindshare spotify 2022  
-   Link: <a href="https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>streaming unlocks people&#x27;s identity and brings...18 Jan 2023 — Mindshare has partnered with Spotify to uncover how identity is linked to...</p></details>
+   Link:<a href="https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/mindshare-spotify-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>streaming unlocks people&#x27;s identity and brings...18 Jan 2023 — Mindshare has partnered with Spotify to uncover how identity is linked to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>feature! &quot;Playlist Moods&quot;3 Mar 2026 — I think this would allow for some really creative spotify playlists where you can express your mood...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Live-Ideas/New-feature-quot-Playlist-Moods-quot/idi-p/7360609</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>feature! &quot;Playlist Moods&quot;3 Mar 2026 — I think this would allow for some really creative spotify playlists where you can express your mood...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40payne.max867/a-deep-dive-into-spotifys-recommendation-algorithm-c1efeead50cc" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40payne.max867/a-deep-dive-into-spotifys-recommendation-algorithm-c1efeead50cc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive into Spotify&#x27;s Recommendation AlgorithmThe overarching goal of Spotify&#x27;s recommendation algorithm is to increase user engagem...</p></details>
+   Link:<a href="https://medium.com/%40payne.max867/a-deep-dive-into-spotifys-recommendation-algorithm-c1efeead50cc" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40payne.max867/a-deep-dive-into-spotifys-recommendation-algorithm-c1efeead50cc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Dive into Spotify&#x27;s Recommendation AlgorithmThe overarching goal of Spotify&#x27;s recommendation algorithm is to increase user engagem...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mpo, genre, mood, and more, forming the basis for creating...Read more...</p></details>
+   Link:<a href="https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mpo, genre, mood, and more, forming the basis for creating...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2056305119847514" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305119847514</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCultivating Moods and Emotions through Playlists on Spotifyby I Siles · 2019 · Cited by 99 — This article bridges work on me...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2056305119847514" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305119847514</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCultivating Moods and Emotions through Playlists on Spotifyby I Siles · 2019 · Cited by 99 — This article bridges work on me...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: research.atspotify.com  
    Title: calibrated recommendations with contextual bandits on spotify homepage  
-   Link: <a href="https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchCalibrated Recommendations with Contextual Bandits on...Sep 18, 2025 — Context is represented through temporal signals (...</p></details>
+   Link:<a href="https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchCalibrated Recommendations with Contextual Bandits on...Sep 18, 2025 — Context is represented through temporal signals (...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: research.atspotify.com  
    Title: generalized user representations for large scale recommendations  
-   Link: <a href="https://research.atspotify.com/2025/9/generalized-user-representations-for-large-scale-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/9/generalized-user-representations-for-large-scale-recommendations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchGeneralized user representations for large-scale...Sep 18, 2025 — At this scale, delivering great recommendations depend...</p></details>
+   Link:<a href="https://research.atspotify.com/2025/9/generalized-user-representations-for-large-scale-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/9/generalized-user-representations-for-large-scale-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchGeneralized user representations for large-scale...Sep 18, 2025 — At this scale, delivering great recommendations depend...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: research.atspotify.com  
-   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — How do algorithmic recommendations affect the...</p></details>
+   Link:<a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on SpotifyDec 3, 2020 — How do algorithmic recommendations affect the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bridgeratings.com  
    Title: spotifys playlist ecosystem the mood machine at work  
-   Link: <a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridge Ratings Media ResearchSpotify&#x27;s Playlist Ecosystem: The Mood Machine at Work6 Mar 2025 — Spotify&#x27;s playlists function as a passive...</p></details>
+   Link:<a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridge Ratings Media ResearchSpotify&#x27;s Playlist Ecosystem: The Mood Machine at Work6 Mar 2025 — Spotify&#x27;s playlists function as a passive...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theatlantic.com  
-   Link: <a href="https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The book argues that Spotify&#x27;s playlists and recommendation algorithms have created a controlled and market-driven music experience, focu...</p></details>
+   Link:<a href="https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/culture/archive/2025/02/mood-machine-liz-pelly-spotify-review/681636/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The book argues that Spotify&#x27;s playlists and recommendation algorithms have created a controlled and market-driven music experience, focu...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research.atspotify.com  
    Title: contextualized recommendations through personalized narratives using llms  
-   Link: <a href="https://research.atspotify.com/2024/12/contextualized-recommendations-through-personalized-narratives-using-llms" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2024/12/contextualized-recommendations-through-personalized-narratives-using-llms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchContextualized Recommendations Through Personalized...Dec 18, 2024 — In this blog post, we explore two use cases that il...</p></details>
+   Link:<a href="https://research.atspotify.com/2024/12/contextualized-recommendations-through-personalized-narratives-using-llms" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2024/12/contextualized-recommendations-through-personalized-narratives-using-llms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchContextualized Recommendations Through Personalized...Dec 18, 2024 — In this blog post, we explore two use cases that il...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20539517251338742" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20539517251338742</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIdentifying listening modes as reflexive practices in music...29 Apr 2025 — This study aims to identify the factors that le...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20539517251338742" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20539517251338742</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsIdentifying listening modes as reflexive practices in music...29 Apr 2025 — This study aims to identify the factors that le...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: beatstorapon.com  
    Title: Music preference isn't static – it can depend heavily on context.Read more  
-   Link: <a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Music Recommendation Algorithm: The Complete...Mar 1, 2025 — Context-Aware Recommendations (Time of Day, Location, and Listeni...</p></details>
+   Link:<a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Music Recommendation Algorithm: The Complete...Mar 1, 2025 — Context-Aware Recommendations (Time of Day, Location, and Listeni...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380983963_Context_Aware_Music_Recommendation_and_Playlist_Generation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380983963_Context_Aware_Music_Recommendation_and_Playlist_Generation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Context Aware Music Recommendation and Playlist...PDF | There are many reasons people listen to music, and the type of music is la...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380983963_Context_Aware_Music_Recommendation_and_Playlist_Generation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380983963_Context_Aware_Music_Recommendation_and_Playlist_Generation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Context Aware Music Recommendation and Playlist...PDF | There are many reasons people listen to music, and the type of music is la...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: catalyzex.com  
-   Link: <a href="https://www.catalyzex.com/author/Mathieu%20Morlon" target="_blank" rel="noopener noreferrer nofollow">https://www.catalyzex.com/author/Mathieu%20Morlon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mathieu MorlonIn this paper, we present Flow Moods, an improved version of Flow that addresses this limitation. Flow Moods leverages coll...</p></details>
+   Link:<a href="https://www.catalyzex.com/author/Mathieu%20Morlon" target="_blank" rel="noopener noreferrer nofollow">https://www.catalyzex.com/author/Mathieu%20Morlon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mathieu MorlonIn this paper, we present Flow Moods, an improved version of Flow that addresses this limitation. Flow Moods leverages coll...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ajqr.org  
-   Link: <a href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding College Students&#x27; Music Listening Habits...by F Jia · 2025 · Cited by 1 — The result of this study showed that participant...</p></details>
+   Link:<a href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding College Students&#x27; Music Listening Habits...by F Jia · 2025 · Cited by 1 — The result of this study showed that participant...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 58 — Pedersen (2020) argues that algorithmic recommendati...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 58 — Pedersen (2020) argues that algorithmic recommendati...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Just the Way You Are”: Linking Music Listening on...13 Jul 2020 — We investigated the link between personality traits and music l...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342854806_Just_the_Way_You_Are_Linking_Music_Listening_on_Spotify_and_Personality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Just the Way You Are”: Linking Music Listening on...13 Jul 2020 — We investigated the link between personality traits and music l...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: guillaumesalhagalvan.com  
-   Link: <a href="https://guillaumesalhagalvan.com/publications/" target="_blank" rel="noopener noreferrer nofollow">https://guillaumesalhagalvan.com/publications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T. Bontempelli, B. Chapus, F. Rigaud, M. Morlon, M. Lorant, G. Salha-Galvan 16th ACM Conference on...Read more...</p></details>
+   Link:<a href="https://guillaumesalhagalvan.com/publications/" target="_blank" rel="noopener noreferrer nofollow">https://guillaumesalhagalvan.com/publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>T. Bontempelli, B. Chapus, F. Rigaud, M. Morlon, M. Lorant, G. Salha-Galvan 16th ACM Conference on...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: research.atspotify.com  
    Title: contextual and sequential user embeddings for music recommendation  
-   Link: <a href="https://research.atspotify.com/2021/04/contextual-and-sequential-user-embeddings-for-music-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2021/04/contextual-and-sequential-user-embeddings-for-music-recommendation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Sequential User Embeddings for Music...Apr 26, 2021 — Using a music listening dataset from Spotify, we observe that consumption from...</p></details>
+   Link:<a href="https://research.atspotify.com/2021/04/contextual-and-sequential-user-embeddings-for-music-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2021/04/contextual-and-sequential-user-embeddings-for-music-recommendation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Sequential User Embeddings for Music...Apr 26, 2021 — Using a music listening dataset from Spotify, we observe that consumption from...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: User profiling from Music Recommendation Systems  
-   Link: <a href="http://www.youtube.com/watch?v=UHzSFCI_MKw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UHzSFCI_MKw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How music recommendation systems use mood and context How Spotify Recommendations work for 500,000,000 users Gaurav Sen...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UHzSFCI_MKw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UHzSFCI_MKw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How music recommendation systems use mood and context How Spotify Recommendations work for 500,000,000 users Gaurav Sen...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1007/978-3-031-56069-9_33" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1007/978-3-031-56069-9_33</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Discoverability of New Releases on Deezerby L Briand · 2024 · Cited by 10 — Flow Moods: Recommending Music by Moods on Deezer...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1007/978-3-031-56069" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1007/978-3-031-56069</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Discoverability of New Releases on Deezerby L Briand · 2024 · Cited by 10 — Flow Moods: Recommending Music by Moods on Deezer...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9522267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9522267/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>we move to: Spotify audio features and reasons for...by D Duman · 2022 · Cited by 69 — We investigated the relationships between Spotify...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9522267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9522267/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>we move to: Spotify audio features and reasons for...by D Duman · 2022 · Cited by 69 — We investigated the relationships between Spotify...</p></details>

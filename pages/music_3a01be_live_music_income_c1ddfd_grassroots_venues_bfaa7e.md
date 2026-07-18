@@ -271,7 +271,7 @@ image: /assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bf
 Grassroots venues are often described as cultural assets, but financially they function as career infrastructure. Before an artist can sell hundreds or thousands of tickets, they need places where they can learn to perform, test material, attract repeat audiences and demonstrate local demand. Small-capacity rooms provide those opportunities at a scale where mistakes are survivable and growth is measurable. Without them, the path from rehearsal room to sustainable live career becomes far narrower.
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bfaa7e-Illustration-1-dark.svg" | relative_url }}" alt="Grassroots illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bfaa7e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bfaa7e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because live music is not only a source of revenue; it is also the mechanism through which artists prove that listeners will leave their homes, buy tickets and support a career. Grassroots venues are the first stage of that process. They are where audiences, promoters, agents and artists gather the evidence that larger opportunities are justified. The financial importance of live music therefore depends in part on the health of the venues at the bottom of the ladder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
+This matters because live music is not only a source of revenue; it is also the mechanism through which artists prove that listeners will leave their homes, buy tickets and support a career. Grassroots venues are the first stage of that process. They are where audiences, promoters, agents and artists gather the evidence that larger opportunities are justified. The financial importance of live music therefore depends in part on the health of the venues at the bottom of the ladder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
 
 ## Grassroots Venues as Testing Grounds
 
@@ -279,7 +279,7 @@ A new artist can upload music globally within minutes, but live performance deve
 
 These venues also act as real-world market tests. An artist who consistently attracts 30 people, then 60, then 120, is generating evidence of demand. Promoters and booking agents often look for exactly this type of progression. Capacity growth demonstrates that support exists beyond social-media metrics and streaming numbers.
 
-The role is so widely recognised that the UK Parliament's [Culture]({{ 'culture/' | relative_url }}), Media and Sport Committee described grassroots music venues as integral to the pipeline of creative and professional talent. The Music Venue Trust similarly defines them as risk-taking spaces that programme artists without expecting immediate financial returns, creating the conditions from which larger economic value later emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
+The role is so widely recognised that the UK Parliament's [Culture]({{ 'culture/' | relative_url }}), Media and Sport Committee described grassroots music venues as integral to the pipeline of creative and professional talent. The Music Venue Trust similarly defines them as risk-taking spaces that programme artists without expecting immediate financial returns, creating the conditions from which larger economic value later emerges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
 
 The practical sequence is straightforward:
 
@@ -299,11 +299,11 @@ Each step depends on opportunities to perform in front of real audiences rather 
 
 The scale of grassroots activity is often underestimated because individual venues are small. Collectively, however, they represent a substantial live-music ecosystem.
 
-Evidence presented to Parliament showed that UK grassroots music venues hosted approximately 21.9 million audience visits across 176,000 events featuring more than 1.6 million individual artist performances in 2022. The same evidence noted that venues effectively subsidised the development of new music by tens of millions of pounds annually through their willingness to host emerging talent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
+Evidence presented to Parliament showed that UK grassroots music venues hosted approximately 21.9 million audience visits across 176,000 events featuring more than 1.6 million individual artist performances in 2022. The same evidence noted that venues effectively subsidised the development of new music by tens of millions of pounds annually through their willingness to host emerging talent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
 
 Those figures reveal why these venues are better understood as infrastructure than entertainment businesses alone. A railway station may appear modest in isolation, yet its importance comes from its position within a network. Grassroots venues operate similarly. They connect artists to audiences, promoters, technicians, photographers, managers and local media.
 
-Their economic effects extend beyond ticket sales. Audience members often spend money on transport, food, drinks and nearby businesses. Parliamentary evidence suggested that live-music attendance generates significant additional spending in local economies, linking venue activity to wider high-street vitality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
+Their economic effects extend beyond ticket sales. Audience members often spend money on transport, food, drinks and nearby businesses. Parliamentary evidence suggested that live-music attendance generates significant additional spending in local economies, linking venue activity to wider high-street vitality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
 
 For emerging musicians, these local economic networks matter because careers are rarely built from music alone at the beginning. A healthy grassroots scene creates opportunities for support acts, sound engineers, promoters, designers and venue staff while helping artists establish professional relationships that may later support touring careers.
 
@@ -316,7 +316,7 @@ In a room holding 100 people, artists can observe which songs hold attention, wh
 
 This feedback loop is difficult to replicate elsewhere. Streaming platforms can reveal listening behaviour, but they cannot show whether people are willing to spend an evening, buy a ticket or bring friends. Grassroots venues convert passive listeners into active participants, providing a stronger signal of commercial potential.
 
-Research examining artist career trajectories has found that patterns of live performance and venue networks can help predict important career milestones, including progression to larger opportunities and major-label attention. Live performance activity is therefore not merely promotional; it is connected to career development itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1805.03324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mining and Forecasting Career Trajectories of Music Artists</span><span class="citation-popover-snippet">Mining and Forecasting Career Trajectories of Music ArtistsMay 9, 2018...</span><span class="citation-popover-meta">Published: May 9, 2018</span></span></span>
+Research examining artist career trajectories has found that patterns of live performance and venue networks can help predict important career milestones, including progression to larger opportunities and major-label attention. Live performance activity is therefore not merely promotional; it is connected to career development itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1805.03324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mining and Forecasting Career Trajectories of Music Artists</span><span class="citation-popover-snippet">Mining and Forecasting Career Trajectories of Music ArtistsMay 9, 2018...</span><span class="citation-popover-meta">Published: May 9, 2018</span></span></span>
 
 ## Why Venue Closures Would Weaken the Live Pipeline
 
@@ -324,9 +324,9 @@ The strongest argument for protecting grassroots venues is not nostalgia. It is 
 
 When a grassroots venue closes, the immediate loss is a room. The longer-term loss is a development opportunity. Future artists lose performance slots, local audiences lose discovery spaces and promoters lose places where they can assess emerging talent.
 
-Recent reports from the Music Venue Trust have repeatedly warned that the sector remains financially fragile. More than half of UK grassroots venues reportedly made no profit in 2025, while parts of the touring circuit continued to contract. The organisation also reported that many towns and cities lost [access]({{ 'access/' | relative_url }}) to professional touring activity, reducing opportunities for artists to build audiences through live performance. Music Venue Trust <span class="citation-chip-wrap"><a class="citation-chip" href="https://djmag.com/news/over-half-of-uk-grassroots-music-venues-made-no-profit-2025-music-venue-trust-report-reveals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: djmag.com">[DJ Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">djmag.com</span><span class="citation-popover-snippet">Over half of UK grassroots music venues made no profit in...22 Jan 2026 — 53% of UK grassroots music venues made no profit in 2025, acco...</span></span></span>
+Recent reports from the Music Venue Trust have repeatedly warned that the sector remains financially fragile. More than half of UK grassroots venues reportedly made no profit in 2025, while parts of the touring circuit continued to contract. The organisation also reported that many towns and cities lost [access]({{ 'access/' | relative_url }}) to professional touring activity, reducing opportunities for artists to build audiences through live performance. Music Venue Trust<span class="citation-chip-wrap"><a class="citation-chip" href="https://djmag.com/news/over-half-of-uk-grassroots-music-venues-made-no-profit-2025-music-venue-trust-report-reveals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: djmag.com">[DJ Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">djmag.com</span><span class="citation-popover-snippet">Over half of UK grassroots music venues made no profit in...22 Jan 2026 — 53% of UK grassroots music venues made no profit in 2025, acco...</span></span></span>
 
-The concern has reached government level. In its response to parliamentary recommendations, the UK Government agreed that a sustainable grassroots venue sector is essential to the long-term success of the national music industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
+The concern has reached government level. In its response to parliamentary recommendations, the UK Government agreed that a sustainable grassroots venue sector is essential to the long-term success of the national music industry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bfaa7e-Illustration-3-dark.svg" | relative_url }}" alt="Grassroots illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bfaa7e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bfaa7e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Risk of a Hollowed-Out Ladder
@@ -345,205 +345,205 @@ If entry-level venues disappear:
 
 </div>
 
-Industry initiatives increasingly describe grassroots venues as infrastructure for exactly this reason. Funding programmes, venue-protection campaigns and investment schemes are frequently justified not only as cultural preservation but as a way to maintain the system that develops future artists. Music Venue Trust <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livetrust.org/who-we-fund" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livetrust.org">[2livetrust.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livetrust.org</span><span class="citation-popover-snippet">Who We FundInvesting support across Music Venue Trust&#x27;s programming, means investing in immediate, high-impact interventions that stabili...</span></span></span>
+Industry initiatives increasingly describe grassroots venues as infrastructure for exactly this reason. Funding programmes, venue-protection campaigns and investment schemes are frequently justified not only as cultural preservation but as a way to maintain the system that develops future artists. Music Venue Trust<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livetrust.org/who-we-fund" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livetrust.org">[2livetrust.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livetrust.org</span><span class="citation-popover-snippet">Who We FundInvesting support across Music Venue Trust&#x27;s programming, means investing in immediate, high-impact interventions that stabili...</span></span></span>
 
-The careers of many established musicians reinforce the point. Countless successful artists began in tiny clubs, pubs and community venues where audiences numbered in dozens rather than thousands. Recent examples of artists publicly supporting grassroots venues often reference this personal history, arguing that their own careers would have looked very different without those early opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Over half (53%) of these venues recorded no profits last year, largely due to government changes to national insurance and business rates...</span></span></span>
+The careers of many established musicians reinforce the point. Countless successful artists began in tiny clubs, pubs and community venues where audiences numbered in dozens rather than thousands. Recent examples of artists publicly supporting grassroots venues often reference this personal history, arguing that their own careers would have looked very different without those early opportunities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">Over half (53%) of these venues recorded no profits last year, largely due to government changes to national insurance and business rates...</span></span></span>
 
 ## Why Tiny Venues Build Real Careers
 
 The financial importance of grassroots venues lies less in the revenue they generate on any single night than in the opportunities they create over time. They allow artists to accumulate experience, prove demand, develop audiences and build the relationships needed for larger stages.
 
-In the broader economics of live music, these venues occupy the first rung of the ladder. Remove enough of them, and the entire system above becomes harder to sustain. For emerging artists, grassroots venues are not merely places to play. They are the infrastructure that turns local enthusiasm into a viable career path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.amazon.co.jp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.co.jp">[Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.co.jp</span><span class="citation-popover-snippet">Music Unlimited &#124; 1億曲の楽曲とポッドキャストウェブプレイヤーで、お気に入りの楽曲やポッドキャストを見つけよう。Amazon Music Unlimitedでは、1億曲の豊富な楽曲をもとにセレクトしたプレイリストをお楽しみ...</span></span></span>
+In the broader economics of live music, these venues occupy the first rung of the ladder. Remove enough of them, and the entire system above becomes harder to sustain. For emerging artists, grassroots venues are not merely places to play. They are the infrastructure that turns local enthusiasm into a viable career path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://music.amazon.co.jp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.co.jp">[Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.co.jp</span><span class="citation-popover-snippet">Music Unlimited &#124; 1億曲の楽曲とポッドキャストウェブプレイヤーで、お気に入りの楽曲やポッドキャストを見つけよう。Amazon Music Unlimitedでは、1億曲の豊富な楽曲をもとにセレクトしたプレイリストをお楽しみ...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Tiny Venues Build Real Careers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Tiny Venues Build Real Careers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Provides broader context for artist development and live revenue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for artist development and live revenue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tour:Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2732880-M.jpg" alt="Cover for Tour:Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tour:Smart">Tour:Smart</a>
-        </h4>
-        <p class="fr-book-author">By Martin Atkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tour:Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2732880-M.jpg" alt="Cover for Tour:Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tour:Smart">Tour:Smart</a>
+</h4>
+<p class="fr-book-author">By Martin Atkins</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Concert tours, Management, Vocational guidance, Handbooks, manuals, Music trade.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Concert tours, Management, Vocational guidance, Handbooks, manuals, Music trade.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tour%3ASmart+Martin+Atkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Get+More+Fans+Jesse+Cannon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Get More Fans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12452578-M.jpg" alt="Cover for Get More Fans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Get+More+Fans+Jesse+Cannon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Get More Fans">Get More Fans</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Cannon, Todd Thomas</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Get+More+Fans+Jesse+Cannon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Get More Fans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12452578-M.jpg" alt="Cover for Get More Fans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Get+More+Fans+Jesse+Cannon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Get More Fans">Get More Fans</a>
+</h4>
+<p class="fr-book-author">By Jesse Cannon, Todd Thomas</p>
         
-        <p class="fr-book-desc">First published 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Get+More+Fans+Jesse+Cannon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Get+More+Fans+Jesse+Cannon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tour%3ASmart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tour:Smart</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tour%3ASmart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tour:Smart</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mid‑Century UFO retro wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mid‑Century UFO retro wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mid%E2%80%91Century+UFO+retro+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mid‑Century UFO retro wall art poster" data-ebay-reference="why-tiny-venues-build-real-careers-mid-century-ufo-retro-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ In the broader economics of live music, these venues occupy the first rung of th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ In the broader economics of live music, these venues occupy the first rung of th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ In the broader economics of live music, these venues occupy the first rung of th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ In the broader economics of live music, these venues occupy the first rung of th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ In the broader economics of live music, these venues occupy the first rung of th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,168 +749,168 @@ In the broader economics of live music, these venues occupy the first rung of th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/151908/html/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/151908/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/151908/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesMusic Venue TrustGrassroots music venues present thousands of live music events every year in the local community...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Grassroots music venues  
-   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentGrassroots music venues - Culture, Media and Sport Committee11 May 2024 — GMVs are the local, relatively limited capacity sp...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/527/report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentGrassroots music venues - Culture, Media and Sport Committee11 May 2024 — GMVs are the local, relatively limited capacity sp...</p></details>
    Published: May 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Mining and Forecasting Career Trajectories of Music Artists  
-   Link: <a href="https://arxiv.org/abs/1805.03324" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1805.03324</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mining and Forecasting Career Trajectories of Music ArtistsMay 9, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1805.03324" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1805.03324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mining and Forecasting Career Trajectories of Music ArtistsMay 9, 2018...</p></details>
    Published: May 9, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: musicradar.com  
-   Link: <a href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Over half (53%) of these venues recorded no profits last year, largely due to government changes to national insurance and business rates...</p></details>
+   Link:<a href="https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/music-industry/this-sector-has-done-all-it-can-to-keep-music-live-in-our-communities-it-now-needs-permanent-protection-annual-music-venue-trust-report-reveals-sector-is-fragile-and-one-shock-away-from-a-crisis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over half (53%) of these venues recorded no profits last year, largely due to government changes to national insurance and business rates...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/380/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/380/report.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentGrassroots music venues: Government response14 Nov 2024 — We agree that an economically sustainable grassroots sector is ess...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/380/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/380/report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentGrassroots music venues: Government response14 Nov 2024 — We agree that an economically sustainable grassroots sector is ess...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: livetrust.org  
-   Link: <a href="https://www.livetrust.org/who-we-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.livetrust.org/who-we-fund</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who We FundInvesting support across Music Venue Trust&#x27;s programming, means investing in immediate, high-impact interventions that stabili...</p></details>
+   Link:<a href="https://www.livetrust.org/who-we-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.livetrust.org/who-we-fund</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who We FundInvesting support across Music Venue Trust&#x27;s programming, means investing in immediate, high-impact interventions that stabili...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: musicradar.com  
-   Link: <a href="https://www.musicradar.com/artists/singers-songwriters/an-incredible-gesture-demonstrating-once-again-that-artists-absolutely-understand-how-vital-grassroots-music-venues-are-to-their-careers-and-to-their-communities-sam-fender-to-donate-his-mercury-winnings-to-the-music-venue-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/artists/singers-songwriters/an-incredible-gesture-demonstrating-once-again-that-artists-absolutely-understand-how-vital-grassroots-music-venues-are-to-their-careers-and-to-their-communities-sam-fender-to-donate-his-mercury-winnings-to-the-music-venue-trust</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fender, who won the prize for his third album *People Watching*, emphasized the importance of small venues in shaping his early career. T...</p></details>
+   Link:<a href="https://www.musicradar.com/artists/singers-songwriters/an-incredible-gesture-demonstrating-once-again-that-artists-absolutely-understand-how-vital-grassroots-music-venues-are-to-their-careers-and-to-their-communities-sam-fender-to-donate-his-mercury-winnings-to-the-music-venue-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/artists/singers-songwriters/an-incredible-gesture-demonstrating-once-again-that-artists-absolutely-understand-how-vital-grassroots-music-venues-are-to-their-careers-and-to-their-communities-sam-fender-to-donate-his-mercury-winnings-to-the-music-venue-trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fender, who won the prize for his third album *People Watching*, emphasized the importance of small venues in shaping his early career. T...</p></details>
    Published: November 11, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/publications/44704/documents/222242/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/44704/documents/222242/default/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>music venues11 May 2024 — The Music Venue Trust provides a comprehensive definition based on the cultural role, economic activity and ame...</p></details>
+   Link:<a href="https://committees.parliament.uk/publications/44704/documents/222242/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/44704/documents/222242/default/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>music venues11 May 2024 — The Music Venue Trust provides a comprehensive definition based on the cultural role, economic activity and ame...</p></details>
    Published: May 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: musicvenuetrust.com  
    Title: a manifesto for grassroots music  
-   Link: <a href="https://www.musicvenuetrust.com/a-manifesto-for-grassroots-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/a-manifesto-for-grassroots-music/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue TrustA Manifesto For Grassroots Music11 Jun 2024 — “…grassroots live music venues, the local, limited capacity venues integra...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/a-manifesto-for-grassroots-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/a-manifesto-for-grassroots-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue TrustA Manifesto For Grassroots Music11 Jun 2024 — “…grassroots live music venues, the local, limited capacity venues integra...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: musicvenuetrust.com  
    Title: Music Venue Trust Grassroots Music Venue (GMVs)  
-   Link: <a href="https://www.musicvenuetrust.com/resources/grassroots-music-venue-gmvs-definition/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/resources/grassroots-music-venue-gmvs-definition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grassroots Music Venue (GMVs) - Definition10 Oct 2025 — Programmes artists that deserve audiences with no expectation of direct financial...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/resources/grassroots-music-venue-gmvs-definition/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/resources/grassroots-music-venue-gmvs-definition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grassroots Music Venue (GMVs) - Definition10 Oct 2025 — Programmes artists that deserve audiences with no expectation of direct financial...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: musicvenuetrust.com  
    Title: music venue trust annual report 2025  
-   Link: <a href="https://www.musicvenuetrust.com/2026/01/music-venue-trust-annual-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2026/01/music-venue-trust-annual-report-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/2026/01/music-venue-trust-annual-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2026/01/music-venue-trust-annual-report-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: djmag.com  
-   Link: <a href="https://djmag.com/news/over-half-of-uk-grassroots-music-venues-made-no-profit-2025-music-venue-trust-report-reveals" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/over-half-of-uk-grassroots-music-venues-made-no-profit-2025-music-venue-trust-report-reveals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over half of UK grassroots music venues made no profit in...22 Jan 2026 — 53% of UK grassroots music venues made no profit in 2025, acco...</p></details>
+   Link:<a href="https://djmag.com/news/over-half-of-uk-grassroots-music-venues-made-no-profit-2025-music-venue-trust-report-reveals" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/over-half-of-uk-grassroots-music-venues-made-no-profit-2025-music-venue-trust-report-reveals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over half of UK grassroots music venues made no profit in...22 Jan 2026 — 53% of UK grassroots music venues made no profit in 2025, acco...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: musicvenuetrust.com  
    Title: pipeline investment fund  
-   Link: <a href="https://www.musicvenuetrust.com/pipeline-investment-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/pipeline-investment-fund/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue TrustPipeline Investment Fund16 Jul 2024 — The Pipeline Investment Fund (PIF) is a new grant-giving fund established by Music...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/pipeline-investment-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/pipeline-investment-fund/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue TrustPipeline Investment Fund16 Jul 2024 — The Pipeline Investment Fund (PIF) is a new grant-giving fund established by Music...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musicvenuetrust.com  
-   Link: <a href="https://www.musicvenuetrust.com/2026/04/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2026/04/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust Deploys Funding into Grassroots...22 Apr 2026 — Across the UK, a coordinated programme of infrastructure upgrades is n...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/2026/04/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2026/04/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust Deploys Funding into Grassroots...22 Apr 2026 — Across the UK, a coordinated programme of infrastructure upgrades is n...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: musicvenuetrust.com  
-   Link: <a href="https://www.musicvenuetrust.com/2023/02/music-venue-trust-announces-third-round-of-recipients-for-their-pipeline-investment-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2023/02/music-venue-trust-announces-third-round-of-recipients-for-their-pipeline-investment-fund/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust Announces Third Round of Recipients...22 Feb 2023 — Grassroots Music Venues have received grants from the charity Musi...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/2023/02/music-venue-trust-announces-third-round-of-recipients-for-their-pipeline-investment-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2023/02/music-venue-trust-announces-third-round-of-recipients-for-their-pipeline-investment-fund/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust Announces Third Round of Recipients...22 Feb 2023 — Grassroots Music Venues have received grants from the charity Musi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: musicvenuetrust.com  
    Title: MVT 2025 Annual Report Digital Spreads  
-   Link: <a href="https://www.musicvenuetrust.com/wp-content/uploads/2026/01/MVT_2025-Annual-Report_Digital-Spreads.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/wp-content/uploads/2026/01/MVT_2025-Annual-Report_Digital-Spreads.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust Annual report 2025The creation of the LIVE Trust as the industry&#x27;s vehicle to support the grassroots sector gives a pra...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/wp-content/uploads/2026/01/MVT_2025-Annual-Report_Digital-Spreads.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/wp-content/uploads/2026/01/MVT_2025-Annual-Report_Digital-Spreads.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust Annual report 2025The creation of the LIVE Trust as the industry&#x27;s vehicle to support the grassroots sector gives a pra...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: musicvenuetrust.com  
    Title: music venue trust launch 2024 annual report  
-   Link: <a href="https://www.musicvenuetrust.com/2025/01/music-venue-trust-launch-2024-annual-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2025/01/music-venue-trust-launch-2024-annual-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — Music Venue Trust (MVT), which represents hundreds of UK Grassroots Music Venues (GMVs) has launched its 2024 Annual Report...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/2025/01/music-venue-trust-launch-2024-annual-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/2025/01/music-venue-trust-launch-2024-annual-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — Music Venue Trust (MVT), which represents hundreds of UK Grassroots Music Venues (GMVs) has launched its 2024 Annual Report...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: musicvenuetrust.com  
-   Link: <a href="https://musicvenuetrust.com/" target="_blank" rel="noopener noreferrer nofollow">https://musicvenuetrust.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue TrustMusic Venue Trust is a UK Registered Charity which acts to protect, secure and improve UK Grassroots Music Venues for th...</p></details>
+   Link:<a href="https://musicvenuetrust.com/" target="_blank" rel="noopener noreferrer nofollow">https://musicvenuetrust.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue TrustMusic Venue Trust is a UK Registered Charity which acts to protect, secure and improve UK Grassroots Music Venues for th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: musicvenuetrust.com  
-   Link: <a href="https://www.musicvenuetrust.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MVT Resources26 Mar 2026 — MVT&#x27;s resources for Grassroots Music Venues are now located on our Members&#x27; Portal. Music Venues Alliance memb...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MVT Resources26 Mar 2026 — MVT&#x27;s resources for Grassroots Music Venues are now located on our Members&#x27; Portal. Music Venues Alliance memb...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: musicvenuetrust.com  
    Title: MVT GMV Future Digital Version  
-   Link: <a href="https://www.musicvenuetrust.com/wp-content/uploads/2026/03/MVT-GMV-Future-Digital-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/wp-content/uploads/2026/03/MVT-GMV-Future-Digital-Version.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For more than a decade, much of our work has been reactive. We have fought closures, challenged unfair...Read more...</p></details>
+   Link:<a href="https://www.musicvenuetrust.com/wp-content/uploads/2026/03/MVT-GMV-Future-Digital-Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.musicvenuetrust.com/wp-content/uploads/2026/03/MVT-GMV-Future-Digital-Version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For more than a decade, much of our work has been reactive. We have fought closures, challenged unfair...Read more...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: houstonchronicle.com  
-   Link: <a href="https://www.houstonchronicle.com/explained/article/tiny-houston-music-venue-launching-pad-legends-22282826.php" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonchronicle.com/explained/article/tiny-houston-music-venue-launching-pad-legends-22282826.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Originally opened as a restaurant by Marvin Anderson and Gray Fair, it quickly transformed into a vital cultural hub where artists and mu...</p></details>
+   Link:<a href="https://www.houstonchronicle.com/explained/article/tiny-houston-music-venue-launching-pad-legends-22282826.php" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonchronicle.com/explained/article/tiny-houston-music-venue-launching-pad-legends-22282826.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Originally opened as a restaurant by Marvin Anderson and Gray Fair, it quickly transformed into a vital cultural hub where artists and mu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tpimagazine.com  
    Title: music venue trust deploys funding into grassroots delivery phase  
-   Link: <a href="https://www.tpimagazine.com/music-venue-trust-deploys-funding-into-grassroots-delivery-phase/" target="_blank" rel="noopener noreferrer nofollow">https://www.tpimagazine.com/music-venue-trust-deploys-funding-into-grassroots-delivery-phase/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust deploys funding into grassroots delivery...24 Apr 2026 — Music Venue Trust (MVT) has unveiled a major new package of f...</p></details>
+   Link:<a href="https://www.tpimagazine.com/music-venue-trust-deploys-funding-into-grassroots-delivery-phase/" target="_blank" rel="noopener noreferrer nofollow">https://www.tpimagazine.com/music-venue-trust-deploys-funding-into-grassroots-delivery-phase/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Venue Trust deploys funding into grassroots delivery...24 Apr 2026 — Music Venue Trust (MVT) has unveiled a major new package of f...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: music.amazon.co.jp  
-   Link: <a href="https://music.amazon.co.jp/" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.co.jp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Unlimited | 1億曲の楽曲とポッドキャストウェブプレイヤーで、お気に入りの楽曲やポッドキャストを見つけよう。Amazon Music Unlimitedでは、1億曲の豊富な楽曲をもとにセレクトしたプレイリストをお楽しみ...</p></details>
+   Link:<a href="https://music.amazon.co.jp/" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.co.jp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Unlimited | 1億曲の楽曲とポッドキャストウェブプレイヤーで、お気に入りの楽曲やポッドキャストを見つけよう。Amazon Music Unlimitedでは、1億曲の豊富な楽曲をもとにセレクトしたプレイリストをお楽しみ...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: eventindustrynews.com  
-   Link: <a href="https://www.eventindustrynews.com/news/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide" target="_blank" rel="noopener noreferrer nofollow">https://www.eventindustrynews.com/news/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>w underway at grassroots music venues, targeting the core barriers that...Read more...</p></details>
+   Link:<a href="https://www.eventindustrynews.com/news/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide" target="_blank" rel="noopener noreferrer nofollow">https://www.eventindustrynews.com/news/music-venue-trust-deploys-funding-into-grassroots-delivery-phase-as-uk-infrastructure-upgrades-roll-out-nationwide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>w underway at grassroots music venues, targeting the core barriers that...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXMECNdDmcD/?img_index=1" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXMECNdDmcD/?img_index=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aising. In 2026, crowdfunding is a proactive tool used to upgrade...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXMECNdDmcD/?img_index=1" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXMECNdDmcD/?img_index=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aising. In 2026, crowdfunding is a proactive tool used to upgrade...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nme.com  
-   Link: <a href="https://www.nme.com/news/music/music-venue-trust-deploys-major-infrastructure-funding-grassroots-venues-artists-high-costs-3942815" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/music-venue-trust-deploys-major-infrastructure-funding-grassroots-venues-artists-high-costs-3942815</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g economic challenges facing grassroots music venues in the UK...</p></details>
+   Link:<a href="https://www.nme.com/news/music/music-venue-trust-deploys-major-infrastructure-funding-grassroots-venues-artists-high-costs-3942815" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/music-venue-trust-deploys-major-infrastructure-funding-grassroots-venues-artists-high-costs-3942815</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g economic challenges facing grassroots music venues in the UK...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), rhythm, or otherwise expressive content...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), rhythm, or otherwise expressive content...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: musicair.co.jp  
-   Link: <a href="https://www.musicair.co.jp/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicair.co.jp/</a>  
+   Link:<a href="https://www.musicair.co.jp/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicair.co.jp/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: music.apple.com  
-   Link: <a href="https://music.apple.com/jp/new" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/jp/new</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Apple Music - Webプレイヤー莫大な数の曲を聴いたり、ミュージックビデオを視聴したり、ライブパフォーマンスを体験したり。これらすべてをApple Musicで楽しめます。サブスクリプションを利用し...</p></details>
+   Link:<a href="https://music.apple.com/jp/new" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/jp/new</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Apple Music - Webプレイヤー莫大な数の曲を聴いたり、ミュージックビデオを視聴したり、ライブパフォーマンスを体験したり。これらすべてをApple Musicで楽しめます。サブスクリプションを利用し...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: universal-music.co.jp  
    Title: ユニバーサル ミュージックジャパン公式サイト  
-   Link: <a href="https://www.universal-music.co.jp/" target="_blank" rel="noopener noreferrer nofollow">https://www.universal-music.co.jp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIVERSAL...アーティストの楽曲を活用したダンス教育プログラム。... 音楽の楽しみ方を提供する様々な能力、感性を磨いてみませんか？...</p></details>
+   Link:<a href="https://www.universal-music.co.jp/" target="_blank" rel="noopener noreferrer nofollow">https://www.universal-music.co.jp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNIVERSAL...アーティストの楽曲を活用したダンス教育プログラム。... 音楽の楽しみ方を提供する様々な能力、感性を磨いてみませんか？...</p></details>

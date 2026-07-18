@@ -268,12 +268,12 @@ image: /assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simpl
 
 ## Introduction
 
-[Protest songs]({{ 'protest-songs/' | relative_url }}) help build collective power partly because they simplify. A short chorus, repeated slogan, or memorable phrase can be learned in seconds, sung by thousands, and carried across rallies, picket lines, social media clips, and generations. That simplicity is often a strength: it creates unity, lowers barriers to participation, and turns complex grievances into a shared public voice. Yet the same mechanism can also flatten political arguments, reduce nuance, and encourage audiences to treat complicated issues as straightforward moral binaries. The tension between mobilisation and complexity is one of the central trade-offs of protest music. Scholars of social movements and protest songs have long noted that songs designed to attract and unify supporters often rely on repetition and emotional clarity rather than detailed political analysis. JSTOR <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">City Research Online AGITPROP RAP</span><span class="citation-popover-snippet">City Research OnlineAGITPROP RAP - City Research Onlineby M Mera · 2015 — “Magnetic” songs, according to Denisoff, attract people to move...</span></span></span>
+[Protest songs]({{ 'protest-songs/' | relative_url }}) help build collective power partly because they simplify. A short chorus, repeated slogan, or memorable phrase can be learned in seconds, sung by thousands, and carried across rallies, picket lines, social media clips, and generations. That simplicity is often a strength: it creates unity, lowers barriers to participation, and turns complex grievances into a shared public voice. Yet the same mechanism can also flatten political arguments, reduce nuance, and encourage audiences to treat complicated issues as straightforward moral binaries. The tension between mobilisation and complexity is one of the central trade-offs of protest music. Scholars of social movements and protest songs have long noted that songs designed to attract and unify supporters often rely on repetition and emotional clarity rather than detailed political analysis. JSTOR<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">City Research Online AGITPROP RAP</span><span class="citation-popover-snippet">City Research OnlineAGITPROP RAP - City Research Onlineby M Mera · 2015 — “Magnetic” songs, according to Denisoff, attract people to move...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-1-dark.svg" | relative_url }}" alt="Song Simplification illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Simple Refrains Work So Well
 
-The power of many protest songs lies not in their informational content but in their ability to coordinate people emotionally and socially. Repetition makes [lyrics]({{ 'lyrics/' | relative_url }}) easier to remember, easier to sing collectively, and easier to circulate beyond the original movement. Recent computational research on [protest lyrics]({{ 'protest-lyrics/' | relative_url }}) found that protest songs display unusually high levels of repetition compared with other music, reinforcing the idea that recurring phrases are a defining feature of the form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/2025.acl-srw.14.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyA Multimodal Analysis of Protest Songs through Lyrics and...July 10, 2025 — by U Shekhar · 2025 — Protest songs exhibit sig...</span><span class="citation-popover-meta">Published: July 10, 2025</span></span></span>
+The power of many protest songs lies not in their informational content but in their ability to coordinate people emotionally and socially. Repetition makes [lyrics]({{ 'lyrics/' | relative_url }}) easier to remember, easier to sing collectively, and easier to circulate beyond the original movement. Recent computational research on [protest lyrics]({{ 'protest-lyrics/' | relative_url }}) found that protest songs display unusually high levels of repetition compared with other music, reinforcing the idea that recurring phrases are a defining feature of the form.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/2025.acl-srw.14.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyA Multimodal Analysis of Protest Songs through Lyrics and...July 10, 2025 — by U Shekhar · 2025 — Protest songs exhibit sig...</span><span class="citation-popover-meta">Published: July 10, 2025</span></span></span>
 
 This simplicity serves several practical functions:
 
@@ -286,7 +286,7 @@ This simplicity serves several practical functions:
 
 </div>
 
-R. Serge Denisoff's influential distinction between “magnetic” and “rhetorical” protest songs helps explain this dynamic. Magnetic songs are designed primarily to attract supporters and strengthen solidarity within a movement. Because their purpose is cohesion rather than detailed persuasion, they often rely on simple and repeated messages. JSTOR <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">City Research Online AGITPROP RAP</span><span class="citation-popover-snippet">City Research OnlineAGITPROP RAP - City Research Onlineby M Mera · 2015 — “Magnetic” songs, according to Denisoff, attract people to move...</span></span></span>
+R. Serge Denisoff's influential distinction between “magnetic” and “rhetorical” protest songs helps explain this dynamic. Magnetic songs are designed primarily to attract supporters and strengthen solidarity within a movement. Because their purpose is cohesion rather than detailed persuasion, they often rely on simple and repeated messages. JSTOR<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">City Research Online AGITPROP RAP</span><span class="citation-popover-snippet">City Research OnlineAGITPROP RAP - City Research Onlineby M Mera · 2015 — “Magnetic” songs, according to Denisoff, attract people to move...</span></span></span>
 
 For movements seeking visibility and participation, this can be highly effective. A crowd singing together rarely needs a policy briefing; it needs a shared expression that signals collective identity and purpose.
 
@@ -298,7 +298,7 @@ This compression can create several risks.
 
 ### Complex Problems Become Moral Binaries
 
-Many protest songs divide the world into clear categories: oppressors and oppressed, justice and injustice, peace and war, freedom and repression. Such framing can be emotionally compelling, but it may leave little room for ambiguity or competing interpretations. Scholars examining protest music note that songs frequently reproduce movement slogans and core themes, reinforcing a movement's preferred framing of events rather than exploring alternative perspectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/volume/3395?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">OpenEdition JournalsIan Peddie (ed.), The Resisting Muse: Popular Music and...Metonymically, the protest song can be articulated with a...</span></span></span>
+Many protest songs divide the world into clear categories: oppressors and oppressed, justice and injustice, peace and war, freedom and repression. Such framing can be emotionally compelling, but it may leave little room for ambiguity or competing interpretations. Scholars examining protest music note that songs frequently reproduce movement slogans and core themes, reinforcing a movement's preferred framing of events rather than exploring alternative perspectives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.openedition.org/volume/3395?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.openedition.org">[OpenEdition Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.openedition.org</span><span class="citation-popover-snippet">OpenEdition JournalsIan Peddie (ed.), The Resisting Muse: Popular Music and...Metonymically, the protest song can be articulated with a...</span></span></span>
 
 This does not necessarily make the songs inaccurate. Rather, it means they are often designed to clarify a position rather than investigate complexity.
 
@@ -319,7 +319,7 @@ The result can be a public image of consensus that is stronger than the actual a
 
 The influence of simplified protest messages extends beyond movement participants. Songs also help shape how outsiders understand a cause.
 
-When audiences encounter a political issue primarily through a song, they may adopt the song's framing without engaging with deeper arguments. Communication and social movement research consistently highlights the importance of framing—the process through which movements define problems, identify causes, and motivate action. Protest music often functions as a framing device, guiding audiences toward particular interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seejps.lumina.org/index.php/volume-i-number-1-democracy-and-civil-society/16-social-movements-through-music-and-culture-an-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seejps.lumina.org">[SeeJPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seejps.lumina.org</span><span class="citation-popover-title">See JPSSocial Movements through Music and Culture</span><span class="citation-popover-snippet">An OverviewThe cultural approach to social movements emphasizes the importance of collective identity[11], framing[12], networks[13] and...</span></span></span>
+When audiences encounter a political issue primarily through a song, they may adopt the song's framing without engaging with deeper arguments. Communication and social movement research consistently highlights the importance of framing—the process through which movements define problems, identify causes, and motivate action. Protest music often functions as a framing device, guiding audiences toward particular interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://seejps.lumina.org/index.php/volume-i-number-1-democracy-and-civil-society/16-social-movements-through-music-and-culture-an-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seejps.lumina.org">[SeeJPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seejps.lumina.org</span><span class="citation-popover-title">See JPSSocial Movements through Music and Culture</span><span class="citation-popover-snippet">An OverviewThe cultural approach to social movements emphasizes the importance of collective identity[11], framing[12], networks[13] and...</span></span></span>
 
 This can have mixed consequences.
 
@@ -327,14 +327,14 @@ On one hand, simplified framing can increase public awareness. Many people first
 
 On the other hand, simplified framing can encourage superficial understanding. Audiences may feel informed because they recognise a slogan or chorus while remaining unfamiliar with the issue's historical [background]({{ 'background/' | relative_url }}), competing viewpoints, or practical policy implications.
 
-The risk becomes especially significant in digital environments, where [short clips]({{ 'short-clips/' | relative_url }}) and excerpts often circulate more widely than complete songs. Research on contemporary protest media suggests that platform [formats]({{ 'formats/' | relative_url }}) can encourage messages that are easily shared and emotionally resonant while constraining context and complexity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized...by O Sadler · 2022 · Cited by 63 — Communication scholars have studied how prot...</span></span></span>
+The risk becomes especially significant in digital environments, where [short clips]({{ 'short-clips/' | relative_url }}) and excerpts often circulate more widely than complete songs. Research on contemporary protest media suggests that platform [formats]({{ 'formats/' | relative_url }}) can encourage messages that are easily shared and emotionally resonant while constraining context and complexity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized...by O Sadler · 2022 · Cited by 63 — Communication scholars have studied how prot...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-3-dark.svg" | relative_url }}" alt="Song Simplification illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Mobilising and Explaining
 
 A common misunderstanding is that protest songs should be judged primarily by how thoroughly they explain political issues. Historically, many protest songs were never intended to serve that function.
 
-Denisoff's work argued that some protest songs are aimed less at persuasion than at mobilisation. Their role is to strengthen commitment, reinforce values, and create solidarity among participants. Under this logic, simplicity is not a flaw but a deliberate design choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/4105044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Class Consciousness and the Propaganda SongJune 3, 1968 — by RS Denisoff · 1968 · Cited by 89 — Serge Denisoff, &quot;Songs of Persuasion...</span><span class="citation-popover-meta">Published: June 3, 1968</span></span></span>
+Denisoff's work argued that some protest songs are aimed less at persuasion than at mobilisation. Their role is to strengthen commitment, reinforce values, and create solidarity among participants. Under this logic, simplicity is not a flaw but a deliberate design choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/4105044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Class Consciousness and the Propaganda SongJune 3, 1968 — by RS Denisoff · 1968 · Cited by 89 — Serge Denisoff, &quot;Songs of Persuasion...</span><span class="citation-popover-meta">Published: June 3, 1968</span></span></span>
 
 The challenge arises when audiences expect songs to do both jobs at once:
 
@@ -346,199 +346,199 @@ These goals are not always compatible. A song that succeeds as a rallying anthem
 
 Some artists attempt to balance accessibility with complexity. Rather than relying solely on slogans, they use storytelling, irony, character narratives, or layered imagery to explore political issues while remaining emotionally engaging. Others combine simple [choruses]({{ 'choruses/' | relative_url }}) with more detailed verses, allowing collective participation without abandoning nuance entirely.
 
-The history of protest music shows that there is no single formula. Some of the most enduring songs have survived precisely because they are open to interpretation, while others have become powerful movement anthems because they communicate a single idea with exceptional clarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/dylan-lennon-marx-and-god/dylan-lennon-and-antiwar-protest-music/F11E1482ADF68F81996E8B55E74AB838" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDylan, Lennon and Anti-War Protest Music (Chapter 3)2 Feb 2022 — As a Marxist, Denisoff primarily...</span></span></span>
+The history of protest music shows that there is no single formula. Some of the most enduring songs have survived precisely because they are open to interpretation, while others have become powerful movement anthems because they communicate a single idea with exceptional clarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/dylan-lennon-marx-and-god/dylan-lennon-and-antiwar-protest-music/F11E1482ADF68F81996E8B55E74AB838" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDylan, Lennon and Anti-War Protest Music (Chapter 3)2 Feb 2022 — As a Marxist, Denisoff primarily...</span></span></span>
 
 The central tension remains unresolved: collective action often benefits from simple messages, but democratic debate depends on complexity. Protest songs sit at the intersection of those needs. Their ability to unite people quickly is one reason they remain powerful tools of mobilisation, yet that same strength can limit how fully they represent the political realities they seek to challenge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Protest Songs Flatten Complex Messages. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Protest Songs Flatten Complex Messages. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Helps explain why simple repeated messages spread effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why simple repeated messages spread effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Routledge history of social protest in popular music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9278714-M.jpg" alt="Cover for The Routledge history of social protest in popular music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Routledge history of social protest in popular music">The Routledge history of social protest in popular music</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan C. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Routledge history of social protest in popular music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9278714-M.jpg" alt="Cover for The Routledge history of social protest in popular music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Routledge history of social protest in popular music">The Routledge history of social protest in popular music</a>
+</h4>
+<p class="fr-book-author">By Jonathan C. Friedman</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Protestsong, Protest movements, Popular music, Songs and music, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Protestsong, Protest movements, Popular music, Songs and music, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474927-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
-        </h4>
-        <p class="fr-book-author">By Dorian Lynskey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474927-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
+</h4>
+<p class="fr-book-author">By Dorian Lynskey</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Protest songs, Popular music, Musicians, Social aspects, Political aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Protest songs, Popular music, Musicians, Social aspects, Political aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Think of an Elephant! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/956754-M.jpg" alt="Cover for Don&#x27;t Think of an Elephant!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Think of an Elephant!">Don&#x27;t Think of an Elephant!</a>
-        </h4>
-        <p class="fr-book-author">By George Lakoff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Think of an Elephant! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/956754-M.jpg" alt="Cover for Don&#x27;t Think of an Elephant!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Think of an Elephant!">Don&#x27;t Think of an Elephant!</a>
+</h4>
+<p class="fr-book-author">By George Lakoff</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Communication in politics, Progressivism (United States politics), Politische Ko...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Politics and government, Communication in politics, Progressivism (United States politics), Politische Ko...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Routledge history of social protest in popular music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Routledge history of social protest in popular music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ted Baker Mens Reversible Wool Coat Houndstooth Borg Activist Patch Pocket UK S"><img src="{{ '/assets/images/marketplace-covers/f341bd95871d2260ea8d.jpg' | relative_url }}" alt="Listing image for Ted Baker Mens Reversible Wool Coat Houndstooth Borg Activist Patch Pocket UK S" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">Ted Baker Mens Reversible Wool Coat Houndstooth Borg Activist Patch Pocket UK S</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ted Baker Mens Reversible Wool Coat Houndstooth Borg Activist Patch Pocket UK S"><img src="{{ '/assets/images/marketplace-covers/f341bd95871d2260ea8d.jpg' | relative_url }}" alt="Listing image for Ted Baker Mens Reversible Wool Coat Houndstooth Borg Activist Patch Pocket UK S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">Ted Baker Mens Reversible Wool Coat Houndstooth Borg Activist Patch Pocket UK S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop Violence Against Women Feminist Activist Action Patch Badge patches badges"><img src="{{ '/assets/images/marketplace-covers/99ebb0c374ec84e3dba3.jpg' | relative_url }}" alt="Listing image for Stop Violence Against Women Feminist Activist Action Patch Badge patches badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">Stop Violence Against Women Feminist Activist Action Patch Badge patches badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop Violence Against Women Feminist Activist Action Patch Badge patches badges"><img src="{{ '/assets/images/marketplace-covers/99ebb0c374ec84e3dba3.jpg' | relative_url }}" alt="Listing image for Stop Violence Against Women Feminist Activist Action Patch Badge patches badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">Stop Violence Against Women Feminist Activist Action Patch Badge patches badges</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Feminisme embroidered Patch Femenist activist Sew Iron On Patches clothes badges"><img src="{{ '/assets/images/marketplace-covers/5788032668894986388e.jpg' | relative_url }}" alt="Listing image for Feminisme embroidered Patch Femenist activist Sew Iron On Patches clothes badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">Feminisme embroidered Patch Femenist activist Sew Iron On Patches clothes badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Feminisme embroidered Patch Femenist activist Sew Iron On Patches clothes badges"><img src="{{ '/assets/images/marketplace-covers/5788032668894986388e.jpg' | relative_url }}" alt="Listing image for Feminisme embroidered Patch Femenist activist Sew Iron On Patches clothes badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">Feminisme embroidered Patch Femenist activist Sew Iron On Patches clothes badges</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Inch Charlie Kirk Republican Political Activist Iron / Sew on Patch Badge"><img src="{{ '/assets/images/marketplace-covers/9e88aadf3223ac78fe8b.jpg' | relative_url }}" alt="Listing image for 3 Inch Charlie Kirk Republican Political Activist Iron / Sew on Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">3 Inch Charlie Kirk Republican Political Activist Iron / Sew on Patch Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Inch Charlie Kirk Republican Political Activist Iron / Sew on Patch Badge"><img src="{{ '/assets/images/marketplace-covers/9e88aadf3223ac78fe8b.jpg' | relative_url }}" alt="Listing image for 3 Inch Charlie Kirk Republican Political Activist Iron / Sew on Patch Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">3 Inch Charlie Kirk Republican Political Activist Iron / Sew on Patch Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist patch" data-ebay-reference="song-simplification-when-protest-songs-flatten-complex-messages-music-activist-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ The central tension remains unresolved: collective action often benefits from si
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ The central tension remains unresolved: collective action often benefits from si
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ The central tension remains unresolved: collective action often benefits from si
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ The central tension remains unresolved: collective action often benefits from si
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ The central tension remains unresolved: collective action often benefits from si
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,108 +744,108 @@ The central tension remains unresolved: collective action often benefits from si
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/4105044" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4105044</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Class Consciousness and the Propaganda SongJune 3, 1968 — by RS Denisoff · 1968 · Cited by 89 — Serge Denisoff, &quot;Songs of Persuasion...</p></details>
+   Link:<a href="https://www.jstor.org/stable/4105044" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4105044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Class Consciousness and the Propaganda SongJune 3, 1968 — by RS Denisoff · 1968 · Cited by 89 — Serge Denisoff, &quot;Songs of Persuasion...</p></details>
    Published: June 3, 1968  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/538223" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/538223</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2. The song reinforces the value structure of...</p></details>
+   Link:<a href="https://www.jstor.org/stable/538223" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/538223</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2. The song reinforces the value structure of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.openedition.org  
-   Link: <a href="https://journals.openedition.org/volume/3395?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/volume/3395?lang=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsIan Peddie (ed.), The Resisting Muse: Popular Music and...Metonymically, the protest song can be articulated with a...</p></details>
+   Link:<a href="https://journals.openedition.org/volume/3395?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/volume/3395?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsIan Peddie (ed.), The Resisting Muse: Popular Music and...Metonymically, the protest song can be articulated with a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/dylan-lennon-marx-and-god/dylan-lennon-and-antiwar-protest-music/F11E1482ADF68F81996E8B55E74AB838" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/dylan-lennon-marx-and-god/dylan-lennon-and-antiwar-protest-music/F11E1482ADF68F81996E8B55E74AB838</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentDylan, Lennon and Anti-War Protest Music (Chapter 3)2 Feb 2022 — As a Marxist, Denisoff primarily...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/dylan-lennon-marx-and-god/dylan-lennon-and-antiwar-protest-music/F11E1482ADF68F81996E8B55E74AB838" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/dylan-lennon-marx-and-god/dylan-lennon-and-antiwar-protest-music/F11E1482ADF68F81996E8B55E74AB838</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentDylan, Lennon and Anti-War Protest Music (Chapter 3)2 Feb 2022 — As a Marxist, Denisoff primarily...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/2678623" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2678623</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Collective Identity and Social Movementsby F Polletta · 2001 · Cited by 5195 — Abstract Sociologists have turned to collective identity t...</p></details>
+   Link:<a href="https://www.jstor.org/stable/2678623" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2678623</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collective Identity and Social Movementsby F Polletta · 2001 · Cited by 5195 — Abstract Sociologists have turned to collective identity t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: openaccess.city.ac.uk  
    Title: City Research Online AGITPROP RAP  
-   Link: <a href="https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineAGITPROP RAP - City Research Onlineby M Mera · 2015 — “Magnetic” songs, according to Denisoff, attract people to move...</p></details>
+   Link:<a href="https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/6383/1/AGITPROP%20RAP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineAGITPROP RAP - City Research Onlineby M Mera · 2015 — “Magnetic” songs, according to Denisoff, attract people to move...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aclanthology.org  
-   Link: <a href="https://aclanthology.org/2025.acl-srw.14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.acl-srw.14.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyA Multimodal Analysis of Protest Songs through Lyrics and...July 10, 2025 — by U Shekhar · 2025 — Protest songs exhibit sig...</p></details>
+   Link:<a href="https://aclanthology.org/2025.acl-srw.14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.acl-srw.14.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyA Multimodal Analysis of Protest Songs through Lyrics and...July 10, 2025 — by U Shekhar · 2025 — Protest songs exhibit sig...</p></details>
    Published: July 10, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: seejps.lumina.org  
    Title: See JPSSocial Movements through Music and [Culture](&#123;&#123; 'culture/' | relative_url &#125;&#125;)  
-   Link: <a href="https://seejps.lumina.org/index.php/volume-i-number-1-democracy-and-civil-society/16-social-movements-through-music-and-culture-an-overview" target="_blank" rel="noopener noreferrer nofollow">https://seejps.lumina.org/index.php/volume-i-number-1-democracy-and-civil-society/16-social-movements-through-music-and-culture-an-overview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An OverviewThe cultural approach to social movements emphasizes the importance of collective identity[11], framing[12], networks[13] and...</p></details>
+   Link:<a href="https://seejps.lumina.org/index.php/volume-i-number-1-democracy-and-civil-society/16-social-movements-through-music-and-culture-an-overview" target="_blank" rel="noopener noreferrer nofollow">https://seejps.lumina.org/index.php/volume-i-number-1-democracy-and-civil-society/16-social-movements-through-music-and-culture-an-overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An OverviewThe cultural approach to social movements emphasizes the importance of collective identity[11], framing[12], networks[13] and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051221094769</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDefiant Amplification or Decontextualized...by O Sadler · 2022 · Cited by 63 — Communication scholars have studied how prot...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051221094769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDefiant Amplification or Decontextualized...by O Sadler · 2022 · Cited by 63 — Communication scholars have studied how prot...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/282475006_Mass-Mediated_Protest_Music_and_Mobilization_Synthesizing_the_Civil_Sphere%27s_EMM-Framing_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282475006_Mass-Mediated_Protest_Music_and_Mobilization_Synthesizing_the_Civil_Sphere%27s_EMM-Framing_Theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass-Mediated Protest Music and Mobilization9 Aug 2025 — In her analysis, Brooks (2015) introduces &quot;celebrity thought leaders&quot; as popular...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/282475006_Mass-Mediated_Protest_Music_and_Mobilization_Synthesizing_the_Civil_Sphere%27s_EMM-Framing_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282475006_Mass-Mediated_Protest_Music_and_Mobilization_Synthesizing_the_Civil_Sphere%27s_EMM-Framing_Theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mass-Mediated Protest Music and Mobilization9 Aug 2025 — In her analysis, Brooks (2015) introduces &quot;celebrity thought leaders&quot; as popular...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gtr.ukri.org  
-   Link: <a href="https://gtr.ukri.org/projects?ref=AH%2FT006390%2F1" target="_blank" rel="noopener noreferrer nofollow">https://gtr.ukri.org/projects?ref=AH%2FT006390%2F1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subversive Voice? The history and politics of English...This project will deepen our understanding of the political uses of music by foc...</p></details>
+   Link:<a href="https://gtr.ukri.org/projects?ref=AH%2FT006390%2F1" target="_blank" rel="noopener noreferrer nofollow">https://gtr.ukri.org/projects?ref=AH%2FT006390%2F1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subversive Voice? The history and politics of English...This project will deepen our understanding of the political uses of music by foc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ir.kiu.ac.ug  
-   Link: <a href="https://ir.kiu.ac.ug/bitstreams/ffe4a423-44b6-4ba9-b969-1e6e2df9cdf7/download" target="_blank" rel="noopener noreferrer nofollow">https://ir.kiu.ac.ug/bitstreams/ffe4a423-44b6-4ba9-b969-1e6e2df9cdf7/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Music on Social MovementsMusic has long served as a vital force within social movements, articulating collective identity, a...</p></details>
+   Link:<a href="https://ir.kiu.ac.ug/bitstreams/ffe4a423-44b6-4ba9-b969-1e6e2df9cdf7/download" target="_blank" rel="noopener noreferrer nofollow">https://ir.kiu.ac.ug/bitstreams/ffe4a423-44b6-4ba9-b969-1e6e2df9cdf7/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Music on Social MovementsMusic has long served as a vital force within social movements, articulating collective identity, a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: The study aims to provide an integrative vision of all types  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10162496/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10162496/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>movements and collective behavior: an integration of...by S da Costa · 2023 · Cited by 43 — This study examines the conceptualizations o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10162496/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10162496/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>movements and collective behavior: an integration of...by S da Costa · 2023 · Cited by 43 — This study examines the conceptualizations o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Class Consciousness and the Piopaganda Song The sociologist R  
-   Link: <a href="https://www.researchgate.net/publication/229733484_Protest_Movements_Class_Consciousness_and_the_Piopaganda_Song" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229733484_Protest_Movements_Class_Consciousness_and_the_Piopaganda_Song</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Serge Denisoff (1968) sees protest songs in terms of their function, which he deems to be a form of propaganda. Denisoff categorizes protest...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/229733484_Protest_Movements_Class_Consciousness_and_the_Piopaganda_Song" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229733484_Protest_Movements_Class_Consciousness_and_the_Piopaganda_Song</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serge Denisoff (1968) sees protest songs in terms of their function, which he deems to be a form of propaganda. Denisoff categorizes protest...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ional and symbolic tools in social movements, helping to articulate collective...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394952031_The_Role_of_Protest_Music_in_Social_Movements_and_Youth_Activism_Across_Eras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ional and symbolic tools in social movements, helping to articulate collective...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: voidnetwork.gr  
-   Link: <a href="https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf" target="_blank" rel="noopener noreferrer nofollow">https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ration of how songs help mobilize protest and create group solidarity in...Read more...</p></details>
+   Link:<a href="https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf" target="_blank" rel="noopener noreferrer nofollow">https://voidnetwork.gr/wp-content/uploads/2016/09/Music-and-social-movements-Mobilizing-traditions-in-the-twentieth-century-by-Ron-Eyerman-and-Andrew-Jamison.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ration of how songs help mobilize protest and create group solidarity in...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 392620891 The Influence of Music on Social Movements  
-   Link: <a href="https://www.researchgate.net/publication/392620891_The_Influence_of_Music_on_Social_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392620891_The_Influence_of_Music_on_Social_Movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of Music on Social Movements12 Jun 2025 — Music has long served as a vital force within social movements, articulating coll...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392620891_The_Influence_of_Music_on_Social_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392620891_The_Influence_of_Music_on_Social_Movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of Music on Social Movements12 Jun 2025 — Music has long served as a vital force within social movements, articulating coll...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: faculty.sites.uci.edu  
    Title: 2001 Polletta and Jasper Collective Identity  
-   Link: <a href="https://faculty.sites.uci.edu/polletta/files/2011/03/2001-Polletta-and-Jasper-Collective-Identity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.sites.uci.edu/polletta/files/2011/03/2001-Polletta-and-Jasper-Collective-Identity.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDENTITY AND SOCIAL MOVEMENTSby F Polletta · 2001 · Cited by 5195 — In the following, we examine the role of identity in four phases of p...</p></details>
+   Link:<a href="https://faculty.sites.uci.edu/polletta/files/2011/03/2001-Polletta-and-Jasper-Collective-Identity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.sites.uci.edu/polletta/files/2011/03/2001-Polletta-and-Jasper-Collective-Identity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDENTITY AND SOCIAL MOVEMENTSby F Polletta · 2001 · Cited by 5195 — In the following, we examine the role of identity in four phases of p...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ips-journal.eu  
    Title: the new sound of resistance 8933  
-   Link: <a href="https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/" target="_blank" rel="noopener noreferrer nofollow">https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The quiet power of protest songs – Democracy and society11 Mar 2026 — When a song keeps us awake at night or forces us to question our ow...</p></details>
+   Link:<a href="https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/" target="_blank" rel="noopener noreferrer nofollow">https://www.ips-journal.eu/topics/democracy-and-society/the-new-sound-of-resistance-8933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The quiet power of protest songs – Democracy and society11 Mar 2026 — When a song keeps us awake at night or forces us to question our ow...</p></details>

@@ -504,24 +504,24 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5-overview-social.j
 Harmony changes musical emotion by changing what the ear expects, how stable the music feels, and how strongly a moment seems to ask for continuation or resolution. The same [melody]({{ 'melody/' | relative_url }}) can sound tender, bleak, heroic, comic or suspended when placed over different chords because harmony supplies a moving emotional frame: it can make a note feel like home, like a question, like a wound, or like a doorway. This matters because much of music’s feeling arrives before any lyric, story or image tells us what to feel.
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-overview.webp" | relative_url }}" alt="Overview image for Harmony" loading="eager" decoding="sync" fetchpriority="high">
-Harmony is not a simple code in which one chord always means one emotion. Research on musical expectation shows that listeners respond to patterns that are satisfied, delayed or disrupted, and harmonic context is one of the main ways music creates those patterns. The emotional result depends on the chord itself, the progression around it, the listener’s cultural experience, and the wider musical setting of tempo, [timbre]({{ 'timbre/' | relative_url }}), [rhythm]({{ 'rhythm/' | relative_url }}) and performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wires.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wires.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.mus.cam.ac.uk/projects/expectation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.mus.cam.ac.uk">[Centre for Music and Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.mus.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Music and ScienceExpectation &#124; Centre for Music and ScienceAs the music continues, the expectations can variously be satisfied...</span></span></span>
+Harmony is not a simple code in which one chord always means one emotion. Research on musical expectation shows that listeners respond to patterns that are satisfied, delayed or disrupted, and harmonic context is one of the main ways music creates those patterns. The emotional result depends on the chord itself, the progression around it, the listener’s cultural experience, and the wider musical setting of tempo, [timbre]({{ 'timbre/' | relative_url }}), [rhythm]({{ 'rhythm/' | relative_url }}) and performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wires.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wires.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.mus.cam.ac.uk/projects/expectation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.mus.cam.ac.uk">[Centre for Music and Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.mus.cam.ac.uk</span><span class="citation-popover-snippet">Centre for Music and ScienceExpectation &#124; Centre for Music and ScienceAs the music continues, the expectations can variously be satisfied...</span></span></span>
 
 ## Chords and emotional colour
 
-A chord is more than several notes sounding together. In tonal music, it is a cue about emotional temperature and direction. A major triad is often heard in Western contexts as brighter or more positive, while a minor triad is often heard as darker or more sorrowful; diminished and augmented sonorities can suggest suspense, instability or strangeness. Large music datasets and computational work often encode these associations because they are common enough in Western repertoires to be useful for analysing harmony at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41597-023-02410-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">ChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</span></span></span>
+A chord is more than several notes sounding together. In tonal music, it is a cue about emotional temperature and direction. A major triad is often heard in Western contexts as brighter or more positive, while a minor triad is often heard as darker or more sorrowful; diminished and augmented sonorities can suggest suspense, instability or strangeness. Large music datasets and computational work often encode these associations because they are common enough in Western repertoires to be useful for analysing harmony at scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41597-023-02410-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">ChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</span></span></span>
 
 Yet the word “often” is doing important work. A single minor chord does not automatically make a piece sad. A minor harmony in a fast dance track can feel fierce, sensual or exhilarating; a major harmony in a slow, sparse setting can feel nostalgic, fragile or even painful. Harmony gives the melody a colour, but the colour is mixed with rhythm, register, loudness, instrumentation and genre [memory]({{ 'memory/' | relative_url }}).
 
 One useful way to hear this is to imagine a simple melody note. If the chord underneath treats that note as the root of a stable harmony, the moment may feel grounded. If the chord makes the same note into a suspended or clashing tone, it may feel yearning or unresolved. If the chord reinterprets the note as part of a surprising new key area, the same sound can feel like a turn in the story. Harmony changes emotion because it changes the role a note seems to be playing.
 
-Empirical studies support this more flexible view. A 2025 study on major and minor chords found that listeners rated major chords as more pleasant and less tense than minor chords when heard as isolated sonorities, but the emotional effect changed when the chords appeared as endings within progressions. Stable terminations strengthened the major–minor contrast, while unstable terminations reduced it, showing that progression and context shape the emotion of the chord itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
+Empirical studies support this more flexible view. A 2025 study on major and minor chords found that listeners rated major chords as more pleasant and less tense than minor chords when heard as isolated sonorities, but the emotional effect changed when the chords appeared as endings within progressions. Stable terminations strengthened the major–minor contrast, while unstable terminations reduced it, showing that progression and context shape the emotion of the chord itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-1-dark.svg" | relative_url }}" alt="Harmony illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tension, release and surprise
 
 Harmony is especially powerful because it controls tension over time. In tonal music, some chords feel settled, while others feel as if they lean towards another chord. A dominant chord, a suspension, a chromatic passing harmony or a delayed cadence can make the listener wait. When the expected resolution arrives, the feeling may be relief, satisfaction, triumph or calm. When it does not arrive, the feeling may be suspense, ache, humour, shock or unease.
 
-This expectation mechanism is central to many theories of musical emotion. Research on musical expectation describes listening as an active process in which the brain predicts what is likely to happen next; those predictions can be confirmed, postponed or violated, and the emotional effect comes partly from that dynamic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wires.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wires.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</span></span></span>
+This expectation mechanism is central to many theories of musical emotion. Research on musical expectation describes listening as an active process in which the brain predicts what is likely to happen next; those predictions can be confirmed, postponed or violated, and the emotional effect comes partly from that dynamic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wires.onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wires.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</span></span></span>
 
 Harmony can create tension in several overlapping ways:
 
@@ -531,7 +531,7 @@ Harmony can create tension in several overlapping ways:
 * **[Surprise]({{ 'surprise/' | relative_url }}):** a chord arrives that is plausible enough to make musical sense but unexpected enough to change the emotional scene.
 * **Ambiguity:** the harmony withholds a clear tonal centre, making the music feel floating, mysterious or unsettled.
 
-Consonance and dissonance are not simply “nice” and “bad”. Consonant harmonies are commonly associated with smoothness and stability, while dissonant harmonies often create tension and the expectation of resolution; however, mild dissonance can be highly attractive because it adds richness, movement and emotional edge. One study found that mildly dissonant chords such as major ninths, minor ninths and minor sevenths were rated highly for preference, challenging the assumption that maximum consonance is always the most pleasing sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Consonance and dissonance are not simply “nice” and “bad”. Consonant harmonies are commonly associated with smoothness and stability, while dissonant harmonies often create tension and the expectation of resolution; however, mild dissonance can be highly attractive because it adds richness, movement and emotional edge. One study found that mildly dissonant chords such as major ninths, minor ninths and minor sevenths were rated highly for preference, challenging the assumption that maximum consonance is always the most pleasing sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is why emotionally affecting harmony often lives between comfort and disturbance. Too little tension can make a progression feel static; too much can make it feel incoherent or exhausting. The expressive art lies in how much pressure the music builds, how long it asks the listener to wait, and how convincingly it releases or redirects that pressure.
 
@@ -545,14 +545,14 @@ A melody note can feel different depending on the chord underneath it. Over one 
 
 This is also why film music and songwriting often use harmony to steer emotional interpretation. A simple rising line can sound hopeful if the harmony supports expansion, tragic if the bass moves down beneath it, or unresolved if the cadence avoids closure. In each case, harmony changes the listener’s sense of where the music is going.
 
-Recent computational work on emotion-driven harmonisation makes the same point from the opposite direction. The task is to give the same or similar melodic material different emotional qualities by choosing different harmonic contexts. A 2024 paper on emotion-driven melody harmonisation noted that changing perceived emotional valence through chords alone can be difficult because the melody itself imposes constraints, but it also treated key-aware harmony as central to shaping emotional character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.20176" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Recent computational work on emotion-driven harmonisation makes the same point from the opposite direction. The task is to give the same or similar melodic material different emotional qualities by choosing different harmonic contexts. A 2024 paper on emotion-driven melody harmonisation noted that changing perceived emotional valence through chords alone can be difficult because the melody itself imposes constraints, but it also treated key-aware harmony as central to shaping emotional character.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.20176" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-2-dark.svg" | relative_url }}" alt="Harmony illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why context matters more than formula
 
-The common shortcut “major equals happy, minor equals sad” is useful only as a beginner’s doorway. It describes a strong convention in much Western listening, not a universal law of feeling. A 2025 systematic review and meta-analysis of major–minor perception concluded that sensitivity and emotional evaluation are influenced by [culture]({{ 'culture/' | relative_url }}), age, musical expertise and health, and that major–minor associations arise from an interplay of psychoacoustic features and cultural influences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
+The common shortcut “major equals happy, minor equals sad” is useful only as a beginner’s doorway. It describes a strong convention in much Western listening, not a universal law of feeling. A 2025 systematic review and meta-analysis of major–minor perception concluded that sensitivity and emotional evaluation are influenced by [culture]({{ 'culture/' | relative_url }}), age, musical expertise and health, and that major–minor associations arise from an interplay of psychoacoustic features and cultural influences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
 
-Cross-cultural research makes the warning sharper. Studies involving Tsimané listeners from the Bolivian Amazon found that preferences for consonance over dissonance, so familiar among many Western listeners, were absent or much weaker in groups with less exposure to Western music, while aversion to acoustic roughness remained a more robust factor. Later work found that greater integration with global and Bolivian culture was associated with a small but significant increase in consonance preference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcdermottlab.mit.edu">[McDermott Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcdermottlab.mit.edu</span><span class="citation-popover-title">Mc Dermott Lab Indifference to dissonance in native Amazonians reveals</span><span class="citation-popover-snippet">Mc Dermott Lab Indifference to dissonance in native Amazonians reveals</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Cross-cultural research makes the warning sharper. Studies involving Tsimané listeners from the Bolivian Amazon found that preferences for consonance over dissonance, so familiar among many Western listeners, were absent or much weaker in groups with less exposure to Western music, while aversion to acoustic roughness remained a more robust factor. Later work found that greater integration with global and Bolivian culture was associated with a small but significant increase in consonance preference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcdermottlab.mit.edu">[McDermott Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcdermottlab.mit.edu</span><span class="citation-popover-title">Mc Dermott Lab Indifference to dissonance in native Amazonians reveals</span><span class="citation-popover-snippet">Mc Dermott Lab Indifference to dissonance in native Amazonians reveals</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This does not mean harmony is arbitrary. Some aspects of sound, such as roughness, beating and spectral overlap, affect perception in ways that are grounded in hearing. But the emotional meaning of harmony is learned through musical life: the songs heard in childhood, the genres a listener knows, the worship music, [dance music]({{ 'dance-music/' | relative_url }}), film scores, games, clubs, choirs, radio hits and family rituals that teach the ear what certain progressions tend to imply.
 
@@ -564,7 +564,7 @@ Context also works inside the piece itself. A chord that feels shocking early on
 
 [Unresolved harmony]({{ 'unresolved-harmony/' | relative_url }}) is powerful because it keeps the listener emotionally open. A cadence that stops just short of home, a repeated loop that never lands, or a chord with a suspended note can make music feel as if it is still thinking, still wanting, still becoming. This is why unresolved harmony often suits longing, grief, suspense, spiritual awe and romantic uncertainty.
 
-The effect depends on prediction. If listeners sense where the music “should” go, then the delay becomes meaningful. Research on contextual prediction and musical tension has shown that perceived tension is shaped by how predictable the surrounding context is: expectation does not operate in a vacuum, but through the pattern the listener has already been given. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
+The effect depends on prediction. If listeners sense where the music “should” go, then the delay becomes meaningful. Research on contextual prediction and musical tension has shown that perceived tension is shaped by how predictable the surrounding context is: expectation does not operate in a vacuum, but through the pattern the listener has already been given.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</span></span></span>
 
 A suspended chord is a compact example. One note is held over from a previous harmony or placed where the ear expects a more stable tone. The chord does not sound wrong; it sounds unfinished. When the suspension resolves, the emotional charge comes partly from the small bodily sense of settling. If the resolution is delayed, repeated or denied, that small charge can become the expressive centre of a phrase.
 
@@ -582,194 +582,194 @@ For listeners, the practical takeaway is simple: when music seems to change emot
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HhnxOu1p-W0" title="Music and the Brain: From Mode to Emotion in Musical Communication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HhnxOu1p-W0" target="_blank" rel="noopener noreferrer">Music and the Brain: From Mode to Emotion in Musical Communication</a></p><p class="youtube-embed-meta">Channel: Library of Congress &middot; Views: 35.1K &middot; Uploaded: July 2009 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HhnxOu1p-W0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HhnxOu1p-W0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Harmony Changes What Music Means. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Harmony Changes What Music Means. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains why listeners respond emotionally to musical structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why listeners respond emotionally to musical structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explores how musical meaning emerges from context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how musical meaning emerges from context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emotion and meaning in music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5397225-M.jpg" alt="Cover for Emotion and meaning in music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emotion and meaning in music">Emotion and meaning in music</a>
-        </h4>
-        <p class="fr-book-author">By Leonard B. Meyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emotion and meaning in music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5397225-M.jpg" alt="Cover for Emotion and meaning in music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emotion and meaning in music">Emotion and meaning in music</a>
+</h4>
+<p class="fr-book-author">By Leonard B. Meyer</p>
         
-        <p class="fr-book-desc">First published 1956. Subjects: Emotions in music, Music, Philosophy and aesthetics, Psychological aspects, Psychological aspects of Music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1956. Subjects: Emotions in music, Music, Philosophy and aesthetics, Psychological aspects, Psychological aspects of Music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music+Leonard+B.+Meyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
-        </h4>
-        <p class="fr-book-author">By David Huron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
+</h4>
+<p class="fr-book-author">By David Huron</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emotion and meaning in music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Emotion+and+meaning+in+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emotion and meaning in music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/64f645da7024539237af.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/64f645da7024539237af.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/a2f3bc39e2be0bd37281.jpg' | relative_url }}" alt="Listing image for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/a2f3bc39e2be0bd37281.jpg' | relative_url }}" alt="Listing image for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/2b9ff606606f5db5bb91.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/2b9ff606606f5db5bb91.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/d73a4f9f35354595d86c.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/d73a4f9f35354595d86c.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="harmony-how-harmony-changes-what-music-means-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -785,7 +785,7 @@ For listeners, the practical takeaway is simple: when music seems to change emot
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -805,7 +805,7 @@ For listeners, the practical takeaway is simple: when music seems to change emot
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -837,7 +837,7 @@ For listeners, the practical takeaway is simple: when music seems to change emot
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -889,7 +889,7 @@ For listeners, the practical takeaway is simple: when music seems to change emot
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -934,7 +934,7 @@ For listeners, the practical takeaway is simple: when music seems to change emot
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -975,132 +975,132 @@ For listeners, the practical takeaway is simple: when music seems to change emot
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wires.onlinelibrary.wiley.com  
-   Link: <a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</p></details>
+   Link:<a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1262</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe role of expectation in music: from the score to emotions...7 Nov 2013 — Rhythm and harmony also induce tensions...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691825000034" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825000034</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moderating effects of chord progressions on the emotional...by J Zhang · 2025 · Cited by 5 — This study investigates whethe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41597-023-02410-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41597-023-02410-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41597-023-02410-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41597-023-02410-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChoCo: a Chord Corpus and a Data Transformation...by J de Berardinis · 2023 · Cited by 39 — In this regard, harmony exerts an affe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4934671/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2407.20176" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.20176</a>  
+   Link:<a href="https://arxiv.org/abs/2407.20176" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.20176</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064524001672</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1571064524001672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1571064524001672</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8833847/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725002744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725002744</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027725002744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725002744</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262621000919</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-34345-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-34345-y</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-023-34345-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-34345-y</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-019-55781-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-019-55781-9</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-019-55781-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-019-55781-9</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-018-35873-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-018-35873-8</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-018-35873-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-018-35873-8</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-022-07300-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-07300-6</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-022-07300-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-07300-6</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-65615-8</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-020-65615-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-65615-8</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub</a>  
+   Link:<a href="https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature/journal/v535/n7613/pdf/nature18635.pdf?origin=ppub</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-021-01393-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-01393-1</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-021-01393-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-021-01393-1</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-13064-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-13064-6.pdf</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-025-13064-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-13064-6.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-08956-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-08956-6</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-025-08956-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-08956-6</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cms.mus.cam.ac.uk  
-   Link: <a href="https://cms.mus.cam.ac.uk/projects/expectation/" target="_blank" rel="noopener noreferrer nofollow">https://cms.mus.cam.ac.uk/projects/expectation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for Music and ScienceExpectation | Centre for Music and ScienceAs the music continues, the expectations can variously be satisfied...</p></details>
+   Link:<a href="https://cms.mus.cam.ac.uk/projects/expectation/" target="_blank" rel="noopener noreferrer nofollow">https://cms.mus.cam.ac.uk/projects/expectation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centre for Music and ScienceExpectation | Centre for Music and ScienceAs the music continues, the expectations can variously be satisfied...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mcdermottlab.mit.edu  
    Title: Mc Dermott Lab Indifference to dissonance in native Amazonians reveals  
-   Link: <a href="https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf</a>  
+   Link:<a href="https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mcdermottlab.mit.edu/papers/McDermott_etal_2016_consonance.pdf</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: How to Modulate to ANY Key (Easy to Difficult)  
-   Link: <a href="http://www.youtube.com/watch?v=Z4MSF3hIznE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Z4MSF3hIznE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How chords change musical emotion harmony theory Which Chord Sequences Produce Which Emotions (A Complete Map Of The Tonal System) Pur Pa...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Z4MSF3hIznE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Z4MSF3hIznE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How chords change musical emotion harmony theory Which Chord Sequences Produce Which Emotions (A Complete Map Of The Tonal System) Pur Pa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=n6MViTAfNio" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=n6MViTAfNio</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How I wish HARMONY was explained to me as a student...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=n6MViTAfNio" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=n6MViTAfNio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How I wish HARMONY was explained to me as a student...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension</a>  
+   Link:<a href="https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43165473/Cultural_familiarity_and_musical_expertise_impact_the_pleasantness_of_consonance_dissonance_but_not_its_perceived_tension</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download</a>  
+   Link:<a href="https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405376387_Chords_as_Emotional_Expression_in_Music_A_Review_of_Concepts_and_Musical_Experience/download</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: noisyclan.com  
-   Link: <a href="https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT" target="_blank" rel="noopener noreferrer nofollow">https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT</a>  
+   Link:<a href="https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT" target="_blank" rel="noopener noreferrer nofollow">https://noisyclan.com/blogs/songwriting/harmonic-journeys-decoding-emotional-qualities-of-4-chord-progressions?srsltid=AfmBOoooKQEviVtj2FlKXnRMfBbL6SpyqmwUXwkd7gklfRest6M5LukT</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/</a>  
+   Link:<a href="https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicology/comments/1jwzeg7/harmony_emotions_researxh/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: neurohaven.co.uk  
-   Link: <a href="https://neurohaven.co.uk/how-music-evokes-emotion" target="_blank" rel="noopener noreferrer nofollow">https://neurohaven.co.uk/how-music-evokes-emotion</a>  
+   Link:<a href="https://neurohaven.co.uk/how-music-evokes-emotion" target="_blank" rel="noopener noreferrer nofollow">https://neurohaven.co.uk/how-music-evokes-emotion</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/480749852301325/posts/2179325655777061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/480749852301325/posts/2179325655777061/</a>  
+   Link:<a href="https://www.facebook.com/groups/480749852301325/posts/2179325655777061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/480749852301325/posts/2179325655777061/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Indifference-to-dissonance-in-native-Amazonians-in-McDermott-Schultz/3174862d380bedf4bdfadbfa7c999016174594e0</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/</a>
+   Link:<a href="https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musictheory/comments/1antb2y/is_minormajor_chords_feeling_sadhappy_a_cultural/</a>

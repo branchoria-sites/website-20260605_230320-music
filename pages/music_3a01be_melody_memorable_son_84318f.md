@@ -501,18 +501,18 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f-overview-social.j
 
 ## Introduction
 
-Melody is often the part of a song that survives longest in [memory]({{ 'memory/' | relative_url }}). People may forget a drum pattern, a chord progression or even some of the [lyrics]({{ 'lyrics/' | relative_url }}), yet still be able to hum a tune years later. That is not an accident. Melody gives the brain a clear sequence of pitches to follow, predict and rehearse. It creates a recognisable shape that can be recalled even when other musical details fade. Research in music cognition suggests that melody helps memory by combining pattern, expectation, repetition and emotion into a form that is easy for listeners to mentally replay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
+Melody is often the part of a song that survives longest in [memory]({{ 'memory/' | relative_url }}). People may forget a drum pattern, a chord progression or even some of the [lyrics]({{ 'lyrics/' | relative_url }}), yet still be able to hum a tune years later. That is not an accident. Melody gives the brain a clear sequence of pitches to follow, predict and rehearse. It creates a recognisable shape that can be recalled even when other musical details fade. Research in music cognition suggests that melody helps memory by combining pattern, expectation, repetition and emotion into a form that is easy for listeners to mentally replay.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f-overview.webp" | relative_url }}" alt="Overview image for Melody" loading="eager" decoding="sync" fetchpriority="high">
 This helps explain why songs become singable, quotable and emotionally meaningful. A memorable melody does more than decorate a song. It provides the structure that listeners carry away with them.
 
 ## Melodic Shape Gives the Brain Something to Follow
 
-A melody is not simply a collection of notes. It is a path through time. As pitches rise, fall, repeat and resolve, listeners begin forming expectations about what might happen next. The brain is constantly predicting upcoming musical events, and those predictions help create durable memories. Studies of melodic expectation have found that expected and unexpected notes influence how melodies are perceived and remembered. A tune that balances familiarity with small surprises tends to remain engaging while still being easy to learn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
+A melody is not simply a collection of notes. It is a path through time. As pitches rise, fall, repeat and resolve, listeners begin forming expectations about what might happen next. The brain is constantly predicting upcoming musical events, and those predictions help create durable memories. Studies of melodic expectation have found that expected and unexpected notes influence how melodies are perceived and remembered. A tune that balances familiarity with small surprises tends to remain engaging while still being easy to learn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
 
 One reason melodies are memorable is that they create distinctive contours. Even without musical training, people can recognise whether a tune generally climbs, falls or returns to a central pitch. These broad shapes are easier to store than a long list of individual notes. A listener may not remember exact intervals, but they often remember the overall journey of the melody.
 
-Research comparing melody and [rhythm]({{ 'rhythm/' | relative_url }}) in long-term recognition has found that pitch structure can be especially important for identifying familiar music. When melodies are preserved but rhythmic details are altered, recognition often remains surprisingly strong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/BF03201127" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Recognition of music in long-term memory: Are melodic and...by S Hbert  1997  Cited by 219  The notion that the melody (i.e...</span></span></span>
+Research comparing melody and [rhythm]({{ 'rhythm/' | relative_url }}) in long-term recognition has found that pitch structure can be especially important for identifying familiar music. When melodies are preserved but rhythmic details are altered, recognition often remains surprisingly strong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/BF03201127" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Recognition of music in long-term memory: Are melodic and...by S Hbert  1997  Cited by 219  The notion that the melody (i.e...</span></span></span>
 
 In practical terms, this means that a song's identity frequently lives in its melodic outline. A few notes from the opening of a well-known tune can be enough to trigger recognition.
 
@@ -520,7 +520,7 @@ In practical terms, this means that a song's identity frequently lives in its me
 
 If a melody were completely unpredictable, it would be difficult to remember. If it were entirely predictable, it would quickly become boring. Successful melodies tend to occupy the space between those extremes.
 
-Music psychologists have long argued that expectation plays a central role in musical enjoyment. Listeners unconsciously learn the statistical patterns of the music around them. When a melody follows those patterns closely enough to feel coherent but occasionally departs from them, attention increases and memory strengthens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
+Music psychologists have long argued that expectation plays a central role in musical enjoyment. Listeners unconsciously learn the statistical patterns of the music around them. When a melody follows those patterns closely enough to feel coherent but occasionally departs from them, attention increases and memory strengthens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
 
 Many famous melodies use this principle:
 
@@ -535,18 +535,18 @@ Many famous melodies use this principle:
 
 This cycle of confirmation and [surprise]({{ 'surprise/' | relative_url }}) creates mental landmarks. Those landmarks make the melody easier to retrieve later.
 
-Research into songs that become "earworms"tunes that repeat involuntarily in the mindhas found that memorable melodies often combine common, easily processed contours with distinctive features such as unusual intervals or striking repetitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski  Cited by 137  Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</span></span></span>
+Research into songs that become "earworms"tunes that repeat involuntarily in the mindhas found that memorable melodies often combine common, easily processed contours with distinctive features such as unusual intervals or striking repetitions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski  Cited by 137  Involuntar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f-Illustration-1-dark.svg" | relative_url }}" alt="Melody illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Choruses Stay With Us
 
 When people remember a song, they usually remember the chorus first. That is partly because choruses concentrate the strongest melodic material into a repeated section.
 
-Repetition is one of the most reliable tools for strengthening memory. Every return of a chorus gives the brain another opportunity to encode the same melodic pattern. Repeated exposure improves familiarity, and familiarity improves recall. Studies of involuntary musical imagery and earworms consistently identify repetition as a major factor in why certain melodies persist in memory. PMC PubMed A memorable chorus often has several characteristics: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[washingtonpost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span>
+Repetition is one of the most reliable tools for strengthening memory. Every return of a chorus gives the brain another opportunity to encode the same melodic pattern. Repeated exposure improves familiarity, and familiarity improves recall. Studies of involuntary musical imagery and earworms consistently identify repetition as a major factor in why certain melodies persist in memory. PMC PubMed A memorable chorus often has several characteristics:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[washingtonpost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A clear and relatively simple melodic contour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspiredbybeatz.com">[inspiredbybeatz.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspiredbybeatz.com</span><span class="citation-popover-snippet">Earworms: Understand Why Songs Get Stuck In Your HeadResearch from Goldsmiths University of London has revealed that earworms share disti...</span></span></span>
+* A clear and relatively simple melodic contour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspiredbybeatz.com">[inspiredbybeatz.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspiredbybeatz.com</span><span class="citation-popover-snippet">Earworms: Understand Why Songs Get Stuck In Your HeadResearch from Goldsmiths University of London has revealed that earworms share disti...</span></span></span>
 * Repeated phrases.
 * A comfortable vocal range.
 * Strong alignment between melody and lyrical rhythm.
@@ -556,7 +556,7 @@ Repetition is one of the most reliable tools for strengthening memory. Every ret
 
 These qualities make a melody easy to sing internally as well as aloud. The easier a tune is to reproduce, the more likely listeners are to rehearse it mentally after the music stops.
 
-Research on earworms has found that many persist because listeners unconsciously engage in "inner singing", effectively replaying the melody using working-memory resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7704448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by LA Liikkanen  2020  Cited by 65  Repetition is a common element of the experience, resulting in the experience colloquially know...</span></span></span>
+Research on earworms has found that many persist because listeners unconsciously engage in "inner singing", effectively replaying the melody using working-memory resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7704448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by LA Liikkanen  2020  Cited by 65  Repetition is a common element of the experience, resulting in the experience colloquially know...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f-Illustration-2-dark.svg" | relative_url }}" alt="Melody illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Singability Turns Listening Into Participation
@@ -565,7 +565,7 @@ A memorable melody is often a singable melody. When listeners can imagine themse
 
 This matters because memory improves when information is rehearsed. Humming a melody, singing along in a car or mentally replaying a chorus all provide additional reinforcement. The melody becomes something people do rather than merely hear.
 
-Studies of earworms have shown that memorable songs frequently feature melodic patterns that are easy to vocalise. They often stay within manageable pitch ranges while including enough variation to remain distinctive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-snippet">Why earworms get stuck in your headThe large-scale study, involving 3,000 participants, showed that earworms are usually faster, with a f...</span></span></span>
+Studies of earworms have shown that memorable songs frequently feature melodic patterns that are easy to vocalise. They often stay within manageable pitch ranges while including enough variation to remain distinctive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.com">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.com</span><span class="citation-popover-snippet">Why earworms get stuck in your headThe large-scale study, involving 3,000 participants, showed that earworms are usually faster, with a f...</span></span></span>
 
 Children's songs provide a clear example. Many survive across generations not because they contain sophisticated musical ideas but because their melodies are easy to learn, repeat and reproduce. The same principle appears in modern pop, where memorable [hooks]({{ 'hooks/' | relative_url }}) are frequently designed around highly singable melodic fragments.
 
@@ -575,7 +575,7 @@ This does not mean complex melodies cannot be memorable. Rather, even sophistica
 
 Melodies do more than organise pitches. They also help organise emotional experience.
 
-Neuroscience research shows that music engages brain regions associated with emotion, reward and memory, including structures such as the hippocampus and amygdala. Emotional responses strengthen the likelihood that experiences will be remembered, which helps explain why particular melodies can remain vivid decades after first hearing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.hms.harvard.edu">[Harvard Medicine Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.hms.harvard.edu</span><span class="citation-popover-snippet">Harvard Medicine MagazineHow Music Resonates in the Brain &#124; Harvard Medicine MagazineMusic also lights up nearly all of the brain  inclu...</span></span></span> Frontiers The connection works in both directions. A melody can trigger memories of people <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[research.gatech.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past2 Dec 2024  Our results suggest that music acts as an emotional lure, b...</span></span></span>, places and life events, while emotional experiences can strengthen memory for the associated music. Research has found that music and autobiographical memory are closely linked, with emotionally meaningful songs often producing especially vivid recollections. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[Georgia Tech Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past2 Dec 2024  Our results suggest that music acts as an emotional lure, b...</span></span></span>
+Neuroscience research shows that music engages brain regions associated with emotion, reward and memory, including structures such as the hippocampus and amygdala. Emotional responses strengthen the likelihood that experiences will be remembered, which helps explain why particular melodies can remain vivid decades after first hearing them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.hms.harvard.edu">[Harvard Medicine Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.hms.harvard.edu</span><span class="citation-popover-snippet">Harvard Medicine MagazineHow Music Resonates in the Brain &#124; Harvard Medicine MagazineMusic also lights up nearly all of the brain  inclu...</span></span></span> Frontiers The connection works in both directions. A melody can trigger memories of people<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[research.gatech.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past2 Dec 2024  Our results suggest that music acts as an emotional lure, b...</span></span></span>, places and life events, while emotional experiences can strengthen memory for the associated music. Research has found that music and autobiographical memory are closely linked, with emotionally meaningful songs often producing especially vivid recollections. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.gatech.edu">[Georgia Tech Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia Tech ResearchMusic Can Change How You Feel About the Past2 Dec 2024  Our results suggest that music acts as an emotional lure, b...</span></span></span>
 
 This emotional dimension helps explain why listeners often remember melodies more readily than theoretical details about the music. People may not recall the key, scale or harmonic analysis of a song, but they remember how the melody felt and where it appeared in their lives.
 
@@ -591,7 +591,7 @@ Research suggests that earworm melodies are not random. They often share several
 * Simple, recognisable contours.
 * Moderate predictability.
 * Distinctive intervals or rhythmic accents.
-* Frequent exposure through listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski  Cited by 137  Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</span></span></span>
+* Frequent exposure through listening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski  Cited by 137  Involuntar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</span></span></span>
 
 Importantly, memorable does not necessarily mean musically simple. Many successful melodies combine familiar patterns with one or two distinctive features that separate them from countless competing tunes.
 
@@ -602,197 +602,197 @@ The result is a melody that feels easy enough to learn quickly but distinctive e
 
 When listeners remember a song years later, what often survives is not the production style, [recording]({{ 'recording/' | relative_url }}) quality or even the exact lyrics. It is the melodic line.
 
-Melody gives music a recognisable identity. It provides a sequence that can be mentally replayed, emotionally reinforced and repeatedly rehearsed through singing and listening. Its shape helps listeners predict what comes next, its repetition strengthens memory, and its emotional associations connect songs to personal experience. Together, those mechanisms explain why a handful of notes can instantly bring an entire song back to mind long after everything else has faded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/BF03201127" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Recognition of music in long-term memory: Are melodic and...by S Hbert  1997  Cited by 219  The notion that the melody (i.e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
+Melody gives music a recognisable identity. It provides a sequence that can be mentally replayed, emotionally reinforced and repeatedly rehearsed through singing and listening. Its shape helps listeners predict what comes next, its repetition strengthens memory, and its emotional associations connect songs to personal experience. Together, those mechanisms explain why a handful of notes can instantly bring an entire song back to mind long after everything else has faded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/BF03201127" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Recognition of music in long-term memory: Are melodic and...by S Hbert  1997  Cited by 219  The notion that the melody (i.e...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-title">Schmuckler melody1997</span><span class="citation-popover-snippet">Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some Melodies Stay In Your Head. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some Melodies Stay In Your Head. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains memory, expectation, and melodic recall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memory, expectation, and melodic recall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Discusses why songs and melodies connect with listeners.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses why songs and melodies connect with listeners.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Provides cases illustrating music’s grip on memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cases illustrating music’s grip on memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
-        </h4>
-        <p class="fr-book-author">By David Huron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
+</h4>
+<p class="fr-book-author">By David Huron</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-some-melodies-stay-in-your-head-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -808,7 +808,7 @@ Melody gives music a recognisable identity. It provides a sequence that can be m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -828,7 +828,7 @@ Melody gives music a recognisable identity. It provides a sequence that can be m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -860,7 +860,7 @@ Melody gives music a recognisable identity. It provides a sequence that can be m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -912,7 +912,7 @@ Melody gives music a recognisable identity. It provides a sequence that can be m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -957,7 +957,7 @@ Melody gives music a recognisable identity. It provides a sequence that can be m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -998,142 +998,142 @@ Melody gives music a recognisable identity. It provides a sequence that can be m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/BF03201127" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/BF03201127</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition of music in long-term memory: Are melodic and...by S Hbert  1997  Cited by 219  The notion that the melody (i.e...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/BF03201127" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/BF03201127</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recognition of music in long-term memory: Are melodic and...by S Hbert  1997  Cited by 219  The notion that the melody (i.e...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7704448/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7704448/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by LA Liikkanen  2020  Cited by 65  Repetition is a common element of the experience, resulting in the experience colloquially know...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7704448/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7704448/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by LA Liikkanen  2020  Cited by 65  Repetition is a common element of the experience, resulting in the experience colloquially know...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The song that never ends: The effect of repeated exposure on...by C Killingly  2023  Cited by 9  Previous research demonstrates th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The song that never ends: The effect of repeated exposure on...by C Killingly  2023  Cited by 9  Previous research demonstrates th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: magazine.hms.harvard.edu  
-   Link: <a href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow">https://magazine.hms.harvard.edu/articles/how-music-resonates-brain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Medicine MagazineHow Music Resonates in the Brain | Harvard Medicine MagazineMusic also lights up nearly all of the brain  inclu...</p></details>
+   Link:<a href="https://magazine.hms.harvard.edu/articles/how-music-resonates-brain" target="_blank" rel="noopener noreferrer nofollow">https://magazine.hms.harvard.edu/articles/how-music-resonates-brain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Medicine MagazineHow Music Resonates in the Brain | Harvard Medicine MagazineMusic also lights up nearly all of the brain  inclu...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat makes music memorable?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8121320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8121320/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationships between...by I Salakka  2021  Cited by 83  Music has a unique capacity to evoke both strong emotions and vivid autobiog...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8121320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8121320/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationships between...by I Salakka  2021  Cited by 83  Music has a unique capacity to evoke both strong emotions and vivid autobiog...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: brainmusic.org  
    Title: Schmuckler melody1997  
-   Link: <a href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</p></details>
+   Link:<a href="https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/MBB91%20Webpage/Schmuckler_melody1997.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicExpectancy Effects in Memory for Melodiesby MA SCHMUCKLER  1997  Cited by 70  Research in musical cognition on the factors...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski  Cited by 137  Involuntar...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski  Cited by 137  Involuntar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: durham-repository.worktribe.com  
-   Link: <a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</p></details>
+   Link:<a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski  2016  Cited by 137  The present study...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencefocus.com  
-   Link: <a href="https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why earworms get stuck in your headThe large-scale study, involving 3,000 participants, showed that earworms are usually faster, with a f...</p></details>
+   Link:<a href="https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/the-human-body/why-earworms-get-stuck-in-your-head</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why earworms get stuck in your headThe large-scale study, involving 3,000 participants, showed that earworms are usually faster, with a f...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</p></details>
+   Link:<a href="https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/interactive/2025/why-songs-get-stuck-in-your-head/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These musical snippets often persist due to their repetitive, simple, and singable nature. Upbeat and easily repeatable songs, especially...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Emotion on Musical Long-Term Memoryby C Nineuil  2020  Cited by 20  Our results showed that the emotional enhancement of...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02110/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Emotion on Musical Long-Term Memoryby C Nineuil  2020  Cited by 20  Our results showed that the emotional enhancement of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: research.gatech.edu  
    Title: music can change how you feel about past  
-   Link: <a href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow">https://research.gatech.edu/music-can-change-how-you-feel-about-past</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia Tech ResearchMusic Can Change How You Feel About the Past2 Dec 2024  Our results suggest that music acts as an emotional lure, b...</p></details>
+   Link:<a href="https://research.gatech.edu/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow">https://research.gatech.edu/music-can-change-how-you-feel-about-past</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia Tech ResearchMusic Can Change How You Feel About the Past2 Dec 2024  Our results suggest that music acts as an emotional lure, b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), melody, rhythm, or otherwise expressive content.Re...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Music" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MusicMusic is the arrangement of sound to create some combination of form, [harmony](&amp;#123;&amp;#123; &#x27;harmony/&#x27; | relative_url &amp;#125;&amp;#125;), melody, rhythm, or otherwise expressive content.Re...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bu.edu  
-   Link: <a href="https://www.bu.edu/synapse/2011/11/27/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/synapse/2011/11/27/earworms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Song Stuck in Your Head | SynapseNov 27, 2011  An earworm, a term derived from the German ohrwurm, is defined as a cognitive itch...</p></details>
+   Link:<a href="https://www.bu.edu/synapse/2011/11/27/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/synapse/2011/11/27/earworms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Song Stuck in Your Head | SynapseNov 27, 2011  An earworm, a term derived from the German ohrwurm, is defined as a cognitive itch...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: musicscience.net  
-   Link: <a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday terms as hav...</p></details>
+   Link:<a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday terms as hav...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-92679-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-92679-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music tempo modulates emotional states as revealed...by Z Yang  2025  Cited by 49  This study explores the impact of music tempo on e...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-92679-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-92679-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music tempo modulates emotional states as revealed...by Z Yang  2025  Cited by 49  This study explores the impact of music tempo on e...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227078544_Memory_for_Melodies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227078544_Memory_for_Melodies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Memory for MelodiesMemory for music presents a paradox. On the one hand, memory for music that people have already learned can be a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227078544_Memory_for_Melodies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227078544_Memory_for_Melodies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Memory for MelodiesMemory for music presents a paradox. On the one hand, memory for music that people have already learned can be a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: inspiredbybeatz.com  
-   Link: <a href="https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/" target="_blank" rel="noopener noreferrer nofollow">https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworms: Understand Why Songs Get Stuck In Your HeadResearch from Goldsmiths University of London has revealed that earworms share disti...</p></details>
+   Link:<a href="https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/" target="_blank" rel="noopener noreferrer nofollow">https://www.inspiredbybeatz.com/en/earworms-why-your-brain-plays-songs-on-repeat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earworms: Understand Why Songs Get Stuck In Your HeadResearch from Goldsmiths University of London has revealed that earworms share disti...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: musicpsychology.co.uk  
-   Link: <a href="https://musicpsychology.co.uk/music-emotion-and-the-brain/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/music-emotion-and-the-brain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music, emotion and the brainThe hippocampus is implicated in music-evoked positive emotions that can, in effect, pacify this system, redu...</p></details>
+   Link:<a href="https://musicpsychology.co.uk/music-emotion-and-the-brain/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/music-emotion-and-the-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music, emotion and the brainThe hippocampus is implicated in music-evoked positive emotions that can, in effect, pacify this system, redu...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/[culture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While Weiss easily perceives music, it evokes no emotional response, unlike most people for whom music activates the brain&#x27;s reward syste...</p></details>
+   Link:<a href="https://www.newyorker.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/[culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While Weiss easily perceives music, it evokes no emotional response, unlike most people for whom music activates the brain&#x27;s reward syste...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: a team of researchers from the uk and germany say that specific features of a tu  
-   Link: <a href="https://www.facebook.com/OfficialBPS/posts/a-team-of-researchers-from-the-uk-and-germany-say-that-specific-features-of-a-tu/1330574023640973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialBPS/posts/a-team-of-researchers-from-the-uk-and-germany-say-that-specific-features-of-a-tu/1330574023640973/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are responsible for some songs becoming earworms...4 Nov 2016  A team of researchers from the UK and Germany say that specific features...</p></details>
+   Link:<a href="https://www.facebook.com/OfficialBPS/posts/a-team-of-researchers-from-the-uk-and-germany-say-that-specific-features-of-a-tu/1330574023640973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialBPS/posts/a-team-of-researchers-from-the-uk-and-germany-say-that-specific-features-of-a-tu/1330574023640973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are responsible for some songs becoming earworms...4 Nov 2016  A team of researchers from the UK and Germany say that specific features...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5wh-WdbP-tE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5wh-WdbP-tE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How music, memory, and emotion are connected, with...Elizabeth Margulis, PhD, director of the Music Cognition Lab at Princeton Universit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5wh-WdbP-tE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5wh-WdbP-tE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How music, memory, and emotion are connected, with...Elizabeth Margulis, PhD, director of the Music Cognition Lab at Princeton Universit...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: unsw.edu.au  
    Title: ear resistible why there are some songs we simply can t get out  
-   Link: <a href="https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schubert says most reported earworms are the chorus of songs, which are inevitably the pieces of the music repeated the most. Most...Re...</p></details>
+   Link:<a href="https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schubert says most reported earworms are the chorus of songs, which are inevitably the pieces of the music repeated the most. Most...Re...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: durham.ac.uk  
    Title: the science of why you can remember song lyrics from years ago  
-   Link: <a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/08/the-science-of-why-you-can-remember-song-lyrics-from-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/08/the-science-of-why-you-can-remember-song-lyrics-from-years-ago/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The science of why you can remember song lyrics from...15 Aug 2023  Once a melody is familiar, the associated lyrics are generally easi...</p></details>
+   Link:<a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/08/the-science-of-why-you-can-remember-song-lyrics-from-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/08/the-science-of-why-you-can-remember-song-lyrics-from-years-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The science of why you can remember song lyrics from...15 Aug 2023  Once a melody is familiar, the associated lyrics are generally easi...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: durham.ac.uk  
    Title: why does music bring back memories what the science says  
-   Link: <a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does music bring back memories? What the science...10 Mar 2023  Music brings back memories of events, people and places from our pa...</p></details>
+   Link:<a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does music bring back memories? What the science...10 Mar 2023  Music brings back memories of events, people and places from our pa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: unsw.edu.au  
    Title: Why do some songs get stuck in our heads so easily?  
-   Link: <a href="https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The...8 Oct 2025  The most earworm-inducing feature is contiguous repetition: a fragment of the music that repeats immediately and wi...</p></details>
+   Link:<a href="https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/newsroom/news/2025/10/why-do-some-songs-get-stuck-in-our-heads-so-easily-the-science-of-earworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The...8 Oct 2025  The most earworm-inducing feature is contiguous repetition: a fragment of the music that repeats immediately and wi...</p></details>

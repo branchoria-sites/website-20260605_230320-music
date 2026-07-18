@@ -279,26 +279,26 @@ image: /assets/images/music_3a01be_protest_songs_power_430b69_historical_song_me
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-dark.svg" | relative_url }}" alt="Song Memory illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Songs as Portable Monuments
 
-Certain protest songs gain what cultural scholars call **“portability”** — the capacity to be **carried, adapted and reused in very different struggles** over time. A prominent example is Bella ciao, originally associated with anti‑fascist resistance in mid‑20th‑century Italy. While its exact origins are complex and likely rooted in 19th‑century folk traditions, the song became an international symbol of resistance and has since appeared in diverse movements supporting causes from feminist protests to environmental activism. Its enduring use is tied to its **musical and narrative simplicity**, which makes it easy to adapt and reinterpret while still evoking historical struggles with oppression and liberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
+Certain protest songs gain what cultural scholars call **“portability”** — the capacity to be **carried, adapted and reused in very different struggles** over time. A prominent example is Bella ciao, originally associated with anti‑fascist resistance in mid‑20th‑century Italy. While its exact origins are complex and likely rooted in 19th‑century folk traditions, the song became an international symbol of resistance and has since appeared in diverse movements supporting causes from feminist protests to environmental activism. Its enduring use is tied to its **musical and narrative simplicity**, which makes it easy to adapt and reinterpret while still evoking historical struggles with oppression and liberation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
 
-Scholars characterise this adaptability as a kind of **“portable monument”** — cultural forms that act both as **stable reference points in collective memory** and as **templates for new meaning** in contemporary contexts. In the case of *Bella ciao*, activists in Argentina, Poland and elsewhere have rewritten [lyrics]({{ 'lyrics/' | relative_url }}) and altered rhythms to speak to issues like reproductive [rights]({{ 'rights/' | relative_url }}) or broader anti‑authoritarian causes, while still implicitly echoing resistance traditions from Europe’s past. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
+Scholars characterise this adaptability as a kind of **“portable monument”** — cultural forms that act both as **stable reference points in collective memory** and as **templates for new meaning** in contemporary contexts. In the case of *Bella ciao*, activists in Argentina, Poland and elsewhere have rewritten [lyrics]({{ 'lyrics/' | relative_url }}) and altered rhythms to speak to issues like reproductive [rights]({{ 'rights/' | relative_url }}) or broader anti‑authoritarian causes, while still implicitly echoing resistance traditions from Europe’s past.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
 
-This portability reflects broader patterns in protest music: the melodies, themes, and even rhythmic structures of older songs can serve as **building blocks for new expressions of dissent**. Instead of emerging from scratch, movements often stand on the musical shoulders of earlier ones, carrying forward **intertextual references** that link present and past struggles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/59485/chapter/524004993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicIntertextuality in Protest Music: A Typology &#124; The Oxford Handbook of Protest Music &#124; Oxford AcademicJune 24, 2025...</span><span class="citation-popover-meta">Published: June 24, 2025</span></span></span>
+This portability reflects broader patterns in protest music: the melodies, themes, and even rhythmic structures of older songs can serve as **building blocks for new expressions of dissent**. Instead of emerging from scratch, movements often stand on the musical shoulders of earlier ones, carrying forward **intertextual references** that link present and past struggles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/59485/chapter/524004993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicIntertextuality in Protest Music: A Typology &#124; The Oxford Handbook of Protest Music &#124; Oxford AcademicJune 24, 2025...</span><span class="citation-popover-meta">Published: June 24, 2025</span></span></span>
 
 ## Adaptation Across Cultures and Movements
 
-Historical continuity in protest songs isn’t just about repeating the same tune; it’s about **adaptation and reinvention**. One well‑documented case is We Shall Overcome, whose roots lie in a long chain of related spirituals, labour songs and folk pieces going back to the early 20th century and before. During the U.S. civil rights movement of the 1950s and 1960s, “We Shall Overcome” was reshaped from its antecedents into a **freedom anthem** that helped unify and motivate activists. Its evolution from church and labour contexts into a civil rights symbol illustrates how songs can **move through different protest milieus**, gaining new relevance while preserving echoes of prior uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpolitics.barefield.ua.edu">[Music Politics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpolitics.barefield.ua.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Historical continuity in protest songs isn’t just about repeating the same tune; it’s about **adaptation and reinvention**. One well‑documented case is We Shall Overcome, whose roots lie in a long chain of related spirituals, labour songs and folk pieces going back to the early 20th century and before. During the U.S. civil rights movement of the 1950s and 1960s, “We Shall Overcome” was reshaped from its antecedents into a **freedom anthem** that helped unify and motivate activists. Its evolution from church and labour contexts into a civil rights symbol illustrates how songs can **move through different protest milieus**, gaining new relevance while preserving echoes of prior uses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicpolitics.barefield.ua.edu">[Music Politics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicpolitics.barefield.ua.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Similarly, protest songs often traverse **linguistic and cultural boundaries**. Music from one region or movement may be translated into other languages or blended with local musical styles, allowing the underlying **spirit of solidarity and resistance** to resonate in diverse contexts. For example, in contemporary demonstrations around the world, protesters sometimes sing versions of older anthems from other countries — whether translated melodies or adapted refrains — that carry historical associations with popular uprisings or civil liberties struggles. These inter‑movement references are a form of **cultural borrowing** that both acknowledges shared histories and localises them for new causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AskTheWorld/comments/1n53a4g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What foreign protest songs or chants are sung in your country?</span><span class="citation-popover-snippet">What foreign protest songs or chants are sung in your country?August 31, 2025...</span><span class="citation-popover-meta">Published: August 31, 2025</span></span></span>
+Similarly, protest songs often traverse **linguistic and cultural boundaries**. Music from one region or movement may be translated into other languages or blended with local musical styles, allowing the underlying **spirit of solidarity and resistance** to resonate in diverse contexts. For example, in contemporary demonstrations around the world, protesters sometimes sing versions of older anthems from other countries — whether translated melodies or adapted refrains — that carry historical associations with popular uprisings or civil liberties struggles. These inter‑movement references are a form of **cultural borrowing** that both acknowledges shared histories and localises them for new causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AskTheWorld/comments/1n53a4g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What foreign protest songs or chants are sung in your country?</span><span class="citation-popover-snippet">What foreign protest songs or chants are sung in your country?August 31, 2025...</span><span class="citation-popover-meta">Published: August 31, 2025</span></span></span>
 
-Moreover, scholars note that protest music’s adaptability extends beyond lyrics to include **structural and performance elements**. Simple, repetitive melodies and call‑and‑response [formats]({{ 'formats/' | relative_url }}) make songs easier to learn and adapt, enabling them to be sung by large crowds even without formal musical training. These **affordances of form** help ensure that songs can be both remembered and reinvented across movements — a core mechanism of historical continuity in protest music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
+Moreover, scholars note that protest music’s adaptability extends beyond lyrics to include **structural and performance elements**. Simple, repetitive melodies and call‑and‑response [formats]({{ 'formats/' | relative_url }}) make songs easier to learn and adapt, enabling them to be sung by large crowds even without formal musical training. These **affordances of form** help ensure that songs can be both remembered and reinvented across movements — a core mechanism of historical continuity in protest music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-2-dark.svg" | relative_url }}" alt="Song Memory illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Emotional Recall in Collective Memory
 
 One reason older protest songs persist is their role in **collective memory and identity-making**. When activists sing a familiar tune like *Bella ciao* or *We Shall Overcome*, they are not just performing music but **invoking a shared emotional history**. These songs carry with them echoes of past struggles — from anti‑fascist resistance to civil rights campaigns — which can deepen participants’ sense that their current protest is part of an **ongoing lineage of resistance**.
 
-This linkage operates at multiple levels. First, there is **memory in activism**: contemporary movements consciously draw on historical songs to inspire, to connect with past ideals, and to symbolically situate themselves within longer trajectories of change. Second, there is **memory of activism**: by performing these songs, participants actively recall and transmit narratives of past struggles to each other and to newer generations. Third, there is **memory activism**: the act of adaptation itself becomes a form of shaping cultural memory, as each new version adds to the living archive of dissent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
+This linkage operates at multiple levels. First, there is **memory in activism**: contemporary movements consciously draw on historical songs to inspire, to connect with past ideals, and to symbolically situate themselves within longer trajectories of change. Second, there is **memory of activism**: by performing these songs, participants actively recall and transmit narratives of past struggles to each other and to newer generations. Third, there is **memory activism**: the act of adaptation itself becomes a form of shaping cultural memory, as each new version adds to the living archive of dissent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
 
 Through this process, songs become **emotional anchors** — musical touchstones that evoke shared experiences of joy, defiance, loss and hope. This emotional resonance helps sustain movements over time and strengthens solidarity among participants, reinforcing the idea that they are **part of something larger than their immediate context**.
 
@@ -308,199 +308,199 @@ The continuity of protest songs across movements is not incidental; it’s a **s
 
 In practical terms, this means that current protest music often carries **layers of historical meaning**: echoes of earlier struggles, adapted motifs, and reworked lyrics that resonate with both past and present. Rather than replacing older songs, new movements often **build upon them**, extending their relevance and expanding their symbolic reach.
 
-In this way, historical continuity in protest songs does more than preserve memory; it **actively shapes how movements understand themselves and their place in the world**, forging links across time that empower collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
+In this way, historical continuity in protest songs does more than preserve memory; it **actively shapes how movements understand themselves and their place in the world**, forging links across time that empower collective action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals‘Bella ciao’: A portable monument for transnational activism</span><span class="citation-popover-snippet">Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</span><span class="citation-popover-meta">Published: January 9, 2023</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-3-dark.svg" | relative_url }}" alt="Song Memory illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Connecting Modern Movements with Historical Protest Songs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Connecting Modern Movements with Historical Protest Songs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Routledge history of social protest in popular music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9278714-M.jpg" alt="Cover for The Routledge history of social protest in popular music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Routledge history of social protest in popular music">The Routledge history of social protest in popular music</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan C. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Routledge history of social protest in popular music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9278714-M.jpg" alt="Cover for The Routledge history of social protest in popular music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Routledge history of social protest in popular music">The Routledge history of social protest in popular music</a>
+</h4>
+<p class="fr-book-author">By Jonathan C. Friedman</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Protestsong, Protest movements, Popular music, Songs and music, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Protestsong, Protest movements, Popular music, Songs and music, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music+Jonathan+C.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474927-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
-        </h4>
-        <p class="fr-book-author">By Dorian Lynskey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474927-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
+</h4>
+<p class="fr-book-author">By Dorian Lynskey</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Protest songs, Popular music, Musicians, Social aspects, Political aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Protest songs, Popular music, Musicians, Social aspects, Political aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songs of America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8745589-M.jpg" alt="Cover for Songs of America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songs of America">Songs of America</a>
-        </h4>
-        <p class="fr-book-author">By Jon Meacham, Tim McGraw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songs of America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8745589-M.jpg" alt="Cover for Songs of America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songs of America">Songs of America</a>
+</h4>
+<p class="fr-book-author">By Jon Meacham, Tim McGraw</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Music, history and criticism, Music, social aspects, Protest songs, Patriotic music, Music, american.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Music, history and criticism, Music, social aspects, Protest songs, Patriotic music, Music, american.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Songs+of+America+Jon+Meacham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+is+an+uprising+Mark+Engler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This is an uprising on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10412449-M.jpg" alt="Cover for This is an uprising" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+is+an+uprising+Mark+Engler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This is an uprising">This is an uprising</a>
-        </h4>
-        <p class="fr-book-author">By Mark Engler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+is+an+uprising+Mark+Engler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This is an uprising on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10412449-M.jpg" alt="Cover for This is an uprising" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+is+an+uprising+Mark+Engler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This is an uprising">This is an uprising</a>
+</h4>
+<p class="fr-book-author">By Mark Engler</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Civil disobedience, Nonviolence, Gewaltloser Widerstand, Peace, Politischer Protest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+is+an+uprising+Mark+Engler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Civil disobedience, Nonviolence, Gewaltloser Widerstand, Peace, Politischer Protest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+is+an+uprising+Mark+Engler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Routledge history of social protest in popular music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Songs+of+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Songs of America</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Routledge+history+of+social+protest+in+popular+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Routledge history of social protest in popular music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Songs+of+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Songs of America</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motown Records History print - Pop Wall Artwork Music Gift Art Hitsville Poster"><img src="{{ '/assets/images/marketplace-covers/5215849c2fac5e6d08b8.jpg' | relative_url }}" alt="Listing image for Motown Records History print - Pop Wall Artwork Music Gift Art Hitsville Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Motown Records History print - Pop Wall Artwork Music Gift Art Hitsville Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motown Records History print - Pop Wall Artwork Music Gift Art Hitsville Poster"><img src="{{ '/assets/images/marketplace-covers/5215849c2fac5e6d08b8.jpg' | relative_url }}" alt="Listing image for Motown Records History print - Pop Wall Artwork Music Gift Art Hitsville Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Motown Records History print - Pop Wall Artwork Music Gift Art Hitsville Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Garage History print - Wall Art Dance music poster club artwork rave DJ EZ"><img src="{{ '/assets/images/marketplace-covers/1937eccec1efc2d9cda1.jpg' | relative_url }}" alt="Listing image for UK Garage History print - Wall Art Dance music poster club artwork rave DJ EZ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UK Garage History print - Wall Art Dance music poster club artwork rave DJ EZ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Garage History print - Wall Art Dance music poster club artwork rave DJ EZ"><img src="{{ '/assets/images/marketplace-covers/1937eccec1efc2d9cda1.jpg' | relative_url }}" alt="Listing image for UK Garage History print - Wall Art Dance music poster club artwork rave DJ EZ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UK Garage History print - Wall Art Dance music poster club artwork rave DJ EZ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Early Folklore Music Map of the United States Wall Art Poster History Print"><img src="{{ '/assets/images/marketplace-covers/bea774c2540581a79c9d.jpg' | relative_url }}" alt="Listing image for Early Folklore Music Map of the United States Wall Art Poster History Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Early Folklore Music Map of the United States Wall Art Poster History Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Early Folklore Music Map of the United States Wall Art Poster History Print"><img src="{{ '/assets/images/marketplace-covers/bea774c2540581a79c9d.jpg' | relative_url }}" alt="Listing image for Early Folklore Music Map of the United States Wall Art Poster History Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Early Folklore Music Map of the United States Wall Art Poster History Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ibiza History print. Dance Music Space Wall Artwork Art Carl Cox poster Club"><img src="{{ '/assets/images/marketplace-covers/acf043627f4b10f93d78.jpg' | relative_url }}" alt="Listing image for Ibiza History print. Dance Music Space Wall Artwork Art Carl Cox poster Club" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Ibiza History print. Dance Music Space Wall Artwork Art Carl Cox poster Club</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ibiza History print. Dance Music Space Wall Artwork Art Carl Cox poster Club"><img src="{{ '/assets/images/marketplace-covers/acf043627f4b10f93d78.jpg' | relative_url }}" alt="Listing image for Ibiza History print. Dance Music Space Wall Artwork Art Carl Cox poster Club" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Ibiza History print. Dance Music Space Wall Artwork Art Carl Cox poster Club</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music history art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: music history art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+history+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music history art print -book -books" data-ebay-reference="song-memory-connecting-modern-movements-with-historical-protest-songs-music-music-history-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -516,7 +516,7 @@ In this way, historical continuity in protest songs does more than preserve memo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -536,7 +536,7 @@ In this way, historical continuity in protest songs does more than preserve memo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -568,7 +568,7 @@ In this way, historical continuity in protest songs does more than preserve memo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -620,7 +620,7 @@ In this way, historical continuity in protest songs does more than preserve memo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -665,7 +665,7 @@ In this way, historical continuity in protest songs does more than preserve memo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,113 +706,113 @@ In this way, historical continuity in protest songs does more than preserve memo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/59485/chapter/524004993" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/59485/chapter/524004993</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicIntertextuality in Protest Music: A Typology | The Oxford Handbook of Protest Music | Oxford AcademicJune 24, 2025...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/59485/chapter/524004993" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/59485/chapter/524004993</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicIntertextuality in Protest Music: A Typology | The Oxford Handbook of Protest Music | Oxford AcademicJune 24, 2025...</p></details>
    Published: June 24, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: What foreign protest songs or chants are sung in your country?  
-   Link: <a href="https://www.reddit.com/r/AskTheWorld/comments/1n53a4g" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskTheWorld/comments/1n53a4g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What foreign protest songs or chants are sung in your country?August 31, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskTheWorld/comments/1n53a4g" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskTheWorld/comments/1n53a4g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What foreign protest songs or chants are sung in your country?August 31, 2025...</p></details>
    Published: August 31, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Protest Music: A Typology | The Oxford Handbook of Protest Music | Oxford AcademicJune 24, 2025 — * References INTERTEXTUALITY IN PROT...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/59485/chapter-abstract/524004993</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Protest Music: A Typology | The Oxford Handbook of Protest Music | Oxford AcademicJune 24, 2025 — * References INTERTEXTUALITY IN PROT...</p></details>
    Published: June 24, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals‘Bella ciao’: A portable monument for transnational activism  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13678779221145374</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/13678779221145374" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13678779221145374</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daniele Salerno, Marit van de Warenburg, 2023January 9, 2023...</p></details>
    Published: January 9, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Bella ciao  
-   Link: <a href="https://en.wikipedia.org/wiki/Bella_ciao" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bella_ciao</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bella_ciao" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bella_ciao</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: musicpolitics.barefield.ua.edu  
-   Link: <a href="https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/" target="_blank" rel="noopener noreferrer nofollow">https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/</a>  
+   Link:<a href="https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/" target="_blank" rel="noopener noreferrer nofollow">https://musicpolitics.barefield.ua.edu/timeline-entries/the-long-history-of-the-civil-rights-protest-song-we-shall-overcome/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
    Title: The song was popular among stud  
-   Link: <a href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/We-Shall-Overcome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We Shall Overcome | Civil Rights, Pete Seeger, Origin, History, &amp; Lyrics | BritannicaGLOBAL REACH The song has spread beyond the context...</p></details>
+   Link:<a href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/We-Shall-Overcome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Shall Overcome | Civil Rights, Pete Seeger, Origin, History, &amp; Lyrics | BritannicaGLOBAL REACH The song has spread beyond the context...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/protest-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/protest-songs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest songs provided a soundtrack for the civil rights and antiwar struggles of the 1960’s an...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/protest-songs" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/protest-songs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protest songs provided a soundtrack for the civil rights and antiwar struggles of the 1960’s an...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Get AccessJanuary 21, 2025 — Image: Publication Cover Continuum Journal of Media &amp; Cultural Studies Volume 39, 2025 - Issue 3: Popular Mu...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10304312.2025.2456022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get AccessJanuary 21, 2025 — Image: Publication Cover Continuum Journal of Media &amp; Cultural Studies Volume 39, 2025 - Issue 3: Popular Mu...</p></details>
    Published: January 21, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: revistas.ucm.es  
-   Link: <a href="https://revistas.ucm.es/index.php/HPOL/article/view/69753" target="_blank" rel="noopener noreferrer nofollow">https://revistas.ucm.es/index.php/HPOL/article/view/69753</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historia y PolíticaMay 25, 2020 — «LIBERTAD SIN IRA», INDIGNACIÓN EN (LA) TRANSICIÓN: REAPROPIACIONES POLÍTICAS Y RELATOS SONOROS DE UN...</p></details>
+   Link:<a href="https://revistas.ucm.es/index.php/HPOL/article/view/69753" target="_blank" rel="noopener noreferrer nofollow">https://revistas.ucm.es/index.php/HPOL/article/view/69753</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historia y PolíticaMay 25, 2020 — «LIBERTAD SIN IRA», INDIGNACIÓN EN (LA) TRANSICIÓN: REAPROPIACIONES POLÍTICAS Y RELATOS SONOROS DE UN...</p></details>
    Published: May 25, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dbc.library.uu.nl  
-   Link: <a href="https://dbc.library.uu.nl/handle/1874/436912" target="_blank" rel="noopener noreferrer nofollow">https://dbc.library.uu.nl/handle/1874/436912</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism‘BELLA CIAO’: A PORTABLE MONUMENT FOR TRANSNATIONAL ACTIVISM ‘Bella ciao...</p></details>
+   Link:<a href="https://dbc.library.uu.nl/handle/1874/436912" target="_blank" rel="noopener noreferrer nofollow">https://dbc.library.uu.nl/handle/1874/436912</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism‘BELLA CIAO’: A PORTABLE MONUMENT FOR TRANSNATIONAL ACTIVISM ‘Bella ciao...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: revistas.usal.es  
-   Link: <a href="https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499" target="_blank" rel="noopener noreferrer nofollow">https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>transmisión del pensamiento entre culturas a través de la semiología de la canción popular: el caso de bella ciao, de himno partisano en...</p></details>
+   Link:<a href="https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499" target="_blank" rel="noopener noreferrer nofollow">https://revistas.usal.es/dos/index.php/1576-7787/article/view/23499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>transmisión del pensamiento entre culturas a través de la semiología de la canción popular: el caso de bella ciao, de himno partisano en...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research-portal.uea.ac.uk  
    Title: our subversive voice the history and politics of english protest  
-   Link: <a href="https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subversive Voice: The History and Politics of English Protest Songs, 1600-2020 - University of East AngliaOUR SUBVERSIVE VOICE: THE HISTO...</p></details>
+   Link:<a href="https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/our-subversive-voice-the-history-and-politics-of-english-protest-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subversive Voice: The History and Politics of English Protest Songs, 1600-2020 - University of East AngliaOUR SUBVERSIVE VOICE: THE HISTO...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research-portal.uu.nl  
    Title: nl‘Bella ciao’: A portable monument for transnational activism  
-   Link: <a href="https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism - Utrecht UniversityMarch 1, 2023 — ‘BELLA CIAO’: A PORTABLE MONUMENT F...</p></details>
+   Link:<a href="https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/bella-ciao-a-portable-monument-for-transnational-activism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uu.nl‘Bella ciao’: A portable monument for transnational activism - Utrecht UniversityMarch 1, 2023 — ‘BELLA CIAO’: A PORTABLE MONUMENT F...</p></details>
    Published: March 1, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theses.ubn.ru.nl  
    Title: nl From “We Shall Overcome” to “Fortunate Son”: The Evolving Sound of Protest  
-   Link: <a href="https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b" target="_blank" rel="noopener noreferrer nofollow">https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FILES Laan, F.C.A. van der 1029781.pdf (1.81 MB) AUTHORS Laan, F.C.A. van der ISSUE DATE 2020-08-21 LANGU...</p></details>
+   Link:<a href="https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b" target="_blank" rel="noopener noreferrer nofollow">https://theses.ubn.ru.nl/items/8483b870-9b81-40e0-bb85-591bbaa8598b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILES Laan, F.C.A. van der 1029781.pdf (1.81 MB) AUTHORS Laan, F.C.A. van der ISSUE DATE 2020-08-21 LANGU...</p></details>
    Published: August 21, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: al-monitor.com  
    Title: 'Bella Ciao', protest anthem the world loves to sing  
-   Link: <a href="https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing" target="_blank" rel="noopener noreferrer nofollow">https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Middle Eastʼs leading independent news source since 2012October 6, 2022 — &#x27;BELLA CIAO&#x27;, PROTEST ANTHEM THE WORLD LOVES TO...</p></details>
+   Link:<a href="https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing" target="_blank" rel="noopener noreferrer nofollow">https://www.al-monitor.com/originals/2022/10/bella-ciao-protest-anthem-world-loves-sing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Middle Eastʼs leading independent news source since 2012October 6, 2022 — &#x27;BELLA CIAO&#x27;, PROTEST ANTHEM THE WORLD LOVES TO...</p></details>
    Published: October 6, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: d-scholarship.pitt.edu  
    Title: Master's Thesis, University of Pittsburgh. (Unpu  
-   Link: <a href="https://d-scholarship.pitt.edu/7626/" target="_blank" rel="noopener noreferrer nofollow">https://d-scholarship.pitt.edu/7626/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pitt.edu&quot;WE SHALL OVERCOME&quot;: FROM BLACK CHURCH MUSIC TO FREEDOM SONG - D-Scholarship@PittJune 27, 2006 — &quot;WE SHALL OVERCOME&quot;: FROM BLACK...</p></details>
+   Link:<a href="https://d-scholarship.pitt.edu/7626/" target="_blank" rel="noopener noreferrer nofollow">https://d-scholarship.pitt.edu/7626/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pitt.edu&quot;WE SHALL OVERCOME&quot;: FROM BLACK CHURCH MUSIC TO FREEDOM SONG - D-Scholarship@PittJune 27, 2006 — &quot;WE SHALL OVERCOME&quot;: FROM BLACK...</p></details>
    Published: June 27, 2006  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tribunemag.co.uk  
    Title: ‘Bella Ciao’: The Song of the Partisans  
-   Link: <a href="https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans" target="_blank" rel="noopener noreferrer nofollow">https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2021 — 06.3.2021 * * * * # ‘Bella Ciao’: The Song of the Partisans By Patrick Graney With its catchy folk [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), &#x27;Bella Ciao&#x27; b...</p></details>
+   Link:<a href="https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans" target="_blank" rel="noopener noreferrer nofollow">https://tribunemag.co.uk/2021/03/bella-ciao-the-song-of-the-partisans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2021 — 06.3.2021 * * * * # ‘Bella Ciao’: The Song of the Partisans By Patrick Graney With its catchy folk [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), &#x27;Bella Ciao&#x27; b...</p></details>
    Published: March 6, 2021

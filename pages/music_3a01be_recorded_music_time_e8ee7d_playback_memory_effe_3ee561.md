@@ -274,14 +274,14 @@ image: /assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_ef
 
 ## Introduction
 
-Recorded music changed more than where and when people heard music. It changed what they remembered. When listeners can replay the same performance hundreds of times, [memory]({{ 'memory/' | relative_url }}) becomes tied not only to a song but also to a specific recorded version, its sound quality, its acoustic space, and the circumstances in which it was heard. A live performance once existed primarily as a remembered event. [Recording]({{ 'recording/' | relative_url }}) transformed musical memory into something repeatedly reinforced, revised, and personalised through playback. Research on music and memory shows that recorded music is an unusually powerful cue for recalling emotions, places, relationships, and periods of life, helping explain why certain recordings can feel inseparable from personal history. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
+Recorded music changed more than where and when people heard music. It changed what they remembered. When listeners can replay the same performance hundreds of times, [memory]({{ 'memory/' | relative_url }}) becomes tied not only to a song but also to a specific recorded version, its sound quality, its acoustic space, and the circumstances in which it was heard. A live performance once existed primarily as a remembered event. [Recording]({{ 'recording/' | relative_url }}) transformed musical memory into something repeatedly reinforced, revised, and personalised through playback. Research on music and memory shows that recorded music is an unusually powerful cue for recalling emotions, places, relationships, and periods of life, helping explain why certain recordings can feel inseparable from personal history. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1-dark.svg" | relative_url }}" alt="Playback Memory illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From Live Memory to Recorded Memory
 
 Before recording technologies became widespread, listeners usually remembered musical works in broad outlines. A [melody]({{ 'melody/' | relative_url }}), a singer's style, or the atmosphere of a performance might linger, but exact details were difficult to preserve. Each new performance introduced variation, and memory adapted accordingly.
 
-Playback altered this relationship. A recording could be heard repeatedly until listeners internalised precise details: a particular vocal inflection, a guitar solo, a tempo choice, even a momentary studio noise. Over time, many listeners came to regard a specific recording as the song itself rather than one interpretation among many. Scholars of recorded performance have noted that recordings are not merely captured live events but distinct musical objects shaped by studio decisions, editing, microphone placement, and production techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpcp.ac.uk">[cmpcp.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpcp.ac.uk</span><span class="citation-popover-snippet">From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</span></span></span>
+Playback altered this relationship. A recording could be heard repeatedly until listeners internalised precise details: a particular vocal inflection, a guitar solo, a tempo choice, even a momentary studio noise. Over time, many listeners came to regard a specific recording as the song itself rather than one interpretation among many. Scholars of recorded performance have noted that recordings are not merely captured live events but distinct musical objects shaped by studio decisions, editing, microphone placement, and production techniques.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpcp.ac.uk">[cmpcp.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpcp.ac.uk</span><span class="citation-popover-snippet">From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</span></span></span>
 
 This shift created a new kind of musical memory. Instead of remembering a composition abstractly, listeners often remember:
 
@@ -294,19 +294,19 @@ This shift created a new kind of musical memory. Instead of remembering a compos
 
 </div>
 
-Repeated playback strengthens these details through continual exposure. Research on musical memory suggests that auditory patterns become deeply encoded through repeated listening, making familiar recordings remarkably durable in memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
+Repeated playback strengthens these details through continual exposure. Research on musical memory suggests that auditory patterns become deeply encoded through repeated listening, making familiar recordings remarkably durable in memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
 
 ### The Memory of a Room
 
 Recording also preserves acoustics. Listeners learn to recognise the sound of concert halls, studios, clubs, churches, or carefully engineered reverberation. A recording does not only store notes; it stores a sense of space.
 
-As a result, memories can become attached to the ambience of a recording. The echo surrounding a singer's voice, the closeness of a microphone, or the resonance of a performance venue become part of what listeners remember. When hearing the recording years later, they often recall not only the music but the entire sonic environment embedded within it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpcp.ac.uk">[cmpcp.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpcp.ac.uk</span><span class="citation-popover-snippet">From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</span></span></span>
+As a result, memories can become attached to the ambience of a recording. The echo surrounding a singer's voice, the closeness of a microphone, or the resonance of a performance venue become part of what listeners remember. When hearing the recording years later, they often recall not only the music but the entire sonic environment embedded within it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpcp.ac.uk">[cmpcp.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpcp.ac.uk</span><span class="citation-popover-snippet">From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zhoaU34HQxY" title="How music influences your memories - Dr Kelly Jakubowski - Bright Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer">How music influences your memories - Dr Kelly Jakubowski - Bright Talks</a></p><p class="youtube-embed-meta">Channel: Bright Ideas Gathering &middot; Views: 961 &middot; Uploaded: November 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zhoaU34HQxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zhoaU34HQxY">Open on YouTube</a></p></div></div></div>
 
 ## Personal and Intimate Associations
 
-One of the most significant consequences of recorded playback is its ability to connect music to personal experience. Researchers describe these experiences as music-evoked autobiographical memories: memories of events from a person's life that are triggered by music, often involuntarily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
+One of the most significant consequences of recorded playback is its ability to connect music to personal experience. Researchers describe these experiences as music-evoked autobiographical memories: memories of events from a person's life that are triggered by music, often involuntarily.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham.ac.uk">[Durham University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham.ac.uk</span><span class="citation-popover-title">why does music bring back memories what the science says</span><span class="citation-popover-snippet">Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</span></span></span>
 
 A recording heard repeatedly during a particular period can become linked to:
 
@@ -320,18 +320,18 @@ A recording heard repeatedly during a particular period can become linked to:
 
 </div>
 
-Because recordings remain stable while life changes, they often act as anchors for memory. Hearing the same track decades later can reactivate emotional and sensory details that seemed forgotten. Studies consistently find that music is especially effective at cueing autobiographical memories and can evoke vivid recollections across the lifespan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring the nature of music-evoked autobiographical</span><span class="citation-popover-snippet">by M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</span></span></span>
+Because recordings remain stable while life changes, they often act as anchors for memory. Hearing the same track decades later can reactivate emotional and sensory details that seemed forgotten. Studies consistently find that music is especially effective at cueing autobiographical memories and can evoke vivid recollections across the lifespan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring the nature of music-evoked autobiographical</span><span class="citation-popover-snippet">by M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</span></span></span>
 
-Researchers have also found that many people possess a "self-defining" musical period, often linked to adolescence and early adulthood. Recordings encountered during these years tend to acquire exceptional emotional and autobiographical significance, helping shape identity and personal narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</span></span></span>
+Researchers have also found that many people possess a "self-defining" musical period, often linked to adolescence and early adulthood. Recordings encountered during these years tend to acquire exceptional emotional and autobiographical significance, helping shape identity and personal narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Music-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-2-dark.svg" | relative_url }}" alt="Playback Memory illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Recordings Feel So Personal
 
 Unlike many other cultural objects, recorded music often accompanies everyday activities rather than demanding full [attention]({{ 'attention/' | relative_url }}). Songs play during commutes, celebrations, heartbreaks, study sessions, exercise routines, and family gatherings.
 
-Because of this, recordings frequently become woven into the [background]({{ 'background/' | relative_url }}) of lived experience. Scholars of media and memory have argued that personal music collections function similarly to photo [albums]({{ 'albums/' | relative_url }}) or diaries, helping people preserve and revisit emotional episodes from their lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-title">University of Warwick Popular Music between Personal and Collective Memory</span><span class="citation-popover-snippet">University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+Because of this, recordings frequently become woven into the [background]({{ 'background/' | relative_url }}) of lived experience. Scholars of media and memory have argued that personal music collections function similarly to photo [albums]({{ 'albums/' | relative_url }}) or diaries, helping people preserve and revisit emotional episodes from their lives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-title">University of Warwick Popular Music between Personal and Collective Memory</span><span class="citation-popover-snippet">University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
-The effect can be so strong that listeners sometimes avoid particular recordings because they trigger unwanted memories, while others return repeatedly to songs associated with cherished experiences. Psychological research suggests that the emotional intensity attached to both music and life events helps strengthen these long-term associations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe self-defining period in autobiographical memory</span><span class="citation-popover-snippet">by C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</span></span></span>
+The effect can be so strong that listeners sometimes avoid particular recordings because they trigger unwanted memories, while others return repeatedly to songs associated with cherished experiences. Psychological research suggests that the emotional intensity attached to both music and life events helps strengthen these long-term associations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe self-defining period in autobiographical memory</span><span class="citation-popover-snippet">by C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</span></span></span>
 
 ## Influence on Learning and Collecting
 
@@ -352,206 +352,206 @@ This had several consequences:
 
 The result was a more detailed and standardised form of musical memory. Students increasingly learned not only songs but famous recorded interpretations of songs.
 
-Collecting recordings reinforced this process. Building a library of records, tapes, CDs, or digital playlists created an external memory system. Collections organised musical experiences chronologically, emotionally, or socially. They allowed listeners to revisit specific periods of their lives through carefully preserved recordings, extending memory beyond the limits of recall alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-title">University of Warwick Popular Music between Personal and Collective Memory</span><span class="citation-popover-snippet">University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
+Collecting recordings reinforced this process. Building a library of records, tapes, CDs, or digital playlists created an external memory system. Collections organised musical experiences chronologically, emotionally, or socially. They allowed listeners to revisit specific periods of their lives through carefully preserved recordings, extending memory beyond the limits of recall alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-title">University of Warwick Popular Music between Personal and Collective Memory</span><span class="citation-popover-snippet">University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</span><span class="citation-popover-meta">Published: January 8, 2015</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-dark.svg" | relative_url }}" alt="Playback Memory illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Playback as a Tool for Reconstructing the Past
 
-Recorded music does more than retrieve memories; evidence suggests it can reshape them. Recent research indicates that music accompanying recollection may influence the emotional tone attached to remembered events. In other words, playback can participate in the ongoing reconstruction of personal memory rather than simply unlocking a fixed archive of the past. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatech.edu">[Georgia Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia TechMusic Can Change How You Feel About the PastDec 2, 2024 — But recent research my team and I published suggests music may do m...</span></span></span>
+Recorded music does more than retrieve memories; evidence suggests it can reshape them. Recent research indicates that music accompanying recollection may influence the emotional tone attached to remembered events. In other words, playback can participate in the ongoing reconstruction of personal memory rather than simply unlocking a fixed archive of the past.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatech.edu">[Georgia Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatech.edu</span><span class="citation-popover-title">music can change how you feel about past</span><span class="citation-popover-snippet">Georgia TechMusic Can Change How You Feel About the PastDec 2, 2024 — But recent research my team and I published suggests music may do m...</span></span></span>
 
 This helps explain why the meaning of a recording can change over time. A song associated with one event may later acquire new associations through repeated listening in different circumstances. Memory remains dynamic, but the recording provides a stable reference point around which those changing interpretations accumulate.
 
-The ability of recordings to accompany memory across decades is one reason they occupy such a distinctive place in modern [culture]({{ 'culture/' | relative_url }}). Playback does not merely preserve music. It preserves opportunities for remembering, allowing listeners to revisit, reinterpret, and sometimes even remake parts of their personal histories through sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
+The ability of recordings to accompany memory across decades is one reason they occupy such a distinctive place in modern [culture]({{ 'culture/' | relative_url }}). Playback does not merely preserve music. It preserves opportunities for remembering, allowing listeners to revisit, reinterpret, and sometimes even remake parts of their personal histories through sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMusic, memory and emotion</span><span class="citation-popover-snippet">NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Listening to Recordings Reshapes Musical Memory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Listening to Recordings Reshapes Musical Memory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains how music is encoded, remembered, and emotionally recalled.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how music is encoded, remembered, and emotionally recalled.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores music&#x27;s powerful effects on memory and identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores music&#x27;s powerful effects on memory and identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The recording angel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162093-M.jpg" alt="Cover for The recording angel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The recording angel">The recording angel</a>
-        </h4>
-        <p class="fr-book-author">By Evan Eisenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The recording angel on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162093-M.jpg" alt="Cover for The recording angel" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The recording angel">The recording angel</a>
+</h4>
+<p class="fr-book-author">By Evan Eisenberg</p>
         
-        <p class="fr-book-desc">First published 1986. Subjects: Social aspects of Sound recordings, Social aspects, Music and society, Sound recording industry, Music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1986. Subjects: Social aspects of Sound recordings, Social aspects, Music and society, Sound recording industry, Music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+recording+angel+Evan+Eisenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Denialism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Denialism">Denialism</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Denialism on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Denialism">Denialism</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Shows how repeated playback reshaped musical expectations and memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how repeated playback reshaped musical expectations and memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Denialism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+recording+angel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The recording angel</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+recording+angel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The recording angel</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box"><img src="{{ '/assets/images/marketplace-covers/935bd0b3d8b2da2cf937.jpg' | relative_url }}" alt="Listing image for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box"><img src="{{ '/assets/images/marketplace-covers/935bd0b3d8b2da2cf937.jpg' | relative_url }}" alt="Listing image for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming"><img src="{{ '/assets/images/marketplace-covers/51545fd00fe1c0d7b200.jpg' | relative_url }}" alt="Listing image for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming"><img src="{{ '/assets/images/marketplace-covers/51545fd00fe1c0d7b200.jpg' | relative_url }}" alt="Listing image for Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Large 27cm ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="playback-memory-how-listening-to-recordings-reshapes-musical-memory-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The ability of recordings to accompany memory across decades is one reason they 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The ability of recordings to accompany memory across decades is one reason they 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The ability of recordings to accompany memory across decades is one reason they 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The ability of recordings to accompany memory across decades is one reason they 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The ability of recordings to accompany memory across decades is one reason they 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,120 +757,120 @@ The ability of recordings to accompany memory across decades is one reason they 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMusic, memory and emotion  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2776393/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Jäncke · 2008 · Cited by 561 — Many researchers believe that music is encoded in the brain by the perceptual memory system...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cmpcp.ac.uk  
-   Link: <a href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</p></details>
+   Link:<a href="https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmpcp.ac.uk/wp-content/uploads/2015/11/PSN2013_Blier-Carruthers.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Walter. Benjamin2 to Glenn Gould3 to Philip Auslander,4 musicians and...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6167197/psychology-behind-remembering-music/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6167197/psychology-behind-remembering-music/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We spend significant amounts of time listening to music, making it easier to recall [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) and melodies. The Heardle app leverages this b...</p></details>
+   Link:<a href="https://time.com/6167197/psychology-behind-remembering-music/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6167197/psychology-behind-remembering-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We spend significant amounts of time listening to music, making it easier to recall [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) and melodies. The Heardle app leverages this b...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring the nature of music-evoked autobiographical  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377674/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M O’Shea · 2025 · Cited by 3 — Music-evoked autobiographical memories (MEAMs) are memories of past events that are triggered by mus...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11245592/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music-evoked autobiographical memories are associated with...by K Mehl · 2024 · Cited by 11 — One purported mechanism by which music...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe self-defining period in autobiographical memory  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7583440/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Loveday · 2020 · Cited by 50 — This study is the first to demonstrate that a self-defining period (SP) for personally relevant mu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: durham.ac.uk  
    Title: why does music bring back memories what the science says  
-   Link: <a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</p></details>
+   Link:<a href="https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.durham.ac.uk/research/current/thought-leadership/2023/03/why-does-music-bring-back-memories-what-the-science-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Durham UniversityWhy does music bring back memories? What the science...10 Mar 2023 — Music brings back memories of events, people and p...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735619888803</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0305735619888803" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735619888803</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2021 · Cited by 146 — Music can be a particularly e...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: warwick.ac.uk  
    Title: University of Warwick Popular Music between Personal and Collective Memory  
-   Link: <a href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</p></details>
+   Link:<a href="https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/arts/history/research/centres/ehrc/research/current_research/memory/jose_van_dijck.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of WarwickPopular Music between Personal and Collective MemoryJanuary 8, 2015 — 14 Dec 2006 — Like photographs or diary entrie...</p></details>
    Published: January 8, 2015  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gatech.edu  
    Title: music can change how you feel about past  
-   Link: <a href="https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow">https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia TechMusic Can Change How You Feel About the PastDec 2, 2024 — But recent research my team and I published suggests music may do m...</p></details>
+   Link:<a href="https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past" target="_blank" rel="noopener noreferrer nofollow">https://www.gatech.edu/news/2024/12/02/music-can-change-how-you-feel-about-past</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia TechMusic Can Change How You Feel About the PastDec 2, 2024 — But recent research my team and I published suggests music may do m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: musicscience.net  
    Title: Music-Evoked Autobiographical Memories  
-   Link: <a href="https://musicscience.net/research/music-memory/meams/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/meams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Applied Research in Memory and Cognition...Read more...</p></details>
+   Link:<a href="https://musicscience.net/research/music-memory/meams/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/meams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Applied Research in Memory and Cognition...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human musical memory is surprisingly durableThis powerful connection between music and personal experiences is a real phenomenon known as...</p></details>
+   Link:<a href="https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NautilusMag/posts/human-musical-memory-is-surprisingly-durable-babies-can-recognize-familiar-tunes/1184627757038223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human musical memory is surprisingly durableThis powerful connection between music and personal experiences is a real phenomenon known as...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: violinist.com  
-   Link: <a href="https://www.violinist.com/discussion/archive/10519/" target="_blank" rel="noopener noreferrer nofollow">https://www.violinist.com/discussion/archive/10519/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Performance vs RecordingWe know that recordings have the potential to be played perfectly, whereas with life performances, errors ar...</p></details>
+   Link:<a href="https://www.violinist.com/discussion/archive/10519/" target="_blank" rel="noopener noreferrer nofollow">https://www.violinist.com/discussion/archive/10519/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Performance vs RecordingWe know that recordings have the potential to be played perfectly, whereas with life performances, errors ar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musicandmemory.org  
-   Link: <a href="https://musicandmemory.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://musicandmemory.org/resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music and the BrainBy using music as an external stimulus, we can activate pathways in the brain, helping to stimulate cognition, spark a...</p></details>
+   Link:<a href="https://musicandmemory.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://musicandmemory.org/resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music and the BrainBy using music as an external stimulus, we can activate pathways in the brain, helping to stimulate cognition, spark a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bulletproofmusician.com  
-   Link: <a href="https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/" target="_blank" rel="noopener noreferrer nofollow">https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence That Listening to a Recording Could Accelerate...17 Jan 2016 — As an advanced student, listening to a variety of recordings can...</p></details>
+   Link:<a href="https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/" target="_blank" rel="noopener noreferrer nofollow">https://bulletproofmusician.com/to-listen-or-not-to-listen-does-listening-to-a-recording-help-us-learn-faster-and-play-more-accurately/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence That Listening to a Recording Could Accelerate...17 Jan 2016 — As an advanced student, listening to a variety of recordings can...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: musicpsychology.co.uk  
-   Link: <a href="https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/</a>  
+   Link:<a href="https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/" target="_blank" rel="noopener noreferrer nofollow">https://musicpsychology.co.uk/musical-memory-survives-against-the-odds/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/psyarxiv/tk4gh" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/tk4gh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Previous research has shown that music evokes strong emotional responses that persist across the lifespan and over time.Read more...</p></details>
+   Link:<a href="https://osf.io/preprints/psyarxiv/tk4gh" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/tk4gh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previous research has shown that music evokes strong emotional responses that persist across the lifespan and over time.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: amusictherapy.com  
    Title: this is why live music is more powerful than recorded music  
-   Link: <a href="https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music" target="_blank" rel="noopener noreferrer nofollow">https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Live Music is More Powerful than Recorded Music4 Mar 2018 — There are three main areas where I believe live music carries an advantag...</p></details>
+   Link:<a href="https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music" target="_blank" rel="noopener noreferrer nofollow">https://www.amusictherapy.com/post/2018/03/04/this-is-why-live-music-is-more-powerful-than-recorded-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Live Music is More Powerful than Recorded Music4 Mar 2018 — There are three main areas where I believe live music carries an advantag...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: durham-repository.worktribe.com  
    Title: music evoked autobiographical memories in everyday life  
-   Link: <a href="https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>worktribe.comMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2019 · Cited by 146 — These music-evoked autobiogra...</p></details>
+   Link:<a href="https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1280299/music-evoked-autobiographical-memories-in-everyday-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>worktribe.comMusic-evoked autobiographical memories in everyday lifeby K Jakubowski · 2019 · Cited by 146 — These music-evoked autobiogra...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: The Guardian Does a song conjure painful memories?  
-   Link: <a href="https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Try to rehabilitate it, say scientistsMany people associate specific songs with emotionally charged memories, both joyful and painful. Fo...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/jul/26/does-a-song-conjure-painful-memories-try-to-rehabilitate-it-say-scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Try to rehabilitate it, say scientistsMany people associate specific songs with emotionally charged memories, both joyful and painful. Fo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nypost.com  
    Title: New York Post Music doesn't just evoke memories  
-   Link: <a href="https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the study, participants memorized neutral stories and later recalled them while listening to positive music, negative music, or silenc...</p></details>
+   Link:<a href="https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/12/22/lifestyle/music-can-change-how-we-remember-the-past-psychology-researcher-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the study, participants memorized neutral stories and later recalled them while listening to positive music, negative music, or silenc...</p></details>

@@ -272,33 +272,33 @@ image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_co
 
 ## Introduction
 
-In music, a [melody]({{ 'melody/' | relative_url }})’s emotional effect doesn’t belong solely to its sequence of pitches. Placing that same melody over different chords can dramatically change how we feel it — making it sound bright, wistful, tense or serene — without altering a single melodic note. This process of **melody reinterpretation through different harmonic contexts** is fundamental in composition, arrangement and improvisation, because [harmony]({{ 'harmony/' | relative_url }}) colours a melody’s emotional meaning by redefining the roles that individual notes play within the musical space. Reharmonization — supplying alternate chords beneath an unchanged melody — reveals how the vertical harmonic frame shapes listener perception of that melody’s emotional character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In music, a [melody]({{ 'melody/' | relative_url }})’s emotional effect doesn’t belong solely to its sequence of pitches. Placing that same melody over different chords can dramatically change how we feel it — making it sound bright, wistful, tense or serene — without altering a single melodic note. This process of **melody reinterpretation through different harmonic contexts** is fundamental in composition, arrangement and improvisation, because [harmony]({{ 'harmony/' | relative_url }}) colours a melody’s emotional meaning by redefining the roles that individual notes play within the musical space. Reharmonization — supplying alternate chords beneath an unchanged melody — reveals how the vertical harmonic frame shapes listener perception of that melody’s emotional character.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1-dark.svg" | relative_url }}" alt="Melody &amp; Harmony illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Stable versus Clashing Chord Tones
 
-When a melody is supported by a chord, the relationship between each melodic note and the chord’s tones influences emotional perception. Melodic tones that align with a chord’s constituent pitch classes (the chord tones) create a sense of consonance and stability, which listeners typically hear as relaxed or resolved. By contrast, when a sustained melody note is not a tone of the supporting chord — for example, if a chord change leaves the melody note as a non‑chord tone — this can create “suspension” or tension that feels unresolved or expressive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnotation.org.uk">[Global Notation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnotation.org.uk</span><span class="citation-popover-snippet">Global NotationGlobal Notation - Relating melody to chords...</span></span></span>
+When a melody is supported by a chord, the relationship between each melodic note and the chord’s tones influences emotional perception. Melodic tones that align with a chord’s constituent pitch classes (the chord tones) create a sense of consonance and stability, which listeners typically hear as relaxed or resolved. By contrast, when a sustained melody note is not a tone of the supporting chord — for example, if a chord change leaves the melody note as a non‑chord tone — this can create “suspension” or tension that feels unresolved or expressive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnotation.org.uk">[Global Notation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnotation.org.uk</span><span class="citation-popover-snippet">Global NotationGlobal Notation - Relating melody to chords...</span></span></span>
 
-For instance, the same E‑note in a tune can be harmonised as the root of an E major chord (E–G♯–B), suggesting stability and brightness, or as the third of a C major chord (C–E–G), shifting its perceived function within the harmony. This kind of reinterpretation plays with **vertical relationships** between melody and harmony, making a familiar melody feel different because the same pitch now serves a new harmonic identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For instance, the same E‑note in a tune can be harmonised as the root of an E major chord (E–G♯–B), suggesting stability and brightness, or as the third of a C major chord (C–E–G), shifting its perceived function within the harmony. This kind of reinterpretation plays with **vertical relationships** between melody and harmony, making a familiar melody feel different because the same pitch now serves a new harmonic identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9o7558M5ssY" title="Adding Melody to Chords | Beginner Guitar Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9o7558M5ssY" target="_blank" rel="noopener noreferrer">Adding Melody to Chords | Beginner Guitar Tips</a></p><p class="youtube-embed-meta">Channel: Guitar Center &middot; Views: 83.3K &middot; Uploaded: January 2022 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9o7558M5ssY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9o7558M5ssY">Open on YouTube</a></p></div></div></div>
 
 ## Color Tones and Added Extensions
 
-Beyond basic triads, adding extensions and colour tones in the harmony beneath a melody increases expressive possibilities. Chords with added sevenths, ninths, elevenths or thirteenths introduce richer vertical textures that can make an unchanged melody feel more complex, jazzy, or emotionally nuanced. Musicians often select chords that contain the melody note but embellish it with different **extensions** to evoke distinct colours — for example, replacing a simple major chord with a major‑7 or minor‑9 voicing, even though the melody remains the same. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iconcollective.edu/reharmonization-techniques" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iconcollective.edu">[ICON Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iconcollective.edu</span><span class="citation-popover-title">ICON Collective Learn Reharmonization and How to Reharmonize a Song</span><span class="citation-popover-snippet">ICON CollectiveLearn Reharmonization and How to Reharmonize a SongNovember 18, 2019...</span><span class="citation-popover-meta">Published: November 18, 2019</span></span></span>
+Beyond basic triads, adding extensions and colour tones in the harmony beneath a melody increases expressive possibilities. Chords with added sevenths, ninths, elevenths or thirteenths introduce richer vertical textures that can make an unchanged melody feel more complex, jazzy, or emotionally nuanced. Musicians often select chords that contain the melody note but embellish it with different **extensions** to evoke distinct colours — for example, replacing a simple major chord with a major‑7 or minor‑9 voicing, even though the melody remains the same.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iconcollective.edu/reharmonization-techniques" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iconcollective.edu">[ICON Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iconcollective.edu</span><span class="citation-popover-title">ICON Collective Learn Reharmonization and How to Reharmonize a Song</span><span class="citation-popover-snippet">ICON CollectiveLearn Reharmonization and How to Reharmonize a SongNovember 18, 2019...</span><span class="citation-popover-meta">Published: November 18, 2019</span></span></span>
 
-In the practice of reharmonization, this technique allows the harmonic context to gently shift a melody’s emotional shading without disrupting its identity. For example, substituting diatonic chords with borrowed chords from parallel modes, or inserting chords that share a melody tone but alter surrounding intervals, can make a tune feel more introspective, lush, or forward‑leaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnjazzstandards.com">[Learn Jazz Standards]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnjazzstandards.com</span><span class="citation-popover-title">Learn Jazz Standards10 Jazz Reharmonization Techniques to Transform Any Standard</span><span class="citation-popover-snippet">September 30, 2025...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
+In the practice of reharmonization, this technique allows the harmonic context to gently shift a melody’s emotional shading without disrupting its identity. For example, substituting diatonic chords with borrowed chords from parallel modes, or inserting chords that share a melody tone but alter surrounding intervals, can make a tune feel more introspective, lush, or forward‑leaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnjazzstandards.com">[Learn Jazz Standards]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnjazzstandards.com</span><span class="citation-popover-title">Learn Jazz Standards10 Jazz Reharmonization Techniques to Transform Any Standard</span><span class="citation-popover-snippet">September 30, 2025...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-2-dark.svg" | relative_url }}" alt="Melody &amp; Harmony illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of Reharmonization Effects
 
-Reharmonization illustrates how altering harmony changes the emotional character of a melody. Classical masters like J. S. Bach frequently presented the same chorale tune with widely differing harmonizations across movements, revealing new emotional contours without changing the melody itself. In some Bach chorale harmonizations, only a few of the final chords match across versions; most supporting harmonies differ dramatically, creating varied expressive effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts2.32: Reharmonizing a Melody</span><span class="citation-popover-snippet">ities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</span><span class="citation-popover-meta">Published: July 16, 2023</span></span></span>
+Reharmonization illustrates how altering harmony changes the emotional character of a melody. Classical masters like J. S. Bach frequently presented the same chorale tune with widely differing harmonizations across movements, revealing new emotional contours without changing the melody itself. In some Bach chorale harmonizations, only a few of the final chords match across versions; most supporting harmonies differ dramatically, creating varied expressive effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">Humanities Libre Texts2.32: Reharmonizing a Melody</span><span class="citation-popover-snippet">ities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</span><span class="citation-popover-meta">Published: July 16, 2023</span></span></span>
 
-In jazz, reharmonization is a core creative tool. Improvisers and arrangers take well‑known melodies — such as standards from the Great American Songbook — and apply alternate chord progressions beneath them. Techniques like chord substitution, tritone substi­tutions and borrowed chords produce fresh emotional readings while the melody line remains recognisable. These reharmonised versions may sound more modern, tension‑filled or smoother, depending on how the new chords interact with melodic tones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jazzadvice.com">[Jazz Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jazzadvice.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In jazz, reharmonization is a core creative tool. Improvisers and arrangers take well‑known melodies — such as standards from the Great American Songbook — and apply alternate chord progressions beneath them. Techniques like chord substitution, tritone substi­tutions and borrowed chords produce fresh emotional readings while the melody line remains recognisable. These reharmonised versions may sound more modern, tension‑filled or smoother, depending on how the new chords interact with melodic tones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jazzadvice.com">[Jazz Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jazzadvice.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Another concrete example from jazz theory shows how changing the harmonic context beneath a familiar tune like “All the Things You Are” can transform its mood: harmonising each melody note as a different chord member (e.g. third, seventh or extension) produces progressions that depart dramatically from the original changes but preserve the tune’s identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnjazzstandards.com">[Learn Jazz Standards]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnjazzstandards.com</span><span class="citation-popover-title">Learn Jazz Standards10 Jazz Reharmonization Techniques to Transform Any Standard</span><span class="citation-popover-snippet">September 30, 2025...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
+Another concrete example from jazz theory shows how changing the harmonic context beneath a familiar tune like “All the Things You Are” can transform its mood: harmonising each melody note as a different chord member (e.g. third, seventh or extension) produces progressions that depart dramatically from the original changes but preserve the tune’s identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learnjazzstandards.com">[Learn Jazz Standards]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learnjazzstandards.com</span><span class="citation-popover-title">Learn Jazz Standards10 Jazz Reharmonization Techniques to Transform Any Standard</span><span class="citation-popover-snippet">September 30, 2025...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
 
-In all these cases, the mechanism is the same: **the same melody takes on new emotional colours because the chords underneath redefine the role of each pitch, alter tension and release patterns, and change expectation**. Simply put, harmony gives context — and that context shapes how the melody is felt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In all these cases, the mechanism is the same: **the same melody takes on new emotional colours because the chords underneath redefine the role of each pitch, alter tension and release patterns, and change expectation**. Simply put, harmony gives context — and that context shapes how the melody is felt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/csXcXYyvq40" title="Changing Harmony from Major to Minor - Music Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=csXcXYyvq40" target="_blank" rel="noopener noreferrer">Changing Harmony from Major to Minor - Music Theory</a></p><p class="youtube-embed-meta">Channel: Music Matters &middot; Views: 8.6K &middot; Uploaded: May 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=csXcXYyvq40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=csXcXYyvq40">Open on YouTube</a></p></div></div></div>
 
@@ -306,201 +306,201 @@ In all these cases, the mechanism is the same: **the same melody takes on new em
 
 ## Implementation in Practice
 
-Practically, reharmonizing a melody involves identifying key melody tones and choosing chords that either reinforce stability or introduce expressive tension. Musicians typically start with chords that contain the melody note but then experiment with substitutions that still fit melodically while introducing new harmonic colours. In jazz and contemporary practice, this leads to a rich palette of harmonic possibilities that can make the same melody sound wistful, surprising or poignant, depending on the chosen context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejazzpianosite.com">[TJPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejazzpianosite.com</span><span class="citation-popover-title">TJPSHow to Reharmonize a Song</span><span class="citation-popover-snippet">Reharmonization - TJPS...</span></span></span>
+Practically, reharmonizing a melody involves identifying key melody tones and choosing chords that either reinforce stability or introduce expressive tension. Musicians typically start with chords that contain the melody note but then experiment with substitutions that still fit melodically while introducing new harmonic colours. In jazz and contemporary practice, this leads to a rich palette of harmonic possibilities that can make the same melody sound wistful, surprising or poignant, depending on the chosen context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejazzpianosite.com">[TJPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejazzpianosite.com</span><span class="citation-popover-title">TJPSHow to Reharmonize a Song</span><span class="citation-popover-snippet">Reharmonization - TJPS...</span></span></span>
 
-By focusing on how chords relate to melody — whether by strengthening consonance or intentionally creating tension through non‑chord tones and colour extensions — musicians harness harmony to reinterpret emotional meaning while leaving the melody itself untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://college.berklee.edu/bt/131/reharmonizing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.berklee.edu">[college.berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.berklee.edu</span><span class="citation-popover-title">Today &#124; Berklee College of Music</span><span class="citation-popover-snippet">Berklee Today &#124; Berklee College of Music...</span></span></span>
+By focusing on how chords relate to melody — whether by strengthening consonance or intentionally creating tension through non‑chord tones and colour extensions — musicians harness harmony to reinterpret emotional meaning while leaving the melody itself untouched.<span class="citation-chip-wrap"><a class="citation-chip" href="https://college.berklee.edu/bt/131/reharmonizing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.berklee.edu">[college.berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.berklee.edu</span><span class="citation-popover-title">Today &#124; Berklee College of Music</span><span class="citation-popover-snippet">Berklee Today &#124; Berklee College of Music...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-3-dark.svg" | relative_url }}" alt="Melody &amp; Harmony illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Harmony Reinterprets the Emotional Meaning of a Melody. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Harmony Reinterprets the Emotional Meaning of a Melody. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony+Joe+Mulholland+and+Tom+Hojnacki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Berklee Book Of Jazz Harmony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7858016-M.jpg" alt="Cover for The Berklee Book Of Jazz Harmony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony+Joe+Mulholland+and+Tom+Hojnacki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Berklee Book Of Jazz Harmony">The Berklee Book Of Jazz Harmony</a>
-        </h4>
-        <p class="fr-book-author">By Joe Mulholland and Tom Hojnacki</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony+Joe+Mulholland+and+Tom+Hojnacki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Berklee Book Of Jazz Harmony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7858016-M.jpg" alt="Cover for The Berklee Book Of Jazz Harmony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony+Joe+Mulholland+and+Tom+Hojnacki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Berklee Book Of Jazz Harmony">The Berklee Book Of Jazz Harmony</a>
+</h4>
+<p class="fr-book-author">By Joe Mulholland and Tom Hojnacki</p>
         
-        <p class="fr-book-desc">Demonstrates reharmonization and emotional color changes beneath melodies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony+Joe+Mulholland+and+Tom+Hojnacki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates reharmonization and emotional color changes beneath melodies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony+Joe+Mulholland+and+Tom+Hojnacki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides accessible discussion of how musical context shapes listener perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible discussion of how musical context shapes listener perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition+Steven+G.+Laitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7509213-M.jpg" alt="Cover for Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition+Steven+G.+Laitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition">Writing And Analysis Workbook To Accompany The Complete Music...</a>
-        </h4>
-        <p class="fr-book-author">By Steven G. Laitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition+Steven+G.+Laitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7509213-M.jpg" alt="Cover for Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition+Steven+G.+Laitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition">Writing And Analysis Workbook To Accompany The Complete Music...</a>
+</h4>
+<p class="fr-book-author">By Steven G. Laitz</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Musical analysis, Music theory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition+Steven+G.+Laitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Musical analysis, Music theory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition+Steven+G.+Laitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open PKG Tonal Harmony with Workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="PKG Tonal Harmony with Workbook">PKG Tonal Harmony with Workbook</a>
-        </h4>
-        <p class="fr-book-author">By Stefan Kostka, Dorothy Payne et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open PKG Tonal Harmony with Workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="PKG Tonal Harmony with Workbook">PKG Tonal Harmony with Workbook</a>
+</h4>
+<p class="fr-book-author">By Stefan Kostka, Dorothy Payne et al.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Music, history and criticism, 20th century, Music, Instruction &amp; study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Music, history and criticism, 20th century, Music, Instruction &amp; study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=PKG+Tonal+Harmony+with+Workbook+Stefan+Kostka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Berklee Book Of Jazz Harmony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Berklee+Book+Of+Jazz+Harmony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Berklee Book Of Jazz Harmony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+And+Analysis+Workbook+To+Accompany+The+Complete+Musician+An+Integrated+Approach+To+Tonal+Theory+Analysis+And+Listening+3rd+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing And Analysis Workbook To Accompany The Complete Musician An Integrated Approach To Tonal Theory Analysis And Listening 3rd Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid"><img src="{{ '/assets/images/marketplace-covers/f87a10e48abe3cf29759.jpg' | relative_url }}" alt="Listing image for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid"><img src="{{ '/assets/images/marketplace-covers/f87a10e48abe3cf29759.jpg' | relative_url }}" alt="Listing image for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/64f645da7024539237af.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/64f645da7024539237af.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster (Grey-W) - Piano Chords Chart, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/a2f3bc39e2be0bd37281.jpg' | relative_url }}" alt="Listing image for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/a2f3bc39e2be0bd37281.jpg' | relative_url }}" alt="Listing image for Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chords, Scales and Music Theory Poster - The Ultimate Piano Poster (A1/A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/2b9ff606606f5db5bb91.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/2b9ff606606f5db5bb91.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="melody-harmony-how-harmony-reinterprets-the-emotional-meaning-of-a-melody-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -516,7 +516,7 @@ By focusing on how chords relate to melody — whether by strengthening consonan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -536,7 +536,7 @@ By focusing on how chords relate to melody — whether by strengthening consonan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -568,7 +568,7 @@ By focusing on how chords relate to melody — whether by strengthening consonan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -620,7 +620,7 @@ By focusing on how chords relate to melody — whether by strengthening consonan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -665,7 +665,7 @@ By focusing on how chords relate to melody — whether by strengthening consonan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,120 +706,120 @@ By focusing on how chords relate to melody — whether by strengthening consonan
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harmonization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Harmonization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harmonization</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: human.libretexts.org  
    Title: Humanities Libre Texts2.32: Reharmonizing a Melody  
-   Link: <a href="https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</p></details>
+   Link:<a href="https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Music/Music_Theory/Sound_Reasoning_%28Brandt_and_McClure%29/02%3A_Part_II-_Hearing_Harmony/2.32%3A_Reharmonizing_a_Melody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts2.32: Reharmonizing a Melody - Humanities LibreTextsJuly 16, 2023...</p></details>
    Published: July 16, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thejazzpianosite.com  
    Title: TJPSHow to Reharmonize a Song  
-   Link: <a href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reharmonization - TJPS...</p></details>
+   Link:<a href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/how-to-reharmonize-a-song/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reharmonization - TJPS...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: college.berklee.edu  
    Title: Today | Berklee College of Music  
-   Link: <a href="https://college.berklee.edu/bt/131/reharmonizing.html" target="_blank" rel="noopener noreferrer nofollow">https://college.berklee.edu/bt/131/reharmonizing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Berklee Today | Berklee College of Music...</p></details>
+   Link:<a href="https://college.berklee.edu/bt/131/reharmonizing.html" target="_blank" rel="noopener noreferrer nofollow">https://college.berklee.edu/bt/131/reharmonizing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berklee Today | Berklee College of Music...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: berklee.edu  
-   Link: <a href="https://www.berklee.edu/berklee-today/summer-2001/Reharmonization" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-today/summer-2001/Reharmonization</a>  
+   Link:<a href="https://www.berklee.edu/berklee-today/summer-2001/Reharmonization" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-today/summer-2001/Reharmonization</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: globalnotation.org.uk  
-   Link: <a href="https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords" target="_blank" rel="noopener noreferrer nofollow">https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NotationGlobal Notation - Relating melody to chords...</p></details>
+   Link:<a href="https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords" target="_blank" rel="noopener noreferrer nofollow">https://www.globalnotation.org.uk/pitch-combinations/relating-melody-to-chords</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NotationGlobal Notation - Relating melody to chords...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iconcollective.edu  
    Title: ICON Collective Learn Reharmonization and How to Reharmonize a Song  
-   Link: <a href="https://www.iconcollective.edu/reharmonization-techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.iconcollective.edu/reharmonization-techniques</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICON CollectiveLearn Reharmonization and How to Reharmonize a SongNovember 18, 2019...</p></details>
+   Link:<a href="https://www.iconcollective.edu/reharmonization-techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.iconcollective.edu/reharmonization-techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICON CollectiveLearn Reharmonization and How to Reharmonize a SongNovember 18, 2019...</p></details>
    Published: November 18, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: learnjazzstandards.com  
    Title: Learn Jazz Standards10 Jazz Reharmonization Techniques to Transform Any Standard  
-   Link: <a href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2025...</p></details>
+   Link:<a href="https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.learnjazzstandards.com/blog/jazz-reharmonization-techniques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2025...</p></details>
    Published: September 30, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jazzadvice.com  
-   Link: <a href="https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/</a>  
+   Link:<a href="https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.jazzadvice.com/lessons/jazz-contrafacts-and-reharmonization-a-creative-approach-to-jazz-standards/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blog.dubspot.com  
-   Link: <a href="https://blog.dubspot.com/reharmonization" target="_blank" rel="noopener noreferrer nofollow">https://blog.dubspot.com/reharmonization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog 2. Music Theory 3. Music Theory Tutorial: Reharmonization Music Theory April 3, 2015 5 min read MUSIC THEORY TUTORIAL: REHARMONI...</p></details>
+   Link:<a href="https://blog.dubspot.com/reharmonization" target="_blank" rel="noopener noreferrer nofollow">https://blog.dubspot.com/reharmonization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blog 2. Music Theory 3. Music Theory Tutorial: Reharmonization Music Theory April 3, 2015 5 min read MUSIC THEORY TUTORIAL: REHARMONI...</p></details>
    Published: April 3, 2015  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: chromatone.center  
-   Link: <a href="https://chromatone.center/theory/harmony/reharmonization/" target="_blank" rel="noopener noreferrer nofollow">https://chromatone.center/theory/harmony/reharmonization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reharmonization | Chromatone.centerReharmonization How to reharmonize a song Image REHARMONIZATION = CHORD SUBSTITUTION BUT FOR THE WHOLE...</p></details>
+   Link:<a href="https://chromatone.center/theory/harmony/reharmonization/" target="_blank" rel="noopener noreferrer nofollow">https://chromatone.center/theory/harmony/reharmonization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reharmonization | Chromatone.centerReharmonization How to reharmonize a song Image REHARMONIZATION = CHORD SUBSTITUTION BUT FOR THE WHOLE...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jazztutorial.com  
-   Link: <a href="https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano" target="_blank" rel="noopener noreferrer nofollow">https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano</a>  
+   Link:<a href="https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano" target="_blank" rel="noopener noreferrer nofollow">https://jazztutorial.com/articles/reharmonization-lesson-for-jazz-piano</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: musiqa.org  
    Title: 18.2 Harmony in Western Music 18.3 Expressing Harmony 18.4 Listening Galle  
-   Link: <a href="https://musiqa.org/sound-reasoning-18-32/" target="_blank" rel="noopener noreferrer nofollow">https://musiqa.org/sound-reasoning-18-32/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Reasoning 18.32 | MusiqaSOUND REASONING TABLE OF CONTENTS Part I: Sound Reasoning Part II: Hearing Harmony 18.1 Hearing Harmony: Wh...</p></details>
+   Link:<a href="https://musiqa.org/sound-reasoning-18-32/" target="_blank" rel="noopener noreferrer nofollow">https://musiqa.org/sound-reasoning-18-32/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Reasoning 18.32 | MusiqaSOUND REASONING TABLE OF CONTENTS Part I: Sound Reasoning Part II: Hearing Harmony 18.1 Hearing Harmony: Wh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you suspect this is your content, claim it here. Available Format...</p></details>
+   Link:<a href="https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/770212312/Reharmonization-Reference-Guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you suspect this is your content, claim it here. Available Format...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thejazzpianosite.com  
    Title: How to turn any Song into a Jazz Song  
-   Link: <a href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TJPSHOW TO TURN ANY SONG INTO A JAZZ SONG MAKE IT JAZZY In this lesson and the below video, we will explore how you can turn any song int...</p></details>
+   Link:<a href="https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/turn-song-jazz-song/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TJPSHOW TO TURN ANY SONG INTO A JAZZ SONG MAKE IT JAZZY In this lesson and the below video, we will explore how you can turn any song int...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: How to Instantly Figure Out Chords to Simple Melodies  
-   Link: <a href="https://www.youtube.com/watch?v=A2wGZ6Vq-5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2wGZ6Vq-5k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video How to Harmonize a Tough Melody is particularly relevant as it demonstrates the practical application of reharmonizing a well-k...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A2wGZ6Vq-5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2wGZ6Vq-5k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video How to Harmonize a Tough Melody is particularly relevant as it demonstrates the practical application of reharmonizing a well-k...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jazzpianoblog.com  
    Title: Reharmonization – First Steps  
-   Link: <a href="https://jazzpianoblog.com/reharmonization-first-steps/" target="_blank" rel="noopener noreferrer nofollow">https://jazzpianoblog.com/reharmonization-first-steps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It’s kind of a funny word when you first encounter it. It means exactly what it sounds like. To reharmonize something is t...</p></details>
+   Link:<a href="https://jazzpianoblog.com/reharmonization-first-steps/" target="_blank" rel="noopener noreferrer nofollow">https://jazzpianoblog.com/reharmonization-first-steps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It’s kind of a funny word when you first encounter it. It means exactly what it sounds like. To reharmonize something is t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Sep 29;2019:2369041. doi: 10.34133/2019/2369041 THE SCIENCE OF HARMONY: A PSYCHOPHYSICAL BASIS FOR PERCEPTUAL TENSIONS AND RESOLUTIO...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7006947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Sep 29;2019:2369041. doi: 10.34133/2019/2369041 THE SCIENCE OF HARMONY: A PSYCHOPHYSICAL BASIS FOR PERCEPTUAL TENSIONS AND RESOLUTIO...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0305735614552006" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735614552006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chords convey distinct emotional qualities to both naïve and expert listeners - Imre Lahdelma, Tuomas Eerola, 2016October 15, 2014 — SING...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0305735614552006" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0305735614552006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chords convey distinct emotional qualities to both naïve and expert listeners - Imre Lahdelma, Tuomas Eerola, 2016October 15, 2014 — SING...</p></details>
    Published: October 15, 2014  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: This Melody System Changes Everything  
-   Link: <a href="https://www.youtube.com/watch?v=3FjRhN-f6Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3FjRhN-f6Y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Instantly Figure Out Chords to Simple Melodies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3FjRhN-f6Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3FjRhN-f6Y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Instantly Figure Out Chords to Simple Melodies...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: letslearntogether.neocities.org  
-   Link: <a href="https://letslearntogether.neocities.org/music/reharmony" target="_blank" rel="noopener noreferrer nofollow">https://letslearntogether.neocities.org/music/reharmony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We are &quot;re-doing&quot; the Harmony, hence the term &quot;Reharmonization&quot;. The musician...</p></details>
+   Link:<a href="https://letslearntogether.neocities.org/music/reharmony" target="_blank" rel="noopener noreferrer nofollow">https://letslearntogether.neocities.org/music/reharmony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are &quot;re-doing&quot; the Harmony, hence the term &quot;Reharmonization&quot;. The musician...</p></details>

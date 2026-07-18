@@ -274,14 +274,14 @@ image: /assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_9288
 
 ## Introduction
 
-A K-pop hit is often designed to be remembered not only through its [melody]({{ 'melody/' | relative_url }}) but through a specific movement. Industry insiders and scholars commonly call this a “point choreography” or “point dance”: a short, recognisable gesture, sequence or pose that condenses the identity of a song into something fans can learn, imitate and share. Rather than treating choreography as decoration around the music, K-pop frequently builds [choruses]({{ 'choruses/' | relative_url }}) around movements that can be recognised within seconds. The result is a repeatable hook that travels across music shows, dance covers, TikTok clips, fan gatherings and casual social media posts. In the broader K-pop fan system, this transforms listening into participation and gives a song a second life beyond streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentK-Pop Dance Music Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</span></span></span>
+A K-pop hit is often designed to be remembered not only through its [melody]({{ 'melody/' | relative_url }}) but through a specific movement. Industry insiders and scholars commonly call this a “point choreography” or “point dance”: a short, recognisable gesture, sequence or pose that condenses the identity of a song into something fans can learn, imitate and share. Rather than treating choreography as decoration around the music, K-pop frequently builds [choruses]({{ 'choruses/' | relative_url }}) around movements that can be recognised within seconds. The result is a repeatable hook that travels across music shows, dance covers, TikTok clips, fan gatherings and casual social media posts. In the broader K-pop fan system, this transforms listening into participation and gives a song a second life beyond streaming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentK-Pop Dance Music Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-dark.svg" | relative_url }}" alt="Dance Hooks illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How point choreography turns songs into routines
 
-The core idea behind a dance point is simple: compress a song’s identity into a movement that ordinary people can recognise and reproduce. While full K-pop choreographies may be technically demanding, the signature moment is often comparatively accessible. A hand gesture, shoulder movement, finger sign, body outline or repeated step becomes the visual equivalent of a musical chorus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
+The core idea behind a dance point is simple: compress a song’s identity into a movement that ordinary people can recognise and reproduce. While full K-pop choreographies may be technically demanding, the signature moment is often comparatively accessible. A hand gesture, shoulder movement, finger sign, body outline or repeated step becomes the visual equivalent of a musical chorus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
 
-Researchers of K-pop dance describe these routines as relying heavily on “gestural point choreography” — movements that read clearly from the front, emphasise the upper body and facial expression, and remain visually legible even on small screens. This design makes them particularly effective in an era of short-form video and mobile viewing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
+Researchers of K-pop dance describe these routines as relying heavily on “gestural point choreography” — movements that read clearly from the front, emphasise the upper body and facial expression, and remain visually legible even on small screens. This design makes them particularly effective in an era of short-form video and mobile viewing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
 
 Several characteristics make a dance point effective:
 
@@ -289,7 +289,7 @@ Several characteristics make a dance point effective:
 * **Visual distinctiveness:** the gesture looks different from competing songs.
 * **Musical alignment:** the movement lands precisely on memorable [lyrics]({{ 'lyrics/' | relative_url }}), beats or [hooks]({{ 'hooks/' | relative_url }}).
 * **Reproducibility:** fans can perform at least part of it without professional training.
-* **Camera friendliness:** the movement remains clear in vertical video formats and close-up shots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
+* **Camera friendliness:** the movement remains clear in vertical video formats and close-up shots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
 
 This is one reason why some K-pop choreographies remain culturally visible long after release. Even when people forget verses or production details, they often remember the signature move.
 
@@ -297,241 +297,241 @@ This is one reason why some K-pop choreographies remain culturally visible long 
 
 ## Why K-pop choruses are built to move
 
-In many pop markets, a chorus is primarily an audio event. In K-pop, it is frequently designed as an audio-visual event. The strongest choruses often coincide with the choreography's defining moment, creating a link between what listeners hear and what they see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentK-Pop Dance Music Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</span></span></span>
+In many pop markets, a chorus is primarily an audio event. In K-pop, it is frequently designed as an audio-visual event. The strongest choruses often coincide with the choreography's defining moment, creating a link between what listeners hear and what they see.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentK-Pop Dance Music Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</span></span></span>
 
-This approach changes how songs spread. A catchy melody can be replayed, but a catchy movement can be replayed, performed, filmed and compared. Every fan who learns the routine effectively becomes a small-scale distributor of the song. The dance point therefore functions as a mechanism that converts spectators into participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
+This approach changes how songs spread. A catchy melody can be replayed, but a catchy movement can be replayed, performed, filmed and compared. Every fan who learns the routine effectively becomes a small-scale distributor of the song. The dance point therefore functions as a mechanism that converts spectators into participants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
 
-The strategy can also reduce the barrier to entry for new audiences. Someone encountering a challenge clip may engage first with the movement and only later become interested in the full song or artist. The choreography becomes an alternative discovery path into the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spir.aoir.org/ojs/index.php/spir/article/view/13983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spir.aoir.org">[AoIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spir.aoir.org</span><span class="citation-popover-snippet">EXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</span></span></span>
+The strategy can also reduce the barrier to entry for new audiences. Someone encountering a challenge clip may engage first with the movement and only later become interested in the full song or artist. The choreography becomes an alternative discovery path into the music itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spir.aoir.org/ojs/index.php/spir/article/view/13983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spir.aoir.org">[AoIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spir.aoir.org</span><span class="citation-popover-snippet">EXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</span></span></span>
 
 ## Why dance practices and covers extend a comeback
 
 A K-pop comeback rarely ends when promotion on television finishes. Dance practices, performance videos and cover performances allow choreography to continue circulating after the initial release period.
 
-Dance practice videos are particularly important because they present choreography without the distractions of costumes, editing or stage effects. Fans can study formations, timing and technique directly. The popularity of these videos demonstrates that audiences often consume choreography as content in its own right rather than merely as accompaniment to a song. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivywxy.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivywxy.medium.com</span><span class="citation-popover-snippet">Point Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</span></span></span>
+Dance practice videos are particularly important because they present choreography without the distractions of costumes, editing or stage effects. Fans can study formations, timing and technique directly. The popularity of these videos demonstrates that audiences often consume choreography as content in its own right rather than merely as accompaniment to a song.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivywxy.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivywxy.medium.com</span><span class="citation-popover-snippet">Point Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</span></span></span>
 
-Cover [culture]({{ 'culture/' | relative_url }}) extends this cycle further. Around the world, fans learn routines individually or in groups, upload performances and organise public events centred on K-pop choreography. Research on K-pop dance communities shows that imitation is not simply copying; it is a form of participation through which fans build identity, social connections and visibility within fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
+Cover [culture]({{ 'culture/' | relative_url }}) extends this cycle further. Around the world, fans learn routines individually or in groups, upload performances and organise public events centred on K-pop choreography. Research on K-pop dance communities shows that imitation is not simply copying; it is a form of participation through which fans build identity, social connections and visibility within fandom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span>
 
-Random Play Dance events illustrate the mechanism clearly. Participants gather in public spaces, songs are played unpredictably, and anyone who knows the choreography jumps in. Success depends on the existence of widely recognised dance points. These events turn shared choreographic knowledge into a social activity and keep older songs culturally active long after their release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
+Random Play Dance events illustrate the mechanism clearly. Participants gather in public spaces, songs are played unpredictably, and anyone who knows the choreography jumps in. Success depends on the existence of widely recognised dance points. These events turn shared choreographic knowledge into a social activity and keep older songs culturally active long after their release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
 
-The growing popularity of dedicated K-pop dance classes outside Korea reflects the same dynamic. Fans are not only consuming recordings; they are learning [physical]({{ 'physical/' | relative_url }}) routines associated with them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">the classes just keep growing how k pop dancing is taking off in the uk</span><span class="citation-popover-snippet">Her classes, divided between girl group and boy group routines, teach choreography from popular K-pop bands like BTS and Blackpink, often...</span></span></span>
+The growing popularity of dedicated K-pop dance classes outside Korea reflects the same dynamic. Fans are not only consuming recordings; they are learning [physical]({{ 'physical/' | relative_url }}) routines associated with them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">the classes just keep growing how k pop dancing is taking off in the uk</span><span class="citation-popover-snippet">Her classes, divided between girl group and boy group routines, teach choreography from popular K-pop bands like BTS and Blackpink, often...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-2-dark.svg" | relative_url }}" alt="Dance Hooks illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where participation becomes promotion
 
 The most powerful aspect of the dance point is that it blurs the line between fandom and marketing. When fans perform choreography online, they are expressing enthusiasm, but they are also increasing the song's visibility.
 
-This became especially important during the rise of social video platforms. Dance challenges encourage users to recreate a signature section of choreography and upload their own version. Because challenges are based on replication rather than passive viewing, they generate large numbers of user-created videos tied to the same song. Research on challenge-based social media shows that participation and imitation are central mechanisms of distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This became especially important during the rise of social video platforms. Dance challenges encourage users to recreate a signature section of choreography and upload their own version. Because challenges are based on replication rather than passive viewing, they generate large numbers of user-created videos tied to the same song. Research on challenge-based social media shows that participation and imitation are central mechanisms of distribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-K-pop companies increasingly design choreography with this environment in mind. Signature sections are frequently isolated into challenge-friendly clips, and idols often perform them alongside other artists, influencers or fans. The dance point becomes a reusable media asset that can be detached from the full performance and circulated independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue NCT 127 Did a &quot;Kick It&quot; Challenge Started by Three Chicago Teens</span><span class="citation-popover-snippet">NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</span></span></span>
+K-pop companies increasingly design choreography with this environment in mind. Signature sections are frequently isolated into challenge-friendly clips, and idols often perform them alongside other artists, influencers or fans. The dance point becomes a reusable media asset that can be detached from the full performance and circulated independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue NCT 127 Did a &quot;Kick It&quot; Challenge Started by Three Chicago Teens</span><span class="citation-popover-snippet">NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</span></span></span>
 
-The viral spread of challenge culture demonstrates how effective this can be. Fan-created dance trends have sometimes become large enough that artists themselves join them, reversing the traditional relationship between promoter and audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue NCT 127 Did a &quot;Kick It&quot; Challenge Started by Three Chicago Teens</span><span class="citation-popover-snippet">NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</span></span></span>
+The viral spread of challenge culture demonstrates how effective this can be. Fan-created dance trends have sometimes become large enough that artists themselves join them, reversing the traditional relationship between promoter and audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue NCT 127 Did a &quot;Kick It&quot; Challenge Started by Three Chicago Teens</span><span class="citation-popover-snippet">NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-dark.svg" | relative_url }}" alt="Dance Hooks illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The balance between simplicity and spectacle
 
 A useful tension sits at the centre of K-pop choreography. Entire routines are often demanding, requiring precision, stamina and synchronisation. Yet the most memorable section is frequently much simpler.
 
-This balance is deliberate. Spectacle gives performances their professional appeal, while simplicity gives audiences a way to participate. If every movement were difficult, fewer people would attempt covers. If everything were easy, the performance might lose its sense of skill and distinction. The dance point acts as a bridge between idol-level execution and fan-level participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This balance is deliberate. Spectacle gives performances their professional appeal, while simplicity gives audiences a way to participate. If every movement were difficult, fewer people would attempt covers. If everything were easy, the performance might lose its sense of skill and distinction. The dance point acts as a bridge between idol-level execution and fan-level participation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Synchronisation remains a major part of K-pop's visual identity, but the dance point provides the entry point through which audiences engage with that synchronisation. Fans may not learn an entire routine, yet they can still perform the song's defining gesture and feel connected to the performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Synchronisation remains a major part of K-pop's visual identity, but the dance point provides the entry point through which audiences engage with that synchronisation. Fans may not learn an entire routine, yet they can still perform the song's defining gesture and feel connected to the performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why dance hooks matter to the fan system
 
 The importance of K-pop dance points goes beyond choreography itself. They solve a distribution problem. Music can be heard, but movements can be demonstrated, copied and socially verified. A memorable dance point creates a repeatable behaviour that fans can perform publicly, compare with others and share across platforms.
 
-That makes choreography more than stagecraft. It becomes infrastructure for fandom. A song with a successful dance point is not only listened to; it is rehearsed, filmed, taught, challenged, covered and replayed through bodies as well as speakers. In K-pop's fan system, that repeatability is what turns a chorus into a community activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[2Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
+That makes choreography more than stagecraft. It becomes infrastructure for fandom. A song with a successful dance point is not only listened to; it is rehearsed, filmed, taught, challenged, covered and replayed through bodies as well as speakers. In K-pop's fan system, that repeatability is what turns a chorus into a community activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">ocial media. Based on five years of ethnographic fieldwork.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post45.org">[2Post45]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post45.org</span><span class="citation-popover-snippet">Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8fFewqdVd8E" title="Cigarettes After Sex - K. (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer">Cigarettes After Sex - K. (Lyrics)</a></p><p class="youtube-embed-meta">Channel: Dan Music &middot; Views: 11.8K &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8fFewqdVd8E">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why K pop choruses are built to move. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why K pop choruses are built to move. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
-        </h4>
-        <p class="fr-book-author">By Suk-Young Kim</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
+</h4>
+<p class="fr-book-author">By Suk-Young Kim</p>
         
-        <p class="fr-book-desc">Discusses choreography, stagecraft and fan participation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses choreography, stagecraft and fan participation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explains how performance contexts shape musical design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how performance contexts shape musical design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Helps explain why memorable hooks and repetition work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why memorable hooks and repetition work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
-        </h4>
-        <p class="fr-book-author">By John Lie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
+</h4>
+<p class="fr-book-author">By John Lie</p>
         
-        <p class="fr-book-desc">Provides context for performance-driven promotion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for performance-driven promotion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KPOP DEMON HUNTERS 2025 MOVIE POSTER A5 A4 A3 A3+"><img src="{{ '/assets/images/marketplace-covers/10ee948d79e5336fc9f3.jpg' | relative_url }}" alt="Listing image for KPOP DEMON HUNTERS 2025 MOVIE POSTER A5 A4 A3 A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">KPOP DEMON HUNTERS 2025 MOVIE POSTER A5 A4 A3 A3+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KPOP DEMON HUNTERS 2025 MOVIE POSTER A5 A4 A3 A3+"><img src="{{ '/assets/images/marketplace-covers/10ee948d79e5336fc9f3.jpg' | relative_url }}" alt="Listing image for KPOP DEMON HUNTERS 2025 MOVIE POSTER A5 A4 A3 A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">KPOP DEMON HUNTERS 2025 MOVIE POSTER A5 A4 A3 A3+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K Pop Demon Hunters Poster | A4 A3 A2 Anime Kpop Wall Art Bedroom Decor Print"><img src="{{ '/assets/images/marketplace-covers/4e1b6b16d0694f708334.jpg' | relative_url }}" alt="Listing image for K Pop Demon Hunters Poster | A4 A3 A2 Anime Kpop Wall Art Bedroom Decor Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">K Pop Demon Hunters Poster | A4 A3 A2 Anime Kpop Wall Art Bedroom Decor Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K Pop Demon Hunters Poster | A4 A3 A2 Anime Kpop Wall Art Bedroom Decor Print"><img src="{{ '/assets/images/marketplace-covers/4e1b6b16d0694f708334.jpg' | relative_url }}" alt="Listing image for K Pop Demon Hunters Poster | A4 A3 A2 Anime Kpop Wall Art Bedroom Decor Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">K Pop Demon Hunters Poster | A4 A3 A2 Anime Kpop Wall Art Bedroom Decor Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kpop Birthday Party Supply Plates Napkins Backdrop Decor Cake Toppers"><img src="{{ '/assets/images/marketplace-covers/992d8a3d3816b9484dac.jpg' | relative_url }}" alt="Listing image for Kpop Birthday Party Supply Plates Napkins Backdrop Decor Cake Toppers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kpop Birthday Party Supply Plates Napkins Backdrop Decor Cake Toppers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kpop Birthday Party Supply Plates Napkins Backdrop Decor Cake Toppers"><img src="{{ '/assets/images/marketplace-covers/992d8a3d3816b9484dac.jpg' | relative_url }}" alt="Listing image for Kpop Birthday Party Supply Plates Napkins Backdrop Decor Cake Toppers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kpop Birthday Party Supply Plates Napkins Backdrop Decor Cake Toppers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kpop Demon Hunters Full Gloss Printed Poster A3 Size"><img src="{{ '/assets/images/marketplace-covers/3a79df5f794133edea9c.jpg' | relative_url }}" alt="Listing image for Kpop Demon Hunters Full Gloss Printed Poster A3 Size" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kpop Demon Hunters Full Gloss Printed Poster A3 Size</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kpop Demon Hunters Full Gloss Printed Poster A3 Size"><img src="{{ '/assets/images/marketplace-covers/3a79df5f794133edea9c.jpg' | relative_url }}" alt="Listing image for Kpop Demon Hunters Full Gloss Printed Poster A3 Size" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kpop Demon Hunters Full Gloss Printed Poster A3 Size</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kpop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: kpop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=kpop+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="kpop poster -book -books" data-ebay-reference="dance-hooks-why-k-pop-choruses-are-built-to-move-music-kpop-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ That makes choreography more than stagecraft. It becomes infrastructure for fand
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ That makes choreography more than stagecraft. It becomes infrastructure for fand
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ That makes choreography more than stagecraft. It becomes infrastructure for fand
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ That makes choreography more than stagecraft. It becomes infrastructure for fand
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ That makes choreography more than stagecraft. It becomes infrastructure for fand
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,110 +737,110 @@ That makes choreography more than stagecraft. It becomes infrastructure for fand
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentK-Pop [Dance Music](&amp;#123;&amp;#123; &#x27;dance-music/&#x27; | relative_url &amp;#125;&amp;#125;) Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-kpop/kpop-dance-music-video-choreography/CE7D6783D0580EA9A33635B128961EB2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentK-Pop [Dance Music](&amp;#123;&amp;#123; &#x27;dance-music/&#x27; | relative_url &amp;#125;&amp;#125;) Video Choreography (Chapter 5)2 Mar 2023 — This chapter focuses on K-pop dance c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ocial media. Based on five years of ethnographic fieldwork.Read more...</p></details>
+   Link:<a href="https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/k-pop-dance-fandoming-yourself-on-social-media-1032079428-9781032079424.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ocial media. Based on five years of ethnographic fieldwork.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ivywxy.medium.com  
-   Link: <a href="https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2" target="_blank" rel="noopener noreferrer nofollow">https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Point Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</p></details>
+   Link:<a href="https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2" target="_blank" rel="noopener noreferrer nofollow">https://ivywxy.medium.com/point-choreography-in-k-pop-d392a27089e2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Point Choreography in K-PopPoint Choreography in K-Pop A Deep Dive Into What Makes K-Pop Dance Moves “Iconic” Choreography and the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: post45.org  
-   Link: <a href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow">https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</p></details>
+   Link:<a href="https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/" target="_blank" rel="noopener noreferrer nofollow">https://post45.org/2023/02/embodying-k-pop-in-public-the-inter-subjective-kinesthesia-in-k-pop-random-play-dance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Embodying K-Pop in Public: The (Inter-)Subjective...23 Feb 2023 — This dance challenge game invites global K-pop fans to communica...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spir.aoir.org  
-   Link: <a href="https://spir.aoir.org/ojs/index.php/spir/article/view/13983" target="_blank" rel="noopener noreferrer nofollow">https://spir.aoir.org/ojs/index.php/spir/article/view/13983</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</p></details>
+   Link:<a href="https://spir.aoir.org/ojs/index.php/spir/article/view/13983" target="_blank" rel="noopener noreferrer nofollow">https://spir.aoir.org/ojs/index.php/spir/article/view/13983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLORING THE NEXUS OF K-POP DANCE CHALLENGESby J Lee · 2024 · Cited by 1 — This paper interrogates how this phenomenon has evolved i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.13384</a>  
+   Link:<a href="https://arxiv.org/abs/2112.13384" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.13384</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2503.19917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.19917</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on the Matching Rate of Dance Movements Using...March 6, 2025 — by A Simojo · 2025 — In this study, we analyzed SEVENTEEN&#x27;s...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2503.19917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2503.19917</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on the Matching Rate of Dance Movements Using...March 6, 2025 — by A Simojo · 2025 — In this study, we analyzed SEVENTEEN&#x27;s...</p></details>
    Published: March 6, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dancing to K-Pop (Part III)2 Mar 2023 — Point choreography facilitates what Mark Franko called “democratization” of participatory dance t...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-companion-to-kpop/dancing-to-kpop/9AB3666937C8369F53ABA7BE79853AC9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dancing to K-Pop (Part III)2 Mar 2023 — Point choreography facilitates what Mark Franko called “democratization” of participatory dance t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: the classes just keep growing how [k pop](&#123;&#123; 'k-pop/' | relative_url &#125;&#125;) dancing is taking off in the uk  
-   Link: <a href="https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Her classes, divided between girl group and boy group routines, teach choreography from popular K-pop bands like BTS and Blackpink, often...</p></details>
+   Link:<a href="https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/article/2024/jul/14/the-classes-just-keep-growing-how-k-pop-dancing-is-taking-off-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her classes, divided between girl group and boy group routines, teach choreography from popular K-pop bands like BTS and Blackpink, often...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: teenvogue.com  
    Title: Teen Vogue NCT 127 Did a "Kick It" Challenge Started by Three Chicago Teens  
-   Link: <a href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/nct-127-kick-it-challenge-started-by-three-chicago-teens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCT 127 later endorsed the challenge by creating their own rendition, which led to even more virality. The challenge involves a &quot;glow up&quot;...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music-Driven Synchronous Dance Generation...20 Mar 2026 — In this paper, we propose the K-pop dance generation model in an autoreg...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381812456_Music-driven_synchronous_dance_generation_considering_K-pop_musical_and_choreographical_characteristics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Music-Driven Synchronous Dance Generation...20 Mar 2026 — In this paper, we propose the K-pop dance generation model in an autoreg...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pagesix.com  
-   Link: <a href="https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighting viral hits like the &quot;Dumb Dumb&quot; dance challenge and songs such as &quot;Closer&quot; and &quot;Fast Forward,&quot; Tutin explores how choreograp...</p></details>
+   Link:<a href="https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/video/jeon-somi-choreographer-kiel-tutin-breaks-down-her-biggest-performances/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighting viral hits like the &quot;Dumb Dumb&quot; dance challenge and songs such as &quot;Closer&quot; and &quot;Fast Forward,&quot; Tutin explores how choreograp...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B6CiKeNLUUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B6CiKeNLUUQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=B6CiKeNLUUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B6CiKeNLUUQ</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psfa.sdsu.edu  
    Title: assistant professor chuyun oh explores impact k pop dance social media  
-   Link: <a href="https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media" target="_blank" rel="noopener noreferrer nofollow">https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Chuyun Oh explores the impact of K-pop...22 Sept 2022 — Ethnographic study of K-pop dance and its fandom traces the evolution...</p></details>
+   Link:<a href="https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media" target="_blank" rel="noopener noreferrer nofollow">https://psfa.sdsu.edu/news/2022/assistant-professor-chuyun-oh-explores-impact-k-pop-dance-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Chuyun Oh explores the impact of K-pop...22 Sept 2022 — Ethnographic study of K-pop dance and its fandom traces the evolution...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through qualitative analysis, it explores the characteristics of dynamic music...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370043772_The_influence_of_K-pop_dance_in_short_videos_on_public_aesthetics_in_China</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Through qualitative analysis, it explores the characteristics of dynamic music...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o simply show the choreography, to, an up-scale performance that is pretty...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/l5lmkc/the_evolution_of_kpop_dance_practise_videos_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o simply show the choreography, to, an up-scale performance that is pretty...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
    Title: K pop dance in the US higher education  
-   Link: <a href="https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) K-pop dance in the US higher education17 Jan 2026 — Employing (auto)ethnography and critical dance studies, this article examines t...</p></details>
+   Link:<a href="https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/146176906/K_pop_dance_in_the_US_higher_education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) K-pop dance in the US higher education17 Jan 2026 — Employing (auto)ethnography and critical dance studies, this article examines t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nhsjs.com  
    Title: analysis of mathematical elements and physical principles in k pop dance  
-   Link: <a href="https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/" target="_blank" rel="noopener noreferrer nofollow">https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its core elements consist of synchronization, simple and memorable ” Point Dance...</p></details>
+   Link:<a href="https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/" target="_blank" rel="noopener noreferrer nofollow">https://nhsjs.com/2025/analysis-of-mathematical-elements-and-physical-principles-in-k-pop-dance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Its core elements consist of synchronization, simple and memorable ” Point Dance...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: Journal of Fandom Studies  
-   Link: <a href="https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 3 Number 1 2015This scholarship addresses how fans reshape their gendered iden- tities in online fan culture through active consum...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Chuyun-Oh/publication/273525685_Queering_Spectatorship_in_K-pop_The_Androgynous_Male_Dancing_Body_and_Western_Female_Fandom/links/56e6f45708ae4c354b1a489d/Queering-Spectatorship-in-K-pop-The-Androgynous-Male-Dancing-Body-and-Western-Female-Fandom.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 3 Number 1 2015This scholarship addresses how fans reshape their gendered iden- tities in online fan culture through active consum...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Cigarettes After Sex  
-   Link: <a href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fFewqdVd8E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>K. (Lyrics)Cigarettes After Sex - K. (Lyrics) Stream &quot;K.&quot; by Cigarettes After Sex: [https://cigsaftersex.lnk.to/cas](https://cigsaftersex.lnk.to/cas) Follow Cigarettes Afte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8fFewqdVd8E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fFewqdVd8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>K. (Lyrics)Cigarettes After Sex - K. (Lyrics) Stream &quot;K.&quot; by Cigarettes After Sex: [https://cigsaftersex.lnk.to/cas](https://cigsaftersex.lnk.to/cas) Follow Cigarettes Afte...</p></details>

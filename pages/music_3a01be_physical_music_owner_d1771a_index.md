@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-physical-music-owner/
 description: Focused pages that expand on Physical.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_physical_music_owner_d1771a
 parent_title: Physical
@@ -16,7 +16,7 @@ parent_permalink: /physical/
 
 # Explore Topics in Physical
 
-The following pages expand on the main **[Physical]({{ '/physical/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Physical]({{ '/physical/' | relative_url }})** page and cover its key branches in.
 
 - [Fan Pressure]({{ '/fan-pressure/' | relative_url }})
 - [CDs & Tapes]({{ '/cds-tapes/' | relative_url }})

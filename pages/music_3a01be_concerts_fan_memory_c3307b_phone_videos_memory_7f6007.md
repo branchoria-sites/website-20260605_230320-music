@@ -274,14 +274,14 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memor
 
 ## Introduction
 
-Phone videos have changed concert memory in a way that is both helpful and disruptive. A clip can preserve proof that a moment happened: the surprise guest, the improvised speech, the crowd singing louder than the artist. Yet [recording]({{ 'recording/' | relative_url }}) is not the same as experiencing. Research on photography, video recording and digital documentation suggests that the act of capturing an event can alter [attention]({{ 'attention/' | relative_url }}), shift memory work onto a device and even reduce recall of details that would otherwise have been encoded more deeply. At the same time, recordings become powerful tools for revisiting, sharing and collectively reconstructing the night afterwards. The result is not that phones erase concert memories; rather, they reshape what fans remember, how they remember it and whose version of the event becomes the lasting story. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: binghamton.edu">[2binghamton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">binghamton.edu</span><span class="citation-popover-title">taking photos can impair your memory of events</span><span class="citation-popover-snippet">24 May 2021 — Taking photos can actually impair your memory of the experience, according to new research from Binghamton University...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+Phone videos have changed concert memory in a way that is both helpful and disruptive. A clip can preserve proof that a moment happened: the surprise guest, the improvised speech, the crowd singing louder than the artist. Yet [recording]({{ 'recording/' | relative_url }}) is not the same as experiencing. Research on photography, video recording and digital documentation suggests that the act of capturing an event can alter [attention]({{ 'attention/' | relative_url }}), shift memory work onto a device and even reduce recall of details that would otherwise have been encoded more deeply. At the same time, recordings become powerful tools for revisiting, sharing and collectively reconstructing the night afterwards. The result is not that phones erase concert memories; rather, they reshape what fans remember, how they remember it and whose version of the event becomes the lasting story. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: binghamton.edu">[2binghamton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">binghamton.edu</span><span class="citation-popover-title">taking photos can impair your memory of events</span><span class="citation-popover-snippet">24 May 2021 — Taking photos can actually impair your memory of the experience, according to new research from Binghamton University...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-1-dark.svg" | relative_url }}" alt="Phone Clips illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What clips preserve
 
 Concert videos solve a problem that live music has always had: the best moments disappear almost immediately. A phone recording can preserve details that [memory]({{ 'memory/' | relative_url }}) alone might lose within days or weeks. Fans often use clips as evidence that they witnessed a particular version of a song, a rare performance or an unexpected interaction between artist and audience.
 
-This preservation function is one reason recording remains so popular despite criticism. A recent UK survey found that most concertgoers still film at gigs, primarily because they want to relive the experience later or share it with people who were not there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">On average, attendees record 12.5 minutes of video per concert, but a significant portion remains unwatched due to factors like embarrass...</span></span></span>
+This preservation function is one reason recording remains so popular despite criticism. A recent UK survey found that most concertgoers still film at gigs, primarily because they want to relive the experience later or share it with people who were not there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">On average, attendees record 12.5 minutes of video per concert, but a significant portion remains unwatched due to factors like embarrass...</span></span></span>
 
 Video also captures elements that written recollection struggles to preserve:
 
@@ -294,7 +294,7 @@ Video also captures elements that written recollection struggles to preserve:
 
 </div>
 
-Importantly, recordings can become memory cues. Studies on personal photographs and digital archives suggest that reviewing images and recordings later can help reactivate memories that might otherwise fade. The recording is not the memory itself, but it can trigger [access]({{ 'access/' | relative_url }}) to experiences that have become less accessible over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crowdcognition.net/memory-enhancement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowdcognition.net">[Bahador Bahrami]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowdcognition.net</span><span class="citation-popover-title">memory enhancement</span><span class="citation-popover-snippet">Bahador Bahramidoes recording live concerts with your phone help?Jul 1, 2020 — Reviewing the photos of events: Reviewing photos of person...</span></span></span>
+Importantly, recordings can become memory cues. Studies on personal photographs and digital archives suggest that reviewing images and recordings later can help reactivate memories that might otherwise fade. The recording is not the memory itself, but it can trigger [access]({{ 'access/' | relative_url }}) to experiences that have become less accessible over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://crowdcognition.net/memory-enhancement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowdcognition.net">[Bahador Bahrami]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowdcognition.net</span><span class="citation-popover-title">memory enhancement</span><span class="citation-popover-snippet">Bahador Bahramidoes recording live concerts with your phone help?Jul 1, 2020 — Reviewing the photos of events: Reviewing photos of person...</span></span></span>
 
 ## What being there adds that a phone cannot capture
 
@@ -302,38 +302,38 @@ The strongest criticism of concert filming is not that recordings are useless. I
 
 A phone records what fits inside the frame. Human memory records much more: [physical]({{ 'physical/' | relative_url }}) vibration from the speakers, conversations with friends, anticipation before a favourite song, the feeling of being surrounded by thousands of people reacting together. These sensory and emotional elements are central to why [concerts]({{ 'concerts/' | relative_url }}) become memorable in the first place.
 
-Research on the so-called "photo-taking impairment effect" suggests that when people focus on documenting an experience, they may remember less of it later. One explanation is cognitive offloading: the brain treats the device as an external storage system and reduces the effort devoted to internal encoding. Studies examining photography and video recording have repeatedly found weaker recall among participants who documented experiences compared with those who simply observed them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/259207719_Point-and-Shoot_Memories_The_Influence_of_Taking_Photos_on_Memory_for_a_Museum_Tour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Point-and-Shoot Memories: The Influence of Taking Photos...December 5, 2013 — Some studies found that taking photos led to p...</span><span class="citation-popover-meta">Published: December 5, 2013</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Capturing the Experience: How Digital Media Affects Memory...by S Say · 2025 · Cited by 1 — This study investigates the effects of di...</span></span></span>
+Research on the so-called "photo-taking impairment effect" suggests that when people focus on documenting an experience, they may remember less of it later. One explanation is cognitive offloading: the brain treats the device as an external storage system and reduces the effort devoted to internal encoding. Studies examining photography and video recording have repeatedly found weaker recall among participants who documented experiences compared with those who simply observed them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/259207719_Point-and-Shoot_Memories_The_Influence_of_Taking_Photos_on_Memory_for_a_Museum_Tour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Point-and-Shoot Memories: The Influence of Taking Photos...December 5, 2013 — Some studies found that taking photos led to p...</span><span class="citation-popover-meta">Published: December 5, 2013</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Capturing the Experience: How Digital Media Affects Memory...by S Say · 2025 · Cited by 1 — This study investigates the effects of di...</span></span></span>
 
-Video recording may create an additional burden because it requires continuous monitoring. Keeping a shot steady, framing the performer and checking the screen divide attention between the event and the device. Researchers and commentators studying live-event behaviour have argued that this split attention can reduce immersion in the moment itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Capturing the Experience: How Digital Media Affects Memory...by S Say · 2025 · Cited by 1 — This study investigates the effects of di...</span></span></span> 2facebook.com
+Video recording may create an additional burden because it requires continuous monitoring. Keeping a shot steady, framing the performer and checking the screen divide attention between the event and the device. Researchers and commentators studying live-event behaviour have argued that this split attention can reduce immersion in the moment itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Capturing the Experience: How Digital Media Affects Memory...by S Say · 2025 · Cited by 1 — This study investigates the effects of di...</span></span></span> 2facebook.com
 
-This helps explain a familiar concert paradox. Fans often leave with hours of footage yet struggle to describe what the room felt like when a song began. The recording survives, but parts of the lived experience may have been less fully encoded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOopZ6XYgUd7PeaTD-8vuyHKguOuTYRDO-I6WLLCbi91xfk29X1tV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: concertsremembered.com">[Concerts Remembered]</a><span class="citation-popover" role="note"><span class="citation-popover-source">concertsremembered.com</span><span class="citation-popover-title">science of concert memories</span><span class="citation-popover-snippet">Linda Henkel&#x27;s &quot;photo-taking impairment effect&quot; shows that photographing something reduces your recall of it. When you&#x27;re focused on fram...</span></span></span>
+This helps explain a familiar concert paradox. Fans often leave with hours of footage yet struggle to describe what the room felt like when a song began. The recording survives, but parts of the lived experience may have been less fully encoded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOopZ6XYgUd7PeaTD-8vuyHKguOuTYRDO-I6WLLCbi91xfk29X1tV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: concertsremembered.com">[Concerts Remembered]</a><span class="citation-popover" role="note"><span class="citation-popover-source">concertsremembered.com</span><span class="citation-popover-title">science of concert memories</span><span class="citation-popover-snippet">Linda Henkel&#x27;s &quot;photo-taking impairment effect&quot; shows that photographing something reduces your recall of it. When you&#x27;re focused on fram...</span></span></span>
 
 ## Why many recorded moments are rarely revisited
 
 The assumption behind concert filming is often that videos will preserve memories for the future. In practice, many recordings are seldom watched again.
 
-A 2026 survey reported that less than a third of concert footage recorded by respondents was ever replayed. Many clips remained buried in camera rolls because of poor quality, bad sound, awkward singing from the recorder or simple forgetfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">On average, attendees record 12.5 minutes of video per concert, but a significant portion remains unwatched due to factors like embarrass...</span></span></span>
+A 2026 survey reported that less than a third of concert footage recorded by respondents was ever replayed. Many clips remained buried in camera rolls because of poor quality, bad sound, awkward singing from the recorder or simple forgetfulness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicradar.com">[MusicRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicradar.com</span><span class="citation-popover-snippet">On average, attendees record 12.5 minutes of video per concert, but a significant portion remains unwatched due to factors like embarrass...</span></span></span>
 
-This creates an interesting distinction between collecting memories and using them. Recording may feel valuable in the moment because it provides security: a sense that the experience has been saved. Yet the actual memory benefit may depend less on making the recording than on revisiting it later. If footage is never reviewed, its role as a memory aid becomes limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/health/article/digital-smartphone-cameras-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">digital smartphone cameras memory</span><span class="citation-popover-snippet">National GeographicHow photo overload might be warping our ability to...17 Jun 2025 — While offloading can reduce cognitive burden, stud...</span></span></span>
+This creates an interesting distinction between collecting memories and using them. Recording may feel valuable in the moment because it provides security: a sense that the experience has been saved. Yet the actual memory benefit may depend less on making the recording than on revisiting it later. If footage is never reviewed, its role as a memory aid becomes limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/health/article/digital-smartphone-cameras-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">digital smartphone cameras memory</span><span class="citation-popover-snippet">National GeographicHow photo overload might be warping our ability to...17 Jun 2025 — While offloading can reduce cognitive burden, stud...</span></span></span>
 
 The psychological value of recording may therefore be partly symbolic. Fans often record not because they expect to watch every clip, but because having the recording reassures them that the moment will not be lost completely.
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-2-dark.svg" | relative_url }}" alt="Phone Clips illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How online retelling reshapes the night
 
-The biggest change introduced by phone videos may happen after the concert ends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[news.northeastern.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">phone free concert experience</span><span class="citation-popover-snippet">Northeastern Global NewsDo Phone-Free Concerts Lead to Better Experiences?16 May 2025 — A music expert, philosopher and psychologist expl...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The biggest change introduced by phone videos may happen after the concert ends.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[news.northeastern.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">phone free concert experience</span><span class="citation-popover-snippet">Northeastern Global NewsDo Phone-Free Concerts Lead to Better Experiences?16 May 2025 — A music expert, philosopher and psychologist expl...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Before smartphones, concert memories were largely personal and local. Friends compared recollections, ticket stubs became souvenirs and stories evolved through conversation. Today, thousands of clips appear online within minutes. Fans can replay moments repeatedly, compare angles and collectively decide which parts of the show matter most.
 
 This process can strengthen some memories while weakening others. When people repeatedly encounter the same viral clip, that clip can become the dominant representation of the concert, even for attendees whose strongest personal memory was something else. The online version of the event begins to compete with individual recollection.
 
-Research on digital documentation suggests that external records do not simply store memories; they become part of how memories are reconstructed later. Rather than remembering directly, people increasingly remember through photos, videos and posts that shape the narrative of what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5267710/social-media-hurts-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The research involved participants engaging in activities like watching TED talks or touring a church and then recording their experience...</span></span></span>
+Research on digital documentation suggests that external records do not simply store memories; they become part of how memories are reconstructed later. Rather than remembering directly, people increasingly remember through photos, videos and posts that shape the narrative of what happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5267710/social-media-hurts-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The research involved participants engaging in activities like watching TED talks or touring a church and then recording their experience...</span></span></span>
 
 A fan who attended a concert may eventually recall:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The moment they personally experienced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crowdcognition.net/memory-enhancement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowdcognition.net">[crowdcognition.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowdcognition.net</span><span class="citation-popover-title">memory enhancement</span><span class="citation-popover-snippet">Bahador Bahramidoes recording live concerts with your phone help?Jul 1, 2020 — Reviewing the photos of events: Reviewing photos of person...</span></span></span>
+* The moment they personally experienced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://crowdcognition.net/memory-enhancement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crowdcognition.net">[crowdcognition.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crowdcognition.net</span><span class="citation-popover-title">memory enhancement</span><span class="citation-popover-snippet">Bahador Bahramidoes recording live concerts with your phone help?Jul 1, 2020 — Reviewing the photos of events: Reviewing photos of person...</span></span></span>
 * The version captured in their own recording.
 * Viral clips recorded by strangers.
 * Social-media discussions that highlighted particular moments.
@@ -345,11 +345,11 @@ These layers blend together. Memory becomes collaborative rather than purely ind
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-3-dark.svg" | relative_url }}" alt="Phone Clips illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The tension behind phone-free concerts
 
-The rise of phone-free concerts reflects a growing belief among some artists that recording changes audience memory in undesirable ways. Performers including major touring acts have experimented with restrictions or phone-locking systems, arguing that audiences engage more fully when screens disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/phones-at-gigs-concerts-dua-lip-coldplay-hn2zm3zzx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Should you put your phone away at a gig?</span><span class="citation-popover-snippet">Yes please, say these artistsNovember 1, 2024 — The debate over the use of phones at concerts is intensifying among musicians and audienc...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
+The rise of phone-free concerts reflects a growing belief among some artists that recording changes audience memory in undesirable ways. Performers including major touring acts have experimented with restrictions or phone-locking systems, arguing that audiences engage more fully when screens disappear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/phones-at-gigs-concerts-dua-lip-coldplay-hn2zm3zzx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Should you put your phone away at a gig?</span><span class="citation-popover-snippet">Yes please, say these artistsNovember 1, 2024 — The debate over the use of phones at concerts is intensifying among musicians and audienc...</span><span class="citation-popover-meta">Published: November 1, 2024</span></span></span>
 
-Supporters of phone-free shows argue that removing devices encourages attention, participation and stronger personal memories. Critics respond that fans have legitimate reasons to record expensive, meaningful events and that recordings can become treasured keepsakes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">phone free concert experience</span><span class="citation-popover-snippet">Northeastern Global NewsDo Phone-Free Concerts Lead to Better Experiences?16 May 2025 — A music expert, philosopher and psychologist expl...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Supporters of phone-free shows argue that removing devices encourages attention, participation and stronger personal memories. Critics respond that fans have legitimate reasons to record expensive, meaningful events and that recordings can become treasured keepsakes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northeastern.edu">[Northeastern Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northeastern.edu</span><span class="citation-popover-title">phone free concert experience</span><span class="citation-popover-snippet">Northeastern Global NewsDo Phone-Free Concerts Lead to Better Experiences?16 May 2025 — A music expert, philosopher and psychologist expl...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The debate persists because both sides are partly correct. Recordings genuinely preserve aspects of concerts that would otherwise vanish. Yet the evidence also suggests that heavy documentation can alter attention, memory formation and social interaction during the event itself. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: binghamton.edu">[2binghamton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">binghamton.edu</span><span class="citation-popover-title">taking photos can impair your memory of events</span><span class="citation-popover-snippet">24 May 2021 — Taking photos can actually impair your memory of the experience, according to new research from Binghamton University...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+The debate persists because both sides are partly correct. Recordings genuinely preserve aspects of concerts that would otherwise vanish. Yet the evidence also suggests that heavy documentation can alter attention, memory formation and social interaction during the event itself. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: binghamton.edu">[2binghamton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">binghamton.edu</span><span class="citation-popover-title">taking photos can impair your memory of events</span><span class="citation-popover-snippet">24 May 2021 — Taking photos can actually impair your memory of the experience, according to new research from Binghamton University...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 ## A concert remembered twice
 
@@ -360,194 +360,194 @@ One version exists in the body: the noise, anticipation, crowd energy and emotio
 For fans, the challenge is not choosing between remembering and recording. It is deciding how much of the night should be experienced directly and how much should be handed over to a screen. The more phones shape what is captured, replayed and shared, the more they influence not only what concerts looked like, but what they eventually become in memory.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do phone videos help or change memory?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do phone videos help or change memory?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Explores how technology alters attention and memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how technology alters attention and memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel Levitin</p>
         
-        <p class="fr-book-desc">Addresses memory, information overload and recall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses memory, information overload and recall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Connects memory processes with musical experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects memory processes with musical experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides context for contemporary concert culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for contemporary concert culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art"><img src="https://i.ebayimg.com/images/g/jPoAAOSwIoplSvfy/s-l225.jpg" alt="Listing image for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art"><img src="https://i.ebayimg.com/images/g/jPoAAOSwIoplSvfy/s-l225.jpg" alt="Listing image for Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Music Concert Poster Prints - 60s 70s Rock Band Gig Fillmore Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jefferson Airplane Psychedelic Rock Concert Poster Art Retro Music Style Print"><img src="https://i.ebayimg.com/images/g/oQAAAeSwy0xppWLn/s-l225.jpg" alt="Listing image for Jefferson Airplane Psychedelic Rock Concert Poster Art Retro Music Style Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Jefferson Airplane Psychedelic Rock Concert Poster Art Retro Music Style Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jefferson Airplane Psychedelic Rock Concert Poster Art Retro Music Style Print"><img src="https://i.ebayimg.com/images/g/oQAAAeSwy0xppWLn/s-l225.jpg" alt="Listing image for Jefferson Airplane Psychedelic Rock Concert Poster Art Retro Music Style Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Jefferson Airplane Psychedelic Rock Concert Poster Art Retro Music Style Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Kinks 1965 Concert Poster Print Vintage British Rock Rare Collectible Art"><img src="https://i.ebayimg.com/images/g/uQYAAOSwu7VoKbbo/s-l225.jpg" alt="Listing image for The Kinks 1965 Concert Poster Print Vintage British Rock Rare Collectible Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">The Kinks 1965 Concert Poster Print Vintage British Rock Rare Collectible Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Kinks 1965 Concert Poster Print Vintage British Rock Rare Collectible Art"><img src="https://i.ebayimg.com/images/g/uQYAAOSwu7VoKbbo/s-l225.jpg" alt="Listing image for The Kinks 1965 Concert Poster Print Vintage British Rock Rare Collectible Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">The Kinks 1965 Concert Poster Print Vintage British Rock Rare Collectible Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Raye Concert Poster London O2 2026 Poster Print For Raye Fans A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/3O0AAeSwABBpAN5P/s-l225.jpg" alt="Listing image for Raye Concert Poster London O2 2026 Poster Print For Raye Fans A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Raye Concert Poster London O2 2026 Poster Print For Raye Fans A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Raye Concert Poster London O2 2026 Poster Print For Raye Fans A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/3O0AAeSwABBpAN5P/s-l225.jpg" alt="Listing image for Raye Concert Poster London O2 2026 Poster Print For Raye Fans A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Raye Concert Poster London O2 2026 Poster Print For Raye Fans A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-phone-videos-help-or-change-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="do-phone-videos-help-or-change-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ For fans, the challenge is not choosing between remembering and recording. It is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ For fans, the challenge is not choosing between remembering and recording. It is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ For fans, the challenge is not choosing between remembering and recording. It is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ For fans, the challenge is not choosing between remembering and recording. It is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ For fans, the challenge is not choosing between remembering and recording. It is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,153 +753,153 @@ For fans, the challenge is not choosing between remembering and recording. It is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Capturing the Experience: How Digital Media Affects Memory...by S Say · 2025 · Cited by 1 — This study investigates the effects of di...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12466594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capturing the Experience: How Digital Media Affects Memory...by S Say · 2025 · Cited by 1 — This study investigates the effects of di...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: binghamton.edu  
    Title: taking photos can impair your memory of events  
-   Link: <a href="https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events" target="_blank" rel="noopener noreferrer nofollow">https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24 May 2021 — Taking photos can actually impair your memory of the experience, according to new research from Binghamton University...</p></details>
+   Link:<a href="https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events" target="_blank" rel="noopener noreferrer nofollow">https://www.binghamton.edu/news/story/3079/taking-photos-can-impair-your-memory-of-events</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 May 2021 — Taking photos can actually impair your memory of the experience, according to new research from Binghamton University...</p></details>
    Published: May 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5267710/social-media-hurts-memory/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5267710/social-media-hurts-memory/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The research involved participants engaging in activities like watching TED talks or touring a church and then recording their experience...</p></details>
+   Link:<a href="https://time.com/5267710/social-media-hurts-memory/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5267710/social-media-hurts-memory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research involved participants engaging in activities like watching TED talks or touring a church and then recording their experience...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: musicradar.com  
-   Link: <a href="https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On average, attendees record 12.5 minutes of video per concert, but a significant portion remains unwatched due to factors like embarrass...</p></details>
+   Link:<a href="https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back" target="_blank" rel="noopener noreferrer nofollow">https://www.musicradar.com/artists/shows-festivals/unwatched-and-unloved-two-thirds-of-recorded-footage-from-gigs-is-never-played-back</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On average, attendees record 12.5 minutes of video per concert, but a significant portion remains unwatched due to factors like embarrass...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259207719_Point-and-Shoot_Memories_The_Influence_of_Taking_Photos_on_Memory_for_a_Museum_Tour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259207719_Point-and-Shoot_Memories_The_Influence_of_Taking_Photos_on_Memory_for_a_Museum_Tour</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Point-and-Shoot Memories: The Influence of Taking Photos...December 5, 2013 — Some studies found that taking photos led to p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259207719_Point-and-Shoot_Memories_The_Influence_of_Taking_Photos_on_Memory_for_a_Museum_Tour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259207719_Point-and-Shoot_Memories_The_Influence_of_Taking_Photos_on_Memory_for_a_Museum_Tour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Point-and-Shoot Memories: The Influence of Taking Photos...December 5, 2013 — Some studies found that taking photos led to p...</p></details>
    Published: December 5, 2013  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/universityoforegon/posts/taking-photos-at-live-events-can-come-at-a-social-cost-uo-led-research-finds-tha/1292227252951094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/universityoforegon/posts/taking-photos-at-live-events-can-come-at-a-social-cost-uo-led-research-finds-tha/1292227252951094/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your brain is so busy trying to keep the shot steady and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/universityoforegon/posts/taking-photos-at-live-events-can-come-at-a-social-cost-uo-led-research-finds-tha/1292227252951094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/universityoforegon/posts/taking-photos-at-live-events-can-come-at-a-social-cost-uo-led-research-finds-tha/1292227252951094/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your brain is so busy trying to keep the shot steady and...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.northeastern.edu  
    Title: phone free concert experience  
-   Link: <a href="https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northeastern Global NewsDo Phone-Free Concerts Lead to Better Experiences?16 May 2025 — A music expert, philosopher and psychologist expl...</p></details>
+   Link:<a href="https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2025/05/16/phone-free-concert-experience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northeastern Global NewsDo Phone-Free Concerts Lead to Better Experiences?16 May 2025 — A music expert, philosopher and psychologist expl...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kobitv/posts/a-new-study-conducted-in-part-by-the-university-of-oregon-suggests-that-pulling-/1579762333883973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kobitv/posts/a-new-study-conducted-in-part-by-the-university-of-oregon-suggests-that-pulling-/1579762333883973/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing out a phone to record moments at live events may come with...</p></details>
+   Link:<a href="https://www.facebook.com/kobitv/posts/a-new-study-conducted-in-part-by-the-university-of-oregon-suggests-that-pulling-/1579762333883973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kobitv/posts/a-new-study-conducted-in-part-by-the-university-of-oregon-suggests-that-pulling-/1579762333883973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing out a phone to record moments at live events may come with...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/461353847254276/posts/26794247743538194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/461353847254276/posts/26794247743538194/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>enjoy concerts without excessive phone useEven as a photographer, who sometimes photographs your shows, I find myself getting lost in the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/461353847254276/posts/26794247743538194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/461353847254276/posts/26794247743538194/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enjoy concerts without excessive phone useEven as a photographer, who sometimes photographs your shows, I find myself getting lost in the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367091216_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367091216_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ience and their behaviour with streamed concerts to design a better user...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367091216_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367091216_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE_A_STUDY_ON_THE_EFFECT_OF_STREAMED_CONCERT_EXPERIENCES_ON_GENERATION_Z_AUDIENCE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ience and their behaviour with streamed concerts to design a better user...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365941313_The_Camera_Phone_in_the_Concert_Space_Live_Music_and_Moving_Images_on_the_Screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365941313_The_Camera_Phone_in_the_Concert_Space_Live_Music_and_Moving_Images_on_the_Screen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Camera Phone in the Concert Space: Live Music and...Feb 13, 2025 — PDF | On Jul 1, 2018, Laura Glitsos published The Camera Phone in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365941313_The_Camera_Phone_in_the_Concert_Space_Live_Music_and_Moving_Images_on_the_Screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365941313_The_Camera_Phone_in_the_Concert_Space_Live_Music_and_Moving_Images_on_the_Screen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Camera Phone in the Concert Space: Live Music and...Feb 13, 2025 — PDF | On Jul 1, 2018, Laura Glitsos published The Camera Phone in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: crowdcognition.net  
    Title: memory enhancement  
-   Link: <a href="https://crowdcognition.net/memory-enhancement/" target="_blank" rel="noopener noreferrer nofollow">https://crowdcognition.net/memory-enhancement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bahador Bahramidoes recording live concerts with your phone help?Jul 1, 2020 — Reviewing the photos of events: Reviewing photos of person...</p></details>
+   Link:<a href="https://crowdcognition.net/memory-enhancement/" target="_blank" rel="noopener noreferrer nofollow">https://crowdcognition.net/memory-enhancement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bahador Bahramidoes recording live concerts with your phone help?Jul 1, 2020 — Reviewing the photos of events: Reviewing photos of person...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalgeographic.com  
    Title: digital smartphone cameras memory  
-   Link: <a href="https://www.nationalgeographic.com/health/article/digital-smartphone-cameras-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/health/article/digital-smartphone-cameras-memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicHow photo overload might be warping our ability to...17 Jun 2025 — While offloading can reduce cognitive burden, stud...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/health/article/digital-smartphone-cameras-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/health/article/digital-smartphone-cameras-memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicHow photo overload might be warping our ability to...17 Jun 2025 — While offloading can reduce cognitive burden, stud...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: concertsremembered.com  
    Title: science of concert memories  
-   Link: <a href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOopZ6XYgUd7PeaTD-8vuyHKguOuTYRDO-I6WLLCbi91xfk29X1tV" target="_blank" rel="noopener noreferrer nofollow">https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOopZ6XYgUd7PeaTD-8vuyHKguOuTYRDO-I6WLLCbi91xfk29X1tV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Henkel&#x27;s &quot;photo-taking impairment effect&quot; shows that photographing something reduces your recall of it. When you&#x27;re focused on fram...</p></details>
+   Link:<a href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOopZ6XYgUd7PeaTD-8vuyHKguOuTYRDO-I6WLLCbi91xfk29X1tV" target="_blank" rel="noopener noreferrer nofollow">https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOopZ6XYgUd7PeaTD-8vuyHKguOuTYRDO-I6WLLCbi91xfk29X1tV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Henkel&#x27;s &quot;photo-taking impairment effect&quot; shows that photographing something reduces your recall of it. When you&#x27;re focused on fram...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thetimes.co.uk  
    Title: The Times Should you put your phone away at a gig?  
-   Link: <a href="https://www.thetimes.co.uk/article/phones-at-gigs-concerts-dua-lip-coldplay-hn2zm3zzx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/phones-at-gigs-concerts-dua-lip-coldplay-hn2zm3zzx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes please, say these artistsNovember 1, 2024 — The debate over the use of phones at concerts is intensifying among musicians and audienc...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/phones-at-gigs-concerts-dua-lip-coldplay-hn2zm3zzx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/phones-at-gigs-concerts-dua-lip-coldplay-hn2zm3zzx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yes please, say these artistsNovember 1, 2024 — The debate over the use of phones at concerts is intensifying among musicians and audienc...</p></details>
    Published: November 1, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: concertsremembered.com  
-   Link: <a href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOoo5TUrta8tcL0Dm87b6jipBxJm4fAeJi0ftpMgxLYeJRiVDbR0I" target="_blank" rel="noopener noreferrer nofollow">https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOoo5TUrta8tcL0Dm87b6jipBxJm4fAeJi0ftpMgxLYeJRiVDbR0I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Concert Memories: Beyond Phone Photos24 Dec 2024 — The science is clear: excessive phone use during live events actually i...</p></details>
+   Link:<a href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOoo5TUrta8tcL0Dm87b6jipBxJm4fAeJi0ftpMgxLYeJRiVDbR0I" target="_blank" rel="noopener noreferrer nofollow">https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOoo5TUrta8tcL0Dm87b6jipBxJm4fAeJi0ftpMgxLYeJRiVDbR0I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Concert Memories: Beyond Phone Photos24 Dec 2024 — The science is clear: excessive phone use during live events actually i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: concertsremembered.com  
-   Link: <a href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOorxpI2Ctq82xBBnbvh41VwdG_Q5i3ioK2lOSWi-_A-Qt03nJv9f" target="_blank" rel="noopener noreferrer nofollow">https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOorxpI2Ctq82xBBnbvh41VwdG_Q5i3ioK2lOSWi-_A-Qt03nJv9f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Concert Memories: Beyond Phone PhotosDec 24, 2024 — Photos alone don&#x27;t preserve concert memories effectively...</p></details>
+   Link:<a href="https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOorxpI2Ctq82xBBnbvh41VwdG_Q5i3ioK2lOSWi-_A-Qt03nJv9f" target="_blank" rel="noopener noreferrer nofollow">https://concertsremembered.com/blogs/news/science-of-concert-memories?srsltid=AfmBOorxpI2Ctq82xBBnbvh41VwdG_Q5i3ioK2lOSWi-_A-Qt03nJv9f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Concert Memories: Beyond Phone PhotosDec 24, 2024 — Photos alone don&#x27;t preserve concert memories effectively...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40rebec44d/everyones-documenting-their-life-nobody-s-living-it-1cc90f37b69e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40rebec44d/everyones-documenting-their-life-nobody-s-living-it-1cc90f37b69e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everyone&#x27;s Documenting Their Life. Nobody&#x27;s Living ItI watched someone at a concert spend the entire show recording it on their phone. Th...</p></details>
+   Link:<a href="https://medium.com/%40rebec44d/everyones-documenting-their-life-nobody-s-living-it-1cc90f37b69e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40rebec44d/everyones-documenting-their-life-nobody-s-living-it-1cc90f37b69e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everyone&#x27;s Documenting Their Life. Nobody&#x27;s Living ItI watched someone at a concert spend the entire show recording it on their phone. Th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpoprants/comments/1ro1f1q/people_who_watch_the_concert_through_their_phones/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpoprants/comments/1ro1f1q/people_who_watch_the_concert_through_their_phones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People who watch the concert through their phonesI have terrible memory and I will absolutely forget the moment later on. In concerts (if...</p></details>
+   Link:<a href="https://www.reddit.com/r/kpoprants/comments/1ro1f1q/people_who_watch_the_concert_through_their_phones/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpoprants/comments/1ro1f1q/people_who_watch_the_concert_through_their_phones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People who watch the concert through their phonesI have terrible memory and I will absolutely forget the moment later on. In concerts (if...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/[culture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on demand: The debate between recording events to...29 Jun 2025 — Aside from the independence of digital memory, there may also be an ex...</p></details>
+   Link:<a href="https://english.elpais.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/[culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on demand: The debate between recording events to...29 Jun 2025 — Aside from the independence of digital memory, there may also be an ex...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theses.liacs.nl  
-   Link: <a href="https://theses.liacs.nl/pdf/2021-2022-Schffers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.liacs.nl/pdf/2021-2022-Schffers.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life: The Effect of Filming on MemoryPrior research has unveiled a &quot;photo-taking impairment&quot; effect such that we tend to remember objects...</p></details>
+   Link:<a href="https://theses.liacs.nl/pdf/2021-2022-Schffers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.liacs.nl/pdf/2021-2022-Schffers.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life: The Effect of Filming on MemoryPrior research has unveiled a &quot;photo-taking impairment&quot; effect such that we tend to remember objects...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: eurekalert.org  
-   Link: <a href="https://www.eurekalert.org/news-releases/1111912" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1111912</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EurekAlert!Study: Taking photos at live events can come at a social cost7 Jan 2026 — Study: Taking photos at live events can come at a so...</p></details>
+   Link:<a href="https://www.eurekalert.org/news-releases/1111912" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1111912</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EurekAlert!Study: Taking photos at live events can come at a social cost7 Jan 2026 — Study: Taking photos at live events can come at a so...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: concerts ruined by selfish people using their phones  
-   Link: <a href="https://www.theguardian.com/money/article/2024/may/27/concerts-ruined-by-selfish-people-using-their-phones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/article/2024/may/27/concerts-ruined-by-selfish-people-using-their-phones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2024 — Sadly, on many occasions, a flash from a phone in the audience would happen and subsequently either the concert would come...</p></details>
+   Link:<a href="https://www.theguardian.com/money/article/2024/may/27/concerts-ruined-by-selfish-people-using-their-phones" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/article/2024/may/27/concerts-ruined-by-selfish-people-using-their-phones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2024 — Sadly, on many occasions, a flash from a phone in the audience would happen and subsequently either the concert would come...</p></details>
    Published: May 2024  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hilite.org  
    Title: Phones at concerts; keeping memories or distracting  
-   Link: <a href="https://hilite.org/87939/perspectives/phones-at-concerts-keeping-memories-or-distracting/" target="_blank" rel="noopener noreferrer nofollow">https://hilite.org/87939/perspectives/phones-at-concerts-keeping-memories-or-distracting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 18, 2024 — Phones at concerts help keep the memories alive and are a way for you to look back on the great times you had when a...</p></details>
+   Link:<a href="https://hilite.org/87939/perspectives/phones-at-concerts-keeping-memories-or-distracting/" target="_blank" rel="noopener noreferrer nofollow">https://hilite.org/87939/perspectives/phones-at-concerts-keeping-memories-or-distracting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 18, 2024 — Phones at concerts help keep the memories alive and are a way for you to look back on the great times you had when a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40scarsellajameson/keep-it-in-your-pocket-why-artists-are-fighting-back-against-audiences-recording-concerts-on-4b8700f70c44" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40scarsellajameson/keep-it-in-your-pocket-why-artists-are-fighting-back-against-audiences-recording-concerts-on-4b8700f70c44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep It In Your Pocket: Why Artists Are Fighting Back...It&#x27;s difficult to forget that concerts used to be about the memories you made...</p></details>
+   Link:<a href="https://medium.com/%40scarsellajameson/keep-it-in-your-pocket-why-artists-are-fighting-back-against-audiences-recording-concerts-on-4b8700f70c44" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40scarsellajameson/keep-it-in-your-pocket-why-artists-are-fighting-back-against-audiences-recording-concerts-on-4b8700f70c44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keep It In Your Pocket: Why Artists Are Fighting Back...It&#x27;s difficult to forget that concerts used to be about the memories you made...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/cuepoint/raise-your-smartphone-to-the-sky-42e1c38f534a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/cuepoint/raise-your-smartphone-to-the-sky-42e1c38f534a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pictures and for the performers inside the frame.Read more...</p></details>
+   Link:<a href="https://medium.com/cuepoint/raise-your-smartphone-to-the-sky-42e1c38f534a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/cuepoint/raise-your-smartphone-to-the-sky-42e1c38f534a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pictures and for the performers inside the frame.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jyu.fi  
    Title: What makes a concert unforgettable?  
-   Link: <a href="https://www.jyu.fi/en/news/what-makes-a-concert-unforgettable-researchers-are-looking-for-people-to-share-their-experiences-of" target="_blank" rel="noopener noreferrer nofollow">https://www.jyu.fi/en/news/what-makes-a-concert-unforgettable-researchers-are-looking-for-people-to-share-their-experiences-of</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers are...21 Jan 2026 — What makes a concert unforgettable? Researchers are looking for people to share their experiences of in...</p></details>
+   Link:<a href="https://www.jyu.fi/en/news/what-makes-a-concert-unforgettable-researchers-are-looking-for-people-to-share-their-experiences-of" target="_blank" rel="noopener noreferrer nofollow">https://www.jyu.fi/en/news/what-makes-a-concert-unforgettable-researchers-are-looking-for-people-to-share-their-experiences-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers are...21 Jan 2026 — What makes a concert unforgettable? Researchers are looking for people to share their experiences of in...</p></details>

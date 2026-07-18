@@ -274,7 +274,7 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_r
 
 ## Introduction
 
-A [melody]({{ 'melody/' | relative_url }}) is often remembered as a shape before it is remembered as a sequence of exact notes. Even when listeners cannot reproduce the precise pitches of a familiar song, they frequently retain its overall pattern of rising, falling and returning. Music researchers call this pattern a *melodic contour*. Evidence from decades of music cognition research suggests that contour is one of the most important cues people use to recognise tunes, helping the brain store and retrieve melodies efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span>
+A [melody]({{ 'melody/' | relative_url }}) is often remembered as a shape before it is remembered as a sequence of exact notes. Even when listeners cannot reproduce the precise pitches of a familiar song, they frequently retain its overall pattern of rising, falling and returning. Music researchers call this pattern a *melodic contour*. Evidence from decades of music cognition research suggests that contour is one of the most important cues people use to recognise tunes, helping the brain store and retrieve melodies efficiently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1-dark.svg" | relative_url }}" alt="Contour illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This helps explain a common experience: hearing only a few notes of a familiar song and recognising it almost instantly. The recognition often begins not with exact pitch information, but with the melody's broader outline.
@@ -289,28 +289,28 @@ A simple way to think about contour is as a musical skyline. Just as a city's si
 
 ## Why Broad Pitch Shapes Are Easier to Store
 
-Research on memory for melodies has repeatedly found that listeners retain contour information remarkably well. Dowling's influential theory of melodic memory proposed that contour functions as a high-level representation that listeners can encode before they process exact interval relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span>
+Research on memory for melodies has repeatedly found that listeners retain contour information remarkably well. Dowling's influential theory of melodic memory proposed that contour functions as a high-level representation that listeners can encode before they process exact interval relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span>
 
 This makes sense from a cognitive perspective. Remembering every precise pitch in a melody demands considerable detail. Remembering whether a tune generally rises, drops sharply and then returns requires far less information. The brain can compress the melody into a simpler pattern.
 
 Several findings support this idea:
 
-* People can often recognise melodies even when interval sizes are altered, provided the contour remains intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-snippet">Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</span></span></span>
-* Short-term memory experiments show that contour can be retained even when exact pitch information becomes less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Exploring Melodic Contour A Clustering Approach</span><span class="citation-popover-snippet">UC Press OnlineExploring Melodic Contour: A Clustering Approach19 Dec 2024 — An experiment by Dowling (1978) showed that the contours of...</span></span></span>
-* Studies of melodic recognition suggest that contour information is often processed before more detailed pitch relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Musical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</span></span></span>
+* People can often recognise melodies even when interval sizes are altered, provided the contour remains intact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-snippet">Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</span></span></span>
+* Short-term memory experiments show that contour can be retained even when exact pitch information becomes less reliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Exploring Melodic Contour A Clustering Approach</span><span class="citation-popover-snippet">UC Press OnlineExploring Melodic Contour: A Clustering Approach19 Dec 2024 — An experiment by Dowling (1978) showed that the contours of...</span></span></span>
+* Studies of melodic recognition suggest that contour information is often processed before more detailed pitch relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Musical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</span></span></span>
 
 In practical terms, contour acts as a cognitive shortcut. Instead of storing dozens of individual note values, listeners can store a compact representation of the melody's overall trajectory.
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-2-dark.svg" | relative_url }}" alt="Contour illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a Few Notes Trigger Song Recognition
 
-One of the most striking aspects of musical memory is how little information is sometimes needed to identify a tune. Experiments on melody [identification]({{ 'identification/' | relative_url }}) have shown that experienced listeners can often recognise [familiar songs]({{ 'familiar-songs/' | relative_url }}) after hearing only a handful of notes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Musical Features That Facilitate Melody Identification</span><span class="citation-popover-snippet">few notes they would require in order to identify some well-known tune. Experienced listeners are often able to recognize a melody within...</span></span></span>
+One of the most striking aspects of musical memory is how little information is sometimes needed to identify a tune. Experiments on melody [identification]({{ 'identification/' | relative_url }}) have shown that experienced listeners can often recognise [familiar songs]({{ 'familiar-songs/' | relative_url }}) after hearing only a handful of notes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Musical Features That Facilitate Melody Identification</span><span class="citation-popover-snippet">few notes they would require in order to identify some well-known tune. Experienced listeners are often able to recognize a melody within...</span></span></span>
 
 Contour helps explain why.
 
 The opening notes of many famous melodies establish a distinctive directional pattern almost immediately. Once listeners detect that pattern, they can begin matching it against stored musical memories. Recognition does not wait for the entire melody to unfold.
 
-Researchers studying melody identification have found that distinctive contour changes, especially reversals in direction, are particularly informative. A melody that climbs and suddenly falls creates memorable landmarks that listeners can use as recognition cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">melodic lines between contour turning points are more likely to become INMI. Turning points in a melody occur when the pitch direction re...</span></span></span>
+Researchers studying melody identification have found that distinctive contour changes, especially reversals in direction, are particularly informative. A melody that climbs and suddenly falls creates memorable landmarks that listeners can use as recognition cues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">melodic lines between contour turning points are more likely to become INMI. Turning points in a melody occur when the pitch direction re...</span></span></span>
 
 This means that recognition often depends less on hearing every note correctly and more on hearing enough of the melody's outline to activate a stored template.
 
@@ -320,9 +320,9 @@ This means that recognition often depends less on hearing every note correctly a
 
 The importance of contour appears surprisingly early in human development.
 
-Studies led by psychologist Sandra Trehub found that infants are sensitive to changes that alter melodic contour. Even before acquiring musical expertise, young listeners detect when the general shape of a melody changes. In many cases, contour violations are easier for them to notice than more subtle interval modifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span>
+Studies led by psychologist Sandra Trehub found that infants are sensitive to changes that alter melodic contour. Even before acquiring musical expertise, young listeners detect when the general shape of a melody changes. In many cases, contour violations are easier for them to notice than more subtle interval modifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span>
 
-Research with children has produced similar findings. When melodies are transformed while preserving contour, children often judge them as more similar to the original than melodies whose contour has been altered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/0022096588900495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">W.J. Dowling. Scale and contour: Two components of a theory of memory for melodies. Psychological Review, 85 (1978), pp. 341-354. View in...</span></span></span>
+Research with children has produced similar findings. When melodies are transformed while preserving contour, children often judge them as more similar to the original than melodies whose contour has been altered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/0022096588900495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">W.J. Dowling. Scale and contour: Two components of a theory of memory for melodies. Psychological Review, 85 (1978), pp. 341-354. View in...</span></span></span>
 
 These results suggest that contour is not merely a skill used by trained musicians. It appears to be a fundamental feature of how humans perceive and remember melodic patterns.
 
@@ -330,206 +330,206 @@ These results suggest that contour is not merely a skill used by trained musicia
 
 A common misconception is that recognising a melody requires remembering exact notes. In reality, listeners often succeed with much less precise information.
 
-Evidence from melody-memory research indicates that contour and interval information contribute differently. Exact intervals add detail and specificity, but contour provides a robust framework that survives transposition, imperfect singing and memory decay. <span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-snippet">Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</span></span></span>
+Evidence from melody-memory research indicates that contour and interval information contribute differently. Exact intervals add detail and specificity, but contour provides a robust framework that survives transposition, imperfect singing and memory decay.<span class="citation-chip-wrap"><a class="citation-chip" href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: labs.utdallas.edu">[Research Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">labs.utdallas.edu</span><span class="citation-popover-title">Second, there is the overlearned musical scale to which.Read more</span><span class="citation-popover-snippet">Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainmusic.org">[Brain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainmusic.org</span><span class="citation-popover-snippet">Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</span></span></span>
 
-This robustness has practical consequences. Systems designed to identify songs from humming frequently rely on contour-based representations because people tend to reproduce the shape of a melody more reliably than its exact pitches. Methods such as Parsons Code reduce melodies to simple symbols indicating whether each note moves up, down or stays the same, demonstrating how much recognition can be achieved from contour alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parsons_code" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parsons code</span><span class="citation-popover-snippet">Parsons code</span></span></span>
+This robustness has practical consequences. Systems designed to identify songs from humming frequently rely on contour-based representations because people tend to reproduce the shape of a melody more reliably than its exact pitches. Methods such as Parsons Code reduce melodies to simple symbols indicating whether each note moves up, down or stays the same, demonstrating how much recognition can be achieved from contour alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parsons_code" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parsons code</span><span class="citation-popover-snippet">Parsons code</span></span></span>
 
 The success of these systems mirrors human perception: when people hum a remembered tune, they often preserve its contour even when many intervals are inaccurate.
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-dark.svg" | relative_url }}" alt="Contour illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Shape Your Brain Hums Back
 
-When a melody remains in memory, what survives is often not a detailed musical score but a simplified map of movement through pitch space. Research spanning memory experiments, developmental studies and melody-recognition tasks consistently points to melodic contour as a key mechanism behind tune recognition. Research Labs <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span> That is why a familiar song can suddenly come back to mind after hearing only a few notes. The brain recognises the shape first. The exact notes may follow later, but the contour is often the spark that unlocks the memory of the tune.
+When a melody remains in memory, what survives is often not a detailed musical score but a simplified map of movement through pitch space. Research spanning memory experiments, developmental studies and melody-recognition tasks consistently points to melodic contour as a key mechanism behind tune recognition. Research Labs<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Infants&#x27; Perception of Melodies: The Role of Melodic Contour</span><span class="citation-popover-snippet">Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</span><span class="citation-popover-meta">Published: June 3, 1984</span></span></span> That is why a familiar song can suddenly come back to mind after hearing only a few notes. The brain recognises the shape first. The exact notes may follow later, but the contour is often the spark that unlocks the memory of the tune.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Shape Your Brain Hums Back. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Shape Your Brain Hums Back. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains how listeners recognize and remember musical patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how listeners recognize and remember musical patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Explores how the brain processes and remembers music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how the brain processes and remembers music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides accessible insight into how music is created and perceived.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible insight into how music is created and perceived.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The psychology of music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The psychology of music">The psychology of music</a>
-        </h4>
-        <p class="fr-book-author">By Diana Deutsch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The psychology of music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The psychology of music">The psychology of music</a>
+</h4>
+<p class="fr-book-author">By Diana Deutsch</p>
         
-        <p class="fr-book-desc">Includes foundational research on melody perception and contour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes foundational research on melody perception and contour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid"><img src="{{ '/assets/images/marketplace-covers/f87a10e48abe3cf29759.jpg' | relative_url }}" alt="Listing image for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid"><img src="{{ '/assets/images/marketplace-covers/f87a10e48abe3cf29759.jpg' | relative_url }}" alt="Listing image for Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Piano Chord Chart with Scales and Music Theory Poster - Learn Piano Practise Aid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/2b9ff606606f5db5bb91.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)"><img src="{{ '/assets/images/marketplace-covers/2b9ff606606f5db5bb91.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster - Piano Chords, Scales and Music Theory Chart (A1/A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/d73a4f9f35354595d86c.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory"><img src="{{ '/assets/images/marketplace-covers/d73a4f9f35354595d86c.jpg' | relative_url }}" alt="Listing image for The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Ultimate Piano Poster Bundle (Set of 2) Piano Chords, Scales &amp; Music Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55b7292efba8c9c95df7.jpg' | relative_url }}" alt="Listing image for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55b7292efba8c9c95df7.jpg' | relative_url }}" alt="Listing image for Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Music Theory Warning Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music theory poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music theory poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+theory+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music theory poster -book -books" data-ebay-reference="contour-the-shape-your-brain-hums-back-music-music-theory-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ When a melody remains in memory, what survives is often not a detailed musical s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ When a melody remains in memory, what survives is often not a detailed musical s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ When a melody remains in memory, what survives is often not a detailed musical s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ When a melody remains in memory, what survives is often not a detailed musical s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ When a melody remains in memory, what survives is often not a detailed musical s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,147 +735,147 @@ When a melody remains in memory, what survives is often not a detailed musical s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pubs.aip.org  
    Title: Contour Interval and Pitch Recognition in Memory  
-   Link: <a href="https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIP PublishingContour, Interval, and Pitch Recognition in Memory for Melodies1 Feb 1971 — Melodic contour (the sequence of ups and downs...</p></details>
+   Link:<a href="https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article/49/2B/524/747107/Contour-Interval-and-Pitch-Recognition-in-Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIP PublishingContour, Interval, and Pitch Recognition in Memory for Melodies1 Feb 1971 — Melodic contour (the sequence of ups and downs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Musical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</p></details>
+   Link:<a href="https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/musical-features-that-facilitate-melody-identification-how-tu8nq13zwc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musical Features That Facilitate Melody IdentificationContour refers to the pattern of rising and falling pitches in a melody; ac...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate Musical Features That Facilitate Melody Identification  
-   Link: <a href="https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>few notes they would require in order to identify some well-known tune. Experienced listeners are often able to recognize a melody within...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249979667_Musical_Features_That_Facilitate_Melody_Identification_How_Do_You_Know_It%27s_Your_Song_When_They_Finally_Play_It</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>few notes they would require in order to identify some well-known tune. Experienced listeners are often able to recognize a melody within...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jstor.org  
    Title: Infants' Perception of Melodies: The Role of Melodic Contour  
-   Link: <a href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1130133</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</p></details>
+   Link:<a href="https://www.jstor.org/stable/1130133" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1130133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infants&#x27; Perception of Melodies: The Role of Melodic ContourJune 3, 1984 — by SE Trehub · 1984 · Cited by 514 — Performance on the c...</p></details>
    Published: June 3, 1984  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/0022096588900495" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022096588900495</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>W.J. Dowling. Scale and contour: Two components of a theory of memory for melodies. Psychological Review, 85 (1978), pp. 341-354. View in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/0022096588900495" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022096588900495</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>W.J. Dowling. Scale and contour: Two components of a theory of memory for melodies. Psychological Review, 85 (1978), pp. 341-354. View in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Parsons code  
-   Link: <a href="https://en.wikipedia.org/wiki/Parsons_code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parsons_code</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Parsons_code" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parsons_code</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Musipedia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Musipedia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Musipedia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Musipedia</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scale and contour: Two components of a theory of memory...30 Sept 2025 — It has been suggested that contour may be processed independent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232603200_Scale_and_contour_Two_components_of_a_theory_of_memory_for_melodies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scale and contour: Two components of a theory of memory...30 Sept 2025 — It has been suggested that contour may be processed independent...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Of A Contour-Based Representation For MelodyThe goal of this research is to explore what variation of contour and rhythmic infor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/2324840_Analysis_Of_A_Contour-Based_Representation_For_Melody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Of A Contour-Based Representation For MelodyThe goal of this research is to explore what variation of contour and rhythmic infor...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubs.aip.org  
    Title: 524 1 online  
-   Link: <a href="https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Musical Structure and Emotion in Several Cultures,&quot; paper presented to Western. Psychol.Read more...</p></details>
+   Link:<a href="https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article-pdf/49/2B/524/18770420/524_1_online.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Musical Structure and Emotion in Several Cultures,&quot; paper presented to Western. Psychol.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: labs.utdallas.edu  
    Title: Second, there is the overlearned musical scale to which.Read more  
-   Link: <a href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</p></details>
+   Link:<a href="https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.utdallas.edu/mpac/files/2021/03/1978-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research LabsScale and Contour: Two Components of a Theory of Memory...by WJ Bowling · 1978 · Cited by 1073 — First, there is the melodi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: brainmusic.org  
-   Link: <a href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</p></details>
+   Link:<a href="https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/MBB91WebPage/MBB91%20Webpage/Melody_DowlingFujitani.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contour, Interval, and Pitch Recognition in Memory for MelodiesMelodic contour (the sequence of ups and downs in a melody, regardless of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brainmusic.org  
-   Link: <a href="https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Musical Structure and Emotion in Several Cultures,&quot; paper presented to Western. Psychol.Read more...</p></details>
+   Link:<a href="https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/DowlingFujitani_1971.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Musical Structure and Emotion in Several Cultures,&quot; paper presented to Western. Psychol.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: online.ucpress.edu  
    Title: Exploring Melodic Contour A Clustering Approach  
-   Link: <a href="https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Press OnlineExploring Melodic Contour: A Clustering Approach19 Dec 2024 — An experiment by Dowling (1978) showed that the contours of...</p></details>
+   Link:<a href="https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/42/3/225/204037/Exploring-Melodic-ContourA-Clustering-Approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC Press OnlineExploring Melodic Contour: A Clustering Approach19 Dec 2024 — An experiment by Dowling (1978) showed that the contours of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>melodic lines between contour turning points are more likely to become INMI. Turning points in a melody occur when the pitch direction re...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>melodic lines between contour turning points are more likely to become INMI. Turning points in a melody occur when the pitch direction re...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brainmusic.org  
-   Link: <a href="https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicMusical Training Enhances Automatic Encoding of Melodic...by T Fujioka · Cited by 508 — The role of contour and intervals in...</p></details>
+   Link:<a href="https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brainmusic.org/EducationalActivities/Fujioka_contour2004.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brain MusicMusical Training Enhances Automatic Encoding of Melodic...by T Fujioka · Cited by 508 — The role of contour and intervals in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: online.ucpress.edu  
-   Link: <a href="https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinctiveness Effect in the Recognition of Whole Melodies1 Feb 2019 — Using linear mixed-effects modeling, we found that greater pitch...</p></details>
+   Link:<a href="https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/36/3/253/62714/The-Distinctiveness-Effect-in-the-Recognition-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distinctiveness Effect in the Recognition of Whole Melodies1 Feb 2019 — Using linear mixed-effects modeling, we found that greater pitch...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jcaa.caa-aca.ca  
-   Link: <a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251" target="_blank" rel="noopener noreferrer nofollow">https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>caa-aca.ca1.1 Contour in music cognitionby JB Prince · Cited by 25 — Contour also plays a crucial role in mu sic cognition, providing one...</p></details>
+   Link:<a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251" target="_blank" rel="noopener noreferrer nofollow">https://jcaa.caa-aca.ca/index.php/jcaa/article/download/2114/1861/2251</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>caa-aca.ca1.1 Contour in music cognitionby JB Prince · Cited by 25 — Contour also plays a crucial role in mu sic cognition, providing one...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHILDREN&#x27;S PERCEPTION OF FAMILIAR MELODIESby SE Trehub · 1985 · Cited by 80 — In this case, exact transpositions may be confused with tra...</p></details>
+   Link:<a href="https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/pmmb/pdf/10.1037/h0094201~childrens-perception-of-familiar-melodies-the-role-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHILDREN&#x27;S PERCEPTION OF FAMILIAR MELODIESby SE Trehub · 1985 · Cited by 80 — In this case, exact transpositions may be confused with tra...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ktunes and fugues, is demonstrated by brief analyses of actual music...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/628e61b44ef28685756e1570796a337d56731e24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ktunes and fugues, is demonstrated by brief analyses of actual music...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: decisionneurosciencelab.org  
-   Link: <a href="https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>melodic and rhythmic contour in perception and memoryby WJ Dowling · Cited by 17 — Dowling, Kwak, and Andrews (1995) introduced &quot;real&quot; no...</p></details>
+   Link:<a href="https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.decisionneurosciencelab.org/pdfs/Dowling%20et%20al.%2C%20%281999%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>melodic and rhythmic contour in perception and memoryby WJ Dowling · Cited by 17 — Dowling, Kwak, and Andrews (1995) introduced &quot;real&quot; no...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hal.science  
    Title: Talamini contour Music Perception  
-   Link: <a href="https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can melodic contour help encoding luminance sequences...by F Talamini · 2025 — Studies have shown that contour is an essential feature t...</p></details>
+   Link:<a href="https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05388434v1/file/Talamini_contour_MusicPerception.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can melodic contour help encoding luminance sequences...by F Talamini · 2025 — Studies have shown that contour is an essential feature t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Music Theory: Why We Remember Melodies  
-   Link: <a href="https://www.youtube.com/watch?v=yW6C5f1S5-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6C5f1S5-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how the broader, relative shape of a tune—its &quot;melodic contour&quot;—allows our brains to recognize and store musical pat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yW6C5f1S5-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW6C5f1S5-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how the broader, relative shape of a tune—its &quot;melodic contour&quot;—allows our brains to recognize and store musical pat...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by GC Lebedeva · 2010 · Cited by 80 — This study investigated whether 11-month-old infants perceive the pitch (melodic) or the phoneti...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2943554/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by GC Lebedeva · 2010 · Cited by 80 — This study investigated whether 11-month-old infants perceive the pitch (melodic) or the phoneti...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Melodic Contours Transcend Pitch - PMC - NIHby JE Graves · 2014 · Cited by 18 — The present study found that listener expectations fo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4605576/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Melodic Contours Transcend Pitch - PMC - NIHby JE Graves · 2014 · Cited by 18 — The present study found that listener expectations fo...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: digitalcommons.bucknell.edu  
-   Link: <a href="https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&amp;context=fac_journ" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&amp;context=fac_journ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Features and Context in Recognition of Novel MelodiesWE INVESTIGATED HOW WELL STRUCTURAL FEATURES such as note density or the rel...</p></details>
+   Link:<a href="https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&amp;context=fac_journ" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?article=1822&amp;context=fac_journ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Features and Context in Recognition of Novel MelodiesWE INVESTIGATED HOW WELL STRUCTURAL FEATURES such as note density or the rel...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>melody recognition: Distinctiveness and the role of...by F Bailes · 2010 · Cited by 29 — They suggest that duration may facilitate melod...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.3758/MC.38.5.641.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>melody recognition: Distinctiveness and the role of...by F Bailes · 2010 · Cited by 29 — They suggest that duration may facilitate melod...</p></details>

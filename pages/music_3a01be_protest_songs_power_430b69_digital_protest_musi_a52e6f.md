@@ -274,33 +274,33 @@ image: /assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_mu
 
 ## Introduction
 
-In the digital age, the way protest music spreads and is used has changed profoundly. Online platforms like TikTok, YouTube and Twitter enable songs born of social struggle to reach millions in moments, far beyond the reach of traditional physical rallies or [grassroots]({{ 'grassroots/' | relative_url }}) distribution. This **digital dissemination transforms how protest music is encountered, shared and repurposed** — with both empowering and problematic consequences. While songs can become widely recognised symbols of resistance, they are also at risk of being detached from the movements that gave them meaning, reshaped into bite‑sized [background]({{ 'background/' | relative_url }}) sound, or appropriated in ways that erode their social and political context. Understanding this dual dynamic is essential to seeing how protest music functions in the networked era of collective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+In the digital age, the way protest music spreads and is used has changed profoundly. Online platforms like TikTok, YouTube and Twitter enable songs born of social struggle to reach millions in moments, far beyond the reach of traditional physical rallies or [grassroots]({{ 'grassroots/' | relative_url }}) distribution. This **digital dissemination transforms how protest music is encountered, shared and repurposed** — with both empowering and problematic consequences. While songs can become widely recognised symbols of resistance, they are also at risk of being detached from the movements that gave them meaning, reshaped into bite‑sized [background]({{ 'background/' | relative_url }}) sound, or appropriated in ways that erode their social and political context. Understanding this dual dynamic is essential to seeing how protest music functions in the networked era of collective action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1-dark.svg" | relative_url }}" alt="Digital Protest Music illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Rapid Viral Sharing of Protest Songs
 
-Digital platforms accelerate the spread of [protest songs]({{ 'protest-songs/' | relative_url }}) in ways that [physical]({{ 'physical/' | relative_url }}) distribution never could. Short‑form video apps like TikTok allow users to embed protest music as background audio, remix it, or incorporate it into creative performances that can garner millions of views in days. These **viral mechanisms — sound identifiers, hashtags, duets and “stitches” — make it easy for protest sounds to circulate widely** and fluidly across networked publics. Users can attach the same audio to diverse visual content, amplifying awareness of a particular song or phrase beyond its original audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+Digital platforms accelerate the spread of [protest songs]({{ 'protest-songs/' | relative_url }}) in ways that [physical]({{ 'physical/' | relative_url }}) distribution never could. Short‑form video apps like TikTok allow users to embed protest music as background audio, remix it, or incorporate it into creative performances that can garner millions of views in days. These **viral mechanisms — sound identifiers, hashtags, duets and “stitches” — make it easy for protest sounds to circulate widely** and fluidly across networked publics. Users can attach the same audio to diverse visual content, amplifying awareness of a particular song or phrase beyond its original audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-Platforms such as YouTube serve as de facto libraries where protest recordings, mashups, lyric videos and documentary clips reside indefinitely, providing accessible archives that activists and curious audiences can explore globally. Studies of protest music in digital contexts (for example, work analysing music from the Gezi Park protests on YouTube) point to **digital media’s crucial role in production, distribution and consumption** — enabling aesthetic innovation and sustained visibility outside mainstream media filters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchonline.gcu.ac.uk">[Glasgow Caledonian University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchonline.gcu.ac.uk</span><span class="citation-popover-snippet">Glasgow Caledonian UniversityMusic videos as protest communication: the Gezi Park protest on YouTube - Glasgow Caledonian University...</span></span></span>
+Platforms such as YouTube serve as de facto libraries where protest recordings, mashups, lyric videos and documentary clips reside indefinitely, providing accessible archives that activists and curious audiences can explore globally. Studies of protest music in digital contexts (for example, work analysing music from the Gezi Park protests on YouTube) point to **digital media’s crucial role in production, distribution and consumption** — enabling aesthetic innovation and sustained visibility outside mainstream media filters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchonline.gcu.ac.uk">[Glasgow Caledonian University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchonline.gcu.ac.uk</span><span class="citation-popover-snippet">Glasgow Caledonian UniversityMusic videos as protest communication: the Gezi Park protest on YouTube - Glasgow Caledonian University...</span></span></span>
 
-However, this very ease of sharing introduces **rapid, decentralised dissemination** that differs from traditional organisational approaches to collective communication. Where earlier movements might have relied on coordinated release and performance of songs at marches or rallies, digital virality is shaped by algorithmic feeds and peer‑to‑peer networks, not by collective strategising. While this can expand reach, it also means that a protest song’s spread is often driven by platform mechanics as much as by its meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+However, this very ease of sharing introduces **rapid, decentralised dissemination** that differs from traditional organisational approaches to collective communication. Where earlier movements might have relied on coordinated release and performance of songs at marches or rallies, digital virality is shaped by algorithmic feeds and peer‑to‑peer networks, not by collective strategising. While this can expand reach, it also means that a protest song’s spread is often driven by platform mechanics as much as by its meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
 ## Songs as Personal Expression vs Collective Tools
 
-In digital spaces, protest music often functions as a resource for **connective action** — a form of engagement centred on individuals’ personal expression rather than coordinated organisational action. On social media, users adopt protest songs to articulate their identity, solidarity or stance within their own networks; their posts become acts of participation in the movement discourse. This dynamic aligns with scholarship on online mobilisation that sees protest expression reframed as a form of **personal sharing and sentiment** in networked publics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+In digital spaces, protest music often functions as a resource for **connective action** — a form of engagement centred on individuals’ personal expression rather than coordinated organisational action. On social media, users adopt protest songs to articulate their identity, solidarity or stance within their own networks; their posts become acts of participation in the movement discourse. This dynamic aligns with scholarship on online mobilisation that sees protest expression reframed as a form of **personal sharing and sentiment** in networked publics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-In this model, songs become **tools for affective connection**. A viral soundclip can signal belonging to a cause, create emotional resonance among scattered supporters, and sustain interest even when users cannot attend physical protests. Individual creators may lip‑sync, dance or remix protest tracks to express defiance, re‑frame their relationship to power structures, or tap into broader cultural conversations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+In this model, songs become **tools for affective connection**. A viral soundclip can signal belonging to a cause, create emotional resonance among scattered supporters, and sustain interest even when users cannot attend physical protests. Individual creators may lip‑sync, dance or remix protest tracks to express defiance, re‑frame their relationship to power structures, or tap into broader cultural conversations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-Yet this shift also brings tension between **collective movement purposes and individualized expression**. Where traditional protest music was embedded in shared narratives and coordinated performance contexts, on social platforms the political content of a song can be overshadowed by personal aesthetics or entertainment value. A protest track’s appearance in a trending meme or background beat might reflect individual creativity, but it may no longer carry a clear message about the original social cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+Yet this shift also brings tension between **collective movement purposes and individualized expression**. Where traditional protest music was embedded in shared narratives and coordinated performance contexts, on social platforms the political content of a song can be overshadowed by personal aesthetics or entertainment value. A protest track’s appearance in a trending meme or background beat might reflect individual creativity, but it may no longer carry a clear message about the original social cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-2-dark.svg" | relative_url }}" alt="Digital Protest Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Potential Fragmentation of Movement Messaging
 
-One of the most significant critiques of digital protest music is the risk of **decontextualisation and appropriation**. As songs migrate across platforms and [formats]({{ 'formats/' | relative_url }}), they can be stripped of their original meaning, reduced to catchy audio loops or repurposed in contexts unrelated to the movement that spawned them. Research analysing TikTok usage of a remix from a Black Lives Matter protest found that while the platform’s features enabled widespread engagement, they also enabled **the dilution or loss of the song’s protest essence**. Many users encountered and used the audio without understanding its roots or the specific political context it emerged from. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+One of the most significant critiques of digital protest music is the risk of **decontextualisation and appropriation**. As songs migrate across platforms and [formats]({{ 'formats/' | relative_url }}), they can be stripped of their original meaning, reduced to catchy audio loops or repurposed in contexts unrelated to the movement that spawned them. Research analysing TikTok usage of a remix from a Black Lives Matter protest found that while the platform’s features enabled widespread engagement, they also enabled **the dilution or loss of the song’s protest essence**. Many users encountered and used the audio without understanding its roots or the specific political context it emerged from.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-This detachment poses risks on two main fronts. First, it can **diminish the agency and voice of original creators**, especially when protest songs associated with specific struggles are re‑used without acknowledgement of their historical or social significance. Second, decontextualised protest sounds can be co‑opted by groups with conflicting agendas, using the same audio in ways that **invert or erase its original message**. In the TikTok case study, right‑wing users appropriated the protest sound for unrelated political commentary, further diffusing its intended meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+This detachment poses risks on two main fronts. First, it can **diminish the agency and voice of original creators**, especially when protest songs associated with specific struggles are re‑used without acknowledgement of their historical or social significance. Second, decontextualised protest sounds can be co‑opted by groups with conflicting agendas, using the same audio in ways that **invert or erase its original message**. In the TikTok case study, right‑wing users appropriated the protest sound for unrelated political commentary, further diffusing its intended meaning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
-Beyond direct appropriation, digital dissemination can also fragment movement messaging. Hashtag economies and algorithmic prioritisation tend to reward content that maximises engagement rather than deep contextual understanding, which means protest music may be encountered primarily through **trending behaviours**, not through critical interaction with the causes they represent. As a result, movements risk having their musical expressions absorbed into broader cultural streams where their political stakes are obscured or misread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+Beyond direct appropriation, digital dissemination can also fragment movement messaging. Hashtag economies and algorithmic prioritisation tend to reward content that maximises engagement rather than deep contextual understanding, which means protest music may be encountered primarily through **trending behaviours**, not through critical interaction with the causes they represent. As a result, movements risk having their musical expressions absorbed into broader cultural streams where their political stakes are obscured or misread.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
 ## Balancing Amplification with Context
 
@@ -309,197 +309,197 @@ The digital dissemination of protest music embodies a paradox: it vastly increas
 <img src="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-dark.svg" | relative_url }}" alt="Digital Protest Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Final Considerations
 
-In an increasingly networked world, protest music’s digital life is both a **vehicle for global recognition and a terrain of contested meaning**. Online dissemination enables songs to circulate far beyond their original communities, inviting new supporters and creative interpretations. At the same time, this same openness can erode the political clarity that makes protest music a tool of collective mobilisation. Recognising and navigating this tension — between virality and context, personal expression and shared purpose — remains a central challenge for movements that rely on music to build solidarity and articulate collective demands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
+In an increasingly networked world, protest music’s digital life is both a **vehicle for global recognition and a terrain of contested meaning**. Online dissemination enables songs to circulate far beyond their original communities, inviting new supporters and creative interpretations. At the same time, this same openness can erode the political clarity that makes protest music a tool of collective mobilisation. Recognising and navigating this tension — between virality and context, personal expression and shared purpose — remains a central challenge for movements that rely on music to build solidarity and articulate collective demands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Social Media Transforms Protest Songs Online. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Social Media Transforms Protest Songs Online. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474914-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
-        </h4>
-        <p class="fr-book-author">By Dorian Lynskey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7474914-M.jpg" alt="Cover for 33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day">33 Revolutions Per Minute A History Of Protest Songs From Bil...</a>
+</h4>
+<p class="fr-book-author">By Dorian Lynskey</p>
         
-        <p class="fr-book-desc">Provides historical context for modern digital protest music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for modern digital protest music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Because Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xn2pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Because Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen McCulloch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Because Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xn2pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Because Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
+</h4>
+<p class="fr-book-author">By Gretchen McCulloch</p>
         
-        <p class="fr-book-desc">Useful for understanding how culture spreads online.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how culture spreads online.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Twitter+and+tear+gas+Zeynep+Tufekci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Twitter and tear gas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238695-M.jpg" alt="Cover for Twitter and tear gas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Twitter+and+tear+gas+Zeynep+Tufekci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Twitter and tear gas">Twitter and tear gas</a>
-        </h4>
-        <p class="fr-book-author">By Zeynep Tufekci</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Twitter+and+tear+gas+Zeynep+Tufekci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Twitter and tear gas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238695-M.jpg" alt="Cover for Twitter and tear gas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Twitter+and+tear+gas+Zeynep+Tufekci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Twitter and tear gas">Twitter and tear gas</a>
+</h4>
+<p class="fr-book-author">By Zeynep Tufekci</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Social media, Protest movements, Political aspects, Online social networks, Social movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Twitter+and+tear+gas+Zeynep+Tufekci&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Social media, Protest movements, Political aspects, Online social networks, Social movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Twitter+and+tear+gas+Zeynep+Tufekci&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how platforms shape music circulation online.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how platforms shape music circulation online.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Because+Internet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Because Internet</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Twitter+and+tear+gas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Twitter and tear gas</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+A+History+Of+Protest+Songs+From+Billie+Holiday+To+Green+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute A History Of Protest Songs From Billie Holiday To Green Day</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Because+Internet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Because Internet</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Twitter+and+tear+gas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Twitter and tear gas</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JUST STOP OIL T-shirt Anti Environment Protest Save Earth Activist Green Recycle"><img src="{{ '/assets/images/marketplace-covers/a2a330cdf5fcae152b90.jpg' | relative_url }}" alt="Listing image for JUST STOP OIL T-shirt Anti Environment Protest Save Earth Activist Green Recycle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">JUST STOP OIL T-shirt Anti Environment Protest Save Earth Activist Green Recycle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JUST STOP OIL T-shirt Anti Environment Protest Save Earth Activist Green Recycle"><img src="{{ '/assets/images/marketplace-covers/a2a330cdf5fcae152b90.jpg' | relative_url }}" alt="Listing image for JUST STOP OIL T-shirt Anti Environment Protest Save Earth Activist Green Recycle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">JUST STOP OIL T-shirt Anti Environment Protest Save Earth Activist Green Recycle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animal Rights Mens T Shirt Vegan Activist Top for Him Gift for Vegetarian"><img src="{{ '/assets/images/marketplace-covers/6279254da56e79481fe5.jpg' | relative_url }}" alt="Listing image for Animal Rights Mens T Shirt Vegan Activist Top for Him Gift for Vegetarian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Animal Rights Mens T Shirt Vegan Activist Top for Him Gift for Vegetarian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animal Rights Mens T Shirt Vegan Activist Top for Him Gift for Vegetarian"><img src="{{ '/assets/images/marketplace-covers/6279254da56e79481fe5.jpg' | relative_url }}" alt="Listing image for Animal Rights Mens T Shirt Vegan Activist Top for Him Gift for Vegetarian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Animal Rights Mens T Shirt Vegan Activist Top for Him Gift for Vegetarian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Just Stop Oil Anti Environment Save Earth Activist Green Mens T-Shirt#VR"><img src="{{ '/assets/images/marketplace-covers/f283156a48de4eb072db.jpg' | relative_url }}" alt="Listing image for Just Stop Oil Anti Environment Save Earth Activist Green Mens T-Shirt#VR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Just Stop Oil Anti Environment Save Earth Activist Green Mens T-Shirt#VR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Just Stop Oil Anti Environment Save Earth Activist Green Mens T-Shirt#VR"><img src="{{ '/assets/images/marketplace-covers/f283156a48de4eb072db.jpg' | relative_url }}" alt="Listing image for Just Stop Oil Anti Environment Save Earth Activist Green Mens T-Shirt#VR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Just Stop Oil Anti Environment Save Earth Activist Green Mens T-Shirt#VR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Mens T Shirt White XL Greenpeace Rainbow Warrior 90s Activist Graphic"><img src="{{ '/assets/images/marketplace-covers/fce62706e841c0448da9.jpg' | relative_url }}" alt="Listing image for Vintage Mens T Shirt White XL Greenpeace Rainbow Warrior 90s Activist Graphic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage Mens T Shirt White XL Greenpeace Rainbow Warrior 90s Activist Graphic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Mens T Shirt White XL Greenpeace Rainbow Warrior 90s Activist Graphic"><img src="{{ '/assets/images/marketplace-covers/fce62706e841c0448da9.jpg' | relative_url }}" alt="Listing image for Vintage Mens T Shirt White XL Greenpeace Rainbow Warrior 90s Activist Graphic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage Mens T Shirt White XL Greenpeace Rainbow Warrior 90s Activist Graphic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for activist t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: activist t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=activist+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="activist t shirt" data-ebay-reference="digital-protest-music-how-social-media-transforms-protest-songs-online-music-activist-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ In an increasingly networked world, protest music’s digital life is both a **v
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ In an increasingly networked world, protest music’s digital life is both a **v
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ In an increasingly networked world, protest music’s digital life is both a **v
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ In an increasingly networked world, protest music’s digital life is both a **v
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ In an increasingly networked world, protest music’s digital life is both a **v
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,96 +705,96 @@ In an increasingly networked world, protest music’s digital life is both a **v
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051221094769</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051221094769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDefiant Amplification or Decontextualized Commercialization? Protest Music, TikTok, and Social Movements - Olivia Sadler, 20...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchonline.gcu.ac.uk  
-   Link: <a href="https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glasgow Caledonian UniversityMusic videos as protest communication: the Gezi Park protest on YouTube - Glasgow Caledonian University...</p></details>
+   Link:<a href="https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.gcu.ac.uk/en/publications/music-videos-as-protest-communication-the-gezi-park-protest-on-yo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glasgow Caledonian UniversityMusic videos as protest communication: the Gezi Park protest on YouTube - Glasgow Caledonian University...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: How Social Media Changed Protest Music  
-   Link: <a href="https://www.youtube.com/watch?v=0kI_Hl3sS-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0kI_Hl3sS-k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Viral Music on Social Movements...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0kI_Hl3sS-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0kI_Hl3sS-k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Viral Music on Social Movements...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Impact of Viral Music on Social Movements  
-   Link: <a href="https://www.youtube.com/watch?v=H7-tY9X8K94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H7-tY9X8K94</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Media and the Evolution of Protest Anthems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H7-tY9X8K94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H7-tY9X8K94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Media and the Evolution of Protest Anthems...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Digital Media and the Evolution of Protest Anthems  
-   Link: <a href="https://www.youtube.com/watch?v=i8_66l6i8yY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8_66l6i8yY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithms Shape Protest Songs and Activism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i8_66l6i8yY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8_66l6i8yY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithms Shape Protest Songs and Activism...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: How Algorithms Shape Protest Songs and Activism  
-   Link: <a href="https://www.youtube.com/watch?v=kYJjZ35O8y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJjZ35O8y4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ethics of Appropriating Protest Music Online...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYJjZ35O8y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJjZ35O8y4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ethics of Appropriating Protest Music Online...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Ethics of Appropriating Protest Music Online  
-   Link: <a href="https://www.youtube.com/watch?v=680_Q5wB1i0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=680_Q5wB1i0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=680_Q5wB1i0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=680_Q5wB1i0</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge CoreJune 17, 2022 — ONLINE MUSICKING FOR HUMANITY: THE ROLE OF IMAGINED LISTENING AND THE MORAL ECONOMIES OF MUSIC SHARING ON S...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/popular-music/article/online-musicking-for-humanity-the-role-of-imagined-listening-and-the-moral-economies-of-music-sharing-on-social-media/D03738195B52764DEC14B4292AEC8E40/core-reader</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge CoreJune 17, 2022 — ONLINE MUSICKING FOR HUMANITY: THE ROLE OF IMAGINED LISTENING AND THE MORAL ECONOMIES OF MUSIC SHARING ON S...</p></details>
    Published: June 17, 2022  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hira.hope.ac.uk  
-   Link: <a href="https://hira.hope.ac.uk/id/eprint/2166/" target="_blank" rel="noopener noreferrer nofollow">https://hira.hope.ac.uk/id/eprint/2166/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>music, populism, politics and authenticity: the limits and potential of popular music&#x27;s articulation of subversive politics - Hope&#x27;s Inst...</p></details>
+   Link:<a href="https://hira.hope.ac.uk/id/eprint/2166/" target="_blank" rel="noopener noreferrer nofollow">https://hira.hope.ac.uk/id/eprint/2166/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>music, populism, politics and authenticity: the limits and potential of popular music&#x27;s articulation of subversive politics - Hope&#x27;s Inst...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchportal.lsbu.ac.uk  
-   Link: <a href="https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicking on Social Media: Music Sharing, Sociality and Citizenship - London South Bank UniversityNovember 11, 2019 — UNDERSTANDING MUSIC...</p></details>
+   Link:<a href="https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.lsbu.ac.uk/en/publications/understanding-musicking-on-social-media-music-sharing-sociality-a-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musicking on Social Media: Music Sharing, Sociality and Citizenship - London South Bank UniversityNovember 11, 2019 — UNDERSTANDING MUSIC...</p></details>
    Published: November 11, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: benjamins.com  
-   Link: <a href="https://benjamins.com/catalog/jlp.15.4.03way" target="_blank" rel="noopener noreferrer nofollow">https://benjamins.com/catalog/jlp.15.4.03way</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15:4 (2016) ► pp.422–445 PROTEST MUSIC, POPULISM, POLITICS AND AUTHENTICITY THE LIMITS AND POTENTIAL OF POPULAR MUSIC’S ARTICULATION OF...</p></details>
+   Link:<a href="https://benjamins.com/catalog/jlp.15.4.03way" target="_blank" rel="noopener noreferrer nofollow">https://benjamins.com/catalog/jlp.15.4.03way</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15:4 (2016) ► pp.422–445 PROTEST MUSIC, POPULISM, POLITICS AND AUTHENTICITY THE LIMITS AND POTENTIAL OF POPULAR MUSIC’S ARTICULATION OF...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchwith.montclair.edu  
    Title: retweeting in the service of protest digital composition and circ  
-   Link: <a href="https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ" target="_blank" rel="noopener noreferrer nofollow">https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>montclair.edu(Re)Tweeting in the service of protest: Digital composition and circulation in the Occupy Wall Street movement - Montclair S...</p></details>
+   Link:<a href="https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ" target="_blank" rel="noopener noreferrer nofollow">https://researchwith.montclair.edu/en/publications/retweeting-in-the-service-of-protest-digital-composition-and-circ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>montclair.edu(Re)Tweeting in the service of protest: Digital composition and circulation in the Occupy Wall Street movement - Montclair S...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: colab.ws  
    Title: Defiant Amplification or Decontextualized Commercialization?  
-   Link: <a href="https://colab.ws/articles/10.1177%2F20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1177%2F20563051221094769</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements | CoLabApril 29, 2022 — Social Media and Society, volume 8, issue 2, pages 205630512210947...</p></details>
+   Link:<a href="https://colab.ws/articles/10.1177%2F20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1177%2F20563051221094769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements | CoLabApril 29, 2022 — Social Media and Society, volume 8, issue 2, pages 205630512210947...</p></details>
    Published: April 29, 2022  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: doaj.org  
    Title: Defiant Amplification or Decontextualized Commercialization?  
-   Link: <a href="https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements – DOAJSocial Media + Society (Apr 2022) DEFIANT AMPLIFICATION OR DECONTEXTUALIZED COMMERCIALI...</p></details>
+   Link:<a href="https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/130d96d9e2a140f8b8fe27fa63316cda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements – DOAJSocial Media + Society (Apr 2022) DEFIANT AMPLIFICATION OR DECONTEXTUALIZED COMMERCIALI...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scilove.app  
    Title: Defiant Amplification or Decontextualized Commercialization?  
-   Link: <a href="https://www.scilove.app/article/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://www.scilove.app/article/10.1177/20563051221094769</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements (Sadler, 2022) — SciLoveSocial Media and Society 2022 DEFIANT AMPLIFICATION OR DECONTEXTUALIZ...</p></details>
+   Link:<a href="https://www.scilove.app/article/10.1177/20563051221094769" target="_blank" rel="noopener noreferrer nofollow">https://www.scilove.app/article/10.1177/20563051221094769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protest Music, TikTok, and Social Movements (Sadler, 2022) — SciLoveSocial Media and Society 2022 DEFIANT AMPLIFICATION OR DECONTEXTUALIZ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ecpr.eu  
    Title: ‘Who’ll Stop the Rain’?  
-   Link: <a href="https://ecpr.eu/Events/Event/PaperDetails/33043" target="_blank" rel="noopener noreferrer nofollow">https://ecpr.eu/Events/Event/PaperDetails/33043</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dissemination and Regulation of Protest Songs Online‘WHO’LL STOP THE RAIN’? THE DISSEMINATION AND REGULATION OF PROTEST SONGS ONLINE...</p></details>
+   Link:<a href="https://ecpr.eu/Events/Event/PaperDetails/33043" target="_blank" rel="noopener noreferrer nofollow">https://ecpr.eu/Events/Event/PaperDetails/33043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dissemination and Regulation of Protest Songs Online‘WHO’LL STOP THE RAIN’? THE DISSEMINATION AND REGULATION OF PROTEST SONGS ONLINE...</p></details>

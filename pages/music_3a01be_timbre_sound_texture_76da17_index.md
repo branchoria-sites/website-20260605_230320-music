@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-timbre-sound-texture/
 description: Focused pages that expand on Timbre.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_timbre_sound_texture_76da17
 parent_title: Timbre
@@ -16,7 +16,7 @@ parent_permalink: /timbre/
 
 # Explore Topics in Timbre
 
-The following pages expand on the main **[Timbre]({{ '/timbre/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Timbre]({{ '/timbre/' | relative_url }})** page and cover its key branches in.
 
 - [Instrument Timbre]({{ '/instrument-timbre/' | relative_url }})
 - [Neural Timbre]({{ '/neural-timbre/' | relative_url }})

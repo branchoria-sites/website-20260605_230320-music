@@ -274,25 +274,25 @@ image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_s
 
 ## Introduction
 
-Record Store Day helped transform [vinyl]({{ 'vinyl/' | relative_url }}) from a niche format into a cultural event. Founded in 2008 to celebrate independent record shops, it created a yearly moment when collectors, fans and casual listeners all focused on [physical]({{ 'physical/' | relative_url }}) music at the same time. The event's most influential innovation was not simply encouraging people to visit record stores. It was turning scarcity into part of the appeal. Limited pressings, exclusive editions and shop-only releases gave vinyl something streaming could never offer: the possibility that a particular record might only be available to those willing to queue, search and buy it in person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span>
+Record Store Day helped transform [vinyl]({{ 'vinyl/' | relative_url }}) from a niche format into a cultural event. Founded in 2008 to celebrate independent record shops, it created a yearly moment when collectors, fans and casual listeners all focused on [physical]({{ 'physical/' | relative_url }}) music at the same time. The event's most influential innovation was not simply encouraging people to visit record stores. It was turning scarcity into part of the appeal. Limited pressings, exclusive editions and shop-only releases gave vinyl something streaming could never offer: the possibility that a particular record might only be available to those willing to queue, search and buy it in person.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-1-dark.svg" | relative_url }}" alt="Scarcity illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That scarcity has become one of the defining features of modern vinyl [culture]({{ 'culture/' | relative_url }}). Supporters argue that it drives traffic into independent shops and creates excitement around physical music. Critics counter that it can distort the market, encourage reselling and place pressure on manufacturing capacity. Both views help explain why Record Store Day occupies such an important place in the story of vinyl's survival.
 
 ## How Record Store Day Concentrates Demand
 
-Record Store Day was designed around a simple idea: bring music fans into independent record stores on a specific day and give them reasons to buy records there rather than online or through large retailers. Exclusive releases became the mechanism that made the idea work. Hundreds of special titles are issued each year, often available only through participating shops and frequently pressed in limited quantities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span>
+Record Store Day was designed around a simple idea: bring music fans into independent record stores on a specific day and give them reasons to buy records there rather than online or through large retailers. Exclusive releases became the mechanism that made the idea work. Hundreds of special titles are issued each year, often available only through participating shops and frequently pressed in limited quantities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span>
 
-The result is a rare moment when demand becomes highly concentrated. Instead of records appearing gradually throughout the year, collectors focus on a single date. Long queues outside shops have become part of the event's identity, with many customers arriving before opening time in hopes of securing a sought-after release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thevinyldistrict.com/storefront/happy-record-store-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thevinyldistrict.com">[The Vinyl District]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thevinyldistrict.com</span><span class="citation-popover-title">happy record store day</span><span class="citation-popover-snippet">The Vinyl DistrictHappy Record Store Day!18 Apr 2026 — On Saturday, April 18, independent record stores across the country will open earl...</span></span></span>
+The result is a rare moment when demand becomes highly concentrated. Instead of records appearing gradually throughout the year, collectors focus on a single date. Long queues outside shops have become part of the event's identity, with many customers arriving before opening time in hopes of securing a sought-after release.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thevinyldistrict.com/storefront/happy-record-store-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thevinyldistrict.com">[The Vinyl District]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thevinyldistrict.com</span><span class="citation-popover-title">happy record store day</span><span class="citation-popover-snippet">The Vinyl DistrictHappy Record Store Day!18 Apr 2026 — On Saturday, April 18, independent record stores across the country will open earl...</span></span></span>
 
-This concentration of demand matters because vinyl is not a frictionless market. Records must be manufactured, shipped and allocated to shops before the event. When a title is announced as a limited pressing, demand often exceeds supply by design. Scarcity is not an accidental by-product; it is frequently part of the product's appeal. Limited runs of a few hundred or a few thousand copies are common, and some releases are individually numbered or packaged in ways that emphasise rarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordstoredaygermany.de/exklusive-releases/releases-zum-rsd-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordstoredaygermany.de">[recordstoredaygermany.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordstoredaygermany.de</span><span class="citation-popover-title">releases zum rsd 2026</span><span class="citation-popover-snippet">Record Store Day 2026This RSD exclusive is the first-ever physical release for the band... This Record Store Day exclusive vinyl version...</span></span></span>
+This concentration of demand matters because vinyl is not a frictionless market. Records must be manufactured, shipped and allocated to shops before the event. When a title is announced as a limited pressing, demand often exceeds supply by design. Scarcity is not an accidental by-product; it is frequently part of the product's appeal. Limited runs of a few hundred or a few thousand copies are common, and some releases are individually numbered or packaged in ways that emphasise rarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordstoredaygermany.de/exklusive-releases/releases-zum-rsd-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordstoredaygermany.de">[recordstoredaygermany.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordstoredaygermany.de</span><span class="citation-popover-title">releases zum rsd 2026</span><span class="citation-popover-snippet">Record Store Day 2026This RSD exclusive is the first-ever physical release for the band... This Record Store Day exclusive vinyl version...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-3-dark.svg" | relative_url }}" alt="Scarcity illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Exclusive Releases and Independent Shops
 
 For independent retailers, scarcity can be valuable. A customer who visits a shop to buy an exclusive release often purchases additional records while there. The event also reinforces the idea that local record stores offer experiences and discoveries unavailable through streaming platforms.
 
-Record Store Day organisers explicitly position the event as a celebration of independently owned record stores, and participating shops often host live performances, signings and community gatherings alongside sales. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span> Scarcity strengthens that relationship in several ways:
+Record Store Day organisers explicitly position the event as a celebration of independently owned record stores, and participating shops often host live performances, signings and community gatherings alongside sales.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span> Scarcity strengthens that relationship in several ways:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,14 +303,14 @@ Record Store Day organisers explicitly position the event as a celebration of in
 
 </div>
 
-The broader vinyl revival has helped many independent stores remain viable, and special editions continue to function as a significant marketing tool within that ecosystem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/vinyl-revival-rescues-independent-record-stores-8qhfdrvnn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Vinyl revival rescues independent record stores</span><span class="citation-popover-snippet">As Gen Z customers increasingly seek contemporary artists’ vinyl releases, the number of independent record stores grew to 461 in 2023, u...</span></span></span>
+The broader vinyl revival has helped many independent stores remain viable, and special editions continue to function as a significant marketing tool within that ecosystem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/vinyl-revival-rescues-independent-record-stores-8qhfdrvnn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Vinyl revival rescues independent record stores</span><span class="citation-popover-snippet">As Gen Z customers increasingly seek contemporary artists’ vinyl releases, the number of independent record stores grew to 461 in 2023, u...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-2-dark.svg" | relative_url }}" alt="Scarcity illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Scarcity Creates Bottlenecks
 
-The same mechanisms that generate excitement can also create strain. As vinyl demand expanded during the 2010s and early 2020s, pressing plants faced increasing backlogs. Industry observers, independent labels and shop owners argued that large Record Store Day schedules could absorb manufacturing capacity that might otherwise be used for regular releases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/feb/17/record-store-day-independent-music-shops-vinyl-shortage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianRecord Store Day is harming, not helping, independent...February 17, 2022 — 18 Feb 2022 — Critics have long derided the even...</span><span class="citation-popover-meta">Published: February 17, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.investmentmonitor.ai/features/vinyl-shortage-production-major-labels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investmentmonitor.ai">[Investment Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investmentmonitor.ai</span><span class="citation-popover-title">vinyl shortage production major labels</span><span class="citation-popover-snippet">Vinyl Shortage Crisis: Impact on Production and Major...21 Jul 2021 — The production of vinyl records is big business, but Covid and maj...</span></span></span>
+The same mechanisms that generate excitement can also create strain. As vinyl demand expanded during the 2010s and early 2020s, pressing plants faced increasing backlogs. Industry observers, independent labels and shop owners argued that large Record Store Day schedules could absorb manufacturing capacity that might otherwise be used for regular releases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2022/feb/17/record-store-day-independent-music-shops-vinyl-shortage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianRecord Store Day is harming, not helping, independent...February 17, 2022 — 18 Feb 2022 — Critics have long derided the even...</span><span class="citation-popover-meta">Published: February 17, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.investmentmonitor.ai/features/vinyl-shortage-production-major-labels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investmentmonitor.ai">[Investment Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investmentmonitor.ai</span><span class="citation-popover-title">vinyl shortage production major labels</span><span class="citation-popover-snippet">Vinyl Shortage Crisis: Impact on Production and Major...21 Jul 2021 — The production of vinyl records is big business, but Covid and maj...</span></span></span>
 
-The issue became especially visible during the pandemic-era vinyl boom, when manufacturing delays stretched from months to much longer waits for many projects. Smaller labels and independent artists often found themselves competing for production slots against major-label reissues and high-profile limited editions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/pro/vinyl-album-demand-pandemic-slowdown-industry-supply/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">vinyl album demand pandemic slowdown industry supply</span><span class="citation-popover-snippet">The Pandemic Caused An Explosion In Vinyl Demand8 Jun 2021 — Vinyl demand exploded in the pandemic, but supply chain woes and la...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/thepitch/why-are-independent-artists-and-labels-turning-away-from-vinyl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Vinyl sales are expected to reach $1 billion in 2021, but supply chain disruptions and increased demand have extended turnaround times fo...</span></span></span> Researchers examining the vinyl revival have also highlighted how Record Store Day became intertwined with wider questions about production capacity and scarcity. The modern vinyl market depends on a relatively small manufacturing infrastructure, meaning surges in demand can have consequences far beyond a single weekend event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAnalog backlog: Pressing records during the vinyl revival19 Dec 2017 — In this essay, I analyze recent trends of viny...</span></span></span>
+The issue became especially visible during the pandemic-era vinyl boom, when manufacturing delays stretched from months to much longer waits for many projects. Smaller labels and independent artists often found themselves competing for production slots against major-label reissues and high-profile limited editions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/pro/vinyl-album-demand-pandemic-slowdown-industry-supply/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">vinyl album demand pandemic slowdown industry supply</span><span class="citation-popover-snippet">The Pandemic Caused An Explosion In Vinyl Demand8 Jun 2021 — Vinyl demand exploded in the pandemic, but supply chain woes and la...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/thepitch/why-are-independent-artists-and-labels-turning-away-from-vinyl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Vinyl sales are expected to reach $1 billion in 2021, but supply chain disruptions and increased demand have extended turnaround times fo...</span></span></span> Researchers examining the vinyl revival have also highlighted how Record Store Day became intertwined with wider questions about production capacity and scarcity. The modern vinyl market depends on a relatively small manufacturing infrastructure, meaning surges in demand can have consequences far beyond a single weekend event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAnalog backlog: Pressing records during the vinyl revival19 Dec 2017 — In this essay, I analyze recent trends of viny...</span></span></span>
 
 This tension reveals an important feature of vinyl's survival. The format benefits from scarcity, but it can also be constrained by it.
 
@@ -318,9 +318,9 @@ This tension reveals an important feature of vinyl's survival. The format benefi
 
 Record Store Day's most persistent debate concerns whether scarcity creates healthy enthusiasm or unhealthy pressure.
 
-Supporters see exclusivity as part of collecting culture. Limited editions give fans a reason to engage deeply with music, visit local shops and own something distinctive. A special pressing, coloured vinyl variant or rare live [recording]({{ 'recording/' | relative_url }}) can transform an album from a stream into a memorable object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendingsound.co.uk">[Bending Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendingsound.co.uk</span><span class="citation-popover-title">Bending Sound Record Store Day</span><span class="citation-popover-snippet">Bending SoundRecord Store Day - What is it, and What is all the hype?Exclusive Releases: The event features limited edition vinyl release...</span></span></span>
+Supporters see exclusivity as part of collecting culture. Limited editions give fans a reason to engage deeply with music, visit local shops and own something distinctive. A special pressing, coloured vinyl variant or rare live [recording]({{ 'recording/' | relative_url }}) can transform an album from a stream into a memorable object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendingsound.co.uk">[Bending Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendingsound.co.uk</span><span class="citation-popover-title">Bending Sound Record Store Day</span><span class="citation-popover-snippet">Bending SoundRecord Store Day - What is it, and What is all the hype?Exclusive Releases: The event features limited edition vinyl release...</span></span></span>
 
-Critics argue that scarcity sometimes encourages behaviour closer to speculation than music fandom. Highly sought-after releases can sell out within hours and quickly appear on secondary marketplaces at inflated prices. Some collectors and commentators have described the event as turning record buying into a competitive race where obtaining the item becomes more important than listening to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span> LinkedIn Community discussions around the event often reflect this divide. Fans praise the atmosphere <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/salah-sadeq_record-store-day-the-culture-wars-between-activity-7451244817977618432-tPVt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Record Store Day: Vinyl vs Streaming, Scarcity and...The tensions are real though. Resellers flip limited pressings for profit w...</span></span></span>, discoveries and support for local shops while simultaneously expressing frustration about artificial scarcity, reseller activity and the difficulty of obtaining desired releases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Record Store Day. Boom event for independent retailers, or...Well... yesterday was yet another day of long lines, big spending, an...</span></span></span>
+Critics argue that scarcity sometimes encourages behaviour closer to speculation than music fandom. Highly sought-after releases can sell out within hours and quickly appear on secondary marketplaces at inflated prices. Some collectors and commentators have described the event as turning record buying into a competitive race where obtaining the item becomes more important than listening to it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span> LinkedIn Community discussions around the event often reflect this divide. Fans praise the atmosphere<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/salah-sadeq_record-store-day-the-culture-wars-between-activity-7451244817977618432-tPVt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Record Store Day: Vinyl vs Streaming, Scarcity and...The tensions are real though. Resellers flip limited pressings for profit w...</span></span></span>, discoveries and support for local shops while simultaneously expressing frustration about artificial scarcity, reseller activity and the difficulty of obtaining desired releases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Record Store Day. Boom event for independent retailers, or...Well... yesterday was yet another day of long lines, big spending, an...</span></span></span>
 
 The debate persists because both sides are responding to the same reality: scarcity is effective. The limited nature of these records generates [attention]({{ 'attention/' | relative_url }}) precisely because not everyone can have them.
 
@@ -328,201 +328,201 @@ The debate persists because both sides are responding to the same reality: scarc
 
 ## Why Scarcity Became Central to Modern Vinyl Culture
 
-Streaming made music abundant. Nearly any song can be played instantly, anywhere, at negligible cost. Record Store Day succeeded because it moved vinyl in the opposite direction. Instead of abundance, it offered limitation. Instead of instant [access]({{ 'access/' | relative_url }}), it offered anticipation. Instead of identical digital files, it offered numbered editions, coloured pressings and releases available only through particular shops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendingsound.co.uk">[Bending Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendingsound.co.uk</span><span class="citation-popover-title">Bending Sound Record Store Day</span><span class="citation-popover-snippet">Bending SoundRecord Store Day - What is it, and What is all the hype?Exclusive Releases: The event features limited edition vinyl release...</span></span></span>
+Streaming made music abundant. Nearly any song can be played instantly, anywhere, at negligible cost. Record Store Day succeeded because it moved vinyl in the opposite direction. Instead of abundance, it offered limitation. Instead of instant [access]({{ 'access/' | relative_url }}), it offered anticipation. Instead of identical digital files, it offered numbered editions, coloured pressings and releases available only through particular shops.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Record Store Day</span><span class="citation-popover-snippet">Record Store Day</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendingsound.co.uk">[Bending Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendingsound.co.uk</span><span class="citation-popover-title">Bending Sound Record Store Day</span><span class="citation-popover-snippet">Bending SoundRecord Store Day - What is it, and What is all the hype?Exclusive Releases: The event features limited edition vinyl release...</span></span></span>
 
-That shift helps explain why vinyl remained relevant in the streaming era. Record Store Day did more than celebrate record stores; it helped redefine what a record meant. Scarcity became part of the value proposition. For many collectors, the attraction is not merely hearing the music but participating in an event, securing a rare edition and owning a physical object tied to a specific moment in time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thevinyldistrict.com/storefront/happy-record-store-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thevinyldistrict.com">[The Vinyl District]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thevinyldistrict.com</span><span class="citation-popover-title">happy record store day</span><span class="citation-popover-snippet">The Vinyl DistrictHappy Record Store Day!18 Apr 2026 — On Saturday, April 18, independent record stores across the country will open earl...</span></span></span>
+That shift helps explain why vinyl remained relevant in the streaming era. Record Store Day did more than celebrate record stores; it helped redefine what a record meant. Scarcity became part of the value proposition. For many collectors, the attraction is not merely hearing the music but participating in an event, securing a rare edition and owning a physical object tied to a specific moment in time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Record Store Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Record Store Day</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thevinyldistrict.com/storefront/happy-record-store-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thevinyldistrict.com">[The Vinyl District]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thevinyldistrict.com</span><span class="citation-popover-title">happy record store day</span><span class="citation-popover-snippet">The Vinyl DistrictHappy Record Store Day!18 Apr 2026 — On Saturday, April 18, independent record stores across the country will open earl...</span></span></span>
 
-In that sense, Record Store Day demonstrates one of the central paradoxes of the vinyl revival: the format survived not by becoming easier to obtain than digital music, but by making certain records deliberately harder to get. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAnalog backlog: Pressing records during the vinyl revival19 Dec 2017 — In this essay, I analyze recent trends of viny...</span></span></span>
+In that sense, Record Store Day demonstrates one of the central paradoxes of the vinyl revival: the format survived not by becoming easier to obtain than digital music, but by making certain records deliberately harder to get.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAnalog backlog: Pressing records during the vinyl revival19 Dec 2017 — In this essay, I analyze recent trends of viny...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Limited Vinyl Becomes the Event. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Limited Vinyl Becomes the Event. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why vinyl matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13185208-M.jpg" alt="Cover for Why vinyl matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why vinyl matters">Why vinyl matters</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Otter Bickerdike</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why vinyl matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13185208-M.jpg" alt="Cover for Why vinyl matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why vinyl matters">Why vinyl matters</a>
+</h4>
+<p class="fr-book-author">By Jennifer Otter Bickerdike</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Sound recordings, Album covers, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Sound recordings, Album covers, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl">Vinyl</a>
-        </h4>
-        <p class="fr-book-author">By Mike Evans</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl">Vinyl</a>
+</h4>
+<p class="fr-book-author">By Mike Evans</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Sound recordings, Album covers, Pictorial works, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Sound recordings, Album covers, Pictorial works, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
-        </h4>
-        <p class="fr-book-author">By Eilon Paz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
+</h4>
+<p class="fr-book-author">By Eilon Paz</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Interviews, Sound recordings, Collectors and collecting, Pictorial works, Anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Interviews, Sound recordings, Collectors and collecting, Pictorial works, Anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Record Store Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Record Store Day">Record Store Day</a>
-        </h4>
-        <p class="fr-book-author">By Larry Jaffee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Record Store Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Record Store Day">Record Store Day</a>
+</h4>
+<p class="fr-book-author">By Larry Jaffee</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: Music, Collectors and collecting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: Music, Collectors and collecting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+vinyl+matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why vinyl matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dust+%26+grooves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dust &amp; grooves</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+vinyl+matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why vinyl matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dust+%26+grooves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dust &amp; grooves</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Record Store Day Poster Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Y0oAAeSwfBlpZSrg/s-l225.jpg" alt="Listing image for Record Store Day Poster Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">Record Store Day Poster Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Record Store Day Poster Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Y0oAAeSwfBlpZSrg/s-l225.jpg" alt="Listing image for Record Store Day Poster Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">Record Store Day Poster Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RECORD STORE DAY BLACK FRIDAY RSD U2 GLORIA 4OTH YELLOW VINYL LARGE POSTER"><img src="https://i.ebayimg.com/images/g/otgAAeSwl2hpwWZk/s-l225.jpg" alt="Listing image for RECORD STORE DAY BLACK FRIDAY RSD U2 GLORIA 4OTH YELLOW VINYL LARGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">RECORD STORE DAY BLACK FRIDAY RSD U2 GLORIA 4OTH YELLOW VINYL LARGE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RECORD STORE DAY BLACK FRIDAY RSD U2 GLORIA 4OTH YELLOW VINYL LARGE POSTER"><img src="https://i.ebayimg.com/images/g/otgAAeSwl2hpwWZk/s-l225.jpg" alt="Listing image for RECORD STORE DAY BLACK FRIDAY RSD U2 GLORIA 4OTH YELLOW VINYL LARGE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">RECORD STORE DAY BLACK FRIDAY RSD U2 GLORIA 4OTH YELLOW VINYL LARGE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bryan Adams: On A Day Like Today Album Record Store Promo Poster 30&quot; x 20&quot;"><img src="https://i.ebayimg.com/images/g/ceQAAeSwk5dpliDt/s-l225.jpg" alt="Listing image for Bryan Adams: On A Day Like Today Album Record Store Promo Poster 30&quot; x 20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">Bryan Adams: On A Day Like Today Album Record Store Promo Poster 30&quot; x 20&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bryan Adams: On A Day Like Today Album Record Store Promo Poster 30&quot; x 20&quot;"><img src="https://i.ebayimg.com/images/g/ceQAAeSwk5dpliDt/s-l225.jpg" alt="Listing image for Bryan Adams: On A Day Like Today Album Record Store Promo Poster 30&quot; x 20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">Bryan Adams: On A Day Like Today Album Record Store Promo Poster 30&quot; x 20&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHARLI XCX - NUMBER 1 ANGEL Red Vinyl 12&quot; RSD RECORD STORE DAY SEALED + POSTER"><img src="https://i.ebayimg.com/images/g/558AAOSww-dn-noM/s-l225.jpg" alt="Listing image for CHARLI XCX - NUMBER 1 ANGEL Red Vinyl 12&quot; RSD RECORD STORE DAY SEALED + POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">CHARLI XCX - NUMBER 1 ANGEL Red Vinyl 12&quot; RSD RECORD STORE DAY SEALED + POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHARLI XCX - NUMBER 1 ANGEL Red Vinyl 12&quot; RSD RECORD STORE DAY SEALED + POSTER"><img src="https://i.ebayimg.com/images/g/558AAOSww-dn-noM/s-l225.jpg" alt="Listing image for CHARLI XCX - NUMBER 1 ANGEL Red Vinyl 12&quot; RSD RECORD STORE DAY SEALED + POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">CHARLI XCX - NUMBER 1 ANGEL Red Vinyl 12&quot; RSD RECORD STORE DAY SEALED + POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Record Store Day poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Record Store Day poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Record+Store+Day+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-limited-vinyl-becomes-the-event-record-store-day-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Record Store Day poster" data-ebay-reference="when-limited-vinyl-becomes-the-event-record-store-day-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,192 +728,192 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Record Store Day  
-   Link: <a href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Record_Store_Day</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Record_Store_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Record_Store_Day</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day. Boom event for independent retailers, or...Well... yesterday was yet another day of long lines, big spending, an...</p></details>
+   Link:<a href="https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/nyxjbd/record_store_day_boom_event_for_independent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day. Boom event for independent retailers, or...Well... yesterday was yet another day of long lines, big spending, an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: recordstoredaygermany.de  
    Title: releases zum rsd 2026  
-   Link: <a href="https://www.recordstoredaygermany.de/exklusive-releases/releases-zum-rsd-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.recordstoredaygermany.de/exklusive-releases/releases-zum-rsd-2026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day 2026This RSD exclusive is the first-ever physical release for the band... This Record Store Day exclusive vinyl version...</p></details>
+   Link:<a href="https://www.recordstoredaygermany.de/exklusive-releases/releases-zum-rsd-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.recordstoredaygermany.de/exklusive-releases/releases-zum-rsd-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day 2026This RSD exclusive is the first-ever physical release for the band... This Record Store Day exclusive vinyl version...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/thepitch/why-are-independent-artists-and-labels-turning-away-from-vinyl" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/thepitch/why-are-independent-artists-and-labels-turning-away-from-vinyl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl sales are expected to reach $1 billion in 2021, but supply chain disruptions and increased demand have extended turnaround times fo...</p></details>
+   Link:<a href="https://pitchfork.com/thepitch/why-are-independent-artists-and-labels-turning-away-from-vinyl" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/thepitch/why-are-independent-artists-and-labels-turning-away-from-vinyl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl sales are expected to reach $1 billion in 2021, but supply chain disruptions and increased demand have extended turnaround times fo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: billboard.com  
    Title: vinyl album demand pandemic slowdown industry supply  
-   Link: <a href="https://www.billboard.com/pro/vinyl-album-demand-pandemic-slowdown-industry-supply/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/vinyl-album-demand-pandemic-slowdown-industry-supply/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pandemic Caused An Explosion In Vinyl Demand8 Jun 2021 — Vinyl demand exploded in the pandemic, but supply chain woes and la...</p></details>
+   Link:<a href="https://www.billboard.com/pro/vinyl-album-demand-pandemic-slowdown-industry-supply/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/vinyl-album-demand-pandemic-slowdown-industry-supply/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pandemic Caused An Explosion In Vinyl Demand8 Jun 2021 — Vinyl demand exploded in the pandemic, but supply chain woes and la...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAnalog backlog: Pressing records during the vinyl revival19 Dec 2017 — In this essay, I analyze recent trends of viny...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jpms.12247</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAnalog backlog: Pressing records during the vinyl revival19 Dec 2017 — In this essay, I analyze recent trends of viny...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/salah-sadeq_record-store-day-the-culture-wars-between-activity-7451244817977618432-tPVt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/salah-sadeq_record-store-day-the-culture-wars-between-activity-7451244817977618432-tPVt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day: Vinyl vs Streaming, Scarcity and...The tensions are real though. Resellers flip limited pressings for profit w...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/salah-sadeq_record-store-day-the-culture-wars-between-activity-7451244817977618432-tPVt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/salah-sadeq_record-store-day-the-culture-wars-between-activity-7451244817977618432-tPVt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day: Vinyl vs Streaming, Scarcity and...The tensions are real though. Resellers flip limited pressings for profit w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: record store day celebrates indie retail music  
-   Link: <a href="https://www.reddit.com/r/Music/comments/1c933jv/record_store_day_celebrates_indie_retail_music/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1c933jv/record_store_day_celebrates_indie_retail_music/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sellers as...Record Store Day 2025 List · Vinyl sales pass $1 billion for the first time since 1983 · UK/EU stores have put leftover RSD...</p></details>
+   Link:<a href="https://www.reddit.com/r/Music/comments/1c933jv/record_store_day_celebrates_indie_retail_music/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1c933jv/record_store_day_celebrates_indie_retail_music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sellers as...Record Store Day 2025 List · Vinyl sales pass $1 billion for the first time since 1983 · UK/EU stores have put leftover RSD...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/indieheads/comments/sulbg2/record_store_day_is_harming_not_helping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/sulbg2/record_store_day_is_harming_not_helping/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tock delays and shortages which are exacerbated by the RSD...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/indieheads/comments/sulbg2/record_store_day_is_harming_not_helping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/sulbg2/record_store_day_is_harming_not_helping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tock delays and shortages which are exacerbated by the RSD...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Why is there a vinyl record shortage?  
-   Link: <a href="https://www.youtube.com/watch?v=wX-yD8D05sI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-yD8D05sI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day: Why it&#x27;s still important...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wX-yD8D05sI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-yD8D05sI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day: Why it&#x27;s still important...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Record Store Day: Why it's still important  
-   Link: <a href="https://www.youtube.com/watch?v=s5R29_P0r0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R29_P0r0k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem with Record Store Day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s5R29_P0r0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R29_P0r0k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem with Record Store Day...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: recordstoreday.com  
-   Link: <a href="https://recordstoreday.com/" target="_blank" rel="noopener noreferrer nofollow">https://recordstoreday.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store DayHome | RECORD STORE DAYOn behalf of record stores all over the world, Record Store Day US and Record Store Day UK have of...</p></details>
+   Link:<a href="https://recordstoreday.com/" target="_blank" rel="noopener noreferrer nofollow">https://recordstoreday.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store DayHome | RECORD STORE DAYOn behalf of record stores all over the world, Record Store Day US and Record Store Day UK have of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: techradar.com  
    Title: record store day 2025 the full list plus 5 great [albums](&#123;&#123; 'albums/' | relative_url &#125;&#125;) you need to bag  
-   Link: <a href="https://www.techradar.com/audio/record-store-day-2025-the-full-list-plus-5-great-albums-you-need-to-bag" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/audio/record-store-day-2025-the-full-list-plus-5-great-albums-you-need-to-bag</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Originating in 2007 to boost the vinyl market, RSD has now become a global event drawing fans to independent record stores for rare and l...</p></details>
+   Link:<a href="https://www.techradar.com/audio/record-store-day-2025-the-full-list-plus-5-great-albums-you-need-to-bag" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/audio/record-store-day-2025-the-full-list-plus-5-great-albums-you-need-to-bag</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Originating in 2007 to boost the vinyl market, RSD has now become a global event drawing fans to independent record stores for rare and l...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thevinyldistrict.com  
    Title: happy record store day  
-   Link: <a href="https://www.thevinyldistrict.com/storefront/happy-record-store-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.thevinyldistrict.com/storefront/happy-record-store-day/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vinyl DistrictHappy Record Store Day!18 Apr 2026 — On Saturday, April 18, independent record stores across the country will open earl...</p></details>
+   Link:<a href="https://www.thevinyldistrict.com/storefront/happy-record-store-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.thevinyldistrict.com/storefront/happy-record-store-day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Vinyl DistrictHappy Record Store Day!18 Apr 2026 — On Saturday, April 18, independent record stores across the country will open earl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bendingsound.co.uk  
    Title: Bending Sound Record Store Day  
-   Link: <a href="https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC" target="_blank" rel="noopener noreferrer nofollow">https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bending SoundRecord Store Day - What is it, and What is all the hype?Exclusive Releases: The event features limited edition vinyl release...</p></details>
+   Link:<a href="https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC" target="_blank" rel="noopener noreferrer nofollow">https://bendingsound.co.uk/blogs/latest-news/record-store-day-what-is-it-and-what-is-all-the-hype?srsltid=AfmBOorCeodXeZ8DRP4ldQEDgAvsUOLgeRmk0jQGRXQXXpULz2K9ojHC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bending SoundRecord Store Day - What is it, and What is all the hype?Exclusive Releases: The event features limited edition vinyl release...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thetimes.co.uk  
    Title: The Times Vinyl revival rescues independent record stores  
-   Link: <a href="https://www.thetimes.co.uk/article/vinyl-revival-rescues-independent-record-stores-8qhfdrvnn" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/vinyl-revival-rescues-independent-record-stores-8qhfdrvnn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As Gen Z customers increasingly seek contemporary artists’ vinyl releases, the number of independent record stores grew to 461 in 2023, u...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/vinyl-revival-rescues-independent-record-stores-8qhfdrvnn" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/vinyl-revival-rescues-independent-record-stores-8qhfdrvnn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As Gen Z customers increasingly seek contemporary artists’ vinyl releases, the number of independent record stores grew to 461 in 2023, u...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2022/feb/17/record-store-day-independent-music-shops-vinyl-shortage" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/feb/17/record-store-day-independent-music-shops-vinyl-shortage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianRecord Store Day is harming, not helping, independent...February 17, 2022 — 18 Feb 2022 — Critics have long derided the even...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2022/feb/17/record-store-day-independent-music-shops-vinyl-shortage" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/feb/17/record-store-day-independent-music-shops-vinyl-shortage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianRecord Store Day is harming, not helping, independent...February 17, 2022 — 18 Feb 2022 — Critics have long derided the even...</p></details>
    Published: February 17, 2022  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: investmentmonitor.ai  
    Title: vinyl shortage production major labels  
-   Link: <a href="https://www.investmentmonitor.ai/features/vinyl-shortage-production-major-labels/" target="_blank" rel="noopener noreferrer nofollow">https://www.investmentmonitor.ai/features/vinyl-shortage-production-major-labels/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl Shortage Crisis: Impact on Production and Major...21 Jul 2021 — The production of vinyl records is big business, but Covid and maj...</p></details>
+   Link:<a href="https://www.investmentmonitor.ai/features/vinyl-shortage-production-major-labels/" target="_blank" rel="noopener noreferrer nofollow">https://www.investmentmonitor.ai/features/vinyl-shortage-production-major-labels/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vinyl Shortage Crisis: Impact on Production and Major...21 Jul 2021 — The production of vinyl records is big business, but Covid and maj...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/indianapolisstar/posts/record-store-day-is-april-18-find-out-about-exclusive-vinyl-record-releases-why-/1395446675962263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indianapolisstar/posts/record-store-day-is-april-18-find-out-about-exclusive-vinyl-record-releases-why-/1395446675962263/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ses, why sales are booming, and who the ambassadors are...</p></details>
+   Link:<a href="https://www.facebook.com/indianapolisstar/posts/record-store-day-is-april-18-find-out-about-exclusive-vinyl-record-releases-why-/1395446675962263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indianapolisstar/posts/record-store-day-is-april-18-find-out-about-exclusive-vinyl-record-releases-why-/1395446675962263/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ses, why sales are booming, and who the ambassadors are...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: recordstoreday.com  
-   Link: <a href="https://recordstoreday.com/SpecialReleases" target="_blank" rel="noopener noreferrer nofollow">https://recordstoreday.com/SpecialReleases</a>  
+   Link:<a href="https://recordstoreday.com/SpecialReleases" target="_blank" rel="noopener noreferrer nofollow">https://recordstoreday.com/SpecialReleases</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: imusic.de  
    Title: record store day 2026 rsd 2026  
-   Link: <a href="https://imusic.de/exposure/24202/record-store-day-2026-rsd-2026-" target="_blank" rel="noopener noreferrer nofollow">https://imusic.de/exposure/24202/record-store-day-2026-rsd-2026-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day 2026 (RSD 2026)Bereit für den Record Store Day 2026 bei iMusic? Er findet am 18. April statt, und ihr findet alle selten...</p></details>
+   Link:<a href="https://imusic.de/exposure/24202/record-store-day-2026-rsd-2026-" target="_blank" rel="noopener noreferrer nofollow">https://imusic.de/exposure/24202/record-store-day-2026-rsd-2026-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day 2026 (RSD 2026)Bereit für den Record Store Day 2026 bei iMusic? Er findet am 18. April statt, und ihr findet alle selten...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rollingstone.com  
    Title: record store day 2026 best vinyl 1235548254  
-   Link: <a href="https://www.rollingstone.com/music/music-lists/record-store-day-2026-best-vinyl-1235548254/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-lists/record-store-day-2026-best-vinyl-1235548254/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day 2026: Best Exclusive Vinyl Releases17 Apr 2026 — Rolling Stone picks the coolest vinyl releases for Record Store Day 202...</p></details>
+   Link:<a href="https://www.rollingstone.com/music/music-lists/record-store-day-2026-best-vinyl-1235548254/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-lists/record-store-day-2026-best-vinyl-1235548254/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Store Day 2026: Best Exclusive Vinyl Releases17 Apr 2026 — Rolling Stone picks the coolest vinyl releases for Record Store Day 202...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: shop.ivy-ivy.de  
    Title: record store day 2026  
-   Link: <a href="https://shop.ivy-ivy.de/collections/record-store-day-2026?srsltid=AfmBOop0_WB6rCNd1IFRC3ZTRrXvrico410YX9amwIUMM8ao3XNiAkW6" target="_blank" rel="noopener noreferrer nofollow">https://shop.ivy-ivy.de/collections/record-store-day-2026?srsltid=AfmBOop0_WB6rCNd1IFRC3ZTRrXvrico410YX9amwIUMM8ao3XNiAkW6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Store Day 2026 Left Overs – Ivy28 Produkte · Bring Me The Horizon - Lo-files (2LP Black Vinyl RSD) · Bring Me The Horizon - Lo-files (2LP...</p></details>
+   Link:<a href="https://shop.ivy-ivy.de/collections/record-store-day-2026?srsltid=AfmBOop0_WB6rCNd1IFRC3ZTRrXvrico410YX9amwIUMM8ao3XNiAkW6" target="_blank" rel="noopener noreferrer nofollow">https://shop.ivy-ivy.de/collections/record-store-day-2026?srsltid=AfmBOop0_WB6rCNd1IFRC3ZTRrXvrico410YX9amwIUMM8ao3XNiAkW6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Store Day 2026 Left Overs – Ivy28 Produkte · Bring Me The Horizon - Lo-files (2LP Black Vinyl RSD) · Bring Me The Horizon - Lo-files (2LP...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: recordstoredayitalia.com  
-   Link: <a href="https://recordstoredayitalia.com/SpecialReleases" target="_blank" rel="noopener noreferrer nofollow">https://recordstoredayitalia.com/SpecialReleases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpecialReleasesRecord Store Day Italia; Can You Hear Me? The Mixes. Amy Macdonald. Can You Hear Me? The Mixes. DETAILS. Date: 4/18/2026...</p></details>
+   Link:<a href="https://recordstoredayitalia.com/SpecialReleases" target="_blank" rel="noopener noreferrer nofollow">https://recordstoredayitalia.com/SpecialReleases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpecialReleasesRecord Store Day Italia; Can You Hear Me? The Mixes. Amy Macdonald. Can You Hear Me? The Mixes. DETAILS. Date: 4/18/2026...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/ecd2a5199233ee24bf2fda6ccc491c0c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ecd2a5199233ee24bf2fda6ccc491c0c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These indie stores often support emerging artists and have been fundamental in promoting physical records. The day, started in 2008, is n...</p></details>
+   Link:<a href="https://apnews.com/article/ecd2a5199233ee24bf2fda6ccc491c0c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ecd2a5199233ee24bf2fda6ccc491c0c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These indie stores often support emerging artists and have been fundamental in promoting physical records. The day, started in 2008, is n...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdm.link  
    Title: lets kill record store day just celebrate music vinyl digital  
-   Link: <a href="https://cdm.link/lets-kill-record-store-day-just-celebrate-music-vinyl-digital/" target="_blank" rel="noopener noreferrer nofollow">https://cdm.link/lets-kill-record-store-day-just-celebrate-music-vinyl-digital/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If Record Store Day is Dead, Maybe We Can Celebrate Music20 Apr 2015 — It&#x27;s time to put some limits on vinyl fetishism. A round-up of com...</p></details>
+   Link:<a href="https://cdm.link/lets-kill-record-store-day-just-celebrate-music-vinyl-digital/" target="_blank" rel="noopener noreferrer nofollow">https://cdm.link/lets-kill-record-store-day-just-celebrate-music-vinyl-digital/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If Record Store Day is Dead, Maybe We Can Celebrate Music20 Apr 2015 — It&#x27;s time to put some limits on vinyl fetishism. A round-up of com...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: goldminemag.com  
    Title: the 10 record store day 2026 releases to buy  
-   Link: <a href="https://www.goldminemag.com/collector-resources/the-10-record-store-day-2026-releases-to-buy/" target="_blank" rel="noopener noreferrer nofollow">https://www.goldminemag.com/collector-resources/the-10-record-store-day-2026-releases-to-buy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 2026 — Record Store Day&#x27;s pressing plant, Microforum Service Group, gave Goldmine a tour of the company&#x27;s 60,000-square-foot, full...</p></details>
+   Link:<a href="https://www.goldminemag.com/collector-resources/the-10-record-store-day-2026-releases-to-buy/" target="_blank" rel="noopener noreferrer nofollow">https://www.goldminemag.com/collector-resources/the-10-record-store-day-2026-releases-to-buy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 2026 — Record Store Day&#x27;s pressing plant, Microforum Service Group, gave Goldmine a tour of the company&#x27;s 60,000-square-foot, full...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: starsafterstarsafterstars.substack.com  
-   Link: <a href="https://starsafterstarsafterstars.substack.com/p/why-record-stores-are-fighting-to" target="_blank" rel="noopener noreferrer nofollow">https://starsafterstarsafterstars.substack.com/p/why-record-stores-are-fighting-to</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>record stores are fighting to survive - by James BarberVery few independent record stores could stay open if the used music business didn...</p></details>
+   Link:<a href="https://starsafterstarsafterstars.substack.com/p/why-record-stores-are-fighting-to" target="_blank" rel="noopener noreferrer nofollow">https://starsafterstarsafterstars.substack.com/p/why-record-stores-are-fighting-to</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>record stores are fighting to survive - by James BarberVery few independent record stores could stay open if the used music business didn...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: decibelmagazine.com  
-   Link: <a href="https://decibelmagazine.com/2016/04/19/krieg-s-neill-jameson-on-why-record-store-day-has-spoiled-and-should-be-thrown-away/" target="_blank" rel="noopener noreferrer nofollow">https://decibelmagazine.com/2016/04/19/krieg-s-neill-jameson-on-why-record-store-day-has-spoiled-and-should-be-thrown-away/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Go into most indie stores over the next few...Read more...</p></details>
+   Link:<a href="https://decibelmagazine.com/2016/04/19/krieg-s-neill-jameson-on-why-record-store-day-has-spoiled-and-should-be-thrown-away/" target="_blank" rel="noopener noreferrer nofollow">https://decibelmagazine.com/2016/04/19/krieg-s-neill-jameson-on-why-record-store-day-has-spoiled-and-should-be-thrown-away/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Go into most indie stores over the next few...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wired.com  
    Title: New to Vinyl Records?  
-   Link: <a href="https://www.wired.com/story/new-to-vinyl-records-shopping-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/new-to-vinyl-records-shopping-what-you-need-to-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What You Need to KnowVinyl records have made a comeback, garnering attention from both previous generations and new enthusiasts. N...</p></details>
+   Link:<a href="https://www.wired.com/story/new-to-vinyl-records-shopping-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/new-to-vinyl-records-shopping-what-you-need-to-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What You Need to KnowVinyl records have made a comeback, garnering attention from both previous generations and new enthusiasts. N...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: myvinyls.app  
    Title: pressing plant problem why records take 12 months  
-   Link: <a href="https://myvinyls.app/blog/2026/04/pressing-plant-problem-why-records-take-12-months/" target="_blank" rel="noopener noreferrer nofollow">https://myvinyls.app/blog/2026/04/pressing-plant-problem-why-records-take-12-months/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You contact the pressing plant in October. You get a slot booked for February. By...Read more...</p></details>
+   Link:<a href="https://myvinyls.app/blog/2026/04/pressing-plant-problem-why-records-take-12-months/" target="_blank" rel="noopener noreferrer nofollow">https://myvinyls.app/blog/2026/04/pressing-plant-problem-why-records-take-12-months/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You contact the pressing plant in October. You get a slot booked for February. By...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SavingCountryMusic/posts/how-the-backlog-in-vinyl-record-manufacturing-is-disproportionately-hurting-inde/4523680811015379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SavingCountryMusic/posts/how-the-backlog-in-vinyl-record-manufacturing-is-disproportionately-hurting-inde/4523680811015379/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt artists, and in more ways than one...</p></details>
+   Link:<a href="https://www.facebook.com/SavingCountryMusic/posts/how-the-backlog-in-vinyl-record-manufacturing-is-disproportionately-hurting-inde/4523680811015379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SavingCountryMusic/posts/how-the-backlog-in-vinyl-record-manufacturing-is-disproportionately-hurting-inde/4523680811015379/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt artists, and in more ways than one...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0Gx1uHSsEsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Gx1uHSsEsQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Good, The Bad, and The Ugly of Record Store Day 2026...Today, I dive into the good, the bad, and the ugly of Record Store Day 2026 p...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0Gx1uHSsEsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Gx1uHSsEsQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Good, The Bad, and The Ugly of Record Store Day 2026...Today, I dive into the good, the bad, and the ugly of Record Store Day 2026 p...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Why Vinyl Is So Hard To Buy Right Now  
-   Link: <a href="https://www.youtube.com/watch?v=S8l_G_513F8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8l_G_513F8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of Record Store Day and Reselling...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S8l_G_513F8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8l_G_513F8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of Record Store Day and Reselling...</p></details>

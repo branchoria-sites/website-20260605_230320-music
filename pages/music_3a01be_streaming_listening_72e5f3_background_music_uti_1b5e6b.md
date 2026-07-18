@@ -274,31 +274,31 @@ image: /assets/images/music_3a01be_streaming_listening_72e5f3_background_music_u
 
 ## Introduction
 
-Streaming did more than make music easier to find. It changed the role music plays in daily life. Instead of being an activity that often required deliberate [attention]({{ 'attention/' | relative_url }})—putting on a record, choosing a CD, loading a playlist onto a device—music became a service that can accompany almost any moment. Through smartphones, smart speakers, laptops, televisions, headphones and connected cars, music is now available continuously and with minimal effort. As a result, many listening sessions happen while people are working, exercising, commuting, cooking, cleaning, studying or relaxing rather than sitting down specifically to listen. Researchers have argued that streaming platforms have accelerated the shift of music towards a background or secondary activity, while industry and audience studies show that listeners increasingly use music to shape moods, routines and environments throughout the day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
+Streaming did more than make music easier to find. It changed the role music plays in daily life. Instead of being an activity that often required deliberate [attention]({{ 'attention/' | relative_url }})—putting on a record, choosing a CD, loading a playlist onto a device—music became a service that can accompany almost any moment. Through smartphones, smart speakers, laptops, televisions, headphones and connected cars, music is now available continuously and with minimal effort. As a result, many listening sessions happen while people are working, exercising, commuting, cooking, cleaning, studying or relaxing rather than sitting down specifically to listen. Researchers have argued that streaming platforms have accelerated the shift of music towards a background or secondary activity, while industry and audience studies show that listeners increasingly use music to shape moods, routines and environments throughout the day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1-dark.svg" | relative_url }}" alt="Background illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Continuous Listening Across Devices
 
-One reason streaming turned music into a background utility is that it removed the practical boundaries that once separated listening occasions. A listener no longer needs to decide in advance what music to carry or where to play it. The same account follows them from phone to car, from office desk to kitchen speaker, and from headphones during a commute to a television or smart speaker at home. Cross-device playback and synchronisation features reinforce the sense that music is a continuous service rather than a discrete event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">With version 8.26.51 of the app, users can now resume listening on a different device without starting over, similar to a feature Spotify...</span></span></span>
+One reason streaming turned music into a background utility is that it removed the practical boundaries that once separated listening occasions. A listener no longer needs to decide in advance what music to carry or where to play it. The same account follows them from phone to car, from office desk to kitchen speaker, and from headphones during a commute to a television or smart speaker at home. Cross-device playback and synchronisation features reinforce the sense that music is a continuous service rather than a discrete event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">With version 8.26.51 of the app, users can now resume listening on a different device without starting over, similar to a feature Spotify...</span></span></span>
 
-This availability changes behaviour. Earlier forms of music consumption often involved a beginning and an end: selecting a record, changing a disc or managing a library. Streaming systems encourage uninterrupted listening through [autoplay]({{ 'autoplay/' | relative_url }}), personalised queues, recommendations and algorithmic mixes. Music can continue indefinitely unless the listener actively stops it. Researchers studying streaming have described this as a key mechanism behind the growth of background listening, because the platforms make it easy for music to accompany other activities rather than demand exclusive attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
+This availability changes behaviour. Earlier forms of music consumption often involved a beginning and an end: selecting a record, changing a disc or managing a library. Streaming systems encourage uninterrupted listening through [autoplay]({{ 'autoplay/' | relative_url }}), personalised queues, recommendations and algorithmic mixes. Music can continue indefinitely unless the listener actively stops it. Researchers studying streaming have described this as a key mechanism behind the growth of background listening, because the platforms make it easy for music to accompany other activities rather than demand exclusive attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
 
-The growth of connected listening environments has reinforced this pattern. Ofcom's UK audio research shows that streamed music is increasingly integrated into everyday audio habits, including listening in cars and through smart speakers. Music is no longer tied to a single location or device; it travels with the listener through the day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">audio report 2026</span><span class="citation-popover-snippet">Report 202620 May 2026 — In this year&#x27;s Audio Survey, we asked listeners of each music streaming service how they choose their music on t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The growth of connected listening environments has reinforced this pattern. Ofcom's UK audio research shows that streamed music is increasingly integrated into everyday audio habits, including listening in cars and through smart speakers. Music is no longer tied to a single location or device; it travels with the listener through the day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">audio report 2026</span><span class="citation-popover-snippet">Report 202620 May 2026 — In this year&#x27;s Audio Survey, we asked listeners of each music streaming service how they choose their music on t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## Music for Focus, Sleep, Exercise and Chores
 
-Streaming services increasingly organise music around situations rather than artists or [albums]({{ 'albums/' | relative_url }}). Many of the most visible categories on major platforms are designed for tasks and emotional states: focus, concentration, sleep, relaxation, studying, exercise, running, cooking and commuting. Instead of asking, “Which album should I hear?”, listeners are often prompted to ask, “What music fits what I am doing right now?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">Listening in the UK 2025May 19, 2025 — 21 May 2025 — A fifth of time spent listening to audio in cars is now to music streaming services...</span><span class="citation-popover-meta">Published: May 19, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.07250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Streaming services increasingly organise music around situations rather than artists or [albums]({{ 'albums/' | relative_url }}). Many of the most visible categories on major platforms are designed for tasks and emotional states: focus, concentration, sleep, relaxation, studying, exercise, running, cooking and commuting. Instead of asking, “Which album should I hear?”, listeners are often prompted to ask, “What music fits what I am doing right now?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">Listening in the UK 2025May 19, 2025 — 21 May 2025 — A fifth of time spent listening to audio in cars is now to music streaming services...</span><span class="citation-popover-meta">Published: May 19, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.07250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-This shift reflects a broader understanding of music as a practical tool. Research into everyday music use consistently finds that people employ music for mood regulation, motivation, stress reduction and emotional management. Streaming services make these uses easier because suitable playlists are available instantly and can be personalised over time. Even in specialised contexts such as caregiving, studies show that streaming and other music technologies are commonly used to regulate mood, provide comfort and support everyday routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">caregivers use music and music technologies in everyday caring...</span></span></span>
+This shift reflects a broader understanding of music as a practical tool. Research into everyday music use consistently finds that people employ music for mood regulation, motivation, stress reduction and emotional management. Streaming services make these uses easier because suitable playlists are available instantly and can be personalised over time. Even in specialised contexts such as caregiving, studies show that streaming and other music technologies are commonly used to regulate mood, provide comfort and support everyday routines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">caregivers use music and music technologies in everyday caring...</span></span></span>
 
-The design of streaming platforms reinforces this functional approach. Recommendation systems increasingly classify and suggest music according to mood, activity and context. Research in music-information retrieval has shown how streaming services use listening behaviour, device data and contextual signals to infer situations and recommend music that fits them. In effect, the platform is not only delivering songs; it is attempting to supply the right soundtrack for a particular moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.07250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The design of streaming platforms reinforces this functional approach. Recommendation systems increasingly classify and suggest music according to mood, activity and context. Research in music-information retrieval has shown how streaming services use listening behaviour, device data and contextual signals to infer situations and recommend music that fits them. In effect, the platform is not only delivering songs; it is attempting to supply the right soundtrack for a particular moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2211.07250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Concrete examples are easy to see:
 
 * Focus playlists provide steady, low-distraction music intended to support concentration.
 * Workout playlists use energetic tracks to maintain motivation and pace.
 * Sleep playlists are designed to create a calming atmosphere for bedtime routines.
-* Household and lifestyle playlists offer background accompaniment for cooking, cleaning or social gatherings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How to Build the Perfect Pump-Up Playlist</span><span class="citation-popover-snippet">Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</span></span></span>
+* Household and lifestyle playlists offer background accompaniment for cooking, cleaning or social gatherings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How to Build the Perfect Pump-Up Playlist</span><span class="citation-popover-snippet">Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</span></span></span>
 
 In these cases, music functions less as the central object of attention and more as an environmental tool that helps shape behaviour, mood or productivity.
 
@@ -307,211 +307,211 @@ In these cases, music functions less as the central object of attention and more
 
 The rise of background utility is closely linked to the rise of playlists. Albums traditionally asked listeners to enter an artist's world for a fixed period of time. Playlists, especially activity-based playlists, ask a different question: what kind of atmosphere does the listener need?
 
-Industry analysis has documented the growing importance of playlists in streaming [culture]({{ 'culture/' | relative_url }}). Platform-generated playlists often become major routes to discovery, and research suggests that streaming listeners are frequently guided towards curated or algorithmic collections rather than individual albums. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span>
+Industry analysis has documented the growing importance of playlists in streaming [culture]({{ 'culture/' | relative_url }}). Platform-generated playlists often become major routes to discovery, and research suggests that streaming listeners are frequently guided towards curated or algorithmic collections rather than individual albums.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span>
 
-For background listening, playlists have a practical advantage. They can run for hours, adapt to changing moods and provide consistency across activities. A listener working for an afternoon may prefer a six-hour focus playlist to a sequence of unrelated albums requiring repeated decisions. The playlist becomes a service layer that reduces effort and keeps attention on the primary task rather than on the music itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
+For background listening, playlists have a practical advantage. They can run for hours, adapt to changing moods and provide consistency across activities. A listener working for an afternoon may prefer a six-hour focus playlist to a sequence of unrelated albums requiring repeated decisions. The playlist becomes a service layer that reduces effort and keeps attention on the primary task rather than on the music itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span>
 
 This helps explain why many streaming experiences are organised around categories such as "chill", "focus" or "workout". The value being offered is not simply [access]({{ 'access/' | relative_url }}) to songs but the creation of a desired environment.
 
 ## The Trade-Off Between Atmosphere and Attention
 
-The transformation of music into a background utility has clear benefits. Listeners can tailor their environments, regulate emotions, reduce boredom during repetitive tasks and bring music into more moments of daily life. Streaming gives people unprecedented control over when, where and how music is used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">American Journal of Qualitative ResearchSwitching to Music Streaming Services: Understanding College...The results showed that college s...</span></span></span>
+The transformation of music into a background utility has clear benefits. Listeners can tailor their environments, regulate emotions, reduce boredom during repetitive tasks and bring music into more moments of daily life. Streaming gives people unprecedented control over when, where and how music is used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajqr.org">[American Journal of Qualitative Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajqr.org</span><span class="citation-popover-snippet">American Journal of Qualitative ResearchSwitching to Music Streaming Services: Understanding College...The results showed that college s...</span></span></span>
 
-At the same time, critics argue that convenience can come at the cost of attention. If music is mainly consumed as atmosphere, listeners may spend less time engaging deeply with albums, artists or musical details. Some researchers and commentators suggest that streaming's emphasis on passive, "lean-back" listening encourages music to blend into the background rather than command focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgeratings.com">[Bridge Ratings Media Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgeratings.com</span><span class="citation-popover-snippet">Why Active Engagement Matters for Artists &amp; Radio ListenersMarch 9, 2025 — Radio and streaming platforms like Spotify shape listening hab...</span><span class="citation-popover-meta">Published: March 9, 2025</span></span></span>
+At the same time, critics argue that convenience can come at the cost of attention. If music is mainly consumed as atmosphere, listeners may spend less time engaging deeply with albums, artists or musical details. Some researchers and commentators suggest that streaming's emphasis on passive, "lean-back" listening encourages music to blend into the background rather than command focus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgeratings.com">[Bridge Ratings Media Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgeratings.com</span><span class="citation-popover-snippet">Why Active Engagement Matters for Artists &amp; Radio ListenersMarch 9, 2025 — Radio and streaming platforms like Spotify shape listening hab...</span><span class="citation-popover-meta">Published: March 9, 2025</span></span></span>
 
-This tension appears in the design of many streaming platforms. Features such as autoplay, personalised mixes and endless recommendations maximise continuity, but they can also reduce moments of deliberate choice. Music becomes easier to live with, yet potentially easier to ignore. The listener receives a constant soundtrack, while individual songs and artists may receive less sustained attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span> The result is not that attentive listening has disappeared. People still gather around major releases, favourite artists and meaningful albums. However, streaming has expanded another mode of listening: music as infrastructure. Like lighting, heating or internet access, it is increasingly expected to be available whenever needed. What changed was not only access to songs but the integration of music into the ordinary flow of everyday life. [www.ofcom.org.uk+2www.ofcom.org.uk]
+This tension appears in the design of many streaming platforms. Features such as autoplay, personalised mixes and endless recommendations maximise continuity, but they can also reduce moments of deliberate choice. Music becomes easier to live with, yet potentially easier to ignore. The listener receives a constant soundtrack, while individual songs and artists may receive less sustained attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music Streaming and the Hastening of Audio as Background</span><span class="citation-popover-snippet">Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</span><span class="citation-popover-meta">Published: April 17, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informs.org">[INFORMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informs.org</span><span class="citation-popover-title">New Research How Spotify Shapes Your Music Listening Habits with Playlists</span><span class="citation-popover-snippet">New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</span></span></span> The result is not that attentive listening has disappeared. People still gather around major releases, favourite artists and meaningful albums. However, streaming has expanded another mode of listening: music as infrastructure. Like lighting, heating or internet access, it is increasingly expected to be available whenever needed. What changed was not only access to songs but the integration of music into the ordinary flow of everyday life. [www.ofcom.org.uk+2www.ofcom.org.uk]
 
 <img src="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-3-dark.svg" | relative_url }}" alt="Background illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Music Now Follows US Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Music Now Follows US Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains why music affects focus, emotion, routines and daily activities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why music affects focus, emotion, routines and daily activities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Every+Song+Ever+by+Ben+Ratliff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Every Song Ever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wi0oCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Every Song Ever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Every+Song+Ever+by+Ben+Ratliff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Every Song Ever">Every Song Ever</a>
-        </h4>
-        <p class="fr-book-author">By Ben Ratliff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Every+Song+Ever+by+Ben+Ratliff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Every Song Ever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wi0oCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Every Song Ever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Every+Song+Ever+by+Ben+Ratliff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Every Song Ever">Every Song Ever</a>
+</h4>
+<p class="fr-book-author">By Ben Ratliff</p>
         
-        <p class="fr-book-desc">Explores listening habits when vast catalogues are always available.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Every+Song+Ever+by+Ben+Ratliff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores listening habits when vast catalogues are always available.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Every+Song+Ever+by+Ben+Ratliff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Examines how technology and environments shape the way people use music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how technology and environments shape the way people use music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Provides insight into music&#x27;s psychological effects during everyday activities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into music&#x27;s psychological effects during everyday activities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Every+Song+Ever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Every Song Ever</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Every+Song+Ever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Every Song Ever</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt"><img src="{{ '/assets/images/marketplace-covers/9506b78ea308559f3563.jpg' | relative_url }}" alt="Listing image for Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt"><img src="{{ '/assets/images/marketplace-covers/9506b78ea308559f3563.jpg' | relative_url }}" alt="Listing image for Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Moog Synthesizer T-Shirt | Classic Analog Synth Logo Tee | Music Producer Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland T-shirt Music Audio Producer Retro Synthesiser"><img src="{{ '/assets/images/marketplace-covers/52693d70b8d2e6999394.jpg' | relative_url }}" alt="Listing image for Roland T-shirt Music Audio Producer Retro Synthesiser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland T-shirt Music Audio Producer Retro Synthesiser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland T-shirt Music Audio Producer Retro Synthesiser"><img src="{{ '/assets/images/marketplace-covers/52693d70b8d2e6999394.jpg' | relative_url }}" alt="Listing image for Roland T-shirt Music Audio Producer Retro Synthesiser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland T-shirt Music Audio Producer Retro Synthesiser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL"><img src="{{ '/assets/images/marketplace-covers/4f6e22fd34c7753dd125.jpg' | relative_url }}" alt="Listing image for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL"><img src="{{ '/assets/images/marketplace-covers/4f6e22fd34c7753dd125.jpg' | relative_url }}" alt="Listing image for Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Headphones Heartbeat T-Shirt Funny Music DJ Producer House Trance Small to 5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee"><img src="{{ '/assets/images/marketplace-covers/7af73efd5a32b6982e43.jpg' | relative_url }}" alt="Listing image for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee"><img src="{{ '/assets/images/marketplace-covers/7af73efd5a32b6982e43.jpg' | relative_url }}" alt="Listing image for Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roland TR-909 Rhythm Composer T-Shirt | Classic Drum Machine Music Producer Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music producer t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music producer t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+producer+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music producer t shirt" data-ebay-reference="background-why-music-now-follows-us-everywhere-music-music-producer-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ This tension appears in the design of many streaming platforms. Features such as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ This tension appears in the design of many streaming platforms. Features such as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ This tension appears in the design of many streaming platforms. Features such as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ This tension appears in the design of many streaming platforms. Features such as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ This tension appears in the design of many streaming platforms. Features such as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,156 +717,156 @@ This tension appears in the design of many streaming platforms. Features such as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Music Streaming and the Hastening of Audio as Background  
-   Link: <a href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379884944_%27It%27s_mostly_an_accompaniment_to_something%27_Music_Streaming_and_the_Hastening_of_Audio_as_Background</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming and the Hastening of Audio as BackgroundApril 17, 2024 — In other words, streaming services afford users the...</p></details>
    Published: April 17, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ofcom.org.uk  
    Title: audio report 2026  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 202620 May 2026 — In this year&#x27;s Audio Survey, we asked listeners of each music streaming service how they choose their music on t...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 202620 May 2026 — In this year&#x27;s Audio Survey, we asked listeners of each music streaming service how they choose their music on t...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With version 8.26.51 of the app, users can now resume listening on a different device without starting over, similar to a feature Spotify...</p></details>
+   Link:<a href="https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/audio/youtube-music-now-lets-you-sync-playback-progress-on-different-devices-but-spotify-got-there-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With version 8.26.51 of the app, users can now resume listening on a different device without starting over, similar to a feature Spotify...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Listening in the UK 2025May 19, 2025 — 21 May 2025 — A fifth of time spent listening to audio in cars is now to music streaming services...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2025/audio-report-2025/audio-report-2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Listening in the UK 2025May 19, 2025 — 21 May 2025 — A fifth of time spent listening to audio in cars is now to music streaming services...</p></details>
    Published: May 19, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Audio listening in the UK  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>listening in the UK - 202416 Apr 2024 — Listening to music through a streaming service and listening to live radio are the most common ac...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2024/audio-report-2024/ofcom-audio-report.pdf?v=320716</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>listening in the UK - 202416 Apr 2024 — Listening to music through a streaming service and listening to live radio are the most common ac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.07250" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.07250</a>  
+   Link:<a href="https://arxiv.org/abs/2211.07250" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.07250</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: informs.org  
    Title: New Research How Spotify Shapes Your Music Listening Habits with Playlists  
-   Link: <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</p></details>
+   Link:<a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists" target="_blank" rel="noopener noreferrer nofollow">https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/New-Research-How-Spotify-Shapes-Your-Music-Listening-Habits-with-Playlists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Research: How Spotify Shapes Your Music Listening...17 Jan 2025 — The research, which focused on Spotify, has found that when...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>caregivers use music and music technologies in everyday caring...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11387911/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>caregivers use music and music technologies in everyday caring...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.01040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.01040</a>  
+   Link:<a href="https://arxiv.org/abs/2402.01040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.01040</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Mood Classification Using Listening Data  
-   Link: <a href="https://arxiv.org/abs/2010.11512" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.11512</a>  
+   Link:<a href="https://arxiv.org/abs/2010.11512" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.11512</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wired.com  
    Title: How to Build the Perfect Pump-Up Playlist  
-   Link: <a href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/music-productivity-playlist-spotify-pandora</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</p></details>
+   Link:<a href="https://www.wired.com/story/music-productivity-playlist-spotify-pandora" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/music-productivity-playlist-spotify-pandora</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music has been shown to inspire and boost productivity, largely by facilitating a &quot;mind wandering&quot; mode that helps our brains become more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 347890300 Music consumption today behaviors sources and discovery  
-   Link: <a href="https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music consumption today: behaviors, sources and discovery25 Dec 2020 — This research paper aims at showing evidence about factors involv...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347890300_Music_consumption_today_behaviors_sources_and_discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music consumption today: behaviors, sources and discovery25 Dec 2020 — This research paper aims at showing evidence about factors involv...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ajqr.org  
-   Link: <a href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Journal of Qualitative ResearchSwitching to Music Streaming Services: Understanding College...The results showed that college s...</p></details>
+   Link:<a href="https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/article/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Journal of Qualitative ResearchSwitching to Music Streaming Services: Understanding College...The results showed that college s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bridgeratings.com  
-   Link: <a href="https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Active Engagement Matters for Artists &amp; Radio ListenersMarch 9, 2025 — Radio and streaming platforms like Spotify shape listening hab...</p></details>
+   Link:<a href="https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/9/the-problem-with-background-listening-why-active-engagement-matters-for-artists-radio-listeners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Active Engagement Matters for Artists &amp; Radio ListenersMarch 9, 2025 — Radio and streaming platforms like Spotify shape listening hab...</p></details>
    Published: March 9, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wired-gov.net  
-   Link: <a href="https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=" target="_blank" rel="noopener noreferrer nofollow">https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top trends from our latest audio listening research | Ofcom21 May 2026 — Ofcom published thier latest research into the audio listening h...</p></details>
+   Link:<a href="https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=" target="_blank" rel="noopener noreferrer nofollow">https://www.wired-gov.net/wg/news.nsf/articles/Top%2Btrends%2Bfrom%2Bour%2Blatest%2Baudio%2Blistening%2Bresearch%2B21052026131500?open=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top trends from our latest audio listening research | Ofcom21 May 2026 — Ofcom published thier latest research into the audio listening h...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bridgeratings.com  
    Title: spotifys playlist ecosystem the mood machine at work  
-   Link: <a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Playlist Ecosystem: The Mood Machine at Work6 Mar 2025 — Spotify&#x27;s playlists function as a passive, algorithm-driven experience...</p></details>
+   Link:<a href="https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeratings.com/blog/2025/3/6/spotifys-playlist-ecosystem-the-mood-machine-at-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Playlist Ecosystem: The Mood Machine at Work6 Mar 2025 — Spotify&#x27;s playlists function as a passive, algorithm-driven experience...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ads.spotify.com  
    Title: what streaming habits reveal about your audience  
-   Link: <a href="https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Habits Reveal About Your Audience18 Jan 2018 — Our data team has been working to identify streaming habits that can help us und...</p></details>
+   Link:<a href="https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/what-streaming-habits-reveal-about-your-audience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming Habits Reveal About Your Audience18 Jan 2018 — Our data team has been working to identify streaming habits that can help us und...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Music: Analyzing a Decade of Spotify Listening DataListening volume peaks in summer: Listening is consistent during summer months,w...</p></details>
+   Link:<a href="https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40BangocheFM/space-music-analyzing-a-decade-of-spotify-listening-data-d11364af90e3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Music: Analyzing a Decade of Spotify Listening DataListening volume peaks in summer: Listening is consistent during summer months,w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially created as an advertising company, Spotify&#x27;s transformation into a streaming giant has profoundly changed how artists do busine...</p></details>
+   Link:<a href="https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially created as an advertising company, Spotify&#x27;s transformation into a streaming giant has profoundly changed how artists do busine...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ajqr.org  
-   Link: <a href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</p></details>
+   Link:<a href="https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ajqr.org/download/switching-to-music-streaming-services-understanding-college-students-music-listening-habits-on-music-16556.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music streaming services have become the primary source for listeners to access music daily. Qualitative interviews were conducted to und...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hal.science  
    Title: Modeling and Influencing Music Preferences on Streaming Platforms  
-   Link: <a href="https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling and Influencing Music Preferences on Streaming...by K Matrosova · 2024 · Cited by 3 — Music preferences and listening habits ca...</p></details>
+   Link:<a href="https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/tel-04865002/file/Modeling%20and%20Influencing%20Music%20Preferences%20on%20Streaming%20Platforms.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling and Influencing Music Preferences on Streaming...by K Matrosova · 2024 · Cited by 3 — Music preferences and listening habits ca...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2018 — Consistently listening to music was associated with up to a 39% reduced risk of dementia in older adults, while regula...</p></details>
+   Link:<a href="https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/9ni1tc/research_on_background_music_while_working_shows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 2018 — Consistently listening to music was associated with up to a 39% reduced risk of dementia in older adults, while regula...</p></details>
    Published: October 12, 2018  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lse.ac.uk  
    Title: [PDF] Datafication of Music Streaming Services  
-   Link: <a href="https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The questions start from respondents&#x27; everyday habits of music listening, and then enquire their experiences and preferences of using...</p></details>
+   Link:<a href="https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2019/Chen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The questions start from respondents&#x27; everyday habits of music listening, and then enquire their experiences and preferences of using...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ifpi.org  
    Title: IFPI Engaging With Music 2023 full report  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s Engaging with Music 202311 Dec 2023 — IFPI&#x27;s Engaging with Music 2023 explores the ways that people listen to, discover, and engag...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2023/12/IFPI-Engaging-With-Music-2023_full-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI&#x27;s Engaging with Music 202311 Dec 2023 — IFPI&#x27;s Engaging with Music 2023 explores the ways that people listen to, discover, and engag...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: talkerresearch.com  
    Title: Survey finds more Americans believe streaming music is “superior  
-   Link: <a href="https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical" target="_blank" rel="noopener noreferrer nofollow">https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adults found 38% believe streaming services like Apple Music and Spotify are superior to physical music...</p></details>
+   Link:<a href="https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical" target="_blank" rel="noopener noreferrer nofollow">https://talkerresearch.com/survey-finds-more-americans-believe-streaming-music-is-superior-than-all-[physical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adults found 38% believe streaming services like Apple Music and Spotify are superior to physical music...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: omdia.tech.informa.com  
-   Link: <a href="https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from UK media regulator Ofcom details the battle for...1 Aug 2025 — For music streaming, all the findings and indicators in the Ofcom re...</p></details>
+   Link:<a href="https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om138016/report-from-uk-media-regulator-ofcom-details-the-battle-for-music-and-audio-listeners-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from UK media regulator Ofcom details the battle for...1 Aug 2025 — For music streaming, all the findings and indicators in the Ofcom re...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: midiaresearch.com  
    Title: MIDi A Research Chart Of The Week  
-   Link: <a href="https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists 1, Albums 0 – How Streaming...21 Mar 2016 — 31% consumers mainly listen to playlists, 29% mainly listen to albums. Not too sha...</p></details>
+   Link:<a href="https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/chart-of-the-week-playlists-1-albums-0-how-streaming-is-changing-music-listening</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists 1, Albums 0 – How Streaming...21 Mar 2016 — 31% consumers mainly listen to playlists, 29% mainly listen to albums. Not too sha...</p></details>

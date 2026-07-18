@@ -274,41 +274,41 @@ image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_p
 
 ## Introduction
 
-When playlists became the new radio, one product did more than almost any other to redefine how people discovered music: Spotify’s Discover Weekly. Introduced in 2015, the playlist promised something radio never could—a different set of recommendations for every listener, refreshed every Monday and built from their own behaviour. Instead of trusting a station programmer, DJ or critic, listeners were invited to trust an algorithm that seemed to know them personally. Within a year, tens of millions of people were using it, and over time it became one of the most influential recommendation products in music streaming. Spotify Engineering <span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">This tool launched about a year ago; it now has 40 million users and is helping to build...Read more...</span></span></span>
+When playlists became the new radio, one product did more than almost any other to redefine how people discovered music: Spotify’s Discover Weekly. Introduced in 2015, the playlist promised something radio never could—a different set of recommendations for every listener, refreshed every Monday and built from their own behaviour. Instead of trusting a station programmer, DJ or critic, listeners were invited to trust an algorithm that seemed to know them personally. Within a year, tens of millions of people were using it, and over time it became one of the most influential recommendation products in music streaming. Spotify Engineering<span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">This tool launched about a year ago; it now has 40 million users and is helping to build...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-1-dark.svg" | relative_url }}" alt="Discover Weekly illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The significance of Discover Weekly was not simply technical. It transformed discovery into a recurring personal [ritual]({{ 'ritual/' | relative_url }}). Every week brought unfamiliar songs chosen specifically for one listener, creating the feeling that music exploration had become intimate, individual and continuous rather than shared and broadcast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/tastemakers-spotify-edward-newett" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How Spotify chooses what makes it onto your Discover Weekly playlist</span><span class="citation-popover-snippet">The algorithm combines user playlist data with individual user behavior, such as listening habits and followed artists, to recommend pers...</span></span></span>
+The significance of Discover Weekly was not simply technical. It transformed discovery into a recurring personal [ritual]({{ 'ritual/' | relative_url }}). Every week brought unfamiliar songs chosen specifically for one listener, creating the feeling that music exploration had become intimate, individual and continuous rather than shared and broadcast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/tastemakers-spotify-edward-newett" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How Spotify chooses what makes it onto your Discover Weekly playlist</span><span class="citation-popover-snippet">The algorithm combines user playlist data with individual user behavior, such as listening habits and followed artists, to recommend pers...</span></span></span>
 
 ## How Weekly Algorithmic Discovery Replaced Station Trust
 
 For decades, radio discovery depended on trust in people and institutions. Listeners returned to favourite stations because they believed the presenters, programmers or [formats]({{ 'formats/' | relative_url }}) would reliably introduce worthwhile music. Discover Weekly shifted that trust from human selectors to a recommendation system.
 
-The playlist's design was crucial. It appeared automatically every Monday, contained a manageable number of tracks, and arrived without requiring the listener to search. Rather than asking users to browse an enormous [catalogue]({{ 'catalogue/' | relative_url }}), it delivered a ready-made selection that felt curated for them alone. Spotify engineers later described the feature as one of the company's most successful launches, and listeners quickly developed a weekly habit around checking their new recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">what made discover weekly one of our most successful feature launches to date</span><span class="citation-popover-snippet">· We can learn from Discover Weekly to improve all personalization...Read more...</span></span></span>
+The playlist's design was crucial. It appeared automatically every Monday, contained a manageable number of tracks, and arrived without requiring the listener to search. Rather than asking users to browse an enormous [catalogue]({{ 'catalogue/' | relative_url }}), it delivered a ready-made selection that felt curated for them alone. Spotify engineers later described the feature as one of the company's most successful launches, and listeners quickly developed a weekly habit around checking their new recommendations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">what made discover weekly one of our most successful feature launches to date</span><span class="citation-popover-snippet">· We can learn from Discover Weekly to improve all personalization...Read more...</span></span></span>
 
-The ritual mattered as much as the recommendations. Radio once organised discovery around broadcast schedules: chart shows, specialist programmes and weekend countdowns. Discover Weekly created a new schedule centred on the individual. Monday became the moment when a listener's personal station effectively refreshed itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
+The ritual mattered as much as the recommendations. Radio once organised discovery around broadcast schedules: chart shows, specialist programmes and weekend countdowns. Discover Weekly created a new schedule centred on the individual. Monday became the moment when a listener's personal station effectively refreshed itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
 
-Its scale demonstrated how strongly people responded to that promise. Spotify reported that listeners streamed more than 2.3 billion hours from Discover Weekly playlists during its first five years. By the feature's first anniversary, more than 40 million users had already engaged with it. Spotify TechCrunch What made the experience feel different from ordinary recommendation lists was that it was framed as discovery rather than convenience. The p <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2016/08/05/spotify-release-radar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">spotify release radar</span><span class="citation-popover-snippet">Spotify follows Discover Weekly with personalized new...Aug 5, 2016 — A 2-hour algorithmically personalized playlist updated each Friday...</span></span></span> laylist did not merely replay familiar favourites. It attempted to introduce songs listeners had not heard before but were likely to enjoy. That distinction helped turn recommendation into a form of anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">This tool launched about a year ago; it now has 40 million users and is helping to build...Read more...</span></span></span>
+Its scale demonstrated how strongly people responded to that promise. Spotify reported that listeners streamed more than 2.3 billion hours from Discover Weekly playlists during its first five years. By the feature's first anniversary, more than 40 million users had already engaged with it. Spotify TechCrunch What made the experience feel different from ordinary recommendation lists was that it was framed as discovery rather than convenience. The p<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2016/08/05/spotify-release-radar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">spotify release radar</span><span class="citation-popover-snippet">Spotify follows Discover Weekly with personalized new...Aug 5, 2016 — A 2-hour algorithmically personalized playlist updated each Friday...</span></span></span> laylist did not merely replay familiar favourites. It attempted to introduce songs listeners had not heard before but were likely to enjoy. That distinction helped turn recommendation into a form of anticipation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">This tool launched about a year ago; it now has 40 million users and is helping to build...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A259Yo8hBRs" title="From Idea to Execution: Spotify&#x27;s Discover Weekly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A259Yo8hBRs" target="_blank" rel="noopener noreferrer">From Idea to Execution: Spotify&#x27;s Discover Weekly</a></p><p class="youtube-embed-meta">Channel: AI Council &middot; Views: 4.0K &middot; Uploaded: June 2016 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A259Yo8hBRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A259Yo8hBRs">Open on YouTube</a></p></div></div></div>
 
 ## What Listener Behaviour Teaches the Recommendation System
 
-Discover Weekly's sense of intimacy comes from the fact that it learns from behaviour rather than explicit statements of preference. Every search, skip, replay, save and listening session contributes to what Spotify describes as a user's “taste profile”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2020-07-09/spotify-users-have-spent-over-2-3-billion-hours-streaming-discover-weekly-playlists-since-2015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Users Have Spent Over 2.3 Billion Hours Streaming...9 Jul 2020 — Spotify Users Have Spent Over 2.3 Billion Hours Streamin...</span></span></span>
+Discover Weekly's sense of intimacy comes from the fact that it learns from behaviour rather than explicit statements of preference. Every search, skip, replay, save and listening session contributes to what Spotify describes as a user's “taste profile”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2020-07-09/spotify-users-have-spent-over-2-3-billion-hours-streaming-discover-weekly-playlists-since-2015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Users Have Spent Over 2.3 Billion Hours Streaming...9 Jul 2020 — Spotify Users Have Spent Over 2.3 Billion Hours Streamin...</span></span></span>
 
-The recommendation system combines several approaches. One important method is collaborative filtering, which identifies patterns among listeners with similar habits. If people whose listening resembles yours repeatedly enjoy a song you have not heard, that track becomes a candidate recommendation. Additional systems analyse characteristics of music itself and other contextual information to improve matches. Music Tomorrow <span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/discover-weekly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">hine learning to recommend personalised tracks based on user behaviour and audio...Read more...</span></span></span> This produces a powerful psychological effect. Recommendations feel personal not because the system understands a listener's emotions in a human sense, but because it continuously observes behavioural traces. Over time, the platform accumulates evidence about preferences that even close friends may not know. A listener might casually explore a niche genre late at night, repeatedly save tracks from a specific era, or skip certain styles immediately. Those patterns become signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — We call this your “taste profile,” and it gives our algorithms an indication...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/uk/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Safety and Privacy Centre12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping or saving to Your Libra...</span></span></span>
+The recommendation system combines several approaches. One important method is collaborative filtering, which identifies patterns among listeners with similar habits. If people whose listening resembles yours repeatedly enjoy a song you have not heard, that track becomes a candidate recommendation. Additional systems analyse characteristics of music itself and other contextual information to improve matches. Music Tomorrow<span class="citation-chip-wrap"><a class="citation-chip" href="https://musosoup.com/blog/discover-weekly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musosoup.com">[musosoup]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musosoup.com</span><span class="citation-popover-snippet">hine learning to recommend personalised tracks based on user behaviour and audio...Read more...</span></span></span> This produces a powerful psychological effect. Recommendations feel personal not because the system understands a listener's emotions in a human sense, but because it continuously observes behavioural traces. Over time, the platform accumulates evidence about preferences that even close friends may not know. A listener might casually explore a niche genre late at night, repeatedly save tracks from a specific era, or skip certain styles immediately. Those patterns become signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — We call this your “taste profile,” and it gives our algorithms an indication...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/uk/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Safety and Privacy Centre12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping or saving to Your Libra...</span></span></span>
 
-The more data the system gathers, the more convincing the recommendations can appear. Spotify engineers have noted that increased listening activity generally improves personalisation quality because the recommendation engine has more evidence from which to infer taste. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/tastemakers-spotify-edward-newett" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How Spotify chooses what makes it onto your Discover Weekly playlist</span><span class="citation-popover-snippet">The algorithm combines user playlist data with individual user behavior, such as listening habits and followed artists, to recommend pers...</span></span></span>
+The more data the system gathers, the more convincing the recommendations can appear. Spotify engineers have noted that increased listening activity generally improves personalisation quality because the recommendation engine has more evidence from which to infer taste.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/tastemakers-spotify-edward-newett" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How Spotify chooses what makes it onto your Discover Weekly playlist</span><span class="citation-popover-snippet">The algorithm combines user playlist data with individual user behavior, such as listening habits and followed artists, to recommend pers...</span></span></span>
 
-This feedback loop helped change the [culture]({{ 'culture/' | relative_url }}) of music discovery. Traditional radio recommendations were public and shared. Everyone listening to the same station heard the same songs. Discover Weekly turned discovery into a private conversation between user and platform. Each week's listening behaviour influenced the next week's recommendations, creating an ongoing cycle of learning and adjustment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-rctom/submission/spotify-music-discovery-in-a-world-of-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-snippet">personalized recommendations tailored to each user, most notably through its Discover Weekly function, first released in July 2015. The...</span><span class="citation-popover-meta">Published: July 2015</span></span></span>
+This feedback loop helped change the [culture]({{ 'culture/' | relative_url }}) of music discovery. Traditional radio recommendations were public and shared. Everyone listening to the same station heard the same songs. Discover Weekly turned discovery into a private conversation between user and platform. Each week's listening behaviour influenced the next week's recommendations, creating an ongoing cycle of learning and adjustment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d3.harvard.edu/platform-rctom/submission/spotify-music-discovery-in-a-world-of-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d3.harvard.edu">[harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d3.harvard.edu</span><span class="citation-popover-snippet">personalized recommendations tailored to each user, most notably through its Discover Weekly function, first released in July 2015. The...</span><span class="citation-popover-meta">Published: July 2015</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-2-dark.svg" | relative_url }}" alt="Discover Weekly illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Recommendations Often Feel Surprisingly Accurate
 
-Part of Discover Weekly's appeal lies in its ability to balance familiarity and novelty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://playlistpilotapp.com/blog/spotify-discover-weekly-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: playlistpilotapp.com">[playlistpilotapp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">playlistpilotapp.com</span><span class="citation-popover-title">spotify discover weekly explained</span><span class="citation-popover-snippet">1 Jan 2025 — TLDR: Discover Weekly analyzes listener behavior patterns to find users with similar tastes, then recommends tracks those si...</span></span></span>
+Part of Discover Weekly's appeal lies in its ability to balance familiarity and novelty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://playlistpilotapp.com/blog/spotify-discover-weekly-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: playlistpilotapp.com">[playlistpilotapp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">playlistpilotapp.com</span><span class="citation-popover-title">spotify discover weekly explained</span><span class="citation-popover-snippet">1 Jan 2025 — TLDR: Discover Weekly analyzes listener behavior patterns to find users with similar tastes, then recommends tracks those si...</span></span></span>
 
-Recommendations that are completely unfamiliar can feel random. Recommendations that are too familiar offer little discovery. Spotify's challenge was to place listeners in a zone where songs felt new but not alien. Engineers behind the feature have discussed using familiar reference points and personalisation cues to encourage engagement while still introducing new artists and tracks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
+Recommendations that are completely unfamiliar can feel random. Recommendations that are too familiar offer little discovery. Spotify's challenge was to place listeners in a zone where songs felt new but not alien. Engineers behind the feature have discussed using familiar reference points and personalisation cues to encourage engagement while still introducing new artists and tracks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</span></span></span>
 
-This balance creates the impression that the system understands hidden preferences. A recommendation may connect genres, artists or listening habits that the user never consciously linked. Because the suggestion emerges from large-scale behavioural patterns across millions of listeners, it can reveal relationships that would be difficult for an individual curator to observe. Music Tomorrow <span class="citation-chip-wrap"><a class="citation-chip" href="https://ali4578-cmyk.github.io/discover-weekly-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ali4578-cmyk.github.io">[2ali4578-cmyk.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ali4578-cmyk.github.io</span><span class="citation-popover-title">The Science Behind Spotify&#x27;s Discover Weekly1</span><span class="citation-popover-snippet">Collaborative Filtering — “People Like You Also Listen To…” This method compares your listening patterns with millions of other users. If...</span></span></span>
+This balance creates the impression that the system understands hidden preferences. A recommendation may connect genres, artists or listening habits that the user never consciously linked. Because the suggestion emerges from large-scale behavioural patterns across millions of listeners, it can reveal relationships that would be difficult for an individual curator to observe. Music Tomorrow<span class="citation-chip-wrap"><a class="citation-chip" href="https://ali4578-cmyk.github.io/discover-weekly-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ali4578-cmyk.github.io">[2ali4578-cmyk.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ali4578-cmyk.github.io</span><span class="citation-popover-title">The Science Behind Spotify&#x27;s Discover Weekly1</span><span class="citation-popover-snippet">Collaborative Filtering — “People Like You Also Listen To…” This method compares your listening patterns with millions of other users. If...</span></span></span>
 
 The result is a form of discovery that feels both accidental and intentional. Songs seem to arrive unexpectedly, yet they often fit within a listener's existing tastes closely enough to feel meaningful. That combination is central to Discover Weekly's enduring appeal.
 
@@ -317,11 +317,11 @@ The result is a form of discovery that feels both accidental and intentional. So
 
 The promise of personal discovery also contains a tension. If recommendations are built from past behaviour, they may reinforce existing preferences rather than challenge them.
 
-Researchers studying recommendation systems have long raised concerns about “filter bubbles”, situations where algorithms repeatedly present content that aligns with demonstrated interests while reducing exposure to more distant possibilities. Music recommendation faces the same challenge. A system optimised purely for relevance can gradually narrow discovery by repeatedly selecting tracks adjacent to what a listener already likes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.16299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding LearningFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.stanford.edu/file/druid%3Aqb068jm4722/McClung_Madison_COMMMSThesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[2stacks.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Filter Bubbles And Music Streaming</span><span class="citation-popover-snippet">Stacks are the StanfordThis review covers prior research on the following: (1) the existence of filter bubbles and echo chambers, (2) the...</span></span></span>
+Researchers studying recommendation systems have long raised concerns about “filter bubbles”, situations where algorithms repeatedly present content that aligns with demonstrated interests while reducing exposure to more distant possibilities. Music recommendation faces the same challenge. A system optimised purely for relevance can gradually narrow discovery by repeatedly selecting tracks adjacent to what a listener already likes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.16299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding LearningFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.stanford.edu/file/druid%3Aqb068jm4722/McClung_Madison_COMMMSThesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.stanford.edu">[2stacks.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.stanford.edu</span><span class="citation-popover-title">Filter Bubbles And Music Streaming</span><span class="citation-popover-snippet">Stacks are the StanfordThis review covers prior research on the following: (1) the existence of filter bubbles and echo chambers, (2) the...</span></span></span>
 
-This criticism does not mean Discover Weekly fails at discovery. In many cases it successfully introduces listeners to artists they would never have found independently. The concern is that algorithmic exploration may remain bounded by previous behaviour. A listener who mostly consumes one style may receive increasingly refined variations of that style rather than genuinely unexpected musical experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesis.eur.nl">[Erasmus University Thesis Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesis.eur.nl</span><span class="citation-popover-title">Erasmus University Thesis Repository Do they Discover Weekly your taste?</span><span class="citation-popover-snippet">Erasmus University Thesis RepositoryDo they Discover Weekly your taste?December 14, 2020 — To facilitate the music discovery, this servic...</span><span class="citation-popover-meta">Published: December 14, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.16299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding LearningFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
+This criticism does not mean Discover Weekly fails at discovery. In many cases it successfully introduces listeners to artists they would never have found independently. The concern is that algorithmic exploration may remain bounded by previous behaviour. A listener who mostly consumes one style may receive increasingly refined variations of that style rather than genuinely unexpected musical experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesis.eur.nl">[Erasmus University Thesis Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesis.eur.nl</span><span class="citation-popover-title">Erasmus University Thesis Repository Do they Discover Weekly your taste?</span><span class="citation-popover-snippet">Erasmus University Thesis RepositoryDo they Discover Weekly your taste?December 14, 2020 — To facilitate the music discovery, this servic...</span><span class="citation-popover-meta">Published: December 14, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.16299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding LearningFebruary 26, 2024...</span><span class="citation-popover-meta">Published: February 26, 2024</span></span></span>
 
-Spotify itself has acknowledged some of the limitations that emerge when recommendation systems rely heavily on behavioural signals. New tools allowing users to influence or reshape their taste profiles reflect an effort to give listeners more control over how personalisation works. Features that exclude certain listening habits from recommendations or allow additional steering of recommendations suggest that personalisation is not a finished problem but an ongoing negotiation between user and algorithm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor music recommendations to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">what made discover weekly one of our most successful feature launches to date</span><span class="citation-popover-snippet">· We can learn from Discover Weekly to improve all personalization...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Desktop-Windows/Algorithm-for-Discover-Weekly/td-p/1533956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Spotify CommunityAlgorithm for Discover WeeklyDec 22, 2016 — Possible sollutions you can try · Listen to more music. Then you`ll have mor...</span></span></span>
+Spotify itself has acknowledged some of the limitations that emerge when recommendation systems rely heavily on behavioural signals. New tools allowing users to influence or reshape their taste profiles reflect an effort to give listeners more control over how personalisation works. Features that exclude certain listening habits from recommendations or allow additional steering of recommendations suggest that personalisation is not a finished problem but an ongoing negotiation between user and algorithm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor music recommendations to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">what made discover weekly one of our most successful feature launches to date</span><span class="citation-popover-snippet">· We can learn from Discover Weekly to improve all personalization...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Desktop-Windows/Algorithm-for-Discover-Weekly/td-p/1533956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Spotify CommunityAlgorithm for Discover WeeklyDec 22, 2016 — Possible sollutions you can try · Listen to more music. Then you`ll have mor...</span></span></span>
 
 The broader lesson is that Discover Weekly changed discovery by making it personal, but personal is not always the same as expansive. The more precisely a system learns who a listener is, the more carefully it must work to avoid limiting who that listener might become.
 
@@ -329,199 +329,199 @@ The broader lesson is that Discover Weekly changed discovery by making it person
 
 ## The Lasting Promise of Discover Weekly
 
-Discover Weekly succeeded because it transformed recommendation into a relationship. It replaced the shared certainty of radio programming with a private weekly encounter built from data, habits and prediction. The playlist's achievement was not merely finding songs people liked. It convinced millions of listeners that a recommendation engine could understand their tastes closely enough to [surprise]({{ 'surprise/' | relative_url }}) them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">what made discover weekly one of our most successful feature launches to date</span><span class="citation-popover-snippet">· We can learn from Discover Weekly to improve all personalization...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">taste profile beta announcement</span><span class="citation-popover-snippet">New Era of Personalization: Shape Your Taste Profile on...13 Mar 2026 — Taste Profile lets you see how Spotify understands your taste an...</span></span></span>
+Discover Weekly succeeded because it transformed recommendation into a relationship. It replaced the shared certainty of radio programming with a private weekly encounter built from data, habits and prediction. The playlist's achievement was not merely finding songs people liked. It convinced millions of listeners that a recommendation engine could understand their tastes closely enough to [surprise]({{ 'surprise/' | relative_url }}) them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineering.atspotify.com">[Spotify Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineering.atspotify.com</span><span class="citation-popover-title">what made discover weekly one of our most successful feature launches to date</span><span class="citation-popover-snippet">· We can learn from Discover Weekly to improve all personalization...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">taste profile beta announcement</span><span class="citation-popover-snippet">New Era of Personalization: Shape Your Taste Profile on...13 Mar 2026 — Taste Profile lets you see how Spotify understands your taste an...</span></span></span>
 
-In doing so, it shifted music discovery from a broadcast experience into a feedback loop. Each play, skip and save became part of the next recommendation, making discovery feel less like receiving a signal from a station and more like hearing an evolving reflection of oneself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ads.spotify.com/en-US/news-and-insights/five-years-of-discovery-and-engagement-through-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ads.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ads.spotify.com</span><span class="citation-popover-title">five years of discovery and engagement through discover weekly</span><span class="citation-popover-snippet">Years Of Discover Weekly14 Jul 2020 — Spotify listeners have streamed over 2.3 billion hours of their personalized Discover Weekly playli...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-05-12/spotify-20-personal-music-retrospective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">20 personal music retrospective</span><span class="citation-popover-snippet">spotify.comIt&#x27;s Your Party of the Year(s): A Look Back at Your Entire...6 days ago — Spotify is where fans and artists come together, tu...</span></span></span>
+In doing so, it shifted music discovery from a broadcast experience into a feedback loop. Each play, skip and save became part of the next recommendation, making discovery feel less like receiving a signal from a station and more like hearing an evolving reflection of oneself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ads.spotify.com/en-US/news-and-insights/five-years-of-discovery-and-engagement-through-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ads.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ads.spotify.com</span><span class="citation-popover-title">five years of discovery and engagement through discover weekly</span><span class="citation-popover-snippet">Years Of Discover Weekly14 Jul 2020 — Spotify listeners have streamed over 2.3 billion hours of their personalized Discover Weekly playli...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-05-12/spotify-20-personal-music-retrospective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">20 personal music retrospective</span><span class="citation-popover-snippet">spotify.comIt&#x27;s Your Party of the Year(s): A Look Back at Your Entire...6 days ago — Spotify is where fans and artists come together, tu...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Discover Weekly Feels So Personal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Discover Weekly Feels So Personal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
-        </h4>
-        <p class="fr-book-author">By Glenn McDonald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Have Not Yet Heard Your Favourite Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cpAeEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Have Not Yet Heard Your Favourite Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Have Not Yet Heard Your Favourite Song">You Have Not Yet Heard Your Favourite Song</a>
+</h4>
+<p class="fr-book-author">By Glenn McDonald</p>
         
-        <p class="fr-book-desc">Focuses on recommendation systems and music discovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on recommendation systems and music discovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song+by+Glenn+McDonald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-        </h4>
-        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+</h4>
+<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-        <p class="fr-book-desc">Helps explain how user behavior informs recommendations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how user behavior informs recommendations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains why discovery and familiarity feel rewarding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why discovery and familiarity feel rewarding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Examines personalized recommendations and discovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines personalized recommendations and discovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Have+Not+Yet+Heard+Your+Favourite+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Have Not Yet Heard Your Favourite Song</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d796fbadbb27a98e5d.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d796fbadbb27a98e5d.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster"><img src="{{ '/assets/images/marketplace-covers/e744fa9c237856296382.jpg' | relative_url }}" alt="Listing image for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster"><img src="{{ '/assets/images/marketplace-covers/e744fa9c237856296382.jpg' | relative_url }}" alt="Listing image for Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Shawn Mendes LP. Shawn Spotify Fans First Swirl Vinyl. Exclusive Cover + Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d91f81bc20e42910fe30.jpg' | relative_url }}" alt="Listing image for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d91f81bc20e42910fe30.jpg' | relative_url }}" alt="Listing image for Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Chase Atlantic Falling Spotify Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art"><img src="{{ '/assets/images/marketplace-covers/08bb55fbd9b39ecb9ff7.jpg' | relative_url }}" alt="Listing image for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art"><img src="{{ '/assets/images/marketplace-covers/08bb55fbd9b39ecb9ff7.jpg' | relative_url }}" alt="Listing image for Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Spotify poster printer Friend Mum Dad Son Daughter Gift wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify poster -book -books" data-ebay-reference="discover-weekly-why-discover-weekly-feels-so-personal-music-spotify-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ In doing so, it shifted music discovery from a broadcast experience into a feedb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ In doing so, it shifted music discovery from a broadcast experience into a feedb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ In doing so, it shifted music discovery from a broadcast experience into a feedb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ In doing so, it shifted music discovery from a broadcast experience into a feedb
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ In doing so, it shifted music discovery from a broadcast experience into a feedb
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,280 +727,280 @@ In doing so, it shifted music discovery from a broadcast experience into a feedb
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This tool launched about a year ago; it now has 40 million users and is helping to build...Read more...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-little-hack-that-could-the-story-of-spotifys-discover-weekly-recommendation-engine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This tool launched about a year ago; it now has 40 million users and is helping to build...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2020-07-09/spotify-users-have-spent-over-2-3-billion-hours-streaming-discover-weekly-playlists-since-2015/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2020-07-09/spotify-users-have-spent-over-2-3-billion-hours-streaming-discover-weekly-playlists-since-2015/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Users Have Spent Over 2.3 Billion Hours Streaming...9 Jul 2020 — Spotify Users Have Spent Over 2.3 Billion Hours Streamin...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2020-07-09/spotify-users-have-spent-over-2-3-billion-hours-streaming-discover-weekly-playlists-since-2015/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2020-07-09/spotify-users-have-spent-over-2-3-billion-hours-streaming-discover-weekly-playlists-since-2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Users Have Spent Over 2.3 Billion Hours Streaming...9 Jul 2020 — Spotify Users Have Spent Over 2.3 Billion Hours Streamin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: How Spotify chooses what makes it onto your Discover Weekly playlist  
-   Link: <a href="https://www.wired.com/story/tastemakers-spotify-edward-newett" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/tastemakers-spotify-edward-newett</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The algorithm combines user playlist data with individual user behavior, such as listening habits and followed artists, to recommend pers...</p></details>
+   Link:<a href="https://www.wired.com/story/tastemakers-spotify-edward-newett" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/tastemakers-spotify-edward-newett</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The algorithm combines user playlist data with individual user behavior, such as listening habits and followed artists, to recommend pers...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techcrunch.com  
    Title: spotify release radar  
-   Link: <a href="https://techcrunch.com/2016/08/05/spotify-release-radar/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2016/08/05/spotify-release-radar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify follows Discover Weekly with personalized new...Aug 5, 2016 — A 2-hour algorithmically personalized playlist updated each Friday...</p></details>
+   Link:<a href="https://techcrunch.com/2016/08/05/spotify-release-radar/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2016/08/05/spotify-release-radar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify follows Discover Weekly with personalized new...Aug 5, 2016 — A 2-hour algorithmically personalized playlist updated each Friday...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — We call this your “taste profile,” and it gives our algorithms an indication...</p></details>
+   Link:<a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — We call this your “taste profile,” and it gives our algorithms an indication...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/uk/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and Privacy Centre12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping or saving to Your Libra...</p></details>
+   Link:<a href="https://www.spotify.com/uk/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/uk/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and Privacy Centre12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping or saving to Your Libra...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: music-tomorrow.com  
-   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music TomorrowInside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — In many ways, collaborative filtering has become synony...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music TomorrowInside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — In many ways, collaborative filtering has become synony...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: musosoup.com  
-   Link: <a href="https://musosoup.com/blog/discover-weekly" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/discover-weekly</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hine learning to recommend personalised tracks based on user behaviour and audio...Read more...</p></details>
+   Link:<a href="https://musosoup.com/blog/discover-weekly" target="_blank" rel="noopener noreferrer nofollow">https://musosoup.com/blog/discover-weekly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hine learning to recommend personalised tracks based on user behaviour and audio...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</p></details>
+   Link:<a href="https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/beyond-the-beyond/2017/10/musica-globalista-spotify-discovery-engine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It uses a hybrid approach by combining three types of recommendation models. Collaborative Filtering analyzes user behavior, Natural Lang...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Desktop-Windows/Algorithm-for-Discover-Weekly/td-p/1533956" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/Algorithm-for-Discover-Weekly/td-p/1533956</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify CommunityAlgorithm for Discover WeeklyDec 22, 2016 — Possible sollutions you can try · Listen to more music. Then you`ll have mor...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Desktop-Windows/Algorithm-for-Discover-Weekly/td-p/1533956" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/Algorithm-for-Discover-Weekly/td-p/1533956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify CommunityAlgorithm for Discover WeeklyDec 22, 2016 — Possible sollutions you can try · Listen to more music. Then you`ll have mor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: d3.harvard.edu  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/spotify-music-discovery-in-a-world-of-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/spotify-music-discovery-in-a-world-of-discover-weekly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>personalized recommendations tailored to each user, most notably through its Discover Weekly function, first released in July 2015. The...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/spotify-music-discovery-in-a-world-of-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/spotify-music-discovery-in-a-world-of-discover-weekly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>personalized recommendations tailored to each user, most notably through its Discover Weekly function, first released in July 2015. The...</p></details>
    Published: July 2015  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ali4578-cmyk.github.io  
    Title: The Science Behind Spotify's Discover Weekly1  
-   Link: <a href="https://ali4578-cmyk.github.io/discover-weekly-science/" target="_blank" rel="noopener noreferrer nofollow">https://ali4578-cmyk.github.io/discover-weekly-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Filtering — “People Like You Also Listen To…” This method compares your listening patterns with millions of other users. If...</p></details>
+   Link:<a href="https://ali4578-cmyk.github.io/discover-weekly-science/" target="_blank" rel="noopener noreferrer nofollow">https://ali4578-cmyk.github.io/discover-weekly-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Filtering — “People Like You Also Listen To…” This method compares your listening patterns with millions of other users. If...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.16299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.16299</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding LearningFebruary 26, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2402.16299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.16299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Against Filter Bubbles: Diversified Music Recommendation via Weighted Hypergraph Embedding LearningFebruary 26, 2024...</p></details>
    Published: February 26, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stacks.stanford.edu  
    Title: Filter Bubbles And Music Streaming  
-   Link: <a href="https://stacks.stanford.edu/file/druid%3Aqb068jm4722/McClung_Madison_COMMMSThesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Aqb068jm4722/McClung_Madison_COMMMSThesis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stacks are the StanfordThis review covers prior research on the following: (1) the existence of filter bubbles and echo chambers, (2) the...</p></details>
+   Link:<a href="https://stacks.stanford.edu/file/druid%3Aqb068jm4722/McClung_Madison_COMMMSThesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Aqb068jm4722/McClung_Madison_COMMMSThesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stacks are the StanfordThis review covers prior research on the following: (1) the existence of filter bubbles and echo chambers, (2) the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newsroom.spotify.com  
    Title: taste profile beta announcement  
-   Link: <a href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Era of Personalization: Shape Your Taste Profile on...13 Mar 2026 — Taste Profile lets you see how Spotify understands your taste an...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Era of Personalization: Shape Your Taste Profile on...13 Mar 2026 — Taste Profile lets you see how Spotify understands your taste an...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ads.spotify.com  
    Title: five years of discovery and engagement through discover weekly  
-   Link: <a href="https://ads.spotify.com/en-US/news-and-insights/five-years-of-discovery-and-engagement-through-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/five-years-of-discovery-and-engagement-through-discover-weekly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Years Of Discover Weekly14 Jul 2020 — Spotify listeners have streamed over 2.3 billion hours of their personalized Discover Weekly playli...</p></details>
+   Link:<a href="https://ads.spotify.com/en-US/news-and-insights/five-years-of-discovery-and-engagement-through-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://ads.spotify.com/en-US/news-and-insights/five-years-of-discovery-and-engagement-through-discover-weekly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Years Of Discover Weekly14 Jul 2020 — Spotify listeners have streamed over 2.3 billion hours of their personalized Discover Weekly playli...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsroom.spotify.com  
    Title: 20 personal music retrospective  
-   Link: <a href="https://newsroom.spotify.com/2026-05-12/spotify-20-personal-music-retrospective/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-05-12/spotify-20-personal-music-retrospective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comIt&#x27;s Your Party of the Year(s): A Look Back at Your Entire...6 days ago — Spotify is where fans and artists come together, tu...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-05-12/spotify-20-personal-music-retrospective/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-05-12/spotify-20-personal-music-retrospective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comIt&#x27;s Your Party of the Year(s): A Look Back at Your Entire...6 days ago — Spotify is where fans and artists come together, tu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weekly Turns 10: Celebrating 100 Billion+ Tracks...Jun 30, 2025 — As Spotify&#x27;s first personalized playlist, it ushered in a wave of inno...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-06-30/discover-weekly-turns-10-celebrating-100-billion-tracks-streamed-and-a-decade-of-personalized-discovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weekly Turns 10: Celebrating 100 Billion+ Tracks...Jun 30, 2025 — As Spotify&#x27;s first personalized playlist, it ushered in a wave of inno...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: d3.harvard.edu  
    Title: discover weekly how spotify is changing the way we consume music  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify is Changing the Way We Consume MusicNov 13, 2018 — Every week, Spotify generates a new playlist for each subscriber called “Disco...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/discover-weekly-how-spotify-is-changing-the-way-we-consume-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify is Changing the Way We Consume MusicNov 13, 2018 — Every week, Spotify generates a new playlist for each subscriber called “Disco...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: d3.harvard.edu  
    Title: how spotify knows your music tastes better than you  
-   Link: <a href="https://d3.harvard.edu/platform-digit/submission/how-spotify-knows-your-music-tastes-better-than-you/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-digit/submission/how-spotify-knows-your-music-tastes-better-than-you/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The automated “Discover Weekly” playlist, different for each user, updated every Monday.Read more...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-digit/submission/how-spotify-knows-your-music-tastes-better-than-you/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-digit/submission/how-spotify-knows-your-music-tastes-better-than-you/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The automated “Discover Weekly” playlist, different for each user, updated every Monday.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: d3.harvard.edu  
-   Link: <a href="https://d3.harvard.edu/platform-rctom/submission/thank-you-for-the-music-spotify-and-algorithmic-music-curation/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/thank-you-for-the-music-spotify-and-algorithmic-music-curation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu“Thank You for the Music”: Spotify and algorithmic...Nov 13, 2018 — Discover Weekly, Spotify&#x27;s first major personalization pr...</p></details>
+   Link:<a href="https://d3.harvard.edu/platform-rctom/submission/thank-you-for-the-music-spotify-and-algorithmic-music-curation/" target="_blank" rel="noopener noreferrer nofollow">https://d3.harvard.edu/platform-rctom/submission/thank-you-for-the-music-spotify-and-algorithmic-music-curation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu“Thank You for the Music”: Spotify and algorithmic...Nov 13, 2018 — Discover Weekly, Spotify&#x27;s first major personalization pr...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: music-tomorrow.com  
    Title: how to get on discover weekly spotify algorithm  
-   Link: <a href="https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Discover Weekly Algorithm Works (And Why Your...Feb 11, 2026 — How Spotify&#x27;s Discover Weekly algorithm evaluates tracks — and wh...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Discover Weekly Algorithm Works (And Why Your...Feb 11, 2026 — How Spotify&#x27;s Discover Weekly algorithm evaluates tracks — and wh...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: engineering.atspotify.com  
    Title: what made discover weekly one of our most successful feature launches to date  
-   Link: <a href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· We can learn from Discover Weekly to improve all personalization...Read more...</p></details>
+   Link:<a href="https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2015/11/what-made-discover-weekly-one-of-our-most-successful-feature-launches-to-date</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· We can learn from Discover Weekly to improve all personalization...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thesis.eur.nl  
    Title: Erasmus University Thesis Repository Do they Discover Weekly your taste?  
-   Link: <a href="https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erasmus University Thesis RepositoryDo they Discover Weekly your taste?December 14, 2020 — To facilitate the music discovery, this servic...</p></details>
+   Link:<a href="https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/55231/Derwinis-Katarzyna.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Erasmus University Thesis RepositoryDo they Discover Weekly your taste?December 14, 2020 — To facilitate the music discovery, this servic...</p></details>
    Published: December 14, 2020  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: engineering.atspotify.com  
    Title: exclude from your taste profile  
-   Link: <a href="https://engineering.atspotify.com/2023/10/exclude-from-your-taste-profile" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/10/exclude-from-your-taste-profile</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If so, you&#x27;re not alone!Read more...</p></details>
+   Link:<a href="https://engineering.atspotify.com/2023/10/exclude-from-your-taste-profile" target="_blank" rel="noopener noreferrer nofollow">https://engineering.atspotify.com/2023/10/exclude-from-your-taste-profile</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If so, you&#x27;re not alone!Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor music recommendations to...</p></details>
+   Link:<a href="https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Users will now see genre buttons like pop, R&amp;B, and funk at the top of their playlists, allowing them to tailor music recommendations to...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-sound-of-ai/spotifys-discover-weekly-explained-breaking-from-your-music-bubble-or-maybe-not-b506da144123" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-sound-of-ai/spotifys-discover-weekly-explained-breaking-from-your-music-bubble-or-maybe-not-b506da144123</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lecting and analysing users&#x27; behaviours; · Content-based filtering...Read more...</p></details>
+   Link:<a href="https://medium.com/the-sound-of-ai/spotifys-discover-weekly-explained-breaking-from-your-music-bubble-or-maybe-not-b506da144123" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-sound-of-ai/spotifys-discover-weekly-explained-breaking-from-your-music-bubble-or-maybe-not-b506da144123</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lecting and analysing users&#x27; behaviours; · Content-based filtering...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: hackernoon.com  
    Title: It's called Discover Weekly_,_ and it's pretty much magic.Read more  
-   Link: <a href="https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe" target="_blank" rel="noopener noreferrer nofollow">https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discover Weekly: How machine learning finds...Oct 10, 2017 — It&#x27;s a custom mixtape of 30 songs they&#x27;ve never listened to befor...</p></details>
+   Link:<a href="https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe" target="_blank" rel="noopener noreferrer nofollow">https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discover Weekly: How machine learning finds...Oct 10, 2017 — It&#x27;s a custom mixtape of 30 songs they&#x27;ve never listened to befor...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: beatstorapon.com  
    Title: ultimate guide to spotify music algorithm  
-   Link: <a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Music Recommendation Algorithm: The Complete...Mar 1, 2025 — In fact, the widely praised Discover Weekly playlist was initiall...</p></details>
+   Link:<a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Music Recommendation Algorithm: The Complete...Mar 1, 2025 — In fact, the widely praised Discover Weekly playlist was initiall...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: markhub24.com  
    Title: Learn how Spotify's Discover Weekly reshaped  
-   Link: <a href="https://www.markhub24.com/post/spotify-s-discover-weekly-how-personalization-became-a-competitive-moat" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/spotify-s-discover-weekly-how-personalization-became-a-competitive-moat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discover Weekly: How Personalization Became a...19 Apr 2026 — Discover the secrets behind Spotify&#x27;s Discover Weekly and how it...</p></details>
+   Link:<a href="https://www.markhub24.com/post/spotify-s-discover-weekly-how-personalization-became-a-competitive-moat" target="_blank" rel="noopener noreferrer nofollow">https://www.markhub24.com/post/spotify-s-discover-weekly-how-personalization-became-a-competitive-moat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Discover Weekly: How Personalization Became a...19 Apr 2026 — Discover the secrets behind Spotify&#x27;s Discover Weekly and how it...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: playlistpilotapp.com  
    Title: spotify discover weekly explained  
-   Link: <a href="https://playlistpilotapp.com/blog/spotify-discover-weekly-explained" target="_blank" rel="noopener noreferrer nofollow">https://playlistpilotapp.com/blog/spotify-discover-weekly-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jan 2025 — TLDR: Discover Weekly analyzes listener behavior patterns to find users with similar tastes, then recommends tracks those si...</p></details>
+   Link:<a href="https://playlistpilotapp.com/blog/spotify-discover-weekly-explained" target="_blank" rel="noopener noreferrer nofollow">https://playlistpilotapp.com/blog/spotify-discover-weekly-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jan 2025 — TLDR: Discover Weekly analyzes listener behavior patterns to find users with similar tastes, then recommends tracks those si...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: montrealethics.ai  
-   Link: <a href="https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Weekly: How the Music Platform Spotify Collects...May 26, 2022 — Spotify&#x27;s algorithm works by collecting users&#x27; data to provide...</p></details>
+   Link:<a href="https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/" target="_blank" rel="noopener noreferrer nofollow">https://montrealethics.ai/discover-weekly-how-the-music-platform-spotify-collects-and-uses-your-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Weekly: How the Music Platform Spotify Collects...May 26, 2022 — Spotify&#x27;s algorithm works by collecting users&#x27; data to provide...</p></details>
    Published: May 26, 2022  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: 9to5mac.com  
    Title: Spotify confirms disco ball app icon is temporary and regular logo will return  
-   Link: <a href="https://9to5mac.com/2026/05/17/spotify-confirms-disco-ball-app-icon-is-temporary-and-regular-logo-will-return/" target="_blank" rel="noopener noreferrer nofollow">https://9to5mac.com/2026/05/17/spotify-confirms-disco-ball-app-icon-is-temporary-and-regular-logo-will-return/</a>  
+   Link:<a href="https://9to5mac.com/2026/05/17/spotify-confirms-disco-ball-app-icon-is-temporary-and-regular-logo-will-return/" target="_blank" rel="noopener noreferrer nofollow">https://9to5mac.com/2026/05/17/spotify-confirms-disco-ball-app-icon-is-temporary-and-regular-logo-will-return/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: spaceloud.com  
    Title: spotify discover weekly  
-   Link: <a href="https://www.spaceloud.com/blog/spotify-discover-weekly" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceloud.com/blog/spotify-discover-weekly</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get on Spotify&#x27;s Discover WeeklyFeb 3, 2026 — Collaborative filtering works... This data creates a unique &quot;taste profile&quot; for eac...</p></details>
+   Link:<a href="https://www.spaceloud.com/blog/spotify-discover-weekly" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceloud.com/blog/spotify-discover-weekly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Get on Spotify&#x27;s Discover WeeklyFeb 3, 2026 — Collaborative filtering works... This data creates a unique &quot;taste profile&quot; for eac...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: writinginbound.com  
    Title: spotify discover weekly  
-   Link: <a href="https://writinginbound.com/blog/spotify-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://writinginbound.com/blog/spotify-discover-weekly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI overlords are taking over!26 Jul 2020 — Spotify has discovered the secret of music recommendations and has trained their robots to...</p></details>
+   Link:<a href="https://writinginbound.com/blog/spotify-discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://writinginbound.com/blog/spotify-discover-weekly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI overlords are taking over!26 Jul 2020 — Spotify has discovered the secret of music recommendations and has trained their robots to...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/shapedai_spotifys-discover-weekly-works-because-it-activity-7436785257107865600-wdgX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shapedai_spotifys-discover-weekly-works-because-it-activity-7436785257107865600-wdgX</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>filtering and content-based recommendations. It uses both...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/shapedai_spotifys-discover-weekly-works-because-it-activity-7436785257107865600-wdgX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shapedai_spotifys-discover-weekly-works-because-it-activity-7436785257107865600-wdgX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>filtering and content-based recommendations. It uses both...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/spotifys-discover-weekly-how-predictive-systems-built-sandeep-kumar-zyktc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/spotifys-discover-weekly-how-predictive-systems-built-sandeep-kumar-zyktc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was a personalized playlist of thirty songs that refreshed every Monday, based on what...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/spotifys-discover-weekly-how-predictive-systems-built-sandeep-kumar-zyktc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/spotifys-discover-weekly-how-predictive-systems-built-sandeep-kumar-zyktc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was a personalized playlist of thirty songs that refreshed every Monday, based on what...Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: finance.yahoo.com  
    Title: spotify technology host investor day 120000442  
-   Link: <a href="https://finance.yahoo.com/markets/stocks/articles/spotify-technology-host-investor-day-120000442.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/markets/stocks/articles/spotify-technology-host-investor-day-120000442.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology S.A. to Host Investor Day 2026...</p></details>
+   Link:<a href="https://finance.yahoo.com/markets/stocks/articles/spotify-technology-host-investor-day-120000442.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/markets/stocks/articles/spotify-technology-host-investor-day-120000442.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technology S.A. to Host Investor Day 2026...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/technology/comments/1rtf8oj/spotify_will_let_you_edit_your_taste_profile_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1rtf8oj/spotify_will_let_you_edit_your_taste_profile_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>playlists like Discover Weekly, Made For You recommendations...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/technology/comments/1rtf8oj/spotify_will_let_you_edit_your_taste_profile_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1rtf8oj/spotify_will_let_you_edit_your_taste_profile_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>playlists like Discover Weekly, Made For You recommendations...Read more...</p></details>
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40sophiaciocca/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sophiaciocca/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Spotify Know You So Well? | by Sophia CioccaI&#x27;m a huge fan of Spotify, and particularly Discover Weekly. Why? It makes me feel s...</p></details>
+   Link:<a href="https://medium.com/%40sophiaciocca/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sophiaciocca/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Spotify Know You So Well? | by Sophia CioccaI&#x27;m a huge fan of Spotify, and particularly Discover Weekly. Why? It makes me feel s...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
    Title: 388827947 Effects of algorithmic curation in users' music taste on Spotify  
-   Link: <a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of algorithmic curation in users&#x27; music taste on Spotify8 May 2026 — This study addresses the potential impact of recommendation...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of algorithmic curation in users&#x27; music taste on Spotify8 May 2026 — This study addresses the potential impact of recommendation...</p></details>
    Published: May 2026  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=A259Yo8hBRs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A259Yo8hBRs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Idea to Execution: Spotify&#x27;s Discover WeeklyFrom Idea to Execution: Spotify&#x27;s Discover Weekly. 4K views · 9... Serving a Billion Pe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A259Yo8hBRs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A259Yo8hBRs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Idea to Execution: Spotify&#x27;s Discover WeeklyFrom Idea to Execution: Spotify&#x27;s Discover Weekly. 4K views · 9... Serving a Billion Pe...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: qz.com  
    Title: the magic that makes spotifys discover weekly playlists so damn good  
-   Link: <a href="https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good" target="_blank" rel="noopener noreferrer nofollow">https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The magic that makes Spotify&#x27;s Discover Weekly playlists so...Oct 27, 2015 — Automated music recommendations are hardly new, but Spotify...</p></details>
+   Link:<a href="https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good" target="_blank" rel="noopener noreferrer nofollow">https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The magic that makes Spotify&#x27;s Discover Weekly playlists so...Oct 27, 2015 — Automated music recommendations are hardly new, but Spotify...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: tracknack.com  
-   Link: <a href="https://tracknack.com/blog/how-spotify-discover-weekly-works" target="_blank" rel="noopener noreferrer nofollow">https://tracknack.com/blog/how-spotify-discover-weekly-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a personalised recommendation playlist that refreshes every Monday with 30 tracks...Read more...</p></details>
+   Link:<a href="https://tracknack.com/blog/how-spotify-discover-weekly-works" target="_blank" rel="noopener noreferrer nofollow">https://tracknack.com/blog/how-spotify-discover-weekly-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a personalised recommendation playlist that refreshes every Monday with 30 tracks...Read more...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: air.unimi.it  
    Title: First week is editorial DEF 14 07 2019  
-   Link: <a href="https://air.unimi.it/retrieve/dfa8b9a0-7bf1-748b-e053-3a05fe0a3a96/First%20week%20is%20editorial%20-%20DEF%2014%2007%202019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://air.unimi.it/retrieve/dfa8b9a0-7bf1-748b-e053-3a05fe0a3a96/First%20week%20is%20editorial%20-%20DEF%2014%2007%202019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>week is editorial, second week is algorithmicby T Bonini · 2019 · Cited by 371 — This article investigates the logics that underpin music...</p></details>
+   Link:<a href="https://air.unimi.it/retrieve/dfa8b9a0-7bf1-748b-e053-3a05fe0a3a96/First%20week%20is%20editorial%20-%20DEF%2014%2007%202019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://air.unimi.it/retrieve/dfa8b9a0-7bf1-748b-e053-3a05fe0a3a96/First%20week%20is%20editorial%20-%20DEF%2014%2007%202019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>week is editorial, second week is algorithmicby T Bonini · 2019 · Cited by 371 — This article investigates the logics that underpin music...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/c952/50aba4d431de4a8d4439a8caabc3b84a40f0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/c952/50aba4d431de4a8d4439a8caabc3b84a40f0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Research of Spotify&#x27;s Business Model—The Case...by J Wang · Cited by 5 — Specific [attention](&amp;#123;&amp;#123; &#x27;attention/&#x27; | relative_url &amp;#125;&amp;#125;) is paid to its freemium subscriptio...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/c952/50aba4d431de4a8d4439a8caabc3b84a40f0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/c952/50aba4d431de4a8d4439a8caabc3b84a40f0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Research of Spotify&#x27;s Business Model—The Case...by J Wang · Cited by 5 — Specific [attention](&amp;#123;&amp;#123; &#x27;attention/&#x27; | relative_url &amp;#125;&amp;#125;) is paid to its freemium subscriptio...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: oriondistro.com  
-   Link: <a href="https://www.oriondistro.com/2026/05/19/discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://www.oriondistro.com/2026/05/19/discover-weekly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It analyzes patterns like skips, saves, and...Read more...</p></details>
+   Link:<a href="https://www.oriondistro.com/2026/05/19/discover-weekly/" target="_blank" rel="noopener noreferrer nofollow">https://www.oriondistro.com/2026/05/19/discover-weekly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It analyzes patterns like skips, saves, and...Read more...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: ca.investing.com  
    Title: guggenheim reiterates buy on spotify stock ahead of investor day 93CH 4645361  
-   Link: <a href="https://ca.investing.com/news/stock-market-news/guggenheim-reiterates-buy-on-spotify-stock-ahead-of-investor-day-93CH-4645361" target="_blank" rel="noopener noreferrer nofollow">https://ca.investing.com/news/stock-market-news/guggenheim-reiterates-buy-on-spotify-stock-ahead-of-investor-day-93CH-4645361</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reiterates Buy on Spotify stock ahead of investor day By Investing.com...</p></details>
+   Link:<a href="https://ca.investing.com/news/stock-market-news/guggenheim-reiterates-buy-on-spotify-stock-ahead-of-investor-day-93CH-4645361" target="_blank" rel="noopener noreferrer nofollow">https://ca.investing.com/news/stock-market-news/guggenheim-reiterates-buy-on-spotify-stock-ahead-of-investor-day-93CH-4645361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reiterates Buy on Spotify stock ahead of investor day By Investing.com...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nair.sidharthanvakasseril/how-spotify-uses-data-mining-to-understand-your-music-taste-a9d5392d7759" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nair.sidharthanvakasseril/how-spotify-uses-data-mining-to-understand-your-music-taste-a9d5392d7759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This allows the system to quickly...Read more...</p></details>
+   Link:<a href="https://medium.com/%40nair.sidharthanvakasseril/how-spotify-uses-data-mining-to-understand-your-music-taste-a9d5392d7759" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nair.sidharthanvakasseril/how-spotify-uses-data-mining-to-understand-your-music-taste-a9d5392d7759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This allows the system to quickly...Read more...</p></details>

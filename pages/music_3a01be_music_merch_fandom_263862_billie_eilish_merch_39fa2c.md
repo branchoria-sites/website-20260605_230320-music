@@ -274,247 +274,247 @@ image: /assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch
 
 ## Introduction
 
-Merchandise can do more than advertise an artist. In Billie Eilish’s case, it has often been used to reinforce values that fans already associate with her public identity: environmental awareness, anti-waste thinking, oversized and individualistic fashion, and a willingness to discuss the environmental costs of the music business itself. Rather than treating sustainability as a separate campaign, Eilish and her team have repeatedly tried to build it into merchandise materials, packaging, tour retail operations, and even the design of [physical]({{ 'physical/' | relative_url }}) music releases. The result is a useful case study in how [merch]({{ 'merch/' | relative_url }}) can become part of an artist’s message rather than simply a revenue stream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span>
+Merchandise can do more than advertise an artist. In Billie Eilish’s case, it has often been used to reinforce values that fans already associate with her public identity: environmental awareness, anti-waste thinking, oversized and individualistic fashion, and a willingness to discuss the environmental costs of the music business itself. Rather than treating sustainability as a separate campaign, Eilish and her team have repeatedly tried to build it into merchandise materials, packaging, tour retail operations, and even the design of [physical]({{ 'physical/' | relative_url }}) music releases. The result is a useful case study in how [merch]({{ 'merch/' | relative_url }}) can become part of an artist’s message rather than simply a revenue stream.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-1-dark.svg" | relative_url }}" alt="Billie Values illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the example notable is that Eilish has tied public statements about sustainability to concrete product decisions. That does not remove all criticism or contradictions, but it does show how merchandise can become a visible expression of artist values that fans can evaluate for themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span>
+What makes the example notable is that Eilish has tied public statements about sustainability to concrete product decisions. That does not remove all criticism or contradictions, but it does show how merchandise can become a visible expression of artist values that fans can evaluate for themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span>
 
 ## How Sustainability Becomes Visible In Merch
 
-Many artists support environmental causes, but fans rarely encounter those values when browsing a merchandise store. Billie Eilish’s official merchandise channels instead place sustainability information alongside products, making production choices part of the customer experience. Her stores describe the use of organic and recycled fibres, recycled cotton, recycled polyester, and efforts to reduce environmental impact across both apparel and music [formats]({{ 'formats/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
+Many artists support environmental causes, but fans rarely encounter those values when browsing a merchandise store. Billie Eilish’s official merchandise channels instead place sustainability information alongside products, making production choices part of the customer experience. Her stores describe the use of organic and recycled fibres, recycled cotton, recycled polyester, and efforts to reduce environmental impact across both apparel and music [formats]({{ 'formats/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
 
-The approach extends beyond clothing. Official sustainability information highlights the use of recycled materials in selected [vinyl]({{ 'vinyl/' | relative_url }}) releases, including Eco-Mix recycled vinyl compounds created from manufacturing leftovers that would otherwise become waste. Packaging initiatives have also included recycled paper and board, plant-based inks, and reduced-use plastic alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
+The approach extends beyond clothing. Official sustainability information highlights the use of recycled materials in selected [vinyl]({{ 'vinyl/' | relative_url }}) releases, including Eco-Mix recycled vinyl compounds created from manufacturing leftovers that would otherwise become waste. Packaging initiatives have also included recycled paper and board, plant-based inks, and reduced-use plastic alternatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
 
-On tour, sustainability has been presented not merely as a backstage operational goal but as part of the merchandise experience itself. For the *Hit Me Hard and Soft* tour, official sustainability plans stated that merchandise clothing would be produced using recycled cotton, organic cotton, or recycled polyester, while posters would be printed on recycled paper. Tour reporting later described the use of recycled, upcycled, and organic materials together with non-toxic dyes and water-based inks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalmusic.ca/press-releases/billie-eilish-shares-sustainability-plan-for-upcoming-hit-me-hard-and-soft-the-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalmusic.ca">[Universal Music Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalmusic.ca</span><span class="citation-popover-title">Posters are made from 100% recycled paper.Read more</span><span class="citation-popover-snippet">Universal Music CanadaBILLIE EILISH SHARES SUSTAINABILITY PLAN FOR...All merchandise clothing will be made from a variety of 100% recycl...</span></span></span>
+On tour, sustainability has been presented not merely as a backstage operational goal but as part of the merchandise experience itself. For the *Hit Me Hard and Soft* tour, official sustainability plans stated that merchandise clothing would be produced using recycled cotton, organic cotton, or recycled polyester, while posters would be printed on recycled paper. Tour reporting later described the use of recycled, upcycled, and organic materials together with non-toxic dyes and water-based inks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalmusic.ca/press-releases/billie-eilish-shares-sustainability-plan-for-upcoming-hit-me-hard-and-soft-the-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalmusic.ca">[Universal Music Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalmusic.ca</span><span class="citation-popover-title">Posters are made from 100% recycled paper.Read more</span><span class="citation-popover-snippet">Universal Music CanadaBILLIE EILISH SHARES SUSTAINABILITY PLAN FOR...All merchandise clothing will be made from a variety of 100% recycl...</span></span></span>
 
 This visibility matters because fans cannot easily inspect a supply chain. Materials, packaging notes, and store disclosures become signals that an artist is attempting to align products with stated values.
 
 ## Why Materials Can Support Or Weaken An Artist's Image
 
-Billie Eilish's public image has long been linked to environmental concerns. She has spoken about sustainability in fashion, supported climate-related initiatives, and used events such as the Overheated climate programme to encourage discussion around consumption and waste. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vogue.com/article/can-billie-eilish-convince-fans-to-shop-more-sustainably" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">Can Billie Eilish convince fans to shop more sustainably?</span><span class="citation-popover-snippet">Can Billie Eilish convince fans to shop more sustainably?June 10, 2022 — 10 Jun 2022 — Coinciding with the UK leg of her “Happier Th...</span><span class="citation-popover-meta">Published: June 10, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vogue.com/article/can-billie-eilish-get-fans-to-shop-more-sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-snippet">Known for her environmental activism, Eilish&#x27;s Met Gala gown was crafted from upcycled materials, and her world tour adheres to strict re...</span></span></span>
+Billie Eilish's public image has long been linked to environmental concerns. She has spoken about sustainability in fashion, supported climate-related initiatives, and used events such as the Overheated climate programme to encourage discussion around consumption and waste.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vogue.com/article/can-billie-eilish-convince-fans-to-shop-more-sustainably" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">Can Billie Eilish convince fans to shop more sustainably?</span><span class="citation-popover-snippet">Can Billie Eilish convince fans to shop more sustainably?June 10, 2022 — 10 Jun 2022 — Coinciding with the UK leg of her “Happier Th...</span><span class="citation-popover-meta">Published: June 10, 2022</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vogue.com/article/can-billie-eilish-get-fans-to-shop-more-sustainability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-snippet">Known for her environmental activism, Eilish&#x27;s Met Gala gown was crafted from upcycled materials, and her world tour adheres to strict re...</span></span></span>
 
-Because of that reputation, materials carry symbolic weight. If a fan associates Eilish with environmental responsibility, a cheaply produced product made without visible sustainability efforts could feel inconsistent with the artist's identity. Conversely, recycled fabrics, upcycled products, and lower-impact packaging help make the values tangible. The object itself becomes evidence that the artist is trying to act on what they publicly advocate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
+Because of that reputation, materials carry symbolic weight. If a fan associates Eilish with environmental responsibility, a cheaply produced product made without visible sustainability efforts could feel inconsistent with the artist's identity. Conversely, recycled fabrics, upcycled products, and lower-impact packaging help make the values tangible. The object itself becomes evidence that the artist is trying to act on what they publicly advocate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
 
-The connection between image and materials is especially strong in Eilish's fashion [culture]({{ 'culture/' | relative_url }}). Her oversized silhouettes and distinctive visual style have always been part of her artistic world. When merchandise reflects those aesthetics while also incorporating environmental considerations, fans can view the product as authentically “Billie” rather than generic celebrity apparel. Sustainable design therefore supports both ethical messaging and brand credibility at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">billie eilish launches sustainable merch collection with hm</span><span class="citation-popover-snippet">Teen VogueBillie Eilish Launches Sustainable Merch Collection With H&amp;MJanuary 2, 2020 — To kick off 2020, the &quot;Bad Guy&quot; singer has teamed...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
+The connection between image and materials is especially strong in Eilish's fashion [culture]({{ 'culture/' | relative_url }}). Her oversized silhouettes and distinctive visual style have always been part of her artistic world. When merchandise reflects those aesthetics while also incorporating environmental considerations, fans can view the product as authentically “Billie” rather than generic celebrity apparel. Sustainable design therefore supports both ethical messaging and brand credibility at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">billie eilish launches sustainable merch collection with hm</span><span class="citation-popover-snippet">Teen VogueBillie Eilish Launches Sustainable Merch Collection With H&amp;MJanuary 2, 2020 — To kick off 2020, the &quot;Bad Guy&quot; singer has teamed...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-2-dark.svg" | relative_url }}" alt="Billie Values illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Values Meet Real-World Trade-Offs
 
-The Billie Eilish example is also useful because it shows the limits of value-led merchandising. Sustainability claims attract scrutiny. Journalists and sustainability observers have noted that while Eilish's merchandise programmes often emphasise recycled and organic materials, transparency around certifications and supply-chain details is not always as extensive as some advocates would prefer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">billie eilish launches sustainable merch collection with hm</span><span class="citation-popover-snippet">Teen VogueBillie Eilish Launches Sustainable Merch Collection With H&amp;MJanuary 2, 2020 — To kick off 2020, the &quot;Bad Guy&quot; singer has teamed...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
+The Billie Eilish example is also useful because it shows the limits of value-led merchandising. Sustainability claims attract scrutiny. Journalists and sustainability observers have noted that while Eilish's merchandise programmes often emphasise recycled and organic materials, transparency around certifications and supply-chain details is not always as extensive as some advocates would prefer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">billie eilish launches sustainable merch collection with hm</span><span class="citation-popover-snippet">Teen VogueBillie Eilish Launches Sustainable Merch Collection With H&amp;MJanuary 2, 2020 — To kick off 2020, the &quot;Bad Guy&quot; singer has teamed...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
-A larger debate emerged in 2024 when Eilish criticised the music industry's reliance on multiple vinyl [variants]({{ 'variants/' | relative_url }}) designed to encourage fans to purchase several versions of the same album. She described the practice as environmentally wasteful and argued that the industry should move away from it. The comments generated significant discussion because Eilish herself had previously released variant editions, even while using recycled materials and lower-impact production methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span>
+A larger debate emerged in 2024 when Eilish criticised the music industry's reliance on multiple vinyl [variants]({{ 'variants/' | relative_url }}) designed to encourage fans to purchase several versions of the same album. She described the practice as environmentally wasteful and argued that the industry should move away from it. The comments generated significant discussion because Eilish herself had previously released variant editions, even while using recycled materials and lower-impact production methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span>
 
-This tension highlights an important lesson about artist values. Fans often judge not only whether an artist adopts sustainable materials, but whether their broader commercial practices match the message. A recycled product can still raise questions if the surrounding sales strategy appears to encourage unnecessary consumption. The challenge is not merely producing greener merchandise; it is convincing audiences that sustainability goals are influencing business decisions as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span>
+This tension highlights an important lesson about artist values. Fans often judge not only whether an artist adopts sustainable materials, but whether their broader commercial practices match the message. A recycled product can still raise questions if the surrounding sales strategy appears to encourage unnecessary consumption. The challenge is not merely producing greener merchandise; it is convincing audiences that sustainability goals are influencing business decisions as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</span></span></span>
 
 ## What Fans Expect From Value-Led Artist Stores
 
-Billie Eilish's merchandise illustrates that modern fans increasingly expect alignment between products and artist identity. When an artist publicly champions environmental issues, fans often look for evidence in areas they can directly observe: clothing fabrics, packaging choices, tour merchandise, and retail communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span>
+Billie Eilish's merchandise illustrates that modern fans increasingly expect alignment between products and artist identity. When an artist publicly champions environmental issues, fans often look for evidence in areas they can directly observe: clothing fabrics, packaging choices, tour merchandise, and retail communication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span>
 
 Several expectations tend to emerge:
 
-* **Visible material choices** that reflect stated priorities, such as recycled or organic fibres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
-* **Clear explanations** of how products are made and why certain materials were selected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
-* **Consistency across formats**, including apparel, vinyl, posters, and packaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en/collections/all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Products]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Billie EilishBillie Eilish Happier Than Ever Exclusive Recycled Vinyl 314645. Sold out... Official Store. MERCH · MUSIC · Upcycled · SUS...</span></span></span> of Change
-* **Evidence of improvement**, acknowledging that sustainability is an ongoing process rather than a finished achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
+* **Visible material choices** that reflect stated priorities, such as recycled or organic fibres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
+* **Clear explanations** of how products are made and why certain materials were selected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
+* **Consistency across formats**, including apparel, vinyl, posters, and packaging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en/collections/all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Products]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Billie EilishBillie Eilish Happier Than Ever Exclusive Recycled Vinyl 314645. Sold out... Official Store. MERCH · MUSIC · Upcycled · SUS...</span></span></span> of Change
+* **Evidence of improvement**, acknowledging that sustainability is an ongoing process rather than a finished achievement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
 
-Eilish's stores frequently frame sustainability as a continuing journey rather than a solved problem, which may help manage expectations while still signalling intent. Official materials describe ongoing efforts to reduce environmental impact through design, sourcing, and circularity initiatives rather than claiming perfection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
+Eilish's stores frequently frame sustainability as a continuing journey rather than a solved problem, which may help manage expectations while still signalling intent. Official materials describe ongoing efforts to reduce environmental impact through design, sourcing, and circularity initiatives rather than claiming perfection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-3-dark.svg" | relative_url }}" alt="Billie Values illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Billie Eilish Matters As A Merch Case Study
 
-Billie Eilish demonstrates how merchandise can extend an artist's world through values as well as aesthetics. Fans encounter environmental messaging not only in interviews or campaigns but in the products themselves: recycled fabrics, upcycled collections, lower-impact packaging, and sustainability information embedded into the shopping experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
+Billie Eilish demonstrates how merchandise can extend an artist's world through values as well as aesthetics. Fans encounter environmental messaging not only in interviews or campaigns but in the products themselves: recycled fabrics, upcycled collections, lower-impact packaging, and sustainability information embedded into the shopping experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billieeilishstore.de">[Billie Eilish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billieeilishstore.de</span><span class="citation-popover-snippet">Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</span></span></span>
 
-The significance is not that every sustainability effort succeeds perfectly. Rather, Eilish shows how merchandise can become a testable expression of artist values. Fans can examine the materials, read the claims, compare them with public statements, and decide whether the products feel consistent with the artist they support. In that sense, the merch becomes part of the conversation about what the artist stands for, extending the world of the music into everyday objects and purchasing choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
+The significance is not that every sustainability effort succeeds perfectly. Rather, Eilish shows how merchandise can become a testable expression of artist values. Fans can examine the materials, read the claims, compare them with public statements, and decide whether the products feel consistent with the artist they support. In that sense, the merch becomes part of the conversation about what the artist stands for, extending the world of the music into everyday objects and purchasing choices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">billie eilish sustainability eco friendly initiatives mom 1235642455</span><span class="citation-popover-snippet">Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: austore.billieeilish.com">[Billie Eilish AU Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">austore.billieeilish.com</span><span class="citation-popover-snippet">Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Merch Carry An Artist&#x27;s Values?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Merch Carry An Artist&#x27;s Values?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Changes+Everything+by+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Changes Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=P81bAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Changes Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Changes+Everything+by+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Changes Everything">This Changes Everything</a>
-        </h4>
-        <p class="fr-book-author">By Naomi Klein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Changes+Everything+by+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Changes Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=P81bAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Changes Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Changes+Everything+by+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Changes Everything">This Changes Everything</a>
+</h4>
+<p class="fr-book-author">By Naomi Klein</p>
         
-        <p class="fr-book-desc">Provides context for sustainability themes associated with artist merch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Changes+Everything+by+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for sustainability themes associated with artist merch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Changes+Everything+by+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explores the broader relationship between artists, audiences and commerce.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the broader relationship between artists, audiences and commerce.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Billie+Eilish+Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Billie Eilish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10891542-M.jpg" alt="Cover for Billie Eilish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Billie+Eilish+Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Billie Eilish">Billie Eilish</a>
-        </h4>
-        <p class="fr-book-author">By Billie Eilish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Billie+Eilish+Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Billie Eilish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10891542-M.jpg" alt="Cover for Billie Eilish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Billie+Eilish+Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Billie Eilish">Billie Eilish</a>
+</h4>
+<p class="fr-book-author">By Billie Eilish</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: nyt:combined-print-and-e-book-nonfiction=2021-05-30, New York Times bestseller, Rock musicians, biography...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Billie+Eilish+Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: nyt:combined-print-and-e-book-nonfiction=2021-05-30, New York Times bestseller, Rock musicians, biography...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Billie+Eilish+Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls">Fangirls</a>
-        </h4>
-        <p class="fr-book-author">By Hannah Ewens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls">Fangirls</a>
+</h4>
+<p class="fr-book-author">By Hannah Ewens</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Popular music, history and criticism, Women, social conditions, Music, history and criticism, Music fans,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Popular music, history and criticism, Women, social conditions, Music, history and criticism, Music fans,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Changes+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Changes Everything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Changes+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Changes Everything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Billie+Eilish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Wall Art VINTAGE 1950’s UFO SIGHTING Retro 316"><img src="https://i.ebayimg.com/images/g/mJIAAOSwyzBnkaaW/s-l225.jpg" alt="Listing image for Canvas Wall Art VINTAGE 1950’s UFO SIGHTING Retro 316" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">Canvas Wall Art VINTAGE 1950’s UFO SIGHTING Retro 316</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Wall Art VINTAGE 1950’s UFO SIGHTING Retro 316"><img src="https://i.ebayimg.com/images/g/mJIAAOSwyzBnkaaW/s-l225.jpg" alt="Listing image for Canvas Wall Art VINTAGE 1950’s UFO SIGHTING Retro 316" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">Canvas Wall Art VINTAGE 1950’s UFO SIGHTING Retro 316</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Wall Art VINTAGE 1960’s UFO Retro SCI-FI 12 x 16 Unframed 696"><img src="https://i.ebayimg.com/images/g/BqUAAeSwbmtodvsO/s-l225.jpg" alt="Listing image for Canvas Wall Art VINTAGE 1960’s UFO Retro SCI-FI 12 x 16 Unframed 696" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">Canvas Wall Art VINTAGE 1960’s UFO Retro SCI-FI 12 x 16 Unframed 696</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Wall Art VINTAGE 1960’s UFO Retro SCI-FI 12 x 16 Unframed 696"><img src="https://i.ebayimg.com/images/g/BqUAAeSwbmtodvsO/s-l225.jpg" alt="Listing image for Canvas Wall Art VINTAGE 1960’s UFO Retro SCI-FI 12 x 16 Unframed 696" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">Canvas Wall Art VINTAGE 1960’s UFO Retro SCI-FI 12 x 16 Unframed 696</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/OnQAAeSwRadpYBeW/s-l225.jpg" alt="Listing image for UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/OnQAAeSwRadpYBeW/s-l225.jpg" alt="Listing image for UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION SIGN Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage 1950s UFO wall art merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage 1950s UFO wall art merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+1950s+UFO+wall+art+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage 1950s UFO wall art merch" data-ebay-reference="can-merch-carry-an-artist-s-values-vintage-1950s-ufo-wall-art-merch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ The significance is not that every sustainability effort succeeds perfectly. Rat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ The significance is not that every sustainability effort succeeds perfectly. Rat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ The significance is not that every sustainability effort succeeds perfectly. Rat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ The significance is not that every sustainability effort succeeds perfectly. Rat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ The significance is not that every sustainability effort succeeds perfectly. Rat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,243 +720,243 @@ The significance is not that every sustainability effort succeeds perfectly. Rat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: billboard.com  
    Title: billie eilish sustainability eco friendly initiatives mom 1235642455  
-   Link: <a href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</p></details>
+   Link:<a href="https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/billie-eilish-sustainability-eco-friendly-initiatives-mom-1235642455/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish on the &#x27;Never-Ending Fight&#x27; for Sustainability28 Mar 2024 — And so the problem is to make sure that my clothing is...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vogue.com  
    Title: Can Billie Eilish convince fans to shop more sustainably?  
-   Link: <a href="https://www.vogue.com/article/can-billie-eilish-convince-fans-to-shop-more-sustainably" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/can-billie-eilish-convince-fans-to-shop-more-sustainably</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Billie Eilish convince fans to shop more sustainably?June 10, 2022 — 10 Jun 2022 — Coinciding with the UK leg of her “Happier Th...</p></details>
+   Link:<a href="https://www.vogue.com/article/can-billie-eilish-convince-fans-to-shop-more-sustainably" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/can-billie-eilish-convince-fans-to-shop-more-sustainably</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Billie Eilish convince fans to shop more sustainably?June 10, 2022 — 10 Jun 2022 — Coinciding with the UK leg of her “Happier Th...</p></details>
    Published: June 10, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vogue.com  
-   Link: <a href="https://www.vogue.com/article/can-billie-eilish-get-fans-to-shop-more-sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/can-billie-eilish-get-fans-to-shop-more-sustainability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Known for her environmental activism, Eilish&#x27;s Met Gala gown was crafted from upcycled materials, and her world tour adheres to strict re...</p></details>
+   Link:<a href="https://www.vogue.com/article/can-billie-eilish-get-fans-to-shop-more-sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/can-billie-eilish-get-fans-to-shop-more-sustainability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known for her environmental activism, Eilish&#x27;s Met Gala gown was crafted from upcycled materials, and her world tour adheres to strict re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: universalmusic.ca  
    Title: Posters are made from 100% recycled paper.Read more  
-   Link: <a href="https://www.universalmusic.ca/press-releases/billie-eilish-shares-sustainability-plan-for-upcoming-hit-me-hard-and-soft-the-tour/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalmusic.ca/press-releases/billie-eilish-shares-sustainability-plan-for-upcoming-hit-me-hard-and-soft-the-tour/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Music CanadaBILLIE EILISH SHARES SUSTAINABILITY PLAN FOR...All merchandise clothing will be made from a variety of 100% recycl...</p></details>
+   Link:<a href="https://www.universalmusic.ca/press-releases/billie-eilish-shares-sustainability-plan-for-upcoming-hit-me-hard-and-soft-the-tour/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalmusic.ca/press-releases/billie-eilish-shares-sustainability-plan-for-upcoming-hit-me-hard-and-soft-the-tour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Music CanadaBILLIE EILISH SHARES SUSTAINABILITY PLAN FOR...All merchandise clothing will be made from a variety of 100% recycl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish, who strives for sustainability in her career, finds the practice incredibly wasteful. She criticizes major artists for producing...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: people.com  
-   Link: <a href="https://people.com/billie-eilish-clarifies-vinyl-variants-comments-8622967" target="_blank" rel="noopener noreferrer nofollow">https://people.com/billie-eilish-clarifies-vinyl-variants-comments-8622967</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In a follow-up Instagram post, she clarified her comments, asserting that she was addressing industry-wide issues rather than targeting s...</p></details>
+   Link:<a href="https://people.com/billie-eilish-clarifies-vinyl-variants-comments-8622967" target="_blank" rel="noopener noreferrer nofollow">https://people.com/billie-eilish-clarifies-vinyl-variants-comments-8622967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a follow-up Instagram post, she clarified her comments, asserting that she was addressing industry-wide issues rather than targeting s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: billieeilishstore.de  
-   Link: <a href="https://www.billieeilishstore.de/en/pages/sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/pages/sustainability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishSUSTAINABILITYBillie prioritizes organic and recycled fibers wherever possible across merchandise. F or vinyl releases, sele...</p></details>
+   Link:<a href="https://www.billieeilishstore.de/en/pages/sustainability" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/pages/sustainability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishSUSTAINABILITYBillie prioritizes organic and recycled fibers wherever possible across merchandise. F or vinyl releases, sele...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: shopuk.billieeilish.com  
-   Link: <a href="https://shopuk.billieeilish.com/pages/sustainability?srsltid=AfmBOopRIR1WsxvxtYChOeLEHUFwr9XDljLWse7StMyJ81HVXXVibL1V" target="_blank" rel="noopener noreferrer nofollow">https://shopuk.billieeilish.com/pages/sustainability?srsltid=AfmBOopRIR1WsxvxtYChOeLEHUFwr9XDljLWse7StMyJ81HVXXVibL1V</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>prioritizes organic and recycled fibers wherever possible across merchandise. F or vinyl releases, select records are pressed using Eco-M...</p></details>
+   Link:<a href="https://shopuk.billieeilish.com/pages/sustainability?srsltid=AfmBOopRIR1WsxvxtYChOeLEHUFwr9XDljLWse7StMyJ81HVXXVibL1V" target="_blank" rel="noopener noreferrer nofollow">https://shopuk.billieeilish.com/pages/sustainability?srsltid=AfmBOopRIR1WsxvxtYChOeLEHUFwr9XDljLWse7StMyJ81HVXXVibL1V</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prioritizes organic and recycled fibers wherever possible across merchandise. F or vinyl releases, select records are pressed using Eco-M...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: austore.billieeilish.com  
-   Link: <a href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow">https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</p></details>
+   Link:<a href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys" target="_blank" rel="noopener noreferrer nofollow">https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOorKHOxbp_gikeuGYzVmNux1afvhf5TYUJlwCjsqhnkiQ1MVmJys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish AU StoreSustainabilityAll merchandise clothing uses residual dead stock from prior productions, organic or recycled polyest...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: productsofchange.com  
    Title: new billie eilish album has its own sustainability plan  
-   Link: <a href="https://www.productsofchange.com/new-billie-eilish-album-has-its-own-sustainability-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/new-billie-eilish-album-has-its-own-sustainability-plan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 10, 2024 — Further to this, all vinyl packaging will be made using FSC certified recycled paper or board made 100% from post-consumer...</p></details>
+   Link:<a href="https://www.productsofchange.com/new-billie-eilish-album-has-its-own-sustainability-plan/" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/new-billie-eilish-album-has-its-own-sustainability-plan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 10, 2024 — Further to this, all vinyl packaging will be made using FSC certified recycled paper or board made 100% from post-consumer...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: billieeilishstore.de  
    Title: Billie Eilish Tour Impact Report  
-   Link: <a href="https://www.billieeilishstore.de/pages/tour-impact-report" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/pages/tour-impact-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishTour Impact Report - Billie EilishFashion and Merchandise. Billie&#x27;s tour apparel uses recycled, upcycled, and organic materi...</p></details>
+   Link:<a href="https://www.billieeilishstore.de/pages/tour-impact-report" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/pages/tour-impact-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishTour Impact Report - Billie EilishFashion and Merchandise. Billie&#x27;s tour apparel uses recycled, upcycled, and organic materi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalcitizen.org  
    Title: billie eilish the worlds a little blurry merch  
-   Link: <a href="https://www.globalcitizen.org/en/content/billie-eilish-the-worlds-a-little-blurry-merch/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalcitizen.org/en/content/billie-eilish-the-worlds-a-little-blurry-merch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Just Rolled Out Sustainable Merch for Her New...26 Feb 2021 — The artist shared how the collection of hoodies, sweatpants...</p></details>
+   Link:<a href="https://www.globalcitizen.org/en/content/billie-eilish-the-worlds-a-little-blurry-merch/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalcitizen.org/en/content/billie-eilish-the-worlds-a-little-blurry-merch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Just Rolled Out Sustainable Merch for Her New...26 Feb 2021 — The artist shared how the collection of hoodies, sweatpants...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: teenvogue.com  
    Title: billie eilish launches sustainable merch collection with hm  
-   Link: <a href="https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teen VogueBillie Eilish Launches Sustainable Merch Collection With H&amp;MJanuary 2, 2020 — To kick off 2020, the &quot;Bad Guy&quot; singer has teamed...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/billie-eilish-launches-sustainable-merch-collection-with-hm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teen VogueBillie Eilish Launches Sustainable Merch Collection With H&amp;MJanuary 2, 2020 — To kick off 2020, the &quot;Bad Guy&quot; singer has teamed...</p></details>
    Published: January 2, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: teenvogue.com  
    Title: Teen Vogue How Is Celebrity Merch Made?  
-   Link: <a href="https://www.teenvogue.com/story/how-is-celebrity-merch-made-buying-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/how-is-celebrity-merch-made-buying-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Out How Taylor Swift, Beyoncé &amp; More Make Their ProductsFebruary 6, 2025 — Merchandise is a vital aspect of the concert experience...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/how-is-celebrity-merch-made-buying-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/how-is-celebrity-merch-made-buying-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find Out How Taylor Swift, Beyoncé &amp; More Make Their ProductsFebruary 6, 2025 — Merchandise is a vital aspect of the concert experience...</p></details>
    Published: February 6, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: billieeilishstore.de  
    Title: Billie Eilish Upcycled  
-   Link: <a href="https://www.billieeilishstore.de/en/collections/upcycled" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/collections/upcycled</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upcycled - Billie EilishOfficial Store. © 2026 Billie Eilish. Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · S...</p></details>
+   Link:<a href="https://www.billieeilishstore.de/en/collections/upcycled" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/collections/upcycled</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upcycled - Billie EilishOfficial Store. © 2026 Billie Eilish. Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · S...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: russh.com  
    Title: Billie Eilish has a new sustainable merch line  
-   Link: <a href="https://www.russh.com/billie-eilish-merch/" target="_blank" rel="noopener noreferrer nofollow">https://www.russh.com/billie-eilish-merch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 25, 2021 — The collection is comprised of 12 pieces which includes printed hoodies, sweatpants, socks, and T-shirts, and is...</p></details>
+   Link:<a href="https://www.russh.com/billie-eilish-merch/" target="_blank" rel="noopener noreferrer nofollow">https://www.russh.com/billie-eilish-merch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 25, 2021 — The collection is comprised of 12 pieces which includes printed hoodies, sweatpants, socks, and T-shirts, and is...</p></details>
    Published: February 25, 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: store.billieeilish.com  
-   Link: <a href="https://store.billieeilish.com/pages/sustainability?srsltid=AfmBOoqXa_cvm9SwjC9LjcguiRnMZ4bQvX6jRjjos_b8q64hzQ_fpM3y" target="_blank" rel="noopener noreferrer nofollow">https://store.billieeilish.com/pages/sustainability?srsltid=AfmBOoqXa_cvm9SwjC9LjcguiRnMZ4bQvX6jRjjos_b8q64hzQ_fpM3y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishBillie prioritizes organic and recycled fibers wherever possible across merchandise. F or vinyl releases, select records are...</p></details>
+   Link:<a href="https://store.billieeilish.com/pages/sustainability?srsltid=AfmBOoqXa_cvm9SwjC9LjcguiRnMZ4bQvX6jRjjos_b8q64hzQ_fpM3y" target="_blank" rel="noopener noreferrer nofollow">https://store.billieeilish.com/pages/sustainability?srsltid=AfmBOoqXa_cvm9SwjC9LjcguiRnMZ4bQvX6jRjjos_b8q64hzQ_fpM3y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishBillie prioritizes organic and recycled fibers wherever possible across merchandise. F or vinyl releases, select records are...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: store.billieeilish.com  
-   Link: <a href="https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-" target="_blank" rel="noopener noreferrer nofollow">https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>exclusive music and merch from the Official Billie Eilish Store. Vinyl, hoodies, tees, accessories, and more...</p></details>
+   Link:<a href="https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-" target="_blank" rel="noopener noreferrer nofollow">https://store.billieeilish.com/pages/upcycled?srsltid=AfmBOorQ7B3iLTOy3qkmBzF4YPBL1x7qetfaNR4DV9AtEAzs4CQYeCg-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>exclusive music and merch from the Official Billie Eilish Store. Vinyl, hoodies, tees, accessories, and more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: austore.billieeilish.com  
-   Link: <a href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj" target="_blank" rel="noopener noreferrer nofollow">https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>merchandise clothing uses residual dead stock from prior productions, organic or recycled polyester or cotton, non-toxic dye inputs and i...</p></details>
+   Link:<a href="https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj" target="_blank" rel="noopener noreferrer nofollow">https://austore.billieeilish.com/pages/sustainability?srsltid=AfmBOooZ4CET4TOt4yPHWZGg_TRUYUWpBqIWqUlL0wE1J7hZquGl9pvj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>merchandise clothing uses residual dead stock from prior productions, organic or recycled polyester or cotton, non-toxic dye inputs and i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: shopuk.billieeilish.com  
-   Link: <a href="https://shopuk.billieeilish.com/?srsltid=AfmBOorY70M1QVKbCgJvyj8qKswnRaiinD7feCrB1ccsuFLd1XTh1S25" target="_blank" rel="noopener noreferrer nofollow">https://shopuk.billieeilish.com/?srsltid=AfmBOorY70M1QVKbCgJvyj8qKswnRaiinD7feCrB1ccsuFLd1XTh1S25</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish - Official Store - Shop Exclusive Music &amp; MerchThe official Billie Eilish UK online store. Shop exclusive Billie Eilish vinyl, CDs...</p></details>
+   Link:<a href="https://shopuk.billieeilish.com/?srsltid=AfmBOorY70M1QVKbCgJvyj8qKswnRaiinD7feCrB1ccsuFLd1XTh1S25" target="_blank" rel="noopener noreferrer nofollow">https://shopuk.billieeilish.com/?srsltid=AfmBOorY70M1QVKbCgJvyj8qKswnRaiinD7feCrB1ccsuFLd1XTh1S25</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish - Official Store - Shop Exclusive Music &amp; MerchThe official Billie Eilish UK online store. Shop exclusive Billie Eilish vinyl, CDs...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: billieeilishstore.de  
    Title: Billie Eilish  
-   Link: <a href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</p></details>
+   Link:<a href="https://www.billieeilishstore.de/en" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official Store. MERCH · MUSIC · Upcycled · SUSTAINABILITY · TOUR · More · Shipping Cost...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: billieeilishstore.de  
-   Link: <a href="https://www.billieeilishstore.de/en/collections/all" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/collections/all</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishBillie Eilish Happier Than Ever Exclusive Recycled Vinyl 314645. Sold out... Official Store. MERCH · MUSIC · Upcycled · SUS...</p></details>
+   Link:<a href="https://www.billieeilishstore.de/en/collections/all" target="_blank" rel="noopener noreferrer nofollow">https://www.billieeilishstore.de/en/collections/all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie EilishBillie Eilish Happier Than Ever Exclusive Recycled Vinyl 314645. Sold out... Official Store. MERCH · MUSIC · Upcycled · SUS...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VirginRadioToronto/posts/billie-eilish-has-always-been-known-for-being-eco-friendly-when-it-comes-to-her-/1174016168087524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VirginRadioToronto/posts/billie-eilish-has-always-been-known-for-being-eco-friendly-when-it-comes-to-her-/1174016168087524/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>her merch and now she&#x27;s taking it a step further!: Getty...</p></details>
+   Link:<a href="https://www.facebook.com/VirginRadioToronto/posts/billie-eilish-has-always-been-known-for-being-eco-friendly-when-it-comes-to-her-/1174016168087524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VirginRadioToronto/posts/billie-eilish-has-always-been-known-for-being-eco-friendly-when-it-comes-to-her-/1174016168087524/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>her merch and now she&#x27;s taking it a step further!: Getty...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: productsofchange.com  
-   Link: <a href="https://www.productsofchange.com/cleaning-up-its-act-music-merch-and-measuring-impact/" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/cleaning-up-its-act-music-merch-and-measuring-impact/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleaning up its act | Music, merch, and measuring impactExecuted by Bravado, Billie&#x27;s own plan includes producing all her official mercha...</p></details>
+   Link:<a href="https://www.productsofchange.com/cleaning-up-its-act-music-merch-and-measuring-impact/" target="_blank" rel="noopener noreferrer nofollow">https://www.productsofchange.com/cleaning-up-its-act-music-merch-and-measuring-impact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cleaning up its act | Music, merch, and measuring impactExecuted by Bravado, Billie&#x27;s own plan includes producing all her official mercha...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXcWPS5CVfE/?img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXcWPS5CVfE/?img_index=7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd pushing venues to change, her tour treated climate action like...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXcWPS5CVfE/?img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXcWPS5CVfE/?img_index=7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd pushing venues to change, her tour treated climate action like...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
    Title: DMc Vy Xmsc12  
-   Link: <a href="https://www.instagram.com/p/DMcVyXmsc12/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMcVyXmsc12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Is Turning 400000 Unsold Tour Tees...From recycled merch and plant-based food to cutting single-use... Think recycled fab...</p></details>
+   Link:<a href="https://www.instagram.com/p/DMcVyXmsc12/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMcVyXmsc12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish Is Turning 400000 Unsold Tour Tees...From recycled merch and plant-based food to cutting single-use... Think recycled fab...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: billie eilish pushes music labels to upcycle  
-   Link: <a href="https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish pushes music labels to &#x27;upcycle&#x27; 400000 unsold...Eilish and her mother, Maggie Baird, have been spearheading an initiative...</p></details>
+   Link:<a href="https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popculturechat/comments/1lt94vy/billie_eilish_pushes_music_labels_to_upcycle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish pushes music labels to &#x27;upcycle&#x27; 400000 unsold...Eilish and her mother, Maggie Baird, have been spearheading an initiative...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: shopfrbillieeilish.com  
    Title: tour impact report  
-   Link: <a href="https://shopfrbillieeilish.com/pages/tour-impact-report?srsltid=AfmBOoo5Wc9AIJmYlq1ApoafjoW0kptGhlNwY1KVavAr7v1NGk_RufOn" target="_blank" rel="noopener noreferrer nofollow">https://shopfrbillieeilish.com/pages/tour-impact-report?srsltid=AfmBOoo5Wc9AIJmYlq1ApoafjoW0kptGhlNwY1KVavAr7v1NGk_RufOn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish StoreBillie Eilish has redefined what&#x27;s possible for sustainable touring on a global scale, building climate action into ev...</p></details>
+   Link:<a href="https://shopfrbillieeilish.com/pages/tour-impact-report?srsltid=AfmBOoo5Wc9AIJmYlq1ApoafjoW0kptGhlNwY1KVavAr7v1NGk_RufOn" target="_blank" rel="noopener noreferrer nofollow">https://shopfrbillieeilish.com/pages/tour-impact-report?srsltid=AfmBOoo5Wc9AIJmYlq1ApoafjoW0kptGhlNwY1KVavAr7v1NGk_RufOn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish StoreBillie Eilish has redefined what&#x27;s possible for sustainable touring on a global scale, building climate action into ev...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: members.asicentral.com  
    Title: billie eilish umg upcycle 400k unsold concert tees into new merch  
-   Link: <a href="https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/" target="_blank" rel="noopener noreferrer nofollow">https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish &amp; UMG Upcycle 400K Unsold Concert Tees...8 Jul 2025 — She has a section of her online merch store dedicated to apparel made from...</p></details>
+   Link:<a href="https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/" target="_blank" rel="noopener noreferrer nofollow">https://members.asicentral.com/news/strategy/july-2025/billie-eilish-umg-upcycle-400k-unsold-concert-tees-into-new-merch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish &amp; UMG Upcycle 400K Unsold Concert Tees...8 Jul 2025 — She has a section of her online merch store dedicated to apparel made from...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cleanthesky.com  
    Title: billie eilish 5  
-   Link: <a href="https://www.cleanthesky.com/innovation/billie-eilish-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cleanthesky.com/innovation/billie-eilish-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repurposed Tour Merchandise CapsulesAug 15, 2025 — Repurposed Tour Merchandise Capsules - Billie Eilish and Bravado Repurpose Old Tour Me...</p></details>
+   Link:<a href="https://www.cleanthesky.com/innovation/billie-eilish-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cleanthesky.com/innovation/billie-eilish-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repurposed Tour Merchandise CapsulesAug 15, 2025 — Repurposed Tour Merchandise Capsules - Billie Eilish and Bravado Repurpose Old Tour Me...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: arrichards.co.uk  
-   Link: <a href="https://www.arrichards.co.uk/billie-eilish-pioneering-sustainable-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.arrichards.co.uk/billie-eilish-pioneering-sustainable-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish is a Pioneer of Sustainability in Music!Her website also states, &#x27;All merchandise clothing will be made from 100% recycled...</p></details>
+   Link:<a href="https://www.arrichards.co.uk/billie-eilish-pioneering-sustainable-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.arrichards.co.uk/billie-eilish-pioneering-sustainable-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish is a Pioneer of Sustainability in Music!Her website also states, &#x27;All merchandise clothing will be made from 100% recycled...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: green4ema.org  
-   Link: <a href="https://www.green4ema.org/impact-network-blog/2024/billie-eilishs-tour-goes-green-and-its-happier-than-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.green4ema.org/impact-network-blog/2024/billie-eilishs-tour-goes-green-and-its-happier-than-ever</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish&#x27;s Tour Goes Green – And it&#x27;s Happier Than EverFeb 10, 2025 — Merchandise is another primary focus of the tour&#x27;s sustainabil...</p></details>
+   Link:<a href="https://www.green4ema.org/impact-network-blog/2024/billie-eilishs-tour-goes-green-and-its-happier-than-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.green4ema.org/impact-network-blog/2024/billie-eilishs-tour-goes-green-and-its-happier-than-ever</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billie Eilish&#x27;s Tour Goes Green – And it&#x27;s Happier Than EverFeb 10, 2025 — Merchandise is another primary focus of the tour&#x27;s sustainabil...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: goodgoodgood.co  
    Title: billie eilish concert shirts merch  
-   Link: <a href="https://www.goodgoodgood.co/articles/billie-eilish-concert-shirts-merch" target="_blank" rel="noopener noreferrer nofollow">https://www.goodgoodgood.co/articles/billie-eilish-concert-shirts-merch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resist fast fashion items, which are made from synthetic materials like polyester, nylon, and acrylic...</p></details>
+   Link:<a href="https://www.goodgoodgood.co/articles/billie-eilish-concert-shirts-merch" target="_blank" rel="noopener noreferrer nofollow">https://www.goodgoodgood.co/articles/billie-eilish-concert-shirts-merch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resist fast fashion items, which are made from synthetic materials like polyester, nylon, and acrylic...</p></details>
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jigarshahdc_half-a-million-unsold-concert-t-shirts-sat-activity-7430463151101489153-zcxi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jigarshahdc_half-a-million-unsold-concert-t-shirts-sat-activity-7430463151101489153-zcxi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish and Baird&#x27;s Sustainable Fashion InitiativeThere, they are being turned back into cotton yarn and spun into an estimated 280,000 ne...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jigarshahdc_half-a-million-unsold-concert-t-shirts-sat-activity-7430463151101489153-zcxi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jigarshahdc_half-a-million-unsold-concert-t-shirts-sat-activity-7430463151101489153-zcxi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eilish and Baird&#x27;s Sustainable Fashion InitiativeThere, they are being turned back into cotton yarn and spun into an estimated 280,000 ne...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: diamondpackaging.com  
-   Link: <a href="https://www.diamondpackaging.com/case-studies/39/billie-eilish-packaging-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.diamondpackaging.com/case-studies/39/billie-eilish-packaging-case-study/</a>  
+   Link:<a href="https://www.diamondpackaging.com/case-studies/39/billie-eilish-packaging-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.diamondpackaging.com/case-studies/39/billie-eilish-packaging-case-study/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: thevoiceoffashion.com  
    Title: sustainability scanner billie eilish and hms eco friendly collaboration 3463  
-   Link: <a href="https://www.thevoiceoffashion.com/sustainability/features/sustainability-scanner-billie-eilish-and-hms-eco-friendly-collaboration--3463" target="_blank" rel="noopener noreferrer nofollow">https://www.thevoiceoffashion.com/sustainability/features/sustainability-scanner-billie-eilish-and-hms-eco-friendly-collaboration--3463</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sustainability Scanner: Billie Eilish and H&amp;M&#x27;s Eco...8 Jan 2020 — The collection features 16 pieces inspired by Eilish&#x27;s personal style...</p></details>
+   Link:<a href="https://www.thevoiceoffashion.com/sustainability/features/sustainability-scanner-billie-eilish-and-hms-eco-friendly-collaboration--3463" target="_blank" rel="noopener noreferrer nofollow">https://www.thevoiceoffashion.com/sustainability/features/sustainability-scanner-billie-eilish-and-hms-eco-friendly-collaboration--3463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sustainability Scanner: Billie Eilish and H&amp;M&#x27;s Eco...8 Jan 2020 — The collection features 16 pieces inspired by Eilish&#x27;s personal style...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: happyeconews.com  
    Title: the billie eilish upcycled merch program  
-   Link: <a href="https://happyeconews.com/the-billie-eilish-upcycled-merch-program/" target="_blank" rel="noopener noreferrer nofollow">https://happyeconews.com/the-billie-eilish-upcycled-merch-program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15, 2025 — The Billie Eilish upcycled merch program with Universal Music Group transforms warehouse waste into 280000 sustai...</p></details>
+   Link:<a href="https://happyeconews.com/the-billie-eilish-upcycled-merch-program/" target="_blank" rel="noopener noreferrer nofollow">https://happyeconews.com/the-billie-eilish-upcycled-merch-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15, 2025 — The Billie Eilish upcycled merch program with Universal Music Group transforms warehouse waste into 280000 sustai...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/billieeilish/comments/1bqfd6r/why_billie_eilish_insists_on_sustainability_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/billieeilish/comments/1bqfd6r/why_billie_eilish_insists_on_sustainability_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it really make that big a difference if she pumps out 15...</p></details>
+   Link:<a href="https://www.reddit.com/r/billieeilish/comments/1bqfd6r/why_billie_eilish_insists_on_sustainability_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/billieeilish/comments/1bqfd6r/why_billie_eilish_insists_on_sustainability_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it really make that big a difference if she pumps out 15...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: postpressmag.com  
-   Link: <a href="https://postpressmag.com/articles/2025/luxurious-and-sustainable-diamond-packaging-wows-with-eco-friendly-billie-eilish-perfume-package/" target="_blank" rel="noopener noreferrer nofollow">https://postpressmag.com/articles/2025/luxurious-and-sustainable-diamond-packaging-wows-with-eco-friendly-billie-eilish-perfume-package/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luxurious and Sustainable: Diamond Packaging Wows...Luxurious and Sustainable: Diamond Packaging Wows with Eco-Friendly Billie Eilish Pe...</p></details>
+   Link:<a href="https://postpressmag.com/articles/2025/luxurious-and-sustainable-diamond-packaging-wows-with-eco-friendly-billie-eilish-perfume-package/" target="_blank" rel="noopener noreferrer nofollow">https://postpressmag.com/articles/2025/luxurious-and-sustainable-diamond-packaging-wows-with-eco-friendly-billie-eilish-perfume-package/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luxurious and Sustainable: Diamond Packaging Wows...Luxurious and Sustainable: Diamond Packaging Wows with Eco-Friendly Billie Eilish Pe...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DME8nneqp75/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DME8nneqp75/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemeinsam mit ihrer Mutter arbeitet Billie Eilish mit ihrem...By the tour&#x27;s end, she had kept 103,620 water bottles out of landfills and...</p></details>
+   Link:<a href="https://www.instagram.com/p/DME8nneqp75/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DME8nneqp75/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gemeinsam mit ihrer Mutter arbeitet Billie Eilish mit ihrem...By the tour&#x27;s end, she had kept 103,620 water bottles out of landfills and...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Billboard/posts/maggie-baird-billie-eilishs-mother-and-founder-of-supportfeed-spoke-at-the-billb/1202111581789418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/maggie-baird-billie-eilishs-mother-and-founder-of-supportfeed-spoke-at-the-billb/1202111581789418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maggie Baird, Billie Eilish&#x27;s mother and founder of Support...Baird highlighted that as more artists adopt eco- friendly merchandise, th...</p></details>
+   Link:<a href="https://www.facebook.com/Billboard/posts/maggie-baird-billie-eilishs-mother-and-founder-of-supportfeed-spoke-at-the-billb/1202111581789418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Billboard/posts/maggie-baird-billie-eilishs-mother-and-founder-of-supportfeed-spoke-at-the-billb/1202111581789418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maggie Baird, Billie Eilish&#x27;s mother and founder of Support...Baird highlighted that as more artists adopt eco- friendly merchandise, th...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
    Title: These capsules  
-   Link: <a href="https://www.facebook.com/billieeilish/posts/to-celebrate-earth-day-billie-has-teamed-up-with-3-rising-businesses-that-are-le/1324165669070033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/billieeilish/posts/to-celebrate-earth-day-billie-has-teamed-up-with-3-rising-businesses-that-are-le/1324165669070033/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To celebrate Earth Day, Billie has teamed up with 3 rising...To celebrate Earth Day, Billie has teamed up with 3 rising businesses that...</p></details>
+   Link:<a href="https://www.facebook.com/billieeilish/posts/to-celebrate-earth-day-billie-has-teamed-up-with-3-rising-businesses-that-are-le/1324165669070033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/billieeilish/posts/to-celebrate-earth-day-billie-has-teamed-up-with-3-rising-businesses-that-are-le/1324165669070033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To celebrate Earth Day, Billie has teamed up with 3 rising...To celebrate Earth Day, Billie has teamed up with 3 rising businesses that...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: How Billie Eilish Is Making Her Tours More Sustainable  
-   Link: <a href="https://www.youtube.com/watch?v=F5g0yW-xH0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F5g0yW-xH0Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Environmental Cost of Music Merchandise...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F5g0yW-xH0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F5g0yW-xH0Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Environmental Cost of Music Merchandise...</p></details>

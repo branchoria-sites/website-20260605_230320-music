@@ -268,14 +268,14 @@ image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_
 
 ## Introduction
 
-The UKs transparency code for music streaming was designed to answer a practical question: can creators be given a clearer view of how streaming money moves through the industry without rewriting copyright law or forcing a new royalty system? The resulting UK Voluntary Code of Good Practice on Transparency in Music Streaming, published by the Intellectual Property Office (IPO) in 2024, is an attempt to improve information rather than directly redistribute income. It asks labels, publishers, distributors, collecting societies and streaming services to provide clearer explanations of contracts, [royalties]({{ 'royalties/' | relative_url }}), usage data and audit [rights]({{ 'rights/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">uk voluntary code of good practice on transparency in music streaming</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...Jan 31, 2024  Music industry voluntary code that is a commitment to standards o...</span></span></span>
+The UKs transparency code for music streaming was designed to answer a practical question: can creators be given a clearer view of how streaming money moves through the industry without rewriting copyright law or forcing a new royalty system? The resulting UK Voluntary Code of Good Practice on Transparency in Music Streaming, published by the Intellectual Property Office (IPO) in 2024, is an attempt to improve information rather than directly redistribute income. It asks labels, publishers, distributors, collecting societies and streaming services to provide clearer explanations of contracts, [royalties]({{ 'royalties/' | relative_url }}), usage data and audit [rights]({{ 'rights/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">uk voluntary code of good practice on transparency in music streaming</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...Jan 31, 2024  Music industry voluntary code that is a commitment to standards o...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-1-dark.svg" | relative_url }}" alt="Transparency illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters. Better information can help musicians, songwriters and producers understand what they are being paid and why. However, the code does not itself increase royalty rates, alter contractual revenue shares, or require companies to reveal every commercially sensitive deal. As a result, it occupies a middle ground between doing nothing and pursuing major legislative reform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">Industry Transparency Code on Music Streaming...Jan 31, 2024  The voluntary code has been developed and agreed by 12 music industry bod...</span></span></span>
+That distinction matters. Better information can help musicians, songwriters and producers understand what they are being paid and why. However, the code does not itself increase royalty rates, alter contractual revenue shares, or require companies to reveal every commercially sensitive deal. As a result, it occupies a middle ground between doing nothing and pursuing major legislative reform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">Industry Transparency Code on Music Streaming...Jan 31, 2024  The voluntary code has been developed and agreed by 12 music industry bod...</span></span></span>
 
 ## Can better royalty information make streaming fairer?
 
-The strongest argument for the transparency code is that many creators have long struggled to understand the route from a stream on a platform to the payment appearing on a royalty statement. Streaming revenue passes through a chain of licences, contracts, distributors, publishers, labels and collecting societies before reaching creators. Even when payments are technically correct, the process can be difficult to follow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+The strongest argument for the transparency code is that many creators have long struggled to understand the route from a stream on a platform to the payment appearing on a royalty statement. Streaming revenue passes through a chain of licences, contracts, distributors, publishers, labels and collecting societies before reaching creators. Even when payments are technically correct, the process can be difficult to follow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
 The code therefore focuses on making information easier to [access]({{ 'access/' | relative_url }}) and understand. It aims to reduce situations in which creators receive statements but cannot determine:
 
@@ -283,15 +283,15 @@ The code therefore focuses on making information easier to [access]({{ 'access/'
 * Which recordings or compositions generated income.
 * Which territories or streaming services were involved.
 * What deductions, commissions or contractual terms affected payment.
-* Whether they have audit rights and how those rights can be exercised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">uk voluntary code of good practice on transparency in music streaming</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...Jan 31, 2024  Music industry voluntary code that is a commitment to standards o...</span></span></span>
+* Whether they have audit rights and how those rights can be exercised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">uk voluntary code of good practice on transparency in music streaming</span><span class="citation-popover-snippet">UK Voluntary Code of Good Practice on Transparency in...Jan 31, 2024  Music industry voluntary code that is a commitment to standards o...</span></span></span>
 
-In theory, greater transparency allows creators to identify errors, question unusual payments and make more informed business decisions. It can also reduce disputes that arise simply because information is missing or presented in an inaccessible way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">Industry Transparency Code on Music Streaming...Jan 31, 2024  The voluntary code has been developed and agreed by 12 music industry bod...</span></span></span>
+In theory, greater transparency allows creators to identify errors, question unusual payments and make more informed business decisions. It can also reduce disputes that arise simply because information is missing or presented in an inaccessible way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">industry transparency code on music streaming announced by government</span><span class="citation-popover-snippet">Industry Transparency Code on Music Streaming...Jan 31, 2024  The voluntary code has been developed and agreed by 12 music industry bod...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IgRoPNQMhhg" title="Every Music Royalty Explained... (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer">Every Music Royalty Explained... (Updated)</a></p><p class="youtube-embed-meta">Channel: Indie Music Academy &middot; Views: 68.2K &middot; Uploaded: November 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IgRoPNQMhhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IgRoPNQMhhg">Open on YouTube</a></p></div></div></div>
 
 ## What creators need to know about payments
 
-A notable feature of the code is that it treats transparency as more than the publication of raw numbers. Signatories committed to improving communication around contracts, royalty accounting and streaming data. The code covers six broad areas: contracting, supply-chain information, royalties, audits, [licensing]({{ 'licensing/' | relative_url }}) arrangements with digital service providers and communication with music makers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+A notable feature of the code is that it treats transparency as more than the publication of raw numbers. Signatories committed to improving communication around contracts, royalty accounting and streaming data. The code covers six broad areas: contracting, supply-chain information, royalties, audits, [licensing]({{ 'licensing/' | relative_url }}) arrangements with digital service providers and communication with music makers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
 For creators, the practical implications include expectations that relevant organisations will provide clearer explanations of:
 
@@ -302,219 +302,219 @@ For creators, the practical implications include expectations that relevant orga
 * The meaning of royalty statement categories and terminology.
 * Available usage information linked to streams.
 * Audit procedures and rights.
-* Points of contact for questions or disputes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+* Points of contact for questions or disputes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
 </div>
 
-Publisher guidance issued after the code's adoption illustrates the intended direction of travel. Songwriters and composers may be able to obtain more detailed information about streams, territories, services and royalty calculations than was previously provided as standard practice. Some publishers already provide reporting broken down by track, platform, payment model and country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-snippet">The Ivors AcademyWhat the streaming transparency code means for...Aug 6, 2024  This new code, which took effect on 31 st July 2024, inc...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
+Publisher guidance issued after the code's adoption illustrates the intended direction of travel. Songwriters and composers may be able to obtain more detailed information about streams, territories, services and royalty calculations than was previously provided as standard practice. Some publishers already provide reporting broken down by track, platform, payment model and country.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-snippet">The Ivors AcademyWhat the streaming transparency code means for...Aug 6, 2024  This new code, which took effect on 31 st July 2024, inc...</span><span class="citation-popover-meta">Published: July 2024</span></span></span>
 
-The goal is not merely more data but more intelligible data. A royalty statement that can be understood without specialist industry knowledge is considered a transparency improvement even if the payment itself remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+The goal is not merely more data but more intelligible data. A royalty statement that can be understood without specialist industry knowledge is considered a transparency improvement even if the payment itself remains unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-2-dark.svg" | relative_url }}" alt="Transparency illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the voluntary code asks industry bodies to provide
 
-The code was negotiated among industry organisations representing creators, labels, publishers, distributors, collecting societies and digital service providers. Rather than imposing a statutory disclosure regime, it establishes minimum standards of good practice that member organisations are expected to follow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+The code was negotiated among industry organisations representing creators, labels, publishers, distributors, collecting societies and digital service providers. Rather than imposing a statutory disclosure regime, it establishes minimum standards of good practice that member organisations are expected to follow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
 Among the areas where greater disclosure is encouraged are:
 
-**Contract transparency.** Creators should have access to clearer explanations of contractual provisions that affect streaming income and rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+**Contract transparency.** Creators should have access to clearer explanations of contractual provisions that affect streaming income and rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
-**Royalty transparency.** Organisations should help creators understand how payments are derived and reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+**Royalty transparency.** Organisations should help creators understand how payments are derived and reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
-**Supply-chain visibility.** The code encourages clearer communication about the different entities involved in administering rights and processing revenue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+**Supply-chain visibility.** The code encourages clearer communication about the different entities involved in administering rights and processing revenue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
-**Audit information.** Creators should be able to understand whether audit rights exist and how they may be exercised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+**Audit information.** Creators should be able to understand whether audit rights exist and how they may be exercised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
-**Communication standards.** Signatories are expected to provide accessible channels for creators seeking clarification about payments or licensing arrangements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+**Communication standards.** Signatories are expected to provide accessible channels for creators seeking clarification about payments or licensing arrangements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
-The IPO oversees implementation and is scheduled to review how the code operates, with formal review mechanisms built into the broader government process around music streaming reform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+The IPO oversees implementation and is scheduled to review how the code operates, with formal review mechanisms built into the broader government process around music streaming reform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-3-dark.svg" | relative_url }}" alt="Transparency illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the code cannot reveal
 
 The transparency code's limits are as important as its ambitions.
 
-First, it does not require all commercial information to be disclosed. The code explicitly attempts to balance transparency with confidentiality, competition concerns and data-protection obligations. Some licensing terms, negotiated rates and commercially sensitive arrangements may therefore remain private. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
+First, it does not require all commercial information to be disclosed. The code explicitly attempts to balance transparency with confidentiality, competition concerns and data-protection obligations. Some licensing terms, negotiated rates and commercially sensitive arrangements may therefore remain private.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
 
-Second, it does not guarantee complete visibility into every deal between labels, publishers and streaming services. Creators may receive more information than before while still lacking access to certain confidential commercial arrangements. The code was designed to improve understanding, not eliminate all information asymmetries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
+Second, it does not guarantee complete visibility into every deal between labels, publishers and streaming services. Creators may receive more information than before while still lacking access to certain confidential commercial arrangements. The code was designed to improve understanding, not eliminate all information asymmetries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
 
-Third, it cannot determine whether an underlying contract is fair. A creator might fully understand how a royalty has been calculated and still conclude that the contractual split is inadequate. Transparency can explain a payment; it cannot automatically justify it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/transparencycode-24" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Featured Artists CoalitionIPO publishes UK Voluntary Code of Practice on...Feb 1, 2024  The working group to discuss remuneration issue...</span></span></span>
+Third, it cannot determine whether an underlying contract is fair. A creator might fully understand how a royalty has been calculated and still conclude that the contractual split is inadequate. Transparency can explain a payment; it cannot automatically justify it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/transparencycode-24" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Featured Artists CoalitionIPO publishes UK Voluntary Code of Practice on...Feb 1, 2024  The working group to discuss remuneration issue...</span></span></span>
 
-Finally, the code is voluntary. It does not create new statutory rights, alter copyright [ownership]({{ 'ownership/' | relative_url }}), or automatically generate legal remedies if a creator believes streaming remuneration is too low. Its influence depends largely on industry compliance, oversight and reputational pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
+Finally, the code is voluntary. It does not create new statutory rights, alter copyright [ownership]({{ 'ownership/' | relative_url }}), or automatically generate legal remedies if a creator believes streaming remuneration is too low. Its influence depends largely on industry compliance, oversight and reputational pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">Passle A Step Towards Fairness?</span><span class="citation-popover-snippet">The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
 
 ## Why information alone does not settle fair-pay disputes
 
 The central criticism of the transparency-first approach is that knowledge and remuneration are not the same thing.
 
-Many campaigners who participated in the UK streaming debate argued that creators' concerns were never solely about understanding statements. They were also about the size of payments, bargaining power in contracts and the distribution of streaming revenues across the industry. A creator may receive perfectly transparent reporting and still earn an amount they consider unsustainable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/transparencycode-24" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Featured Artists CoalitionIPO publishes UK Voluntary Code of Practice on...Feb 1, 2024  The working group to discuss remuneration issue...</span></span></span>
+Many campaigners who participated in the UK streaming debate argued that creators' concerns were never solely about understanding statements. They were also about the size of payments, bargaining power in contracts and the distribution of streaming revenues across the industry. A creator may receive perfectly transparent reporting and still earn an amount they consider unsustainable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thefac.org/news-directory/transparencycode-24" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefac.org">[Featured Artists Coalition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefac.org</span><span class="citation-popover-snippet">Featured Artists CoalitionIPO publishes UK Voluntary Code of Practice on...Feb 1, 2024  The working group to discuss remuneration issue...</span></span></span>
 
-This is why transparency reform and remuneration reform became separate policy tracks. The government supported work on metadata and transparency while also facilitating later discussions on creator remuneration. Subsequent debates over label-led remuneration principles reflected the recognition that clearer reporting alone would not resolve disputes over how streaming income should ultimately be shared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Creator remuneration</span><span class="citation-popover-snippet">UK ParliamentCreator remuneration - Parliament (publications)1 Nov 2024  The government welcomes the Select Committee&#x27;s report on Creato...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Creator Remuneration From Music Streaming Label Led Principles</span><span class="citation-popover-snippet">Remuneration from Music Streaming: Label-ledJul 22, 2025  UK record companies have now agreed to a set of voluntary measures that aim to...</span></span></span> The transparency code therefore addresses a specific problem: lack of information. It does not directly address another, distinct problem: whether creators receive a sufficiently large share of streaming revenue.
+This is why transparency reform and remuneration reform became separate policy tracks. The government supported work on metadata and transparency while also facilitating later discussions on creator remuneration. Subsequent debates over label-led remuneration principles reflected the recognition that clearer reporting alone would not resolve disputes over how streaming income should ultimately be shared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Creator remuneration</span><span class="citation-popover-snippet">UK ParliamentCreator remuneration - Parliament (publications)1 Nov 2024  The government welcomes the Select Committee&#x27;s report on Creato...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Creator Remuneration From Music Streaming Label Led Principles</span><span class="citation-popover-snippet">Remuneration from Music Streaming: Label-ledJul 22, 2025  UK record companies have now agreed to a set of voluntary measures that aim to...</span></span></span> The transparency code therefore addresses a specific problem: lack of information. It does not directly address another, distinct problem: whether creators receive a sufficiently large share of streaming revenue.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/No5cgX734YQ" title="What Is Music Metadata? | Music Biz 101 | Symphonic Distribution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=No5cgX734YQ" target="_blank" rel="noopener noreferrer">What Is Music Metadata? | Music Biz 101 | Symphonic Distribution</a></p><p class="youtube-embed-meta">Channel: Symphonic &middot; Views: 4.9K &middot; Uploaded: July 2021 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=No5cgX734YQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=No5cgX734YQ">Open on YouTube</a></p></div></div></div>
 
 ## The practical value of a limited reform
 
-Viewed narrowly, the transparency code is a modest intervention. It does not rewrite contracts, create new rights or mandate higher royalties. Viewed practically, however, it represents a significant shift in expectations about how information should flow through the streaming economy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+Viewed narrowly, the transparency code is a modest intervention. It does not rewrite contracts, create new rights or mandate higher royalties. Viewed practically, however, it represents a significant shift in expectations about how information should flow through the streaming economy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
-Its success should therefore be measured against the question it was designed to answer. If creators gain clearer royalty statements, better explanations of licensing arrangements, easier access to usage information and stronger understanding of audit rights, the code may improve accountability and trust. If the objective is to resolve arguments over the fairness of streaming income itself, transparency can only provide part of the answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
+Its success should therefore be measured against the question it was designed to answer. If creators gain clearer royalty statements, better explanations of licensing arrangements, easier access to usage information and stronger understanding of audit rights, the code may improve accountability and trust. If the objective is to resolve arguments over the fairness of streaming income itself, transparency can only provide part of the answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government publishing a UK industry code of practi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can better royalty information make streaming fairer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can better royalty information make streaming fairer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Excellent foundation for understanding royalty statements and transparency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent foundation for understanding royalty statements and transparency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Business of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YYwYAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Business of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Business of Music">This Business of Music</a>
-        </h4>
-        <p class="fr-book-author">By M. William Krasilovsky, Sidney Shemel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Business of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YYwYAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Business of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Business of Music">This Business of Music</a>
+</h4>
+<p class="fr-book-author">By M. William Krasilovsky, Sidney Shemel</p>
         
-        <p class="fr-book-desc">Explains contracts, audits and royalty accounting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains contracts, audits and royalty accounting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Business+of+Music+by+M.+William+Krasilovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine+by+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BS43EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mood Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine+by+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Liz Pelly</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine+by+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BS43EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mood Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine+by+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Liz Pelly</p>
         
-        <p class="fr-book-desc">Explores transparency concerns around streaming platforms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine+by+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores transparency concerns around streaming platforms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine+by+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Streaming+Culture+David+Arditi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Streaming Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Streaming+Culture+David+Arditi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Streaming Culture">Streaming Culture</a>
-        </h4>
-        <p class="fr-book-author">By David Arditi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Streaming+Culture+David+Arditi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Streaming Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Streaming+Culture+David+Arditi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Streaming Culture">Streaming Culture</a>
+</h4>
+<p class="fr-book-author">By David Arditi</p>
         
-        <p class="fr-book-desc">First published 2021.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Streaming+Culture+David+Arditi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Streaming+Culture+David+Arditi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Business+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Business of Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mood Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Business+of+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Business of Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mood Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0b1a51e7e4ddaaf2203.jpg' | relative_url }}" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0b1a51e7e4ddaaf2203.jpg' | relative_url }}" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster -book -books" data-ebay-reference="transparency-can-better-royalty-information-make-streaming-fairer-music-music-industry-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ Its success should therefore be measured against the question it was designed to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ Its success should therefore be measured against the question it was designed to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ Its success should therefore be measured against the question it was designed to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ Its success should therefore be measured against the question it was designed to
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ Its success should therefore be measured against the question it was designed to
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,131 +720,131 @@ Its success should therefore be measured against the question it was designed to
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: uk voluntary code of good practice on transparency in music streaming  
-   Link: <a href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of Good Practice on Transparency in...Jan 31, 2024  Music industry voluntary code that is a commitment to standards o...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of Good Practice on Transparency in...Jan 31, 2024  Music industry voluntary code that is a commitment to standards o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: industry transparency code on music streaming announced by government  
-   Link: <a href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Industry Transparency Code on Music Streaming...Jan 31, 2024  The voluntary code has been developed and agreed by 12 music industry bod...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/industry-transparency-code-on-music-streaming-announced-by-government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Industry Transparency Code on Music Streaming...Jan 31, 2024  The voluntary code has been developed and agreed by 12 music industry bod...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Creator remuneration  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentCreator remuneration - Parliament (publications)1 Nov 2024  The government welcomes the Select Committee&#x27;s report on Creato...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmcumeds/293/report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentCreator remuneration - Parliament (publications)1 Nov 2024  The government welcomes the Select Committee&#x27;s report on Creato...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: Creator Remuneration From Music Streaming Label Led Principles  
-   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remuneration from Music Streaming: Label-ledJul 22, 2025  UK record companies have now agreed to a set of voluntary measures that aim to...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remuneration from Music Streaming: Label-ledJul 22, 2025  UK record companies have now agreed to a set of voluntary measures that aim to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentCreator Remuneration from Music Streaming: Label-led...Jul 22, 2025  The final issue addressed was the remuneration of cre...</p></details>
+   Link:<a href="https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-statements/detail/2025-07-22/hlws886</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentCreator Remuneration from Music Streaming: Label-led...Jul 22, 2025  The final issue addressed was the remuneration of cre...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government [publishing](&amp;#123;&amp;#123; &#x27;publishing/&#x27; | relative_url &amp;#125;&amp;#125;) a UK industry code of practi...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment&#x27;s work on music streamingThe transparency work has also concluded, with the government [publishing](&amp;#123;&amp;#123; &#x27;publishing/&#x27; | relative_url &amp;#125;&amp;#125;) a UK industry code of practi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/publications/45510/documents/225356/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/45510/documents/225356/default/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>remuneration: Government ResponseNov 1, 2024  We recommend that the Government revisit the Creator Remuneration. Working Group&#x27;s members...</p></details>
+   Link:<a href="https://committees.parliament.uk/publications/45510/documents/225356/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/45510/documents/225356/default/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>remuneration: Government ResponseNov 1, 2024  We recommend that the Government revisit the Creator Remuneration. Working Group&#x27;s members...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mediawrites.twobirds.com  
    Title: Passle A Step Towards Fairness?  
-   Link: <a href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</p></details>
+   Link:<a href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Voluntary Code of Good...May 14, 2024 ... UK Voluntary Code of Good Practice on Transparency in Music Streaming (the Code) on...</p></details>
    Published: May 14, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ivorsacademy.com  
-   Link: <a href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ivors AcademyWhat the streaming transparency code means for...Aug 6, 2024  This new code, which took effect on 31 st July 2024, inc...</p></details>
+   Link:<a href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ivors AcademyWhat the streaming transparency code means for...Aug 6, 2024  This new code, which took effect on 31 st July 2024, inc...</p></details>
    Published: July 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thefac.org  
-   Link: <a href="https://thefac.org/news-directory/transparencycode-24" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/news-directory/transparencycode-24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Featured Artists CoalitionIPO publishes UK Voluntary Code of Practice on...Feb 1, 2024  The working group to discuss remuneration issue...</p></details>
+   Link:<a href="https://thefac.org/news-directory/transparencycode-24" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/news-directory/transparencycode-24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Featured Artists CoalitionIPO publishes UK Voluntary Code of Practice on...Feb 1, 2024  The working group to discuss remuneration issue...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thefac.org  
    Title: uk voluntary code of good practice  
-   Link: <a href="https://thefac.org/fac-guides-resources-directory/uk-voluntary-code-of-good-practice" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/fac-guides-resources-directory/uk-voluntary-code-of-good-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Code marks a step in the process which was...Read more...</p></details>
+   Link:<a href="https://thefac.org/fac-guides-resources-directory/uk-voluntary-code-of-good-practice" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/fac-guides-resources-directory/uk-voluntary-code-of-good-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Code marks a step in the process which was...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thefac.org  
    Title: code of good practice  
-   Link: <a href="https://thefac.org/news-directory/code-of-good-practice" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/news-directory/code-of-good-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The voluntary UK Code of Good Practice on Transparency...1 Aug 2024  The voluntary UK Code of Good Practice on Transparency in Music St...</p></details>
+   Link:<a href="https://thefac.org/news-directory/code-of-good-practice" target="_blank" rel="noopener noreferrer nofollow">https://thefac.org/news-directory/code-of-good-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The voluntary UK Code of Good Practice on Transparency...1 Aug 2024  The voluntary UK Code of Good Practice on Transparency in Music St...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brightslaw.com  
-   Link: <a href="https://www.brightslaw.com/site/library/legalnews/new_code_aims_boost_music_streaming_licensing_transparency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.brightslaw.com/site/library/legalnews/new_code_aims_boost_music_streaming_licensing_transparency.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Code Aims to Boost Music Streaming Licensing...The Code sets out agreed standards of good practice, to ensure greater levels of trus...</p></details>
+   Link:<a href="https://www.brightslaw.com/site/library/legalnews/new_code_aims_boost_music_streaming_licensing_transparency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.brightslaw.com/site/library/legalnews/new_code_aims_boost_music_streaming_licensing_transparency.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Code Aims to Boost Music Streaming Licensing...The Code sets out agreed standards of good practice, to ensure greater levels of trus...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Transparency Code Announced by...The voluntary Code was developed and agreed by 12 music industry bodies representing mu...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/music-streaming-transparency-code-announced-by-government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Streaming Transparency Code Announced by...The voluntary Code was developed and agreed by 12 music industry bodies representing mu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wiggin.co.uk  
    Title: music streaming transparency uk government announces code of good practice  
-   Link: <a href="https://wiggin.co.uk/insight/music-streaming-transparency-uk-government-announces-code-of-good-practice/" target="_blank" rel="noopener noreferrer nofollow">https://wiggin.co.uk/insight/music-streaming-transparency-uk-government-announces-code-of-good-practice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government announces Code of Good PracticeFeb 8, 2024  On 31 January 2024, the UK Intellectual Property Office (IPO) published the...</p></details>
+   Link:<a href="https://wiggin.co.uk/insight/music-streaming-transparency-uk-government-announces-code-of-good-practice/" target="_blank" rel="noopener noreferrer nofollow">https://wiggin.co.uk/insight/music-streaming-transparency-uk-government-announces-code-of-good-practice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government announces Code of Good PracticeFeb 8, 2024  On 31 January 2024, the UK Intellectual Property Office (IPO) published the...</p></details>
    Published: January 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: omdia.tech.informa.com  
    Title: uk code of practice on transparency in music streaming goes live  
-   Link: <a href="https://omdia.tech.informa.com/om123424/uk-code-of-practice-on-transparency-in-music-streaming-goes-live" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om123424/uk-code-of-practice-on-transparency-in-music-streaming-goes-live</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>code of practice on transparency in music streaming goes...6 Aug 2024  A look at the new code of practice for music streaming in the UK...</p></details>
+   Link:<a href="https://omdia.tech.informa.com/om123424/uk-code-of-practice-on-transparency-in-music-streaming-goes-live" target="_blank" rel="noopener noreferrer nofollow">https://omdia.tech.informa.com/om123424/uk-code-of-practice-on-transparency-in-music-streaming-goes-live</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>code of practice on transparency in music streaming goes...6 Aug 2024  A look at the new code of practice for music streaming in the UK...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eraltd.org  
    Title: statement on the voluntary music streaming transparency code  
-   Link: <a href="https://www.eraltd.org/statement-on-the-voluntary-music-streaming-transparency-code" target="_blank" rel="noopener noreferrer nofollow">https://www.eraltd.org/statement-on-the-voluntary-music-streaming-transparency-code</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on the Voluntary Music Streaming Transparency...31 Jul 2024  Building a transparent relationship between creators and DSPs w...</p></details>
+   Link:<a href="https://www.eraltd.org/statement-on-the-voluntary-music-streaming-transparency-code" target="_blank" rel="noopener noreferrer nofollow">https://www.eraltd.org/statement-on-the-voluntary-music-streaming-transparency-code</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on the Voluntary Music Streaming Transparency...31 Jul 2024  Building a transparent relationship between creators and DSPs w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mpg.org.uk  
    Title: industry transparency code on music streaming announced  
-   Link: <a href="https://mpg.org.uk/news/industry-transparency-code-on-music-streaming-announced/" target="_blank" rel="noopener noreferrer nofollow">https://mpg.org.uk/news/industry-transparency-code-on-music-streaming-announced/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 31, 2024  The MPG as part of The Council Of Music Makers welcomes the Transparency Code that has been agreed by the UK music industr...</p></details>
+   Link:<a href="https://mpg.org.uk/news/industry-transparency-code-on-music-streaming-announced/" target="_blank" rel="noopener noreferrer nofollow">https://mpg.org.uk/news/industry-transparency-code-on-music-streaming-announced/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 31, 2024  The MPG as part of The Council Of Music Makers welcomes the Transparency Code that has been agreed by the UK music industr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mpaonline.org.uk  
-   Link: <a href="https://mpaonline.org.uk/events/drop-in-sessions-voluntary-code/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/events/drop-in-sessions-voluntary-code/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d Practice on Transparency in Music Streaming to help improve transparency around...</p></details>
+   Link:<a href="https://mpaonline.org.uk/events/drop-in-sessions-voluntary-code/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/events/drop-in-sessions-voluntary-code/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d Practice on Transparency in Music Streaming to help improve transparency around...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mpaonline.org.uk  
    Title: new music industry transparency code goes live  
-   Link: <a href="https://mpaonline.org.uk/news/new-music-industry-transparency-code-goes-live/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/news/new-music-industry-transparency-code-goes-live/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishers AssociationNew Music Industry Transparency Code Goes Live31 Jul 2024  This Code strikes an appropriate balance between...</p></details>
+   Link:<a href="https://mpaonline.org.uk/news/new-music-industry-transparency-code-goes-live/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/news/new-music-industry-transparency-code-goes-live/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Publishers AssociationNew Music Industry Transparency Code Goes Live31 Jul 2024  This Code strikes an appropriate balance between...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: umusicpub.com  
    Title: UK Voluntary Code of Good Practice.aspx  
-   Link: <a href="https://www.umusicpub.com/uk/UK-Voluntary-Code-of-Good-Practice.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.umusicpub.com/uk/UK-Voluntary-Code-of-Good-Practice.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of Good Practice on Transparency in...Jul 31, 2024  The Voluntary Code is a framework for minimum standards for good...</p></details>
+   Link:<a href="https://www.umusicpub.com/uk/UK-Voluntary-Code-of-Good-Practice.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.umusicpub.com/uk/UK-Voluntary-Code-of-Good-Practice.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of Good Practice on Transparency in...Jul 31, 2024  The Voluntary Code is a framework for minimum standards for good...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mpaonline.org.uk  
    Title: Drop-in Sessions | Final Session!  
-   Link: <a href="https://mpaonline.org.uk/events/final-drop-in-sessions-uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/events/final-drop-in-sessions-uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of...A Voluntary Code of Good Practice on Transparency in Music Streaming to help improve transparency around licensin...</p></details>
+   Link:<a href="https://mpaonline.org.uk/events/final-drop-in-sessions-uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/events/final-drop-in-sessions-uk-voluntary-code-of-good-practice-on-transparency-in-music-streaming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Voluntary Code of...A Voluntary Code of Good Practice on Transparency in Music Streaming to help improve transparency around licensin...</p></details>

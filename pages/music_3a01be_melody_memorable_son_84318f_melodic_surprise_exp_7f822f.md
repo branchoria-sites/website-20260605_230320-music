@@ -268,12 +268,12 @@ image: /assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_
 
 ## Introduction
 
-Catchy melodies are rarely built from surprise alone. A tune becomes memorable when listeners can quickly learn its pattern and then encounter a small deviation that refreshes [attention]({{ 'attention/' | relative_url }}). In other words, memorable melodies sit between complete predictability and complete novelty. The listener's brain forms expectations about where the tune is heading, and a carefully placed twist makes that expectation meaningful. Research in music cognition consistently shows that prediction is central to how people perceive, enjoy and remember melodies. When a [melody]({{ 'melody/' | relative_url }}) offers a manageable surprise rather than chaos, it becomes easier to recall and more emotionally engaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
+Catchy melodies are rarely built from surprise alone. A tune becomes memorable when listeners can quickly learn its pattern and then encounter a small deviation that refreshes [attention]({{ 'attention/' | relative_url }}). In other words, memorable melodies sit between complete predictability and complete novelty. The listener's brain forms expectations about where the tune is heading, and a carefully placed twist makes that expectation meaningful. Research in music cognition consistently shows that prediction is central to how people perceive, enjoy and remember melodies. When a [melody]({{ 'melody/' | relative_url }}) offers a manageable surprise rather than chaos, it becomes easier to recall and more emotionally engaging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1-dark.svg" | relative_url }}" alt="Surprise illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Listeners Predict Musical Patterns
 
-People do not hear melodies as isolated notes. As a tune unfolds, listeners unconsciously learn its regularities and begin forecasting what might come next. This predictive process happens even without formal musical training. Studies of musical expectation describe prediction as a core mechanism of music perception, with listeners continuously generating expectations about upcoming pitches and melodic directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
+People do not hear melodies as isolated notes. As a tune unfolds, listeners unconsciously learn its regularities and begin forecasting what might come next. This predictive process happens even without formal musical training. Studies of musical expectation describe prediction as a core mechanism of music perception, with listeners continuously generating expectations about upcoming pitches and melodic directions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
 
 A melody establishes expectations through familiar features such as:
 
@@ -286,19 +286,19 @@ A melody establishes expectations through familiar features such as:
 
 </div>
 
-Once these patterns are recognised, the brain can process the melody efficiently. Rather than memorising every note separately, listeners encode a larger structure. This predictive shortcut is one reason melodies can remain recognisable after only a few hearings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
+Once these patterns are recognised, the brain can process the melody efficiently. Rather than memorising every note separately, listeners encode a larger structure. This predictive shortcut is one reason melodies can remain recognisable after only a few hearings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span>
 
-Importantly, prediction is not a side effect of listening. It is part of the pleasure of listening. Research on musical enjoyment suggests that anticipation itself contributes to reward, making expectation a central ingredient of musical experience. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment15</span><span class="citation-popover-snippet">More specifically, we found...Read more...</span></span></span>
+Importantly, prediction is not a side effect of listening. It is part of the pleasure of listening. Research on musical enjoyment suggests that anticipation itself contributes to reward, making expectation a central ingredient of musical experience. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment15</span><span class="citation-popover-snippet">More specifically, we found...Read more...</span></span></span>
 
 ## Why Total Predictability Becomes Forgettable
 
 A perfectly predictable melody may be easy to follow, but it risks becoming invisible. When every note arrives exactly as expected, attention gradually declines because the brain receives little new information.
 
-Psychological research on musical pleasure has repeatedly found evidence for a middle ground. Listeners tend to prefer music with intermediate predictive complexity rather than music that is either extremely predictable or highly unpredictable. This balance creates an environment where learning remains possible while curiosity remains active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
+Psychological research on musical pleasure has repeatedly found evidence for a middle ground. Listeners tend to prefer music with intermediate predictive complexity rather than music that is either extremely predictable or highly unpredictable. This balance creates an environment where learning remains possible while curiosity remains active.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
 
 From a [memory]({{ 'memory/' | relative_url }}) perspective, total predictability creates another problem: nothing stands out. If every phrase behaves exactly like the last one, there are few distinctive moments to anchor recollection. The melody may be pleasant while it is playing, but later it can blur together with countless similar patterns.
 
-This helps explain why many simple nursery tunes and popular melodies include at least one distinctive feature. Familiarity makes the tune easy to absorb, while a small deviation prevents it from disappearing into the [background]({{ 'background/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswise.com">[Newswise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswise.com</span><span class="citation-popover-title">psychologists identify key characteristics of earworms</span><span class="citation-popover-snippet">Nov 1, 2016 — “These musically sticky songs seem to have quite a fast tempo along with a common melodic shape and unusual intervals or re...</span></span></span>
+This helps explain why many simple nursery tunes and popular melodies include at least one distinctive feature. Familiarity makes the tune easy to absorb, while a small deviation prevents it from disappearing into the [background]({{ 'background/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswise.com">[Newswise]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswise.com</span><span class="citation-popover-title">psychologists identify key characteristics of earworms</span><span class="citation-popover-snippet">Nov 1, 2016 — “These musically sticky songs seem to have quite a fast tempo along with a common melodic shape and unusual intervals or re...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-2-dark.svg" | relative_url }}" alt="Surprise illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Small Melodic Surprises Create Landmarks
@@ -307,7 +307,7 @@ The most effective surprises are usually modest rather than dramatic. A melody m
 
 These moments function as mental landmarks. Because listeners have already learned the surrounding pattern, the deviation becomes highly noticeable. The surprise is not memorable despite the established pattern; it is memorable because of it.
 
-Music psychologist David Huron's work on expectation argues that emotional responses to music emerge from the interaction between prediction and outcome. Anticipation creates a framework, and the eventual fulfilment or violation of that expectation generates a meaningful emotional reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</span><span class="citation-popover-meta">Published: April 14, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksSweet Anticipation: Music and the Psychology of ExpectationHuron proposes that emotions evoked by expectation involve five fu...</span></span></span>
+Music psychologist David Huron's work on expectation argues that emotional responses to music emerge from the interaction between prediction and outcome. Anticipation creates a framework, and the eventual fulfilment or violation of that expectation generates a meaningful emotional reaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</span><span class="citation-popover-meta">Published: April 14, 2006</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksSweet Anticipation: Music and the Psychology of ExpectationHuron proposes that emotions evoked by expectation involve five fu...</span></span></span>
 
 A useful way to think about melodic surprise is as a contrast effect:
 
@@ -320,18 +320,18 @@ A useful way to think about melodic surprise is as a contrast effect:
 
 </div>
 
-Because the departure is temporary and understandable, listeners experience novelty without losing their sense of orientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">govmusical groove in brain, body, and social interactions</span><span class="citation-popover-snippet">groove in brain, body, and social interactions - PMCby J Stupacher · 2022 · Cited by 74 — The predictability arises from repetitive rhyth...</span></span></span>
+Because the departure is temporary and understandable, listeners experience novelty without losing their sense of orientation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">govmusical groove in brain, body, and social interactions</span><span class="citation-popover-snippet">groove in brain, body, and social interactions - PMCby J Stupacher · 2022 · Cited by 74 — The predictability arises from repetitive rhyth...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-dark.svg" | relative_url }}" alt="Surprise illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Earworms Show the Formula in Action
 
-Research on [earworms]({{ 'earworms/' | relative_url }})—songs that become stuck in people's minds—offers a particularly clear example of this mechanism. Studies led by Kelly Jakubowski found that earworm melodies often combine common, easy-to-process melodic contours with unusual intervals, repetitions or other distinctive features. The melodies are familiar enough to learn quickly but distinctive enough to resist being forgotten. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
+Research on [earworms]({{ 'earworms/' | relative_url }})—songs that become stuck in people's minds—offers a particularly clear example of this mechanism. Studies led by Kelly Jakubowski found that earworm melodies often combine common, easy-to-process melodic contours with unusual intervals, repetitions or other distinctive features. The melodies are familiar enough to learn quickly but distinctive enough to resist being forgotten.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: durham-repository.worktribe.com">[Durham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">durham-repository.worktribe.com</span><span class="citation-popover-snippet">Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</span></span></span>
 
-Analyses of frequently reported earworm songs reveal the same pattern repeatedly. Their melodic shapes are generally straightforward and accessible, yet they contain small twists that make them recognisable after only a few notes. Researchers describe these songs as balancing familiarity with novelty rather than maximising either one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">new study uncovers songs become earworms</span><span class="citation-popover-snippet">PRS for MusicNew study uncovers why some songs become &#x27;earworms&#x27;4 Nov 2016 — The study then analysed these tracks, finding that earworms...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Why Do Songs Get Stuck in Your Head?</span><span class="citation-popover-snippet">New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</span></span></span> This balance helps explain why some melodies linger in memory for years while technically more complex melodies may not. The memorable tune provides just enough challenge to reward prediction without overwhelming it.
+Analyses of frequently reported earworm songs reveal the same pattern repeatedly. Their melodic shapes are generally straightforward and accessible, yet they contain small twists that make them recognisable after only a few notes. Researchers describe these songs as balancing familiarity with novelty rather than maximising either one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">new study uncovers songs become earworms</span><span class="citation-popover-snippet">PRS for MusicNew study uncovers why some songs become &#x27;earworms&#x27;4 Nov 2016 — The study then analysed these tracks, finding that earworms...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Why Do Songs Get Stuck in Your Head?</span><span class="citation-popover-snippet">New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</span></span></span> This balance helps explain why some melodies linger in memory for years while technically more complex melodies may not. The memorable tune provides just enough challenge to reward prediction without overwhelming it.
 
 ## The Sweet Spot Between Familiar and New
 
-The effectiveness of a melodic surprise depends on context. A note that feels shocking in one melody may feel ordinary in another because listeners evaluate events relative to the pattern they have already learned. Studies of predictability and musical pleasure show that enjoyment often peaks when uncertainty is manageable rather than extreme. Listeners appear to value situations where predictions can be tested, adjusted and occasionally overturned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
+The effectiveness of a melodic surprise depends on context. A note that feels shocking in one melody may feel ordinary in another because listeners evaluate events relative to the pattern they have already learned. Studies of predictability and musical pleasure show that enjoyment often peaks when uncertainty is manageable rather than extreme. Listeners appear to value situations where predictions can be tested, adjusted and occasionally overturned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCContext changes judgments of liking and predictability</span><span class="citation-popover-snippet">by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</span></span></span>
 
 For melody, this creates a powerful recipe for memorability:
 
@@ -344,197 +344,197 @@ For melody, this creates a powerful recipe for memorability:
 
 </div>
 
-A melody without predictability offers no foundation for expectation. A melody without surprise offers no reason to remember specific moments. The tunes that stay with listeners tend to succeed because they combine both, turning a simple sequence of notes into a pattern that the mind actively tracks, anticipates and revisits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span>
+A melody without predictability offers no foundation for expectation. A melody without surprise offers no reason to remember specific moments. The tunes that stay with listeners tend to succeed because they combine both, turning a simple sequence of notes into a pattern that the mind actively tracks, anticipates and revisits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Predictive information processing in music cognition</span><span class="citation-popover-snippet">MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPredictability and Uncertainty in the Pleasure of Music</span><span class="citation-popover-snippet">by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Catchy Melodies Need a Twist. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Catchy Melodies Need a Twist. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains why certain musical twists feel rewarding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why certain musical twists feel rewarding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/150033-M.jpg" alt="Cover for Sweet anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet anticipation">Sweet anticipation</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/150033-M.jpg" alt="Cover for Sweet anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet anticipation">Sweet anticipation</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses prediction and surprise in melody.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses prediction and surprise in melody.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Provides examples of how brains respond to musical events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of how brains respond to musical events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The psychology of music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The psychology of music">The psychology of music</a>
-        </h4>
-        <p class="fr-book-author">By Diana Deutsch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The psychology of music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The psychology of music">The psychology of music</a>
+</h4>
+<p class="fr-book-author">By Diana Deutsch</p>
         
-        <p class="fr-book-desc">Discusses perception, expectation, and melodic processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses perception, expectation, and melodic processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+psychology+of+music+by+Diana+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sweet anticipation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sweet+anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sweet anticipation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriting Guide Piano Chord Score Beginner Chart Poster Learning"><img src="{{ '/assets/images/marketplace-covers/e0fb21d24393969d794f.jpg' | relative_url }}" alt="Listing image for Songwriting Guide Piano Chord Score Beginner Chart Poster Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Songwriting Guide Piano Chord Score Beginner Chart Poster Learning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriting Guide Piano Chord Score Beginner Chart Poster Learning"><img src="{{ '/assets/images/marketplace-covers/e0fb21d24393969d794f.jpg' | relative_url }}" alt="Listing image for Songwriting Guide Piano Chord Score Beginner Chart Poster Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Songwriting Guide Piano Chord Score Beginner Chart Poster Learning</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chart Keyboards Songwriting Guide Piano Poster Notes Chord Label"><img src="{{ '/assets/images/marketplace-covers/e567de04000fcc62f0f9.jpg' | relative_url }}" alt="Listing image for Chart Keyboards Songwriting Guide Piano Poster Notes Chord Label" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Chart Keyboards Songwriting Guide Piano Poster Notes Chord Label</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chart Keyboards Songwriting Guide Piano Poster Notes Chord Label"><img src="{{ '/assets/images/marketplace-covers/e567de04000fcc62f0f9.jpg' | relative_url }}" alt="Listing image for Chart Keyboards Songwriting Guide Piano Poster Notes Chord Label" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Chart Keyboards Songwriting Guide Piano Poster Notes Chord Label</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriting Guide Piano Chord Score Beginner Poster Chords Chart"><img src="{{ '/assets/images/marketplace-covers/c4d71e22d68c9110c6a6.jpg' | relative_url }}" alt="Listing image for Songwriting Guide Piano Chord Score Beginner Poster Chords Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Songwriting Guide Piano Chord Score Beginner Poster Chords Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriting Guide Piano Chord Score Beginner Poster Chords Chart"><img src="{{ '/assets/images/marketplace-covers/c4d71e22d68c9110c6a6.jpg' | relative_url }}" alt="Listing image for Songwriting Guide Piano Chord Score Beginner Poster Chords Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Songwriting Guide Piano Chord Score Beginner Poster Chords Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriting Mystic Board Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c051d5434fdc4fd9dfc2.jpg' | relative_url }}" alt="Listing image for Songwriting Mystic Board Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Songwriting Mystic Board Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Songwriting Mystic Board Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c051d5434fdc4fd9dfc2.jpg' | relative_url }}" alt="Listing image for Songwriting Mystic Board Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Songwriting Mystic Board Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriting poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriting poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriting poster -book -books" data-ebay-reference="surprise-why-catchy-melodies-need-a-twist-music-songwriting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ A melody without predictability offers no foundation for expectation. A melody w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ A melody without predictability offers no foundation for expectation. A melody w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ A melody without predictability offers no foundation for expectation. A melody w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ A melody without predictability offers no foundation for expectation. A melody w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ A melody without predictability offers no foundation for expectation. A melody w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,157 +740,157 @@ A melody without predictability offers no foundation for expectation. A melody w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Predictive information processing in music cognition  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167876011003898</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal hierarchies in the predictive processing of melodyby K Basiński · 2023 · Cited by 9 — In this article, we review em...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0149763422004961</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal hierarchies in the predictive processing of melodyby K Basiński · 2023 · Cited by 9 — In this article, we review em...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCContext changes judgments of liking and predictability  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10684779/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AW Albury · 2023 · Cited by 1 — Predictability plays an important role in the experience of musical pleasure. By leveraging expecta...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment15  
-   Link: <a href="https://www.cambridge.org/core/books/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/[culture</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically, we found...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/[culture" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/[culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More specifically, we found...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksSweet Anticipation: Music and the Psychology of ExpectationHuron proposes that emotions evoked by expectation involve five fu...</p></details>
+   Link:<a href="https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Sweet_Anticipation.html?id=uyI_Cb8olkMC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksSweet Anticipation: Music and the Psychology of ExpectationHuron proposes that emotions evoked by expectation involve five fu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPredictability and Uncertainty in the Pleasure of Music  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6867811/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by BP Gold · 2019 · Cited by 266 — We present evidence that listeners consistently prefer music of intermediate predictive complexity...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newswise.com  
    Title: psychologists identify key characteristics of earworms  
-   Link: <a href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 1, 2016 — “These musically sticky songs seem to have quite a fast tempo along with a common melodic shape and unusual intervals or re...</p></details>
+   Link:<a href="https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/psychologists-identify-key-characteristics-of-earworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 1, 2016 — “These musically sticky songs seem to have quite a fast tempo along with a common melodic shape and unusual intervals or re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pitchfork.com  
    Title: Why Do Songs Get Stuck in Your Head?  
-   Link: <a href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</p></details>
+   Link:<a href="https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/69531-why-do-songs-get-stuck-in-your-head-new-study-has-the-answer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Study Has the AnswerA study published in the American Psychological Association&#x27;s journal investigated the nature of &quot;involuntary mus...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/209436188_Sweet_Anticipation_Music_and_the_Psychology_of_Expectation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sweet Anticipation: Music and the Psychology of ExpectationApril 14, 2006 — Sweet anticipation: music and the psychology of...</p></details>
    Published: April 14, 2006  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f Aesthetics, Creativity, and the Arts, 11(2)...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-imagination/musical-imagery/CC793122ECEB3D622D21266DDC77DC84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f Aesthetics, Creativity, and the Arts, 11(2)...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expectation is crucial for our enjoyment of music, yet the underlying...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376611132_Cognitive_and_sensory_expectations_independently_shape_musical_expectancy_and_pleasure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expectation is crucial for our enjoyment of music, yet the underlying...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMelodic Features and Song Popularity Predict Involuntary...by K Jakubowski · Cited by 137 — Involuntar...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: durham-repository.worktribe.com  
-   Link: <a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</p></details>
+   Link:<a href="https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/1371466/dissecting-an-earworm-melodic-features-and-song-popularity-predict-involuntary-musical-imagery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Durham RepositoryDissecting an earworm: Melodic features and song popularity...by K Jakubowski · 2016 · Cited by 137 — The present study...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: prsformusic.com  
    Title: new study uncovers songs become earworms  
-   Link: <a href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicNew study uncovers why some songs become &#x27;earworms&#x27;4 Nov 2016 — The study then analysed these tracks, finding that earworms...</p></details>
+   Link:<a href="https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/m-magazine/news/new-study-uncovers-songs-become-earworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicNew study uncovers why some songs become &#x27;earworms&#x27;4 Nov 2016 — The study then analysed these tracks, finding that earworms...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Earworm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earworm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earworma catchy or memorable piece of music or saying that continuously occupies a person&#x27;s mind even after it is no longer being play...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Earworm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earworm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earworma catchy or memorable piece of music or saying that continuously occupies a person&#x27;s mind even after it is no longer being play...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perception - Oxford AcademicAbstract. Music perception covers all aspects of psychological and neural processing invoked while listening...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550973901?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perception - Oxford AcademicAbstract. Music perception covers all aspects of psychological and neural processing invoked while listening...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Perception and Sensorimotor IntegrationMusic perception and sensorimotor integration encompass the processes by which the brain dec...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/music-perception-and-sensorimotor-integration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Perception and Sensorimotor IntegrationMusic perception and sensorimotor integration encompass the processes by which the brain dec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: musicscience.net  
-   Link: <a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday terms as hav...</p></details>
+   Link:<a href="https://musicscience.net/research/music-memory/earworms/" target="_blank" rel="noopener noreferrer nofollow">https://musicscience.net/research/music-memory/earworms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music &amp; ScienceAn earworm is the spontaneous mental recall and repetition of a piece of music, often referred to in everyday terms as hav...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: posgrado.unam.mx  
-   Link: <a href="https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PERCEPTION AND COGNITIONby TC Justus · Cited by 101 — Music perception and cognition is the area of cognitive psychology devoted to deter...</p></details>
+   Link:<a href="https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://posgrado.unam.mx/musica/lecturas/cognicion/obligatorias/MUSIC%20PERCEPTION%20AND%20COGNITION_Justus_Bharucha_2002%5B1%5D.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PERCEPTION AND COGNITIONby TC Justus · Cited by 101 — Music perception and cognition is the area of cognitive psychology devoted to deter...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He shows how music creates expectations of pattern, from simple [rhythm](&amp;#123;&amp;#123; &#x27;rhythm/&#x27; | relative_url &amp;#125;&amp;#125;) up to very complex patterns (the concerto...Read more...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Sweet-Anticipation-Psychology-Expectation-Bradford/dp/0262582783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He shows how music creates expectations of pattern, from simple [rhythm](&amp;#123;&amp;#123; &#x27;rhythm/&#x27; | relative_url &amp;#125;&amp;#125;) up to very complex patterns (the concerto...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Predictive information processing in music cognition  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22245599/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22245599/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22245599/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22245599/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govmusical groove in brain, body, and social interactions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>groove in brain, body, and social interactions - PMCby J Stupacher · 2022 · Cited by 74 — The predictability arises from repetitive rhyth...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>groove in brain, body, and social interactions - PMCby J Stupacher · 2022 · Cited by 74 — The predictability arises from repetitive rhyth...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: soundsofintent.org  
    Title: Output 55 Review of Sweet Anticipation, Psychology of Music, 2008  
-   Link: <a href="https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review articleHURON, Sweet Anticipation: Music and the Psychology of Expectation. Cambridge, MA: The MIT Press (A Bradford Book), 2006. 4...</p></details>
+   Link:<a href="https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://soundsofintent.org/outputs/Output%2055%20-%20Review%20of%20Sweet%20Anticipation%2C%20Psychology%20of%20Music%2C%202008.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review articleHURON, Sweet Anticipation: Music and the Psychology of Expectation. Cambridge, MA: The MIT Press (A Bradford Book), 2006. 4...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pure.au.dk  
    Title: dissecting an earworm melodic features and song popularity predic  
-   Link: <a href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — Involuntary musical imagery (INMI or &quot;earworm...</p></details>
+   Link:<a href="https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/dissecting-an-earworm-melodic-features-and-song-popularity-predic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>features and song popularity predict involuntary...by K Jakubowski · 2017 · Cited by 137 — Involuntary musical imagery (INMI or &quot;earworm...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: musicianscience.org  
-   Link: <a href="https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a “common global [contour](&amp;#123;&amp;#123; &#x27;contour/&#x27; | relative_url &amp;#125;&amp;#125;)”, meaning the overall...Read more...</p></details>
+   Link:<a href="https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicianscience.org/index.php/what-makes-an-earworm-sticky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a “common global [contour](&amp;#123;&amp;#123; &#x27;contour/&#x27; | relative_url &amp;#125;&amp;#125;)”, meaning the overall...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: marcus-pearce.com  
-   Link: <a href="https://www.marcus-pearce.com/assets/papers/huron06-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus-pearce.com/assets/papers/huron06-review.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s to introduce psychologically-based insights about music to musicians and musicologists.Read more...</p></details>
+   Link:<a href="https://www.marcus-pearce.com/assets/papers/huron06-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus-pearce.com/assets/papers/huron06-review.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s to introduce psychologically-based insights about music to musicians and musicologists.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sites.evergreen.edu  
-   Link: <a href="https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What gives anticipation or surprise their distinctive phenomenological. Page...Read more...</p></details>
+   Link:<a href="https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.evergreen.edu/natureofmusic/wp-content/uploads/sites/105/2015/09/Sweet-Anticipationpdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What gives anticipation or surprise their distinctive phenomenological. Page...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: stefan-koelsch.de  
    Title: Predictive information processing in music cognition  
-   Link: <a href="https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>
+   Link:<a href="https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stefan-koelsch.de/papers/Rohrmeier_2012_music_prediction.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MA Rohrmeier · 2012 · Cited by 282 — Expectation and prediction constitute central mechanisms in the perception and cognition of...</p></details>

@@ -268,14 +268,14 @@ image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stre
 
 ## Introduction
 
-Spotifys 1,000-stream rule has become one of the most contentious creator-pay policies in modern music streaming because it changes who can earn [recording]({{ 'recording/' | relative_url }}) [royalties]({{ 'royalties/' | relative_url }}) from the platform at all. Since April 2024, a track must achieve at least 1,000 streams within the previous 12 months before it is included in Spotifys recorded-music royalty calculations. Tracks below that threshold still remain available on the service, but they no longer generate recorded royalties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">track monetization eligibility</span><span class="citation-popover-snippet">Track monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+Spotifys 1,000-stream rule has become one of the most contentious creator-pay policies in modern music streaming because it changes who can earn [recording]({{ 'recording/' | relative_url }}) [royalties]({{ 'royalties/' | relative_url }}) from the platform at all. Since April 2024, a track must achieve at least 1,000 streams within the previous 12 months before it is included in Spotifys recorded-music royalty calculations. Tracks below that threshold still remain available on the service, but they no longer generate recorded royalties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-title">track monetization eligibility</span><span class="citation-popover-snippet">Track monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-1-dark.svg" | relative_url }}" alt="1 000 Streams illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For large catalogues and established artists, the change is often barely noticeable. For emerging musicians, niche genres, experimental projects and local scenes, however, the rule has become a symbol of a larger question: should every listen have monetary value, or is there a practical point below which tracks no longer count economically? That dispute sits at the heart of the wider debate over [creator pay]({{ 'creator-pay/' | relative_url }}) in streaming.
 
 ## Who Loses When Streams Fall Below the Line?
 
-The policy is simple in principle. Spotify now excludes tracks that fail to reach 1,000 streams in a rolling 12-month period from the recorded royalty pool. Spotify argues that these tracks represent only a tiny share of total listening and royalty spending, while generating extremely small payments that often never reach artists because distributors have their own payout minimums. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+The policy is simple in principle. Spotify now excludes tracks that fail to reach 1,000 streams in a rolling 12-month period from the recorded royalty pool. Spotify argues that these tracks represent only a tiny share of total listening and royalty spending, while generating extremely small payments that often never reach artists because distributors have their own payout minimums. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 The practical effect falls most heavily on:
 
@@ -283,9 +283,9 @@ The practical effect falls most heavily on:
 * Independent musicians releasing niche or local-language music.
 * Experimental, ambient and archival projects.
 * Older [catalogue]({{ 'catalogue/' | relative_url }}) tracks with small but persistent audiences.
-* Artists who release many tracks rather than concentrating listeners on a few songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotifys 1000 stream threshold criticised southeast european indie labels</span><span class="citation-popover-snippet">Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</span><span class="citation-popover-meta">Published: December 27, 2025</span></span></span>
+* Artists who release many tracks rather than concentrating listeners on a few songs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotifys 1000 stream threshold criticised southeast european indie labels</span><span class="citation-popover-snippet">Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</span><span class="citation-popover-meta">Published: December 27, 2025</span></span></span>
 
-The threshold does not remove music from Spotify. A track with 999 streams can still be discovered, shared and played. The difference is that its streams no longer contribute to recorded royalty earnings until it crosses the eligibility line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+The threshold does not remove music from Spotify. A track with 999 streams can still be discovered, shared and played. The difference is that its streams no longer contribute to recorded royalty earnings until it crosses the eligibility line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
 This is why the issue became politically significant despite the small sums involved per track. The debate is less about a few dollars from one song and more about whether a platform should declare some streams economically irrelevant.
 
@@ -293,11 +293,11 @@ This is why the issue became politically significant despite the small sums invo
 
 ## How the Threshold Works
 
-Spotify introduced the rule as part of a broader overhaul of its royalty system. According to the company, tracks must receive at least 1,000 streams in the previous year and satisfy additional listener-based integrity requirements before they become royalty-eligible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">modernizing our royalty system</span><span class="citation-popover-snippet">Spotify for ArtistsModernizing Our Royalty System to Drive an Additional $1...20 Nov 2023  Starting in early 2024, tracks must have rea...</span></span></span>
+Spotify introduced the rule as part of a broader overhaul of its royalty system. According to the company, tracks must receive at least 1,000 streams in the previous year and satisfy additional listener-based integrity requirements before they become royalty-eligible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">modernizing our royalty system</span><span class="citation-popover-snippet">Spotify for ArtistsModernizing Our Royalty System to Drive an Additional $1...20 Nov 2023  Starting in early 2024, tracks must have rea...</span></span></span>
 
-The companys own explanation focuses on the economics of micro-payments. Spotify notes that 1,000 annual streams typically generate only a few dollars in royalties and argues that these amounts are frequently trapped below distributor payout thresholds anyway. Instead of spreading money across millions of tiny payments, Spotify reallocates those funds across tracks that clear the threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+The companys own explanation focuses on the economics of micro-payments. Spotify notes that 1,000 annual streams typically generate only a few dollars in royalties and argues that these amounts are frequently trapped below distributor payout thresholds anyway. Instead of spreading money across millions of tiny payments, Spotify reallocates those funds across tracks that clear the threshold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
-Spotify estimated that the change would redirect roughly $40 million per year that previously would have been assigned to sub-threshold tracks. The overall royalty pool does not shrink; the money is redistributed among eligible recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">confirmed next year tracks on spotify 1000 plays</span><span class="citation-popover-snippet">Music Business WorldwideConfirmed: From 2024, tracks on Spotify will have to be...5 Nov 2023  In 2024, Spotify expects this will move $...</span></span></span>
+Spotify estimated that the change would redirect roughly $40 million per year that previously would have been assigned to sub-threshold tracks. The overall royalty pool does not shrink; the money is redistributed among eligible recordings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">confirmed next year tracks on spotify 1000 plays</span><span class="citation-popover-snippet">Music Business WorldwideConfirmed: From 2024, tracks on Spotify will have to be...5 Nov 2023  In 2024, Spotify expects this will move $...</span></span></span>
 
 That distinction is important. The policy is not a reduction in Spotifys total payout. It is a redistribution mechanism that creates winners and losers within the existing pool.
 
@@ -305,11 +305,11 @@ That distinction is important. The policy is not a reduction in Spotifys total p
 
 Spotifys defence rests on efficiency and platform integrity.
 
-The company argues that millions of tracks generate only negligible royalty amounts and that processing extremely small payments creates administrative complexity while delivering little practical benefit to artists. Spotify has stated that the goal is to concentrate royalty value where it can become meaningful rather than dispersing it into payments measured in cents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+The company argues that millions of tracks generate only negligible royalty amounts and that processing extremely small payments creates administrative complexity while delivering little practical benefit to artists. Spotify has stated that the goal is to concentrate royalty value where it can become meaningful rather than dispersing it into payments measured in cents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
-The threshold was also introduced alongside measures aimed at artificial streaming and other forms of manipulation. Spotify maintains that tightening royalty eligibility helps reduce incentives for low-value uploads and abuse of the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
+The threshold was also introduced alongside measures aimed at artificial streaming and other forms of manipulation. Spotify maintains that tightening royalty eligibility helps reduce incentives for low-value uploads and abuse of the system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">royalties guide</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</span><span class="citation-popover-meta">Published: April 2024</span></span></span>
 
-Supporters of the policy frequently point to another statistic: the overwhelming majority of actual listening occurs on tracks that already exceed the threshold. Spotify has said that about 99.5% of streams come from tracks that surpass 1,000 annual plays. From this perspective, the rule affects many tracks but only a tiny fraction of listening activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalmusicnews.com">[Digital Music News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalmusicnews.com</span><span class="citation-popover-title">spotify royalty limit for streams</span><span class="citation-popover-snippet">Digital Music NewsSpotify&#x27;s 1000 Streams Royalty Limit Now In Effect3 Apr 2024  Spotify&#x27;s announced changes to its royalty system are no...</span></span></span>
+Supporters of the policy frequently point to another statistic: the overwhelming majority of actual listening occurs on tracks that already exceed the threshold. Spotify has said that about 99.5% of streams come from tracks that surpass 1,000 annual plays. From this perspective, the rule affects many tracks but only a tiny fraction of listening activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalmusicnews.com">[Digital Music News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalmusicnews.com</span><span class="citation-popover-title">spotify royalty limit for streams</span><span class="citation-popover-snippet">Digital Music NewsSpotify&#x27;s 1000 Streams Royalty Limit Now In Effect3 Apr 2024  Spotify&#x27;s announced changes to its royalty system are no...</span></span></span>
 
 The platform therefore frames the change as a practical adjustment rather than a fundamental change in artist compensation.
 
@@ -318,13 +318,13 @@ The platform therefore frames the change as a practical adjustment rather than a
 
 Critics accept that individual payments below the threshold are small, but argue that the principle matters.
 
-One objection is that the policy effectively establishes a class of tracks whose audience engagement has no direct monetary value. Even if a song attracts hundreds of genuine listeners, those streams no longer contribute to recording royalties unless the track crosses Spotifys chosen benchmark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</span></span></span>
+One objection is that the policy effectively establishes a class of tracks whose audience engagement has no direct monetary value. Even if a song attracts hundreds of genuine listeners, those streams no longer contribute to recording royalties unless the track crosses Spotifys chosen benchmark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</span></span></span>
 
-Independent artist advocates also argue that the rule disproportionately affects musicians at the earliest stage of audience development. Established acts generally clear 1,000 streams quickly. Emerging artists often spend years building toward that level. A policy that redistributes money away from the smallest creators therefore tends to reward those who already possess greater visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The new model will require songs to reach a minimum number of annual streams to generate royalties, redistributing money to more popular...</span></span></span>
+Independent artist advocates also argue that the rule disproportionately affects musicians at the earliest stage of audience development. Established acts generally clear 1,000 streams quickly. Emerging artists often spend years building toward that level. A policy that redistributes money away from the smallest creators therefore tends to reward those who already possess greater visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The new model will require songs to reach a minimum number of annual streams to generate royalties, redistributing money to more popular...</span></span></span>
 
-The criticism becomes sharper when viewed across large catalogues. A small artist may have dozens of tracks, each attracting a few hundred listeners. Individually, none qualifies. Collectively, however, those listeners may represent a meaningful fan base. Critics argue that the threshold ignores that cumulative reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotifys 1000 stream threshold criticised southeast european indie labels</span><span class="citation-popover-snippet">Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</span><span class="citation-popover-meta">Published: December 27, 2025</span></span></span>
+The criticism becomes sharper when viewed across large catalogues. A small artist may have dozens of tracks, each attracting a few hundred listeners. Individually, none qualifies. Collectively, however, those listeners may represent a meaningful fan base. Critics argue that the threshold ignores that cumulative reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotifys 1000 stream threshold criticised southeast european indie labels</span><span class="citation-popover-snippet">Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</span><span class="citation-popover-meta">Published: December 27, 2025</span></span></span>
 
-Some independent-label organisations have reported significant concern among smaller [rights]({{ 'rights/' | relative_url }}) holders, particularly in regional and niche markets where audience sizes are naturally lower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotifys 1000 stream threshold criticised southeast european indie labels</span><span class="citation-popover-snippet">Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</span><span class="citation-popover-meta">Published: December 27, 2025</span></span></span>
+Some independent-label organisations have reported significant concern among smaller [rights]({{ 'rights/' | relative_url }}) holders, particularly in regional and niche markets where audience sizes are naturally lower.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">spotifys 1000 stream threshold criticised southeast european indie labels</span><span class="citation-popover-snippet">Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</span><span class="citation-popover-meta">Published: December 27, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QS7WZm38Sjc" title="Spotify Will STOP Paying Royalties on 67% of Tracks in 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QS7WZm38Sjc" target="_blank" rel="noopener noreferrer">Spotify Will STOP Paying Royalties on 67% of Tracks in 2024</a></p><p class="youtube-embed-meta">Channel: Andrew Southworth &middot; Views: 7.1K &middot; Uploaded: November 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QS7WZm38Sjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QS7WZm38Sjc">Open on YouTube</a></p></div></div></div>
 
@@ -332,200 +332,200 @@ Some independent-label organisations have reported significant concern among sma
 
 The most visible argument concerns how much money small artists actually lost.
 
-Spotify originally estimated that roughly $40 million annually would be redirected from tracks below the threshold to tracks above it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">confirmed next year tracks on spotify 1000 plays</span><span class="citation-popover-snippet">Music Business WorldwideConfirmed: From 2024, tracks on Spotify will have to be...5 Nov 2023  In 2024, Spotify expects this will move $...</span></span></span>
+Spotify originally estimated that roughly $40 million annually would be redirected from tracks below the threshold to tracks above it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">confirmed next year tracks on spotify 1000 plays</span><span class="citation-popover-snippet">Music Business WorldwideConfirmed: From 2024, tracks on Spotify will have to be...5 Nov 2023  In 2024, Spotify expects this will move $...</span></span></span>
 
-Subsequent analyses from critics of the policy have suggested that the amount withheld from sub-threshold recordings during 2024 may have approached $47 million in recording royalties, with the overwhelming majority of the impact falling on emerging and independent artists. These estimates are disputed and depend on assumptions about royalty calculations, but they have become a rallying point for opponents of the rule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypebot.com">[Hypebot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypebot.com</span><span class="citation-popover-title">did the spotify 1000 stream rule cost indie artists 47 million spotify responds</span><span class="citation-popover-snippet">Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025  That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalmusicnews.com">[Digital Music News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalmusicnews.com</span><span class="citation-popover-title">spotify royalty limit for streams</span><span class="citation-popover-snippet">Digital Music NewsSpotify&#x27;s 1000 Streams Royalty Limit Now In Effect3 Apr 2024  Spotify&#x27;s announced changes to its royalty system are no...</span></span></span>
+Subsequent analyses from critics of the policy have suggested that the amount withheld from sub-threshold recordings during 2024 may have approached $47 million in recording royalties, with the overwhelming majority of the impact falling on emerging and independent artists. These estimates are disputed and depend on assumptions about royalty calculations, but they have become a rallying point for opponents of the rule.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypebot.com">[Hypebot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypebot.com</span><span class="citation-popover-title">did the spotify 1000 stream rule cost indie artists 47 million spotify responds</span><span class="citation-popover-snippet">Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025  That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalmusicnews.com">[Digital Music News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalmusicnews.com</span><span class="citation-popover-title">spotify royalty limit for streams</span><span class="citation-popover-snippet">Digital Music NewsSpotify&#x27;s 1000 Streams Royalty Limit Now In Effect3 Apr 2024  Spotify&#x27;s announced changes to its royalty system are no...</span></span></span>
 
 The disagreement reveals the deeper philosophical divide.
 
-Supporters see tens of millions of dollars being moved from economically insignificant payments into larger, more useful royalties for active artists. Critics see tens of millions being taken from the smallest creators and transferred upward to already successful acts. Spotify for Artists <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypebot.com">[hypebot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypebot.com</span><span class="citation-popover-title">did the spotify 1000 stream rule cost indie artists 47 million spotify responds</span><span class="citation-popover-snippet">Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025  That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</span></span></span> Both descriptions refer to the same redistribution.
+Supporters see tens of millions of dollars being moved from economically insignificant payments into larger, more useful royalties for active artists. Critics see tens of millions being taken from the smallest creators and transferred upward to already successful acts. Spotify for Artists<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypebot.com">[hypebot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypebot.com</span><span class="citation-popover-title">did the spotify 1000 stream rule cost indie artists 47 million spotify responds</span><span class="citation-popover-snippet">Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025  That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</span></span></span> Both descriptions refer to the same redistribution.
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-3-dark.svg" | relative_url }}" alt="1 000 Streams illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Rule Became a Symbol Beyond Its Dollar Value
 
 The 1,000-stream threshold matters because it touches a sensitive question in streaming economics: what counts as participation?
 
-A musician whose track receives 500 genuine streams has clearly found listeners. Under the previous approach, those listens generated at least some royalty value, however small. Under the new system, they generate audience data and exposure but no recorded royalty income. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsArtificial StreamingSpotify&#x27;s policy is that when we detect any artificial streams, the following penalties are applie...</span></span></span>
+A musician whose track receives 500 genuine streams has clearly found listeners. Under the previous approach, those listens generated at least some royalty value, however small. Under the new system, they generate audience data and exposure but no recorded royalty income.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsArtificial StreamingSpotify&#x27;s policy is that when we detect any artificial streams, the following penalties are applie...</span></span></span>
 
 That is why the controversy has endured. The financial impact on any individual track may be tiny, but the symbolic impact is larger. The policy draws an explicit line between music that qualifies for economic participation and music that does not. For supporters, that line improves efficiency and reduces waste. For opponents, it undermines the idea that every legitimate stream should carry value.
 
-Within the broader creator-pay debate, the 1,000-stream rule therefore functions as a flashpoint. It turns a question about pennies into a question about fairness, visibility and whether streaming platforms should reward all creators equally or prioritise those who have already achieved scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-title">rethinking royalties spotifys new streaming threshold</span><span class="citation-popover-snippet">Rethinking Royalties: Spotify&#x27;s New Streaming Threshold24 Nov 2023  Of the proposed regulations, our focus today narrows down on o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</span></span></span>
+Within the broader creator-pay debate, the 1,000-stream rule therefore functions as a flashpoint. It turns a question about pennies into a question about fairness, visibility and whether streaming platforms should reward all creators equally or prioritise those who have already achieved scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: create.ac.uk">[CREATe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">create.ac.uk</span><span class="citation-popover-title">rethinking royalties spotifys new streaming threshold</span><span class="citation-popover-snippet">Rethinking Royalties: Spotify&#x27;s New Streaming Threshold24 Nov 2023  Of the proposed regulations, our focus today narrows down on o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</span></span></span>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mSaD46nSVaI" title="Spotify Royalty Changes 2024 - CONFIRMED " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mSaD46nSVaI" target="_blank" rel="noopener noreferrer">Spotify Royalty Changes 2024 - CONFIRMED </a></p><p class="youtube-embed-meta">Channel: John Gold &middot; Views: 5.3K &middot; Uploaded: November 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mSaD46nSVaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mSaD46nSVaI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mSaD46nSVaI" title="Spotify Royalty Changes 2024 - CONFIRMED " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mSaD46nSVaI" target="_blank" rel="noopener noreferrer">Spotify Royalty Changes 2024 - CONFIRMED</a></p><p class="youtube-embed-meta">Channel: John Gold &middot; Views: 5.3K &middot; Uploaded: November 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mSaD46nSVaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mSaD46nSVaI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Loses When Streams Fall Below the Line?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Loses When Streams Fall Below the Line?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Provides the broader framework for understanding who gets paid and why platform policy changes matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader framework for understanding who gets paid and why platform policy changes matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Work+Hard+Playlist+Hard+Mike+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Work Hard Playlist Hard on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Work+Hard+Playlist+Hard+Mike+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Work Hard Playlist Hard">Work Hard Playlist Hard</a>
-        </h4>
-        <p class="fr-book-author">By Mike Warner, Spectator Jonze</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Work+Hard+Playlist+Hard+Mike+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Work Hard Playlist Hard on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Work+Hard+Playlist+Hard+Mike+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Work Hard Playlist Hard">Work Hard Playlist Hard</a>
+</h4>
+<p class="fr-book-author">By Mike Warner, Spectator Jonze</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Music, Reference books.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Work+Hard+Playlist+Hard+Mike+Warner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Music, Reference books.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Work+Hard+Playlist+Hard+Mike+Warner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music, money, and success</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster"><img src="{{ '/assets/images/marketplace-covers/21e59d16e1325f0010da.jpg' | relative_url }}" alt="Listing image for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster"><img src="{{ '/assets/images/marketplace-covers/21e59d16e1325f0010da.jpg' | relative_url }}" alt="Listing image for ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">ROB ZOMBIE - The Sinister Urge (reissue) - gatefold 180 gram vinyl LP + poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0b1a51e7e4ddaaf2203.jpg' | relative_url }}" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0b1a51e7e4ddaaf2203.jpg' | relative_url }}" alt="Listing image for What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">What Can The Music Industry Teach Y Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare"><img src="{{ '/assets/images/marketplace-covers/706f82f98bc5a0babda1.jpg' | relative_url }}" alt="Listing image for 1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">1998 The Tuesdays Promo Ad – Aimee Mann Music Industry Poster 8.5x11 Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music industry poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music industry poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+industry+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music industry poster" data-ebay-reference="1-000-streams-who-loses-when-streams-fall-below-the-line-music-music-industry-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ Within the broader creator-pay debate, the 1,000-stream rule therefore functions
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ Within the broader creator-pay debate, the 1,000-stream rule therefore functions
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ Within the broader creator-pay debate, the 1,000-stream rule therefore functions
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ Within the broader creator-pay debate, the 1,000-stream rule therefore functions
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ Within the broader creator-pay debate, the 1,000-stream rule therefore functions
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,238 +731,238 @@ Within the broader creator-pay debate, the 1,000-stream rule therefore functions
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: support.spotify.com  
    Title: track monetization eligibility  
-   Link: <a href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/track-monetization-eligibility/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Track monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/track-monetization-eligibility/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/track-monetization-eligibility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Track monetization eligibilityStarting in April 2024, tracks must have reached a threshold of at least 1,000 streams in the previo...</p></details>
    Published: April 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: artists.spotify.com  
    Title: royalties guide  
-   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</p></details>
+   Link:<a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideStarting from April 2024, tracks must have reached a threshold of at least 1,000 streams in the previou...</p></details>
    Published: April 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</p></details>
+   Link:<a href="https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-officially-announces-new-policy-for-royalty-payouts-artificial-streams-and-functional-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Currently, &quot;tens of millions&quot; of tracks fall into this category, representing only 0.5% of the royalties paid out. The withheld funds wil...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The new model will require songs to reach a minimum number of annual streams to generate royalties, redistributing money to more popular...</p></details>
+   Link:<a href="https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/spotify-plots-change-to-royalties-structure-with-a-minimum-streams-per-song-requirement-for-payout</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The new model will require songs to reach a minimum number of annual streams to generate royalties, redistributing money to more popular...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsModernizing Our Royalty System to Drive an Additional $1...20 Nov 2023  Starting in early 2024, tracks must have rea...</p></details>
+   Link:<a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsModernizing Our Royalty System to Drive an Additional $1...20 Nov 2023  Starting in early 2024, tracks must have rea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/artificial-streaming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsArtificial StreamingSpotify&#x27;s policy is that when we detect any artificial streams, the following penalties are applie...</p></details>
+   Link:<a href="https://artists.spotify.com/en/artificial-streaming" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/artificial-streaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsArtificial StreamingSpotify&#x27;s policy is that when we detect any artificial streams, the following penalties are applie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hypebot.com  
    Title: did the spotify 1000 stream rule cost indie artists 47 million spotify responds  
-   Link: <a href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025  That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</p></details>
+   Link:<a href="https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypebot.com/did-the-spotify-1000-stream-rule-cost-indie-artists-47-million-spotify-responds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Responds: Did the 1000 Stream Rule cost Artists...17 Apr 2025  That&#x27;s right, in 2024 Spotify did not pay close to $47 mi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Spotify's 1,000 Stream Rule Explained  
-   Link: <a href="https://www.youtube.com/watch?v=F0f1c-r6k58" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0f1c-r6k58</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalty Changes: 1,000 Stream Threshold Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F0f1c-r6k58" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0f1c-r6k58</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Royalty Changes: 1,000 Stream Threshold Explained...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Spotify Royalty Changes: 1,000 Stream Threshold Explained  
-   Link: <a href="https://www.youtube.com/watch?v=38_QkK5hZ8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=38_QkK5hZ8U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Will the 1,000 Stream Rule Hurt Your Music Career?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=38_QkK5hZ8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=38_QkK5hZ8U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Will the 1,000 Stream Rule Hurt Your Music Career?...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: musicinafrica.net  
    Title: spotifys 1000 stream threshold criticised southeast european indie labels  
-   Link: <a href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</p></details>
+   Link:<a href="https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/magazine/spotifys-1000-stream-threshold-criticised-southeast-european-indie-labels</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music In AfricaSpotify&#x27;s 1000-stream threshold criticised by Southeast European...December 27, 2025  Proposed solutions among participa...</p></details>
    Published: December 27, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: support.unitedmasters.com  
    Title: 30011900581267 Spotify Track Monetization FAQ  
-   Link: <a href="https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ" target="_blank" rel="noopener noreferrer nofollow">https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Track Monetization FAQ20 Jan 2026  Starting April 2024, tracks must have reached a threshold of at least 1,000 streams in the pr...</p></details>
+   Link:<a href="https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ" target="_blank" rel="noopener noreferrer nofollow">https://support.unitedmasters.com/hc/en-us/articles/30011900581267-Spotify-Track-Monetization-FAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Track Monetization FAQ20 Jan 2026  Starting April 2024, tracks must have reached a threshold of at least 1,000 streams in the pr...</p></details>
    Published: April 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: musicbusinessworldwide.com  
    Title: confirmed next year tracks on spotify 1000 plays  
-   Link: <a href="https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideConfirmed: From 2024, tracks on Spotify will have to be...5 Nov 2023  In 2024, Spotify expects this will move $...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideConfirmed: From 2024, tracks on Spotify will have to be...5 Nov 2023  In 2024, Spotify expects this will move $...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digitalmusicnews.com  
    Title: spotify royalty limit for streams  
-   Link: <a href="https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Music NewsSpotify&#x27;s 1000 Streams Royalty Limit Now In Effect3 Apr 2024  Spotify&#x27;s announced changes to its royalty system are no...</p></details>
+   Link:<a href="https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2024/04/03/spotify-royalty-limit-for-streams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Music NewsSpotify&#x27;s 1000 Streams Royalty Limit Now In Effect3 Apr 2024  Spotify&#x27;s announced changes to its royalty system are no...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: create.ac.uk  
    Title: rethinking royalties spotifys new streaming threshold  
-   Link: <a href="https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking Royalties: Spotify&#x27;s New Streaming Threshold24 Nov 2023  Of the proposed regulations, our focus today narrows down on o...</p></details>
+   Link:<a href="https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/blog/2023/11/24/rethinking-royalties-spotifys-new-streaming-threshold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking Royalties: Spotify&#x27;s New Streaming Threshold24 Nov 2023  Of the proposed regulations, our focus today narrows down on o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: makingascene.org  
    Title: spotify to institute a 1000 stream threshold before payment  
-   Link: <a href="https://www.makingascene.org/spotify-to-institute-a-1000-stream-threshold-before-payment/" target="_blank" rel="noopener noreferrer nofollow">https://www.makingascene.org/spotify-to-institute-a-1000-stream-threshold-before-payment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Nov 2023  In late 2023, Spotify&#x27;s new royalty policy requires tracks to hit 1,000 annual streams to earn royalties, favoring major lab...</p></details>
+   Link:<a href="https://www.makingascene.org/spotify-to-institute-a-1000-stream-threshold-before-payment/" target="_blank" rel="noopener noreferrer nofollow">https://www.makingascene.org/spotify-to-institute-a-1000-stream-threshold-before-payment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Nov 2023  In late 2023, Spotify&#x27;s new royalty policy requires tracks to hit 1,000 annual streams to earn royalties, favoring major lab...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: artistrightswatch.com  
-   Link: <a href="https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/" target="_blank" rel="noopener noreferrer nofollow">https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Can&#x27;t Force Artists to Use Distributors  Then Use Stream...December 29, 2025  85% of these respondents confirmed suffering a r...</p></details>
+   Link:<a href="https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/" target="_blank" rel="noopener noreferrer nofollow">https://artistrightswatch.com/2025/12/29/spotify-cant-force-artists-to-use-distributors-then-use-stream-share-threshold-to-artificially-increase-royalties-to-others/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Can&#x27;t Force Artists to Use Distributors  Then Use Stream...December 29, 2025  85% of these respondents confirmed suffering a r...</p></details>
    Published: December 29, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: digitalmusicnews.com  
    Title: spotify stream minimum debate  
-   Link: <a href="https://www.digitalmusicnews.com/2025/04/22/spotify-stream-minimum-debate/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2025/04/22/spotify-stream-minimum-debate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Continues As Exec Claps...22 Apr 2025  Against this backdrop, Disc Makers CEO Tony van Veen calculated the ballpark royalties impact of...</p></details>
+   Link:<a href="https://www.digitalmusicnews.com/2025/04/22/spotify-stream-minimum-debate/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalmusicnews.com/2025/04/22/spotify-stream-minimum-debate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continues As Exec Claps...22 Apr 2025  Against this backdrop, Disc Makers CEO Tony van Veen calculated the ballpark royalties impact of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: routenote.com  
    Title: spotifys 1000 stream threshold cost indie artists 50 million in 2024  
-   Link: <a href="https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How has Spotify&#x27;s 1000-stream threshold affected indie artists?April 24, 2025  A new report reveals how Spotify&#x27;s royalty policy has imp...</p></details>
+   Link:<a href="https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://routenote.com/blog/spotifys-1000-stream-threshold-cost-indie-artists-50-million-in-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How has Spotify&#x27;s 1000-stream threshold affected indie artists?April 24, 2025  A new report reveals how Spotify&#x27;s royalty policy has imp...</p></details>
    Published: April 24, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
    Title: Collectively, those tracks  
-   Link: <a href="https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s New Royalty Scam: Majors Win, Indies Lose $47M | MediumApril 19, 2025  According to van Veen&#x27;s breakdown, over 175 million tra...</p></details>
+   Link:<a href="https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40WeWillNotBeFlattened/spotifys-new-royalty-rules-shift-47-million-from-indie-artists-to-major-label-stars-53781dcc70ac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s New Royalty Scam: Majors Win, Indies Lose $47M | MediumApril 19, 2025  According to van Veen&#x27;s breakdown, over 175 million tra...</p></details>
    Published: April 19, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: musicbusinessworldwide.com  
    Title: analysis and data on Music Business Worldwide, Spotify, and why he'  
-   Link: <a href="https://www.musicbusinessworldwide.com/heres-exactly-spotifys-new-1000-annual-streams-royalty-policy-works123/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/heres-exactly-spotifys-new-1000-annual-streams-royalty-policy-works123/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s exactly how Spotify&#x27;s new 1000 annual streams...11 Dec 2023  Here&#x27;s exactly how Spotify&#x27;s new 1,000 annual streams royalty polic...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/heres-exactly-spotifys-new-1000-annual-streams-royalty-policy-works123/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/heres-exactly-spotifys-new-1000-annual-streams-royalty-policy-works123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s exactly how Spotify&#x27;s new 1000 annual streams...11 Dec 2023  Here&#x27;s exactly how Spotify&#x27;s new 1,000 annual streams royalty polic...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Changes to Spotify&#x27;s royalty model, including the 1000...2 Apr 2024  In October, MBW broke the news that major changes were coming to t...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/changes-to-spotifys-royalty-model-including-the-1000-annual-streams-royalty-policy-are-officially-live/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Changes to Spotify&#x27;s royalty model, including the 1000...2 Apr 2024  In October, MBW broke the news that major changes were coming to t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: spotify confirms that starting in 2024 tracks  
-   Link: <a href="https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify confirms that starting in 2024, tracks will have to be...In 2024, Spotify expects this will move $40 million that would have pre...</p></details>
+   Link:<a href="https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/17okvy8/spotify_confirms_that_starting_in_2024_tracks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify confirms that starting in 2024, tracks will have to be...In 2024, Spotify expects this will move $40 million that would have pre...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: spotify announces plans to stop paying artists  
-   Link: <a href="https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds like small artists will get the same payout overall, it just might take extra time. Like...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LetsTalkMusic/comments/17otbmn/spotify_announces_plans_to_stop_paying_artists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds like small artists will get the same payout overall, it just might take extra time. Like...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: djmag.com  
-   Link: <a href="https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs on Spotify will need 1000 streams to make royalties...7 Nov 2023  Songs on Spotify will need 1,000 streams to make royalties from...</p></details>
+   Link:<a href="https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/songs-spotify-will-need-1000-streams-make-royalties-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Songs on Spotify will need 1000 streams to make royalties...7 Nov 2023  Songs on Spotify will need 1,000 streams to make royalties from...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: djmag.com  
    Title: spotify officially demonetises all tracks under 1000 streams  
-   Link: <a href="https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify officially demonetises all tracks with under 1000...4 Apr 2024  Spotify has officially demonetised all tracks with under 1,000...</p></details>
+   Link:<a href="https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/spotify-officially-demonetises-all-tracks-under-1000-streams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify officially demonetises all tracks with under 1000...4 Apr 2024  Spotify has officially demonetised all tracks with under 1,000...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cyberprmusic.com  
-   Link: <a href="https://cyberprmusic.com/spotify-royalty/" target="_blank" rel="noopener noreferrer nofollow">https://cyberprmusic.com/spotify-royalty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s 1000-Stream Rule Explained: Why Building Real...Spotify now requires each track to achieve at least 1,000 streams within a 12...</p></details>
+   Link:<a href="https://cyberprmusic.com/spotify-royalty/" target="_blank" rel="noopener noreferrer nofollow">https://cyberprmusic.com/spotify-royalty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s 1000-Stream Rule Explained: Why Building Real...Spotify now requires each track to achieve at least 1,000 streams within a 12...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QS7WZm38Sjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QS7WZm38Sjc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Will STOP Paying Royalties on 67% of Tracks in 2024Spotify will stop paying royalties on tracks that get less than 1,000 streams...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QS7WZm38Sjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QS7WZm38Sjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Will STOP Paying Royalties on 67% of Tracks in 2024Spotify will stop paying royalties on tracks that get less than 1,000 streams...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dynamoi.com  
-   Link: <a href="https://dynamoi.com/learn/spotify-promotion/how-many-streams-to-get-paid-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/spotify-promotion/how-many-streams-to-get-paid-on-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify 1000 Streams Payout: Royalty Threshold Explained...26 Apr 2026  As of 2024, a track must reach at least 1,000 streams in the pr...</p></details>
+   Link:<a href="https://dynamoi.com/learn/spotify-promotion/how-many-streams-to-get-paid-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/spotify-promotion/how-many-streams-to-get-paid-on-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify 1000 Streams Payout: Royalty Threshold Explained...26 Apr 2026  As of 2024, a track must reach at least 1,000 streams in the pr...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thequietus.com  
    Title: track passes a threshold of more than 1,000 plays each 12 months.Read more  
-   Link: <a href="https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/" target="_blank" rel="noopener noreferrer nofollow">https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Officially Demonetises All Uploads With Under...3 Apr 2024  Spotify has officially demonetised all uploads with under 1,000 str...</p></details>
+   Link:<a href="https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/" target="_blank" rel="noopener noreferrer nofollow">https://thequietus.com/news/spotify-officially-demonetises-all-uploads-with-under-1-000-streams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Officially Demonetises All Uploads With Under...3 Apr 2024  Spotify has officially demonetised all uploads with under 1,000 str...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nme.com  
-   Link: <a href="https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify has now officially demonetised all songs with less...5 Apr 2024  Spotify have now officially demonetised all songs on the platf...</p></details>
+   Link:<a href="https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/spotify-has-now-officially-demonetised-all-songs-with-less-than-1000-streams-3614010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify has now officially demonetised all songs with less...5 Apr 2024  Spotify have now officially demonetised all songs on the platf...</p></details>
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: blog.discmakers.com  
-   Link: <a href="https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/" target="_blank" rel="noopener noreferrer nofollow">https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>discmakers.comSpotify&#x27;s $47 Million Deception: How Small Artists Got RobbedApril 21, 2025  I calculated that because of Spotify&#x27;s policy...</p></details>
+   Link:<a href="https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/" target="_blank" rel="noopener noreferrer nofollow">https://blog.discmakers.com/2025/04/how-small-artists-got-robbed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>discmakers.comSpotify&#x27;s $47 Million Deception: How Small Artists Got RobbedApril 21, 2025  I calculated that because of Spotify&#x27;s policy...</p></details>
    Published: April 21, 2025  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
    Title: songs on spotify will need 1000 streams to make royalties from 2024the swedish s  
-   Link: <a href="https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Songs on Spotify will need 1000 streams to make royalties...7 Nov 2023  Songs on Spotify will need 1,000 streams to make royalties from...</p></details>
+   Link:<a href="https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alienatorrecords/posts/songs-on-spotify-will-need-1000-streams-to-make-royalties-from-2024the-swedish-s/724179739730036/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Songs on Spotify will need 1000 streams to make royalties...7 Nov 2023  Songs on Spotify will need 1,000 streams to make royalties from...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: blog.nexatunes.com  
    Title: your first 1 000 streams on spotify what you need to know  
-   Link: <a href="https://blog.nexatunes.com/your-first-1-000-streams-on-spotify-what-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nexatunes.com/your-first-1-000-streams-on-spotify-what-you-need-to-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nexatunes.comSpotify&#x27;s 1000-Stream Rule: Why You&#x27;re Not Paid3 Sept 2025  In 2024 Spotify introduced a new payout rule: a track must reac...</p></details>
+   Link:<a href="https://blog.nexatunes.com/your-first-1-000-streams-on-spotify-what-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nexatunes.com/your-first-1-000-streams-on-spotify-what-you-need-to-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nexatunes.comSpotify&#x27;s 1000-Stream Rule: Why You&#x27;re Not Paid3 Sept 2025  In 2024 Spotify introduced a new payout rule: a track must reac...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: metalinjection.net  
    Title: songs need at least 1000 plays yearly on spotify to get royalties in 2024  
-   Link: <a href="https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>$3.00 is well below the threshold at which almost every distributor allows artists...Read more...</p></details>
+   Link:<a href="https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024" target="_blank" rel="noopener noreferrer nofollow">https://metalinjection.net/its-just-business/songs-need-at-least-1000-plays-yearly-on-spotify-to-get-royalties-in-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>$3.00 is well below the threshold at which almost every distributor allows artists...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From 2024, tracks on Spotify will have to be played 1000...Every song by a smaller artist on any label will still get 1000 streams withi...</p></details>
+   Link:<a href="https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/17ohzce/confirmed_from_2024_tracks_on_spotify_will_have/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From 2024, tracks on Spotify will have to be played 1000...Every song by a smaller artist on any label will still get 1000 streams withi...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Will the 1,000 Stream Rule Hurt Your Music Career?  
-   Link: <a href="https://www.youtube.com/watch?v=l_aH1XwS80I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_aH1XwS80I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are You Affected by Spotify&#x27;s New Royalty Policy?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l_aH1XwS80I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_aH1XwS80I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are You Affected by Spotify&#x27;s New Royalty Policy?...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Are You Affected by Spotify's New Royalty Policy?  
-   Link: <a href="https://www.youtube.com/watch?v=t-637pT6L3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t-637pT6L3Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Spotify 1,000 Stream Minimum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t-637pT6L3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t-637pT6L3Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Spotify 1,000 Stream Minimum...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_GZfolW4g7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GZfolW4g7s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023  SUBSCRIBE TO CURTISSKINGTV: [https://bit.ly/subcktv](https://bit.ly/subcktv) WHO IS CURTISS KING?! By the way, if this is your first time...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_GZfolW4g7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GZfolW4g7s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023  SUBSCRIBE TO CURTISSKINGTV: [https://bit.ly/subcktv](https://bit.ly/subcktv) WHO IS CURTISS KING?! By the way, if this is your first time...</p></details>
    Published: October 30, 2023  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: You Tube Share your videos with friends, family, and the world  
-   Link: <a href="https://www.youtube.com/watch?v=mSaD46nSVaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mSaD46nSVaI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mSaD46nSVaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mSaD46nSVaI</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Understanding the Spotify 1,000 Stream Minimum  
-   Link: <a href="https://www.youtube.com/watch?v=Jk5P1N9z7kY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jk5P1N9z7kY</a>
+   Link:<a href="https://www.youtube.com/watch?v=Jk5P1N9z7kY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jk5P1N9z7kY</a>

@@ -279,223 +279,223 @@ Across history, certain lines from popular songs have leapt from record grooves 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-1-dark.svg" | relative_url }}" alt="Protest Lyrics illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Hooks as Symbolic Markers
 
-Protest slogans tend to be short, repeatable and emotionally charged — qualities that strong [choruses]({{ 'choruses/' | relative_url }}) naturally embody. A classic example is the chorus of **“Alright”** by Kendrick Lamar, whose repeated affirmation *“We gon’ be alright”* was chanted at Black Lives Matter rallies and youth-led demonstrations against police brutality in the United States. Reporters and music scholars alike noted that this phrase became an emblematic chant during the movement, akin to a modern-day anthem of resilience and hope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alright_%28Kendrick_Lamar_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alright (Kendrick Lamar song</span><span class="citation-popover-snippet">Alright (Kendrick Lamar song</span></span></span>
+Protest slogans tend to be short, repeatable and emotionally charged — qualities that strong [choruses]({{ 'choruses/' | relative_url }}) naturally embody. A classic example is the chorus of **“Alright”** by Kendrick Lamar, whose repeated affirmation *“We gon’ be alright”* was chanted at Black Lives Matter rallies and youth-led demonstrations against police brutality in the United States. Reporters and music scholars alike noted that this phrase became an emblematic chant during the movement, akin to a modern-day anthem of resilience and hope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alright_%28Kendrick_Lamar_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alright (Kendrick Lamar song</span><span class="citation-popover-snippet">Alright (Kendrick Lamar song</span></span></span>
 
-Another deeply symbolic case is **“We Shall Overcome”**, a folk‑derived gospel song whose title and central refrain became the unofficial anthem of the U.S. civil [rights]({{ 'rights/' | relative_url }}) movement in the 1950s and 1960s. Its simple pledge of perseverance — *“We shall overcome”* — was sung en masse by marchers, linking individual voices into a collective vow of endurance and solidarity. Over decades, it has been adopted in movements for civil rights and freedom around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica We Shall Overcome &#124; Civil Rights, Pete Seeger, Origin</span><span class="citation-popover-snippet">Encyclopedia BritannicaWe Shall Overcome &#124; Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</span><span class="citation-popover-meta">Published: April 17, 2025</span></span></span>
+Another deeply symbolic case is **“We Shall Overcome”**, a folk‑derived gospel song whose title and central refrain became the unofficial anthem of the U.S. civil [rights]({{ 'rights/' | relative_url }}) movement in the 1950s and 1960s. Its simple pledge of perseverance — *“We shall overcome”* — was sung en masse by marchers, linking individual voices into a collective vow of endurance and solidarity. Over decades, it has been adopted in movements for civil rights and freedom around the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica We Shall Overcome &#124; Civil Rights, Pete Seeger, Origin</span><span class="citation-popover-snippet">Encyclopedia BritannicaWe Shall Overcome &#124; Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</span><span class="citation-popover-meta">Published: April 17, 2025</span></span></span>
 
 These [hooks]({{ 'hooks/' | relative_url }}) function as *symbolic markers*: concise, evocative lines that can be learned quickly, repeated loudly, and displayed visually on placards, making them ideal for embedding in protest practice.
 
 ## Protest Songs and Group Identity
 
-When song [lyrics]({{ 'lyrics/' | relative_url }}) move into protest use, they often serve as **tools of group identity and cohesion**. Freedom songs like *“We Shall Overcome”* did more than articulate grievance — they were sung together during marches and sit‑ins, reinforcing a shared sense of purpose and community. This [collective singing]({{ 'collective-singing/' | relative_url }}) transformed individual emotion into group identity, making the refrain a social glue that bound participants to one another and to a larger cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Freedom_song" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Freedom song</span><span class="citation-popover-snippet">Freedom song</span></span></span>
+When song [lyrics]({{ 'lyrics/' | relative_url }}) move into protest use, they often serve as **tools of group identity and cohesion**. Freedom songs like *“We Shall Overcome”* did more than articulate grievance — they were sung together during marches and sit‑ins, reinforcing a shared sense of purpose and community. This [collective singing]({{ 'collective-singing/' | relative_url }}) transformed individual emotion into group identity, making the refrain a social glue that bound participants to one another and to a larger cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Freedom_song" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Freedom song</span><span class="citation-popover-snippet">Freedom song</span></span></span>
 
-Similarly, *“We gon’ be alright”* was chanted not just for its meaning but because its repetition created a shared [rhythm]({{ 'rhythm/' | relative_url }}) and message among demonstrators. As scholars of protest music note, when lyrics are embraced and vocalised by participants outside the original artistic context — on the streets rather than on the airwaves — they help forge a *collective emotional experience* that can energise and sustain a protest movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mtosmt.org">[mtosmt.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mtosmt.org</span><span class="citation-popover-snippet">The Ambiguities of Kendrick Lamar&#x27;s Protest Anthem... “Cleveland State University Conference Attendees Chant Kendrick Lamar&#x27;s &#x27;Alright&#x27;...</span></span></span>
+Similarly, *“We gon’ be alright”* was chanted not just for its meaning but because its repetition created a shared [rhythm]({{ 'rhythm/' | relative_url }}) and message among demonstrators. As scholars of protest music note, when lyrics are embraced and vocalised by participants outside the original artistic context — on the streets rather than on the airwaves — they help forge a *collective emotional experience* that can energise and sustain a protest movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mtosmt.org">[mtosmt.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mtosmt.org</span><span class="citation-popover-snippet">The Ambiguities of Kendrick Lamar&#x27;s Protest Anthem... “Cleveland State University Conference Attendees Chant Kendrick Lamar&#x27;s &#x27;Alright&#x27;...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-2-dark.svg" | relative_url }}" alt="Protest Lyrics illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Meanings Shift Across Communities
 
 Not all song lyrics become slogans, and understanding why some do reveals much about how language negotiates between art and activism. Three key mechanisms often underlie this shift:
 
-* **Emotional universality:** Lines that express broad hopes or shared struggles — such as overcoming oppression or affirming mutual survival — are more easily appropriated because they resonate with collective feeling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica We Shall Overcome &#124; Civil Rights, Pete Seeger, Origin</span><span class="citation-popover-snippet">Encyclopedia BritannicaWe Shall Overcome &#124; Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</span><span class="citation-popover-meta">Published: April 17, 2025</span></span></span>
-* **Memorability and rhythm:** Hooks that are short, repetitive and rhythmically compelling are easier for large crowds to adopt in chanting and signage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/We_Shall_Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">We Shall Overcome</span><span class="citation-popover-snippet">We Shall Overcome&quot;We Shall Overcome&quot; is a gospel song that is associated heavily with the US civil rights movement. The origins of the...</span></span></span>
-* **Contextual re‑framing:** Lyrics originally composed in one setting can gain political meaning in another. For example, a line about enduring hardship becomes a chant of defiance when sung at marches against systemic injustice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mtosmt.org">[mtosmt.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mtosmt.org</span><span class="citation-popover-snippet">The Ambiguities of Kendrick Lamar&#x27;s Protest Anthem... “Cleveland State University Conference Attendees Chant Kendrick Lamar&#x27;s &#x27;Alright&#x27;...</span></span></span>
+* **Emotional universality:** Lines that express broad hopes or shared struggles — such as overcoming oppression or affirming mutual survival — are more easily appropriated because they resonate with collective feeling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica We Shall Overcome &#124; Civil Rights, Pete Seeger, Origin</span><span class="citation-popover-snippet">Encyclopedia BritannicaWe Shall Overcome &#124; Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</span><span class="citation-popover-meta">Published: April 17, 2025</span></span></span>
+* **Memorability and rhythm:** Hooks that are short, repetitive and rhythmically compelling are easier for large crowds to adopt in chanting and signage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/We_Shall_Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">We Shall Overcome</span><span class="citation-popover-snippet">We Shall Overcome&quot;We Shall Overcome&quot; is a gospel song that is associated heavily with the US civil rights movement. The origins of the...</span></span></span>
+* **Contextual re‑framing:** Lyrics originally composed in one setting can gain political meaning in another. For example, a line about enduring hardship becomes a chant of defiance when sung at marches against systemic injustice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mtosmt.org">[mtosmt.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mtosmt.org</span><span class="citation-popover-snippet">The Ambiguities of Kendrick Lamar&#x27;s Protest Anthem... “Cleveland State University Conference Attendees Chant Kendrick Lamar&#x27;s &#x27;Alright&#x27;...</span></span></span>
 
-Occasionally, even songs not explicitly written as protest pieces can be reappropriated by movements if their language captures sentiment or urgency for change. Online discussions from global participants note cases — such as South Korea’s use of a K‑pop song for protest chanting — showing how communities can repurpose lyrics when they feel culturally aligned with a cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AskTheWorld/comments/1o9x2ma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Are there any cases in your country where an ordinary pop song became a protest song over time?October 18, 2025...</span><span class="citation-popover-meta">Published: October 18, 2025</span></span></span>
+Occasionally, even songs not explicitly written as protest pieces can be reappropriated by movements if their language captures sentiment or urgency for change. Online discussions from global participants note cases — such as South Korea’s use of a K‑pop song for protest chanting — showing how communities can repurpose lyrics when they feel culturally aligned with a cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/AskTheWorld/comments/1o9x2ma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Are there any cases in your country where an ordinary pop song became a protest song over time?October 18, 2025...</span><span class="citation-popover-meta">Published: October 18, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-3-dark.svg" | relative_url }}" alt="Protest Lyrics illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
-When song lyrics become protest slogans, they make the abstract power of music tangible in the public square. Through memorable hooks, shared emotional meaning and the ability to express collective identity, certain phrases transcend the song itself to become part of the language of dissent. Whether emerging from folk traditions like *“We Shall Overcome”* or contemporary hip‑hop like *“Alright”*, these lyrics underline how music can bridge personal expression and collective action in social movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica We Shall Overcome &#124; Civil Rights, Pete Seeger, Origin</span><span class="citation-popover-snippet">Encyclopedia BritannicaWe Shall Overcome &#124; Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</span><span class="citation-popover-meta">Published: April 17, 2025</span></span></span>
+When song lyrics become protest slogans, they make the abstract power of music tangible in the public square. Through memorable hooks, shared emotional meaning and the ability to express collective identity, certain phrases transcend the song itself to become part of the language of dissent. Whether emerging from folk traditions like *“We Shall Overcome”* or contemporary hip‑hop like *“Alright”*, these lyrics underline how music can bridge personal expression and collective action in social movements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica We Shall Overcome &#124; Civil Rights, Pete Seeger, Origin</span><span class="citation-popover-snippet">Encyclopedia BritannicaWe Shall Overcome &#124; Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</span><span class="citation-popover-meta">Published: April 17, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Lyrics Leave Songs and Become Slogans. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Lyrics Leave Songs and Become Slogans. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explains how music functions within communities and movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how music functions within communities and movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Provides background on why musical messages resonate emotionally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on why musical messages resonate emotionally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9062894-M.jpg" alt="Cover for 33 Revolutions Per Minute" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute">33 Revolutions Per Minute</a>
-        </h4>
-        <p class="fr-book-author">By Dorian Lynskey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 33 Revolutions Per Minute on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9062894-M.jpg" alt="Cover for 33 Revolutions Per Minute" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="33 Revolutions Per Minute">33 Revolutions Per Minute</a>
+</h4>
+<p class="fr-book-author">By Dorian Lynskey</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Protest songs, Songs, history and criticism, Musicians, Popular music, history and criticism, Music, soci...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Protest songs, Songs, history and criticism, Musicians, Popular music, history and criticism, Music, soci...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute+Dorian+Lynskey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Songs+of+Protest%2C+Songs+of+Love+Phil+Ochs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songs of Protest, Songs of Love on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Songs+of+Protest%2C+Songs+of+Love+Phil+Ochs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songs of Protest, Songs of Love">Songs of Protest, Songs of Love</a>
-        </h4>
-        <p class="fr-book-author">By Phil Ochs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Songs+of+Protest%2C+Songs+of+Love+Phil+Ochs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songs of Protest, Songs of Love on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Songs+of+Protest%2C+Songs+of+Love+Phil+Ochs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songs of Protest, Songs of Love">Songs of Protest, Songs of Love</a>
+</h4>
+<p class="fr-book-author">By Phil Ochs</p>
         
-        <p class="fr-book-desc">Directly connects songs, slogans, and collective action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Songs+of+Protest%2C+Songs+of+Love+Phil+Ochs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects songs, slogans, and collective action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Songs+of+Protest%2C+Songs+of+Love+Phil+Ochs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=33+Revolutions+Per+Minute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">33 Revolutions Per Minute</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="when-lyrics-leave-songs-and-become-slogans-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ When song lyrics become protest slogans, they make the abstract power of music t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ When song lyrics become protest slogans, they make the abstract power of music t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ When song lyrics become protest slogans, they make the abstract power of music t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ When song lyrics become protest slogans, they make the abstract power of music t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ When song lyrics become protest slogans, they make the abstract power of music t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,99 +701,99 @@ When song lyrics become protest slogans, they make the abstract power of music t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Alright (Kendrick Lamar song)  
-   Link: <a href="https://en.wikipedia.org/wiki/Alright_%28Kendrick_Lamar_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alright_%28Kendrick_Lamar_song%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alright_%28Kendrick_Lamar_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alright_%28Kendrick_Lamar_song%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica We Shall Overcome | Civil Rights, Pete Seeger, Origin  
-   Link: <a href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/We-Shall-Overcome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWe Shall Overcome | Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</p></details>
+   Link:<a href="https://www.britannica.com/topic/We-Shall-Overcome" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/We-Shall-Overcome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWe Shall Overcome | Civil Rights, Pete Seeger, Origin...April 17, 2025 — 17 Apr 2025 — &#x27;We Shall Overcome&#x27; is a f...</p></details>
    Published: April 17, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Freedom song  
-   Link: <a href="https://en.wikipedia.org/wiki/Freedom_song" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_song</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Freedom_song" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_song</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mtosmt.org  
-   Link: <a href="https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ambiguities of Kendrick Lamar&#x27;s Protest Anthem... “Cleveland State University Conference Attendees Chant Kendrick Lamar&#x27;s &#x27;Alright&#x27;...</p></details>
+   Link:<a href="https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.19.25.1/mto.19.25.1.manabe.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ambiguities of Kendrick Lamar&#x27;s Protest Anthem... “Cleveland State University Conference Attendees Chant Kendrick Lamar&#x27;s &#x27;Alright&#x27;...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskTheWorld/comments/1o9x2ma" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskTheWorld/comments/1o9x2ma</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there any cases in your country where an ordinary pop song became a protest song over time?October 18, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskTheWorld/comments/1o9x2ma" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskTheWorld/comments/1o9x2ma</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are there any cases in your country where an ordinary pop song became a protest song over time?October 18, 2025...</p></details>
    Published: October 18, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: We Shall Overcome  
-   Link: <a href="https://en.wikipedia.org/wiki/We_Shall_Overcome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/We_Shall_Overcome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We Shall Overcome&quot;We Shall Overcome&quot; is a gospel song that is associated heavily with the US civil rights movement. The origins of the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/We_Shall_Overcome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/We_Shall_Overcome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Shall Overcome&quot;We Shall Overcome&quot; is a gospel song that is associated heavily with the US civil rights movement. The origins of the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: content.time.com  
    Title: 0,33009,907130 2,00  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C907130-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C907130-2%2C00.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30, 1973 (2 of 2) So socially activist have reggae lyrics become that they were a highly effective political weapon in the last Jamaican...</p></details>
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C907130-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C907130-2%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30, 1973 (2 of 2) So socially activist have reggae lyrics become that they were a highly effective political weapon in the last Jamaican...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: allu2songslyrics.com  
-   Link: <a href="https://www.allu2songslyrics.com/2017/08/american-soul-lyrics-by-u2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.allu2songslyrics.com/2017/08/american-soul-lyrics-by-u2.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 16, 2017 — &#x27;AMERICAN SOUL&#x27; SONG LYRICS + MEANING INTERPRETATION BY U2 5:36 AM (2017-08-16T05:36:00-07:00) Song meaning | U2 | Song...</p></details>
+   Link:<a href="https://www.allu2songslyrics.com/2017/08/american-soul-lyrics-by-u2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.allu2songslyrics.com/2017/08/american-soul-lyrics-by-u2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 16, 2017 — &#x27;AMERICAN SOUL&#x27; SONG LYRICS + MEANING INTERPRETATION BY U2 5:36 AM (2017-08-16T05:36:00-07:00) Song meaning | U2 | Song...</p></details>
    Published: August 16, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: outlookindia.com  
-   Link: <a href="https://www.outlookindia.com/art-entertainment/-ishwar-allah-tero-naam-no-more-the-fading-secularism-of-bollywood-songs-news-256493" target="_blank" rel="noopener noreferrer nofollow">https://www.outlookindia.com/art-entertainment/-ishwar-allah-tero-naam-no-more-the-fading-secularism-of-bollywood-songs-news-256493</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 24, 2023 — HINDUTVA AND THE UNDERGROUND MUSIC MOVEMENT In the years since 2014, the country has seen the rise of alternate, crude...</p></details>
+   Link:<a href="https://www.outlookindia.com/art-entertainment/-ishwar-allah-tero-naam-no-more-the-fading-secularism-of-bollywood-songs-news-256493" target="_blank" rel="noopener noreferrer nofollow">https://www.outlookindia.com/art-entertainment/-ishwar-allah-tero-naam-no-more-the-fading-secularism-of-bollywood-songs-news-256493</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 24, 2023 — HINDUTVA AND THE UNDERGROUND MUSIC MOVEMENT In the years since 2014, the country has seen the rise of alternate, crude...</p></details>
    Published: January 24, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amnesty.org.au  
-   Link: <a href="https://www.amnesty.org.au/10-songs-for-social-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org.au/10-songs-for-social-change/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 songs for social changeOriginally written by American folk singer and activist Peter Seeger, “We Shall Overcome” is a hauntingly peace...</p></details>
+   Link:<a href="https://www.amnesty.org.au/10-songs-for-social-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org.au/10-songs-for-social-change/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 songs for social changeOriginally written by American folk singer and activist Peter Seeger, “We Shall Overcome” is a hauntingly peace...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/yiddishexpressions/posts/3629081500715409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yiddishexpressions/posts/3629081500715409/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of &#x27;We Shall Overcome&#x27; civil rights songPete Seeger was the one behind the hugely popular anthem - “We Shall Overcome”. “We Shall...</p></details>
+   Link:<a href="https://www.facebook.com/groups/yiddishexpressions/posts/3629081500715409/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yiddishexpressions/posts/3629081500715409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of &#x27;We Shall Overcome&#x27; civil rights songPete Seeger was the one behind the hugely popular anthem - “We Shall Overcome”. “We Shall...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: songcontext.com  
-   Link: <a href="https://www.songcontext.com/songs/killing-in-the-name" target="_blank" rel="noopener noreferrer nofollow">https://www.songcontext.com/songs/killing-in-the-name</a>  
+   Link:<a href="https://www.songcontext.com/songs/killing-in-the-name" target="_blank" rel="noopener noreferrer nofollow">https://www.songcontext.com/songs/killing-in-the-name</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: protestsonglyrics.net  
-   Link: <a href="https://www.protestsonglyrics.net/index.phtml" target="_blank" rel="noopener noreferrer nofollow">https://www.protestsonglyrics.net/index.phtml</a>  
+   Link:<a href="https://www.protestsonglyrics.net/index.phtml" target="_blank" rel="noopener noreferrer nofollow">https://www.protestsonglyrics.net/index.phtml</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iowapublicradio.org  
-   Link: <a href="https://www.iowapublicradio.org/news-from-npr/2024-08-21/the-history-of-presidential-campaign-songs-goes-back-to-george-washington" target="_blank" rel="noopener noreferrer nofollow">https://www.iowapublicradio.org/news-from-npr/2024-08-21/the-history-of-presidential-campaign-songs-goes-back-to-george-washington</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 21, 2024 — THE HISTORY OF PRESIDENTIAL CAMPAIGN SONGS GOES BACK TO GEORGE WASHINGTON NPR Published August 21, 2024 at 3:11 AM CDT...</p></details>
+   Link:<a href="https://www.iowapublicradio.org/news-from-npr/2024-08-21/the-history-of-presidential-campaign-songs-goes-back-to-george-washington" target="_blank" rel="noopener noreferrer nofollow">https://www.iowapublicradio.org/news-from-npr/2024-08-21/the-history-of-presidential-campaign-songs-goes-back-to-george-washington</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 21, 2024 — THE HISTORY OF PRESIDENTIAL CAMPAIGN SONGS GOES BACK TO GEORGE WASHINGTON NPR Published August 21, 2024 at 3:11 AM CDT...</p></details>
    Published: August 21, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pages.stolaf.edu  
-   Link: <a href="https://pages.stolaf.edu/americanmusic/2019/10/08/the-evolution-of-we-shall-overcome-from-the-civil-rights-movement-to-black-lives-matter/" target="_blank" rel="noopener noreferrer nofollow">https://pages.stolaf.edu/americanmusic/2019/10/08/the-evolution-of-we-shall-overcome-from-the-civil-rights-movement-to-black-lives-matter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evolution of “We Shall Overcome:” from the Civil Rights Movement to Black Lives Matter | Music 345: Race, Identity, and Representation in...</p></details>
+   Link:<a href="https://pages.stolaf.edu/americanmusic/2019/10/08/the-evolution-of-we-shall-overcome-from-the-civil-rights-movement-to-black-lives-matter/" target="_blank" rel="noopener noreferrer nofollow">https://pages.stolaf.edu/americanmusic/2019/10/08/the-evolution-of-we-shall-overcome-from-the-civil-rights-movement-to-black-lives-matter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evolution of “We Shall Overcome:” from the Civil Rights Movement to Black Lives Matter | Music 345: Race, Identity, and Representation in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: republicpolicy.com  
    Title: The Power of [Melody](&#123;&#123; 'melody/' | relative_url &#125;&#125;) and Message: A Critical Look at Political Music in Elections  
-   Link: <a href="https://republicpolicy.com/the-power-of-melody-and-message-a-critical-look-at-political-music-in-elections/" target="_blank" rel="noopener noreferrer nofollow">https://republicpolicy.com/the-power-of-melody-and-message-a-critical-look-at-political-music-in-elections/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Republic PolicyJanuary 31, 2024 — * Literature * January 31, 2024 * 1:07 am THE POWER OF MELODY AND MESSAGE: A CRITICAL LOOK AT POLITICAL...</p></details>
+   Link:<a href="https://republicpolicy.com/the-power-of-melody-and-message-a-critical-look-at-political-music-in-elections/" target="_blank" rel="noopener noreferrer nofollow">https://republicpolicy.com/the-power-of-melody-and-message-a-critical-look-at-political-music-in-elections/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Republic PolicyJanuary 31, 2024 — * Literature * January 31, 2024 * 1:07 am THE POWER OF MELODY AND MESSAGE: A CRITICAL LOOK AT POLITICAL...</p></details>
    Published: January 31, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vice.com  
    Title: from iran to guatemala how women are driving musics political revolution  
-   Link: <a href="https://www.vice.com/en/article/from-iran-to-guatemala-how-women-are-driving-musics-political-revolution/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/from-iran-to-guatemala-how-women-are-driving-musics-political-revolution/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Iran to Guatemala: How Women Are Driving Music’s Political RevolutionNovember 3, 2016 — FROM IRAN TO GUATEMALA: HOW WOMEN ARE DRIVIN...</p></details>
+   Link:<a href="https://www.vice.com/en/article/from-iran-to-guatemala-how-women-are-driving-musics-political-revolution/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/from-iran-to-guatemala-how-women-are-driving-musics-political-revolution/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Iran to Guatemala: How Women Are Driving Music’s Political RevolutionNovember 3, 2016 — FROM IRAN TO GUATEMALA: HOW WOMEN ARE DRIVIN...</p></details>
    Published: November 3, 2016

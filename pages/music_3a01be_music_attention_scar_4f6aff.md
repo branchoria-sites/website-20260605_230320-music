@@ -501,7 +501,7 @@ image: /assets/images/music_3a01be_music_attention_scar_4f6aff-overview-social.j
 
 ## Introduction
 
-Being available is not the same as being heard. Modern music platforms make [access]({{ 'access/' | relative_url }}) astonishingly easy: Spotify says listeners can access more than 100 million tracks, while Luminate data reported by Music Business Worldwide puts the wider number of tracks on audio streaming services at about 253 million by the end of 2025. Yet attention remains fiercely concentrated: in 2025, 88% of tracks received 1,000 plays or fewer, while just 541,000 tracks accounted for almost half of global audio streaming consumption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/company-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">About SpotifyToday, more listeners than ever can discover, manage and enjoy over 100 million tracks, 7 million podcast titles, and...</span></span></span>
+Being available is not the same as being heard. Modern music platforms make [access]({{ 'access/' | relative_url }}) astonishingly easy: Spotify says listeners can access more than 100 million tracks, while Luminate data reported by Music Business Worldwide puts the wider number of tracks on audio streaming services at about 253 million by the end of 2025. Yet attention remains fiercely concentrated: in 2025, 88% of tracks received 1,000 plays or fewer, while just 541,000 tracks accounted for almost half of global audio streaming consumption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/company-info/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">About SpotifyToday, more listeners than ever can discover, manage and enjoy over 100 million tracks, 7 million podcast titles, and...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff-overview.webp" | relative_url }}" alt="Overview image for Attention" loading="eager" decoding="sync" fetchpriority="high">
 That is why attention has become music’s scarcest resource. The hard problem is no longer getting a [recording]({{ 'recording/' | relative_url }}) into the [catalogue]({{ 'catalogue/' | relative_url }}). It is getting a listener to notice it, play it, remember it, repeat it, and place it inside a life, scene or community. Streaming solved distribution scarcity, but it did not solve cultural visibility. In many ways, it made the competition for visibility more measurable, more automated and more unforgiving.
@@ -512,7 +512,7 @@ For most of recorded music history, release itself carried a kind of [scarcity](
 
 Streaming changed the threshold. A track can now be uploaded through a distributor and appear beside the biggest artists in the world. This is a genuine expansion of access. It has allowed bedroom producers, regional scenes, independent labels, self-releasing songwriters and heritage catalogues to reach listeners without the old physical bottlenecks.
 
-But abundance has created a new imbalance. The catalogue grows much faster than any listener’s available time. Music Business Worldwide, citing Luminate’s 2025 data, reported that streaming services carried 253 million tracks at the close of 2025, up by 37.9 million in a year, or about 106,000 new tracks per day. That means a full day’s listening could not meaningfully sample even a tiny fraction of one day’s new supply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
+But abundance has created a new imbalance. The catalogue grows much faster than any listener’s available time. Music Business Worldwide, citing Luminate’s 2025 data, reported that streaming services carried 253 million tracks at the close of 2025, up by 37.9 million in a year, or about 106,000 new tracks per day. That means a full day’s listening could not meaningfully sample even a tiny fraction of one day’s new supply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
 
 The result is a quiet reversal. Distribution used to be the scarce prize; now listener attention is. Artists can reach the shelf, but the shelf is effectively infinite. A new release is less like placing a record in a shop window and more like dropping a page into a library that is expanding every second.
 
@@ -520,7 +520,7 @@ The result is a quiet reversal. Distribution used to be the scarce prize; now li
 
 Streaming was often imagined as a long-tail environment: because shelf space was unlimited, niche music could find niche audiences. That has happened in important ways. Old songs resurface, regional genres cross borders, and listeners can follow highly specific tastes. The catalogue is not limited to current radio singles or what a local shop can stock.
 
-Yet the long tail should not be confused with equal visibility. Luminate’s 2025 figures show a severe gap between availability and consumption. According to Music Business Worldwide’s report on that data, 88% of tracks received 1,000 or fewer plays in 2025, and the tiny group of tracks with between 1 million and 50 million annual streams accounted for 49.4% of global audio streaming consumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
+Yet the long tail should not be confused with equal visibility. Luminate’s 2025 figures show a severe gap between availability and consumption. According to Music Business Worldwide’s report on that data, 88% of tracks received 1,000 or fewer plays in 2025, and the tiny group of tracks with between 1 million and 50 million annual streams accounted for 49.4% of global audio streaming consumption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</span></span></span>
 
 This matters because music is cumulative. A track that receives early attention can gain playlist placements, saves, shares, algorithmic signals, press interest and social proof. A track that receives almost no attention may not get enough data for recommendation systems or enough repetition for listeners to form attachment. The difference between obscurity and momentum is not simply quality; it is also exposure, context and repeated contact.
 
@@ -531,7 +531,7 @@ The long tail therefore has two sides. It is culturally valuable because obscure
 
 The old music system had gatekeepers: radio programmers, record shops, critics, venue bookers, television producers and label staff. The streaming system has not removed gatekeeping so much as redistributed it. Discovery now passes through playlists, recommendation systems, search interfaces, short-form video, social media, fan communities and platform design.
 
-Research on streaming curation describes this as a hybrid form of power. Bonini and Gandini’s study of music curators argues that streaming platforms combine human editorial judgement with algorithmic systems, producing “algo-torial” power over what listeners encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2056305119880006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFirst Week Is Editorial, Second Week Is Algorithmicby T Bonini · 2019 · Cited by 371 — This article investigates the logics...</span></span></span> The UK government-commissioned literature review on algorithmic recommendation systems likewise notes that concerns about algorithms are bound up with wider questions about platform influence over music consumption and culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...February 9, 2023 — by D Hesmondhalgh · Cited by 60 — The impact of streaming platf...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
+Research on streaming curation describes this as a hybrid form of power. Bonini and Gandini’s study of music curators argues that streaming platforms combine human editorial judgement with algorithmic systems, producing “algo-torial” power over what listeners encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2056305119880006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFirst Week Is Editorial, Second Week Is Algorithmicby T Bonini · 2019 · Cited by 371 — This article investigates the logics...</span></span></span> The UK government-commissioned literature review on algorithmic recommendation systems likewise notes that concerns about algorithms are bound up with wider questions about platform influence over music consumption and culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...February 9, 2023 — by D Hesmondhalgh · Cited by 60 — The impact of streaming platf...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
 
 This bottleneck is subtle because it often feels like personal choice. A listener opens an app and sees recommendations, mixes, mood playlists and “radio” functions tailored to them. The system may be useful, even delightful. But from an artist’s point of view, it means the crucial question is not merely “Is the song available?” but “Where does it appear, to whom, in what context, and after what signals?”
 
@@ -543,7 +543,7 @@ Music usually needs repetition. A listener may admire a song on first contact, b
 
 That makes music different from many information goods. A news headline may need one click. A song often needs repeated exposure before it becomes meaningful enough to save, share, buy on vinyl, attend live, or treat as part of identity. Attention in music is therefore not just initial notice; it is repeated, emotionally charged notice.
 
-Streaming metrics reflect this. Saves, skips, completion rates, playlist adds and repeat plays all matter because they indicate that a track held attention beyond a passive encounter. Spotify’s own 2023 royalty-system update shows how platforms increasingly distinguish between mere presence and minimum engagement: from early 2024, tracks needed at least 1,000 streams in the previous 12 months to generate recorded [royalties]({{ 'royalties/' | relative_url }}) on Spotify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">modernizing our royalty system</span><span class="citation-popover-snippet">modernizing our royalty system</span></span></span>
+Streaming metrics reflect this. Saves, skips, completion rates, playlist adds and repeat plays all matter because they indicate that a track held attention beyond a passive encounter. Spotify’s own 2023 royalty-system update shows how platforms increasingly distinguish between mere presence and minimum engagement: from early 2024, tracks needed at least 1,000 streams in the previous 12 months to generate recorded [royalties]({{ 'royalties/' | relative_url }}) on Spotify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">modernizing our royalty system</span><span class="citation-popover-snippet">modernizing our royalty system</span></span></span>
 
 That policy is financially specific, not a universal definition of cultural value. But it captures the wider mechanism: in a flooded catalogue, platforms, rights holders and recommendation systems all need thresholds. A track that cannot attract repeated listening may exist in the database without becoming meaningful in the market.
 
@@ -551,9 +551,9 @@ That policy is financially specific, not a universal definition of cultural valu
 
 ## Algorithms can widen taste, but they can also narrow visibility
 
-Recommendation systems are often defended as discovery tools, and they can be. They help listeners navigate huge catalogues and can introduce people to artists they would never find through radio or retail. Spotify’s own research has argued that algorithmic recommendations can interact with the diversity of listening, rather than simply pushing everyone towards the same songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">algorithmic effects on the diversity of consumption on spotify</span></span></span>
+Recommendation systems are often defended as discovery tools, and they can be. They help listeners navigate huge catalogues and can introduce people to artists they would never find through radio or retail. Spotify’s own research has argued that algorithmic recommendations can interact with the diversity of listening, rather than simply pushing everyone towards the same songs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">algorithmic effects on the diversity of consumption on spotify</span></span></span>
 
-The risk is not that algorithms always recommend only the biggest hits. The risk is that optimisation can favour signals that already correlate with attention: previous popularity, strong early engagement, familiar genre markers, low skip rates, playlist compatibility and similarity to what users already like. Older academic work on music recommendation found that recommender systems can be prone to popularity bias, while later research continues to examine how such bias affects fairness, long-tail exposure and cultural diversity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ceur-ws.org/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceur-ws.org">[CEUR-WS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceur-ws.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The risk is not that algorithms always recommend only the biggest hits. The risk is that optimisation can favour signals that already correlate with attention: previous popularity, strong early engagement, familiar genre markers, low skip rates, playlist compatibility and similarity to what users already like. Older academic work on music recommendation found that recommender systems can be prone to popularity bias, while later research continues to examine how such bias affects fairness, long-tail exposure and cultural diversity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ceur-ws.org/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceur-ws.org">[CEUR-WS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceur-ws.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This creates a difficult trade-off. Listeners want recommendations that work quickly. Platforms want sessions to continue. Artists want discovery opportunities. Cultural policy bodies want diversity. These goals overlap, but they are not identical. A system optimised for immediate satisfaction may be less willing to test unfamiliar music; a system designed to maximise diversity may produce recommendations that some listeners skip.
 
@@ -567,7 +567,7 @@ It can also flatten identity. A song placed in a mood playlist may become functi
 
 This is one reason the industry increasingly distinguishes between passive reach and active audience. A song may perform well in a playlist but fail to convert into followers, ticket buyers or committed fans. Conversely, a smaller artist with fewer total streams may have a more valuable audience if listeners actively search, save, buy, attend and advocate.
 
-Deezer’s artist-centric payment model makes this distinction explicit. Its support material and related industry reporting describe a system that gives extra weight to streams from artists meeting minimum engagement thresholds and seeks to reduce the impact of low-value noise or manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.deezer.com">[Deezer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.deezer.com</span><span class="citation-popover-title">Support Artist-Centric Payment Model (ACPS</span><span class="citation-popover-snippet">Support Artist-Centric Payment Model (ACPS</span></span></span> The model is contested, especially by those worried about disadvantaging hobbyists or smaller independents, but it reflects a broad industry anxiety: not all streams represent the same kind of attention.
+Deezer’s artist-centric payment model makes this distinction explicit. Its support material and related industry reporting describe a system that gives extra weight to streams from artists meeting minimum engagement thresholds and seeks to reduce the impact of low-value noise or manipulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.deezer.com">[Deezer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.deezer.com</span><span class="citation-popover-title">Support Artist-Centric Payment Model (ACPS</span><span class="citation-popover-snippet">Support Artist-Centric Payment Model (ACPS</span></span></span> The model is contested, especially by those worried about disadvantaging hobbyists or smaller independents, but it reflects a broad industry anxiety: not all streams represent the same kind of attention.
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff-Illustration-2-dark.svg" | relative_url }}" alt="Attention illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Social media discovery is powerful but unstable
@@ -576,7 +576,7 @@ Short-form video has become one of the most visible routes from obscurity to mas
 
 But social attention is volatile. A viral moment may lift one chorus rather than the whole song, one sound rather than the artist, or one week of curiosity rather than a long-term fanbase. The attention can also be difficult to reproduce. Artists and labels may understand that a platform rewards repeatable formats, but they cannot fully control what users adopt.
 
-Recent streaming data also shows that newness is not the only force competing for attention. AP, summarising Luminate’s 2025 report, noted that global music streams reached 5.1 trillion in 2025, while less than half of US streams came from music released in the previous five years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a5e06a001705cd7e5d3854d8fab901b8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Artificial intelligence further disrupted the industry, with AI artists like Xania Monet and The Velvet Sundown making waves—Monet becomi...</span></span></span> Older catalogue, nostalgia, film and television placements, memes, anniversaries and biopics can all redirect attention away from new releases.
+Recent streaming data also shows that newness is not the only force competing for attention. AP, summarising Luminate’s 2025 report, noted that global music streams reached 5.1 trillion in 2025, while less than half of US streams came from music released in the previous five years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a5e06a001705cd7e5d3854d8fab901b8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Artificial intelligence further disrupted the industry, with AI artists like Xania Monet and The Velvet Sundown making waves—Monet becomi...</span></span></span> Older catalogue, nostalgia, film and television placements, memes, anniversaries and biopics can all redirect attention away from new releases.
 
 This is a central tension in the modern music attention economy. The same systems that can break a new artist overnight can also revive a decades-old hit, amplify a joke sound, reward functional audio, or send listeners back into familiar catalogue. The competition is not only between new artists; it is between every available recording, old and new.
 
@@ -596,7 +596,7 @@ The risk is that artists begin optimising for being sampled rather than being li
 
 Streaming numbers are useful, but they do not capture every kind of musical importance. A local scene, underground genre, protest song, folk tradition, club track or experimental work may matter intensely to a smaller group without generating mass consumption. Conversely, high-volume background music may produce many plays with little cultural attachment.
 
-This distinction matters for policy and criticism. The European Parliament’s 2024 resolution on the music streaming market stressed cultural diversity, discoverability and fair conditions for authors, reflecting concern that streaming platforms play an essential role in shaping what music becomes visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52024IP0020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eur-lex.europa.eu">[EUR-Lex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eur-lex.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A 2026 European Commission-commissioned study on discoverability similarly focuses on how platforms, curation and recommender systems affect access to diverse cultural works online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cultureactioneurope.org/wp-content/uploads/2026/04/study-on-the-discoverability-of-diverse-european-cultural-NC0126059ENN-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultureactioneurope.org">[Culture Action Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultureactioneurope.org</span><span class="citation-popover-title">Culture Action Europestudy-on-the-discoverability-of-diverse-european-cultural</span><span class="citation-popover-snippet">Culture Action Europestudy-on-the-discoverability-of-diverse-european-cultural</span></span></span>
+This distinction matters for policy and criticism. The European Parliament’s 2024 resolution on the music streaming market stressed cultural diversity, discoverability and fair conditions for authors, reflecting concern that streaming platforms play an essential role in shaping what music becomes visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52024IP0020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eur-lex.europa.eu">[EUR-Lex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eur-lex.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A 2026 European Commission-commissioned study on discoverability similarly focuses on how platforms, curation and recommender systems affect access to diverse cultural works online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cultureactioneurope.org/wp-content/uploads/2026/04/study-on-the-discoverability-of-diverse-european-cultural-NC0126059ENN-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cultureactioneurope.org">[Culture Action Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cultureactioneurope.org</span><span class="citation-popover-title">Culture Action Europestudy-on-the-discoverability-of-diverse-european-cultural</span><span class="citation-popover-snippet">Culture Action Europestudy-on-the-discoverability-of-diverse-european-cultural</span></span></span>
 
 The problem is not simply that “popular music is too popular”. Popular music has always existed, and shared hits can be culturally valuable. The sharper concern is whether the infrastructure of discovery gives enough room to less obvious music: local-language work, niche genres, independent artists, new scenes, older recordings outside famous catalogues, and music that needs context before it clicks.
 
@@ -630,194 +630,194 @@ That changes the meaning of success. For major artists, attention scarcity means
 Music’s scarcest resource is attention because attention is where sound becomes culture. Access puts a track within reach. Repetition makes it familiar. Context gives it meaning. Shared attention turns it into a hit, a cult favourite, a scene anthem, a private obsession or a lasting [memory]({{ 'memory/' | relative_url }}). Without that chain, the world’s largest catalogue is still full of music waiting to be heard.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Being Available Is Not Being Heard. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Being Available Is Not Being Heard. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explores music ecosystems, audiences, and discovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores music ecosystems, audiences, and discovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hit Makers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M-gczwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hit Makers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hit Makers">Hit Makers</a>
-        </h4>
-        <p class="fr-book-author">By Derek Thompson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hit Makers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M-gczwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hit Makers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hit Makers">Hit Makers</a>
+</h4>
+<p class="fr-book-author">By Derek Thompson</p>
         
-        <p class="fr-book-desc">Examines why some cultural products break through.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why some cultural products break through.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Helps explain listener engagement and retention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain listener engagement and retention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Relevant to attention scarcity and cultural spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to attention scarcity and cultural spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hit+Makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hit Makers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hit+Makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hit Makers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print"><img src="https://i.ebayimg.com/images/g/JsoAAeSwbodo5AT2/s-l225.jpg" alt="Listing image for Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print"><img src="https://i.ebayimg.com/images/g/JsoAAeSwbodo5AT2/s-l225.jpg" alt="Listing image for Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Gravity Can Not be Held Responsible But Beer Can Wilbur Pierce Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U.S. Marine - Be a Sea Soldier Clarence F. Underwood Poster Print"><img src="https://i.ebayimg.com/images/g/HVUAAeSwlPlo4r-1/s-l225.jpg" alt="Listing image for U.S. Marine - Be a Sea Soldier Clarence F. Underwood Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">U.S. Marine - Be a Sea Soldier Clarence F. Underwood Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U.S. Marine - Be a Sea Soldier Clarence F. Underwood Poster Print"><img src="https://i.ebayimg.com/images/g/HVUAAeSwlPlo4r-1/s-l225.jpg" alt="Listing image for U.S. Marine - Be a Sea Soldier Clarence F. Underwood Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">U.S. Marine - Be a Sea Soldier Clarence F. Underwood Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available"><img src="https://i.ebayimg.com/images/g/BhgAAOSwQhFhn7q8/s-l225.jpg" alt="Listing image for Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available"><img src="https://i.ebayimg.com/images/g/BhgAAOSwQhFhn7q8/s-l225.jpg" alt="Listing image for Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Picture Frame Poster Photo Frame Wooden Effect Various Sizes &amp; Colors Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be a U.S. Marine - Evening Star Building James Montgomery Flagg Poster Print"><img src="https://i.ebayimg.com/images/g/LBQAAeSwkNFo4r~X/s-l225.jpg" alt="Listing image for Be a U.S. Marine - Evening Star Building James Montgomery Flagg Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Be a U.S. Marine - Evening Star Building James Montgomery Flagg Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be a U.S. Marine - Evening Star Building James Montgomery Flagg Poster Print"><img src="https://i.ebayimg.com/images/g/LBQAAeSwkNFo4r~X/s-l225.jpg" alt="Listing image for Be a U.S. Marine - Evening Star Building James Montgomery Flagg Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">Be a U.S. Marine - Evening Star Building James Montgomery Flagg Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Being Available Not Being poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Being Available Not Being poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Being+Available+Not+Being+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-being-available-is-not-being-heard-being-available-not-being-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Being Available Not Being poster" data-ebay-reference="why-being-available-is-not-being-heard-being-available-not-being-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -833,7 +833,7 @@ Music’s scarcest resource is attention because attention is where sound become
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -853,7 +853,7 @@ Music’s scarcest resource is attention because attention is where sound become
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -885,7 +885,7 @@ Music’s scarcest resource is attention because attention is where sound become
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -937,7 +937,7 @@ Music’s scarcest resource is attention because attention is where sound become
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -982,7 +982,7 @@ Music’s scarcest resource is attention because attention is where sound become
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1023,208 +1023,208 @@ Music’s scarcest resource is attention because attention is where sound become
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/company-info/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/company-info/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About SpotifyToday, more listeners than ever can discover, manage and enjoy over 100 million tracks, 7 million podcast titles, and...</p></details>
+   Link:<a href="https://newsroom.spotify.com/company-info/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/company-info/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About SpotifyToday, more listeners than ever can discover, manage and enjoy over 100 million tracks, 7 million podcast titles, and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...February 9, 2023 — by D Hesmondhalgh · Cited by 60 — The impact of streaming platf...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...February 9, 2023 — by D Hesmondhalgh · Cited by 60 — The impact of streaming platf...</p></details>
    Published: February 9, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
+   Link:<a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ceur-ws.org  
-   Link: <a href="https://ceur-ws.org/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-633/wom2010_paper10.pdf</a>  
+   Link:<a href="https://ceur-ws.org/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-633/wom2010_paper10.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: support.deezer.com  
    Title: Support Artist-Centric Payment Model (ACPS)  
-   Link: <a href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow">https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS</a>  
+   Link:<a href="https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS" target="_blank" rel="noopener noreferrer nofollow">https://support.deezer.com/hc/en-gb/articles/360002471277-Artist-Centric-Payment-Model-ACPS</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: open.spotify.com  
    Title: 2u Ufikj W8NUco XOe Wpd Iu8  
-   Link: <a href="https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8</a>  
+   Link:<a href="https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/2uUfikjW8NUcoXOeWpdIu8</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spotify.com  
-   Link: <a href="https://www.spotify.com/loudandclear" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/loudandclear</a>  
+   Link:<a href="https://www.spotify.com/loudandclear" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/loudandclear</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newsroom.spotify.com  
    Title: loud and clear music economics highlights  
-   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
+   Link:<a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsroom.spotify.com  
    Title: 2025 music industry payouts whats next for artists  
-   Link: <a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
+   Link:<a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: artists.spotify.com  
    Title: royalties guide  
-   Link: <a href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/royalties-guide</a>  
+   Link:<a href="https://artists.spotify.com/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/royalties-guide</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2025-05-28/the-latest-spotify-data-shows-eu-artists-generated-a-record-breaking-e1-7b-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-05-28/the-latest-spotify-data-shows-eu-artists-generated-a-record-breaking-e1-7b-in-2024/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-05-28/the-latest-spotify-data-shows-eu-artists-generated-a-record-breaking-e1-7b-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-05-28/the-latest-spotify-data-shows-eu-artists-generated-a-record-breaking-e1-7b-in-2024/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newsroom.spotify.com  
    Title: canadian artists loud and clear  
-   Link: <a href="https://newsroom.spotify.com/2026-03-24/canadian-artists-loud-and-clear/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-24/canadian-artists-loud-and-clear/</a>  
+   Link:<a href="https://newsroom.spotify.com/2026-03-24/canadian-artists-loud-and-clear/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-24/canadian-artists-loud-and-clear/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: artists.spotify.com  
    Title: what were building for artists in 2026  
-   Link: <a href="https://artists.spotify.com/blog/what-were-building-for-artists-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/what-were-building-for-artists-in-2026</a>  
+   Link:<a href="https://artists.spotify.com/blog/what-were-building-for-artists-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/what-were-building-for-artists-in-2026</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newsroom.spotify.com  
    Title: on our 10 billion milestone and a decade of getting the world to value music  
-   Link: <a href="https://newsroom.spotify.com/2025-01-28/on-our-10-billion-milestone-and-a-decade-of-getting-the-world-to-value-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-01-28/on-our-10-billion-milestone-and-a-decade-of-getting-the-world-to-value-music/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-01-28/on-our-10-billion-milestone-and-a-decade-of-getting-the-world-to-value-music/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-01-28/on-our-10-billion-milestone-and-a-decade-of-getting-the-world-to-value-music/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newsroom.spotify.com  
    Title: from audio to video spotifys 100 million payout fuels creator success stories  
-   Link: <a href="https://newsroom.spotify.com/2025-04-28/from-audio-to-video-spotifys-100-million-payout-fuels-creator-success-stories/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-04-28/from-audio-to-video-spotifys-100-million-payout-fuels-creator-success-stories/</a>  
+   Link:<a href="https://newsroom.spotify.com/2025-04-28/from-audio-to-video-spotifys-100-million-payout-fuels-creator-success-stories/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-04-28/from-audio-to-video-spotifys-100-million-payout-fuels-creator-success-stories/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.[publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;). service.gov.uk  
    Title: Ormosi and Savani  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/62543108d3bf7f6004339d46/Ormosi_and_Savani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62543108d3bf7f6004339d46/Ormosi_and_Savani.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/62543108d3bf7f6004339d46/Ormosi_and_Savani.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62543108d3bf7f6004339d46/Ormosi_and_Savani.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5802/cmselect/cmcumeds/50/50.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/quarter-of-a-billion-tracks-now-sit-on-music-streaming-services-where-does-it-end/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideMusic streaming platforms now host quarter of a BILLION...14 Jan 2026 — While 88% of tracks received 1,000 or fe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2056305119880006" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305119880006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFirst Week Is Editorial, Second Week Is Algorithmicby T Bonini · 2019 · Cited by 371 — This article investigates the logics...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2056305119880006" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2056305119880006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFirst Week Is Editorial, Second Week Is Algorithmicby T Bonini · 2019 · Cited by 371 — This article investigates the logics...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
+   Link:<a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/a5e06a001705cd7e5d3854d8fab901b8" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a5e06a001705cd7e5d3854d8fab901b8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence further disrupted the industry, with AI artists like Xania Monet and The Velvet Sundown making waves—Monet becomi...</p></details>
+   Link:<a href="https://apnews.com/article/a5e06a001705cd7e5d3854d8fab901b8" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a5e06a001705cd7e5d3854d8fab901b8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence further disrupted the industry, with AI artists like Xania Monet and The Velvet Sundown making waves—Monet becomi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eur-lex.europa.eu  
-   Link: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52024IP0020" target="_blank" rel="noopener noreferrer nofollow">https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52024IP0020</a>  
+   Link:<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52024IP0020" target="_blank" rel="noopener noreferrer nofollow">https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52024IP0020</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cultureactioneurope.org  
    Title: Culture Action Europestudy-on-the-discoverability-of-diverse-european-cultural  
-   Link: <a href="https://cultureactioneurope.org/wp-content/uploads/2026/04/study-on-the-discoverability-of-diverse-european-cultural-NC0126059ENN-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cultureactioneurope.org/wp-content/uploads/2026/04/study-on-the-discoverability-of-diverse-european-cultural-NC0126059ENN-1.pdf</a>  
+   Link:<a href="https://cultureactioneurope.org/wp-content/uploads/2026/04/study-on-the-discoverability-of-diverse-european-cultural-NC0126059ENN-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cultureactioneurope.org/wp-content/uploads/2026/04/study-on-the-discoverability-of-diverse-european-cultural-NC0126059ENN-1.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cultureactioneurope.org  
-   Link: <a href="https://cultureactioneurope.org/knowledge/eu-study-on-the-discoverability-of-diverse-european-cultural-content-in-the-digital-environment/" target="_blank" rel="noopener noreferrer nofollow">https://cultureactioneurope.org/knowledge/eu-study-on-the-discoverability-of-diverse-european-cultural-content-in-the-digital-environment/</a>  
+   Link:<a href="https://cultureactioneurope.org/knowledge/eu-study-on-the-discoverability-of-diverse-european-cultural-content-in-the-digital-environment/" target="_blank" rel="noopener noreferrer nofollow">https://cultureactioneurope.org/knowledge/eu-study-on-the-discoverability-of-diverse-european-cultural-content-in-the-digital-environment/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
+   Link:<a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/data/catalog-vs-current-market-share-of-annual-total-music-consumption-in-the-us-via-luminate/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/half-of-all-paid-music-streams-globally-derive-from-just-4-countries-and-other-highlights-from-luminates-latest-report/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: musicbusinessworldwide.com  
    Title: deezers artist centric model now has a new element dubbed user centric  
-   Link: <a href="https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/deezers-artist-centric-model-now-has-a-new-element-dubbed-user-centric/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: rebelbuzz.medium.com  
    Title: spotify playlists algorithms and power 3757316b9055  
-   Link: <a href="https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055" target="_blank" rel="noopener noreferrer nofollow">https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055</a>  
+   Link:<a href="https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055" target="_blank" rel="noopener noreferrer nofollow">https://rebelbuzz.medium.com/spotify-playlists-algorithms-and-power-3757316b9055</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: anythingcounter.com  
    Title: spotify uploads per day  
-   Link: <a href="https://anythingcounter.com/spotify-uploads-per-day" target="_blank" rel="noopener noreferrer nofollow">https://anythingcounter.com/spotify-uploads-per-day</a>  
+   Link:<a href="https://anythingcounter.com/spotify-uploads-per-day" target="_blank" rel="noopener noreferrer nofollow">https://anythingcounter.com/spotify-uploads-per-day</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVwIjrRDMae/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVwIjrRDMae/</a>  
+   Link:<a href="https://www.instagram.com/p/DVwIjrRDMae/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVwIjrRDMae/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aepo-artis.org  
    Title: spotifys loud but not so clear  
-   Link: <a href="https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/" target="_blank" rel="noopener noreferrer nofollow">https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/</a>  
+   Link:<a href="https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/" target="_blank" rel="noopener noreferrer nofollow">https://www.aepo-artis.org/spotifys-loud-but-not-so-clear/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: completemusicupdate.com  
-   Link: <a href="https://completemusicupdate.com/spotify-publishes-new-loud-clear-says-the-focus-now-is-artists-dependent-on-streaming-as-part-of-their-livelihood/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/spotify-publishes-new-loud-clear-says-the-focus-now-is-artists-dependent-on-streaming-as-part-of-their-livelihood/</a>  
+   Link:<a href="https://completemusicupdate.com/spotify-publishes-new-loud-clear-says-the-focus-now-is-artists-dependent-on-streaming-as-part-of-their-livelihood/" target="_blank" rel="noopener noreferrer nofollow">https://completemusicupdate.com/spotify-publishes-new-loud-clear-says-the-focus-now-is-artists-dependent-on-streaming-as-part-of-their-livelihood/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Reason You Hate Spotify Is You’re Trying to Sell Music, (Not This)!  
-   Link: <a href="http://www.youtube.com/watch?v=rzX6gPlcTtk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rzX6gPlcTtk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Nobody Noticed About the Spotify–UMG AI Trend in 2026...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rzX6gPlcTtk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rzX6gPlcTtk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Nobody Noticed About the Spotify–UMG AI Trend in 2026...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Music Recommender System Using Python  
-   Link: <a href="http://www.youtube.com/watch?v=jm9JamrbSv8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jm9JamrbSv8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attention economy music industry streaming saturation The Real Reason Why Music Is Getting Worse Rick Beato...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=jm9JamrbSv8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jm9JamrbSv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attention economy music industry streaming saturation The Real Reason Why Music Is Getting Worse Rick Beato...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=kInm5xD3RYo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kInm5xD3RYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reason You Hate Spotify Is You’re Trying to Sell Music, (Not This)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kInm5xD3RYo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kInm5xD3RYo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reason You Hate Spotify Is You’re Trying to Sell Music, (Not This)...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337432337_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337432337_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation</a>  
+   Link:<a href="https://www.researchgate.net/publication/337432337_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337432337_First_Week_Is_Editorial_Second_Week_Is_Algorithmic_Platform_Gatekeepers_and_the_Platformization_of_Music_Curation</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services</a>  
+   Link:<a href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/842634910/BONINI-Tiziano-GANDINI-Alessandro-First-week-is-editorial-second-week-is-algorithmic" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842634910/BONINI-Tiziano-GANDINI-Alessandro-First-week-is-editorial-second-week-is-algorithmic</a>  
+   Link:<a href="https://www.scribd.com/document/842634910/BONINI-Tiziano-GANDINI-Alessandro-First-week-is-editorial-second-week-is-algorithmic" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/842634910/BONINI-Tiziano-GANDINI-Alessandro-First-week-is-editorial-second-week-is-algorithmic</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: naspread.eu  
-   Link: <a href="https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html</a>  
+   Link:<a href="https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.naspread.eu/en/contributions-en/articles-en/behind-your-favorite-playlists-spotify-apple-music-tidal-and-the-rest.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: policycommons.net  
-   Link: <a href="https://policycommons.net/artifacts/4305971/research-for-cult-committee-cultural-diversity-and-the-conditions-for-authors-in-the-european-music-streaming-market/view/" target="_blank" rel="noopener noreferrer nofollow">https://policycommons.net/artifacts/4305971/research-for-cult-committee-cultural-diversity-and-the-conditions-for-authors-in-the-european-music-streaming-market/view/</a>  
+   Link:<a href="https://policycommons.net/artifacts/4305971/research-for-cult-committee-cultural-diversity-and-the-conditions-for-authors-in-the-european-music-streaming-market/view/" target="_blank" rel="noopener noreferrer nofollow">https://policycommons.net/artifacts/4305971/research-for-cult-committee-cultural-diversity-and-the-conditions-for-authors-in-the-european-music-streaming-market/view/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: keanet.eu  
-   Link: <a href="https://keanet.eu/projects/projects/discoverability-of-diverse-cultural-european-content-in-the-digital-environment" target="_blank" rel="noopener noreferrer nofollow">https://keanet.eu/projects/projects/discoverability-of-diverse-cultural-european-content-in-the-digital-environment</a>  
+   Link:<a href="https://keanet.eu/projects/projects/discoverability-of-diverse-cultural-european-content-in-the-digital-environment" target="_blank" rel="noopener noreferrer nofollow">https://keanet.eu/projects/projects/discoverability-of-diverse-cultural-european-content-in-the-digital-environment</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/</a>
+   Link:<a href="https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/deezer/comments/1sl5j2z/does_anyone_else_feel_like_deezers_artistcentric/</a>

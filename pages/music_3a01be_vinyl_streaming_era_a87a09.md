@@ -498,7 +498,7 @@ image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09-overview-social.jp
 Vinyl survived the streaming era because it stopped competing with streaming on convenience and became valuable for what streaming cannot provide: touch, ritual, artwork, [ownership]({{ 'ownership/' | relative_url }}), [scarcity]({{ 'scarcity/' | relative_url }}) and a visible bond between fan and artist. Streaming made music instantly available, but it also made recorded music feel less ownable. Vinyl answered that gap by turning an album back into an object: something bought deliberately, displayed, played through a sound system, collected in editions, discovered in shops and remembered as part of a personal library.
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09-overview.webp" | relative_url }}" alt="Overview image for Vinyl" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean vinyl replaced streaming. It lives beside it. The same listener may discover an artist on a playlist, stream the album all week, then buy the record as a keepsake or as the version they want to sit with. The numbers show that this is not just nostalgia: in the United States, vinyl [albums]({{ 'albums/' | relative_url }}) outsold CDs in units in 2022 for the first time since 1987, and RIAA data showed vinyl revenue continuing to grow through 2023. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2023/03/2022-Year-End-Music-Industry-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">2022 Year End Music Industry Revenue Report</span><span class="citation-popover-snippet">For the first time since. 1987, vinyl albums outsold CDs in units (41 million vs 33 million). After a 2021 rebound versus...Read more...</span></span></span> In the UK, vinyl album sales reached 6.7 million units in 2024, the format’s 17th consecutive year of growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Official Charts</span></span></span>
+That does not mean vinyl replaced streaming. It lives beside it. The same listener may discover an artist on a playlist, stream the album all week, then buy the record as a keepsake or as the version they want to sit with. The numbers show that this is not just nostalgia: in the United States, vinyl [albums]({{ 'albums/' | relative_url }}) outsold CDs in units in 2022 for the first time since 1987, and RIAA data showed vinyl revenue continuing to grow through 2023.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2023/03/2022-Year-End-Music-Industry-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">2022 Year End Music Industry Revenue Report</span><span class="citation-popover-snippet">For the first time since. 1987, vinyl albums outsold CDs in units (41 million vs 33 million). After a 2021 rebound versus...Read more...</span></span></span> In the UK, vinyl album sales reached 6.7 million units in 2024, the format’s 17th consecutive year of growth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Official Charts</span></span></span>
 
 ## Streaming made vinyl less necessary, but more meaningful
 
@@ -506,7 +506,7 @@ Streaming solved the practical problem that [physical]({{ 'physical/' | relative
 
 The modern record buyer is not usually buying access. They are buying presence. A stream is available everywhere, but it is also easy to skip, shuffle, forget or lose inside a platform interface. A record is slower: it has to be chosen, removed from its sleeve, placed on a turntable and turned over. That friction is part of the appeal. It makes listening feel like an event rather than [background]({{ 'background/' | relative_url }}) supply.
 
-This is why vinyl’s survival is better understood as a change in function than a technological comeback. Streaming became the everyday utility; vinyl became the deliberate format. IFPI’s 2026 global report still places paid streaming at the centre of recorded music growth, with global recorded music revenue reaching US$31.7 billion in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> Yet Reuters’ summary of the same IFPI reporting noted that physical formats also grew in 2025, with vinyl rising strongly even while streaming accounted for most global music income. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming boosts global music revenues once again 2025 report shows 2026 03 18</span><span class="citation-popover-snippet">IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</span></span></span>
+This is why vinyl’s survival is better understood as a change in function than a technological comeback. Streaming became the everyday utility; vinyl became the deliberate format. IFPI’s 2026 global report still places paid streaming at the centre of recorded music growth, with global recorded music revenue reaching US$31.7 billion in 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> Yet Reuters’ summary of the same IFPI reporting noted that physical formats also grew in 2025, with vinyl rising strongly even while streaming accounted for most global music income.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming boosts global music revenues once again 2025 report shows</span><span class="citation-popover-snippet">IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</span></span></span>
 
 That coexistence matters. Vinyl did not survive by beating digital music at digital music’s own strengths. It survived by becoming the format for fans who want listening to feel less invisible.
 
@@ -515,7 +515,7 @@ That coexistence matters. Vinyl did not survive by beating digital music at digi
 
 In the CD era, ownership was partly about access: you bought an album because that was how you played it whenever you wanted. In the streaming era, ownership is more symbolic. Buying vinyl says: this album matters enough to take up space.
 
-That is a powerful shift. A streaming library can contain thousands of saved albums, but it rarely communicates commitment in the same way as a shelf of records. A record collection is visible to visitors, sortable by memory, and tied to stories: where it was bought, who recommended it, which gig or period of life it belongs to. Research on vinyl consumption in the age of streaming has repeatedly emphasised materiality, memory and collecting as central to the format’s appeal. Sophie Whitehouse’s study of UK indie-pop vinyl consumers, for example, used album artwork as interview prompts and found that vinyl’s physicality helped listeners recall lost or transformed practices of music discovery and attachment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is a powerful shift. A streaming library can contain thousands of saved albums, but it rarely communicates commitment in the same way as a shelf of records. A record collection is visible to visitors, sortable by memory, and tied to stories: where it was bought, who recommended it, which gig or period of life it belongs to. Research on vinyl consumption in the age of streaming has repeatedly emphasised materiality, memory and collecting as central to the format’s appeal. Sophie Whitehouse’s study of UK indie-pop vinyl consumers, for example, used album artwork as interview prompts and found that vinyl’s physicality helped listeners recall lost or transformed practices of music discovery and attachment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Ownership also gives fans a sense of permanence in a platform economy. Streaming catalogues can change because of licensing, rights disputes, regional availability or platform policy. Vinyl is not immune to damage, price inflation or scarcity, but once bought it exists outside the subscription account. For some listeners, that is reassuring. For others, it is simply pleasurable: the record is a personal artefact, not just a line in a database.
 
@@ -539,7 +539,7 @@ Album artwork never disappeared online, but it shrank. On streaming platforms, c
 
 This is one reason vinyl became newly attractive in a highly visual music culture. Social media did not kill physical media; in some cases it made it more displayable. A coloured pressing, signed sleeve or deluxe gatefold photographs well. It lets fans show taste, loyalty and identity in a way that a private stream does not.
 
-The artwork function is especially important for younger listeners who did not grow up with vinyl as the default format. For them, buying a record is not necessarily a nostalgic return to childhood. It can be a first encounter with an album as a large-format visual object. The UK pattern supports this broader appeal: Official Charts reported that 2024 was the highest UK vinyl album sales total in three decades, with contemporary artists sitting alongside catalogue favourites in the year’s vinyl market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Official Charts</span></span></span>
+The artwork function is especially important for younger listeners who did not grow up with vinyl as the default format. For them, buying a record is not necessarily a nostalgic return to childhood. It can be a first encounter with an album as a large-format visual object. The UK pattern supports this broader appeal: Official Charts reported that 2024 was the highest UK vinyl album sales total in three decades, with contemporary artists sitting alongside catalogue favourites in the year’s vinyl market.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Official Charts</span></span></span>
 
 Vinyl therefore survived partly because it made recorded music decorative, legible and giftable again. In a streaming world where songs are weightless, the album sleeve became a reason to buy.
 
@@ -547,18 +547,18 @@ Vinyl therefore survived partly because it made recorded music decorative, legib
 
 Streaming offers abundance. Vinyl often offers scarcity. Limited pressings, colour variants, anniversary editions, Record Store Day exclusives, signed copies and retailer-specific versions all turn purchase into a time-sensitive act. That can be exciting for collectors, but it also reveals a tension in the revival: some scarcity is culturally meaningful, and some is simply commercial pressure.
 
-Record Store Day is a clear example of how scarcity can support a physical music ecosystem. In the UK and Ireland, around 300 independent record shops take part, with the event built around shop culture, exclusive releases and in-person discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordstoreday.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordstoreday.co.uk">[recordstoreday.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordstoreday.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Official Charts estimated that the 443 exclusive releases for Record Store Day UK 2024 represented nearly £10 million in sales value, showing how a single event can concentrate demand around independent retail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Official Charts</span></span></span>
+Record Store Day is a clear example of how scarcity can support a physical music ecosystem. In the UK and Ireland, around 300 independent record shops take part, with the event built around shop culture, exclusive releases and in-person discovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordstoreday.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordstoreday.co.uk">[recordstoreday.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordstoreday.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Official Charts estimated that the 443 exclusive releases for Record Store Day UK 2024 represented nearly £10 million in sales value, showing how a single event can concentrate demand around independent retail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Official Charts</span></span></span>
 
-Major pop releases have pushed the same mechanism further. Taylor Swift’s recent albums, for example, have shown how multiple vinyl editions can drive enormous first-week physical sales. ERA reported that during the UK chart week of Record Store Day 2024 and the release of The Tortured Poets Department, vinyl sales reached their highest weekly level since current statistics began in 1994, with Swift’s album accounting for just under a quarter of vinyl album sales that week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eraltd.org/record-store-day-x-taylor-swift-uk-vinyl-sales-have-their-best-week-in-30-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eraltd.org">[Entertainment Retailers Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eraltd.org</span><span class="citation-popover-title">record store day x taylor swift uk vinyl sales have their best week in 30 years</span><span class="citation-popover-snippet">record store day x taylor swift uk vinyl sales have their best week in 30 years</span></span></span> AP later reported that The Life of a Showgirl set a new US first-week benchmark, including a record vinyl total. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3a64afd94014fd6aa22436f5132acccc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Thanks to multiple exclusive physical variants released through outlets like Target and her wide vinyl offerings, Swift dominated music s...</span></span></span>
+Major pop releases have pushed the same mechanism further. Taylor Swift’s recent albums, for example, have shown how multiple vinyl editions can drive enormous first-week physical sales. ERA reported that during the UK chart week of Record Store Day 2024 and the release of The Tortured Poets Department, vinyl sales reached their highest weekly level since current statistics began in 1994, with Swift’s album accounting for just under a quarter of vinyl album sales that week.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eraltd.org/record-store-day-x-taylor-swift-uk-vinyl-sales-have-their-best-week-in-30-years" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eraltd.org">[Entertainment Retailers Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eraltd.org</span><span class="citation-popover-title">record store day x taylor swift uk vinyl sales have their best week in 30 years</span><span class="citation-popover-snippet">record store day x taylor swift uk vinyl sales have their best week in 30 years</span></span></span> AP later reported that The Life of a Showgirl set a new US first-week benchmark, including a record vinyl total.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3a64afd94014fd6aa22436f5132acccc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Thanks to multiple exclusive physical variants released through outlets like Target and her wide vinyl offerings, Swift dominated music s...</span></span></span>
 
-The downside is that variant culture can look wasteful or manipulative when fans are encouraged to buy several near-identical copies. Billie Eilish publicly criticised the industry-wide practice of releasing multiple vinyl variants to boost sales, calling it wasteful, while also acknowledging the pressure artists face to participate in that system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Billie Eilish criticises musicians for releasing multiple vinyl</span><span class="citation-popover-snippet">The Guardian Billie Eilish criticises musicians for releasing multiple vinyl</span></span></span> The criticism does not disprove vinyl’s appeal; it shows how powerful that appeal has become as a sales mechanism.
+The downside is that variant culture can look wasteful or manipulative when fans are encouraged to buy several near-identical copies. Billie Eilish publicly criticised the industry-wide practice of releasing multiple vinyl variants to boost sales, calling it wasteful, while also acknowledging the pressure artists face to participate in that system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Billie Eilish criticises musicians for releasing multiple vinyl</span><span class="citation-popover-snippet">The Guardian Billie Eilish criticises musicians for releasing multiple vinyl</span></span></span> The criticism does not disprove vinyl’s appeal; it shows how powerful that appeal has become as a sales mechanism.
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09-Illustration-2-dark.svg" | relative_url }}" alt="Vinyl illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Record shops made vinyl social
 
 Streaming is often solitary, even when playlists are shared. Vinyl has retained a social infrastructure: record shops, fairs, listening bars, DJ culture, in-store performances, queues, staff recommendations and collector communities. These spaces give the format cultural weight beyond the object itself.
 
-Independent record shops are especially important because they turn discovery into a place-based activity. Searching through crates is slower than search-bar discovery, but it creates chance encounters: an unfamiliar sleeve, a staff pick, a used copy, a local release, a conversation at the counter. Academic work on independent record shops has argued that some shops remain attractive not despite digital abundance but because they offer curation, social interaction and a specialised consumption space that streaming cannot reproduce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uu.diva-portal.org/smash/get/diva2%3A1255423/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uu.diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uu.diva-portal.org</span><span class="citation-popover-title">Diva Portal Death by streaming or vinyl revival? Exploring the spatial</span><span class="citation-popover-snippet">Diva Portal Death by streaming or vinyl revival? Exploring the spatial</span></span></span>
+Independent record shops are especially important because they turn discovery into a place-based activity. Searching through crates is slower than search-bar discovery, but it creates chance encounters: an unfamiliar sleeve, a staff pick, a used copy, a local release, a conversation at the counter. Academic work on independent record shops has argued that some shops remain attractive not despite digital abundance but because they offer curation, social interaction and a specialised consumption space that streaming cannot reproduce.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uu.diva-portal.org/smash/get/diva2%3A1255423/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uu.diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uu.diva-portal.org</span><span class="citation-popover-title">Diva Portal Death by streaming or vinyl revival? Exploring the spatial</span><span class="citation-popover-snippet">Diva Portal Death by streaming or vinyl revival? Exploring the spatial</span></span></span>
 
 Record shops also help bridge generations. Older buyers may return to records they once owned; younger buyers may enter through contemporary pop, hip-hop, indie, [dance music]({{ 'dance-music/' | relative_url }}), metal, jazz reissues or soundtrack releases. The shop gives those groups a shared setting. That mixture is part of why vinyl has avoided becoming only a retro hobby.
 
@@ -582,9 +582,9 @@ Vinyl is expensive compared with a monthly subscription. That is part of its lim
 
 This helps explain why vinyl is so closely tied to dedicated fanbases. Pop superstars can sell huge numbers of variants; independent artists can use small runs as merchandise; legacy artists can reissue classic albums for collectors; dance and DJ communities can maintain format-specific practices. The format works best where there is a reason to own, display or use the object.
 
-Direct-to-consumer sales have strengthened this logic. Luminate’s 2024 reporting, summarised by Record of the Day, found that direct-to-consumer music sales made up 63% of first-week physical album sales among the top 200 US albums for the year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That suggests vinyl is not merely a retail throwback. It has become part of the modern fan-commerce system, where artists sell physical editions directly to audiences who already stream them.
+Direct-to-consumer sales have strengthened this logic. Luminate’s 2024 reporting, summarised by Record of the Day, found that direct-to-consumer music sales made up 63% of first-week physical album sales among the top 200 US albums for the year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Record of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That suggests vinyl is not merely a retail throwback. It has become part of the modern fan-commerce system, where artists sell physical editions directly to audiences who already stream them.
 
-The risk is that the same mechanism can favour the biggest artists. Pressing capacity, marketing budgets and variant campaigns can crowd out smaller acts, especially when manufacturing backlogs occur. Reports around Adele’s 30 and other major releases showed how large vinyl orders and retailer-specific colour variants strained production schedules during the early-2020s vinyl boom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2021/music/news/adele-vinyl-record-pressing-plant-lp-shortages-1235103951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">adele vinyl record pressing plant lp shortages 1235103951</span><span class="citation-popover-snippet">adele vinyl record pressing plant lp shortages 1235103951</span></span></span> Vinyl’s survival is therefore both a cultural success story and a supply-chain challenge.
+The risk is that the same mechanism can favour the biggest artists. Pressing capacity, marketing budgets and variant campaigns can crowd out smaller acts, especially when manufacturing backlogs occur. Reports around Adele’s 30 and other major releases showed how large vinyl orders and retailer-specific colour variants strained production schedules during the early-2020s vinyl boom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2021/music/news/adele-vinyl-record-pressing-plant-lp-shortages-1235103951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">adele vinyl record pressing plant lp shortages 1235103951</span><span class="citation-popover-snippet">adele vinyl record pressing plant lp shortages 1235103951</span></span></span> Vinyl’s survival is therefore both a cultural success story and a supply-chain challenge.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/paGFlWYJY3Q" title="What has driven the vinyl revival? | Core Insights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=paGFlWYJY3Q" target="_blank" rel="noopener noreferrer">What has driven the vinyl revival? | Core Insights</a></p><p class="youtube-embed-meta">Channel: Warwick Business School &middot; Views: 201 &middot; Uploaded: March 2025 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=paGFlWYJY3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=paGFlWYJY3Q">Open on YouTube</a></p></div></div></div>
 
@@ -592,201 +592,201 @@ The risk is that the same mechanism can favour the biggest artists. Pressing cap
 
 Vinyl survived because it found a complementary role rather than a replacement role. Streaming is the map: it lets listeners roam through almost everything. Vinyl is the landmark: it marks the albums, artists and memories that listeners want to make physical.
 
-That relationship is visible in the data. Streaming still dominates recorded music revenue, but vinyl has kept growing inside that streaming-led environment. In the UK, BPI reported that recorded music revenue rose to £1.57 billion in 2025, with streaming revenue at £1.07 billion and physical revenue also increasing, led by a 19.9% rise in vinyl sales. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bpi.co.uk/news/13097053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpi.co.uk">[BPI Membership Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpi.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In the US, Luminate reported that vinyl remained the most purchased physical music format in 2025, with 47.8 million vinyl records sold compared with 33.8 million CDs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That relationship is visible in the data. Streaming still dominates recorded music revenue, but vinyl has kept growing inside that streaming-led environment. In the UK, BPI reported that recorded music revenue rose to £1.57 billion in 2025, with streaming revenue at £1.07 billion and physical revenue also increasing, led by a 19.9% rise in vinyl sales.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bpi.co.uk/news/13097053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpi.co.uk">[BPI Membership Community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpi.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In the US, Luminate reported that vinyl remained the most purchased physical music format in 2025, with 47.8 million vinyl records sold compared with 33.8 million CDs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordoftheday.com">[Luminate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordoftheday.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The broader lesson is that convenience does not erase the desire for objects. In music, the most convenient format became so frictionless that it created space for a slower one. Vinyl gives fans proof of attachment, a designed artefact, a listening ritual and a connection to shops and scenes. It is less convenient than streaming, but that is precisely why it still has a job to do.
 
 <img src="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09-Illustration-3-dark.svg" | relative_url }}" alt="Vinyl illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_vinyl_streaming_era_a87a09-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vinyl Came Back In A Digital Age. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vinyl Came Back In A Digital Age. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Provides context for the digital disruption that made vinyl&#x27;s role change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the digital disruption that made vinyl&#x27;s role change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Perfecting Sound Forever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6297164-M.jpg" alt="Cover for Perfecting Sound Forever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Perfecting Sound Forever">Perfecting Sound Forever</a>
-        </h4>
-        <p class="fr-book-author">By Greg Milner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Perfecting Sound Forever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6297164-M.jpg" alt="Cover for Perfecting Sound Forever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Perfecting Sound Forever">Perfecting Sound Forever</a>
+</h4>
+<p class="fr-book-author">By Greg Milner</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Sound, History, Musical perception, Psychological aspects, Recording and reproducing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Sound, History, Musical perception, Psychological aspects, Recording and reproducing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl">Vinyl</a>
-        </h4>
-        <p class="fr-book-author">By Mike Evans</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl">Vinyl</a>
+</h4>
+<p class="fr-book-author">By Mike Evans</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Sound recordings, Album covers, Pictorial works, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Sound recordings, Album covers, Pictorial works, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vinyl+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen+Graham+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vinyl Revival And The Shops That Made It Happen on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen+Graham+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vinyl Revival And The Shops That Made It Happen">The Vinyl Revival And The Shops That Made It Happen</a>
-        </h4>
-        <p class="fr-book-author">By Graham Jones</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen+Graham+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vinyl Revival And The Shops That Made It Happen on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen+Graham+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vinyl Revival And The Shops That Made It Happen">The Vinyl Revival And The Shops That Made It Happen</a>
+</h4>
+<p class="fr-book-author">By Graham Jones</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Sound recording industry, Sound recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen+Graham+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Sound recording industry, Sound recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen+Graham+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Perfecting+Sound+Forever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Perfecting Sound Forever</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Perfecting+Sound+Forever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Perfecting Sound Forever</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display"><img src="https://i.ebayimg.com/images/g/KqYAAOSwZKFnClFR/s-l225.jpg" alt="Listing image for 12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display"><img src="https://i.ebayimg.com/images/g/KqYAAOSwZKFnClFR/s-l225.jpg" alt="Listing image for 12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">12&quot; Vinyl LP Record and Album Cover Black Frame Memorabilia Wall Art Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search<span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Record Display Stand Drying Rack, Vinyl Record Storage 6-Album Display Ho"><img src="https://i.ebayimg.com/images/g/NuwAAeSw9WJqIKzc/s-l225.jpg" alt="Listing image for Vinyl Record Display Stand Drying Rack, Vinyl Record Storage 6-Album Display Ho" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">Vinyl Record Display Stand Drying Rack, Vinyl Record Storage 6-Album Display Ho</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Record Display Stand Drying Rack, Vinyl Record Storage 6-Album Display Ho"><img src="https://i.ebayimg.com/images/g/NuwAAeSw9WJqIKzc/s-l225.jpg" alt="Listing image for Vinyl Record Display Stand Drying Rack, Vinyl Record Storage 6-Album Display Ho" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">Vinyl Record Display Stand Drying Rack, Vinyl Record Storage 6-Album Display Ho</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search<span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOW Playing Vinyl Record Stand Vinyl Record Holder Display Wood Records1361"><img src="https://i.ebayimg.com/images/g/PaEAAeSw6Y5ntpNa/s-l225.jpg" alt="Listing image for NOW Playing Vinyl Record Stand Vinyl Record Holder Display Wood Records1361" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">NOW Playing Vinyl Record Stand Vinyl Record Holder Display Wood Records1361</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOW Playing Vinyl Record Stand Vinyl Record Holder Display Wood Records1361"><img src="https://i.ebayimg.com/images/g/PaEAAeSw6Y5ntpNa/s-l225.jpg" alt="Listing image for NOW Playing Vinyl Record Stand Vinyl Record Holder Display Wood Records1361" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">NOW Playing Vinyl Record Stand Vinyl Record Holder Display Wood Records1361</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search<span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 Pack Vinyl Record Album Wall Mount Display Shelf Acrylic Clear Home Decor"><img src="https://i.ebayimg.com/images/g/G1EAAeSwx7do9yWO/s-l225.jpg" alt="Listing image for 6 Pack Vinyl Record Album Wall Mount Display Shelf Acrylic Clear Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">6 Pack Vinyl Record Album Wall Mount Display Shelf Acrylic Clear Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search <span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 Pack Vinyl Record Album Wall Mount Display Shelf Acrylic Clear Home Decor"><img src="https://i.ebayimg.com/images/g/G1EAAeSwx7do9yWO/s-l225.jpg" alt="Listing image for 6 Pack Vinyl Record Album Wall Mount Display Shelf Acrylic Clear Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">6 Pack Vinyl Record Album Wall Mount Display Shelf Acrylic Clear Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vinyl record display">Search<span data-ebay-domain-label>eBay.co.uk</span>: vinyl record display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vinyl+record+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vinyl-came-back-in-a-digital-age-vinyl-record-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vinyl record display" data-ebay-reference="why-vinyl-came-back-in-a-digital-age-vinyl-record-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -802,7 +802,7 @@ The broader lesson is that convenience does not erase the desire for objects. In
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -822,7 +822,7 @@ The broader lesson is that convenience does not erase the desire for objects. In
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -854,7 +854,7 @@ The broader lesson is that convenience does not erase the desire for objects. In
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -906,7 +906,7 @@ The broader lesson is that convenience does not erase the desire for objects. In
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -951,7 +951,7 @@ The broader lesson is that convenience does not erase the desire for objects. In
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -992,191 +992,191 @@ The broader lesson is that convenience does not erase the desire for objects. In
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: riaa.com  
    Title: 2022 Year End Music Industry Revenue Report  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2023/03/2022-Year-End-Music-Industry-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2023/03/2022-Year-End-Music-Industry-Revenue-Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For the first time since. 1987, vinyl albums outsold CDs in units (41 million vs 33 million). After a 2021 rebound versus...Read more...</p></details>
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2023/03/2022-Year-End-Music-Industry-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2023/03/2022-Year-End-Music-Industry-Revenue-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For the first time since. 1987, vinyl albums outsold CDs in units (41 million vs 33 million). After a 2021 rebound versus...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: riaa.com  
    Title: 2023 Year End Revenue Statistics  
-   Link: <a href="https://www.riaa.com/wp-content/uploads/2024/03/2023-Year-End-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/03/2023-Year-End-Revenue-Statistics.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YEAR-END 2023 RIAA REVENUE STATISTICSFor the second time since. 1987, vinyl albums outsold CDs in units (43 million vs 37 million), e...</p></details>
+   Link:<a href="https://www.riaa.com/wp-content/uploads/2024/03/2023-Year-End-Revenue-Statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.riaa.com/wp-content/uploads/2024/03/2023-Year-End-Revenue-Statistics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YEAR-END 2023 RIAA REVENUE STATISTICSFor the second time since. 1987, vinyl albums outsold CDs in units (43 million vs 37 million), e...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</p></details>
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Global recorded music revenues grew 6.4% and reached US$3...</p></details>
    Published: March 18, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Chief Executive Victoria Oakley credited the growth to strong music content and strategic partnerships, including collaborations wit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: recordstoreday.co.uk  
-   Link: <a href="https://www.recordstoreday.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.recordstoreday.co.uk/</a>  
+   Link:<a href="https://www.recordstoreday.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.recordstoreday.co.uk/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uu.diva-portal.org  
    Title: Diva Portal Death by streaming or vinyl revival? Exploring the spatial  
-   Link: <a href="https://uu.diva-portal.org/smash/get/diva2%3A1255423/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uu.diva-portal.org/smash/get/diva2%3A1255423/FULLTEXT01.pdf</a>  
+   Link:<a href="https://uu.diva-portal.org/smash/get/diva2%3A1255423/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uu.diva-portal.org/smash/get/diva2%3A1255423/FULLTEXT01.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: variety.com  
    Title: adele vinyl record pressing plant lp shortages 1235103951  
-   Link: <a href="https://variety.com/2021/music/news/adele-vinyl-record-pressing-plant-lp-shortages-1235103951/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2021/music/news/adele-vinyl-record-pressing-plant-lp-shortages-1235103951/</a>  
+   Link:<a href="https://variety.com/2021/music/news/adele-vinyl-record-pressing-plant-lp-shortages-1235103951/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2021/music/news/adele-vinyl-record-pressing-plant-lp-shortages-1235103951/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/</a>  
+   Link:<a href="https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swifts-the-life-of-a-showgirl-named-ifpis-official-biggest-selling-global-album-of-the-year-2025/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gmr.ifpi.org  
    Title: about report  
-   Link: <a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
+   Link:<a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ifpi.org  
    Title: global charts  
-   Link: <a href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/global-charts/</a>  
+   Link:<a href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/global-charts/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: officialcharts.com  
    Title: the official best selling vinyl albums and singles of 2024  
-   Link: <a href="https://www.officialcharts.com/chart-news/the-official-best-selling-vinyl-albums-and-singles-of-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-official-best-selling-vinyl-albums-and-singles-of-2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsThe Official best-selling vinyl albums and singles of 2024December 31, 2024 — 31 Dec 2024 — 6.7 million vinyl albums were...</p></details>
+   Link:<a href="https://www.officialcharts.com/chart-news/the-official-best-selling-vinyl-albums-and-singles-of-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-official-best-selling-vinyl-albums-and-singles-of-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsThe Official best-selling vinyl albums and singles of 2024December 31, 2024 — 31 Dec 2024 — 6.7 million vinyl albums were...</p></details>
    Published: December 31, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124</a>  
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10253866.2022.2134124</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: officialcharts.com  
    Title: record store day uk 2024 10 million boost  
-   Link: <a href="https://www.officialcharts.com/chart-news/record-store-day-uk-2024-10-million-boost/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/record-store-day-uk-2024-10-million-boost/</a>  
+   Link:<a href="https://www.officialcharts.com/chart-news/record-store-day-uk-2024-10-million-boost/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/record-store-day-uk-2024-10-million-boost/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eraltd.org  
    Title: record store day x taylor swift uk vinyl sales have their best week in 30 years  
-   Link: <a href="https://www.eraltd.org/record-store-day-x-taylor-swift-uk-vinyl-sales-have-their-best-week-in-30-years" target="_blank" rel="noopener noreferrer nofollow">https://www.eraltd.org/record-store-day-x-taylor-swift-uk-vinyl-sales-have-their-best-week-in-30-years</a>  
+   Link:<a href="https://www.eraltd.org/record-store-day-x-taylor-swift-uk-vinyl-sales-have-their-best-week-in-30-years" target="_blank" rel="noopener noreferrer nofollow">https://www.eraltd.org/record-store-day-x-taylor-swift-uk-vinyl-sales-have-their-best-week-in-30-years</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/3a64afd94014fd6aa22436f5132acccc" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3a64afd94014fd6aa22436f5132acccc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thanks to multiple exclusive physical variants released through outlets like Target and her wide vinyl offerings, Swift dominated music s...</p></details>
+   Link:<a href="https://apnews.com/article/3a64afd94014fd6aa22436f5132acccc" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3a64afd94014fd6aa22436f5132acccc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thanks to multiple exclusive physical variants released through outlets like Target and her wide vinyl offerings, Swift dominated music s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian Billie Eilish criticises musicians for releasing multiple vinyl  
-   Link: <a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
+   Link:<a href="https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/mar/29/billie-eilish-criticises-musicians-for-releasing-multiple-vinyl-variants-i-cant-even-express-how-wasteful-it-is</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: recordoftheday.com  
-   Link: <a href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets</a>  
+   Link:<a href="https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets" target="_blank" rel="noopener noreferrer nofollow">https://www.recordoftheday.com/news-and-press/luminate-2024-year-end-music-report-global-audio-streaming-grows-14-driven-by-ex-us-markets</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bpi.co.uk  
-   Link: <a href="https://www.bpi.co.uk/news/13097053" target="_blank" rel="noopener noreferrer nofollow">https://www.bpi.co.uk/news/13097053</a>  
+   Link:<a href="https://www.bpi.co.uk/news/13097053" target="_blank" rel="noopener noreferrer nofollow">https://www.bpi.co.uk/news/13097053</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: luminatedata.com  
    Title: taylor swift wasnt the only winner of physical sales in 2025  
-   Link: <a href="https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/</a>  
+   Link:<a href="https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: billboard.com  
    Title: luminate 2024 year end music report taylor swift shaboozey teddy swims  
-   Link: <a href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/</a>  
+   Link:<a href="https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/pro/luminate-2024-year-end-music-report-taylor-swift-shaboozey-teddy-swims/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: officialcharts.com  
    Title: record store chart  
-   Link: <a href="https://www.officialcharts.com/charts/record-store-chart/20240809/530/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/record-store-chart/20240809/530/</a>  
+   Link:<a href="https://www.officialcharts.com/charts/record-store-chart/20240809/530/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/record-store-chart/20240809/530/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/chart-news/record-store-day-2024-full-list-of-releases-including-the-rolling-stones-lily-allen-noah/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/record-store-day-2024-full-list-of-releases-including-the-rolling-stones-lily-allen-noah/</a>  
+   Link:<a href="https://www.officialcharts.com/chart-news/record-store-day-2024-full-list-of-releases-including-the-rolling-stones-lily-allen-noah/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/record-store-day-2024-full-list-of-releases-including-the-rolling-stones-lily-allen-noah/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: officialcharts.com  
    Title: record store chart  
-   Link: <a href="https://www.officialcharts.com/charts/record-store-chart/20240621/530/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/record-store-chart/20240621/530/</a>  
+   Link:<a href="https://www.officialcharts.com/charts/record-store-chart/20240621/530/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/charts/record-store-chart/20240621/530/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: oasis reunion taylor swift vinyl uk music industry albums 2025  
-   Link: <a href="https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025</a>  
+   Link:<a href="https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/dec/31/oasis-reunion-taylor-swift-vinyl-uk-music-industry-albums-2025</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
    Title: Official Charts  
-   Link: <a href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6</a>  
+   Link:<a href="https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/official-charts-company_record-store-day-2024-full-list-of-releases-activity-7163957638039343104--rn6</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
    Title: Luminate Year End Report 2024  
-   Link: <a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
+   Link:<a href="https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/917709458/Luminate-Year-End-Report-2024</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lazy-i.com  
    Title: luminate year end report physical album sales continue to grow what about ai  
-   Link: <a href="https://lazy-i.com/2026/01/luminate-year-end-report-physical-album-sales-continue-to-grow-what-about-ai/" target="_blank" rel="noopener noreferrer nofollow">https://lazy-i.com/2026/01/luminate-year-end-report-physical-album-sales-continue-to-grow-what-about-ai/</a>  
+   Link:<a href="https://lazy-i.com/2026/01/luminate-year-end-report-physical-album-sales-continue-to-grow-what-about-ai/" target="_blank" rel="noopener noreferrer nofollow">https://lazy-i.com/2026/01/luminate-year-end-report-physical-album-sales-continue-to-grow-what-about-ai/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: slideshare.net  
    Title: luminate mid year music report 2024 by the luminate  
-   Link: <a href="https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/luminate-mid-year-music-report-2024-by-the-luminate/275373130</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The Vinyl Revival: Why We’re Buying Records Again  
-   Link: <a href="https://www.youtube.com/watch?v=Kz62-oU0g4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kz62-oU0g4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming vs. Vinyl: Why Physical Music Still Matters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kz62-oU0g4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kz62-oU0g4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming vs. Vinyl: Why Physical Music Still Matters...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming</a>  
+   Link:<a href="https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365228519_Taking_a_chance_on_a_record_lost_vinyl_consumption_practices_in_the_age_of_music_streaming</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYm1cz5nPeT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYm1cz5nPeT/</a>  
+   Link:<a href="https://www.instagram.com/p/DYm1cz5nPeT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYm1cz5nPeT/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/consequence/posts/billie-eilish-condemns-the-practice-of-artists-releasing-multiple-vinyl-variants/828322379335535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/consequence/posts/billie-eilish-condemns-the-practice-of-artists-releasing-multiple-vinyl-variants/828322379335535/</a>  
+   Link:<a href="https://www.facebook.com/consequence/posts/billie-eilish-condemns-the-practice-of-artists-releasing-multiple-vinyl-variants/828322379335535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/consequence/posts/billie-eilish-condemns-the-practice-of-artists-releasing-multiple-vinyl-variants/828322379335535/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/</a>  
+   Link:<a href="https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SwiftlyNeutral/comments/1bpzg0l/billie_eilish_criticizing_artists_who_release/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024</a>  
+   Link:<a href="https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/billie-eilish-never-dragged-taylor-swift-packaging-sustainability-8623024</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/vinyl/comments/1c75ddp/curious_if_any_people_here_actually_think_vinyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/vinyl/comments/1c75ddp/curious_if_any_people_here_actually_think_vinyl/</a>  
+   Link:<a href="https://www.reddit.com/r/vinyl/comments/1c75ddp/curious_if_any_people_here_actually_think_vinyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/vinyl/comments/1c75ddp/curious_if_any_people_here_actually_think_vinyl/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: bpi.co.uk  
-   Link: <a href="https://www.bpi.co.uk/page/data-and-insight" target="_blank" rel="noopener noreferrer nofollow">https://www.bpi.co.uk/page/data-and-insight</a>  
+   Link:<a href="https://www.bpi.co.uk/page/data-and-insight" target="_blank" rel="noopener noreferrer nofollow">https://www.bpi.co.uk/page/data-and-insight</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: izotope.com  
-   Link: <a href="https://www.izotope.com/community/blog/mastering-for-streaming-platforms?srsltid=AfmBOooCBF8i-BsO1aZWda_HUlQQP_hrMQlTvs_6jlWa6dwjEd5Omrru" target="_blank" rel="noopener noreferrer nofollow">https://www.izotope.com/community/blog/mastering-for-streaming-platforms?srsltid=AfmBOooCBF8i-BsO1aZWda_HUlQQP_hrMQlTvs_6jlWa6dwjEd5Omrru</a>  
+   Link:<a href="https://www.izotope.com/community/blog/mastering-for-streaming-platforms?srsltid=AfmBOooCBF8i-BsO1aZWda_HUlQQP_hrMQlTvs_6jlWa6dwjEd5Omrru" target="_blank" rel="noopener noreferrer nofollow">https://www.izotope.com/community/blog/mastering-for-streaming-platforms?srsltid=AfmBOooCBF8i-BsO1aZWda_HUlQQP_hrMQlTvs_6jlWa6dwjEd5Omrru</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/popheads/comments/qp4kmo/no_adele_didnt_singlehandedly_cause_vinyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/qp4kmo/no_adele_didnt_singlehandedly_cause_vinyl/</a>
+   Link:<a href="https://www.reddit.com/r/popheads/comments/qp4kmo/no_adele_didnt_singlehandedly_cause_vinyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/qp4kmo/no_adele_didnt_singlehandedly_cause_vinyl/</a>

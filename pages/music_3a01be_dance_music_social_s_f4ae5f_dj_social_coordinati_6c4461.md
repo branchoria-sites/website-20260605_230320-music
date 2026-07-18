@@ -273,9 +273,9 @@ In club culture, DJs do more than play records — they actively **structure and
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1-dark.svg" | relative_url }}" alt="DJ Curation illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Tempo and Rhythm Selection
 
-At the most fundamental level, **tempo and [rhythm]({{ 'rhythm/' | relative_url }}) shape dancers’ physical responses**. Empirical studies of group synchrony at dance events show that **rhythmic pulsations in the range of typical walking tempo (about 100–150 beats per minute)** are especially effective in eliciting synchronised movement across a crowd, likely because they align with familiar motor patterns and promote shared bodily entrainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016</span></span></span>
+At the most fundamental level, **tempo and [rhythm]({{ 'rhythm/' | relative_url }}) shape dancers’ physical responses**. Empirical studies of group synchrony at dance events show that **rhythmic pulsations in the range of typical walking tempo (about 100–150 beats per minute)** are especially effective in eliciting synchronised movement across a crowd, likely because they align with familiar motor patterns and promote shared bodily entrainment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016</span></span></span>
 
-DJs curate the flow of tracks not just for musical coherence but to **maintain or shift the crowd’s momentum**. For instance, selections with steady, pronounced beat structures invite more uniform movement, whereas tracks with variable rhythmic textures can invite variation in dancers’ motion, influencing where bodies speed up, slow down or lock into cohesive patterns. Research in dance studies and music psychology suggests that predictable rhythmic frameworks favour emergence of *collective synchrony* — a state where dancers move together in a coordinated temporal field — which can blur individual boundaries and enhance feelings of group cohesion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</span></span></span>
+DJs curate the flow of tracks not just for musical coherence but to **maintain or shift the crowd’s momentum**. For instance, selections with steady, pronounced beat structures invite more uniform movement, whereas tracks with variable rhythmic textures can invite variation in dancers’ motion, influencing where bodies speed up, slow down or lock into cohesive patterns. Research in dance studies and music psychology suggests that predictable rhythmic frameworks favour emergence of *collective synchrony* — a state where dancers move together in a coordinated temporal field — which can blur individual boundaries and enhance feelings of group cohesion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</span></span></span>
 
 In practice, DJs often organise sets to exploit these rhythmic effects: they may start with mid‑tempo tracks to draw dancers in, then subtly raise the **tempo over time** or pivot to tracks with particular rhythmic breaks that encourage more intense or varied movement patterns. This deliberate choice of tempos across a set acts as a **social pacing mechanism** that guides the overall kinetic energy of the crowd.
 
@@ -283,18 +283,18 @@ In practice, DJs often organise sets to exploit these rhythmic effects: they may
 
 ## Transitions and Flow Management
 
-The way DJs move from one track to another — the **transitions and mixing techniques** — is central to shaping collective movement. Transitions do not merely bridge songs; they create **momentary shifts in tension and release** that encourage dancers to adjust their movement collectively. Techniques such as beatmatching, crossfading and use of effects vary across genres but serve a common purpose: to control the continuity or disruption of rhythmic energy on the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dj.dancecult.net/index.php/dancecult/article/view/1305" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">Playing by the Rules?: Genre Conventions in Contemporary DJ Performance &#124; Dancecult: Journal of Electronic Music and Dance Cult...</span></span></span>
+The way DJs move from one track to another — the **transitions and mixing techniques** — is central to shaping collective movement. Transitions do not merely bridge songs; they create **momentary shifts in tension and release** that encourage dancers to adjust their movement collectively. Techniques such as beatmatching, crossfading and use of effects vary across genres but serve a common purpose: to control the continuity or disruption of rhythmic energy on the floor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dj.dancecult.net/index.php/dancecult/article/view/1305" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dj.dancecult.net">[Dancecult]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dj.dancecult.net</span><span class="citation-popover-snippet">Playing by the Rules?: Genre Conventions in Contemporary DJ Performance &#124; Dancecult: Journal of Electronic Music and Dance Cult...</span></span></span>
 
-In electronic [dance music]({{ 'dance-music/' | relative_url }}) practices (e.g. house, techno), DJs often structure sets with **build‑ups and breakdowns** embedded within transitions. These micro‑dramaturgical elements create *anticipation* and *release* moments that can cause noticeable changes in crowd movement — accelerating during climactic points and relaxing during quieter passages. Producers and performers alike note that the precise timing of these cues alters not just musical intensity but the physicality of dancers’ engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordcase.de/en/crowdreading-dj-control-crowd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordcase.de">[Recordcase.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordcase.de</span><span class="citation-popover-title">crowdreading dj control crowd</span><span class="citation-popover-snippet">Crowdreading for DJs – Guide the Audience &amp; Tech Tips 2025August 11, 2025...</span><span class="citation-popover-meta">Published: August 11, 2025</span></span></span>
+In electronic [dance music]({{ 'dance-music/' | relative_url }}) practices (e.g. house, techno), DJs often structure sets with **build‑ups and breakdowns** embedded within transitions. These micro‑dramaturgical elements create *anticipation* and *release* moments that can cause noticeable changes in crowd movement — accelerating during climactic points and relaxing during quieter passages. Producers and performers alike note that the precise timing of these cues alters not just musical intensity but the physicality of dancers’ engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recordcase.de/en/crowdreading-dj-control-crowd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recordcase.de">[Recordcase.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recordcase.de</span><span class="citation-popover-title">crowdreading dj control crowd</span><span class="citation-popover-snippet">Crowdreading for DJs – Guide the Audience &amp; Tech Tips 2025August 11, 2025...</span><span class="citation-popover-meta">Published: August 11, 2025</span></span></span>
 
-Beyond technical mixing, research on performance expertise shows that **experienced DJs use bodily gestures and movements around their equipment** as part of the communicative process with the crowd. Professional DJs tend to integrate more expressive movement, using body language to signal changes or to embody rhythmic cues, which can subtly cue dancers’ [attention]({{ 'attention/' | relative_url }}) and collective responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.york.ac.uk">[Pure York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.york.ac.uk</span><span class="citation-popover-title">Pure York Die DJ-Performance im Club-Kontext</span><span class="citation-popover-snippet">Pure YorkDie DJ-Performance im Club-Kontext - eine Beobachtungsstudie - York Research Database...</span></span></span>
+Beyond technical mixing, research on performance expertise shows that **experienced DJs use bodily gestures and movements around their equipment** as part of the communicative process with the crowd. Professional DJs tend to integrate more expressive movement, using body language to signal changes or to embody rhythmic cues, which can subtly cue dancers’ [attention]({{ 'attention/' | relative_url }}) and collective responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.york.ac.uk">[Pure York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.york.ac.uk</span><span class="citation-popover-title">Pure York Die DJ-Performance im Club-Kontext</span><span class="citation-popover-snippet">Pure YorkDie DJ-Performance im Club-Kontext - eine Beobachtungsstudie - York Research Database...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-2-dark.svg" | relative_url }}" alt="DJ Curation illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spatial Influence on Dance Floors
 
-DJs’ influence extends into the **spatial dynamics** of a club. The positioning of [sound systems]({{ 'sound-systems/' | relative_url }}) and DJ booths, combined with how DJs direct their interaction with the crowd, affects how dancers distribute themselves and move as a group. Research in techno dance environments notes that DJs often seek a form of *kinaesthetic empathy* — they physically engage with the space and crowd, creating a reciprocal relationship where dancers respond to the DJ’s embodied presence as much as to the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</span></span></span>
+DJs’ influence extends into the **spatial dynamics** of a club. The positioning of [sound systems]({{ 'sound-systems/' | relative_url }}) and DJ booths, combined with how DJs direct their interaction with the crowd, affects how dancers distribute themselves and move as a group. Research in techno dance environments notes that DJs often seek a form of *kinaesthetic empathy* — they physically engage with the space and crowd, creating a reciprocal relationship where dancers respond to the DJ’s embodied presence as much as to the music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</span></span></span>
 
-This embodied dimension aligns with ethnographic accounts of club [culture]({{ 'culture/' | relative_url }}), where DJs’ **visible engagement — looking at, responding to, and moving with the crowd — serves as a form of leadership** within the dance space. Their gestures, timing in transitions, and occasional physical interaction with dancers help structure clusters of movement, indicating shifts in collective focus or inviting movement into particular areas of the floor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openurl.ebsco.com">[EBSCO OpenURL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openurl.ebsco.com</span><span class="citation-popover-snippet">EBSCO OpenURL&#x27;In the mix&#x27;: Relational leadership explored through an analysis of techno DJs and dancers. &#124; EBSCOhost...</span></span></span>
+This embodied dimension aligns with ethnographic accounts of club [culture]({{ 'culture/' | relative_url }}), where DJs’ **visible engagement — looking at, responding to, and moving with the crowd — serves as a form of leadership** within the dance space. Their gestures, timing in transitions, and occasional physical interaction with dancers help structure clusters of movement, indicating shifts in collective focus or inviting movement into particular areas of the floor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openurl.ebsco.com">[EBSCO OpenURL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openurl.ebsco.com</span><span class="citation-popover-snippet">EBSCO OpenURL&#x27;In the mix&#x27;: Relational leadership explored through an analysis of techno DJs and dancers. &#124; EBSCOhost...</span></span></span>
 
 Moreover, DJs read cues from the crowd’s spatial behaviour — such as density fluctuations, clusters around the booth, or gaps in movement — and adjust their set accordingly. This real‑time *reading and responding* ensures that the spatial organisation of bodies remains attuned to the evolving energy and rhythm of the event, making DJ performance a **dynamic feedback system linking sound, tempo and movement**.
 
@@ -304,199 +304,199 @@ Moreover, DJs read cues from the crowd’s spatial behaviour — such as density
 
 ## Conclusion
 
-DJs play an active, embodied role in shaping collective movement within club spaces. Through deliberate tempo choices, carefully managed transitions, and responsive physical engagement with the crowd, they guide how energy accumulates, circulates and dissipates on the dance floor. Far from passive music playback, DJing is a **social choreography** that leverages musical structure and real‑time reading of dancers’ responses to cultivate synchronised motion and shared affective experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016</span></span></span>
+DJs play an active, embodied role in shaping collective movement within club spaces. Through deliberate tempo choices, carefully managed transitions, and responsive physical engagement with the crowd, they guide how energy accumulates, circulates and dissipates on the dance floor. Far from passive music playback, DJing is a **social choreography** that leverages musical structure and real‑time reading of dancers’ responses to cultivate synchronised motion and shared affective experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://doi.org/10.1080/09502386.2011.5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. https://doi.org/10.1080/09502386.2011.5</span><span class="citation-popover-snippet">PLOSOne in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment &#124; PLOS OneOctober 20, 2016</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-3-dark.svg" | relative_url }}" alt="DJ Curation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How DJs Shape Movement and Energy in Dance Spaces. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How DJs Shape Movement and Energy in Dance Spaces. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dance music manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9171230-M.jpg" alt="Cover for Dance music manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dance music manual">Dance music manual</a>
-        </h4>
-        <p class="fr-book-author">By Rick Snoman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dance music manual on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9171230-M.jpg" alt="Cover for Dance music manual" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dance music manual">Dance music manual</a>
+</h4>
+<p class="fr-book-author">By Rick Snoman</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Remixing, Electronic composition, Electronic dance music, Sound recordings, Instruction and study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Remixing, Electronic composition, Electronic dance music, Sound recordings, Instruction and study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dance+music+manual+Rick+Snoman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The underground is massive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11734583-M.jpg" alt="Cover for The underground is massive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The underground is massive">The underground is massive</a>
-        </h4>
-        <p class="fr-book-author">By Michaelangelo Matos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The underground is massive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11734583-M.jpg" alt="Cover for The underground is massive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The underground is massive">The underground is massive</a>
+</h4>
+<p class="fr-book-author">By Michaelangelo Matos</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Techno music, Electronica (Music), History and criticism, Electronic dance music, Underground dance music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Techno music, Electronica (Music), History and criticism, Electronic dance music, Underground dance music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+underground+is+massive+Michaelangelo+Matos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Club cultures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3821390-M.jpg" alt="Cover for Club cultures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Club cultures">Club cultures</a>
-        </h4>
-        <p class="fr-book-author">By Sarah Thornton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Club cultures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3821390-M.jpg" alt="Cover for Club cultures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Club cultures">Club cultures</a>
+</h4>
+<p class="fr-book-author">By Sarah Thornton</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Bars (Drinking establishments), Discotheques, Music and youth, Popular culture, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Bars (Drinking establishments), Discotheques, Music and youth, Popular culture, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Energy Flash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6324453-M.jpg" alt="Cover for Energy Flash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Energy Flash">Energy Flash</a>
-        </h4>
-        <p class="fr-book-author">By Simon Reynolds</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Energy Flash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6324453-M.jpg" alt="Cover for Energy Flash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Energy Flash">Energy Flash</a>
+</h4>
+<p class="fr-book-author">By Simon Reynolds</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Rave culture, Youth, Great Britain, Drug use, Drugs and popular music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Rave culture, Youth, Great Britain, Drug use, Drugs and popular music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Energy+Flash+Simon+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dance+music+manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dance music manual</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+underground+is+massive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The underground is massive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Club+cultures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Club cultures</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dance+music+manual&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dance music manual</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+underground+is+massive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The underground is massive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Club+cultures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Club cultures</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enjoy Vinyl DJ DJing Decks Turntable Funny Mens Cotton T-Shirt Tee Top"><img src="{{ '/assets/images/marketplace-covers/105512a53bc417119818.jpg' | relative_url }}" alt="Listing image for Enjoy Vinyl DJ DJing Decks Turntable Funny Mens Cotton T-Shirt Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Enjoy Vinyl DJ DJing Decks Turntable Funny Mens Cotton T-Shirt Tee Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enjoy Vinyl DJ DJing Decks Turntable Funny Mens Cotton T-Shirt Tee Top"><img src="{{ '/assets/images/marketplace-covers/105512a53bc417119818.jpg' | relative_url }}" alt="Listing image for Enjoy Vinyl DJ DJing Decks Turntable Funny Mens Cotton T-Shirt Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Enjoy Vinyl DJ DJing Decks Turntable Funny Mens Cotton T-Shirt Tee Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Your Name Disco Music Personalised Mens T-Shirt 10 Colours (S-3XL) by swagwea"><img src="{{ '/assets/images/marketplace-covers/51c13c172f640bc0450c.jpg' | relative_url }}" alt="Listing image for DJ Your Name Disco Music Personalised Mens T-Shirt 10 Colours (S-3XL) by swagwea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DJ Your Name Disco Music Personalised Mens T-Shirt 10 Colours (S-3XL) by swagwea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DJ Your Name Disco Music Personalised Mens T-Shirt 10 Colours (S-3XL) by swagwea"><img src="{{ '/assets/images/marketplace-covers/51c13c172f640bc0450c.jpg' | relative_url }}" alt="Listing image for DJ Your Name Disco Music Personalised Mens T-Shirt 10 Colours (S-3XL) by swagwea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DJ Your Name Disco Music Personalised Mens T-Shirt 10 Colours (S-3XL) by swagwea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Melting Headphones T-Shirt Music DJ Festival Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/73fb19886f7daeaa4221.jpg' | relative_url }}" alt="Listing image for Colourful Melting Headphones T-Shirt Music DJ Festival Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Colourful Melting Headphones T-Shirt Music DJ Festival Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Melting Headphones T-Shirt Music DJ Festival Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/73fb19886f7daeaa4221.jpg' | relative_url }}" alt="Listing image for Colourful Melting Headphones T-Shirt Music DJ Festival Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Colourful Melting Headphones T-Shirt Music DJ Festival Graphic Unisex Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for XL Recordings T-Shirt - House Music Rave DJ Oldskool SL2"><img src="{{ '/assets/images/marketplace-covers/eb3f1d62c547e5af4b5d.jpg' | relative_url }}" alt="Listing image for XL Recordings T-Shirt - House Music Rave DJ Oldskool SL2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">XL Recordings T-Shirt - House Music Rave DJ Oldskool SL2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for XL Recordings T-Shirt - House Music Rave DJ Oldskool SL2"><img src="{{ '/assets/images/marketplace-covers/eb3f1d62c547e5af4b5d.jpg' | relative_url }}" alt="Listing image for XL Recordings T-Shirt - House Music Rave DJ Oldskool SL2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">XL Recordings T-Shirt - House Music Rave DJ Oldskool SL2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dj t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: dj t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dj+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dj t shirt" data-ebay-reference="dj-curation-how-djs-shape-movement-and-energy-in-dance-spaces-music-dj-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -512,7 +512,7 @@ DJs play an active, embodied role in shaping collective movement within club spa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -532,7 +532,7 @@ DJs play an active, embodied role in shaping collective movement within club spa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -564,7 +564,7 @@ DJs play an active, embodied role in shaping collective movement within club spa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -616,7 +616,7 @@ DJs play an active, embodied role in shaping collective movement within club spa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -661,7 +661,7 @@ DJs play an active, embodied role in shaping collective movement within club spa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,88 +702,88 @@ DJs play an active, embodied role in shaping collective movement within club spa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0164783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment | PLOS OneOctober 20, 2016...</p></details>
    Published: October 20, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dj.dancecult.net  
-   Link: <a href="https://dj.dancecult.net/index.php/dancecult/article/view/1305" target="_blank" rel="noopener noreferrer nofollow">https://dj.dancecult.net/index.php/dancecult/article/view/1305</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Playing by the Rules?: Genre Conventions in Contemporary DJ Performance | Dancecult: Journal of Electronic Music and Dance Cult...</p></details>
+   Link:<a href="https://dj.dancecult.net/index.php/dancecult/article/view/1305" target="_blank" rel="noopener noreferrer nofollow">https://dj.dancecult.net/index.php/dancecult/article/view/1305</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Playing by the Rules?: Genre Conventions in Contemporary DJ Performance | Dancecult: Journal of Electronic Music and Dance Cult...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: recordcase.de  
    Title: crowdreading dj control crowd  
-   Link: <a href="https://www.recordcase.de/en/crowdreading-dj-control-crowd" target="_blank" rel="noopener noreferrer nofollow">https://www.recordcase.de/en/crowdreading-dj-control-crowd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowdreading for DJs – Guide the Audience &amp; Tech Tips 2025August 11, 2025...</p></details>
+   Link:<a href="https://www.recordcase.de/en/crowdreading-dj-control-crowd" target="_blank" rel="noopener noreferrer nofollow">https://www.recordcase.de/en/crowdreading-dj-control-crowd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crowdreading for DJs – Guide the Audience &amp; Tech Tips 2025August 11, 2025...</p></details>
    Published: August 11, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: openurl.ebsco.com  
-   Link: <a href="https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler" target="_blank" rel="noopener noreferrer nofollow">https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EBSCO OpenURL&#x27;In the mix&#x27;: Relational leadership explored through an analysis of techno DJs and dancers. | EBSCOhost...</p></details>
+   Link:<a href="https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler" target="_blank" rel="noopener noreferrer nofollow">https://openurl.ebsco.com/contentitem/doi%3A10.1177/1742715018765050?id=ebsco%3Adoi%3A10.1177%2F1742715018765050&amp;sid=ebsco%3Aplink%3Acrawler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EBSCO OpenURL&#x27;In the mix&#x27;: Relational leadership explored through an analysis of techno DJs and dancers. | EBSCOhost...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1029864917712345</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1029864917712345" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1029864917712345</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGroup behaviour and interpersonal synchronization to electronic dance music - Ragnhild Torvanger Solberg, Alexander Refsum J...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pure.york.ac.uk  
    Title: Pure York Die DJ-Performance im Club-Kontext  
-   Link: <a href="https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pure YorkDie DJ-Performance im Club-Kontext - eine Beobachtungsstudie - York Research Database...</p></details>
+   Link:<a href="https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/die-dj-performance-im-club-kontext-eine-beobachtungsstudie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pure YorkDie DJ-Performance im Club-Kontext - eine Beobachtungsstudie - York Research Database...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1742715018765050" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1742715018765050</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brigitte Biehl, 2019March 29, 2018...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1742715018765050" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1742715018765050</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brigitte Biehl, 2019March 29, 2018...</p></details>
    Published: March 29, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Coordinated rhythmic m  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment - PMCOctober 20, 2016 — INTRODUCTION Dancing with ot...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5072606/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the Dance: Musical Correlates of Group Synchrony in a Real-World Club Environment - PMCOctober 20, 2016 — INTRODUCTION Dancing with ot...</p></details>
    Published: October 20, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.york.ac.uk  
    Title: york.ac.uk Performance expertise of DJs in the club-context  
-   Link: <a href="https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>expertise of DJs in the club-context - York Research DatabasePERFORMANCE EXPERTISE OF DJS IN THE CLUB-CONTEXT Alexander Förstel, Hauke Eg...</p></details>
+   Link:<a href="https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/performance-expertise-of-djs-in-the-club-context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>expertise of DJs in the club-context - York Research DatabasePERFORMANCE EXPERTISE OF DJS IN THE CLUB-CONTEXT Alexander Förstel, Hauke Eg...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.gold.ac.uk  
-   Link: <a href="https://journals.gold.ac.uk/index.php/sysmus14/article/view/254" target="_blank" rel="noopener noreferrer nofollow">https://journals.gold.ac.uk/index.php/sysmus14/article/view/254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the club experience: Affective and bodily experiences of electronic dance music | International Conference of Students of Systematic Musi...</p></details>
+   Link:<a href="https://journals.gold.ac.uk/index.php/sysmus14/article/view/254" target="_blank" rel="noopener noreferrer nofollow">https://journals.gold.ac.uk/index.php/sysmus14/article/view/254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the club experience: Affective and bodily experiences of electronic dance music | International Conference of Students of Systematic Musi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchonline.gcu.ac.uk  
-   Link: <a href="https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glasgow Caledonian UniversityJanuary 1, 2009 — &#x27;LAGER, LAGER SHOUTING&#x27;: THE ROLE OF MUSIC AND DJS IN NIGHTCLUB DISORDER CONTROL * Alasdai...</p></details>
+   Link:<a href="https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.gcu.ac.uk/en/publications/lager-lager-shouting-the-role-of-music-and-djs-in-nightclub-disor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glasgow Caledonian UniversityJanuary 1, 2009 — &#x27;LAGER, LAGER SHOUTING&#x27;: THE ROLE OF MUSIC AND DJS IN NIGHTCLUB DISORDER CONTROL * Alasdai...</p></details>
    Published: January 1, 2009  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pure.au.dk  
-   Link: <a href="https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>influence of visual cues on temporal anticipation and movement synchronization with musical sequences - Aarhus UniversityNovember 1, 2018...</p></details>
+   Link:<a href="https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/portal/en/publications/the-influence-of-visual-cues-on-temporal-anticipation-and-movemen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>influence of visual cues on temporal anticipation and movement synchronization with musical sequences - Aarhus UniversityNovember 1, 2018...</p></details>
    Published: November 1, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2412-3811/11/4/123" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2412-3811/11/4/123</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RESULTS 3.1. CHARACTERIZATION OF CROWD–STRUCTURE INTERACTION 3.1.1. INFLUENCE OF MUSIC ON CROWD ACTION Coordinated collective action duri...</p></details>
+   Link:<a href="https://www.mdpi.com/2412-3811/11/4/123" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2412-3811/11/4/123</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RESULTS 3.1. CHARACTERIZATION OF CROWD–STRUCTURE INTERACTION 3.1.1. INFLUENCE OF MUSIC ON CROWD ACTION Coordinated collective action duri...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: repository.uel.ac.uk  
    Title: uel.ac.uk Disco and the Queering of the Dance Floor: UEL Research Repository  
-   Link: <a href="https://repository.uel.ac.uk/item/86105" target="_blank" rel="noopener noreferrer nofollow">https://repository.uel.ac.uk/item/86105</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2...</p></details>
+   Link:<a href="https://repository.uel.ac.uk/item/86105" target="_blank" rel="noopener noreferrer nofollow">https://repository.uel.ac.uk/item/86105</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2...</p></details>
 
 0
 
@@ -791,27 +791,27 @@ DJs play an active, embodied role in shaping collective movement within club spa
 
 1. Disco and the Queering of the Dance Floor. Cultural Studies. 25 (2), pp. 230-243. [https://doi.org/10.1080/09502386.2011.5](https://doi.org/10.1080/09502386.2011.5)
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pure.hud.ac.uk  
    Title: hud.ac.uk D J Performance Analysis: Issues, concepts, methods  
-   Link: <a href="https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Analysis: Issues, concepts, methods - University of Huddersfield Research PortalDecember 19, 2024 — DJ PERFORMANCE ANALYSIS...</p></details>
+   Link:<a href="https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/dj-performance-analysis-issues-concepts-methods/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Analysis: Issues, concepts, methods - University of Huddersfield Research PortalDecember 19, 2024 — DJ PERFORMANCE ANALYSIS...</p></details>
    Published: December 19, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: epjdatascience.springeropen.com  
    Title: Lees^{1}, * Sander Klous^{1}  
-   Link: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9" target="_blank" rel="noopener noreferrer nofollow">https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>springeropen.comState-space models reveal bursty movement behaviour of dance event visitors | EPJ Data Science | Full TextJuly 6, 2021 —...</p></details>
+   Link:<a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9" target="_blank" rel="noopener noreferrer nofollow">https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00292-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>springeropen.comState-space models reveal bursty movement behaviour of dance event visitors | EPJ Data Science | Full TextJuly 6, 2021 —...</p></details>
    Published: July 6, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: qualitative-research.net  
    Title: The Lord of the Loops  
-   Link: <a href="https://www.qualitative-research.net/index.php/fqs/article/view/1338" target="_blank" rel="noopener noreferrer nofollow">https://www.qualitative-research.net/index.php/fqs/article/view/1338</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observations at the Club Culture DJ-Desk | Forum Qualitative Sozialforschung / Forum: Qualitative Social ResearchTHE LORD OF THE LOOPS. O...</p></details>
+   Link:<a href="https://www.qualitative-research.net/index.php/fqs/article/view/1338" target="_blank" rel="noopener noreferrer nofollow">https://www.qualitative-research.net/index.php/fqs/article/view/1338</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observations at the Club Culture DJ-Desk | Forum Qualitative Sozialforschung / Forum: Qualitative Social ResearchTHE LORD OF THE LOOPS. O...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1742715018765050" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1742715018765050</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.com‘In the mix’: Relational leadership explored through an analysis of techno DJs and dancers - Brigitte Biehl, 2019March 29, 201...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1742715018765050" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1742715018765050</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.com‘In the mix’: Relational leadership explored through an analysis of techno DJs and dancers - Brigitte Biehl, 2019March 29, 201...</p></details>

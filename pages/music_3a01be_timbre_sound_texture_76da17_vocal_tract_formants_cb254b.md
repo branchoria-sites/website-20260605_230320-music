@@ -268,240 +268,240 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_forma
 
 ## Introduction
 
-Human voices have a distinctive **[timbre]({{ 'timbre/' | relative_url }})** — a perceptual quality that lets us recognise speakers and instruments as unique even when their pitch and loudness are the same. A central acoustic mechanism behind this timbre is the pattern of **vocal tract formants**: resonance peaks shaped by the geometry of the throat, mouth and nasal cavities. Formants filter the raw sound from the vocal folds, sculpting the spectral envelope in ways that encode both vowel identity and individual voice characteristics. In music and speech, this filtering gives each person’s voice its characteristic tone colour and makes familiar voices instantly recognisable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
+Human voices have a distinctive **[timbre]({{ 'timbre/' | relative_url }})** — a perceptual quality that lets us recognise speakers and instruments as unique even when their pitch and loudness are the same. A central acoustic mechanism behind this timbre is the pattern of **vocal tract formants**: resonance peaks shaped by the geometry of the throat, mouth and nasal cavities. Formants filter the raw sound from the vocal folds, sculpting the spectral envelope in ways that encode both vowel identity and individual voice characteristics. In music and speech, this filtering gives each person’s voice its characteristic tone colour and makes familiar voices instantly recognisable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-1-dark.svg" | relative_url }}" alt="Vocal Formants illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Vocal Tract Formants Are Formed and What They Represent
 
-Formants are peaks in the amplitude spectrum that arise because the vocal tract acts as a **resonant filter** on the sound produced by vibrating vocal folds. In the **source–filter model** of voice production, the larynx generates a harmonic-rich sound series, and as that sound travels through the cavities of the **pharynx, oral cavity and nasal passages**, certain bands of frequencies are preferentially amplified because they coincide with the tract’s resonances. These amplified bands are the formants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
+Formants are peaks in the amplitude spectrum that arise because the vocal tract acts as a **resonant filter** on the sound produced by vibrating vocal folds. In the **source–filter model** of voice production, the larynx generates a harmonic-rich sound series, and as that sound travels through the cavities of the **pharynx, oral cavity and nasal passages**, certain bands of frequencies are preferentially amplified because they coincide with the tract’s resonances. These amplified bands are the formants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
 
-In acoustic terms, formants correspond to peaks in the spectral *envelope* — a smooth curve that connects the strongest frequency components of the sound. The vocal tract’s shape determines where these peaks occur: longer or larger cavities produce lower-frequency formants, while smaller, tighter shaped cavities produce higher-frequency formants. Because the tract’s geometry varies among individuals (in overall length, shape of the tongue space, lip position, jaw opening), the detailed pattern of formants is unique to each voice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11265-015-1005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[SpringerLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Text-Independent Speaker Identification Using Vowel Formants &#124; Journal of Signal Processing Systems &#124; Springer Nature LinkMay 5...</span></span></span>
+In acoustic terms, formants correspond to peaks in the spectral *envelope* — a smooth curve that connects the strongest frequency components of the sound. The vocal tract’s shape determines where these peaks occur: longer or larger cavities produce lower-frequency formants, while smaller, tighter shaped cavities produce higher-frequency formants. Because the tract’s geometry varies among individuals (in overall length, shape of the tongue space, lip position, jaw opening), the detailed pattern of formants is unique to each voice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[SpringerLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Text-Independent Speaker Identification Using Vowel Formants &#124; Journal of Signal Processing Systems &#124; Springer Nature LinkMay 5...</span></span></span>
 
-Formants are usually numbered from lowest to highest (F1, F2, F3…). The first two formants (F1 and F2) are most critical for distinguishing vowels: F1 correlates with mouth opening and pharyngeal volume, and F2 with the front‑back position of the tongue. Higher formants (F3, F4…) contribute less to vowel identity but are essential to voice quality, colour and perceived individuality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
+Formants are usually numbered from lowest to highest (F1, F2, F3…). The first two formants (F1 and F2) are most critical for distinguishing vowels: F1 correlates with mouth opening and pharyngeal volume, and F2 with the front‑back position of the tongue. Higher formants (F3, F4…) contribute less to vowel identity but are essential to voice quality, colour and perceived individuality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3dFSJ4Hzbs" title="What are FORMANTS and HARMONICS? VOCAL FORMANTS AND HARMONICS Explained!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3dFSJ4Hzbs" target="_blank" rel="noopener noreferrer">What are FORMANTS and HARMONICS? VOCAL FORMANTS AND HARMONICS Explained!</a></p><p class="youtube-embed-meta">Channel: singwise &middot; Views: 73.0K &middot; Uploaded: March 2016 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3dFSJ4Hzbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3dFSJ4Hzbs">Open on YouTube</a></p></div></div></div>
 
 ## Formants and Voice Recognition: Timbre Identity Across Speakers
 
-What makes one person’s voice recognisable from another’s? While pitch (the fundamental frequency) relates to vocal fold vibration speed, *formants shape the spectral envelope* in ways tightly linked to vocal tract geometry. Research in speech science shows that vowels cluster in a two‑dimensional acoustic space defined by F1 and F2 values; listeners use these positions to identify vowel categories reliably. Variations in formant frequencies above these core two also contribute to individual timbral differences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
+What makes one person’s voice recognisable from another’s? While pitch (the fundamental frequency) relates to vocal fold vibration speed, *formants shape the spectral envelope* in ways tightly linked to vocal tract geometry. Research in speech science shows that vowels cluster in a two‑dimensional acoustic space defined by F1 and F2 values; listeners use these positions to identify vowel categories reliably. Variations in formant frequencies above these core two also contribute to individual timbral differences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
 
-Because anatomical differences (vocal tract length, cavity sizes, articulator habitus) vary from person to person, each speaker’s formant pattern forms a kind of acoustic fingerprint. Techniques in **speaker [identification]({{ 'identification/' | relative_url }})** explicitly extract vowel formants as features that remain robust across utterances and can distinguish one speaker from another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11265-015-1005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Text-Independent Speaker Identification Using Vowel Formants &#124; Journal of Signal Processing Systems &#124; Springer Nature LinkMay 5...</span></span></span>
+Because anatomical differences (vocal tract length, cavity sizes, articulator habitus) vary from person to person, each speaker’s formant pattern forms a kind of acoustic fingerprint. Techniques in **speaker [identification]({{ 'identification/' | relative_url }})** explicitly extract vowel formants as features that remain robust across utterances and can distinguish one speaker from another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Text-Independent Speaker Identification Using Vowel Formants &#124; Journal of Signal Processing Systems &#124; Springer Nature LinkMay 5...</span></span></span>
 
-Even when fundamental frequency changes (for example, when singing higher or lower notes), the vocal tract resonances often remain relatively stable in frequency. This independence between pitch and formant structure is one reason why artificially shifting pitch without preserving formants (as sometimes occurs in digital pitch correction) can make a voice sound “unnatural” or uncanny — because the expected resonance patterns are altered in a way our auditory system does not recognise as human. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/audioengineering/comments/18zz8zq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What is the difference between when i sing a G Note and sing an F then pitch it whole step up digitally?January 6, 2024...</span><span class="citation-popover-meta">Published: January 6, 2024</span></span></span>
+Even when fundamental frequency changes (for example, when singing higher or lower notes), the vocal tract resonances often remain relatively stable in frequency. This independence between pitch and formant structure is one reason why artificially shifting pitch without preserving formants (as sometimes occurs in digital pitch correction) can make a voice sound “unnatural” or uncanny — because the expected resonance patterns are altered in a way our auditory system does not recognise as human.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/audioengineering/comments/18zz8zq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What is the difference between when i sing a G Note and sing an F then pitch it whole step up digitally?January 6, 2024...</span><span class="citation-popover-meta">Published: January 6, 2024</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-2-dark.svg" | relative_url }}" alt="Vocal Formants illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Formants Relate to Timbre in Music and Expression
 
-In musical contexts, singers and voice coaches often talk about “placing” the sound or adjusting vocal tract shape. Acoustically, these adjustments are changes in formant positions and bandwidths. Trained singers can manipulate their vocal tract to bring a resonance closer to a harmonic of the sung pitch — a practice known as **formant tuning** — which increases the amplitude and perceived richness of the tone without changing pitch. This strategy contributes to stylistic timbre distinctions (e.g., classical versus contemporary singing) and affects how expressive and “present” a voice sounds in performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.royalholloway.ac.uk/en/publications/the-perception-of-formant-tuning-in-soprano-voices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.royalholloway.ac.uk">[Royal Holloway Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.royalholloway.ac.uk</span><span class="citation-popover-snippet">Royal Holloway Research PortalThe Perception of Formant Tuning in Soprano Voices - Royal Holloway Research PortalJanuary 1, 2018...</span><span class="citation-popover-meta">Published: January 1, 2018</span></span></span>
+In musical contexts, singers and voice coaches often talk about “placing” the sound or adjusting vocal tract shape. Acoustically, these adjustments are changes in formant positions and bandwidths. Trained singers can manipulate their vocal tract to bring a resonance closer to a harmonic of the sung pitch — a practice known as **formant tuning** — which increases the amplitude and perceived richness of the tone without changing pitch. This strategy contributes to stylistic timbre distinctions (e.g., classical versus contemporary singing) and affects how expressive and “present” a voice sounds in performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.royalholloway.ac.uk/en/publications/the-perception-of-formant-tuning-in-soprano-voices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.royalholloway.ac.uk">[Royal Holloway Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.royalholloway.ac.uk</span><span class="citation-popover-snippet">Royal Holloway Research PortalThe Perception of Formant Tuning in Soprano Voices - Royal Holloway Research PortalJanuary 1, 2018...</span><span class="citation-popover-meta">Published: January 1, 2018</span></span></span>
 
-Beyond individual control, the interaction of formants with the auditory system’s pattern‑recognition processes shapes the emotional and identity cues carried by speech and song. Listeners are highly attuned to spectral envelope features like formant positions and bandwidths, using them to perceive qualities such as brightness, nasality, breathiness and even speaker gender or character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
+Beyond individual control, the interaction of formants with the auditory system’s pattern‑recognition processes shapes the emotional and identity cues carried by speech and song. Listeners are highly attuned to spectral envelope features like formant positions and bandwidths, using them to perceive qualities such as brightness, nasality, breathiness and even speaker gender or character.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/glnUFa2fLyE" title="Speech Acoustics 5 - vowel formants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=glnUFa2fLyE" target="_blank" rel="noopener noreferrer">Speech Acoustics 5 - vowel formants</a></p><p class="youtube-embed-meta">Channel: Listen Lab &middot; Views: 61.6K &middot; Uploaded: October 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=glnUFa2fLyE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=glnUFa2fLyE">Open on YouTube</a></p></div></div></div>
 
 ## Vocal Timbre Across Speakers and Styles
 
-Although the basic mechanism of formants is consistent across humans, their acoustic manifestation varies with both physiology and intentional articulation. Speakers and singers change tongue height, tongue advancement, lip rounding, jaw opening and soft palate position to modify formant positions, and this shapes both **phonetic content** (which vowel is heard) and **timbre quality** (how that vowel colour sounds). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
+Although the basic mechanism of formants is consistent across humans, their acoustic manifestation varies with both physiology and intentional articulation. Speakers and singers change tongue height, tongue advancement, lip rounding, jaw opening and soft palate position to modify formant positions, and this shapes both **phonetic content** (which vowel is heard) and **timbre quality** (how that vowel colour sounds).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
 
-Moreover, higher formants beyond F2 are more sensitive to subtle geometry changes and contribute disproportionately to what we perceive as voice individuality and expressivity. In professional singing, these higher resonances can be exploited to enhance projection and presence in different acoustic environments, and psychoacoustic research shows that changes in formant distributions influence how listeners assess vocal richness or brightness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2689615/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVocal tract resonances in speech, singing, and playing musical instruments</span><span class="citation-popover-snippet">PMCVocal tract resonances in speech, singing, and playing musical instruments</span></span></span>
+Moreover, higher formants beyond F2 are more sensitive to subtle geometry changes and contribute disproportionately to what we perceive as voice individuality and expressivity. In professional singing, these higher resonances can be exploited to enhance projection and presence in different acoustic environments, and psychoacoustic research shows that changes in formant distributions influence how listeners assess vocal richness or brightness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2689615/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVocal tract resonances in speech, singing, and playing musical instruments</span><span class="citation-popover-snippet">PMCVocal tract resonances in speech, singing, and playing musical instruments</span></span></span>
 
-In everyday speech, small articulatory differences across speakers — from habitual tongue position to the habitual openness of the mouth — create consistent formant patterns that our brains learn to associate with particular individuals. This learned sensitivity to spectral shape, rather than just pitch or loudness, is a cornerstone of human voice recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
+In everyday speech, small articulatory differences across speakers — from habitual tongue position to the habitual openness of the mouth — create consistent formant patterns that our brains learn to associate with particular individuals. This learned sensitivity to spectral shape, rather than just pitch or loudness, is a cornerstone of human voice recognition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</span><span class="citation-popover-meta">Published: November 13, 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-3-dark.svg" | relative_url }}" alt="Vocal Formants illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-Formants are resonance peaks produced by the human vocal tract acting as a filter on the harmonic sound from the vocal folds. The specific pattern of formant frequencies — shaped by the unique anatomy and dynamic articulation of the throat, mouth and nasal cavities — defines both **vowel identity** and an individual’s **voice timbre**. Because listeners’ brains are tuned to these spectral patterns, formants underlie much of what makes a voice sound human and recognisable in both speech and singing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
+Formants are resonance peaks produced by the human vocal tract acting as a filter on the harmonic sound from the vocal folds. The specific pattern of formant frequencies — shaped by the unique anatomy and dynamic articulation of the throat, mouth and nasal cavities — defines both **vowel identity** and an individual’s **voice timbre**. Because listeners’ brains are tuned to these spectral patterns, formants underlie much of what makes a voice sound human and recognisable in both speech and singing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voicescience.org">[Voice Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voicescience.org</span><span class="citation-popover-title">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span><span class="citation-popover-snippet">Voice Science Formant: Vocal Tract Resonance and Vowel Identity</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MLxlOcl2W5w" title="Vocal Tip &quot;The Resonators&quot; Sing Like a Pro with Ron Anderson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MLxlOcl2W5w" target="_blank" rel="noopener noreferrer">Vocal Tip &quot;The Resonators&quot; Sing Like a Pro with Ron Anderson</a></p><p class="youtube-embed-meta">Channel: Voixtek Singing Lessons with Ron Anderson &middot; Views: 104.9K &middot; Uploaded: May 2019 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MLxlOcl2W5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MLxlOcl2W5w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Vocal Tract Formants Define Individual Timbre. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Vocal Tract Formants Define Individual Timbre. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The science of the singing voice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4115860-M.jpg" alt="Cover for The science of the singing voice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The science of the singing voice">The science of the singing voice</a>
-        </h4>
-        <p class="fr-book-author">By Johan Sundberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The science of the singing voice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4115860-M.jpg" alt="Cover for The science of the singing voice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The science of the singing voice">The science of the singing voice</a>
+</h4>
+<p class="fr-book-author">By Johan Sundberg</p>
         
-        <p class="fr-book-desc">First published 1987. Subjects: Voice, Singing, Gesang, Stemvorming, Canto.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1987. Subjects: Voice, Singing, Gesang, Stemvorming, Canto.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Voice An Inside View on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12506757-M.jpg" alt="Cover for Your Voice An Inside View" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Voice An Inside View">Your Voice An Inside View</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCoy, MD Lucinda Halstead et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Voice An Inside View on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12506757-M.jpg" alt="Cover for Your Voice An Inside View" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Voice An Inside View">Your Voice An Inside View</a>
+</h4>
+<p class="fr-book-author">By Scott McCoy, MD Lucinda Halstead et al.</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voice Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9532701-M.jpg" alt="Cover for The Voice Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voice Book">The Voice Book</a>
-        </h4>
-        <p class="fr-book-author">By Kate DeVore, Starr Cookman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voice Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9532701-M.jpg" alt="Cover for The Voice Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voice Book">The Voice Book</a>
+</h4>
+<p class="fr-book-author">By Kate DeVore, Starr Cookman</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Voice, Physiological aspects, Care and hygiene, Speech, Voice culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Voice, Physiological aspects, Care and hygiene, Speech, Voice culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of voice production on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of voice production">Principles of voice production</a>
-        </h4>
-        <p class="fr-book-author">By Ingo R. Titze</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of voice production on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of voice production">Principles of voice production</a>
+</h4>
+<p class="fr-book-author">By Ingo R. Titze</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Voice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Voice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The science of the singing voice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Voice An Inside View</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voice+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voice Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The science of the singing voice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Voice An Inside View</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voice+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voice Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eminem in the recording studio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/360fe724a34a18a5fad2.jpg' | relative_url }}" alt="Listing image for Eminem in the recording studio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Eminem in the recording studio Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eminem in the recording studio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/360fe724a34a18a5fad2.jpg' | relative_url }}" alt="Listing image for Eminem in the recording studio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Eminem in the recording studio Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Studio Control Panel Photo Art Print Poster 24x36 inch"><img src="{{ '/assets/images/marketplace-covers/b37f1ab55d60671506c6.jpg' | relative_url }}" alt="Listing image for Recording Studio Control Panel Photo Art Print Poster 24x36 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Recording Studio Control Panel Photo Art Print Poster 24x36 inch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Studio Control Panel Photo Art Print Poster 24x36 inch"><img src="{{ '/assets/images/marketplace-covers/b37f1ab55d60671506c6.jpg' | relative_url }}" alt="Listing image for Recording Studio Control Panel Photo Art Print Poster 24x36 inch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Recording Studio Control Panel Photo Art Print Poster 24x36 inch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Studio Patent Wall Art Set of 3 Poster, Canvas or Framed Audio Gifts"><img src="{{ '/assets/images/marketplace-covers/1e590cd62cc4ca93e6cb.jpg' | relative_url }}" alt="Listing image for Recording Studio Patent Wall Art Set of 3 Poster, Canvas or Framed Audio Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Recording Studio Patent Wall Art Set of 3 Poster, Canvas or Framed Audio Gifts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Studio Patent Wall Art Set of 3 Poster, Canvas or Framed Audio Gifts"><img src="{{ '/assets/images/marketplace-covers/1e590cd62cc4ca93e6cb.jpg' | relative_url }}" alt="Listing image for Recording Studio Patent Wall Art Set of 3 Poster, Canvas or Framed Audio Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Recording Studio Patent Wall Art Set of 3 Poster, Canvas or Framed Audio Gifts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abstract Recording Studio Music Art Wall Decor Poster"><img src="{{ '/assets/images/marketplace-covers/a59c6a73f4ed4832c52d.jpg' | relative_url }}" alt="Listing image for Abstract Recording Studio Music Art Wall Decor Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Abstract Recording Studio Music Art Wall Decor Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abstract Recording Studio Music Art Wall Decor Poster"><img src="{{ '/assets/images/marketplace-covers/a59c6a73f4ed4832c52d.jpg' | relative_url }}" alt="Listing image for Abstract Recording Studio Music Art Wall Decor Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Abstract Recording Studio Music Art Wall Decor Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio poster -book -books" data-ebay-reference="vocal-formants-how-vocal-tract-formants-define-individual-timbre-music-recording-studio-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ Formants are resonance peaks produced by the human vocal tract acting as a filte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ Formants are resonance peaks produced by the human vocal tract acting as a filte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ Formants are resonance peaks produced by the human vocal tract acting as a filte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ Formants are resonance peaks produced by the human vocal tract acting as a filte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ Formants are resonance peaks produced by the human vocal tract acting as a filte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,121 +707,121 @@ Formants are resonance peaks produced by the human vocal tract acting as a filte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCVocal tract resonances in speech, singing, and playing musical instruments  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2689615/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2689615/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2689615/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2689615/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11265-015-1005-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11265-015-1005-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Text-Independent Speaker Identification Using Vowel Formants | Journal of Signal Processing Systems | Springer Nature LinkMay 5...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11265" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11265</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Text-Independent Speaker Identification Using Vowel Formants | Journal of Signal Processing Systems | Springer Nature LinkMay 5...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/audioengineering/comments/18zz8zq" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/audioengineering/comments/18zz8zq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between when i sing a G Note and sing an F then pitch it whole step up digitally?January 6, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/audioengineering/comments/18zz8zq" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/audioengineering/comments/18zz8zq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between when i sing a G Note and sing an F then pitch it whole step up digitally?January 6, 2024...</p></details>
    Published: January 6, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13428-023-02288-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13428-023-02288-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>practical guide to calculating vocal tract length and scale-invariant formant patterns | Behavior Research Methods | Springer Nature Link...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13428-023-02288-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13428-023-02288-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practical guide to calculating vocal tract length and scale-invariant formant patterns | Behavior Research Methods | Springer Nature Link...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10237-014-0632-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10237-014-0632-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>frequencies and bandwidths of the vocal tract transfer function are affected by the mechanical impedance of the vocal tract wall | Biomec...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10237" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10237</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>frequencies and bandwidths of the vocal tract transfer function are affected by the mechanical impedance of the vocal tract wall | Biomec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: voicescience.org  
    Title: Voice Science Formant: Vocal Tract Resonance and Vowel Identity  
-   Link: <a href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow">https://www.voicescience.org/lexicon/formant/</a>  
+   Link:<a href="https://www.voicescience.org/lexicon/formant/" target="_blank" rel="noopener noreferrer nofollow">https://www.voicescience.org/lexicon/formant/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bmcbiol.biomedcentral.com  
-   Link: <a href="https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02188-w" target="_blank" rel="noopener noreferrer nofollow">https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02188-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerLinkFormant analysis of vertebrate vocalizations: achievements, pitfalls, and promises | BMC Biology | Full TextApril 7, 2025...</p></details>
+   Link:<a href="https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02188-w" target="_blank" rel="noopener noreferrer nofollow">https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02188-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerLinkFormant analysis of vertebrate vocalizations: achievements, pitfalls, and promises | BMC Biology | Full TextApril 7, 2025...</p></details>
    Published: April 7, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</p></details>
+   Link:<a href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Neural and behavioral investigations into timbre perceptionNovember 13, 2013...</p></details>
    Published: November 13, 2013  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.royalholloway.ac.uk  
-   Link: <a href="https://pure.royalholloway.ac.uk/en/publications/the-perception-of-formant-tuning-in-soprano-voices/" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/en/publications/the-perception-of-formant-tuning-in-soprano-voices/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Holloway Research PortalThe Perception of Formant Tuning in Soprano Voices - Royal Holloway Research PortalJanuary 1, 2018...</p></details>
+   Link:<a href="https://pure.royalholloway.ac.uk/en/publications/the-perception-of-formant-tuning-in-soprano-voices/" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/en/publications/the-perception-of-formant-tuning-in-soprano-voices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Holloway Research PortalThe Perception of Formant Tuning in Soprano Voices - Royal Holloway Research PortalJanuary 1, 2018...</p></details>
    Published: January 1, 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pure.york.ac.uk  
    Title: york.ac.uk The Perception of Formant Tuning in Soprano Voices  
-   Link: <a href="https://pure.york.ac.uk/portal/en/publications/the-perception-of-formant-tuning-in-soprano-voices" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/the-perception-of-formant-tuning-in-soprano-voices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perception of Formant Tuning in Soprano Voices - York Research DatabaseMay 26, 2017 — THE PERCEPTION OF FORMANT TUNING IN SOPRANO VOICES...</p></details>
+   Link:<a href="https://pure.york.ac.uk/portal/en/publications/the-perception-of-formant-tuning-in-soprano-voices" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/en/publications/the-perception-of-formant-tuning-in-soprano-voices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perception of Formant Tuning in Soprano Voices - York Research DatabaseMay 26, 2017 — THE PERCEPTION OF FORMANT TUNING IN SOPRANO VOICES...</p></details>
    Published: May 26, 2017  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pure.royalholloway.ac.uk  
-   Link: <a href="https://pure.royalholloway.ac.uk/en/publications/using-an-exponential-sine-sweep-to-measure-the-vocal-tract-resona/" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/en/publications/using-an-exponential-sine-sweep-to-measure-the-vocal-tract-resona/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an exponential sine sweep to measure the vocal tract resonances - Royal Holloway Research PortalUSING AN EXPONENTIAL SINE SWEEP TO MEASUR...</p></details>
+   Link:<a href="https://pure.royalholloway.ac.uk/en/publications/using-an-exponential-sine-sweep-to-measure-the-vocal-tract-resona/" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/en/publications/using-an-exponential-sine-sweep-to-measure-the-vocal-tract-resona/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an exponential sine sweep to measure the vocal tract resonances - Royal Holloway Research PortalUSING AN EXPONENTIAL SINE SWEEP TO MEASUR...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchportal.helsinki.fi  
    Title: fi How far are vowel formants from computed vocal tract resonances?  
-   Link: <a href="https://researchportal.helsinki.fi/en/publications/how-far-are-vowel-formants-from-computed-vocal-tract-resonances/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/how-far-are-vowel-formants-from-computed-vocal-tract-resonances/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of HelsinkiAugust 29, 2012 — HOW FAR ARE VOWEL FORMANTS FROM COMPUTED VOCAL TRACT RESONANCES? Daniel Aalto, Antti Huhtala, Atl...</p></details>
+   Link:<a href="https://researchportal.helsinki.fi/en/publications/how-far-are-vowel-formants-from-computed-vocal-tract-resonances/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.helsinki.fi/en/publications/how-far-are-vowel-formants-from-computed-vocal-tract-resonances/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of HelsinkiAugust 29, 2012 — HOW FAR ARE VOWEL FORMANTS FROM COMPUTED VOCAL TRACT RESONANCES? Daniel Aalto, Antti Huhtala, Atl...</p></details>
    Published: August 29, 2012  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vocevista.com  
-   Link: <a href="https://www.vocevista.com/en/doc/theory-resonances/" target="_blank" rel="noopener noreferrer nofollow">https://www.vocevista.com/en/doc/theory-resonances/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The vocal tract has multiple resonances simultaneously, each of which amplifies sound near...</p></details>
+   Link:<a href="https://www.vocevista.com/en/doc/theory-resonances/" target="_blank" rel="noopener noreferrer nofollow">https://www.vocevista.com/en/doc/theory-resonances/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The vocal tract has multiple resonances simultaneously, each of which amplifies sound near...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: biologyinsights.com  
    Title: What Are Formants and How Do They Work?  
-   Link: <a href="https://biologyinsights.com/what-are-formants-and-how-do-they-work/" target="_blank" rel="noopener noreferrer nofollow">https://biologyinsights.com/what-are-formants-and-how-do-they-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biology InsightsJuly 31, 2025 — WHAT ARE FORMANTS AND HOW DO THEY WORK? * July 31, 2025 Formants are key elements of human speech, repres...</p></details>
+   Link:<a href="https://biologyinsights.com/what-are-formants-and-how-do-they-work/" target="_blank" rel="noopener noreferrer nofollow">https://biologyinsights.com/what-are-formants-and-how-do-they-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biology InsightsJuly 31, 2025 — WHAT ARE FORMANTS AND HOW DO THEY WORK? * July 31, 2025 Formants are key elements of human speech, repres...</p></details>
    Published: July 31, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
    Title: A Formant Range Profile for Singers  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0892199716301096" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0892199716301096</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectJOURNAL OF VOICE Volume 31, Issue 3, May 2017, Pages 382.e9-382.e13 A FORMANT RANGE PROFILE FOR SINGERS [https://doi.org/10.1...&quot;](https://doi.org/10.1...&quot;)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0892199716301096" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0892199716301096</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectJOURNAL OF VOICE Volume 31, Issue 3, May 2017, Pages 382.e9-382.e13 A FORMANT RANGE PROFILE FOR SINGERS [https://doi.org/10.1...&quot;](https://doi.org/10.1...&quot;)...</p></details>
    Published: May 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ncvs.org  
    Title: How the Vocal Tract Filters Sound  
-   Link: <a href="https://ncvs.org/how-the-vocal-tract-filters-sound/" target="_blank" rel="noopener noreferrer nofollow">https://ncvs.org/how-the-vocal-tract-filters-sound/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As we phonate, our vocal folds produce a complex sound spectrum, made up of a wide range of frequencies and overtones. As this spectrum trav...</p></details>
+   Link:<a href="https://ncvs.org/how-the-vocal-tract-filters-sound/" target="_blank" rel="noopener noreferrer nofollow">https://ncvs.org/how-the-vocal-tract-filters-sound/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As we phonate, our vocal folds produce a complex sound spectrum, made up of a wide range of frequencies and overtones. As this spectrum trav...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wiki.ubc.ca  
    Title: Formantand Timbreinthe Human Voice  
-   Link: <a href="https://wiki.ubc.ca/Course%3APHYS341/Archive/2016wTerm2/FormantandTimbreintheHumanVoice" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ubc.ca/Course%3APHYS341/Archive/2016wTerm2/FormantandTimbreintheHumanVoice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ubc.caCourse:PHYS341/Archive/2016wTerm2/FormantandTimbreintheHumanVoice - UBC WikiMay 5, 2017 — COURSE:PHYS341/ARCHIVE/2016WTERM2/FORMANT...</p></details>
+   Link:<a href="https://wiki.ubc.ca/Course%3APHYS341/Archive/2016wTerm2/FormantandTimbreintheHumanVoice" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ubc.ca/Course%3APHYS341/Archive/2016wTerm2/FormantandTimbreintheHumanVoice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ubc.caCourse:PHYS341/Archive/2016wTerm2/FormantandTimbreintheHumanVoice - UBC WikiMay 5, 2017 — COURSE:PHYS341/ARCHIVE/2016WTERM2/FORMANT...</p></details>
    Published: May 5, 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sfu.ca  
    Title: Simon Fraser University Formant  
-   Link: <a href="https://www.sfu.ca/sonic-studio-webdav/handbook/Formant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/sonic-studio-webdav/handbook/Formant.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Formant&gt; FORMANT &gt; &gt; * * * &gt; &gt; A characteristic RESONANCE region. A musical instrument may have several formant [regions](&amp;#123;&amp;#123; &#x27;regions/&#x27; | relative_url &amp;#125;&amp;#125;) dictated by the s...</p></details>
+   Link:<a href="https://www.sfu.ca/sonic-studio-webdav/handbook/Formant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/sonic-studio-webdav/handbook/Formant.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Formant&gt; FORMANT &gt; &gt; * * * &gt; &gt; A characteristic RESONANCE region. A musical instrument may have several formant [regions](&amp;#123;&amp;#123; &#x27;regions/&#x27; | relative_url &amp;#125;&amp;#125;) dictated by the s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11525281/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11525281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>practical guide to calculating vocal tract length and scale-invariant formant patterns - PMCDecember 29, 2023 — LINEAR FORMANTS AND VTL-B...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11525281/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11525281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practical guide to calculating vocal tract length and scale-invariant formant patterns - PMCDecember 29, 2023 — LINEAR FORMANTS AND VTL-B...</p></details>
    Published: December 29, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11974057/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11974057/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Image: Fig. 1 Open in a new tab Basic source-filter theory. A A schematic larynx and vocal tract of a nonhuman primate, illustrating that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11974057/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11974057/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image: Fig. 1 Open in a new tab Basic source-filter theory. A A schematic larynx and vocal tract of a nonhuman primate, illustrating that...</p></details>

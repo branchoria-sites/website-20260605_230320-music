@@ -268,14 +268,14 @@ image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_
 
 ## Introduction
 
-A stream from another country does not automatically earn the same royalty as a stream at home. Although music platforms count plays globally, the money behind those plays is generated locally. Subscription prices differ between countries, advertising markets vary widely, and streaming services usually calculate [royalties]({{ 'royalties/' | relative_url }}) from territory-specific revenue pools before allocating shares to [rights]({{ 'rights/' | relative_url }}) holders. As a result, one million streams concentrated in a high-income subscription market can generate a different amount of revenue from one million streams concentrated in a lower-priced or advertising-supported market. Spotify, for example, notes that royalty outcomes vary according to factors including the listener’s country, subscription plan and overall streaming activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span>
+A stream from another country does not automatically earn the same royalty as a stream at home. Although music platforms count plays globally, the money behind those plays is generated locally. Subscription prices differ between countries, advertising markets vary widely, and streaming services usually calculate [royalties]({{ 'royalties/' | relative_url }}) from territory-specific revenue pools before allocating shares to [rights]({{ 'rights/' | relative_url }}) holders. As a result, one million streams concentrated in a high-income subscription market can generate a different amount of revenue from one million streams concentrated in a lower-priced or advertising-supported market. Spotify, for example, notes that royalty outcomes vary according to factors including the listener’s country, subscription plan and overall streaming activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-1-dark.svg" | relative_url }}" alt="Global plays illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For artists, this means that international success is about more than adding listeners. Where those listeners are located can significantly influence how streaming income develops over time.
 
 ## How territory royalty pools are formed
 
-Most major streaming services do not operate with a fixed global payment rate [per stream]({{ 'per-stream/' | relative_url }}). Instead, they collect subscription and advertising revenue in individual markets and then distribute a share of those revenues according to listening share, often called “streamshare”. If an artist accounts for 1% of streams in a territory, they generally receive roughly 1% of the royalty pool allocated to music rights holders in that market. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear The Process</span><span class="citation-popover-snippet">Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</span></span></span>
+Most major streaming services do not operate with a fixed global payment rate [per stream]({{ 'per-stream/' | relative_url }}). Instead, they collect subscription and advertising revenue in individual markets and then distribute a share of those revenues according to listening share, often called “streamshare”. If an artist accounts for 1% of streams in a territory, they generally receive roughly 1% of the royalty pool allocated to music rights holders in that market.<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear The Process</span><span class="citation-popover-snippet">Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</span></span></span>
 
 This system creates an important distinction between audience size and audience value. A stream contributes to the royalty pool generated in the country where it occurred, not to a single worldwide pot. Consequently:
 
@@ -283,19 +283,19 @@ This system creates an important distinction between audience size and audience 
 
 * Streams from countries with higher subscription revenues contribute to larger royalty pools.
 * Streams from markets that rely heavily on advertising contribute to smaller pools because advertising revenue is generally lower than subscription revenue.
-* The same song can generate different average royalty outcomes depending on the geographic mix of its audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span>
+* The same song can generate different average royalty outcomes depending on the geographic mix of its audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span>
 
 </div>
 
-This is one reason industry observers caution against quoting a universal “per-stream rate”. Streaming platforms themselves argue that such figures can be misleading because royalties depend on market-specific revenue and listening behaviour rather than a fixed price attached to each play. <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear The Process</span><span class="citation-popover-snippet">Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</span></span></span>
+This is one reason industry observers caution against quoting a universal “per-stream rate”. Streaming platforms themselves argue that such figures can be misleading because royalties depend on market-specific revenue and listening behaviour rather than a fixed price attached to each play.<span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear The Process</span><span class="citation-popover-snippet">Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</span></span></span>
 
 ## Subscription prices and ad demand by market
 
 The biggest reason streams abroad pay differently is that consumers do not pay the same subscription price everywhere.
 
-Streaming services adjust pricing to local economic conditions, competition and purchasing power. Premium subscriptions in wealthier markets often cost substantially more than equivalent plans in emerging markets. Since subscription revenue remains the largest component of streaming income globally, these differences directly affect royalty pools. IFPI reports that paid subscription streaming now accounts for more than half of global recorded music revenues, highlighting the importance of subscription economics in determining artist payments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 20...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — Paid subscription streaming grew 8.8% and accounted for 52.4% of total rev...</span></span></span>
+Streaming services adjust pricing to local economic conditions, competition and purchasing power. Premium subscriptions in wealthier markets often cost substantially more than equivalent plans in emerging markets. Since subscription revenue remains the largest component of streaming income globally, these differences directly affect royalty pools. IFPI reports that paid subscription streaming now accounts for more than half of global recorded music revenues, highlighting the importance of subscription economics in determining artist payments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 20...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — Paid subscription streaming grew 8.8% and accounted for 52.4% of total rev...</span></span></span>
 
-Advertising-supported listening introduces another layer of variation. Advertising rates depend on local advertising demand, consumer spending power and the maturity of the digital advertising market. A free-tier stream in a country with strong advertising competition may generate more revenue than a comparable stream in a market where advertisers spend less online. Spotify's royalty explanations explicitly note that Premium listening contributes more value to royalty pools than advertising-supported listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span>
+Advertising-supported listening introduces another layer of variation. Advertising rates depend on local advertising demand, consumer spending power and the maturity of the digital advertising market. A free-tier stream in a country with strong advertising competition may generate more revenue than a comparable stream in a market where advertisers spend less online. Spotify's royalty explanations explicitly note that Premium listening contributes more value to royalty pools than advertising-supported listening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span>
 
 As a result, two artists with identical global stream counts may see different incomes if one audience is concentrated in high-subscription, high-advertising markets while the other is concentrated in lower-revenue territories.
 
@@ -304,9 +304,9 @@ As a result, two artists with identical global stream counts may see different i
 
 Different market values do not mean international audiences are less important. In many cases, global reach increases income even when some territories generate lower average revenue per stream.
 
-First, international audiences expand the total number of monetised listeners. Streaming allows artists to reach markets that would previously have been inaccessible without local radio, [physical]({{ 'physical/' | relative_url }}) distribution or major-label infrastructure. The global growth of paid subscriptions has steadily expanded the size of royalty pools worldwide. Recorded music revenues have risen for more than a decade, largely driven by streaming adoption across multiple [regions]({{ 'regions/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">industry data</span><span class="citation-popover-snippet">Industry DataIn 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues inc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming boosts global music revenues once again 2025 report shows 2026 03 18</span><span class="citation-popover-snippet">Streaming accounted for 70% of global music income, with paid subscription streaming growing 8.8% to reach over 52% of total revenues and...</span></span></span>
+First, international audiences expand the total number of monetised listeners. Streaming allows artists to reach markets that would previously have been inaccessible without local radio, [physical]({{ 'physical/' | relative_url }}) distribution or major-label infrastructure. The global growth of paid subscriptions has steadily expanded the size of royalty pools worldwide. Recorded music revenues have risen for more than a decade, largely driven by streaming adoption across multiple [regions]({{ 'regions/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">industry data</span><span class="citation-popover-snippet">Industry DataIn 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues inc...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">streaming boosts global music revenues once again 2025 report shows</span><span class="citation-popover-snippet">Streaming accounted for 70% of global music income, with paid subscription streaming growing 8.8% to reach over 52% of total revenues and...</span></span></span>
 
-Second, international growth often diversifies revenue sources. An artist whose audience spans North America, Europe, Latin America and Asia is less dependent on the performance of a single market. Fast-growing regions can become meaningful contributors even if average revenue per stream remains lower than in the largest subscription markets. [IFPI data]({{ 'ifpi-data/' | relative_url }}) shows strong recent growth in regions such as Latin America, the Middle East, North Africa and Sub-Saharan Africa, driven primarily by streaming adoption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Streaming remained the key driver and accounted for 87.8% of recorded...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Paid subscriptions grew by 9.5%, and advertising-supported formats rose by 1.2%, while revenues from performance rights increased by 5.9%...</span></span></span>
+Second, international growth often diversifies revenue sources. An artist whose audience spans North America, Europe, Latin America and Asia is less dependent on the performance of a single market. Fast-growing regions can become meaningful contributors even if average revenue per stream remains lower than in the largest subscription markets. [IFPI data]({{ 'ifpi-data/' | relative_url }}) shows strong recent growth in regions such as Latin America, the Middle East, North Africa and Sub-Saharan Africa, driven primarily by streaming adoption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Streaming remained the key driver and accounted for 87.8% of recorded...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Paid subscriptions grew by 9.5%, and advertising-supported formats rose by 1.2%, while revenues from performance rights increased by 5.9%...</span></span></span>
 
 Third, global discovery can create long-term value beyond the initial stream. International audiences often lead to touring opportunities, merchandise sales, licensing deals and future fan spending that are not reflected in the royalty generated by a single play.
 
@@ -316,204 +316,204 @@ Imagine two independent artists who each receive ten million streams in a year.
 
 Artist A receives most streams from countries with high Premium subscription penetration and relatively expensive subscription plans. Artist B receives most streams from markets where subscriptions are cheaper and free-tier listening represents a larger share of consumption.
 
-Both artists may achieve the same stream count, yet Artist A could generate a larger royalty share because the underlying revenue pools are larger. The difference does not arise from the song itself but from the economic characteristics of the territories where listeners are located. This is why industry analyses frequently emphasise listener geography when discussing streaming earnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://orionpromotion.com/how-spotify-calculates-royalties-simple-breakdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orionpromotion.com">[Orion Promotion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orionpromotion.com</span><span class="citation-popover-snippet">Premium subscribers drive higher payouts compared to free tier streams.Read more...</span></span></span>
+Both artists may achieve the same stream count, yet Artist A could generate a larger royalty share because the underlying revenue pools are larger. The difference does not arise from the song itself but from the economic characteristics of the territories where listeners are located. This is why industry analyses frequently emphasise listener geography when discussing streaming earnings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://orionpromotion.com/how-spotify-calculates-royalties-simple-breakdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orionpromotion.com">[Orion Promotion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orionpromotion.com</span><span class="citation-popover-snippet">Premium subscribers drive higher payouts compared to free tier streams.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-3-dark.svg" | relative_url }}" alt="Global plays illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why geography remains important in a borderless music world
 
-Streaming has made music consumption global, but the economics behind that consumption remain local. Revenue is generated through country-specific subscription prices, advertising markets and licensing arrangements before being distributed according to streamshare. A listener in another country can be just as valuable culturally as a listener at home, yet the financial contribution of that stream may differ because the underlying market generates a different amount of revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear The Process</span><span class="citation-popover-snippet">Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</span></span></span>
+Streaming has made music consumption global, but the economics behind that consumption remain local. Revenue is generated through country-specific subscription prices, advertising markets and licensing arrangements before being distributed according to streamshare. A listener in another country can be just as valuable culturally as a listener at home, yet the financial contribution of that stream may differ because the underlying market generates a different amount of revenue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loudandclear.byspotify.com">[Loud and Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loudandclear.byspotify.com</span><span class="citation-popover-title">Loud and Clear The Process</span><span class="citation-popover-snippet">Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</span></span></span>
 
 The result is a central reality of modern streaming: worldwide audiences increase opportunity, but the value of those plays depends not only on how many people listen, but also on where they listen from.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why streams abroad pay differently. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why streams abroad pay differently. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Covers territory-based royalties and international licensing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers territory-based royalties and international licensing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
-        </h4>
-        <p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
+</h4>
+<p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
         
-        <p class="fr-book-desc">Explains how royalties differ across markets and rights structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how royalties differ across markets and rights structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music Industry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KydqDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Music Industry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music Industry Handbook">The Music Industry Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Paul Rutter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music Industry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KydqDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Music Industry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music Industry Handbook">The Music Industry Handbook</a>
+</h4>
+<p class="fr-book-author">By Paul Rutter</p>
         
-        <p class="fr-book-desc">Explores global music markets and streaming models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores global music markets and streaming models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Music+Industry+Handbook+by+Paul+Rutter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Business+Basics+for+Musicians+by+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Business Basics for Musicians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7yyAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Business Basics for Musicians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Business+Basics+for+Musicians+by+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Business Basics for Musicians">Business Basics for Musicians</a>
-        </h4>
-        <p class="fr-book-author">By Bobby Borg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Business+Basics+for+Musicians+by+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Business Basics for Musicians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7yyAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Business Basics for Musicians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Business+Basics+for+Musicians+by+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Business Basics for Musicians">Business Basics for Musicians</a>
+</h4>
+<p class="fr-book-author">By Bobby Borg</p>
         
-        <p class="fr-book-desc">Introduces revenue concepts relevant to international audiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Business+Basics+for+Musicians+by+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces revenue concepts relevant to international audiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Business+Basics+for+Musicians+by+Bobby+Borg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Music+Industry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Music Industry books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Music+Industry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Music Industry books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Texxas World Music Festival - Aerosmith - 1978 Vintage Music Poster"><img src="https://i.ebayimg.com/images/g/O3kAAOSw5iJgKddN/s-l225.jpg" alt="Listing image for Texxas World Music Festival - Aerosmith - 1978 Vintage Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Texxas World Music Festival - Aerosmith - 1978 Vintage Music Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Texxas World Music Festival - Aerosmith - 1978 Vintage Music Poster"><img src="https://i.ebayimg.com/images/g/O3kAAOSw5iJgKddN/s-l225.jpg" alt="Listing image for Texxas World Music Festival - Aerosmith - 1978 Vintage Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Texxas World Music Festival - Aerosmith - 1978 Vintage Music Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art"><img src="https://i.ebayimg.com/images/g/eIMAAeSwcGNog-Ym/s-l225.jpg" alt="Listing image for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art"><img src="https://i.ebayimg.com/images/g/eIMAAeSwcGNog-Ym/s-l225.jpg" alt="Listing image for Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Oasis Music Poster, Half The World Away Vinyl Poster, Oasis Print, A4 Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Poster Musical Theatre Poster Musicals Posters Film Musical Posters Film"><img src="https://i.ebayimg.com/images/g/iiIAAOSwP-9dsYyU/s-l225.jpg" alt="Listing image for Movie Poster Musical Theatre Poster Musicals Posters Film Musical Posters Film" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Movie Poster Musical Theatre Poster Musicals Posters Film Musical Posters Film</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Poster Musical Theatre Poster Musicals Posters Film Musical Posters Film"><img src="https://i.ebayimg.com/images/g/iiIAAOSwP-9dsYyU/s-l225.jpg" alt="Listing image for Movie Poster Musical Theatre Poster Musicals Posters Film Musical Posters Film" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Movie Poster Musical Theatre Poster Musicals Posters Film Musical Posters Film</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electric Light Orchestra – A New World Record Fine Art Album Poster"><img src="https://i.ebayimg.com/images/g/YQsAAeSwvwZpuWYB/s-l225.jpg" alt="Listing image for Electric Light Orchestra – A New World Record Fine Art Album Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Electric Light Orchestra – A New World Record Fine Art Album Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electric Light Orchestra – A New World Record Fine Art Album Poster"><img src="https://i.ebayimg.com/images/g/YQsAAeSwvwZpuWYB/s-l225.jpg" alt="Listing image for Electric Light Orchestra – A New World Record Fine Art Album Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">Electric Light Orchestra – A New World Record Fine Art Album Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: world music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+music+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-streams-abroad-pay-differently-world-music-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world music poster" data-ebay-reference="why-streams-abroad-pay-differently-world-music-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -529,7 +529,7 @@ The result is a central reality of modern streaming: worldwide audiences increas
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -549,7 +549,7 @@ The result is a central reality of modern streaming: worldwide audiences increas
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -581,7 +581,7 @@ The result is a central reality of modern streaming: worldwide audiences increas
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -633,7 +633,7 @@ The result is a central reality of modern streaming: worldwide audiences increas
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -678,7 +678,7 @@ The result is a central reality of modern streaming: worldwide audiences increas
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,170 +719,170 @@ The result is a central reality of modern streaming: worldwide audiences increas
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</p></details>
+   Link:<a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideWhile Premium streams add more value to the pool, payouts may vary depending on factors like the listen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: support.spotify.com  
-   Link: <a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</p></details>
+   Link:<a href="https://support.spotify.com/us/artists/article/understanding-spotify-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/understanding-spotify-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify royaltiesContrary to what you might have heard, Spotify does not pay artist royalties according to a per-play or per-stream rate...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 20...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 202519 Mar 2025 — Subscription streaming revenues accounted for over 50% of global recorded music revenues in. 20...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — Paid subscription streaming grew 8.8% and accounted for 52.4% of total rev...</p></details>
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...18 Mar 2026 — Paid subscription streaming grew 8.8% and accounted for 52.4% of total rev...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ifpi.org  
    Title: industry data  
-   Link: <a href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/industry-data/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Industry DataIn 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues inc...</p></details>
+   Link:<a href="https://www.ifpi.org/our-industry/industry-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/industry-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Industry DataIn 2024, global recorded music revenues grew by 4.8%. This was the tenth consecutive year of global growth. Revenues inc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: streaming boosts global music revenues once again 2025 report shows 2026 03 18  
-   Link: <a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming accounted for 70% of global music income, with paid subscription streaming growing 8.8% to reach over 52% of total revenues and...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/streaming-boosts-global-music-revenues-once-again-2025-report-shows-2026-03-18/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streaming accounted for 70% of global music income, with paid subscription streaming growing 8.8% to reach over 52% of total revenues and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paid subscriptions grew by 9.5%, and advertising-supported [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) rose by 1.2%, while revenues from performance rights increased by 5.9%...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/music-revenues-rise-again-2024-boosted-by-streaming-subscriptions-report-shows-2025-03-19/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paid subscriptions grew by 9.5%, and advertising-supported [formats](&amp;#123;&amp;#123; &#x27;formats/&#x27; | relative_url &amp;#125;&amp;#125;) rose by 1.2%, while revenues from performance rights increased by 5.9%...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Streaming remained the key driver and accounted for 87.8% of recorded...</p></details>
+   Link:<a href="https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/ifpi-amidst-highly-competitive-market-global-recorded-music-revenues-grew-4-8-in-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI: AMIDST HIGHLY COMPETITIVE MARKET, GLOBAL...19 Mar 2025 — Streaming remained the key driver and accounted for 87.8% of recorded...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: artist.tools  
    Title: How Much Does Spotify Pay?  
-   Link: <a href="https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Out the Real Numbers19 Sept 2025 — Listener&#x27;s Geographic Location: Payouts vary from country to country because subscription prices...</p></details>
+   Link:<a href="https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/how-much-does-spotify-pay-find-out-the-real-numbers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find Out the Real Numbers19 Sept 2025 — Listener&#x27;s Geographic Location: Payouts vary from country to country because subscription prices...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ifpi.org  
    Title: The world's second largest region for recorded music  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Report 2023 – State Of The IndustryStreaming accounted for the vast majority of the market, with those revenues accou...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Music Report 2023 – State Of The IndustryStreaming accounted for the vast majority of the market, with those revenues accou...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ifpi.org  
    Title: GMR 2024 State of the Industry  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GMR_2024_State_of_the_Industry.pdfOverall, this format accounted for just. 3.2% of global recorded music revenues in 2023, as streaming f...</p></details>
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/04/GMR_2024_State_of_the_Industry.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GMR_2024_State_of_the_Industry.pdfOverall, this format accounted for just. 3.2% of global recorded music revenues in 2023, as streaming f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gmr.ifpi.org  
    Title: about report  
-   Link: <a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>music report 2026: premium editionIt includes the most complete and reliable picture of global recorded music revenues sourced directly f...</p></details>
+   Link:<a href="https://gmr.ifpi.org/about-report" target="_blank" rel="noopener noreferrer nofollow">https://gmr.ifpi.org/about-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>music report 2026: premium editionIt includes the most complete and reliable picture of global recorded music revenues sourced directly f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — [Spotify payouts](&amp;#123;&amp;#123; &#x27;spotify-payouts/&#x27; | relative_url &amp;#125;&amp;#125;) grew more than 10% year-over-year—more than double t...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Turns 20, the Most Global and Diverse Music...11 Mar 2026 — [Spotify payouts](&amp;#123;&amp;#123; &#x27;spotify-payouts/&#x27; | relative_url &amp;#125;&amp;#125;) grew more than 10% year-over-year—more than double t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Music Industry&#x27;s Cultural and Financial Impact...12 Mar 2025 — Spotify has just unveiled this year&#x27;s Loud &amp; Clear report, a transpar...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-03-12/beyond-profits-how-the-music-industrys-cultural-and-financial-impact-define-its-success-in-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Music Industry&#x27;s Cultural and Financial Impact...12 Mar 2025 — Spotify has just unveiled this year&#x27;s Loud &amp; Clear report, a transpar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: artist.tools  
    Title: a guide to royalties for spotify  
-   Link: <a href="https://www.artist.tools/post/a-guide-to-royalties-for-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-for-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025 — It&#x27;s determined by your &quot;streamshare.&quot; If your tracks made up 0.1% of all streams on Spotify in a given month, you get 0.1%...</p></details>
+   Link:<a href="https://www.artist.tools/post/a-guide-to-royalties-for-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.artist.tools/post/a-guide-to-royalties-for-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Oct 2025 — It&#x27;s determined by your &quot;streamshare.&quot; If your tracks made up 0.1% of all streams on Spotify in a given month, you get 0.1%...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: loudandclear.byspotify.com  
    Title: Loud and Clear The Process  
-   Link: <a href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/process/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearThe Process - Loud and ClearHere&#x27;s how it works: Artists get paid based on their share of total streams on Spotify. If your...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: orionpromotion.com  
-   Link: <a href="https://orionpromotion.com/how-spotify-calculates-royalties-simple-breakdown/" target="_blank" rel="noopener noreferrer nofollow">https://orionpromotion.com/how-spotify-calculates-royalties-simple-breakdown/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Premium subscribers drive higher payouts compared to free tier streams.Read more...</p></details>
+   Link:<a href="https://orionpromotion.com/how-spotify-calculates-royalties-simple-breakdown/" target="_blank" rel="noopener noreferrer nofollow">https://orionpromotion.com/how-spotify-calculates-royalties-simple-breakdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Premium subscribers drive higher payouts compared to free tier streams.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/faqs/how-do-you-know-spotify-listeners-stream-more-music-than-listeners-on-other-services-and-why-does-that-matter/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faqs/how-do-you-know-spotify-listeners-stream-more-music-than-listeners-on-other-services-and-why-does-that-matter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearHow do you know Spotify listeners stream more music than...10 Mar 2026 — Since subscription services are similarly priced...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/faqs/how-do-you-know-spotify-listeners-stream-more-music-than-listeners-on-other-services-and-why-does-that-matter/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faqs/how-do-you-know-spotify-listeners-stream-more-music-than-listeners-on-other-services-and-why-does-that-matter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearHow do you know Spotify listeners stream more music than...10 Mar 2026 — Since subscription services are similarly priced...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faq/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearYour Questions, Answered - Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than some other streaming...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/faq/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearYour Questions, Answered - Loud and ClearWhy does the “per-stream rate” appear lower for Spotify than some other streaming...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global streaming economy. Th...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global streaming economy. Th...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUsers can search for music based on artist, album, or genre, and can create, edit, and share playlists. It offers some social m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpotifyUsers can search for music based on artist, album, or genre, and can create, edit, and share playlists. It offers some social m...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As recorded music revenues hit $31.7B globally, IFPI CEO...20 Mar 2026 — Paid subscription streaming saw revenues climb 8.8% YoY, accoun...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As recorded music revenues hit $31.7B globally, IFPI CEO...20 Mar 2026 — Paid subscription streaming saw revenues climb 8.8% YoY, accoun...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global recorded music revenues hit $31.7B in 2025, up 6.4...18 Mar 2026 — Total streaming revenues (including both paid subscription and...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/global-recorded-music-revenues-hit-31-7bn-in-2025-up-6-4-yoy-users-of-paid-music-subscriptions-reach-837m/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global recorded music revenues hit $31.7B in 2025, up 6.4...18 Mar 2026 — Total streaming revenues (including both paid subscription and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: citizen.digital  
-   Link: <a href="https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371" target="_blank" rel="noopener noreferrer nofollow">https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Report 2026: Recorded music revenues...20 Mar 2026 — Total streaming revenues (including both paid subscription and advertis...</p></details>
+   Link:<a href="https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371" target="_blank" rel="noopener noreferrer nofollow">https://citizen.digital/article/ifpi-global-report-2026-recorded-music-revenues-surpass-ksh4-trillion-mark-for-first-time-n379371</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI Global Report 2026: Recorded music revenues...20 Mar 2026 — Total streaming revenues (including both paid subscription and advertis...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM</a>  
+   Link:<a href="https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charliehellman_every-year-we-update-our-annual-loud-clear-activity-7437516808586387456-hKrM</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Canada&#x27;s PostAccording to IFPI&#x27;s Global Music Report 2026 released today, Canada&#x27;s recorded music market grew by 5.6% in 2025 to re...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/music-canada_according-to-ifpisglobal-music-report-2026-activity-7440035181765398528-x2Hv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Canada&#x27;s PostAccording to IFPI&#x27;s Global Music Report 2026 released today, Canada&#x27;s recorded music market grew by 5.6% in 2025 to re...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s latest Loud &amp; Clear 2026 report is a gameSpotify&#x27;s royalty rate averages between $0.003 – $0.005 per stream, and a Living Wage...</p></details>
+   Link:<a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s latest Loud &amp; Clear 2026 report is a gameSpotify&#x27;s royalty rate averages between $0.003 – $0.005 per stream, and a Living Wage...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wipo.int  
    Title: ifpi looks at a decade of digital transformation in the music industry 73661  
-   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...23 Apr 2025 — IFPI data shows that music industry revenue has doubled to...</p></details>
+   Link:<a href="https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/ifpi-looks-at-a-decade-of-digital-transformation-in-the-music-industry-73661</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFPI looks at a decade of digital transformation in the music...23 Apr 2025 — IFPI data shows that music industry revenue has doubled to...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: endersanalysis.com  
    Title: spotify loud clear 5 artists generate above 1000 annual industry royalties  
-   Link: <a href="https://www.endersanalysis.com/reports/spotify-loud-clear-5-artists-generate-above-1000-annual-industry-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.endersanalysis.com/reports/spotify-loud-clear-5-artists-generate-above-1000-annual-industry-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Loud &amp; Clear: 5% of artists generate above...16 Apr 2021 — Spotify paid $5 billion in royalties last year to the music industry...</p></details>
+   Link:<a href="https://www.endersanalysis.com/reports/spotify-loud-clear-5-artists-generate-above-1000-annual-industry-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.endersanalysis.com/reports/spotify-loud-clear-5-artists-generate-above-1000-annual-industry-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Loud &amp; Clear: 5% of artists generate above...16 Apr 2021 — Spotify paid $5 billion in royalties last year to the music industry...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/akintundebabatunde_not-sure-how-true-this-is-at-first-glance-activity-7335338373710016512-lFM4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/akintundebabatunde_not-sure-how-true-this-is-at-first-glance-activity-7335338373710016512-lFM4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or Sweden, artists typically earn around $0.008 to $0.01 per stream, while in Nigeria, the rate is closer to $0.0002 to $0.0003. So...Re...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/akintundebabatunde_not-sure-how-true-this-is-at-first-glance-activity-7335338373710016512-lFM4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/akintundebabatunde_not-sure-how-true-this-is-at-first-glance-activity-7335338373710016512-lFM4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or Sweden, artists typically earn around $0.008 to $0.01 per stream, while in Nigeria, the rate is closer to $0.0002 to $0.0003. So...Re...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: musicbusinessworldwide.com  
    Title: 11 quick and important takeaways from ifpis global music report 2025  
-   Link: <a href="https://www.musicbusinessworldwide.com/11-quick-and-important-takeaways-from-ifpis-global-music-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/11-quick-and-important-takeaways-from-ifpis-global-music-report-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 quick (and important) takeaways from IFPI&#x27;s Global...19 Mar 2025 — Global recorded music streaming revenues exceeded USD $20 billion...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/11-quick-and-important-takeaways-from-ifpis-global-music-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/11-quick-and-important-takeaways-from-ifpis-global-music-report-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 quick (and important) takeaways from IFPI&#x27;s Global...19 Mar 2025 — Global recorded music streaming revenues exceeded USD $20 billion...</p></details>

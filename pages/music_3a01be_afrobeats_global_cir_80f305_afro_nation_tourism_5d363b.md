@@ -268,14 +268,14 @@ image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_touri
 
 ## Introduction
 
-Afro Nation demonstrates that Afrobeats travels through people as much as through songs. While streaming platforms reveal where listeners are located, destination festivals show how audiences physically move across borders to participate in a shared musical culture. Since its launch in Portugal in 2019, Afro Nation has become one of the clearest examples of an Afrobeats tourism loop: artists travel to perform, [diaspora]({{ 'diaspora/' | relative_url }}) audiences travel to reconnect with culture, and host cities use the festival to attract visitors, spending and international [attention]({{ 'attention/' | relative_url }}). The result is a circulation system in which music generates travel, travel strengthens cultural identity, and the visibility created by large gatherings feeds back into the global prestige of Afrobeats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Mustard Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-title">afro nation</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span>
+Afro Nation demonstrates that Afrobeats travels through people as much as through songs. While streaming platforms reveal where listeners are located, destination festivals show how audiences physically move across borders to participate in a shared musical culture. Since its launch in Portugal in 2019, Afro Nation has become one of the clearest examples of an Afrobeats tourism loop: artists travel to perform, [diaspora]({{ 'diaspora/' | relative_url }}) audiences travel to reconnect with culture, and host cities use the festival to attract visitors, spending and international [attention]({{ 'attention/' | relative_url }}). The result is a circulation system in which music generates travel, travel strengthens cultural identity, and the visibility created by large gatherings feeds back into the global prestige of Afrobeats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Mustard Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-title">afro nation</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-1-dark.svg" | relative_url }}" alt="Afro Nation illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Rather than functioning as a conventional music event, Afro Nation operates as a temporary cultural destination. Festival packages, beach locations, hotel takeovers, boat parties and social-media-driven travel experiences encourage fans to organise entire trips around Afrobeats. This makes the festival an important case study in how global music circulation increasingly depends on mobility and tourism alongside [recording]({{ 'recording/' | relative_url }}) and streaming industries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/afronation/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">From pool parties, hotel takeovers, boat parties &amp; wellness activities. Over 90% of tickets are now sold out...</span></span></span>
+Rather than functioning as a conventional music event, Afro Nation operates as a temporary cultural destination. Festival packages, beach locations, hotel takeovers, boat parties and social-media-driven travel experiences encourage fans to organise entire trips around Afrobeats. This makes the festival an important case study in how global music circulation increasingly depends on mobility and tourism alongside [recording]({{ 'recording/' | relative_url }}) and streaming industries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/afronation/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">From pool parties, hotel takeovers, boat parties &amp; wellness activities. Over 90% of tickets are now sold out...</span></span></span>
 
 ## Portugal as a Destination Festival Hub
 
-The original Afro Nation festival was established in Portimão on Portugal's Algarve coast, deliberately combining a major Afrobeats lineup with a holiday destination. From the beginning, the event was marketed not simply as a concert but as a multi-day beach experience that brought together Afrobeats, dancehall, hip-hop, R&B and wider African diaspora [culture]({{ 'culture/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Mustard Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-title">afro nation</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span>
+The original Afro Nation festival was established in Portimão on Portugal's Algarve coast, deliberately combining a major Afrobeats lineup with a holiday destination. From the beginning, the event was marketed not simply as a concert but as a multi-day beach experience that brought together Afrobeats, dancehall, hip-hop, R&B and wider African diaspora [culture]({{ 'culture/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Mustard Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-title">afro nation</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span>
 
 Portugal became significant because it offered several advantages at once:
 
@@ -284,30 +284,30 @@ Portugal became significant because it offered several advantages at once:
 * Easy access for travellers from the UK, France and other European countries.
 * A beach-resort setting associated with summer tourism.
 * Existing hospitality infrastructure capable of hosting large international crowds.
-* A symbolic location outside Africa where African and diaspora audiences could gather at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Afro Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Afro Nation</span></span></span>
+* A symbolic location outside Africa where African and diaspora audiences could gather at scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Afro Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Afro Nation</span></span></span>
 
 </div>
 
-Over time, Afro Nation Portugal evolved into a recurring pilgrimage for many fans. The festival's organisers emphasise not only performances but also pool parties, wellness activities, boat events and city-wide social experiences. The journey itself becomes part of the cultural product. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DTqw5D8CoOa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Is Detty December Becoming Toxic? Price Gouging &amp;...In this episode of Pan African Perspectives, we break down the growing back...</span></span></span>
+Over time, Afro Nation Portugal evolved into a recurring pilgrimage for many fans. The festival's organisers emphasise not only performances but also pool parties, wellness activities, boat events and city-wide social experiences. The journey itself becomes part of the cultural product.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DTqw5D8CoOa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Is Detty December Becoming Toxic? Price Gouging &amp;...In this episode of Pan African Perspectives, we break down the growing back...</span></span></span>
 
-Attendance figures reported across recent editions suggest the event has become one of the largest dedicated Afrobeats gatherings in the world, with crowds measured in the tens of thousands and lineups featuring major stars such as Wizkid, Burna Boy, Davido, Tems, Rema and Asake. The concentration of leading artists in a single location helps transform Portugal into a temporary global capital of Afrobeats each summer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Afro Nation</span><span class="citation-popover-snippet">Afro Nation</span></span></span>
+Attendance figures reported across recent editions suggest the event has become one of the largest dedicated Afrobeats gatherings in the world, with crowds measured in the tens of thousands and lineups featuring major stars such as Wizkid, Burna Boy, Davido, Tems, Rema and Asake. The concentration of leading artists in a single location helps transform Portugal into a temporary global capital of Afrobeats each summer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Afro Nation</span><span class="citation-popover-snippet">Afro Nation</span></span></span>
 
-What matters for music circulation is that many attendees are travelling specifically because of the genre. Their spending on flights, accommodation and local services demonstrates how musical fandom is converted into tourism demand. The festival therefore extends the economic reach of Afrobeats beyond recordings and ticket sales into hospitality and destination marketing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://qptransfers.com/en-uk/blogs/blog/afro-nation-portugal-2026-completes-festival-guide?srsltid=AfmBOool08f9XCxqXVpirwXfZRv5dtGXztJsj3mWX6wh4_6m2--qcbSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qptransfers.com">[QP Transfers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qptransfers.com</span><span class="citation-popover-title">afro nation portugal 2026 completes festival guide</span><span class="citation-popover-snippet">QP TransfersAfro Nation Portugal 2026 - The Complete Festival GuideApril 8, 2026 — From 3 to 5 July, Praia da Rocha Beach in Portimão wil...</span><span class="citation-popover-meta">Published: April 8, 2026</span></span></span>
+What matters for music circulation is that many attendees are travelling specifically because of the genre. Their spending on flights, accommodation and local services demonstrates how musical fandom is converted into tourism demand. The festival therefore extends the economic reach of Afrobeats beyond recordings and ticket sales into hospitality and destination marketing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://qptransfers.com/en-uk/blogs/blog/afro-nation-portugal-2026-completes-festival-guide?srsltid=AfmBOool08f9XCxqXVpirwXfZRv5dtGXztJsj3mWX6wh4_6m2--qcbSM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qptransfers.com">[QP Transfers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qptransfers.com</span><span class="citation-popover-title">afro nation portugal 2026 completes festival guide</span><span class="citation-popover-snippet">QP TransfersAfro Nation Portugal 2026 - The Complete Festival GuideApril 8, 2026 — From 3 to 5 July, Praia da Rocha Beach in Portimão wil...</span><span class="citation-popover-meta">Published: April 8, 2026</span></span></span>
 
 ## Ghana Editions and December Travel
 
 If Portugal represents the European side of the tourism loop, Ghana represents its African homecoming dimension.
 
-Afro Nation's expansion to Accra connected the festival directly to Ghana's growing position as a December destination for members of the African diaspora. Organisers presented the Ghana edition as part of a broader effort to strengthen live music infrastructure on the continent while bringing global audiences into African cultural spaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theafricancourier.de">[African Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theafricancourier.de</span><span class="citation-popover-title">African Courier World&#x27;s biggest Afrobeats festival moves to Ghana in December</span><span class="citation-popover-snippet">African CourierWorld&#x27;s biggest Afrobeats festival moves to Ghana in DecemberAugust 11, 2022 — Afro Nation, which dubs itself as the world...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
+Afro Nation's expansion to Accra connected the festival directly to Ghana's growing position as a December destination for members of the African diaspora. Organisers presented the Ghana edition as part of a broader effort to strengthen live music infrastructure on the continent while bringing global audiences into African cultural spaces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theafricancourier.de">[African Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theafricancourier.de</span><span class="citation-popover-title">African Courier World&#x27;s biggest Afrobeats festival moves to Ghana in December</span><span class="citation-popover-snippet">African CourierWorld&#x27;s biggest Afrobeats festival moves to Ghana in DecemberAugust 11, 2022 — Afro Nation, which dubs itself as the world...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
 
-The timing was important. Ghana's December festival season—often associated with the wider phenomenon known as "Detty December"—already attracted visitors through [concerts]({{ 'concerts/' | relative_url }}), nightlife and cultural events. Afro Nation became one of several anchor festivals drawing travellers from North America, Europe and the Caribbean to West Africa during the holiday period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">This phenomenon has grown since 2018, attracting over 80,000 participants yearly and gaining significant attention on social media. Key e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wetravel.com">[2wetravel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wetravel.com</span><span class="citation-popover-title">It is a festival aimed at reconnecting the Diaspora to Ghana.Read more</span><span class="citation-popover-snippet">Celebrate December in Ghana with HIM ToursThese annual festivals aims to tell the story of Africa through food, culture, music and fashion...</span></span></span>
+The timing was important. Ghana's December festival season—often associated with the wider phenomenon known as "Detty December"—already attracted visitors through [concerts]({{ 'concerts/' | relative_url }}), nightlife and cultural events. Afro Nation became one of several anchor festivals drawing travellers from North America, Europe and the Caribbean to West Africa during the holiday period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">This phenomenon has grown since 2018, attracting over 80,000 participants yearly and gaining significant attention on social media. Key e...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wetravel.com">[2wetravel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wetravel.com</span><span class="citation-popover-title">It is a festival aimed at reconnecting the Diaspora to Ghana.Read more</span><span class="citation-popover-snippet">Celebrate December in Ghana with HIM ToursThese annual festivals aims to tell the story of Africa through food, culture, music and fashion...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-2-dark.svg" | relative_url }}" alt="Afro Nation illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### From diaspora tourism to cultural return
 
-The Ghana editions intersected with larger initiatives encouraging descendants of the African diaspora to visit and reconnect with the continent. The country's "Year of Return" campaign helped position Ghana as a symbolic destination for cultural reconnection, and festivals became one of the most visible ways that connection was experienced. Research on the initiative has linked it to increased tourism, international visibility and stronger diaspora engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ugspace.ug.edu.gh/items/3699f8ce-79ac-4b08-9a4a-baa3204dc92d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ugspace.ug.edu.gh">[UGSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ugspace.ug.edu.gh</span><span class="citation-popover-snippet">A Particular Focus on the Ghana-African Diaspora Relationsby NS Asiedu · 2023 — The study found that the Year of Return celebratio...</span></span></span>
+The Ghana editions intersected with larger initiatives encouraging descendants of the African diaspora to visit and reconnect with the continent. The country's "Year of Return" campaign helped position Ghana as a symbolic destination for cultural reconnection, and festivals became one of the most visible ways that connection was experienced. Research on the initiative has linked it to increased tourism, international visibility and stronger diaspora engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ugspace.ug.edu.gh/items/3699f8ce-79ac-4b08-9a4a-baa3204dc92d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ugspace.ug.edu.gh">[UGSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ugspace.ug.edu.gh</span><span class="citation-popover-snippet">A Particular Focus on the Ghana-African Diaspora Relationsby NS Asiedu · 2023 — The study found that the Year of Return celebratio...</span></span></span>
 
-Media coverage of Ghana's festival season frequently describes visitors planning entire itineraries around events such as Afro Nation and AfroFuture. In this model, music serves as the entry point, but travellers also engage with historical sites, restaurants, beaches and local creative industries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">This phenomenon has grown since 2018, attracting over 80,000 participants yearly and gaining significant attention on social media. Key e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cntraveler.com/story/how-to-plan-your-trip-to-afrochella-festival-in-accra-ghana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cntraveler.com">[2Condé Nast Traveler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cntraveler.com</span><span class="citation-popover-snippet">The event, aligning with Ghana&#x27;s &quot;Year of Return&quot; initiative, will take place on December 28 at the El Wak Stadium. The theme &quot;Diaspora C...</span></span></span>
+Media coverage of Ghana's festival season frequently describes visitors planning entire itineraries around events such as Afro Nation and AfroFuture. In this model, music serves as the entry point, but travellers also engage with historical sites, restaurants, beaches and local creative industries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">This phenomenon has grown since 2018, attracting over 80,000 participants yearly and gaining significant attention on social media. Key e...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cntraveler.com/story/how-to-plan-your-trip-to-afrochella-festival-in-accra-ghana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cntraveler.com">[2Condé Nast Traveler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cntraveler.com</span><span class="citation-popover-snippet">The event, aligning with Ghana&#x27;s &quot;Year of Return&quot; initiative, will take place on December 28 at the El Wak Stadium. The theme &quot;Diaspora C...</span></span></span>
 
 This creates a circular pattern:
 
@@ -320,13 +320,13 @@ This creates a circular pattern:
 
 </div>
 
-The festival therefore functions as both a musical event and a mechanism for cultural tourism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/fr/node/70755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">Music In Africa Afronation festival comes to Ghana</span><span class="citation-popover-snippet">Music In AfricaAfronation festival comes to GhanaApril 26, 2019 — The announcement of a Ghana edition of the Afronation festival, which w...</span><span class="citation-popover-meta">Published: April 26, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wetravel.com">[2wetravel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wetravel.com</span><span class="citation-popover-title">It is a festival aimed at reconnecting the Diaspora to Ghana.Read more</span><span class="citation-popover-snippet">Celebrate December in Ghana with HIM ToursThese annual festivals aims to tell the story of Africa through food, culture, music and fashion...</span></span></span>
+The festival therefore functions as both a musical event and a mechanism for cultural tourism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicinafrica.net/fr/node/70755" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicinafrica.net">[Music In Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicinafrica.net</span><span class="citation-popover-title">Music In Africa Afronation festival comes to Ghana</span><span class="citation-popover-snippet">Music In AfricaAfronation festival comes to GhanaApril 26, 2019 — The announcement of a Ghana edition of the Afronation festival, which w...</span><span class="citation-popover-meta">Published: April 26, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wetravel.com">[2wetravel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wetravel.com</span><span class="citation-popover-title">It is a festival aimed at reconnecting the Diaspora to Ghana.Read more</span><span class="citation-popover-snippet">Celebrate December in Ghana with HIM ToursThese annual festivals aims to tell the story of Africa through food, culture, music and fashion...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ms0dme2B0C4" title="The Global Impact of Afrobeats Panel Discussion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ms0dme2B0C4" target="_blank" rel="noopener noreferrer">The Global Impact of Afrobeats Panel Discussion</a></p><p class="youtube-embed-meta">Channel: Afro Nation &middot; Views: 4.4K &middot; Uploaded: May 2021 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ms0dme2B0C4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ms0dme2B0C4">Open on YouTube</a></p></div></div></div>
 
 ### Tensions around success
 
-The tourism loop is not universally celebrated. Increased international demand has contributed to concerns about rising prices during peak festival periods. Journalistic reporting on Ghana's December season has noted complaints from some residents about higher costs and increasing commercialisation linked to the tourism boom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/dec/14/ghana-year-return-tourists-prices-africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Initiated in 2018 by President Nana Akufo-Addo to commemorate the 400th anniversary of the first recorded enslaved Africans&#x27; arrival in V...</span></span></span>
+The tourism loop is not universally celebrated. Increased international demand has contributed to concerns about rising prices during peak festival periods. Journalistic reporting on Ghana's December season has noted complaints from some residents about higher costs and increasing commercialisation linked to the tourism boom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/dec/14/ghana-year-return-tourists-prices-africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Initiated in 2018 by President Nana Akufo-Addo to commemorate the 400th anniversary of the first recorded enslaved Africans&#x27; arrival in V...</span></span></span>
 
 These tensions reveal an important reality: successful music-driven tourism creates economic opportunities but can also reshape local urban life. Afro Nation's significance lies partly in making these trade-offs visible.
 
@@ -334,210 +334,210 @@ These tensions reveal an important reality: successful music-driven tourism crea
 
 Streaming data can show that Afrobeats is popular. Festivals show that it can command [physical]({{ 'physical/' | relative_url }}) presence.
 
-Large-scale live events contribute to prestige in several ways. First, they create highly visible images of crowds travelling long distances for African artists. Second, they place Afrobeats performers in headline positions rather than supporting roles. Third, they generate social-media content that circulates globally and reinforces the perception of Afrobeats as a major cultural force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypetribeng.com">[HypeTribe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypetribeng.com</span><span class="citation-popover-snippet">HypeTribeAfrobeats and the Global Festival Stage: From Side Acts to...September 18, 2025 — 18 Sept 2025 — Afro Nation has professionaliz...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
+Large-scale live events contribute to prestige in several ways. First, they create highly visible images of crowds travelling long distances for African artists. Second, they place Afrobeats performers in headline positions rather than supporting roles. Third, they generate social-media content that circulates globally and reinforces the perception of Afrobeats as a major cultural force.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypetribeng.com">[HypeTribe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypetribeng.com</span><span class="citation-popover-snippet">HypeTribeAfrobeats and the Global Festival Stage: From Side Acts to...September 18, 2025 — 18 Sept 2025 — Afro Nation has professionaliz...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
 
-Afro Nation's branding consistently presents the festival as a celebration of culture rather than only a sequence of performances. Food, fashion, dance and visual identity are integrated into the experience, encouraging audiences to engage with Afrobeats as a lifestyle and community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Afro Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span>
+Afro Nation's branding consistently presents the festival as a celebration of culture rather than only a sequence of performances. Food, fashion, dance and visual identity are integrated into the experience, encouraging audiences to engage with Afrobeats as a lifestyle and community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Afro Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span>
 
-The festival also helps create networks among artists, promoters, media figures and fans from multiple countries. A visitor from London, Toronto or Atlanta may encounter performers from Lagos, Accra and Johannesburg in the same space. These encounters strengthen the transnational relationships that sustain Afrobeats beyond individual hit songs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmrwmagazine.com">[tmrw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmrwmagazine.com</span><span class="citation-popover-snippet">tmrwGlobal Diaspora United For Historic 5th Year Of Afro Nation...Afro Nation delivered a truly unmatched 3-day celebration of music, lo...</span></span></span>
+The festival also helps create networks among artists, promoters, media figures and fans from multiple countries. A visitor from London, Toronto or Atlanta may encounter performers from Lagos, Accra and Johannesburg in the same space. These encounters strengthen the transnational relationships that sustain Afrobeats beyond individual hit songs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmrwmagazine.com">[tmrw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmrwmagazine.com</span><span class="citation-popover-snippet">tmrwGlobal Diaspora United For Historic 5th Year Of Afro Nation...Afro Nation delivered a truly unmatched 3-day celebration of music, lo...</span></span></span>
 
-Importantly, Afro Nation reverses an older pattern in global music industries. Instead of African artists relying primarily on established Western festivals for international legitimacy, Afro Nation itself has become a destination capable of attracting worldwide audiences. The festival is therefore not merely evidence that Afrobeats has travelled; it is part of the infrastructure that allows the genre to keep circulating globally. Afro Nation <span class="citation-chip-wrap"><a class="citation-chip" href="https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypetribeng.com">[HypeTribe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypetribeng.com</span><span class="citation-popover-snippet">HypeTribeAfrobeats and the Global Festival Stage: From Side Acts to...September 18, 2025 — 18 Sept 2025 — Afro Nation has professionaliz...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
+Importantly, Afro Nation reverses an older pattern in global music industries. Instead of African artists relying primarily on established Western festivals for international legitimacy, Afro Nation itself has become a destination capable of attracting worldwide audiences. The festival is therefore not merely evidence that Afrobeats has travelled; it is part of the infrastructure that allows the genre to keep circulating globally. Afro Nation<span class="citation-chip-wrap"><a class="citation-chip" href="https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hypetribeng.com">[HypeTribe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hypetribeng.com</span><span class="citation-popover-snippet">HypeTribeAfrobeats and the Global Festival Stage: From Side Acts to...September 18, 2025 — 18 Sept 2025 — Afro Nation has professionaliz...</span><span class="citation-popover-meta">Published: September 18, 2025</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-3-dark.svg" | relative_url }}" alt="Afro Nation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Afro Nation Matters to Global Music Circulation
 
-Afro Nation illustrates that global music circulation is not only about digital distribution. Afrobeats becomes global through recurring movements of people, money, attention and cultural identity. Portugal demonstrates how a destination festival can gather a dispersed diaspora into a single physical space. Ghana demonstrates how music tourism can encourage journeys back to African cities and connect entertainment with heritage and belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Mustard Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-title">afro nation</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theafricancourier.de">[African Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theafricancourier.de</span><span class="citation-popover-title">African Courier World&#x27;s biggest Afrobeats festival moves to Ghana in December</span><span class="citation-popover-snippet">African CourierWorld&#x27;s biggest Afrobeats festival moves to Ghana in DecemberAugust 11, 2022 — Afro Nation, which dubs itself as the world...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
+Afro Nation illustrates that global music circulation is not only about digital distribution. Afrobeats becomes global through recurring movements of people, money, attention and cultural identity. Portugal demonstrates how a destination festival can gather a dispersed diaspora into a single physical space. Ghana demonstrates how music tourism can encourage journeys back to African cities and connect entertainment with heritage and belonging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mustardmedia.co.uk">[Mustard Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mustardmedia.co.uk</span><span class="citation-popover-title">afro nation</span><span class="citation-popover-snippet">Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theafricancourier.de">[African Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theafricancourier.de</span><span class="citation-popover-title">African Courier World&#x27;s biggest Afrobeats festival moves to Ghana in December</span><span class="citation-popover-snippet">African CourierWorld&#x27;s biggest Afrobeats festival moves to Ghana in DecemberAugust 11, 2022 — Afro Nation, which dubs itself as the world...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
 
-In this sense, Afro Nation is more than a festival brand. It is a recurring travel circuit that links artists, fans and cities across continents. Each edition turns musical popularity into physical movement, reinforcing Afrobeats as both a sound and a global cultural community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmrwmagazine.com">[tmrw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmrwmagazine.com</span><span class="citation-popover-snippet">tmrwGlobal Diaspora United For Historic 5th Year Of Afro Nation...Afro Nation delivered a truly unmatched 3-day celebration of music, lo...</span></span></span>
+In this sense, Afro Nation is more than a festival brand. It is a recurring travel circuit that links artists, fans and cities across continents. Each edition turns musical popularity into physical movement, reinforcing Afrobeats as both a sound and a global cultural community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmrwmagazine.com">[tmrw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmrwmagazine.com</span><span class="citation-popover-snippet">tmrwGlobal Diaspora United For Historic 5th Year Of Afro Nation...Afro Nation delivered a truly unmatched 3-day celebration of music, lo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Festivals Turn Afrobeats Into Travel. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Festivals Turn Afrobeats Into Travel. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Covers live performance and music ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers live performance and music ecosystems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
-        </h4>
-        <p class="fr-book-author">By Kelefa Sanneh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
+</h4>
+<p class="fr-book-author">By Kelefa Sanneh</p>
         
-        <p class="fr-book-desc">Shows how scenes gain cultural prestige and audiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how scenes gain cultural prestige and audiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Gathering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWDwvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Gathering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Gathering">The Art of Gathering</a>
-        </h4>
-        <p class="fr-book-author">By Priya Parker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Gathering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWDwvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Gathering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Gathering">The Art of Gathering</a>
+</h4>
+<p class="fr-book-author">By Priya Parker</p>
         
-        <p class="fr-book-desc">Helpful for understanding festival culture and belonging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helpful for understanding festival culture and belonging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Quick+Ting+on+Afrobeats+ADOFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Quick Ting on Afrobeats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12434967-M.jpg" alt="Cover for Quick Ting on Afrobeats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Quick+Ting+on+Afrobeats+ADOFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Quick Ting on Afrobeats">Quick Ting on Afrobeats</a>
-        </h4>
-        <p class="fr-book-author">By ADOFO</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Quick+Ting+on+Afrobeats+ADOFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Quick Ting on Afrobeats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12434967-M.jpg" alt="Cover for Quick Ting on Afrobeats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Quick+Ting+on+Afrobeats+ADOFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Quick Ting on Afrobeats">Quick Ting on Afrobeats</a>
+</h4>
+<p class="fr-book-author">By ADOFO</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: Music, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Quick+Ting+on+Afrobeats+ADOFO&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: Music, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Quick+Ting+on+Afrobeats+ADOFO&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Gathering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Gathering</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Gathering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Gathering</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="how-festivals-turn-afrobeats-into-travel-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ In this sense, Afro Nation is more than a festival brand. It is a recurring trav
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ In this sense, Afro Nation is more than a festival brand. It is a recurring trav
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ In this sense, Afro Nation is more than a festival brand. It is a recurring trav
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ In this sense, Afro Nation is more than a festival brand. It is a recurring trav
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ In this sense, Afro Nation is more than a festival brand. It is a recurring trav
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,191 +743,191 @@ In this sense, Afro Nation is more than a festival brand. It is a recurring trav
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/afronation/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/afronation/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From pool parties, hotel takeovers, boat parties &amp; wellness activities. Over 90% of tickets are now sold out...</p></details>
+   Link:<a href="https://www.instagram.com/afronation/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/afronation/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From pool parties, hotel takeovers, boat parties &amp; wellness activities. Over 90% of tickets are now sold out...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Afro Nation  
-   Link: <a href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afro_Nation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Afro_Nation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Afro_Nation</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wetravel.com  
    Title: It is a festival aimed at reconnecting the Diaspora to Ghana.Read more  
-   Link: <a href="https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163" target="_blank" rel="noopener noreferrer nofollow">https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate December in Ghana with HIM ToursThese annual festivals aims to tell the story of Africa through food, culture, music and fashion...</p></details>
+   Link:<a href="https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163" target="_blank" rel="noopener noreferrer nofollow">https://www.wetravel.com/trips/celebrate-december-in-ghana-with-him-tours-him-tours-ghana-01612163</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate December in Ghana with HIM ToursThese annual festivals aims to tell the story of Africa through food, culture, music and fashion...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTqw5D8CoOa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTqw5D8CoOa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Detty December Becoming Toxic? Price Gouging &amp;...In this episode of Pan African Perspectives, we break down the growing back...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTqw5D8CoOa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTqw5D8CoOa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Detty December Becoming Toxic? Price Gouging &amp;...In this episode of Pan African Perspectives, we break down the growing back...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mustardmedia.co.uk  
    Title: afro nation  
-   Link: <a href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow">https://www.mustardmedia.co.uk/case-study/afro-nation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</p></details>
+   Link:<a href="https://www.mustardmedia.co.uk/case-study/afro-nation" target="_blank" rel="noopener noreferrer nofollow">https://www.mustardmedia.co.uk/case-study/afro-nation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mustard MediaAfro NationAfro Nation launched as a new festival on the stunning Portuguese coastal resort of Portimao, Portugal in 2019. T...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: afronation.com  
-   Link: <a href="https://www.afronation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Afro NationAfro Nation PortugalTHE WORLD&#x27;S BIGGEST AFROBEATS FESTIVAL PROUDLY CELEBRATING CULTURE THROUGH MUSIC, FOOD, ART &amp; MORE 3RD - 5...</p></details>
+   Link:<a href="https://www.afronation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afro NationAfro Nation PortugalTHE WORLD&#x27;S BIGGEST AFROBEATS FESTIVAL PROUDLY CELEBRATING CULTURE THROUGH MUSIC, FOOD, ART &amp; MORE 3RD - 5...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: afronation.com  
-   Link: <a href="https://www.afronation.com/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Afro NationFAQsAfro Nation kicks off on July 3rd, 2026, July 5th, 2026. in the stunning Algarve, Portugal. Afro Nation is an 18+ event. p...</p></details>
+   Link:<a href="https://www.afronation.com/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afro NationFAQsAfro Nation kicks off on July 3rd, 2026, July 5th, 2026. in the stunning Algarve, Portugal. Afro Nation is an 18+ event. p...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: qptransfers.com  
    Title: afro nation portugal 2026 completes festival guide  
-   Link: <a href="https://qptransfers.com/en-uk/blogs/blog/afro-nation-portugal-2026-completes-festival-guide?srsltid=AfmBOool08f9XCxqXVpirwXfZRv5dtGXztJsj3mWX6wh4_6m2--qcbSM" target="_blank" rel="noopener noreferrer nofollow">https://qptransfers.com/en-uk/blogs/blog/afro-nation-portugal-2026-completes-festival-guide?srsltid=AfmBOool08f9XCxqXVpirwXfZRv5dtGXztJsj3mWX6wh4_6m2--qcbSM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>QP TransfersAfro Nation Portugal 2026 - The Complete Festival GuideApril 8, 2026 — From 3 to 5 July, Praia da Rocha Beach in Portimão wil...</p></details>
+   Link:<a href="https://qptransfers.com/en-uk/blogs/blog/afro-nation-portugal-2026-completes-festival-guide?srsltid=AfmBOool08f9XCxqXVpirwXfZRv5dtGXztJsj3mWX6wh4_6m2--qcbSM" target="_blank" rel="noopener noreferrer nofollow">https://qptransfers.com/en-uk/blogs/blog/afro-nation-portugal-2026-completes-festival-guide?srsltid=AfmBOool08f9XCxqXVpirwXfZRv5dtGXztJsj3mWX6wh4_6m2--qcbSM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QP TransfersAfro Nation Portugal 2026 - The Complete Festival GuideApril 8, 2026 — From 3 to 5 July, Praia da Rocha Beach in Portimão wil...</p></details>
    Published: April 8, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theafricancourier.de  
    Title: African Courier World's biggest Afrobeats festival moves to Ghana in December  
-   Link: <a href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow">https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>African CourierWorld&#x27;s biggest Afrobeats festival moves to Ghana in DecemberAugust 11, 2022 — Afro Nation, which dubs itself as the world...</p></details>
+   Link:<a href="https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow">https://www.theafricancourier.de/worlds-biggest-afrobeats-festival-moves-to-ghana-in-december/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>African CourierWorld&#x27;s biggest Afrobeats festival moves to Ghana in DecemberAugust 11, 2022 — Afro Nation, which dubs itself as the world...</p></details>
    Published: August 11, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: furtherafrica.com  
    Title: afro nation returns home to ghana in december  
-   Link: <a href="https://furtherafrica.com/2022/08/03/afro-nation-returns-home-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow">https://furtherafrica.com/2022/08/03/afro-nation-returns-home-to-ghana-in-december/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Aug 2022 — Afro Nation Ghana takes place 29th &amp; 30th December 2022 at Marine Drive, Black Star Square, Accra. Line up announcement comi...</p></details>
+   Link:<a href="https://furtherafrica.com/2022/08/03/afro-nation-returns-home-to-ghana-in-december/" target="_blank" rel="noopener noreferrer nofollow">https://furtherafrica.com/2022/08/03/afro-nation-returns-home-to-ghana-in-december/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Aug 2022 — Afro Nation Ghana takes place 29th &amp; 30th December 2022 at Marine Drive, Black Star Square, Accra. Line up announcement comi...</p></details>
    Published: December 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: teenvogue.com  
-   Link: <a href="https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon has grown since 2018, attracting over 80,000 participants yearly and gaining significant attention on social media. Key e...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/afrobeats-comes-alive-in-detty-december</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon has grown since 2018, attracting over 80,000 participants yearly and gaining significant attention on social media. Key e...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ugspace.ug.edu.gh  
-   Link: <a href="https://ugspace.ug.edu.gh/items/3699f8ce-79ac-4b08-9a4a-baa3204dc92d" target="_blank" rel="noopener noreferrer nofollow">https://ugspace.ug.edu.gh/items/3699f8ce-79ac-4b08-9a4a-baa3204dc92d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Particular Focus on the Ghana-African Diaspora Relationsby NS Asiedu · 2023 — The study found that the Year of Return celebratio...</p></details>
+   Link:<a href="https://ugspace.ug.edu.gh/items/3699f8ce-79ac-4b08-9a4a-baa3204dc92d" target="_blank" rel="noopener noreferrer nofollow">https://ugspace.ug.edu.gh/items/3699f8ce-79ac-4b08-9a4a-baa3204dc92d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Particular Focus on the Ghana-African Diaspora Relationsby NS Asiedu · 2023 — The study found that the Year of Return celebratio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/dec/14/ghana-year-return-tourists-prices-africa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/dec/14/ghana-year-return-tourists-prices-africa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initiated in 2018 by President Nana Akufo-Addo to commemorate the 400th anniversary of the first recorded enslaved Africans&#x27; arrival in V...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/dec/14/ghana-year-return-tourists-prices-africa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/dec/14/ghana-year-return-tourists-prices-africa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initiated in 2018 by President Nana Akufo-Addo to commemorate the 400th anniversary of the first recorded enslaved Africans&#x27; arrival in V...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: teenvogue.com  
    Title: Teen Vogue Traveling to Ghana for Afrochella?  
-   Link: <a href="https://www.teenvogue.com/story/ghana-afrochella-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/ghana-afrochella-2019</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Where to GoDecember 18, 2019 — Ghana has seen a significant increase in tourism, with 750,000 visas issued by September 2019, comp...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/ghana-afrochella-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/ghana-afrochella-2019</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Where to GoDecember 18, 2019 — Ghana has seen a significant increase in tourism, with 750,000 visas issued by September 2019, comp...</p></details>
    Published: December 18, 2019  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cntraveler.com  
-   Link: <a href="https://www.cntraveler.com/story/how-to-plan-your-trip-to-afrochella-festival-in-accra-ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/story/how-to-plan-your-trip-to-afrochella-festival-in-accra-ghana</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The event, aligning with Ghana&#x27;s &quot;Year of Return&quot; initiative, will take place on December 28 at the El Wak Stadium. The theme &quot;Diaspora C...</p></details>
+   Link:<a href="https://www.cntraveler.com/story/how-to-plan-your-trip-to-afrochella-festival-in-accra-ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.cntraveler.com/story/how-to-plan-your-trip-to-afrochella-festival-in-accra-ghana</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The event, aligning with Ghana&#x27;s &quot;Year of Return&quot; initiative, will take place on December 28 at the El Wak Stadium. The theme &quot;Diaspora C...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: musicinafrica.net  
    Title: Music In Africa Afronation festival comes to Ghana  
-   Link: <a href="https://www.musicinafrica.net/fr/node/70755" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/fr/node/70755</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music In AfricaAfronation festival comes to GhanaApril 26, 2019 — The announcement of a Ghana edition of the Afronation festival, which w...</p></details>
+   Link:<a href="https://www.musicinafrica.net/fr/node/70755" target="_blank" rel="noopener noreferrer nofollow">https://www.musicinafrica.net/fr/node/70755</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music In AfricaAfronation festival comes to GhanaApril 26, 2019 — The announcement of a Ghana edition of the Afronation festival, which w...</p></details>
    Published: April 26, 2019  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hypetribeng.com  
-   Link: <a href="https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/" target="_blank" rel="noopener noreferrer nofollow">https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HypeTribeAfrobeats and the Global Festival Stage: From Side Acts to...September 18, 2025 — 18 Sept 2025 — Afro Nation has professionaliz...</p></details>
+   Link:<a href="https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/" target="_blank" rel="noopener noreferrer nofollow">https://hypetribeng.com/afrobeats-and-the-global-festival-stage-from-side-acts-to-headliners/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HypeTribeAfrobeats and the Global Festival Stage: From Side Acts to...September 18, 2025 — 18 Sept 2025 — Afro Nation has professionaliz...</p></details>
    Published: September 18, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mixmag.net  
    Title: afro nation share documentary [amapiano](&#123;&#123; 'amapiano/' | relative_url &#125;&#125;) afrobeats a movement news  
-   Link: <a href="https://mixmag.net/read/afro-nation-share-documentary-amapiano-afrobeats-a-movement-news" target="_blank" rel="noopener noreferrer nofollow">https://mixmag.net/read/afro-nation-share-documentary-amapiano-afrobeats-a-movement-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>​Afro Nation share documentary charting rise of amapiano...19 Mar 2024 — The documentary looks at the huge scale of Afrobeats and amapia...</p></details>
+   Link:<a href="https://mixmag.net/read/afro-nation-share-documentary-amapiano-afrobeats-a-movement-news" target="_blank" rel="noopener noreferrer nofollow">https://mixmag.net/read/afro-nation-share-documentary-amapiano-afrobeats-a-movement-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>​Afro Nation share documentary charting rise of amapiano...19 Mar 2024 — The documentary looks at the huge scale of Afrobeats and amapia...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: Afro Nation  
-   Link: <a href="https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a music festival in PortugalAfro Nation is more than just a music festival... Afrobeats in Europe and America, altering perceptions of A...</p></details>
+   Link:<a href="https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCnewsafrica/posts/hear-from-one-of-the-founders-of-afro-nation-a-music-festival-in-portugal-about-/10157679982970229/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a music festival in PortugalAfro Nation is more than just a music festival... Afrobeats in Europe and America, altering perceptions of A...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s to the beach to enjoy all types of Black music...</p></details>
+   Link:<a href="https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afronationfestival/posts/afro-nation-portugal-is-where-the-world-comes-together-three-days-one-beach-the-/1468937061271228/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s to the beach to enjoy all types of Black music...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/afronationfestival/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afronationfestival/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Afro Nation (@afronationfestival)The World&#x27;s Biggest Afrobeats Festival 🌍 3rd-5th July, 2026 🇵🇹 Portimão, Portugal 2026 is officially SOL...</p></details>
+   Link:<a href="https://www.facebook.com/afronationfestival/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/afronationfestival/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afro Nation (@afronationfestival)The World&#x27;s Biggest Afrobeats Festival 🌍 3rd-5th July, 2026 🇵🇹 Portimão, Portugal 2026 is officially SOL...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: afronation.com  
-   Title: Log in Afrobeats <b>Festival</b> in the World  
-   Link: <a href="https://www.afronation.com/bookings" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/bookings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Log inAfrobeats &lt;b&gt;Festival&lt;/b&gt; in the World - Priority On Sale Now! Afro Nation Portugal 2026. Don&#x27;t have an account? Sign up Terms &amp; Co...</p></details>
+   Title: Log in Afrobeats<b>Festival</b> in the World  
+   Link:<a href="https://www.afronation.com/bookings" target="_blank" rel="noopener noreferrer nofollow">https://www.afronation.com/bookings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Log inAfrobeats &lt;b&gt;Festival&lt;/b&gt; in the World - Priority On Sale Now! Afro Nation Portugal 2026. Don&#x27;t have an account? Sign up Terms &amp; Co...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: modernghana.com  
    Title: afro nation ghana festival tourism and economic  
-   Link: <a href="https://www.modernghana.com/entertainment/62281/afro-nation-ghana-festival-tourism-and-economic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.modernghana.com/entertainment/62281/afro-nation-ghana-festival-tourism-and-economic.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Afro Nation Ghana Festival: Tourism And Economic Benefits16 Jan 2020 — The 15-year-long tourism plan entails a strategy which seeks to in...</p></details>
+   Link:<a href="https://www.modernghana.com/entertainment/62281/afro-nation-ghana-festival-tourism-and-economic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.modernghana.com/entertainment/62281/afro-nation-ghana-festival-tourism-and-economic.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afro Nation Ghana Festival: Tourism And Economic Benefits16 Jan 2020 — The 15-year-long tourism plan entails a strategy which seeks to in...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ghanatourismauthority/posts/it-was-a-night-of-energetic-performances-and-a-huge-dancing-crowd-at-afro-nation/3273592772657267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghanatourismauthority/posts/it-was-a-night-of-energetic-performances-and-a-huge-dancing-crowd-at-afro-nation/3273592772657267/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghana Tourism AuthorityIt was a night of energetic performances and a huge dancing crowd at Afro Nation Ghana yesternight. Amongst them w...</p></details>
+   Link:<a href="https://www.facebook.com/ghanatourismauthority/posts/it-was-a-night-of-energetic-performances-and-a-huge-dancing-crowd-at-afro-nation/3273592772657267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ghanatourismauthority/posts/it-was-a-night-of-energetic-performances-and-a-huge-dancing-crowd-at-afro-nation/3273592772657267/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghana Tourism AuthorityIt was a night of energetic performances and a huge dancing crowd at Afro Nation Ghana yesternight. Amongst them w...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pressat.co.uk  
-   Link: <a href="https://pressat.co.uk/releases/afro-rave-london-delivers-culture-community-and-afrobeats-in-first-ever-uk-pop-up-a9f8542415d53b43277bfe68696ac70d/" target="_blank" rel="noopener noreferrer nofollow">https://pressat.co.uk/releases/afro-rave-london-delivers-culture-community-and-afrobeats-in-first-ever-uk-pop-up-a9f8542415d53b43277bfe68696ac70d/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Afro Rave London Delivers Culture, Community, and...31 Aug 2025 — Afro Rave London, the debut UK pop-up of Africa&#x27;s biggest youth-driven...</p></details>
+   Link:<a href="https://pressat.co.uk/releases/afro-rave-london-delivers-culture-community-and-afrobeats-in-first-ever-uk-pop-up-a9f8542415d53b43277bfe68696ac70d/" target="_blank" rel="noopener noreferrer nofollow">https://pressat.co.uk/releases/afro-rave-london-delivers-culture-community-and-afrobeats-in-first-ever-uk-pop-up-a9f8542415d53b43277bfe68696ac70d/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afro Rave London Delivers Culture, Community, and...31 Aug 2025 — Afro Rave London, the debut UK pop-up of Africa&#x27;s biggest youth-driven...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tmrwmagazine.com  
-   Link: <a href="https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal" target="_blank" rel="noopener noreferrer nofollow">https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tmrwGlobal Diaspora United For Historic 5th Year Of Afro Nation...Afro Nation delivered a truly unmatched 3-day celebration of music, lo...</p></details>
+   Link:<a href="https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal" target="_blank" rel="noopener noreferrer nofollow">https://tmrwmagazine.com/en/news/global-diaspora-united-for-historic-5th-year-of-afro-nation-portugal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tmrwGlobal Diaspora United For Historic 5th Year Of Afro Nation...Afro Nation delivered a truly unmatched 3-day celebration of music, lo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: apo-group.africa-newsroom.com  
-   Link: <a href="https://apo-group.africa-newsroom.com/press/worlds-biggest-afrobeats-music-festival-afro-nation-partners-with-apo-group-for-panafrican-public-relations?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://apo-group.africa-newsroom.com/press/worlds-biggest-afrobeats-music-festival-afro-nation-partners-with-apo-group-for-panafrican-public-relations?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>africa-newsroom.comWorld&#x27;s biggest Afrobeats Music Festival Afro Nation Partners...9 May 2022 — The 2022 edition of Afro Nation brings t...</p></details>
+   Link:<a href="https://apo-group.africa-newsroom.com/press/worlds-biggest-afrobeats-music-festival-afro-nation-partners-with-apo-group-for-panafrican-public-relations?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://apo-group.africa-newsroom.com/press/worlds-biggest-afrobeats-music-festival-afro-nation-partners-with-apo-group-for-panafrican-public-relations?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>africa-newsroom.comWorld&#x27;s biggest Afrobeats Music Festival Afro Nation Partners...9 May 2022 — The 2022 edition of Afro Nation brings t...</p></details>
    Published: May 2022  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wepluggoodmusic.com  
-   Link: <a href="https://www.wepluggoodmusic.com/wpgm-commentary-afro-nation-festival-an-unforgettable-celebration-of-african-culture/" target="_blank" rel="noopener noreferrer nofollow">https://www.wepluggoodmusic.com/wpgm-commentary-afro-nation-festival-an-unforgettable-celebration-of-african-culture/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WPGM Commentary: Afro Nation Festival14 Aug 2019 — This urban beach festival made history by creating a positive environment for young et...</p></details>
+   Link:<a href="https://www.wepluggoodmusic.com/wpgm-commentary-afro-nation-festival-an-unforgettable-celebration-of-african-culture/" target="_blank" rel="noopener noreferrer nofollow">https://www.wepluggoodmusic.com/wpgm-commentary-afro-nation-festival-an-unforgettable-celebration-of-african-culture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WPGM Commentary: Afro Nation Festival14 Aug 2019 — This urban beach festival made history by creating a positive environment for young et...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ms0dme2B0C4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ms0dme2B0C4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Impact of Afrobeats Panel DiscussionBrought to you by Afro Nation/IndabaX and YouTube Music, this panel will have key players...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ms0dme2B0C4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ms0dme2B0C4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Impact of Afrobeats Panel DiscussionBrought to you by Afro Nation/IndabaX and YouTube Music, this panel will have key players...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: akinolaniyan.com  
    Title: detty december afrobeats and nigerias counter narrative of joy  
-   Link: <a href="https://www.akinolaniyan.com/detty-december-afrobeats-and-nigerias-counter-narrative-of-joy/" target="_blank" rel="noopener noreferrer nofollow">https://www.akinolaniyan.com/detty-december-afrobeats-and-nigerias-counter-narrative-of-joy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detty December, Afrobeats, and Nigeria&#x27;s Counter...27 Dec 2025 — The genre&#x27;s conquest of international [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) and sold-out arenas have p...</p></details>
+   Link:<a href="https://www.akinolaniyan.com/detty-december-afrobeats-and-nigerias-counter-narrative-of-joy/" target="_blank" rel="noopener noreferrer nofollow">https://www.akinolaniyan.com/detty-december-afrobeats-and-nigerias-counter-narrative-of-joy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detty December, Afrobeats, and Nigeria&#x27;s Counter...27 Dec 2025 — The genre&#x27;s conquest of international [charts](&amp;#123;&amp;#123; &#x27;charts/&#x27; | relative_url &amp;#125;&amp;#125;) and sold-out arenas have p...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The story behind the growth of Afro Nation festival  
-   Link: <a href="https://www.youtube.com/watch?v=F00sS3k1kZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F00sS3k1kZg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Afro Nation turned Afrobeats into global tourism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F00sS3k1kZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F00sS3k1kZg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Afro Nation turned Afrobeats into global tourism...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: How Afro Nation turned Afrobeats into global tourism  
-   Link: <a href="https://www.youtube.com/watch?v=uD5o6n9z458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD5o6n9z458</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the experience of the Afro Nation festival...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uD5o6n9z458" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uD5o6n9z458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the experience of the Afro Nation festival...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Inside the experience of the Afro Nation festival  
-   Link: <a href="https://www.youtube.com/watch?v=TfL_348T8f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TfL_348T8f4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of destination festivals on Afrobeats...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TfL_348T8f4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TfL_348T8f4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of destination festivals on Afrobeats...</p></details>

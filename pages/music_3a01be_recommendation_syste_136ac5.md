@@ -508,9 +508,9 @@ Recommendation systems now sit between listeners and a vast share of recorded mu
 
 Streaming changed music discovery because the problem shifted from [scarcity]({{ 'scarcity/' | relative_url }}) to overload. A record shop, radio station or music magazine could only surface a limited number of releases. A streaming platform can host enormous catalogues, but that abundance creates a different bottleneck: [attention]({{ 'attention/' | relative_url }}). Recommendation systems are the platform’s answer to that bottleneck. They rank, sort and sequence songs so that a listener does not have to start each session with a blank search box.
 
-Spotify’s own public explanation says its recommendations are selected and ordered by algorithms using signals such as what a user listens to, skips, likes, saves and adds to playlists, alongside broader information about audio content and user context. The company presents the goal as relevance: matching each listener with music, podcasts or audiobooks they are likely to enjoy at that moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</span></span></span>
+Spotify’s own public explanation says its recommendations are selected and ordered by algorithms using signals such as what a user listens to, skips, likes, saves and adds to playlists, alongside broader information about audio content and user context. The company presents the goal as relevance: matching each listener with music, podcasts or audiobooks they are likely to enjoy at that moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</span></span></span>
 
-The mechanism is not one single “algorithm”. Modern music discovery usually combines several approaches. Collaborative filtering looks for patterns among listeners with overlapping behaviour. Content-based systems compare tracks by audio features, metadata, genre tags or textual descriptions. Context-aware systems may weigh time of day, device, activity or recent listening session. Human curation may also be folded in, especially around editorial playlists, mood collections and genre hubs. Deezer’s published work on Flow Moods, for example, describes a system that combines collaborative filtering, audio analysis and mood annotations from professional curators to generate personalised mood-specific playlists at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
+The mechanism is not one single “algorithm”. Modern music discovery usually combines several approaches. Collaborative filtering looks for patterns among listeners with overlapping behaviour. Content-based systems compare tracks by audio features, metadata, genre tags or textual descriptions. Context-aware systems may weigh time of day, device, activity or recent listening session. Human curation may also be folded in, especially around editorial playlists, mood collections and genre hubs. Deezer’s published work on Flow Moods, for example, describes a system that combines collaborative filtering, audio analysis and mood annotations from professional curators to generate personalised mood-specific playlists at scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Flow Moods: Recommending Music by Moods on Deezer</span><span class="citation-popover-snippet">Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</span><span class="citation-popover-meta">Published: July 15, 2022</span></span></span>
 
 That blend matters because discovery is no longer just “people finding songs”. It is an interaction among listeners, artists, labels, platform design, recommendation objectives and feedback loops. A listener’s casual choices train the system. The system then changes what the listener sees next. Artists notice which surfaces produce streams and adapt their campaigns accordingly. Over time, discovery becomes less like walking into a shop and more like moving through a personalised, constantly updated map.
 
@@ -518,9 +518,9 @@ That blend matters because discovery is no longer just “people finding songs�
 
 The strongest case for recommendation systems is convenience. Many listeners do not want to research every new release, follow every local scene, or manually assemble music for commuting, working, exercising or relaxing. A good recommendation system reduces effort. It can surface artists a listener would not know how to search for, maintain continuity between familiar and unfamiliar music, and turn passive listening into small moments of discovery.
 
-[Discover Weekly]({{ 'discover-weekly/' | relative_url }}) became the classic example of algorithmic music discovery because it made the promise feel simple: a weekly playlist that sounded personally chosen, but required no work. Spotify’s research on consumption diversity frames the platform’s challenge clearly: users can access millions of songs by millions of artists, so recommendation algorithms help them sort through abundance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> The value is practical rather than abstract. The listener hears something new without needing to know the artist’s name, scene, label, genre term or release history.
+[Discover Weekly]({{ 'discover-weekly/' | relative_url }}) became the classic example of algorithmic music discovery because it made the promise feel simple: a weekly playlist that sounded personally chosen, but required no work. Spotify’s research on consumption diversity frames the platform’s challenge clearly: users can access millions of songs by millions of artists, so recommendation algorithms help them sort through abundance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> The value is practical rather than abstract. The listener hears something new without needing to know the artist’s name, scene, label, genre term or release history.
 
-Personalisation can also broaden discovery when it moves listeners just beyond their existing habits. If a fan of one underground jazz drummer is recommended a related contemporary ensemble, or a listener who enjoys British post-punk is introduced to a current band from another city, the algorithm acts as a bridge. Spotify’s work on exploratory search similarly shows that graph-based methods can connect queries, songs, artists, podcasts, topics and genres in ways that support more exploratory search paths; in its tests, the model increased clicks on exploratory query suggestions without hurting latency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
+Personalisation can also broaden discovery when it moves listeners just beyond their existing habits. If a fan of one underground jazz drummer is recommended a related contemporary ensemble, or a listener who enjoys British post-punk is introduced to a current band from another city, the algorithm acts as a bridge. Spotify’s work on exploratory search similarly shows that graph-based methods can connect queries, songs, artists, podcasts, topics and genres in ways that support more exploratory search paths; in its tests, the model increased clicks on exploratory query suggestions without hurting latency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
 Yet personalisation is never neutral. A recommendation is not just a helpful nudge; it is a ranking decision. The same system that makes listening easier also decides which songs are not placed in front of a user. When music is encountered through personalised rows, [autoplay]({{ 'autoplay/' | relative_url }}), radio, generated playlists and “made for you” feeds, discovery can feel open while still being strongly shaped by platform choices. The listener experiences freedom, but within a designed set of options.
 
@@ -531,11 +531,11 @@ This is why music recommendation is best understood as a trade-off. It reduces f
 
 The main risk of algorithmic discovery is not that listeners are trapped forever in a sealed bubble. The evidence is more nuanced than that. The risk is that recommendation systems often work by detecting similarity, and similarity can become a conservative force. If a system learns that a user likes a narrow cluster of sounds, it has an incentive to keep serving tracks close to that cluster because those tracks are less likely to be skipped.
 
-Spotify’s 2020 research found an important tension: diverse listening was associated with long-term user outcomes such as conversion and retention, but algorithmically driven listening through recommendations was associated with reduced consumption diversity. The study also found that when users became more diverse over time, they did so by shifting away from algorithmic consumption and increasing more organic listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
+Spotify’s 2020 research found an important tension: diverse listening was associated with long-term user outcomes such as conversion and retention, but algorithmically driven listening through recommendations was associated with reduced consumption diversity. The study also found that when users became more diverse over time, they did so by shifting away from algorithmic consumption and increasing more organic listening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
 That finding does not mean every recommendation makes taste smaller. It means that recommendation systems designed to maximise immediate relevance may favour safe adjacency over [surprise]({{ 'surprise/' | relative_url }}). A track that sounds very close to a user’s recent favourites is a lower-risk suggestion than a track that opens a new scene, era or aesthetic. In music, where mood and habit matter heavily, the safest recommendation is often not the most culturally adventurous one.
 
-Spotify’s later research on diversity in recommendation systems makes the trade-off even clearer. It formalised diversity around taste similarity and popularity, noting that recommendations can help users explore new content, spread consumption across artists and include less popular tracks. At the same time, it found that reducing user-track similarity can risk lowering immediate relevance, although lowering average popularity may be possible without harming user satisfaction as much. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
+Spotify’s later research on diversity in recommendation systems makes the trade-off even clearer. It formalised diversity around taste similarity and popularity, noting that recommendations can help users explore new content, spread consumption across artists and include less popular tracks. At the same time, it found that reducing user-track similarity can risk lowering immediate relevance, although lowering average popularity may be possible without harming user satisfaction as much.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
 For listeners, the filter effect is often subtle. It may not feel like being blocked from music. It feels like repetition with slight variation: the same tempo range, the same vocal texture, the same mood labels, the same small group of adjacent genres. Discovery continues, but the path may bend back towards what the system already knows. The result can be a personalised comfort zone rather than a genuinely open musical journey.
 
@@ -543,11 +543,11 @@ For listeners, the filter effect is often subtle. It may not feel like being blo
 
 Recommendation systems do not only learn from music. They learn from behaviour around music. Saves, completions, playlist additions, skips, repeat plays and co-listening patterns all become signals. That creates a problem for newer, niche or less institutionally supported artists: before a system can confidently recommend them, it needs evidence of listener response. But to gather that evidence, the artist first needs exposure.
 
-This is often described as a cold-start problem. New tracks and lesser-known artists may not yet have enough behavioural data for the system to place them confidently. Platforms can design exploration mechanisms to solve this, and Spotify Research has written about centralising content exploration so new content can reach its potential faster across recommender systems. Spotify describes this work as creator-centric and says online experiments showed it could reduce the time needed for new content to find its audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
+This is often described as a cold-start problem. New tracks and lesser-known artists may not yet have enough behavioural data for the system to place them confidently. Platforms can design exploration mechanisms to solve this, and Spotify Research has written about centralising content exploration so new content can reach its potential faster across recommender systems. Spotify describes this work as creator-centric and says online experiments showed it could reduce the time needed for new content to find its audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
 The existence of those interventions is revealing. It shows that algorithmic discovery does not automatically create a level playing field. Without deliberate exploration, recommendation systems can over-rely on existing signals. Popularity, early playlist traction, recognisable genre metadata, existing fan engagement and external marketing can all make a track easier for systems to interpret. Music that arrives with a clear audience signal may receive more algorithmic confidence than music that is new, hybrid, local, experimental or poorly categorised.
 
-The UK Competition and Markets Authority’s music streaming market study examined discovery playlists and found that although the majority of tracks listed on discovery playlists were licensed by major labels, their share was lower than the majors’ combined share of total streams. That finding complicates the common claim that discovery algorithms simply hand all visibility to major-label catalogues. It suggests that discovery surfaces can provide space for non-major music, but they still operate inside a market where large rightsholders, marketing resources and catalogue scale matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+The UK Competition and Markets Authority’s music streaming market study examined discovery playlists and found that although the majority of tracks listed on discovery playlists were licensed by major labels, their share was lower than the majors’ combined share of total streams. That finding complicates the common claim that discovery algorithms simply hand all visibility to major-label catalogues. It suggests that discovery surfaces can provide space for non-major music, but they still operate inside a market where large rightsholders, marketing resources and catalogue scale matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
 The practical effect is uneven opportunity rather than simple exclusion. Recommendation systems can help an unknown artist reach listeners far beyond their city or scene. But they can also reward music that is already legible to the machine: tracks with clean metadata, familiar sonic neighbours, early engagement, platform-friendly release pacing and a clear behavioural profile. Outsiders are not locked out, but they may have to become easier for the system to read.
 
@@ -557,9 +557,9 @@ The practical effect is uneven opportunity rather than simple exclusion. Recomme
 
 Artists are not passive in algorithmic discovery. They can pitch songs, study listener data, time releases, encourage pre-saves, drive traffic from social platforms, build playlists, target likely audiences and use platform marketing tools. The problem is that this control is partial. Artists can influence the conditions around recommendation, but they cannot command the system to recommend a song to the right audience at the right scale.
 
-Spotify’s Discovery Mode is the clearest example of this tension. Spotify describes it as a tool that lets artists and labels identify priority songs; the system then adds that signal to the algorithms behind personalised playlists. The company says this increases the likelihood of recommendation but does not guarantee it, and that listener engagement still affects future recommendations. Spotify also says artist teams have seen an average monthly listener increase of 106% for songs included in Discovery Mode. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Spotify’s Discovery Mode is the clearest example of this tension. Spotify describes it as a tool that lets artists and labels identify priority songs; the system then adds that signal to the algorithms behind personalised playlists. The company says this increases the likelihood of recommendation but does not guarantee it, and that listener engagement still affects future recommendations. Spotify also says artist teams have seen an average monthly listener increase of 106% for songs included in Discovery Mode.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For artists, that sounds useful: a way to tell the platform which track matters. For critics, it raises a fairness question because Discovery Mode is not a neutral discovery switch. Reporting and industry criticism have focused on the fact that participating artists accept a lower royalty rate on eligible streams in exchange for algorithmic prioritisation, prompting comparisons with older forms of paid influence even though the mechanism is legally and technically different from radio payola. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For artists, that sounds useful: a way to tell the platform which track matters. For critics, it raises a fairness question because Discovery Mode is not a neutral discovery switch. Reporting and industry criticism have focused on the fact that participating artists accept a lower royalty rate on eligible streams in exchange for algorithmic prioritisation, prompting comparisons with older forms of paid influence even though the mechanism is legally and technically different from radio payola.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The important point is not only whether Discovery Mode is “good” or “bad”. It shows how algorithmic visibility can become a market in itself. Once recommendation space is valuable, artists, labels and platforms develop tools to compete for it. Larger teams may be better able to test campaigns, interpret analytics, absorb lower margins, coordinate paid promotion and optimise release schedules. Smaller artists may still benefit, but they face a more complex environment where musical discovery is intertwined with data strategy.
 
@@ -582,7 +582,7 @@ This creates a psychological burden as well as a commercial one. Musicians may f
 
 A common misunderstanding is that algorithmic discovery has replaced human discovery. In reality, human taste still feeds the system constantly. A listener’s playlists, skips, saves and repeat plays are human signals. Editorial playlists often combine human judgement with data. Social platforms, radio, clubs, record shops, critics, friends and fandom communities still create momentum that streaming systems may later detect.
 
-Research on listener experience suggests that people do not relate to algorithmic curation as a purely mechanical process. Sophie Freeman’s work on Spotify users argues that listeners build complex relationships with algorithmic features through daily interaction, sometimes treating the algorithm as useful, annoying, intimate or negotiable depending on how well it reflects their self-image and listening habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research on listener experience suggests that people do not relate to algorithmic curation as a purely mechanical process. Sophie Freeman’s work on Spotify users argues that listeners build complex relationships with algorithmic features through daily interaction, sometimes treating the algorithm as useful, annoying, intimate or negotiable depending on how well it reflects their self-image and listening habits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstmonday.org">[First Monday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstmonday.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters because music taste is personal. A recommendation can feel flattering when it captures a private mood, but intrusive or flattening when it misreads a listener. A platform may infer “relaxing acoustic pop” from repeated evening listening, while the listener may understand those songs as memories of a particular friend, place or breakup. Algorithms are strong at recognising patterns, but weaker at understanding why those patterns matter.
 
@@ -598,7 +598,7 @@ Several design tensions matter most in music:
 
 **Relevance versus surprise.** A system that always maximises short-term satisfaction may recommend highly familiar music. A system that allows controlled surprise may help listeners grow, but it risks more skips.
 
-**Personal taste versus catalogue diversity.** A listener may want music that fits their mood, while a platform may also want to distribute attention across a broader set of artists. Spotify’s research into multi-objective recommendation explicitly frames recommendation as a balancing problem among user, artist and platform objectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
+**Personal taste versus catalogue diversity.** A listener may want music that fits their mood, while a platform may also want to distribute attention across a broader set of artists. Spotify’s research into multi-objective recommendation explicitly frames recommendation as a balancing problem among user, artist and platform objectives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
 **Popularity versus discovery.** Popular tracks provide reliable signals, but too much reliance on popularity can make discovery feel circular. Less popular tracks may need deliberate exploration space so the system can learn who might love them.
 
@@ -606,7 +606,7 @@ Several design tensions matter most in music:
 
 **User agency versus passive flow.** Autoplay and radio-style recommendations are convenient, but they can reduce active searching. More controls, filters and visible alternatives can help listeners steer discovery rather than simply receive it.
 
-Recent platform changes point towards this tension. Spotify has expanded personalised and AI-assisted playlisting tools, including prompt-based playlist generation research that retrieves track IDs directly from text prompts, with the aim of making recommendation more personalised and intuitive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> That may give listeners more expressive control, but it also deepens the role of algorithmic systems as the interface through which music is found.
+Recent platform changes point towards this tension. Spotify has expanded personalised and AI-assisted playlisting tools, including prompt-based playlist generation research that retrieves track IDs directly from text prompts, with the aim of making recommendation more personalised and intuitive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span> That may give listeners more expressive control, but it also deepens the role of algorithmic systems as the interface through which music is found.
 
 The healthier version of algorithmic discovery is not one without algorithms. It is one where systems are designed to balance fit with breadth, give new and niche music enough room to be tested, and let listeners understand and adjust the path they are being taken down.
 
@@ -640,194 +640,194 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jeEBSH_sQTo" title="Campaign Kit | Spotify for Artists Masterclass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jeEBSH_sQTo" target="_blank" rel="noopener noreferrer">Campaign Kit | Spotify for Artists Masterclass</a></p><p class="youtube-embed-meta">Channel: Spotify for Artists &middot; Views: 24.1K &middot; Uploaded: January 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jeEBSH_sQTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jeEBSH_sQTo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Algorithms Help Or Narrow Music Discovery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Algorithms Help Or Narrow Music Discovery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Provides broader context for algorithmic influence and opacity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for algorithmic influence and opacity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
+</h4>
+<p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
         
-        <p class="fr-book-desc">Helps readers understand recommendation logic and optimization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand recommendation logic and optimization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-        </h4>
-        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9DMoswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+</h4>
+<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-        <p class="fr-book-desc">Explores how behavioral data can be used to predict preferences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how behavioral data can be used to predict preferences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computing Taste on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computing Taste">Computing Taste</a>
-        </h4>
-        <p class="fr-book-author">By Nick Seaver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computing Taste on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computing Taste">Computing Taste</a>
+</h4>
+<p class="fr-book-author">By Nick Seaver</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio"><img src="{{ '/assets/images/marketplace-covers/98d0e7caabfa0a73538c.jpg' | relative_url }}" alt="Listing image for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio"><img src="{{ '/assets/images/marketplace-covers/98d0e7caabfa0a73538c.jpg' | relative_url }}" alt="Listing image for PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Podcast Metal Plaque Sign Music Room Musician Gift Home Studio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro"><img src="{{ '/assets/images/marketplace-covers/3a9e3ee69af28ce20b18.jpg' | relative_url }}" alt="Listing image for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro"><img src="{{ '/assets/images/marketplace-covers/3a9e3ee69af28ce20b18.jpg' | relative_url }}" alt="Listing image for Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Recording Sign Silence Recording In Progress BBC ITV Music Studio Vintage Retro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)"><img src="{{ '/assets/images/marketplace-covers/889abd5bec3a2f4abafd.jpg' | relative_url }}" alt="Listing image for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)"><img src="{{ '/assets/images/marketplace-covers/889abd5bec3a2f4abafd.jpg' | relative_url }}" alt="Listing image for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="algorithms-do-algorithms-help-or-narrow-music-discovery-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -843,7 +843,7 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -863,7 +863,7 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -895,7 +895,7 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -947,7 +947,7 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -992,7 +992,7 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1033,194 +1033,194 @@ The fairest assessment is therefore mixed. Recommendation systems genuinely help
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</p></details>
+   Link:<a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — Spotify offers algorithmic recommendations that are relevant, unique, and sp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Flow Moods: Recommending Music by Moods on Deezer  
-   Link: <a href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.11229</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2207.11229" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.11229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flow Moods: Recommending Music by Moods on DeezerJuly 15, 2022...</p></details>
    Published: July 15, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.[publishing](&#123;&#123; 'publishing/' | relative_url &#125;&#125;). service.gov.uk  
    Title: UK Music and streaming  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
+   Link:<a href="https://artists.spotify.com/en/discovery-mode" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/discovery-mode</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spotify.design  
-   Link: <a href="https://spotify.design/" target="_blank" rel="noopener noreferrer nofollow">https://spotify.design/</a>  
+   Link:<a href="https://spotify.design/" target="_blank" rel="noopener noreferrer nofollow">https://spotify.design/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: the impact of recommendation algorithms on the uks music industry  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-recommendation-algorithms-on-the-uks-music-industry</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
+   Link:<a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: artists.spotify.com  
    Title: masterclass campaign kit  
-   Link: <a href="https://artists.spotify.com/en/video/masterclass-campaign-kit" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/masterclass-campaign-kit</a>  
+   Link:<a href="https://artists.spotify.com/en/video/masterclass-campaign-kit" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/masterclass-campaign-kit</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.spotify.com  
    Title: using discovery mode in spotify for artists  
-   Link: <a href="https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/</a>  
+   Link:<a href="https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/us/artists/article/using-discovery-mode-in-spotify-for-artists/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: artists.spotify.com  
    Title: display campaigns  
-   Link: <a href="https://artists.spotify.com/display-campaigns" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/display-campaigns</a>  
+   Link:<a href="https://artists.spotify.com/display-campaigns" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/display-campaigns</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: artists.spotify.com  
    Title: thuy how to grow audience spotify discovery mode marquee case study  
-   Link: <a href="https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study</a>  
+   Link:<a href="https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/nl/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: artists.spotify.com  
    Title: for artists tools 101  
-   Link: <a href="https://artists.spotify.com/en/blog/spotify-for-artists-tools-101" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/spotify-for-artists-tools-101</a>  
+   Link:<a href="https://artists.spotify.com/en/blog/spotify-for-artists-tools-101" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/spotify-for-artists-tools-101</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: artists.spotify.com  
    Title: thuy on her success with campaign kit and more  
-   Link: <a href="https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more</a>  
+   Link:<a href="https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/video/thuy-on-her-success-with-campaign-kit-and-more</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: artists.spotify.com  
    Title: marquee make noise when it matters most  
-   Link: <a href="https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most</a>  
+   Link:<a href="https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/blog/marquee-make-noise-when-it-matters-most</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: artists.spotify.com  
    Title: thuy how to grow audience spotify discovery mode marquee case study  
-   Link: <a href="https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study</a>  
+   Link:<a href="https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/video/thuy-how-to-grow-audience-spotify-discovery-mode-marquee-case-study</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</p></details>
+   Link:<a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research.atspotify.com  
    Title: graph learning for exploratory query suggestions in an instant search system  
-   Link: <a href="https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchGraph Learning for Exploratory Query Suggestions in an...25 Oct 2023 — We developed a query suggestion model based on gr...</p></details>
+   Link:<a href="https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2023/10/graph-learning-for-exploratory-query-suggestions-in-an-instant-search-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchGraph Learning for Exploratory Query Suggestions in an...25 Oct 2023 — We developed a query suggestion model based on gr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: <a href="https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
+   Link:<a href="https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: research.atspotify.com  
    Title: shifting consumption towards diverse content via reinforcement learning  
-   Link: <a href="https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning</a>  
+   Link:<a href="https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2021/03/shifting-consumption-towards-diverse-content-via-reinforcement-learning</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: research.atspotify.com  
    Title: accelerating creator audience building through centralized exploration  
-   Link: <a href="https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration</a>  
+   Link:<a href="https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2024/02/accelerating-creator-audience-building-through-centralized-exploration</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
+   Link:<a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: firstmonday.org  
-   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589</a>  
+   Link:<a href="https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/11783/10589</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: research.atspotify.com  
    Title: mostra balancing multiple objectives for music recommendation  
-   Link: <a href="https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation</a>  
+   Link:<a href="https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2022/04/mostra-balancing-multiple-objectives-for-music-recommendation</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research.atspotify.com  
-   Link: <a href="https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval</a>  
+   Link:<a href="https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2025/4/text2tracks-improving-prompt-based-music-recommendations-with-generative-retrieval</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: passivepromotion.com  
    Title: spotify discovery mode strategy  
-   Link: <a href="https://passivepromotion.com/spotify-discovery-mode-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://passivepromotion.com/spotify-discovery-mode-strategy/</a>  
+   Link:<a href="https://passivepromotion.com/spotify-discovery-mode-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://passivepromotion.com/spotify-discovery-mode-strategy/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: research.atspotify.com  
    Title: spotify at recsys 2019  
-   Link: <a href="https://research.atspotify.com/2019/10/spotify-at-recsys-2019" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2019/10/spotify-at-recsys-2019</a>  
+   Link:<a href="https://research.atspotify.com/2019/10/spotify-at-recsys-2019" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2019/10/spotify-at-recsys-2019</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: horusmusic.global  
    Title: spotifys discovery mode explained  
-   Link: <a href="https://www.horusmusic.global/spotifys-discovery-mode-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/spotifys-discovery-mode-explained/</a>  
+   Link:<a href="https://www.horusmusic.global/spotifys-discovery-mode-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.horusmusic.global/spotifys-discovery-mode-explained/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Spotify Discovery Mode  
-   Link: <a href="https://www.youtube.com/watch?v=zstBWDUKY4g&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zstBWDUKY4g&amp;vl=en</a>  
+   Link:<a href="https://www.youtube.com/watch?v=zstBWDUKY4g&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zstBWDUKY4g&amp;vl=en</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: identitymusic.com  
    Title: spotify discovery mode the guide  
-   Link: <a href="https://identitymusic.com/blog/spotify-discovery-mode-the-guide" target="_blank" rel="noopener noreferrer nofollow">https://identitymusic.com/blog/spotify-discovery-mode-the-guide</a>  
+   Link:<a href="https://identitymusic.com/blog/spotify-discovery-mode-the-guide" target="_blank" rel="noopener noreferrer nofollow">https://identitymusic.com/blog/spotify-discovery-mode-the-guide</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: How Recommendation Algorithms Shape Your Music Taste  
-   Link: <a href="https://www.youtube.com/watch?v=1FhXG0gHw2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1FhXG0gHw2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Personalised Music Recommendations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1FhXG0gHw2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1FhXG0gHw2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Personalised Music Recommendations...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/</a>  
+   Link:<a href="https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ReutersUK/posts/britains-competition-regulator-has-launched-an-investigation-into-the-music-stre/5254781674531946/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ravensbourne.ac.uk  
-   Link: <a href="https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf</a>  
+   Link:<a href="https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ravensbourne.ac.uk/asset-bucket/prod/2020-10/Disrupting_the_Disrupters_MusicIndustry.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: renownedforsound.com  
-   Link: <a href="https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/</a>  
+   Link:<a href="https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/" target="_blank" rel="noopener noreferrer nofollow">https://renownedforsound.com/how-streaming-algorithms-shape-music-taste-discovery-playlists/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ism.org  
-   Link: <a href="https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf</a>  
+   Link:<a href="https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ism.org/wp-content/uploads/2023/08/ISM-submission-Economics-of-music-streaming.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: competitionpolicyinternational.com  
-   Link: <a href="https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf</a>  
+   Link:<a href="https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.competitionpolicyinternational.com/wp-content/uploads/2021/03/AC-February-II.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: create.ac.uk  
-   Link: <a href="https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf</a>  
+   Link:<a href="https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.create.ac.uk/wp-content/uploads/2022/03/CREATe-CMA-streaming-study-opinion-piece.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: music-tomorrow.com  
-   Link: <a href="https://www.music-tomorrow.com/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog</a>  
+   Link:<a href="https://www.music-tomorrow.com/blog" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: andrebola.github.io  
-   Link: <a href="https://andrebola.github.io/thesis_v_26_10_21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andrebola.github.io/thesis_v_26_10_21.pdf</a>  
+   Link:<a href="https://andrebola.github.io/thesis_v_26_10_21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andrebola.github.io/thesis_v_26_10_21.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: pec.ac.uk  
-   Link: <a href="https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf</a>
+   Link:<a href="https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pec.ac.uk/wp-content/uploads/2024/01/PEC_CREATe_CMA_streaming_submission.pdf</a>

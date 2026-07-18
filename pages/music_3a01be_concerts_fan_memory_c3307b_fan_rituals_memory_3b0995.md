@@ -274,24 +274,24 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory
 
 ## Introduction
 
-Concert rituals make live music more memorable because they turn a performance into something fans actively help create. The songs matter, but many concertgoers remember the bracelet they exchanged, the outfit they spent weeks planning, the crowd chant that erupted at exactly the right moment, or the sign that briefly connected them with the artist. These rituals give people [physical]({{ 'physical/' | relative_url }}), social and emotional ways to mark a unique event. Instead of simply attending a show, fans participate in a shared story that can be retold long afterwards. Research on live music and collective experiences suggests that feelings of connection and shared participation are strongly linked to enjoyment, meaning and lasting positive memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+Concert rituals make live music more memorable because they turn a performance into something fans actively help create. The songs matter, but many concertgoers remember the bracelet they exchanged, the outfit they spent weeks planning, the crowd chant that erupted at exactly the right moment, or the sign that briefly connected them with the artist. These rituals give people [physical]({{ 'physical/' | relative_url }}), social and emotional ways to mark a unique event. Instead of simply attending a show, fans participate in a shared story that can be retold long afterwards. Research on live music and collective experiences suggests that feelings of connection and shared participation are strongly linked to enjoyment, meaning and lasting positive memories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-1-dark.svg" | relative_url }}" alt="Fan Rituals illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Objects Fans Bring and Exchange
 
 One reason rituals stick in [memory]({{ 'memory/' | relative_url }}) is that they leave behind tangible reminders. A ticket may prove attendance, but fan-made objects often carry a personal story. Friendship bracelets, handmade signs, themed clothing and customised merchandise transform a concert from an evening of listening into an event with its own social economy.
 
-The recent popularity of friendship-bracelet exchanges illustrates this process. Fans do not simply arrive, watch the show and leave. They spend time making objects beforehand, trade them with strangers at the venue and often keep them afterwards as souvenirs tied to specific interactions. Researchers and commentators examining contemporary fandom have noted that exchanging bracelets and other fan-made items helps create community and strengthens social bonds among attendees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+The recent popularity of friendship-bracelet exchanges illustrates this process. Fans do not simply arrive, watch the show and leave. They spend time making objects beforehand, trade them with strangers at the venue and often keep them afterwards as souvenirs tied to specific interactions. Researchers and commentators examining contemporary fandom have noted that exchanging bracelets and other fan-made items helps create community and strengthens social bonds among attendees.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 These objects also act as memory cues. Psychological research has long shown that memories are easier to retrieve when linked to physical artefacts. A bracelet collected from a stranger, a signed poster or a themed outfit can instantly bring back details of the journey, the crowd and the performance. Rather than remembering only the setlist, fans remember who gave them an object, where they were standing and what happened around that exchange.
 
-Material [culture]({{ 'culture/' | relative_url }}) can also preserve memories collectively. Studies of fan communities increasingly describe how objects associated with [concerts]({{ 'concerts/' | relative_url }}) help maintain shared histories and collective memory long after the event ends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/105960/11/105960final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-title">Open Universityheritage-as-praxis in everyday music objects and vernacular</span><span class="citation-popover-snippet">October 3, 2025 — by LA O&#x27;Hagan · 2025 — this paper extends crossley&#x27;s concept of &#x27;music worlds&#x27; by foregrounding the role of material as...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
+Material [culture]({{ 'culture/' | relative_url }}) can also preserve memories collectively. Studies of fan communities increasingly describe how objects associated with [concerts]({{ 'concerts/' | relative_url }}) help maintain shared histories and collective memory long after the event ends.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/105960/11/105960final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-title">Open Universityheritage-as-praxis in everyday music objects and vernacular</span><span class="citation-popover-snippet">October 3, 2025 — by LA O&#x27;Hagan · 2025 — this paper extends crossley&#x27;s concept of &#x27;music worlds&#x27; by foregrounding the role of material as...</span><span class="citation-popover-meta">Published: October 3, 2025</span></span></span>
 
 ## Why Shared Participation Feels More Important Than Watching
 
-Concert rituals matter because they transform spectators into participants. Sociologists often describe rituals as activities that generate solidarity through coordinated behaviour. When thousands of people perform the same action together, the event becomes more emotionally significant than if everyone simply observed in [silence]({{ 'silence/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-graz.at">[University of Graz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-graz.at</span><span class="citation-popover-title">freundschaftsbaender und fan gesaenge wie rituale zusammenhalt foerdern</span><span class="citation-popover-snippet">University of GrazFriendship bracelets and fan chants: how rituals promote...30 Sept 2024 — Sociologist Katharina Scherke sheds light on...</span></span></span>
+Concert rituals matter because they transform spectators into participants. Sociologists often describe rituals as activities that generate solidarity through coordinated behaviour. When thousands of people perform the same action together, the event becomes more emotionally significant than if everyone simply observed in [silence]({{ 'silence/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-graz.at">[University of Graz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-graz.at</span><span class="citation-popover-title">freundschaftsbaender und fan gesaenge wie rituale zusammenhalt foerdern</span><span class="citation-popover-snippet">University of GrazFriendship bracelets and fan chants: how rituals promote...30 Sept 2024 — Sociologist Katharina Scherke sheds light on...</span></span></span>
 
-Recent research on live music points to the importance of what scholars call collective effervescence: a heightened feeling of connection that emerges when people experience something together. Studies involving concert audiences found that these feelings of shared excitement and unity are closely associated with meaning, enjoyment and positive emotional outcomes that can last beyond the event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+Recent research on live music points to the importance of what scholars call collective effervescence: a heightened feeling of connection that emerges when people experience something together. Studies involving concert audiences found that these feelings of shared excitement and unity are closely associated with meaning, enjoyment and positive emotional outcomes that can last beyond the event itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 Fan rituals provide practical ways to create that shared feeling. They offer simple scripts that strangers can follow together:
 
@@ -314,7 +314,7 @@ Some of the most memorable concert moments are not performed by the artist alone
 
 Call-and-response traditions are particularly powerful because they create anticipation. Fans learn that a certain lyric will trigger a specific chant or that a pause in a song will be filled by the audience. When the expected moment arrives, thousands of people contribute simultaneously. The memory is not simply hearing the song; it is being part of the response.
 
-Outfits serve a similar function. Dressing for a concert extends the experience beyond the venue itself. Fans may spend days or weeks preparing clothes inspired by [albums]({{ 'albums/' | relative_url }}), eras or inside jokes from the fandom. By the time they arrive, the concert already has a narrative attached to it. Researchers examining contemporary fan cultures have highlighted how dressing up and participating in shared customs helps build a stronger sense of belonging among attendees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
+Outfits serve a similar function. Dressing for a concert extends the experience beyond the venue itself. Fans may spend days or weeks preparing clothes inspired by [albums]({{ 'albums/' | relative_url }}), eras or inside jokes from the fandom. By the time they arrive, the concert already has a narrative attached to it. Researchers examining contemporary fan cultures have highlighted how dressing up and participating in shared customs helps build a stronger sense of belonging among attendees.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span>
 
 These rituals also make fandom visible. Someone attending alone can instantly recognise others who understand the same references. A themed outfit or fan-made accessory functions as a social signal, making conversations and connections easier. The result is that memories become attached not only to the artist but also to interactions with other fans.
 
@@ -324,206 +324,206 @@ Concert memories no longer stay inside the venue. Modern fan rituals are designe
 
 Photos of exchanged bracelets, videos of crowd chants and images of themed outfits circulate across social media within minutes of a performance ending. This sharing extends the lifespan of the experience and allows fans who attended different dates to recognise common traditions.
 
-Digital circulation also helps rituals spread between tours, artists and fan communities. Practices that begin with one fandom can be adapted by another. The friendship-bracelet trend, for example, became widely recognised because fans documented and shared it online, turning a local concert activity into a broader cultural practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Typically made of beads with various colors and words, these bracelets have taken on a significant role in Swift&#x27;s concerts. The trend, o...</span></span></span>
+Digital circulation also helps rituals spread between tours, artists and fan communities. Practices that begin with one fandom can be adapted by another. The friendship-bracelet trend, for example, became widely recognised because fans documented and shared it online, turning a local concert activity into a broader cultural practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Typically made of beads with various colors and words, these bracelets have taken on a significant role in Swift&#x27;s concerts. The trend, o...</span></span></span>
 
-Online sharing does more than preserve memories; it reinforces them. Communication scholars studying collective memory note that memories become stronger when they are repeatedly discussed, revisited and incorporated into group narratives. A concert [ritual]({{ 'ritual/' | relative_url }}) lives on through photos, posts, videos and stories, allowing fans to relive the event and continually connect it to their identity as members of a community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2203.05627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Quantifying Collective Memories</span><span class="citation-popover-snippet">Quantifying Collective MemoriesMarch 10, 2022...</span><span class="citation-popover-meta">Published: March 10, 2022</span></span></span>
+Online sharing does more than preserve memories; it reinforces them. Communication scholars studying collective memory note that memories become stronger when they are repeatedly discussed, revisited and incorporated into group narratives. A concert [ritual]({{ 'ritual/' | relative_url }}) lives on through photos, posts, videos and stories, allowing fans to relive the event and continually connect it to their identity as members of a community.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2203.05627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Quantifying Collective Memories</span><span class="citation-popover-snippet">Quantifying Collective MemoriesMarch 10, 2022...</span><span class="citation-popover-meta">Published: March 10, 2022</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-3-dark.svg" | relative_url }}" alt="Fan Rituals illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rituals Often Outlast the Setlist
 
 Fans frequently remember ritual moments with surprising clarity years after a concert. They may forget the exact order of songs but vividly recall the bracelet exchange before the opening act, the crowd chant that shook the venue or the costume that sparked conversations with strangers.
 
-This happens because rituals combine several memory-building ingredients at once: preparation, participation, emotion, social interaction and physical reminders. They transform a concert from a performance that people witness into an event they help create. In doing so, they give live music something recordings cannot easily reproduce: a shared story that belongs to the audience as much as the artist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-graz.at">[University of Graz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-graz.at</span><span class="citation-popover-title">freundschaftsbaender und fan gesaenge wie rituale zusammenhalt foerdern</span><span class="citation-popover-snippet">University of GrazFriendship bracelets and fan chants: how rituals promote...30 Sept 2024 — Sociologist Katharina Scherke sheds light on...</span></span></span>
+This happens because rituals combine several memory-building ingredients at once: preparation, participation, emotion, social interaction and physical reminders. They transform a concert from a performance that people witness into an event they help create. In doing so, they give live music something recordings cannot easily reproduce: a shared story that belongs to the audience as much as the artist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-graz.at">[University of Graz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-graz.at</span><span class="citation-popover-title">freundschaftsbaender und fan gesaenge wie rituale zusammenhalt foerdern</span><span class="citation-popover-snippet">University of GrazFriendship bracelets and fan chants: how rituals promote...30 Sept 2024 — Sociologist Katharina Scherke sheds light on...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why concert rituals stick in memory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why concert rituals stick in memory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Gathering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWDwvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Gathering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Gathering">The Art of Gathering</a>
-        </h4>
-        <p class="fr-book-author">By Priya Parker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Gathering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWDwvAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Gathering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Gathering">The Art of Gathering</a>
+</h4>
+<p class="fr-book-author">By Priya Parker</p>
         
-        <p class="fr-book-desc">Explains how rituals create memorable group events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how rituals create memorable group events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Gathering+by+Priya+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides context on audiences and live culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on audiences and live culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
-        </h4>
-        <p class="fr-book-author">By Kelefa Sanneh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
+</h4>
+<p class="fr-book-author">By Kelefa Sanneh</p>
         
-        <p class="fr-book-desc">Explores communities and fan traditions around music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores communities and fan traditions around music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8116746-M.jpg" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Moments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8116746-M.jpg" alt="Cover for The Power of Moments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Moments">The Power of Moments</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Leadership, Experience, Success, Self-realization, Memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Leadership, Experience, Success, Self-realization, Memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Gathering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Gathering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Gathering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Gathering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Concert Music Posters/Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/73oAAeSwUYJo-Nxi/s-l225.jpg" alt="Listing image for Rock Concert Music Posters/Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Concert Music Posters/Prints Gifts Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Concert Music Posters/Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/73oAAeSwUYJo-Nxi/s-l225.jpg" alt="Listing image for Rock Concert Music Posters/Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Concert Music Posters/Prints Gifts Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 Vintage rock and pop concert posters as quality postcards"><img src="https://i.ebayimg.com/images/g/e1cAAOSw6-Ndf-TA/s-l225.jpg" alt="Listing image for 20 Vintage rock and pop concert posters as quality postcards" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">20 Vintage rock and pop concert posters as quality postcards</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 Vintage rock and pop concert posters as quality postcards"><img src="https://i.ebayimg.com/images/g/e1cAAOSw6-Ndf-TA/s-l225.jpg" alt="Listing image for 20 Vintage rock and pop concert posters as quality postcards" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">20 Vintage rock and pop concert posters as quality postcards</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/yC0AAeSwGGJpKcR7/s-l225.jpg" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/yC0AAeSwGGJpKcR7/s-l225.jpg" alt="Listing image for Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Rock Band Concert Posters Prints Gifts Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/fukAAeSwBy9pG3dm/s-l225.jpg" alt="Listing image for Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/fukAAeSwBy9pG3dm/s-l225.jpg" alt="Listing image for Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">Rock band Concert Vintage Posters Prints Gifts Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for concert poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: concert poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=concert+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-concert-rituals-stick-in-memory-concert-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="concert poster" data-ebay-reference="why-concert-rituals-stick-in-memory-concert-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ This happens because rituals combine several memory-building ingredients at once
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ This happens because rituals combine several memory-building ingredients at once
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ This happens because rituals combine several memory-building ingredients at once
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ This happens because rituals combine several memory-building ingredients at once
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ This happens because rituals combine several memory-building ingredients at once
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,124 +729,124 @@ This happens because rituals combine several memory-building ingredients at once
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Let the Music Play: Live Music Fosters Collective...This work examined the power of live music events to enhance wellbeing through...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate Sharing Music: Social and Communal Aspects of Concert  
-   Link: <a href="https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sharing Music: Social and Communal Aspects of Concert-...February 29, 2016 — 30 Apr 2026 — Through activities such as exchan...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sharing Music: Social and Communal Aspects of Concert-...February 29, 2016 — 30 Apr 2026 — Through activities such as exchan...</p></details>
    Published: February 29, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Quantifying Collective Memories  
-   Link: <a href="https://arxiv.org/abs/2203.05627" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.05627</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying Collective MemoriesMarch 10, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2203.05627" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.05627</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying Collective MemoriesMarch 10, 2022...</p></details>
    Published: March 10, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1701.04039" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1701.04039</a>  
+   Link:<a href="https://arxiv.org/abs/1701.04039" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1701.04039</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397752861_American_popular_music_as_ritual_Exploring_the_meaning_of_religion_in_interactions_between_Taylor_Swift_and_Swifties" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397752861_American_popular_music_as_ritual_Exploring_the_meaning_of_religion_in_interactions_between_Taylor_Swift_and_Swifties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>es a special closeness through the interaction between Taylor Swift as an idol and...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397752861_American_popular_music_as_ritual_Exploring_the_meaning_of_religion_in_interactions_between_Taylor_Swift_and_Swifties" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397752861_American_popular_music_as_ritual_Exploring_the_meaning_of_religion_in_interactions_between_Taylor_Swift_and_Swifties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es a special closeness through the interaction between Taylor Swift as an idol and...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672241288027</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01461672241288027" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672241288027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLive Music Fosters Collective Effervescence and Leads to...17 Oct 2024 — This work examined the power of live music events...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/26317877251398547" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/26317877251398547</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPeople as Institutions or Why Taylor Swift Rules the WorldThe co-creation and ongoing circulation of artefacts, such as maki...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/26317877251398547" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/26317877251398547</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPeople as Institutions or Why Taylor Swift Rules the WorldThe co-creation and ongoing circulation of artefacts, such as maki...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Typically made of beads with various colors and words, these bracelets have taken on a significant role in Swift&#x27;s concerts. The trend, o...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Typically made of beads with various colors and words, these bracelets have taken on a significant role in Swift&#x27;s concerts. The trend, o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oro.open.ac.uk  
    Title: Open Universityheritage-as-praxis in everyday music objects and vernacular  
-   Link: <a href="https://oro.open.ac.uk/105960/11/105960final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/105960/11/105960final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 3, 2025 — by LA O&#x27;Hagan · 2025 — this paper extends crossley&#x27;s concept of &#x27;music worlds&#x27; by foregrounding the role of material as...</p></details>
+   Link:<a href="https://oro.open.ac.uk/105960/11/105960final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/105960/11/105960final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 3, 2025 — by LA O&#x27;Hagan · 2025 — this paper extends crossley&#x27;s concept of &#x27;music worlds&#x27; by foregrounding the role of material as...</p></details>
    Published: October 3, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uni-graz.at  
    Title: freundschaftsbaender und fan gesaenge wie rituale zusammenhalt foerdern  
-   Link: <a href="https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of GrazFriendship bracelets and fan chants: how rituals promote...30 Sept 2024 — Sociologist Katharina Scherke sheds light on...</p></details>
+   Link:<a href="https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-graz.at/en/news/freundschaftsbaender-und-fan-gesaenge-wie-rituale-zusammenhalt-foerdern/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of GrazFriendship bracelets and fan chants: how rituals promote...30 Sept 2024 — Sociologist Katharina Scherke sheds light on...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Collective" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Collective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CollectiveA collective is a group of entities that share or are motivated by at least one common issue or interest or work together to...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Collective" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Collective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CollectiveA collective is a group of entities that share or are motivated by at least one common issue or interest or work together to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: auditive-medienkulturen.de  
-   Link: <a href="https://www.auditive-medienkulturen.de/2025/10/02/call-fan-practices-of-memory-and-remembrance/" target="_blank" rel="noopener noreferrer nofollow">https://www.auditive-medienkulturen.de/2025/10/02/call-fan-practices-of-memory-and-remembrance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ies, and cultural narratives in order to remember, (re)construct...Read more...</p></details>
+   Link:<a href="https://www.auditive-medienkulturen.de/2025/10/02/call-fan-practices-of-memory-and-remembrance/" target="_blank" rel="noopener noreferrer nofollow">https://www.auditive-medienkulturen.de/2025/10/02/call-fan-practices-of-memory-and-remembrance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ies, and cultural narratives in order to remember, (re)construct...Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/arts-culture/music/taylor-swift-eras-tour-ending-impact-whats-next-9b1ec348" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/music/taylor-swift-eras-tour-ending-impact-whats-next-9b1ec348</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commanding nearly 2% of the U.S. music market, Swift has achieved a cultural status comparable to Michael Jackson and the Beatles. The wo...</p></details>
+   Link:<a href="https://www.wsj.com/arts-culture/music/taylor-swift-eras-tour-ending-impact-whats-next-9b1ec348" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/arts-culture/music/taylor-swift-eras-tour-ending-impact-whats-next-9b1ec348</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commanding nearly 2% of the U.S. music market, Swift has achieved a cultural status comparable to Michael Jackson and the Beatles. The wo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nogu.studio  
-   Link: <a href="https://www.nogu.studio/blogs/nogu-digest/whats-behind-the-taylor-swift-friendship-bracelet-trend?srsltid=AfmBOoo7-10ok8jQTJYNqj0uPzUaQsPZ4VvTtXrMlpQPLIASxFKv2j1e" target="_blank" rel="noopener noreferrer nofollow">https://www.nogu.studio/blogs/nogu-digest/whats-behind-the-taylor-swift-friendship-bracelet-trend?srsltid=AfmBOoo7-10ok8jQTJYNqj0uPzUaQsPZ4VvTtXrMlpQPLIASxFKv2j1e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT&#x27;S BEHIND THE TAYLOR SWIFT FRIENDSHIP...Each bracelet represents a memory, a connection, and a moment of solidarity among fans. Whet...</p></details>
+   Link:<a href="https://www.nogu.studio/blogs/nogu-digest/whats-behind-the-taylor-swift-friendship-bracelet-trend?srsltid=AfmBOoo7-10ok8jQTJYNqj0uPzUaQsPZ4VvTtXrMlpQPLIASxFKv2j1e" target="_blank" rel="noopener noreferrer nofollow">https://www.nogu.studio/blogs/nogu-digest/whats-behind-the-taylor-swift-friendship-bracelet-trend?srsltid=AfmBOoo7-10ok8jQTJYNqj0uPzUaQsPZ4VvTtXrMlpQPLIASxFKv2j1e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT&#x27;S BEHIND THE TAYLOR SWIFT FRIENDSHIP...Each bracelet represents a memory, a connection, and a moment of solidarity among fans. Whet...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/collective" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/collective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COLLECTIVE Definition &amp; MeaningThe meaning of COLLECTIVE is denoting a number of persons or things considered as one group or whole. How...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/collective" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/collective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COLLECTIVE Definition &amp; MeaningThe meaning of COLLECTIVE is denoting a number of persons or things considered as one group or whole. How...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eprints.glos.ac.uk  
    Title: 10705 Bühler, Michael (2021) Contemporary Audience Rituals at Classical Concerts  
-   Link: <a href="https://eprints.glos.ac.uk/10705/1/10705%20B%C3%BChler%2C%20Michael%20%282021%29%20Contemporary%20Audience%20Rituals%20at%20Classical%20Concerts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.glos.ac.uk/10705/1/10705%20B%C3%BChler%2C%20Michael%20%282021%29%20Contemporary%20Audience%20Rituals%20at%20Classical%20Concerts.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>interaction ritual is a &#x27;collective effervescence&#x27;, which produces inter alia stronger group solidarity. Furthermore, Collins (2004) sugg...</p></details>
+   Link:<a href="https://eprints.glos.ac.uk/10705/1/10705%20B%C3%BChler%2C%20Michael%20%282021%29%20Contemporary%20Audience%20Rituals%20at%20Classical%20Concerts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.glos.ac.uk/10705/1/10705%20B%C3%BChler%2C%20Michael%20%282021%29%20Contemporary%20Audience%20Rituals%20at%20Classical%20Concerts.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>interaction ritual is a &#x27;collective effervescence&#x27;, which produces inter alia stronger group solidarity. Furthermore, Collins (2004) sugg...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/collective" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/collective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was a collective decision. American English: collective /kəˈlɛktɪv/; Arabic: مُشْتَرَك...Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/collective" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/collective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was a collective decision. American English: collective /kəˈlɛktɪv/; Arabic: مُشْتَرَك...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.anu.edu.au  
    Title: you need [calm down](&#123;&#123; 'calm-down/' | relative_url &#125;&#125;) how make lasting memories taylor swift concert  
-   Link: <a href="https://science.anu.edu.au/news-events/news/you-need-calm-down-how-make-lasting-memories-taylor-swift-concert" target="_blank" rel="noopener noreferrer nofollow">https://science.anu.edu.au/news-events/news/you-need-calm-down-how-make-lasting-memories-taylor-swift-concert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ANU College of Science and MedicineHow to make lasting memories at a Taylor Swift concert14 Feb 2024 — Concert goers are dressing up as t...</p></details>
+   Link:<a href="https://science.anu.edu.au/news-events/news/you-need-calm-down-how-make-lasting-memories-taylor-swift-concert" target="_blank" rel="noopener noreferrer nofollow">https://science.anu.edu.au/news-events/news/you-need-calm-down-how-make-lasting-memories-taylor-swift-concert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANU College of Science and MedicineHow to make lasting memories at a Taylor Swift concert14 Feb 2024 — Concert goers are dressing up as t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jetir.org  
-   Link: <a href="https://www.jetir.org/papers/JETIR2410271.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jetir.org/papers/JETIR2410271.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st. Fans have also connected with each other apart from...Read more...</p></details>
+   Link:<a href="https://www.jetir.org/papers/JETIR2410271.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jetir.org/papers/JETIR2410271.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st. Fans have also connected with each other apart from...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orted increased happiness and meaning for up to a week. The...</p></details>
+   Link:<a href="https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-academic/why-we-cry-at-concerts-and-what-it-reveals-about-collective-effervescence-9eff9b9084f4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orted increased happiness and meaning for up to a week. The...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yahoo.com  
    Title: why taylor swift fans wear 140505372  
-   Link: <a href="https://www.yahoo.com/entertainment/why-taylor-swift-fans-wear-140505372.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/why-taylor-swift-fans-wear-140505372.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Taylor Swift Fans Wear Friendship Bracelets...5 Nov 2024 — Fans got the idea to make and wear friendship bracelets to the Eras to...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/why-taylor-swift-fans-wear-140505372.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/why-taylor-swift-fans-wear-140505372.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Taylor Swift Fans Wear Friendship Bracelets...5 Nov 2024 — Fans got the idea to make and wear friendship bracelets to the Eras to...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thesaurus.com  
    Title: COLLECTIV E Synonyms & Antonyms  
-   Link: <a href="https://www.thesaurus.com/browse/collective" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/collective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COLLECTIVE Synonyms &amp; Antonyms - 46 wordsFind 46 different ways to say COLLECTIVE, along with antonyms, related words, and example senten...</p></details>
+   Link:<a href="https://www.thesaurus.com/browse/collective" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/collective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COLLECTIVE Synonyms &amp; Antonyms - 46 wordsFind 46 different ways to say COLLECTIVE, along with antonyms, related words, and example senten...</p></details>

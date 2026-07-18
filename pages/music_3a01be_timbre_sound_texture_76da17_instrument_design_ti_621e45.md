@@ -268,224 +268,224 @@ image: /assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design
 
 ## Introduction
 
-In music, why some instruments feel more *expressive* or *vividly human‑like* than others is deeply rooted in **how their [physical]({{ 'physical/' | relative_url }}) design shapes [timbre]({{ 'timbre/' | relative_url }})** — the sonic identity that differentiates two sounds with the same pitch and loudness. Acoustic instrument design determines not just *what* frequencies are present, but *how* they evolve over time and interact with the performer’s actions and the listener’s perception. Understanding these design factors helps explain why the rich character of a violin or a flute feels more organic and alive than a basic synthetic tone. Modern acoustics research frames timbre as a multidimensional blend of **spectral and temporal cues** — and instrument construction is the primary source of this complexity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.caa-aca.ca">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.caa-aca.ca</span><span class="citation-popover-snippet">March 1, 2009...</span><span class="citation-popover-meta">Published: March 1, 2009</span></span></span>
+In music, why some instruments feel more *expressive* or *vividly human‑like* than others is deeply rooted in **how their [physical]({{ 'physical/' | relative_url }}) design shapes [timbre]({{ 'timbre/' | relative_url }})** — the sonic identity that differentiates two sounds with the same pitch and loudness. Acoustic instrument design determines not just *what* frequencies are present, but *how* they evolve over time and interact with the performer’s actions and the listener’s perception. Understanding these design factors helps explain why the rich character of a violin or a flute feels more organic and alive than a basic synthetic tone. Modern acoustics research frames timbre as a multidimensional blend of **spectral and temporal cues** — and instrument construction is the primary source of this complexity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.caa-aca.ca">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.caa-aca.ca</span><span class="citation-popover-snippet">March 1, 2009...</span><span class="citation-popover-meta">Published: March 1, 2009</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-dark.svg" | relative_url }}" alt="Instrument Timbre illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Harmonic Shaping by Material and Body
 
-At the heart of timbre lies the **harmonic spectrum** — the set of frequencies that accompany a note’s fundamental pitch. Acoustic instruments rarely emit pure sine waves; instead, they produce **complex vibrations** composed of a fundamental frequency and a series of overtones, or *harmonics*. The **relative amplitudes of these harmonics** are largely determined by the instrument’s construction: the shape of its resonant body, the elasticity and tension of strings, the geometry of an air column, and the material properties of wood, metal or other components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+At the heart of timbre lies the **harmonic spectrum** — the set of frequencies that accompany a note’s fundamental pitch. Acoustic instruments rarely emit pure sine waves; instead, they produce **complex vibrations** composed of a fundamental frequency and a series of overtones, or *harmonics*. The **relative amplitudes of these harmonics** are largely determined by the instrument’s construction: the shape of its resonant body, the elasticity and tension of strings, the geometry of an air column, and the material properties of wood, metal or other components.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
-For example, a violin’s body and wooden top plate selectively amplify certain harmonics from the vibrating string while damping others, giving its tone a warm, rich spectrum distinct from the brighter, more direct profile of a metal flute. Similarly, a clarinet’s cylindrical bore emphasises mostly *odd harmonics*, contributing to its woody, hollow timbre, whereas a trumpet’s flare and coiled tubing produce a brighter harmonic balance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
+For example, a violin’s body and wooden top plate selectively amplify certain harmonics from the vibrating string while damping others, giving its tone a warm, rich spectrum distinct from the brighter, more direct profile of a metal flute. Similarly, a clarinet’s cylindrical bore emphasises mostly *odd harmonics*, contributing to its woody, hollow timbre, whereas a trumpet’s flare and coiled tubing produce a brighter harmonic balance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
 
-Scientific analyses of musical timbre show that listeners are highly sensitive to **spectral envelope shape** — the overall pattern of energy distribution across harmonics — and that this pattern is a principal cue for identifying instrument sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.caa-aca.ca">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.caa-aca.ca</span><span class="citation-popover-snippet">March 1, 2009...</span><span class="citation-popover-meta">Published: March 1, 2009</span></span></span>
+Scientific analyses of musical timbre show that listeners are highly sensitive to **spectral envelope shape** — the overall pattern of energy distribution across harmonics — and that this pattern is a principal cue for identifying instrument sounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcaa.caa-aca.ca">[JCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcaa.caa-aca.ca</span><span class="citation-popover-snippet">March 1, 2009...</span><span class="citation-popover-meta">Published: March 1, 2009</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-dark.svg" | relative_url }}" alt="Instrument Timbre illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Attack and Decay in Musical Expression
 
-Beyond steady‑state harmonic content, **temporal features** — particularly how a sound begins (*attack*) and fades (*decay*) — are central to the perception of liveliness and expressivity. The attack phase is the initial rise in amplitude when a note is initiated; its speed and spectral content depend on design and playing mechanism (plucked, bowed, struck, or blown). The decay and sustain phases depend on how the instrument continues to radiate energy after the initial impulse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-title">Hyper Physics Sound Quality or Timbre</span><span class="citation-popover-snippet">Hyper Physics Sound Quality or Timbre</span></span></span>
+Beyond steady‑state harmonic content, **temporal features** — particularly how a sound begins (*attack*) and fades (*decay*) — are central to the perception of liveliness and expressivity. The attack phase is the initial rise in amplitude when a note is initiated; its speed and spectral content depend on design and playing mechanism (plucked, bowed, struck, or blown). The decay and sustain phases depend on how the instrument continues to radiate energy after the initial impulse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-title">Hyper Physics Sound Quality or Timbre</span><span class="citation-popover-snippet">Hyper Physics Sound Quality or Timbre</span></span></span>
 
-Acoustic instruments vary widely here. A piano hammer striking a string yields a sharp, percussive attack and a complex transient spectrum, while a bowed violin string produces a more gradual onset with pronounced vibrational nuances. The body materials — from dense spruce to brass — and coupling between vibrating elements and resonator shape how quickly energy dissipates, shaping both the *envelope* and *spectral evolution* over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+Acoustic instruments vary widely here. A piano hammer striking a string yields a sharp, percussive attack and a complex transient spectrum, while a bowed violin string produces a more gradual onset with pronounced vibrational nuances. The body materials — from dense spruce to brass — and coupling between vibrating elements and resonator shape how quickly energy dissipates, shaping both the *envelope* and *spectral evolution* over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
-Psychophysical studies reinforce that listeners use **rise time** and amplitude envelope features as key timbre cues, often distinguishing instruments within tens of milliseconds of onset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
+Psychophysical studies reinforce that listeners use **rise time** and amplitude envelope features as key timbre cues, often distinguishing instruments within tens of milliseconds of onset.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers &#124; Neural and behavioral investigations into timbre perception</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: November 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-3-dark.svg" | relative_url }}" alt="Instrument Timbre illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing Acoustic vs Synthetic Sounds
 
-When acoustic instruments are compared with synthetic tones, their human‑like timbre emerges from **complex spectral‑temporal interactions** that are challenging to replicate through simple purely electronic synthesis. Synthesised sine waves lack rich harmonic spectra and the nuanced attack‑decay contours that natural resonators and materials produce. Even sophisticated digital instruments must model or sample the *dynamic interactions* between vibrating elements, resonant bodies and performer control to approach the expressivity of acoustic timbre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
+When acoustic instruments are compared with synthetic tones, their human‑like timbre emerges from **complex spectral‑temporal interactions** that are challenging to replicate through simple purely electronic synthesis. Synthesised sine waves lack rich harmonic spectra and the nuanced attack‑decay contours that natural resonators and materials produce. Even sophisticated digital instruments must model or sample the *dynamic interactions* between vibrating elements, resonant bodies and performer control to approach the expressivity of acoustic timbre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studysmarter.co.uk">[StudySmarter UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studysmarter.co.uk</span><span class="citation-popover-title">Study Smarter UKInstrumental Timbre: Explained &amp; Variation &#124; Study Smarter</span><span class="citation-popover-snippet">StudySmarter UKInstrumental Timbre: Explained &amp; Variation &#124; StudySmarterOctober 1, 2024...</span><span class="citation-popover-meta">Published: October 1, 2024</span></span></span>
 
-Acoustic instrument design also introduces **dynamic directivity** — the way sound radiation patterns vary with pitch and note intensity — and performers’ movements further modulate timbre in ways that strengthen the perception of “liveness.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38557737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Musical instruments as dynamic sound sources</span><span class="citation-popover-snippet">April 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
+Acoustic instrument design also introduces **dynamic directivity** — the way sound radiation patterns vary with pitch and note intensity — and performers’ movements further modulate timbre in ways that strengthen the perception of “liveness.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38557737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Musical instruments as dynamic sound sources</span><span class="citation-popover-snippet">April 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
 
 Together, these design factors — harmonic shaping by materials and body, temporal envelope contours, and performer interaction — form the physical foundation for the distinct, expressive, and human‑like timbre of acoustic instruments in musical performance.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Instrument Design Makes Sounds Feel Human. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Instrument Design Makes Sounds Feel Human. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains how listeners perceive differences created by instrument design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how listeners perceive differences created by instrument design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics+Arthur+H.+Benade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of musical acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/310799-M.jpg" alt="Cover for Fundamentals of musical acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics+Arthur+H.+Benade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of musical acoustics">Fundamentals of musical acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Arthur H. Benade</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics+Arthur+H.+Benade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of musical acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/310799-M.jpg" alt="Cover for Fundamentals of musical acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics+Arthur+H.+Benade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of musical acoustics">Fundamentals of musical acoustics</a>
+</h4>
+<p class="fr-book-author">By Arthur H. Benade</p>
         
-        <p class="fr-book-desc">First published 1976. Subjects: Music, Acoustics and physics, Muziek, Akoestiek, Musikalische Akustik.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics+Arthur+H.+Benade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1976. Subjects: Music, Acoustics and physics, Muziek, Akoestiek, Musikalische Akustik.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics+Arthur+H.+Benade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musical+Instrument+Design+Bart+Hopkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musical Instrument Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/930964-M.jpg" alt="Cover for Musical Instrument Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musical+Instrument+Design+Bart+Hopkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musical Instrument Design">Musical Instrument Design</a>
-        </h4>
-        <p class="fr-book-author">By Bart Hopkin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musical+Instrument+Design+Bart+Hopkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musical Instrument Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/930964-M.jpg" alt="Cover for Musical Instrument Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musical+Instrument+Design+Bart+Hopkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musical Instrument Design">Musical Instrument Design</a>
+</h4>
+<p class="fr-book-author">By Bart Hopkin</p>
         
-        <p class="fr-book-desc">First published 1996. Subjects: Musical instruments, construction, Musikinstrumentenbau, Musical instruments, Construction, Musical instr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musical+Instrument+Design+Bart+Hopkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1996. Subjects: Musical instruments, construction, Musikinstrumentenbau, Musical instruments, Construction, Musical instr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musical+Instrument+Design+Bart+Hopkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, thought, and feeling on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, thought, and feeling">Music, thought, and feeling</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, thought, and feeling on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, thought, and feeling">Music, thought, and feeling</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Connects acoustic properties to human perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects acoustic properties to human perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+thought%2C+and+feeling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of musical acoustics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musical+Instrument+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musical Instrument Design</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+musical+acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of musical acoustics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musical+Instrument+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musical Instrument Design</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Violin Model Miniature - Perfect Mini Musical Instrument Bow"><img src="{{ '/assets/images/marketplace-covers/16f22939d02b5e362c5a.jpg' | relative_url }}" alt="Listing image for Mini Violin Model Miniature - Perfect Mini Musical Instrument Bow" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Mini Violin Model Miniature - Perfect Mini Musical Instrument Bow</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Violin Model Miniature - Perfect Mini Musical Instrument Bow"><img src="{{ '/assets/images/marketplace-covers/16f22939d02b5e362c5a.jpg' | relative_url }}" alt="Listing image for Mini Violin Model Miniature - Perfect Mini Musical Instrument Bow" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Mini Violin Model Miniature - Perfect Mini Musical Instrument Bow</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search<span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique German Saxon Violin c1890 Stradivari Model Flamed Maple"><img src="{{ '/assets/images/marketplace-covers/9487440fd9b13e89859b.jpg' | relative_url }}" alt="Listing image for Antique German Saxon Violin c1890 Stradivari Model Flamed Maple" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Antique German Saxon Violin c1890 Stradivari Model Flamed Maple</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique German Saxon Violin c1890 Stradivari Model Flamed Maple"><img src="{{ '/assets/images/marketplace-covers/9487440fd9b13e89859b.jpg' | relative_url }}" alt="Listing image for Antique German Saxon Violin c1890 Stradivari Model Flamed Maple" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Antique German Saxon Violin c1890 Stradivari Model Flamed Maple</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search<span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Violin Model Miniature Bow And Case - Perfect Mini Musical Instrument"><img src="{{ '/assets/images/marketplace-covers/33b954e293bce593e6c7.jpg' | relative_url }}" alt="Listing image for Mini Violin Model Miniature Bow And Case - Perfect Mini Musical Instrument" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Mini Violin Model Miniature Bow And Case - Perfect Mini Musical Instrument</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Violin Model Miniature Bow And Case - Perfect Mini Musical Instrument"><img src="{{ '/assets/images/marketplace-covers/33b954e293bce593e6c7.jpg' | relative_url }}" alt="Listing image for Mini Violin Model Miniature Bow And Case - Perfect Mini Musical Instrument" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Mini Violin Model Miniature Bow And Case - Perfect Mini Musical Instrument</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search<span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yamaha Yamanda Full Size 4/4 Violin model v 5"><img src="{{ '/assets/images/marketplace-covers/324b06798ec7c8a5dd84.jpg' | relative_url }}" alt="Listing image for Yamaha Yamanda Full Size 4/4 Violin model v 5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Yamaha Yamanda Full Size 4/4 Violin model v 5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yamaha Yamanda Full Size 4/4 Violin model v 5"><img src="{{ '/assets/images/marketplace-covers/324b06798ec7c8a5dd84.jpg' | relative_url }}" alt="Listing image for Yamaha Yamanda Full Size 4/4 Violin model v 5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">Yamaha Yamanda Full Size 4/4 Violin model v 5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for violin model">Search<span data-ebay-domain-label>eBay.co.uk</span>: violin model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=violin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="violin model" data-ebay-reference="instrument-timbre-why-instrument-design-makes-sounds-feel-human-music-violin-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -501,7 +501,7 @@ Together, these design factors — harmonic shaping by materials and body, tempo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -521,7 +521,7 @@ Together, these design factors — harmonic shaping by materials and body, tempo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -553,7 +553,7 @@ Together, these design factors — harmonic shaping by materials and body, tempo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -605,7 +605,7 @@ Together, these design factors — harmonic shaping by materials and body, tempo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -650,7 +650,7 @@ Together, these design factors — harmonic shaping by materials and body, tempo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -691,138 +691,138 @@ Together, these design factors — harmonic shaping by materials and body, tempo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jcaa.caa-aca.ca  
-   Link: <a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow">https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2009...</p></details>
+   Link:<a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111" target="_blank" rel="noopener noreferrer nofollow">https://jcaa.caa-aca.ca/index.php/jcaa/article/view/2111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2009...</p></details>
    Published: March 1, 2009  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Musical instruments as dynamic sound sources  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38557737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38557737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2024...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38557737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38557737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2024...</p></details>
    Published: April 1, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and vibrotactile interactions in perception of timbre acoustic features - PMCOctober 30, 2025 — STIMULI Stimuli were generated by additiv...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12575840/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and vibrotactile interactions in perception of timbre acoustic features - PMCOctober 30, 2025 — STIMULI Stimuli were generated by additiv...</p></details>
    Published: October 30, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2013 Nov 13;7:88. doi: 10.3389/fnsys.2013.00088 NEURAL AND BEHAVIORAL INVESTIGATIONS INTO TIMBRE PERCEPTION Stephen M Town STEPHEN M TOWN...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3826062/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2013 Nov 13;7:88. doi: 10.3389/fnsys.2013.00088 NEURAL AND BEHAVIORAL INVESTIGATIONS INTO TIMBRE PERCEPTION Stephen M Town STEPHEN M TOWN...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>structure of the five perceptual dimensions of timbre in orchestral instrument tones - PMCJanuary 1, 2013 — RESULTS This study evaluated...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3548835/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structure of the five perceptual dimensions of timbre in orchestral instrument tones - PMCJanuary 1, 2013 — RESULTS This study evaluated...</p></details>
    Published: January 1, 2013  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RESONANCE SCALE IN MUSICAL INSTRUMENTS The wave forms of a trumpet and a trombone are shown in Fig. 2, which shows that they both have a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2821800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RESONANCE SCALE IN MUSICAL INSTRUMENTS The wave forms of a trumpet and a trombone are shown in Fig. 2, which shows that they both have a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4OAM31b9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4OAM31b9/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the perceptual relevance of onset transients for musical instrument identificationSPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4OAM31b9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4OAM31b9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the perceptual relevance of onset transients for musical instrument identificationSPECIFYING THE PERCEPTUAL RELEVANCE OF ONSET TRANSIENTS...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088</a>  
+   Link:<a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: studysmarter.co.uk  
    Title: Study Smarter UKInstrumental Timbre: Explained & Variation | Study Smarter  
-   Link: <a href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow">https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StudySmarter UKInstrumental Timbre: Explained &amp; Variation | StudySmarterOctober 1, 2024...</p></details>
+   Link:<a href="https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/" target="_blank" rel="noopener noreferrer nofollow">https://www.studysmarter.co.uk/explanations/music/music-analysis/instrumental-timbre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StudySmarter UKInstrumental Timbre: Explained &amp; Variation | StudySmarterOctober 1, 2024...</p></details>
    Published: October 1, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
    Title: Hyper Physics Sound Quality or Timbre  
-   Link: <a href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html</a>  
+   Link:<a href="https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hyperphysics.phy-astr.gsu.edu/hbase/Sound/timbre.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
    Title: The underlying fe  
-   Link: <a href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers | Neural and behavioral investigations into timbre perceptionNovember 13, 2013 — MUSICAL AND ENVIRONMENTAL TIMBRE Timbre also d...</p></details>
+   Link:<a href="https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fnsys.2013.00088/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers | Neural and behavioral investigations into timbre perceptionNovember 13, 2013 — MUSICAL AND ENVIRONMENTAL TIMBRE Timbre also d...</p></details>
    Published: November 13, 2013  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers | Neural and behavioral investigations into timbre perception  
-   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) Published in Frontiers in Systems Neuroscien...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2013.00088/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Syst. Neurosci., 13 November 2013 Volume 7 - 2013 | [https://doi.org/10.3389/fnsys.2013.00088](https://doi.org/10.3389/fnsys.2013.00088) Published in Frontiers in Systems Neuroscien...</p></details>
    Published: November 2013  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1946 — THE TONAL SPECTRA OF WIND INSTRUMENTS Published online by Cambridge University Press: 01 January 1946 Bernard Hague Sho...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/proceedings-of-the-royal-musical-association/article/tonal-spectra-of-wind-instruments/DC09A486FCA73DA47B5E5B2D8F9070AC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1946 — THE TONAL SPECTRA OF WIND INSTRUMENTS Published online by Cambridge University Press: 01 January 1946 Bernard Hague Sho...</p></details>
    Published: January 1, 1946  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cir.nii.ac.jp  
    Title: nii.ac.jp Musical instruments as dynamic sound sources | Ci Nii Research  
-   Link: <a href="https://cir.nii.ac.jp/crid/1360870489828760320" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360870489828760320</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>instruments as dynamic sound sources | CiNii ResearchApril 1, 2024 — MUSICAL INSTRUMENTS AS DYNAMIC SOUND SOURCES DOI PDF 1 Citations * D...</p></details>
+   Link:<a href="https://cir.nii.ac.jp/crid/1360870489828760320" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1360870489828760320</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>instruments as dynamic sound sources | CiNii ResearchApril 1, 2024 — MUSICAL INSTRUMENTS AS DYNAMIC SOUND SOURCES DOI PDF 1 Citations * D...</p></details>
    Published: April 1, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: whizmath.com  
    Title: Acoustics & Musical Instruments: The Physics of Sound  
-   Link: <a href="https://whizmath.com/acoustics-intermediate.html" target="_blank" rel="noopener noreferrer nofollow">https://whizmath.com/acoustics-intermediate.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIMBRE: THE UNIQUE QUALITY OF SOUND While pitch (frequency) and loudness (amplitude) describe two main characteristics of a musical note...</p></details>
+   Link:<a href="https://whizmath.com/acoustics-intermediate.html" target="_blank" rel="noopener noreferrer nofollow">https://whizmath.com/acoustics-intermediate.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIMBRE: THE UNIQUE QUALITY OF SOUND While pitch (frequency) and loudness (amplitude) describe two main characteristics of a musical note...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.tue.nl  
    Title: nl Sound production in recorder-like instruments: I  
-   Link: <a href="https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dimensionless amplitude of the internal acoustic field - Research portal Eindhoven University of TechnologySOUND PRODUCTION IN RECORDER-L...</p></details>
+   Link:<a href="https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/en/publications/sound-production-in-recorder-like-instruments-i-dimensionless-amp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dimensionless amplitude of the internal acoustic field - Research portal Eindhoven University of TechnologySOUND PRODUCTION IN RECORDER-L...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scales.arabpsychology.com  
    Title: PSYCHOLOGICAL SCALESTimbre Definition & Meaning  
-   Link: <a href="https://scales.arabpsychology.com/?p=35988" target="_blank" rel="noopener noreferrer nofollow">https://scales.arabpsychology.com/?p=35988</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ACOUSTIC DETERMINANTS OF TIMBRE The physical foundation of timbre resides in the fact that most musical sounds are not pure sine wave...</p></details>
+   Link:<a href="https://scales.arabpsychology.com/?p=35988" target="_blank" rel="noopener noreferrer nofollow">https://scales.arabpsychology.com/?p=35988</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ACOUSTIC DETERMINANTS OF TIMBRE The physical foundation of timbre resides in the fact that most musical sounds are not pure sine wave...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bridportmusic.co.uk  
    Title: What is Timbre in Music: Understanding the Factors that Shape Musical Sound  
-   Link: <a href="https://www.bridportmusic.co.uk/what-is-timbre-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.bridportmusic.co.uk/what-is-timbre-in-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These factors contribute to the nuanced differences between different instruments or voices...</p></details>
+   Link:<a href="https://www.bridportmusic.co.uk/what-is-timbre-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://www.bridportmusic.co.uk/what-is-timbre-in-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These factors contribute to the nuanced differences between different instruments or voices...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: citedrive.com  
    Title: musical instruments as dynamic sound sources  
-   Link: <a href="https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Musical instruments as dynamic sound sources | CiteDriveDOI: 10.1121/10.0025463 ISSN: 0001-4966 MUSICAL INSTRUMENTS AS DYNAMIC SOUN...</p></details>
+   Link:<a href="https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.citedrive.com/en/discovery/musical-instruments-as-dynamic-sound-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Musical instruments as dynamic sound sources | CiteDriveDOI: 10.1121/10.0025463 ISSN: 0001-4966 MUSICAL INSTRUMENTS AS DYNAMIC SOUN...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rex.libraries.wsu.edu  
    Title: A common perceptual space for harmonic  
-   Link: <a href="https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842" target="_blank" rel="noopener noreferrer nofollow">https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>common perceptual space for harmonic and percussive timbres - Washington State UniversityOctober 1, 2000 — Image: A common perceptual spa...</p></details>
+   Link:<a href="https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842" target="_blank" rel="noopener noreferrer nofollow">https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/A-common-perceptual-space-for-harmonic/99900547795101842</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>common perceptual space for harmonic and percussive timbres - Washington State UniversityOctober 1, 2000 — Image: A common perceptual spa...</p></details>
    Published: October 1, 2000  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fabfilter.com  
    Title: It is what makes it possible to tell  
-   Link: <a href="https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FabFilter Learn - The science of sound - Timbre: understanding and crafting complex soundsFebruary 15, 2022 — TIMBRE: UNDERSTANDING AND C...</p></details>
+   Link:<a href="https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.fabfilter.com/learn/science-of-sound/timbre-understanding-and-crafting-complex-sounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FabFilter Learn - The science of sound - Timbre: understanding and crafting complex soundsFebruary 15, 2022 — TIMBRE: UNDERSTANDING AND C...</p></details>
    Published: February 15, 2022  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: museprep.com  
    Title: What Is Timbre in Music?  
-   Link: <a href="https://museprep.com/timbre-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://museprep.com/timbre-in-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Color of SoundNovember 7, 2025 — ELEMENTS OF TIMBRE: ATTACK, RESONANCE, TEXTURE To truly understand and describe timbre, we need to b...</p></details>
+   Link:<a href="https://museprep.com/timbre-in-music/" target="_blank" rel="noopener noreferrer nofollow">https://museprep.com/timbre-in-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Color of SoundNovember 7, 2025 — ELEMENTS OF TIMBRE: ATTACK, RESONANCE, TEXTURE To truly understand and describe timbre, we need to b...</p></details>
    Published: November 7, 2025

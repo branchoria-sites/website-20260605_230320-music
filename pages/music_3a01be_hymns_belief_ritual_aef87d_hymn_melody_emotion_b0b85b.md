@@ -268,229 +268,229 @@ image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotio
 
 ## Introduction
 
-Hymn melodies have a distinctive power to express emotions that seem to go beyond the literal meaning of the words they accompany. While the text of a hymn conveys theological content and doctrinal teaching, the tune itself plays a crucial role in shaping the emotional experience of worshippers. This emotional impact arises from specific musical mechanisms — such as melodic [contour]({{ 'contour/' | relative_url }}), [harmony]({{ 'harmony/' | relative_url }}), rhythm and tempo — that interact in predictable ways with human perception and cultural associations. Scholars in music psychology describe how these musical features can carry emotional “meaning” independently of the lyrics, influencing listeners’ feelings of joy, sorrow, longing or hope in ways that words alone cannot achieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
+Hymn melodies have a distinctive power to express emotions that seem to go beyond the literal meaning of the words they accompany. While the text of a hymn conveys theological content and doctrinal teaching, the tune itself plays a crucial role in shaping the emotional experience of worshippers. This emotional impact arises from specific musical mechanisms — such as melodic [contour]({{ 'contour/' | relative_url }}), [harmony]({{ 'harmony/' | relative_url }}), rhythm and tempo — that interact in predictable ways with human perception and cultural associations. Scholars in music psychology describe how these musical features can carry emotional “meaning” independently of the lyrics, influencing listeners’ feelings of joy, sorrow, longing or hope in ways that words alone cannot achieve.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-dark.svg" | relative_url }}" alt="Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Melody Shapes the Feeling of Belief
 
-The **melodic line** — the sequence of pitches that form the hymn’s tune — is one of the primary carriers of emotional expression. Music psychologists have long observed that certain melodic patterns are commonly associated with broad emotional characters. For example, rising scales and intervals often evoke feelings of anticipation or joy, while descending lines tend to suggest introspection or melancholy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Power of Melody and Harmony: How Music Evokes</span><span class="citation-popover-snippet">The Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
+The **melodic line** — the sequence of pitches that form the hymn’s tune — is one of the primary carriers of emotional expression. Music psychologists have long observed that certain melodic patterns are commonly associated with broad emotional characters. For example, rising scales and intervals often evoke feelings of anticipation or joy, while descending lines tend to suggest introspection or melancholy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">The Power of Melody and Harmony: How Music Evokes</span><span class="citation-popover-snippet">The Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</span><span class="citation-popover-meta">Published: March 20, 2024</span></span></span>
 
-Beyond these contour effects, formal research in musical emotion shows that humans are fairly consistent in perceiving emotional qualities in music. Studies asking listeners to rate pieces of music find broad agreement on whether music sounds happy, sad, tender or solemn, suggesting that [melody]({{ 'melody/' | relative_url }}) can reliably communicate specific emotional qualities even without [lyrics]({{ 'lyrics/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat does music express? Basic emotions and beyond</span><span class="citation-popover-snippet">September 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
+Beyond these contour effects, formal research in musical emotion shows that humans are fairly consistent in perceiving emotional qualities in music. Studies asking listeners to rate pieces of music find broad agreement on whether music sounds happy, sad, tender or solemn, suggesting that [melody]({{ 'melody/' | relative_url }}) can reliably communicate specific emotional qualities even without [lyrics]({{ 'lyrics/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat does music express? Basic emotions and beyond</span><span class="citation-popover-snippet">September 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
 
-In the context of hymnody, this means a hymn tune can *colour* the text’s meaning through its melodic shape. A hymn about lament and grief may be set to a melody with stepwise, lower-range movement and longer, sustained notes, which naturally slow the pace and invite somber reflection. Conversely, [hymns]({{ 'hymns/' | relative_url }}) of praise often use broader melodic leaps and higher pitches that feel uplifting. While these associations are not universal in every detail, they tap into widely documented psychological responses to pitch and melodic contour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Power of HymnsMusic can also bring a sense of unity and togetherness among worshipers by synchronizing their voices, movements, emoti...</span></span></span>
+In the context of hymnody, this means a hymn tune can *colour* the text’s meaning through its melodic shape. A hymn about lament and grief may be set to a melody with stepwise, lower-range movement and longer, sustained notes, which naturally slow the pace and invite somber reflection. Conversely, [hymns]({{ 'hymns/' | relative_url }}) of praise often use broader melodic leaps and higher pitches that feel uplifting. While these associations are not universal in every detail, they tap into widely documented psychological responses to pitch and melodic contour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Power of HymnsMusic can also bring a sense of unity and togetherness among worshipers by synchronizing their voices, movements, emoti...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-dark.svg" | relative_url }}" alt="Emotion illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Harmony and Rhythm Matter in Worship
 
-Melody does not act alone. **Harmony** — the chordal underpinning of a tune — enriches and intensifies emotional expression by providing a tonal context that supports the melody’s affective direction. Western harmony functions through progressions of chords that can suggest stability, tension, resolution, or unrest. A progression in a major key, for instance, commonly evokes warmth or brightness, whereas minor harmonies can suggest gravity or introspection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicstudio.ca">[The Music Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicstudio.ca</span><span class="citation-popover-snippet">The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</span></span></span>
+Melody does not act alone. **Harmony** — the chordal underpinning of a tune — enriches and intensifies emotional expression by providing a tonal context that supports the melody’s affective direction. Western harmony functions through progressions of chords that can suggest stability, tension, resolution, or unrest. A progression in a major key, for instance, commonly evokes warmth or brightness, whereas minor harmonies can suggest gravity or introspection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicstudio.ca">[The Music Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicstudio.ca</span><span class="citation-popover-snippet">The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</span></span></span>
 
-This interaction between melody and harmony is central in hymns, which traditionally employ four‑part harmonised settings designed for congregational singing. The harmony broadens the emotional landscape of a simple tune and reinforces the listener’s sense of fullness and communal participation. Together with [rhythm]({{ 'rhythm/' | relative_url }}) and tempo — the speed and regularity of the beats — harmony helps shape emotional pacing: a slow, steady tempo invites contemplation, while a quicker pace can convey energetic devotion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicstudio.ca">[The Music Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicstudio.ca</span><span class="citation-popover-snippet">The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</span></span></span>
+This interaction between melody and harmony is central in hymns, which traditionally employ four‑part harmonised settings designed for congregational singing. The harmony broadens the emotional landscape of a simple tune and reinforces the listener’s sense of fullness and communal participation. Together with [rhythm]({{ 'rhythm/' | relative_url }}) and tempo — the speed and regularity of the beats — harmony helps shape emotional pacing: a slow, steady tempo invites contemplation, while a quicker pace can convey energetic devotion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themusicstudio.ca">[The Music Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themusicstudio.ca</span><span class="citation-popover-snippet">The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</span></span></span>
 
-Music psychologists also distinguish between *expressed* emotion (what the music sounds like objectively expresses) and *felt* emotion (what the listener personally experiences), and research shows that these two can align strongly when melody and harmony are carefully balanced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 17, 2013...</span><span class="citation-popover-meta">Published: December 17, 2013</span></span></span>
+Music psychologists also distinguish between *expressed* emotion (what the music sounds like objectively expresses) and *felt* emotion (what the listener personally experiences), and research shows that these two can align strongly when melody and harmony are carefully balanced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">December 17, 2013...</span><span class="citation-popover-meta">Published: December 17, 2013</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xugt0hF6CNs" title="What is MELODY and HARMONY in music?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xugt0hF6CNs" target="_blank" rel="noopener noreferrer">What is MELODY and HARMONY in music?</a></p><p class="youtube-embed-meta">Channel: Melo Dojo &middot; Views: 245.4K &middot; Uploaded: June 2020 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xugt0hF6CNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xugt0hF6CNs">Open on YouTube</a></p></div></div></div>
 
 ## How Emotion Helps Hymns Become Meaningful Rituals
 
-The emotional character of a hymn tune contributes directly to its [ritual]({{ 'ritual/' | relative_url }}) significance in worship. In many Christian traditions, hymns are chosen not just for their doctrinal content but for their capacity to evoke appropriate affective states — calm praise, penitential sorrow, triumphant assurance or hopeful longing — at particular points in a service. The emotional force of the melody helps prepare the congregation’s hearts and minds for prayer or reflection in ways that speech alone often cannot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
+The emotional character of a hymn tune contributes directly to its [ritual]({{ 'ritual/' | relative_url }}) significance in worship. In many Christian traditions, hymns are chosen not just for their doctrinal content but for their capacity to evoke appropriate affective states — calm praise, penitential sorrow, triumphant assurance or hopeful longing — at particular points in a service. The emotional force of the melody helps prepare the congregation’s hearts and minds for prayer or reflection in ways that speech alone often cannot.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
 
-Historically, the pairing of text and tune has been viewed by hymn editors as an interpretive act: editors seek melodies that not only fit the meter of the words but also **enhance the text’s expressive intent**, aligning musical peaks with key moments of theological emphasis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hymn_tune" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hymn tune</span><span class="citation-popover-snippet">Hymn tune</span></span></span> This deliberate matching underscores how much composers and editors have long recognised the emotional power of melody and harmony as essential to the worship experience.
+Historically, the pairing of text and tune has been viewed by hymn editors as an interpretive act: editors seek melodies that not only fit the meter of the words but also **enhance the text’s expressive intent**, aligning musical peaks with key moments of theological emphasis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hymn_tune" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hymn tune</span><span class="citation-popover-snippet">Hymn tune</span></span></span> This deliberate matching underscores how much composers and editors have long recognised the emotional power of melody and harmony as essential to the worship experience.
 
-In practice, when congregations sing familiar tunes with emotional contours that reinforce the lyrics’ message, the music becomes more than an aesthetic choice — it becomes a lived expression of belief. The melody carries the emotional weight of the words into the bodies and hearts of worshippers, allowing communal singing to anchor faith in both mind and feeling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
+In practice, when congregations sing familiar tunes with emotional contours that reinforce the lyrics’ message, the music becomes more than an aesthetic choice — it becomes a lived expression of belief. The melody carries the emotional weight of the words into the bodies and hearts of worshippers, allowing communal singing to anchor faith in both mind and feeling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tidings.org">[Tidings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tidings.org</span><span class="citation-popover-title">Understanding and Emotion in Our Songs of Worship</span><span class="citation-popover-snippet">Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</span><span class="citation-popover-meta">Published: October 25, 2020</span></span></span>
 
-Through these mechanisms — melodic contour, harmonic context, rhythmic pacing and cultural familiarity — hymn tunes do indeed say more than words alone, making them central to how believers experience and express religious emotions within ritual settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
+Through these mechanisms — melodic contour, harmonic context, rhythmic pacing and cultural familiarity — hymn tunes do indeed say more than words alone, making them central to how believers experience and express religious emotions within ritual settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; What does music express? Basic emotions and beyondSeptember 6, 2013...</span><span class="citation-popover-meta">Published: September 6, 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Hymn Tunes Say More Than Words. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Hymn Tunes Say More Than Words. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explores the emotional power of musical structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the emotional power of musical structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Discusses how musical form influences listener experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how musical form influences listener experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
-        </h4>
-        <p class="fr-book-author">By Robert J. Morgan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
+</h4>
+<p class="fr-book-author">By Robert J. Morgan</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
-        </h4>
-        <p class="fr-book-author">By John Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
+</h4>
+<p class="fr-book-author">By John Powell</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Then Sings My Soul, Book 2</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Then Sings My Soul, Book 2</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Things Bright And Beautiful Hymn Music Sheet Print, Gospel Church Wall Art"><img src="{{ '/assets/images/marketplace-covers/f716df0ed66d25637359.jpg' | relative_url }}" alt="Listing image for All Things Bright And Beautiful Hymn Music Sheet Print, Gospel Church Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">All Things Bright And Beautiful Hymn Music Sheet Print, Gospel Church Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Things Bright And Beautiful Hymn Music Sheet Print, Gospel Church Wall Art"><img src="{{ '/assets/images/marketplace-covers/f716df0ed66d25637359.jpg' | relative_url }}" alt="Listing image for All Things Bright And Beautiful Hymn Music Sheet Print, Gospel Church Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">All Things Bright And Beautiful Hymn Music Sheet Print, Gospel Church Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hymn The Old Rugged Cross Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e287dda27968afe18ad.jpg' | relative_url }}" alt="Listing image for Hymn The Old Rugged Cross Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">Hymn The Old Rugged Cross Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hymn The Old Rugged Cross Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e287dda27968afe18ad.jpg' | relative_url }}" alt="Listing image for Hymn The Old Rugged Cross Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">Hymn The Old Rugged Cross Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hymn Wall Art - Vintage Hymnal Pages - Set of 6 (8x10) Prints - Spiritual Decor"><img src="{{ '/assets/images/marketplace-covers/9596d514b286766d16f3.jpg' | relative_url }}" alt="Listing image for Hymn Wall Art - Vintage Hymnal Pages - Set of 6 (8x10) Prints - Spiritual Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">Hymn Wall Art - Vintage Hymnal Pages - Set of 6 (8x10) Prints - Spiritual Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hymn Wall Art - Vintage Hymnal Pages - Set of 6 (8x10) Prints - Spiritual Decor"><img src="{{ '/assets/images/marketplace-covers/9596d514b286766d16f3.jpg' | relative_url }}" alt="Listing image for Hymn Wall Art - Vintage Hymnal Pages - Set of 6 (8x10) Prints - Spiritual Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">Hymn Wall Art - Vintage Hymnal Pages - Set of 6 (8x10) Prints - Spiritual Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Wall Art - School Assembly Hymns Religious Nostalgia Fun Songs Banger&#x27;s"><img src="{{ '/assets/images/marketplace-covers/2a031aff349f7d1f64f2.jpg' | relative_url }}" alt="Listing image for Metal Wall Art - School Assembly Hymns Religious Nostalgia Fun Songs Banger&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">Metal Wall Art - School Assembly Hymns Religious Nostalgia Fun Songs Banger&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Wall Art - School Assembly Hymns Religious Nostalgia Fun Songs Banger&#x27;s"><img src="{{ '/assets/images/marketplace-covers/2a031aff349f7d1f64f2.jpg' | relative_url }}" alt="Listing image for Metal Wall Art - School Assembly Hymns Religious Nostalgia Fun Songs Banger&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">Metal Wall Art - School Assembly Hymns Religious Nostalgia Fun Songs Banger&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hymn wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: hymn wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hymn+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hymn wall art" data-ebay-reference="emotion-why-hymn-tunes-say-more-than-words-music-hymn-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -506,7 +506,7 @@ Through these mechanisms — melodic contour, harmonic context, rhythmic pacing 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -526,7 +526,7 @@ Through these mechanisms — melodic contour, harmonic context, rhythmic pacing 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -558,7 +558,7 @@ Through these mechanisms — melodic contour, harmonic context, rhythmic pacing 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -610,7 +610,7 @@ Through these mechanisms — melodic contour, harmonic context, rhythmic pacing 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -655,7 +655,7 @@ Through these mechanisms — melodic contour, harmonic context, rhythmic pacing 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -696,107 +696,107 @@ Through these mechanisms — melodic contour, harmonic context, rhythmic pacing 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: medium.com  
    Title: The Power of Melody and Harmony: How Music Evokes  
-   Link: <a href="https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</p></details>
+   Link:<a href="https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40athilk25/the-power-of-melody-and-harmony-how-music-evokes-emotion-82693f4b7bf3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Melody and Harmony: How Music Evokes...March 20, 2024 — A melody that evokes joy in one person might evoke a sense of...</p></details>
    Published: March 20, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat does music express? Basic emotions and beyond  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 6, 2013...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3764399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 6, 2013...</p></details>
    Published: September 6, 2013  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 17, 2013...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3865445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 17, 2013...</p></details>
    Published: December 17, 2013  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tidings.org  
    Title: Understanding and Emotion in Our Songs of Worship  
-   Link: <a href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow">https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</p></details>
+   Link:<a href="https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/" target="_blank" rel="noopener noreferrer nofollow">https://tidings.org/articles/understanding-and-emotion-in-our-songs-of-worship/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Emotion in Our Songs of Worship - TidingsOctober 25, 2020 — 25 Oct 2020 — Effective Spiritual music connects our...</p></details>
    Published: October 25, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Hymn tune  
-   Link: <a href="https://en.wikipedia.org/wiki/Hymn_tune" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hymn_tune</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hymn_tune" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hymn_tune</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of HymnsMusic can also bring a sense of unity and togetherness among worshipers by synchronizing their voices, movements, emoti...</p></details>
+   Link:<a href="https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/hearhymn/the-power-of-hymns-95ace14e5b14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of HymnsMusic can also bring a sense of unity and togetherness among worshipers by synchronizing their voices, movements, emoti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | What does music express? Basic emotions and beyondSeptember 6, 2013...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00596/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | What does music express? Basic emotions and beyondSeptember 6, 2013...</p></details>
    Published: September 6, 2013  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: themusicstudio.ca  
-   Link: <a href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow">https://themusicstudio.ca/melody-and-harmony/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</p></details>
+   Link:<a href="https://themusicstudio.ca/melody-and-harmony/" target="_blank" rel="noopener noreferrer nofollow">https://themusicstudio.ca/melody-and-harmony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Music StudioMelody and Harmony: How They Interact to Create Emotional...14 Jun 2023 — Harmonies work by playing notes above or below...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ibelieve.com  
-   Link: <a href="https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Hymns with Messages for Christians in Times of CrisisHere are 10 hymns that will inspire, encourage, and challenge you during these st...</p></details>
+   Link:<a href="https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibelieve.com/christian-living/hymns-messages-for-christians-crisis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Hymns with Messages for Christians in Times of CrisisHere are 10 hymns that will inspire, encourage, and challenge you during these st...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027716301366" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027716301366</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 2016 — COGNITION Volume 154, September 2016, Pages 174-181 Original Articles The source dilemma hypothesis: Per...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027716301366" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027716301366</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 2016 — COGNITION Volume 154, September 2016, Pages 174-181 Original Articles The source dilemma hypothesis: Per...</p></details>
    Published: September 1, 2016  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: In his essay “On the Origin and Function of Music,” Herbert Spen  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vocal basis for the affective character of musical mode in melody - PMCJuly 31, 2013 — A VOCAL BASIS FOR THE AFFECTIVE CHARACTER OF MUSIC...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3728488/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vocal basis for the affective character of musical mode in melody - PMCJuly 31, 2013 — A VOCAL BASIS FOR THE AFFECTIVE CHARACTER OF MUSIC...</p></details>
    Published: July 31, 2013  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: research.ed.ac.uk  
    Title: metrical psalm singing and emotion in scottish protestant affecti  
-   Link: <a href="https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>psalm-singing and emotion in Scottish Protestant affective piety, 1560-1650 - University of Edinburgh Research ExplorerMay 21, 2021 — MET...</p></details>
+   Link:<a href="https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/metrical-psalm-singing-and-emotion-in-scottish-protestant-affecti</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>psalm-singing and emotion in Scottish Protestant affective piety, 1560-1650 - University of Edinburgh Research ExplorerMay 21, 2021 — MET...</p></details>
    Published: May 21, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scholars.northwestern.edu  
    Title: emotional ornamentation in performances of a handel sonata  
-   Link: <a href="https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata" target="_blank" rel="noopener noreferrer nofollow">https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ornamentation in performances of a Handel sonata - Northwestern ScholarsEMOTIONAL ORNAMENTATION IN PERFORMANCES OF A HANDEL SONATA Renee...</p></details>
+   Link:<a href="https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata" target="_blank" rel="noopener noreferrer nofollow">https://www.scholars.northwestern.edu/en/publications/emotional-ornamentation-in-performances-of-a-handel-sonata</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ornamentation in performances of a Handel sonata - Northwestern ScholarsEMOTIONAL ORNAMENTATION IN PERFORMANCES OF A HANDEL SONATA Renee...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academic.oup.com  
    Title: Expand Front Matter 2. 1 How do people communicate us  
-   Link: <a href="https://academic.oup.com/view-large/321111487" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/view-large/321111487</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mimesis to catharsis: expression, perception, and induction of emotion in music | Musical Communication | Oxford AcademicJuly 14, 2005 —...</p></details>
+   Link:<a href="https://academic.oup.com/view-large/321111487" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/view-large/321111487</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mimesis to catharsis: expression, perception, and induction of emotion in music | Musical Communication | Oxford AcademicJuly 14, 2005 —...</p></details>
    Published: July 14, 2005  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: goodfaithmedia.org  
    Title: music matters embracing emotion in worship music  
-   Link: <a href="https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/" target="_blank" rel="noopener noreferrer nofollow">https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Matters | Embracing Emotion in Worship Music5 Feb 2020 — Musical meaning is often constructed around – and uses the material of – i...</p></details>
+   Link:<a href="https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/" target="_blank" rel="noopener noreferrer nofollow">https://goodfaithmedia.org/music-matters-embracing-emotion-in-worship-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Matters | Embracing Emotion in Worship Music5 Feb 2020 — Musical meaning is often constructed around – and uses the material of – i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchconnect.suny.edu  
    Title: final ritardandi and the expression of musical emotion  
-   Link: <a href="https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman * Psychology University at Albany Research output: Contribution to journal › Article › peer-review 2 Scopus citations...</p></details>
+   Link:<a href="https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://researchconnect.suny.edu/en/publications/final-ritardandi-and-the-expression-of-musical-emotion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman * Psychology University at Albany Research output: Contribution to journal › Article › peer-review 2 Scopus citations...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18729581/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18729581/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2008 Aug;8(4):494-521. doi: 10.1037/1528-3542.8.4.494. EMOTIONS EVOKED BY THE SOUND OF MUSIC: CHARACTERIZATION, CLASSIFICATION, AND MEASU...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18729581/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18729581/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2008 Aug;8(4):494-521. doi: 10.1037/1528-3542.8.4.494. EMOTIONS EVOKED BY THE SOUND OF MUSIC: CHARACTERIZATION, CLASSIFICATION, AND MEASU...</p></details>

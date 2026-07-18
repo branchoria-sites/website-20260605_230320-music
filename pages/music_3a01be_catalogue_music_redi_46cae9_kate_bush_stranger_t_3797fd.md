@@ -268,234 +268,234 @@ image: /assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_strange
 
 ## Introduction
 
-Kate Bush’s “Running Up That Hill (A Deal With God)” is one of the clearest modern examples of how a [catalogue]({{ 'catalogue/' | relative_url }}) song can become culturally new again. Released in 1985, the single was already respected as a classic, but its appearance in the fourth season of *Stranger Things* transformed it into a global contemporary hit nearly four decades after its original release. The revival was not driven by nostalgia alone. Millions of viewers who had never heard the song encountered it first through a dramatic television storyline, giving the track a fresh emotional meaning and introducing Kate Bush to a generation born long after the song’s original chart run. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Kate Bush’s “Running Up That Hill (A Deal With God)” is one of the clearest modern examples of how a [catalogue]({{ 'catalogue/' | relative_url }}) song can become culturally new again. Released in 1985, the single was already respected as a classic, but its appearance in the fourth season of *Stranger Things* transformed it into a global contemporary hit nearly four decades after its original release. The revival was not driven by nostalgia alone. Millions of viewers who had never heard the song encountered it first through a dramatic television storyline, giving the track a fresh emotional meaning and introducing Kate Bush to a generation born long after the song’s original chart run.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1-dark.svg" | relative_url }}" alt="Kate Bush illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The scene that reframed the song
 
-The turning point came in the *Stranger Things* episode “Dear Billy”, centred on the character Max Mayfield. In one of the season’s most memorable sequences, Max escapes a supernatural threat while “Running Up That Hill” plays as her emotional lifeline. The song was not simply [background]({{ 'background/' | relative_url }}) music; it became a key part of the story itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+The turning point came in the *Stranger Things* episode “Dear Billy”, centred on the character Max Mayfield. In one of the season’s most memorable sequences, Max escapes a supernatural threat while “Running Up That Hill” plays as her emotional lifeline. The song was not simply [background]({{ 'background/' | relative_url }}) music; it became a key part of the story itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
-Music supervisor Nora Felder has explained that the creative team needed a song that could plausibly be a teenager’s favourite record in 1986 while also expressing Max’s grief, isolation and determination. “Running Up That Hill” matched those needs unusually well. Its sweeping arrangement and emotionally ambiguous [lyrics]({{ 'lyrics/' | relative_url }}) allowed viewers to connect it directly to Max’s struggle, even though the song had originally been written about empathy and understanding between people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</span></span></span>
+Music supervisor Nora Felder has explained that the creative team needed a song that could plausibly be a teenager’s favourite record in 1986 while also expressing Max’s grief, isolation and determination. “Running Up That Hill” matched those needs unusually well. Its sweeping arrangement and emotionally ambiguous [lyrics]({{ 'lyrics/' | relative_url }}) allowed viewers to connect it directly to Max’s struggle, even though the song had originally been written about empathy and understanding between people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">stranger things kate bush running up hill 1235282576</span><span class="citation-popover-snippet">How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</span></span></span>
 
-The result was a rare example of a sync placement doing more than reminding audiences of a familiar hit. The series effectively created a new narrative around the song. For many viewers, especially younger ones, the music became inseparable from Max’s story. Rather than hearing an old track from the 1980s, they experienced it as the soundtrack to a powerful contemporary television moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
+The result was a rare example of a sync placement doing more than reminding audiences of a familiar hit. The series effectively created a new narrative around the song. For many viewers, especially younger ones, the music became inseparable from Max’s story. Rather than hearing an old track from the 1980s, they experienced it as the soundtrack to a powerful contemporary television moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
 
 ## The chart records after release
 
-The commercial impact was extraordinary. Before the *Stranger Things* revival, “Running Up That Hill” had peaked at number three in the UK in 1985. After the series aired in 2022, the song climbed to number one on the UK Singles Chart, achieving a chart summit that had eluded it during its original release. Official [Charts]({{ 'charts/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: djmag.com">[DJ Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">djmag.com</span><span class="citation-popover-title">kate bushs running hill hits no1 uk charts 38 years after release</span><span class="citation-popover-snippet">Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; hits No.1 in UK charts...Jun 17, 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; has officially reached No...</span></span></span>
+The commercial impact was extraordinary. Before the *Stranger Things* revival, “Running Up That Hill” had peaked at number three in the UK in 1985. After the series aired in 2022, the song climbed to number one on the UK Singles Chart, achieving a chart summit that had eluded it during its original release. Official [Charts]({{ 'charts/' | relative_url }})<span class="citation-chip-wrap"><a class="citation-chip" href="https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: djmag.com">[DJ Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">djmag.com</span><span class="citation-popover-title">kate bushs running hill hits no1 uk charts 38 years after release</span><span class="citation-popover-snippet">Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; hits No.1 in UK charts...Jun 17, 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; has officially reached No...</span></span></span>
 
-The achievement produced several notable records. Kate Bush became the oldest female artist to score a UK number-one single at the time, and the song set records for the longest gap between release and reaching number one, as well as one of the longest gaps between an artist’s UK chart-toppers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">oldest female artist ever to score a Number 1 on the Official Singles Chart. At 63 years and 11 months, she replaces Cher, who was 52 whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.co.uk">[Rolling Stone UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.co.uk</span><span class="citation-popover-title">kate bushs running up that hill breaks three guinness world records 19560</span><span class="citation-popover-snippet">Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</span></span></span>
+The achievement produced several notable records. Kate Bush became the oldest female artist to score a UK number-one single at the time, and the song set records for the longest gap between release and reaching number one, as well as one of the longest gaps between an artist’s UK chart-toppers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: officialcharts.com">[Official Charts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">officialcharts.com</span><span class="citation-popover-snippet">oldest female artist ever to score a Number 1 on the Official Singles Chart. At 63 years and 11 months, she replaces Cher, who was 52 whe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.co.uk">[Rolling Stone UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.co.uk</span><span class="citation-popover-title">kate bushs running up that hill breaks three guinness world records 19560</span><span class="citation-popover-snippet">Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</span></span></span>
 
-The revival was not limited to Britain. In the United States, where Bush had never previously enjoyed a comparable level of chart success, the song surged into the Billboard Hot 100 top ten and ultimately reached a new career-best position. It also topped or reached the upper ranks of charts across multiple countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Running Up That Hill</span><span class="citation-popover-snippet">Running Up That Hill</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">re-enters Billboard Hot 100 at No. 8.Read more...</span></span></span>
+The revival was not limited to Britain. In the United States, where Bush had never previously enjoyed a comparable level of chart success, the song surged into the Billboard Hot 100 top ten and ultimately reached a new career-best position. It also topped or reached the upper ranks of charts across multiple countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Running Up That Hill</span><span class="citation-popover-snippet">Running Up That Hill</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">re-enters Billboard Hot 100 at No. 8.Read more...</span></span></span>
 
-Streaming and video consumption reflected the same pattern. The song accumulated vast numbers of new streams, while the official music video rapidly gained tens of millions of additional views after the series aired. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UK top ten singles in 2022</span><span class="citation-popover-snippet">List of UK top-ten singles in 2022↑ &quot;Kate Bush&#x27;s Running Up That Hill is Official Charts Number 1 Single: Singer becomes 3 x Official...</span></span></span>
+Streaming and video consumption reflected the same pattern. The song accumulated vast numbers of new streams, while the official music video rapidly gained tens of millions of additional views after the series aired.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UK top ten singles in 2022</span><span class="citation-popover-snippet">List of UK top-ten singles in 2022↑ &quot;Kate Bush&#x27;s Running Up That Hill is Official Charts Number 1 Single: Singer becomes 3 x Official...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-2-dark.svg" | relative_url }}" alt="Kate Bush illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why younger listeners heard it as new
 
-One reason the revival was so powerful is that most of the new audience had no [memory]({{ 'memory/' | relative_url }}) of the song’s original release. For many members of Generation Z, *Stranger Things* provided their first encounter with Kate Bush. Journalists and commentators repeatedly noted that teenagers were discovering the artist through the series rather than through traditional channels such as radio, family record collections or music history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">Gen Z Has Finally Discovered Kate Bush, and I&#x27;m Thrilled</span><span class="citation-popover-snippet">This led to the song topping the U.S. iTunes charts with new teenage fans enthused by their musical find. Long-time Bush fans, however, w...</span></span></span>
+One reason the revival was so powerful is that most of the new audience had no [memory]({{ 'memory/' | relative_url }}) of the song’s original release. For many members of Generation Z, *Stranger Things* provided their first encounter with Kate Bush. Journalists and commentators repeatedly noted that teenagers were discovering the artist through the series rather than through traditional channels such as radio, family record collections or music history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vogue.com">[Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vogue.com</span><span class="citation-popover-title">Gen Z Has Finally Discovered Kate Bush, and I&#x27;m Thrilled</span><span class="citation-popover-snippet">This led to the song topping the U.S. iTunes charts with new teenage fans enthused by their musical find. Long-time Bush fans, however, w...</span></span></span>
 
-The song also benefited from sounding unusually contemporary. Although recorded in the mid-1980s, its driving [rhythm]({{ 'rhythm/' | relative_url }}), synthesiser textures and emotional intensity did not feel tied to a single era. Nora Felder argued that if the track were released today, many listeners would not regard it as dated. That quality helped it compete naturally within streaming environments where songs from different decades appear side by side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
+The song also benefited from sounding unusually contemporary. Although recorded in the mid-1980s, its driving [rhythm]({{ 'rhythm/' | relative_url }}), synthesiser textures and emotional intensity did not feel tied to a single era. Nora Felder argued that if the track were released today, many listeners would not regard it as dated. That quality helped it compete naturally within streaming environments where songs from different decades appear side by side.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
 
-Social media amplified the process. Viewers shared clips, reactions and interpretations of the Max sequence, while streaming platforms made the track instantly accessible to anyone curious enough to search for it. The television moment generated [attention]({{ 'attention/' | relative_url }}), but streaming converted that attention into repeat listening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Running Up That Hill</span><span class="citation-popover-snippet">Running Up That Hill</span></span></span>
+Social media amplified the process. Viewers shared clips, reactions and interpretations of the Max sequence, while streaming platforms made the track instantly accessible to anyone curious enough to search for it. The television moment generated [attention]({{ 'attention/' | relative_url }}), but streaming converted that attention into repeat listening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Running Up That Hill</span><span class="citation-popover-snippet">Running Up That Hill</span></span></span>
 
-Kate Bush herself acknowledged that the song was being discovered by “a whole new audience”, an outcome she attributed directly to the series. The revival demonstrated that a catalogue recording does not need to remain fixed in its original cultural moment. Given the right story and emotional context, an older song can arrive in listeners’ lives as if it were brand new. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.co.uk">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.co.uk</span><span class="citation-popover-title">kate bushs running up that hill breaks three guinness world records 19560</span><span class="citation-popover-snippet">Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The trailer includes a remix of Kate Bush&#x27;s song “Running Up That Hill” and the show’s theme tune by Kyle Dixon and Michael Stein. The tr...</span></span></span>
+Kate Bush herself acknowledged that the song was being discovered by “a whole new audience”, an outcome she attributed directly to the series. The revival demonstrated that a catalogue recording does not need to remain fixed in its original cultural moment. Given the right story and emotional context, an older song can arrive in listeners’ lives as if it were brand new.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.co.uk">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.co.uk</span><span class="citation-popover-title">kate bushs running up that hill breaks three guinness world records 19560</span><span class="citation-popover-snippet">Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">The trailer includes a remix of Kate Bush&#x27;s song “Running Up That Hill” and the show’s theme tune by Kyle Dixon and Michael Stein. The tr...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-dark.svg" | relative_url }}" alt="Kate Bush illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the revival revealed about catalogue music
 
-The success of “Running Up That Hill” showed that rediscovery works best when an older song acquires a fresh meaning rather than merely receiving renewed exposure. Plenty of catalogue tracks appear in films and television programmes, but few become central to a story in the way Kate Bush’s song did in *Stranger Things*. The series transformed the track from a respected 1980s classic into a contemporary cultural event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
+The success of “Running Up That Hill” showed that rediscovery works best when an older song acquires a fresh meaning rather than merely receiving renewed exposure. Plenty of catalogue tracks appear in films and television programmes, but few become central to a story in the way Kate Bush’s song did in *Stranger Things*. The series transformed the track from a respected 1980s classic into a contemporary cultural event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</span></span></span>
 
-For the wider music industry, the episode became a landmark example of how film and television can reactivate catalogue recordings. A song nearly forty years old generated chart success, streaming growth and cultural conversation on a scale normally associated with brand-new releases. More importantly, it reached listeners who were not revisiting a favourite from their youth; they were discovering it for the first time. Official Charts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+For the wider music industry, the episode became a landmark example of how film and television can reactivate catalogue recordings. A song nearly forty years old generated chart success, streaming growth and cultural conversation on a scale normally associated with brand-new releases. More importantly, it reached listeners who were not revisiting a favourite from their youth; they were discovering it for the first time. Official Charts<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-snippet">Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Stranger Things revived Kate Bush. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Stranger Things revived Kate Bush. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explores how audiences encounter and reinterpret music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how audiences encounter and reinterpret music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
-        </h4>
-        <p class="fr-book-author">By Kelefa Sanneh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
+</h4>
+<p class="fr-book-author">By Kelefa Sanneh</p>
         
-        <p class="fr-book-desc">Provides context for the long afterlife of major recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the long afterlife of major recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Useful for understanding emotional attachment to songs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding emotional attachment to songs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Under+the+Ivy+Graeme+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Under the Ivy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13817224-M.jpg" alt="Cover for Under the Ivy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Under+the+Ivy+Graeme+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the Ivy">Under the Ivy</a>
-        </h4>
-        <p class="fr-book-author">By Graeme Thomson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Under+the+Ivy+Graeme+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Under the Ivy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13817224-M.jpg" alt="Cover for Under the Ivy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Under+the+Ivy+Graeme+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the Ivy">Under the Ivy</a>
+</h4>
+<p class="fr-book-author">By Graeme Thomson</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Music, british, history and criticism, Singers, biography, Singers, great britain, Rock musicians, biogra...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Under+the+Ivy+Graeme+Thomson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Music, british, history and criticism, Singers, biography, Singers, great britain, Rock musicians, biogra...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Under+the+Ivy+Graeme+Thomson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kate Bush 5 in a revealing top A4 mounted repro signed poster Choice of frame"><img src="{{ '/assets/images/marketplace-covers/156c266150469851c542.jpg' | relative_url }}" alt="Listing image for Kate Bush 5 in a revealing top A4 mounted repro signed poster Choice of frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kate Bush 5 in a revealing top A4 mounted repro signed poster Choice of frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kate Bush 5 in a revealing top A4 mounted repro signed poster Choice of frame"><img src="{{ '/assets/images/marketplace-covers/156c266150469851c542.jpg' | relative_url }}" alt="Listing image for Kate Bush 5 in a revealing top A4 mounted repro signed poster Choice of frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kate Bush 5 in a revealing top A4 mounted repro signed poster Choice of frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kate Bush - Double Sided Picture/Poster - RARE!"><img src="{{ '/assets/images/marketplace-covers/1fcdfe2bd6af8998a9a2.jpg' | relative_url }}" alt="Listing image for Kate Bush - Double Sided Picture/Poster - RARE!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kate Bush - Double Sided Picture/Poster - RARE!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kate Bush - Double Sided Picture/Poster - RARE!"><img src="{{ '/assets/images/marketplace-covers/1fcdfe2bd6af8998a9a2.jpg' | relative_url }}" alt="Listing image for Kate Bush - Double Sided Picture/Poster - RARE!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Kate Bush - Double Sided Picture/Poster - RARE!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KATE BUSH at The Hammersmith Odeon Coloured Vinyl 12&quot;LPAlbum Includes Poster New"><img src="{{ '/assets/images/marketplace-covers/44cba855c3db02f76ebd.jpg' | relative_url }}" alt="Listing image for KATE BUSH at The Hammersmith Odeon Coloured Vinyl 12&quot;LPAlbum Includes Poster New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">KATE BUSH at The Hammersmith Odeon Coloured Vinyl 12&quot;LPAlbum Includes Poster New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KATE BUSH at The Hammersmith Odeon Coloured Vinyl 12&quot;LPAlbum Includes Poster New"><img src="{{ '/assets/images/marketplace-covers/44cba855c3db02f76ebd.jpg' | relative_url }}" alt="Listing image for KATE BUSH at The Hammersmith Odeon Coloured Vinyl 12&quot;LPAlbum Includes Poster New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">KATE BUSH at The Hammersmith Odeon Coloured Vinyl 12&quot;LPAlbum Includes Poster New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KATE BUSH POSTER ART PRINT A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/948bb255d40bbcb94fb7.jpg' | relative_url }}" alt="Listing image for KATE BUSH POSTER ART PRINT A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">KATE BUSH POSTER ART PRINT A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KATE BUSH POSTER ART PRINT A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/948bb255d40bbcb94fb7.jpg' | relative_url }}" alt="Listing image for KATE BUSH POSTER ART PRINT A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">KATE BUSH POSTER ART PRINT A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Kate Bush poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Kate Bush poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Kate+Bush+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Kate Bush poster -book -books" data-ebay-reference="kate-bush-how-stranger-things-revived-kate-bush-music-kate-bush-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ For the wider music industry, the episode became a landmark example of how film 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ For the wider music industry, the episode became a landmark example of how film 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ For the wider music industry, the episode became a landmark example of how film 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ For the wider music industry, the episode became a landmark example of how film 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ For the wider music industry, the episode became a landmark example of how film 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,195 +701,195 @@ For the wider music industry, the episode became a landmark example of how film 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wipo.int  
-   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</p></details>
+   Link:<a href="https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/running-up-that-hill-an-80s-hit-makes-millions-in-royalties-thanks-to-stranger-things-63628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stranger Things premiered its fourth season on Netflix in May 2022, featuring Running Up... Video: Watch the scene of Max being save...</p></details>
    Published: May 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: variety.com  
    Title: stranger things kate bush running up hill 1235282576  
-   Link: <a href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</p></details>
+   Link:<a href="https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2022/music/news/stranger-things-kate-bush-running-up-hill-1235282576/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Stranger Things&#x27; Landed Kate Bush&#x27;s &#x27;Running Up...1 Jun 2022 — &quot;Stranger Things&quot; music supervisor Nora Felder explains how s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rollingstone.co.uk  
    Title: kate bushs running up that hill breaks three guinness world records 19560  
-   Link: <a href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</p></details>
+   Link:<a href="https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.co.uk/music/kate-bushs-running-up-that-hill-breaks-three-guinness-world-records-19560/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill (A Deal With God)&#x27; has broken...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Running Up That Hill  
-   Link: <a href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Running_Up_That_Hill</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Running_Up_That_Hill" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Running_Up_That_Hill</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>re-enters Billboard Hot 100 at No. 8.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/indieheads/comments/v69fxr/kate_bush_earns_firstever_top_10_single_in_the_us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re-enters Billboard Hot 100 at No. 8.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The trailer includes a remix of Kate Bush&#x27;s song “Running Up That Hill” and the show’s theme tune by Kyle Dixon and Michael Stein. The tr...</p></details>
+   Link:<a href="https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/new-stranger-things-4-trailer-features-kate-bush-running-up-that-hill-remix-watch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The trailer includes a remix of Kate Bush&#x27;s song “Running Up That Hill” and the show’s theme tune by Kyle Dixon and Michael Stein. The tr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vogue.com  
    Title: Gen Z Has Finally Discovered Kate Bush, and I'm Thrilled  
-   Link: <a href="https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This led to the song topping the U.S. iTunes charts with new teenage fans enthused by their musical find. Long-time Bush fans, however, w...</p></details>
+   Link:<a href="https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/kate-bush-stranger-things-gen-z-discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This led to the song topping the U.S. iTunes charts with new teenage fans enthused by their musical find. Long-time Bush fans, however, w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK OFFICIAL CHARTS: Kate Bush&#x27;s Running Up That Hill...By landing at Number 1 on the Official Singles Chart, Kate Bush achieves three al...</p></details>
+   Link:<a href="https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/vek9n7/uk_official_charts_kate_bushs_running_up_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK OFFICIAL CHARTS: Kate Bush&#x27;s Running Up That Hill...By landing at Number 1 on the Official Singles Chart, Kate Bush achieves three al...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Running Up That Hill got a chart boost from Stranger...The song has reached #1 on iTunes, #2 on Spotify&#x27;s global chart and #1 on Spo...</p></details>
+   Link:<a href="https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/v5u5g6/why_running_up_that_hill_got_a_chart_boost_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Running Up That Hill got a chart boost from Stranger...The song has reached #1 on iTunes, #2 on Spotify&#x27;s global chart and #1 on Spo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: New letter from Kate Bush  
-   Link: <a href="https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“On Top of that Hill”Kate Bush appreciation discussion. 4. 13. Singer Kate Bush earned $2.3 million after &quot;Stranger Things&quot; popularized &quot;...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangerThings/comments/vgl2l0/new_letter_from_kate_bush_on_top_of_that_hill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“On Top of that Hill”Kate Bush appreciation discussion. 4. 13. Singer Kate Bush earned $2.3 million after &quot;Stranger Things&quot; popularized &quot;...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: billboard.com  
    Title: Kate Bush Shatters U.K  
-   Link: <a href="https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records as &#x27;Running Up That Hill&#x27;...Jun 19, 2022 — Also, Bush becomes the oldest female artist ever to lead the Official U.K. Singles Ch...</p></details>
+   Link:<a href="https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/kate-bush-uk-records-running-up-that-hill-no-1-1235089438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records as &#x27;Running Up That Hill&#x27;...Jun 19, 2022 — Also, Bush becomes the oldest female artist ever to lead the Official U.K. Singles Ch...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of UK top ten singles in 2022  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of UK top-ten singles in 2022↑ &quot;Kate Bush&#x27;s Running Up That Hill is Official Charts Number 1 Single: Singer becomes 3 x Official...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of UK top-ten singles in 2022↑ &quot;Kate Bush&#x27;s Running Up That Hill is Official Charts Number 1 Single: Singer becomes 3 x Official...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2022/05/stranger-things-kate-bush</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Felder, who has been with the show since the beginning, chose the song for its ability to resonate with a teen&#x27;s experience in 1986 and i...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oldest female artist ever to score a Number 1 on the Official Singles Chart. At 63 years and 11 months, she replaces Cher, who was 52 whe...</p></details>
+   Link:<a href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-is-official-charts-number-1-single-singer-becomes-3-x-official-charts-record-breaker-with-stranger-things-success__36605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oldest female artist ever to score a Number 1 on the Official Singles Chart. At 63 years and 11 months, she replaces Cher, who was 52 whe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: djmag.com  
    Title: kate bushs running hill hits no1 uk charts 38 years after release  
-   Link: <a href="https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; hits No.1 in UK charts...Jun 17, 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; has officially reached No...</p></details>
+   Link:<a href="https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release" target="_blank" rel="noopener noreferrer nofollow">https://djmag.com/news/kate-bushs-running-hill-hits-no1-uk-charts-38-years-after-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; hits No.1 in UK charts...Jun 17, 2022 — Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; has officially reached No...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/artist/27937/kate-bush/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/27937/kate-bush/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsKATE BUSH songs and [albums](&amp;#123;&amp;#123; &#x27;albums/&#x27; | relative_url &amp;#125;&amp;#125;) | full Official Chart history... Official Chart landing at Number 1 thanks to a feature in Netf...</p></details>
+   Link:<a href="https://www.officialcharts.com/artist/27937/kate-bush/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/27937/kate-bush/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official ChartsKATE BUSH songs and [albums](&amp;#123;&amp;#123; &#x27;albums/&#x27; | relative_url &amp;#125;&amp;#125;) | full Official Chart history... Official Chart landing at Number 1 thanks to a feature in Netf...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rollingstone.com  
    Title: kate bush stranger things running up that hill statement 1363278  
-   Link: <a href="https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneKate Bush on &#x27;Stranger Things&#x27;-Fueled Resurgence5 Jun 2022 — Kate Bush acknowledged the Stranger Things-fueled resurgence of...</p></details>
+   Link:<a href="https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/kate-bush-stranger-things-running-up-that-hill-statement-1363278/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneKate Bush on &#x27;Stranger Things&#x27;-Fueled Resurgence5 Jun 2022 — Kate Bush acknowledged the Stranger Things-fueled resurgence of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: officialcharts.com  
    Title: RUNNIN G UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL  
-   Link: <a href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catalogue number, we...</p></details>
+   Link:<a href="https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/songs/kate-bush-running-up-that-hill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RUNNING UP THAT HILL – KATE BUSHLatest chart stats about RUNNING UP THAT HILL - peak chart position, weeks on chart, catalogue number, we...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush still &quot;reeling&quot; from Running Up That Hill&#x27;s record...22 Dec 2022 — Kate Bush has released a rare end-of-year public statement...</p></details>
+   Link:<a href="https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bush-still-reeling-from-running-up-that-hills-record-breaking-official-charts-success-this-year-in-rare-public-statement__38164/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush still &quot;reeling&quot; from Running Up That Hill&#x27;s record...22 Dec 2022 — Kate Bush has released a rare end-of-year public statement...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s Running Up That Hill claims a second week at...24 Jun 2022 — Running Up That Hill by Kate Bush celebrates a second week at N...</p></details>
+   Link:<a href="https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/kate-bushs-running-up-that-hill-claims-a-second-week-at-number-1-on-official-uk-singles-chart__36698/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s Running Up That Hill claims a second week at...24 Jun 2022 — Running Up That Hill by Kate Bush celebrates a second week at N...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the track ascends to Number 1 on the UK&#x27;s Official Singles Chart.Read more...</p></details>
+   Link:<a href="https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-chart-history-of-kate-bushs-viral-stranger-things-hit-running-up-that-hill-a-deal-with-god-__36488/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the track ascends to Number 1 on the UK&#x27;s Official Singles Chart.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s Official Songs of the Summer 2022: Kate Bush&#x27;s...5 Sept 2022 — Kate Bush&#x27;s record-breaking hit Running Up That Hill has been na...</p></details>
+   Link:<a href="https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/the-uks-official-songs-of-the-summer-2022-kate-bush-s-record-breaking-stranger-things-anthem-running-up-that-hill-is-the-official-song-of-the-summer-2022-as-80s-nostalgia-reigns-supreme__37338/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s Official Songs of the Summer 2022: Kate Bush&#x27;s...5 Sept 2022 — Kate Bush&#x27;s record-breaking hit Running Up That Hill has been na...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: officialcharts.com  
-   Link: <a href="https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Music Facts: 20 incredible Official Chart facts from the...Dec 25, 2022 — One of the most unlikely chart successes of 2022 came cou...</p></details>
+   Link:<a href="https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/chart-news/2022-music-facts-20-incredible-official-chart-facts-from-the-year-from-harry-styles-taylor-swift-and-more__38186/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Music Facts: 20 incredible Official Chart facts from the...Dec 25, 2022 — One of the most unlikely chart successes of 2022 came cou...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/official</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya person who has a position of responsibility in an organization: a government/trade-union/counci...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/official</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya person who has a position of responsibility in an organization: a government/trade-union/counci...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vogue.co.uk  
    Title: Kate Middleton Wore An Unexpected Designer To Mark An Emotional Milestone  
-   Link: <a href="https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles</a>  
+   Link:<a href="https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.co.uk/article/kate-middleton-cancer-research-king-charles</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/</a>  
+   Link:<a href="https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialCharts/posts/its-official-kate-bush-has-the-uks-number-1-single-with-running-up-that-hill-thi/10159205042224563/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: guinnessworldrecords.com  
-   Link: <a href="https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &quot;Running Up That Hill&quot; breaks records after...Jun 30, 2022 — Kate Bush&#x27;s chart-topper &quot;Running Up that Hill (A Deal with God...</p></details>
+   Link:<a href="https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2022/6/kate-bushs-running-up-that-hill-breaks-records-after-stranger-things-success-708717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &quot;Running Up That Hill&quot; breaks records after...Jun 30, 2022 — Kate Bush&#x27;s chart-topper &quot;Running Up that Hill (A Deal with God...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: on this day in 2022 kate bush went to no1 on the uk singles chart with running u  
-   Link: <a href="https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 2022, Kate Bush went to No.1 on the UK...On this day in 2022, Kate Bush went to No.1 on the UK singles chart with Running...</p></details>
+   Link:<a href="https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClassicPopMag/posts/on-this-day-in-2022-kate-bush-went-to-no1-on-the-uk-singles-chart-with-running-u/1142929497850524/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 2022, Kate Bush went to No.1 on the UK...On this day in 2022, Kate Bush went to No.1 on the UK singles chart with Running...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nme.com  
    Title: kate bush breaks three guinness world records with running up that hill 3259491  
-   Link: <a href="https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush breaks three Guinness World Records with &#x27;...30 Jun 2022 — Kate Bush has officially broken three Guinness World Records follow...</p></details>
+   Link:<a href="https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/news/music/kate-bush-breaks-three-guinness-world-records-with-running-up-that-hill-3259491</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush breaks three Guinness World Records with &#x27;...30 Jun 2022 — Kate Bush has officially broken three Guinness World Records follow...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: in 2022 kate bush hit no1 in the uk with running up that hill 37 years after it  
-   Link: <a href="https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2022, Kate Bush hit No.1 in the UK with &#x27;Running Up...With 44 years between her 1978 #1 “Wuthering Heights” and her 2022 #1 “Running...</p></details>
+   Link:<a href="https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/happymagtv/posts/in-2022-kate-bush-hit-no1-in-the-uk-with-running-up-that-hill-37-years-after-it-/1123131699849055/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2022, Kate Bush hit No.1 in the UK with &#x27;Running Up...With 44 years between her 1978 #1 “Wuthering Heights” and her 2022 #1 “Running...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: thevinylfactory.com  
    Title: kate bush running up that hill guiness world records stranger things  
-   Link: <a href="https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things" target="_blank" rel="noopener noreferrer nofollow">https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...4 Jul 2022 — The single has now earned the Guinness-stamped record for the lo...</p></details>
+   Link:<a href="https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things" target="_blank" rel="noopener noreferrer nofollow">https://www.thevinylfactory.com/news/kate-bush-running-up-that-hill-guiness-world-records-stranger-things</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...4 Jul 2022 — The single has now earned the Guinness-stamped record for the lo...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: the whole worlds gone mad kate bush on running up that hills success  
-   Link: <a href="https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The whole world&#x27;s gone mad!&#x27; Kate Bush on Running Up...22 Jun 2022 — Kate Bush has discussed the remarkable resurgent success of her 19...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2022/jun/22/the-whole-worlds-gone-mad-kate-bush-on-running-up-that-hills-success</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The whole world&#x27;s gone mad!&#x27; Kate Bush on Running Up...22 Jun 2022 — Kate Bush has discussed the remarkable resurgent success of her 19...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: independent.co.uk  
    Title: kate bush running up that hill guinness world records b2113782  
-   Link: <a href="https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Originally peaking at No 3, the song took a total of 36 years an...</p></details>
+   Link:<a href="https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/arts-entertainment/music/news/kate-bush-running-up-that-hill-guinness-world-records-b2113782.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush&#x27;s &#x27;Running Up That Hill&#x27; breaks three Guinness...1 Jul 2022 — Originally peaking at No 3, the song took a total of 36 years an...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: latimes.com  
    Title: stranger things season 4 running up that hill kate bush  
-   Link: <a href="https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush: &#x27;Stranger Things&#x27; revived &#x27;Running Up That Hill&#x27;5 Jun 2022 — “It features the song, &#x27;Running Up That Hill&#x27; which is being give...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/music/story/2022-06-05/stranger-things-season-4-running-up-that-hill-kate-bush</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kate Bush: &#x27;Stranger Things&#x27; revived &#x27;Running Up That Hill&#x27;5 Jun 2022 — “It features the song, &#x27;Running Up That Hill&#x27; which is being give...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as a motif for the character Max Mayfield, portrayed by Sadie Sink.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PigsAndPlans/posts/with-the-final-season-of-stranger-things-releasing-kate-bushs-iconic-track-runni/1352940970211864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as a motif for the character Max Mayfield, portrayed by Sadie Sink.Read more...</p></details>

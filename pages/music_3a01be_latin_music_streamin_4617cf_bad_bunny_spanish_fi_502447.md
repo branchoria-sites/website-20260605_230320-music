@@ -268,7 +268,7 @@ image: /assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish
 
 ## Introduction
 
-Bad Bunnys rise mattered because it challenged one of the music industrys longest-standing assumptions: that global pop stardom required a shift into English. Earlier Latin stars often expanded into English-language releases to reach the largest commercial markets. Bad Bunny took a different route. He built one of the worlds biggest streaming careers while keeping Spanish at the centre of his music, branding and artistic identity. In doing so, he helped demonstrate that streaming-era audiences were willing to embrace songs in Spanish on the same terms as English-language hits. His success turned Spanish-language pop from a crossover exception into a mainstream force and provided one of the clearest pieces of evidence that streaming had changed the relationship between language and global reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-billboard-cover-story-2019-8498239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny billboard cover story 2019 8498239</span><span class="citation-popover-snippet">How Bad Bunny Took Over Pop14 Feb 2019  How Bad Bunny Took Over Pop  Singing Exclusively In Spanish... He scored over 50 hits...</span></span></span>
+Bad Bunnys rise mattered because it challenged one of the music industrys longest-standing assumptions: that global pop stardom required a shift into English. Earlier Latin stars often expanded into English-language releases to reach the largest commercial markets. Bad Bunny took a different route. He built one of the worlds biggest streaming careers while keeping Spanish at the centre of his music, branding and artistic identity. In doing so, he helped demonstrate that streaming-era audiences were willing to embrace songs in Spanish on the same terms as English-language hits. His success turned Spanish-language pop from a crossover exception into a mainstream force and provided one of the clearest pieces of evidence that streaming had changed the relationship between language and global reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-billboard-cover-story-2019-8498239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny billboard cover story 2019 8498239</span><span class="citation-popover-snippet">How Bad Bunny Took Over Pop14 Feb 2019  How Bad Bunny Took Over Pop  Singing Exclusively In Spanish... He scored over 50 hits...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-1-dark.svg" | relative_url }}" alt="Bad Bunny illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why English Was No Longer the Required Gateway
@@ -277,11 +277,11 @@ For much of the modern pop era, Latin artists seeking the largest international 
 
 His rise coincided with a streaming environment in which listeners increasingly discovered music through playlists, recommendations and social sharing rather than through traditional radio gatekeepers. In that environment, audience behaviour mattered more than language conventions. Songs could spread because listeners liked their sound, energy or cultural identity, not because they fit an English-language commercial template.
 
-The significance of this shift became visible early. In 2019, Billboard described Bad Bunny as taking over pop while performing exclusively in Spanish, an unusual achievement for an artist competing directly with the biggest global stars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny un verano sin ti most streamed album spotify history 1235368920</span><span class="citation-popover-snippet">The 2022 set, which debuted at No. 1 on the Billboard 200...Read more...</span></span></span>
+The significance of this shift became visible early. In 2019, Billboard described Bad Bunny as taking over pop while performing exclusively in Spanish, an unusual achievement for an artist competing directly with the biggest global stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny un verano sin ti most streamed album spotify history 1235368920</span><span class="citation-popover-snippet">The 2022 set, which debuted at No. 1 on the Billboard 200...Read more...</span></span></span>
 
-The breakthrough became even clearer in 2020 when *El ltimo Tour del Mundo* became the first Spanish-language album ever to reach No. 1 on the Billboard 200, one of the most prominent album [charts]({{ 'charts/' | relative_url }}) in the United States. Rather than adapting to the traditional crossover path, Bad Bunny reached the top while maintaining a Spanish-language [catalogue]({{ 'catalogue/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/view/19204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[ijoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-snippet">El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200by CJ Westgate  2024  Cited by 2  In 2020, Bad Bunny released El ltimo Tour...</span></span></span>
+The breakthrough became even clearer in 2020 when *El ltimo Tour del Mundo* became the first Spanish-language album ever to reach No. 1 on the Billboard 200, one of the most prominent album [charts]({{ 'charts/' | relative_url }}) in the United States. Rather than adapting to the traditional crossover path, Bad Bunny reached the top while maintaining a Spanish-language [catalogue]({{ 'catalogue/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/view/19204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[ijoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-snippet">El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200by CJ Westgate  2024  Cited by 2  In 2020, Bad Bunny released El ltimo Tour...</span></span></span>
 
-Streaming data reinforced the point. Spotify named Bad Bunny its most-streamed artist globally in 2020, 2021 and 2022, placing him ahead of many of the biggest English-language acts in the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.apple.com">[music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.apple.com</span><span class="citation-popover-snippet">Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</span></span></span>
+Streaming data reinforced the point. Spotify named Bad Bunny its most-streamed artist globally in 2020, 2021 and 2022, placing him ahead of many of the biggest English-language acts in the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.apple.com">[music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.apple.com</span><span class="citation-popover-snippet">Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</span></span></span>
 
 What made this notable was not simply popularity. It was the scale. A Spanish-language artist was no longer succeeding within a niche category; he was competing for the largest audience in global music.
 
@@ -291,17 +291,17 @@ What made this notable was not simply popularity. It was the scale. A Spanish-la
 
 If Bad Bunny's earlier success challenged assumptions, *Un Verano Sin Ti* turned that challenge into overwhelming evidence.
 
-Released in 2022, the album debuted at No. 1 on the Billboard 200 and delivered the largest streaming week ever recorded for a Latin album in the United States. It went on to spend 13 non-consecutive weeks atop the chart and became the first all-Spanish-language album to finish a year at No. 1 on Billboards year-end Billboard 200 ranking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_most-streamed_artists_on_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of most-streamed artists on Spotify</span><span class="citation-popover-snippet">South Korean boy band BTS is the most-streamed group in Spotify&#x27;s history.Read more...</span></span></span>
+Released in 2022, the album debuted at No. 1 on the Billboard 200 and delivered the largest streaming week ever recorded for a Latin album in the United States. It went on to spend 13 non-consecutive weeks atop the chart and became the first all-Spanish-language album to finish a year at No. 1 on Billboards year-end Billboard 200 ranking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_most-streamed_artists_on_Spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of most-streamed artists on Spotify</span><span class="citation-popover-snippet">South Korean boy band BTS is the most-streamed group in Spotify&#x27;s history.Read more...</span></span></span>
 
-More importantly for the story of streaming, the album achieved a level of global consumption usually associated only with the biggest English-language blockbuster releases. Spotify reported that it was the platforms most-streamed album of 2022. It remained the most-streamed album globally in 2023 as well, an unusually long period of dominance for a contemporary release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2022-12-13/spotify-celebrates-3-years-of-record-breaking-bad-bunny-streaming-with-a-mexico-city-fiesta/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Celebrates 3 Years of Record-Breaking Bad Bunny...Dec 13, 2022  What&#x27;s more, his fourth studio album, Un Verano Sin Ti...</span></span></span>
+More importantly for the story of streaming, the album achieved a level of global consumption usually associated only with the biggest English-language blockbuster releases. Spotify reported that it was the platforms most-streamed album of 2022. It remained the most-streamed album globally in 2023 as well, an unusually long period of dominance for a contemporary release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2022-12-13/spotify-celebrates-3-years-of-record-breaking-bad-bunny-streaming-with-a-mexico-city-fiesta/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">Spotify Celebrates 3 Years of Record-Breaking Bad Bunny...Dec 13, 2022  What&#x27;s more, his fourth studio album, Un Verano Sin Ti...</span></span></span>
 
 The records continued to accumulate:
 
-* Spotify and industry reports identified *Un Verano Sin Ti* as the most-streamed album in the platforms history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny 2025 spotify wrapped 1236127099</span><span class="citation-popover-snippet">1 on Spotify&#x27;s Global Top Artist tally for 2025, with more than 19.8 billion streams worldwide, topping the podium ahead of...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/antoniopequenoiv/2023/07/10/bad-bunny-breaks-record-for-spotifys-most-streamed-album-ever-with-un-verano-sin-ti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Bad Bunny Breaks Record For Spotify&#x27;s Most Streamed...Jul 10, 2023  Bad Bunny&#x27;s 2022 album Un Verano Sin Ti is Spotify&#x27;s most streamed...</span></span></span>
-* The album became the first Latin project to reach major streaming milestones measured in the tens of billions of plays. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesource.com/2025/07/18/bad-bunny-un-verano-sin-ti-20-billion-streams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesource.com">[The Source]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesource.com</span><span class="citation-popover-snippet">The SourceBad Bunny Makes History as Un Verano Sin Ti Surpasses...18 Jul 2025  Released in 2022, the album has consistently shattered r...</span></span></span>
-* Its tracks generated sustained chart presence rather than relying on a single crossover smash, demonstrating the depth of listener engagement across the album. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Un Verano Sin Ti</span><span class="citation-popover-snippet">Un Verano Sin Ti</span></span></span>
+* Spotify and industry reports identified *Un Verano Sin Ti* as the most-streamed album in the platforms history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">bad bunny 2025 spotify wrapped 1236127099</span><span class="citation-popover-snippet">1 on Spotify&#x27;s Global Top Artist tally for 2025, with more than 19.8 billion streams worldwide, topping the podium ahead of...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/antoniopequenoiv/2023/07/10/bad-bunny-breaks-record-for-spotifys-most-streamed-album-ever-with-un-verano-sin-ti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Bad Bunny Breaks Record For Spotify&#x27;s Most Streamed...Jul 10, 2023  Bad Bunny&#x27;s 2022 album Un Verano Sin Ti is Spotify&#x27;s most streamed...</span></span></span>
+* The album became the first Latin project to reach major streaming milestones measured in the tens of billions of plays.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thesource.com/2025/07/18/bad-bunny-un-verano-sin-ti-20-billion-streams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesource.com">[The Source]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesource.com</span><span class="citation-popover-snippet">The SourceBad Bunny Makes History as Un Verano Sin Ti Surpasses...18 Jul 2025  Released in 2022, the album has consistently shattered r...</span></span></span>
+* Its tracks generated sustained chart presence rather than relying on a single crossover smash, demonstrating the depth of listener engagement across the album.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Un Verano Sin Ti</span><span class="citation-popover-snippet">Un Verano Sin Ti</span></span></span>
 
-The achievement is especially striking because the album did not depend on a wholesale shift toward English-language songwriting. Its appeal came from a distinctly Caribbean and Latin musical identity, drawing on reggaeton, dembow, bachata and related styles while remaining rooted in Spanish-language expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Un Verano Sin Ti</span><span class="citation-popover-snippet">Recorded in Puerto Rico and the Dominican Republic, the album features a mix of reggaetn, reggae, bomba, dembow, mambo, and bachata. It...</span></span></span>
+The achievement is especially striking because the album did not depend on a wholesale shift toward English-language songwriting. Its appeal came from a distinctly Caribbean and Latin musical identity, drawing on reggaeton, dembow, bachata and related styles while remaining rooted in Spanish-language expression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Un Verano Sin Ti</span><span class="citation-popover-snippet">Recorded in Puerto Rico and the Dominican Republic, the album features a mix of reggaetn, reggae, bomba, dembow, mambo, and bachata. It...</span></span></span>
 
 In previous eras, industry observers might have expected such a project to remain largely regional. Instead, it became one of the defining global [albums]({{ 'albums/' | relative_url }}) of the streaming age.
 
@@ -314,212 +314,212 @@ Before streaming, the dominant narrative often framed international recognition 
 
 This shift affected ambition in several ways.
 
-**Commercial ambition expanded.** A Spanish-language artist could now plausibly target the world's biggest streaming charts rather than viewing Latin categories as the ceiling. Bad Bunnys repeated appearance among Spotifys most-streamed artists demonstrated that global leadership itself was achievable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.apple.com">[music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.apple.com</span><span class="citation-popover-snippet">Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</span></span></span> Business Worldwide <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bad_%28album%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bad (album</span><span class="citation-popover-snippet">Bad (album)Bad is the seventh studio album by the American singer Michael Jackson. It was released on August 31, 1987, by Epic Records...</span><span class="citation-popover-meta">Published: August 31, 1987</span></span></span>
+**Commercial ambition expanded.** A Spanish-language artist could now plausibly target the world's biggest streaming charts rather than viewing Latin categories as the ceiling. Bad Bunnys repeated appearance among Spotifys most-streamed artists demonstrated that global leadership itself was achievable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.apple.com">[music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.apple.com</span><span class="citation-popover-snippet">Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</span></span></span> Business Worldwide<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bad_%28album%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bad (album</span><span class="citation-popover-snippet">Bad (album)Bad is the seventh studio album by the American singer Michael Jackson. It was released on August 31, 1987, by Epic Records...</span><span class="citation-popover-meta">Published: August 31, 1987</span></span></span>
 
-**Cultural confidence increased.** Rather than presenting Latin identity as something that needed translation for international audiences, Bad Bunny treated Puerto Rican and broader Caribbean [culture]({{ 'culture/' | relative_url }}) as the main event. His work suggested that authenticity could travel globally without extensive cultural dilution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Un Verano Sin Ti</span><span class="citation-popover-snippet">Recorded in Puerto Rico and the Dominican Republic, the album features a mix of reggaetn, reggae, bomba, dembow, mambo, and bachata. It...</span></span></span>
+**Cultural confidence increased.** Rather than presenting Latin identity as something that needed translation for international audiences, Bad Bunny treated Puerto Rican and broader Caribbean [culture]({{ 'culture/' | relative_url }}) as the main event. His work suggested that authenticity could travel globally without extensive cultural dilution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Un Verano Sin Ti</span><span class="citation-popover-snippet">Recorded in Puerto Rico and the Dominican Republic, the album features a mix of reggaetn, reggae, bomba, dembow, mambo, and bachata. It...</span></span></span>
 
-**Labels and platforms adjusted expectations.** Once a Spanish-language artist consistently generated billions of streams, the business logic changed. Investments in [Latin music]({{ 'latin-music/' | relative_url }}) were no longer justified only by regional performance; they could be justified by worldwide demand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">wrapped bad bunny top artist album</span><span class="citation-popover-snippet">Worldwide Crown Bad Bunny Global Top Artist...Dec 3, 2025  For the fourth time, Bad Bunny is the most-streamed Wrapped artist on Spotif...</span></span></span>
+**Labels and platforms adjusted expectations.** Once a Spanish-language artist consistently generated billions of streams, the business logic changed. Investments in [Latin music]({{ 'latin-music/' | relative_url }}) were no longer justified only by regional performance; they could be justified by worldwide demand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">wrapped bad bunny top artist album</span><span class="citation-popover-snippet">Worldwide Crown Bad Bunny Global Top Artist...Dec 3, 2025  For the fourth time, Bad Bunny is the most-streamed Wrapped artist on Spotif...</span></span></span>
 
-**Success became measurable outside traditional gatekeepers.** Radio play and English-language chart [access]({{ 'access/' | relative_url }}) remained important, but streaming offered another path. Bad Bunnys audience could be counted directly through billions of listens, making it difficult to dismiss Spanish-language popularity as culturally significant but commercially secondary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.apple.com">[music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.apple.com</span><span class="citation-popover-snippet">Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</span></span></span>
+**Success became measurable outside traditional gatekeepers.** Radio play and English-language chart [access]({{ 'access/' | relative_url }}) remained important, but streaming offered another path. Bad Bunnys audience could be counted directly through billions of listens, making it difficult to dismiss Spanish-language popularity as culturally significant but commercially secondary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.apple.com">[music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.apple.com</span><span class="citation-popover-snippet">Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-3-dark.svg" | relative_url }}" alt="Bad Bunny illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Turning Point in the Meaning of Mainstream
 
 The most important aspect of Bad Bunnys rise is not simply that he became successful while singing in Spanish. Earlier artists had achieved major international success in Spanish as well. What changed was the scale and consistency of that success.
 
-Bad Bunny was not treated as a crossover novelty or an occasional exception. He became one of the defining streaming stars of his era, repeatedly competing with  and often outperforming  the largest English-language artists in the world. His albums reached the top of major charts, his catalogue generated tens of billions of streams, and his audience became truly global while Spanish remained his primary language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/view/19204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[ijoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-snippet">El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200by CJ Westgate  2024  Cited by 2  In 2020, Bad Bunny released El ltimo Tour...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/with-18bn-streams-in-2022-bad-bunny-is-spotifys-most-streamed-artist-globally-for-the-third-year1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideWith more than 18.5bn streams in 2022, Bad Bunny is...1 Dec 2022  With more than 18.5bn streams in 2022, Bad Bu...</span></span></span>
+Bad Bunny was not treated as a crossover novelty or an occasional exception. He became one of the defining streaming stars of his era, repeatedly competing with  and often outperforming  the largest English-language artists in the world. His albums reached the top of major charts, his catalogue generated tens of billions of streams, and his audience became truly global while Spanish remained his primary language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/view/19204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[ijoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-snippet">El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200by CJ Westgate  2024  Cited by 2  In 2020, Bad Bunny released El ltimo Tour...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/with-18bn-streams-in-2022-bad-bunny-is-spotifys-most-streamed-artist-globally-for-the-third-year1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideWith more than 18.5bn streams in 2022, Bad Bunny is...1 Dec 2022  With more than 18.5bn streams in 2022, Bad Bu...</span></span></span>
 
-For the broader story of how Latin music became a streaming power, that achievement marked a crucial transition. The question was no longer whether Spanish-language music could cross over. The question became whether crossover was still necessary at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/billboard-explains-bad-bunny-rise-stardom-1235883146/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">1 album. Billboard Explains breaks his trajectory</span><span class="citation-popover-snippet">Billboard Explains: Bad Bunny&#x27;s Rise to Superstardom24 Jan 2025  Bad Bunny has had an impressive rise from posting on Soundcloud to earn...</span></span></span>
+For the broader story of how Latin music became a streaming power, that achievement marked a crucial transition. The question was no longer whether Spanish-language music could cross over. The question became whether crossover was still necessary at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/latin/billboard-explains-bad-bunny-rise-stardom-1235883146/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">1 album. Billboard Explains breaks his trajectory</span><span class="citation-popover-snippet">Billboard Explains: Bad Bunny&#x27;s Rise to Superstardom24 Jan 2025  Bad Bunny has had an impressive rise from posting on Soundcloud to earn...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Bad Bunny Redefined Mainstream Success. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Bad Bunny Redefined Mainstream Success. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Explains how artists can thrive in changing music ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how artists can thrive in changing music ecosystems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
-        </h4>
-        <p class="fr-book-author">By Leila Cobo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
+</h4>
+<p class="fr-book-author">By Leila Cobo</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Latin pop (Music), History and criticism, Popular music, Musicians, Interviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Latin pop (Music), History and criticism, Popular music, Musicians, Interviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reggaeton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8331410-M.jpg" alt="Cover for Reggaeton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reggaeton">Reggaeton</a>
-        </h4>
-        <p class="fr-book-author">By Raquel Z. Rivera, Deborah Pacini Hernandez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reggaeton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8331410-M.jpg" alt="Cover for Reggaeton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reggaeton">Reggaeton</a>
+</h4>
+<p class="fr-book-author">By Raquel Z. Rivera, Deborah Pacini Hernandez</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Reggaeton, History and criticism, Reggaetón, Reggae music, Reggaeton.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Reggaeton, History and criticism, Reggaetón, Reggae music, Reggaeton.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reggaeton+Raquel+Z.+Rivera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open P Fkn R on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15224643-M.jpg" alt="Cover for P Fkn R" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="P Fkn R">P Fkn R</a>
-        </h4>
-        <p class="fr-book-author">By Vanessa Diaz, Petra R. Rivera-Rideau</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open P Fkn R on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15224643-M.jpg" alt="Cover for P Fkn R" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="P Fkn R">P Fkn R</a>
+</h4>
+<p class="fr-book-author">By Vanessa Diaz, Petra R. Rivera-Rideau</p>
         
-        <p class="fr-book-desc">First published 2026. Subjects: Music, Popular Culture, Caribbean studies, Puerto rico, Biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2026. Subjects: Music, Popular Culture, Caribbean studies, Puerto rico, Biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+Despacito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding Despacito</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reggaeton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reggaeton</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+Despacito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding Despacito</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reggaeton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reggaeton</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small A6 Bad Bunny Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/3c8d3762cabd9e45bff7.jpg' | relative_url }}" alt="Listing image for Small A6 Bad Bunny Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Small A6 Bad Bunny Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small A6 Bad Bunny Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/3c8d3762cabd9e45bff7.jpg' | relative_url }}" alt="Listing image for Small A6 Bad Bunny Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Small A6 Bad Bunny Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bad bunny, “the only thing more powerful than hate is love Poster A3 Matte"><img src="{{ '/assets/images/marketplace-covers/5a9bc938341915ef154e.jpg' | relative_url }}" alt="Listing image for Bad bunny, “the only thing more powerful than hate is love Poster A3 Matte" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bad bunny, “the only thing more powerful than hate is love Poster A3 Matte</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bad bunny, “the only thing more powerful than hate is love Poster A3 Matte"><img src="{{ '/assets/images/marketplace-covers/5a9bc938341915ef154e.jpg' | relative_url }}" alt="Listing image for Bad bunny, “the only thing more powerful than hate is love Poster A3 Matte" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bad bunny, “the only thing more powerful than hate is love Poster A3 Matte</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bad Bunny Poster│A1, A2, A3, A4, │High Quality Framed Print"><img src="{{ '/assets/images/marketplace-covers/8920b64b13748f1df60e.jpg' | relative_url }}" alt="Listing image for Bad Bunny Poster│A1, A2, A3, A4, │High Quality Framed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bad Bunny Poster│A1, A2, A3, A4, │High Quality Framed Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bad Bunny Poster│A1, A2, A3, A4, │High Quality Framed Print"><img src="{{ '/assets/images/marketplace-covers/8920b64b13748f1df60e.jpg' | relative_url }}" alt="Listing image for Bad Bunny Poster│A1, A2, A3, A4, │High Quality Framed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bad Bunny Poster│A1, A2, A3, A4, │High Quality Framed Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Bad Bunny Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/90f133e243e3635c1b26.jpg' | relative_url }}" alt="Listing image for A4 Bad Bunny Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 Bad Bunny Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Bad Bunny Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/90f133e243e3635c1b26.jpg' | relative_url }}" alt="Listing image for A4 Bad Bunny Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">A4 Bad Bunny Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bad Bunny poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bad Bunny poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bad+Bunny+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bad Bunny poster -book -books" data-ebay-reference="bad-bunny-how-bad-bunny-redefined-mainstream-success-music-bad-bunny-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ For the broader story of how Latin music became a streaming power, that achievem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ For the broader story of how Latin music became a streaming power, that achievem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ For the broader story of how Latin music became a streaming power, that achievem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ For the broader story of how Latin music became a streaming power, that achievem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ For the broader story of how Latin music became a streaming power, that achievem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,223 +725,223 @@ For the broader story of how Latin music became a streaming power, that achievem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: billboard.com  
    Title: bad bunny billboard cover story 2019 8498239  
-   Link: <a href="https://www.billboard.com/music/latin/bad-bunny-billboard-cover-story-2019-8498239/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/bad-bunny-billboard-cover-story-2019-8498239/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Bad Bunny Took Over Pop14 Feb 2019  How Bad Bunny Took Over Pop  Singing Exclusively In Spanish... He scored over 50 hits...</p></details>
+   Link:<a href="https://www.billboard.com/music/latin/bad-bunny-billboard-cover-story-2019-8498239/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/bad-bunny-billboard-cover-story-2019-8498239/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Bad Bunny Took Over Pop14 Feb 2019  How Bad Bunny Took Over Pop  Singing Exclusively In Spanish... He scored over 50 hits...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ijoc.org  
-   Link: <a href="https://ijoc.org/index.php/ijoc/article/view/19204" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/view/19204</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200by CJ Westgate  2024  Cited by 2  In 2020, Bad Bunny released El ltimo Tour...</p></details>
+   Link:<a href="https://ijoc.org/index.php/ijoc/article/view/19204" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/view/19204</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200by CJ Westgate  2024  Cited by 2  In 2020, Bad Bunny released El ltimo Tour...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of most-streamed artists on Spotify  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_most-streamed_artists_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_most-streamed_artists_on_Spotify</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korean boy band BTS is the most-streamed group in Spotify&#x27;s history.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_most-streamed_artists_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_most-streamed_artists_on_Spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Korean boy band BTS is the most-streamed group in Spotify&#x27;s history.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Un Verano Sin Ti  
-   Link: <a href="https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newsroom.spotify.com  
-   Link: <a href="https://newsroom.spotify.com/2022-12-13/spotify-celebrates-3-years-of-record-breaking-bad-bunny-streaming-with-a-mexico-city-fiesta/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2022-12-13/spotify-celebrates-3-years-of-record-breaking-bad-bunny-streaming-with-a-mexico-city-fiesta/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Celebrates 3 Years of Record-Breaking Bad Bunny...Dec 13, 2022  What&#x27;s more, his fourth studio album, Un Verano Sin Ti...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2022-12-13/spotify-celebrates-3-years-of-record-breaking-bad-bunny-streaming-with-a-mexico-city-fiesta/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2022-12-13/spotify-celebrates-3-years-of-record-breaking-bad-bunny-streaming-with-a-mexico-city-fiesta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Celebrates 3 Years of Record-Breaking Bad Bunny...Dec 13, 2022  What&#x27;s more, his fourth studio album, Un Verano Sin Ti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: billboard.com  
    Title: bad bunny un verano sin ti most streamed album spotify history 1235368920  
-   Link: <a href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2022 set, which debuted at No. 1 on the Billboard 200...Read more...</p></details>
+   Link:<a href="https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/bad-bunny-un-verano-sin-ti-most-streamed-album-spotify-history-1235368920/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2022 set, which debuted at No. 1 on the Billboard 200...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/antoniopequenoiv/2023/07/10/bad-bunny-breaks-record-for-spotifys-most-streamed-album-ever-with-un-verano-sin-ti/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/antoniopequenoiv/2023/07/10/bad-bunny-breaks-record-for-spotifys-most-streamed-album-ever-with-un-verano-sin-ti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny Breaks Record For Spotify&#x27;s Most Streamed...Jul 10, 2023  Bad Bunny&#x27;s 2022 album Un Verano Sin Ti is Spotify&#x27;s most streamed...</p></details>
+   Link:<a href="https://www.forbes.com/sites/antoniopequenoiv/2023/07/10/bad-bunny-breaks-record-for-spotifys-most-streamed-album-ever-with-un-verano-sin-ti/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/antoniopequenoiv/2023/07/10/bad-bunny-breaks-record-for-spotifys-most-streamed-album-ever-with-un-verano-sin-ti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny Breaks Record For Spotify&#x27;s Most Streamed...Jul 10, 2023  Bad Bunny&#x27;s 2022 album Un Verano Sin Ti is Spotify&#x27;s most streamed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/oliviashalhoup/2026/04/23/bad-bunnys-un-verano-sin-ti-is-officially-the-most-streamed-album-in-spotify-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/oliviashalhoup/2026/04/23/bad-bunnys-un-verano-sin-ti-is-officially-the-most-streamed-album-in-spotify-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Not Taylor Swift.Read more...</p></details>
+   Link:<a href="https://www.forbes.com/sites/oliviashalhoup/2026/04/23/bad-bunnys-un-verano-sin-ti-is-officially-the-most-streamed-album-in-spotify-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/oliviashalhoup/2026/04/23/bad-bunnys-un-verano-sin-ti-is-officially-the-most-streamed-album-in-spotify-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not Taylor Swift.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pitchfork.com  
    Title: Un Verano Sin Ti  
-   Link: <a href="https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recorded in Puerto Rico and the Dominican Republic, the album features a mix of reggaetn, reggae, bomba, dembow, mambo, and bachata. It...</p></details>
+   Link:<a href="https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/reviews/albums/bad-bunny-un-verano-sin-ti</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recorded in Puerto Rico and the Dominican Republic, the album features a mix of reggaetn, reggae, bomba, dembow, mambo, and bachata. It...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsroom.spotify.com  
    Title: wrapped bad bunny top artist album  
-   Link: <a href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Worldwide Crown Bad Bunny Global Top Artist...Dec 3, 2025  For the fourth time, Bad Bunny is the most-streamed Wrapped artist on Spotif...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Worldwide Crown Bad Bunny Global Top Artist...Dec 3, 2025  For the fourth time, Bad Bunny is the most-streamed Wrapped artist on Spotif...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forbes.com  
    Title: billboard names bad bunny top latin artist of the 21st century  
-   Link: <a href="https://www.forbes.com/sites/veronicavillafane/2025/10/09/billboard-names-bad-bunny-top-latin-artist-of-the-21st-century/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/veronicavillafane/2025/10/09/billboard-names-bad-bunny-top-latin-artist-of-the-21st-century/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The artist, whose real name is Benito Antonio Martnez Ocasio, has expanded his influence beyond music into fashion and film.Read more...</p></details>
+   Link:<a href="https://www.forbes.com/sites/veronicavillafane/2025/10/09/billboard-names-bad-bunny-top-latin-artist-of-the-21st-century/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/veronicavillafane/2025/10/09/billboard-names-bad-bunny-top-latin-artist-of-the-21st-century/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The artist, whose real name is Benito Antonio Martnez Ocasio, has expanded his influence beyond music into fashion and film.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Bad (album)  
-   Link: <a href="https://en.wikipedia.org/wiki/Bad_%28album%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bad_%28album%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad (album)Bad is the seventh studio album by the American singer Michael Jackson. It was released on August 31, 1987, by Epic Records...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bad_%28album%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bad_%28album%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad (album)Bad is the seventh studio album by the American singer Michael Jackson. It was released on August 31, 1987, by Epic Records...</p></details>
    Published: August 31, 1987  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Bad (Michael Jackson song)  
-   Link: <a href="https://en.wikipedia.org/wiki/Bad_%28Michael_Jackson_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bad_%28Michael_Jackson_song%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad (Michael Jackson song)&quot;Bad&quot; is a song by the American singer Michael Jackson. It was released by Epic Records on September 7, 1987...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bad_%28Michael_Jackson_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bad_%28Michael_Jackson_song%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad (Michael Jackson song)&quot;Bad&quot; is a song by the American singer Michael Jackson. It was released by Epic Records on September 7, 1987...</p></details>
    Published: September 7, 1987  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BunnyAbout. 101,223,091 monthly listeners. Bad Bunny is a multi-platinum global [recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;) artist and 7x GRAMMY winner whose  see more...</p></details>
+   Link:<a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BunnyAbout. 101,223,091 monthly listeners. Bad Bunny is a multi-platinum global [recording](&amp;#123;&amp;#123; &#x27;recording/&#x27; | relative_url &amp;#125;&amp;#125;) artist and 7x GRAMMY winner whose  see more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verano Sin Ti - Album by Bad BunnyUn Verano Sin Ti. Bad Bunny. 202223 songs, 1 hr 21 min. Moscow Mule. E. Bad Bunny  Despus de la Playa...</p></details>
+   Link:<a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verano Sin Ti - Album by Bad BunnyUn Verano Sin Ti. Bad Bunny. 202223 songs, 1 hr 21 min. Moscow Mule. E. Bad Bunny  Despus de la Playa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/track/3tS8q8SXxtrYSN8UgeQt6q" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/3tS8q8SXxtrYSN8UgeQt6q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You know I&#x27;m bad, I&#x27;m bad (bad, bad). You know it (really, really bad). You know I&#x27;m bad, I&#x27;m...Read more...</p></details>
+   Link:<a href="https://open.spotify.com/track/3tS8q8SXxtrYSN8UgeQt6q" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/3tS8q8SXxtrYSN8UgeQt6q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You know I&#x27;m bad, I&#x27;m bad (bad, bad). You know it (really, really bad). You know I&#x27;m bad, I&#x27;m...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: billboard.com  
    Title: bad bunny 2025 spotify wrapped 1236127099  
-   Link: <a href="https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 on Spotify&#x27;s Global Top Artist tally for 2025, with more than 19.8 billion streams worldwide, topping the podium ahead of...Read more...</p></details>
+   Link:<a href="https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/bad-bunny-2025-spotify-wrapped-1236127099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 on Spotify&#x27;s Global Top Artist tally for 2025, with more than 19.8 billion streams worldwide, topping the podium ahead of...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: billboard.com  
    Title: 1 album. Billboard Explains breaks his trajectory  
-   Link: <a href="https://www.billboard.com/music/latin/billboard-explains-bad-bunny-rise-stardom-1235883146/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/billboard-explains-bad-bunny-rise-stardom-1235883146/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Explains: Bad Bunny&#x27;s Rise to Superstardom24 Jan 2025  Bad Bunny has had an impressive rise from posting on Soundcloud to earn...</p></details>
+   Link:<a href="https://www.billboard.com/music/latin/billboard-explains-bad-bunny-rise-stardom-1235883146/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/latin/billboard-explains-bad-bunny-rise-stardom-1235883146/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Billboard Explains: Bad Bunny&#x27;s Rise to Superstardom24 Jan 2025  Bad Bunny has had an impressive rise from posting on Soundcloud to earn...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/video/bad-bunny-is-breaking-records-and-barriers-with-his-chart-topping-music-hispanic-latin-heritage-month/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/video/bad-bunny-is-breaking-records-and-barriers-with-his-chart-topping-music-hispanic-latin-heritage-month/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spanic Heritage Month... Billboard is celebrating #...</p></details>
+   Link:<a href="https://www.billboard.com/video/bad-bunny-is-breaking-records-and-barriers-with-his-chart-topping-music-hispanic-latin-heritage-month/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/video/bad-bunny-is-breaking-records-and-barriers-with-his-chart-topping-music-hispanic-latin-heritage-month/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spanic Heritage Month... Billboard is celebrating #...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/with-18bn-streams-in-2022-bad-bunny-is-spotifys-most-streamed-artist-globally-for-the-third-year1/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/with-18bn-streams-in-2022-bad-bunny-is-spotifys-most-streamed-artist-globally-for-the-third-year1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideWith more than 18.5bn streams in 2022, Bad Bunny is...1 Dec 2022  With more than 18.5bn streams in 2022, Bad Bu...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/with-18bn-streams-in-2022-bad-bunny-is-spotifys-most-streamed-artist-globally-for-the-third-year1/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/with-18bn-streams-in-2022-bad-bunny-is-spotifys-most-streamed-artist-globally-for-the-third-year1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Business WorldwideWith more than 18.5bn streams in 2022, Bad Bunny is...1 Dec 2022  With more than 18.5bn streams in 2022, Bad Bu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: time.com  
    Title: spotify wrapped guide 2023  
-   Link: <a href="https://time.com/6340656/spotify-wrapped-guide-2023/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340656/spotify-wrapped-guide-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Launched in 2016, it has become a viral success, influencing other platforms like Apple Music and various industries to create similar fe...</p></details>
+   Link:<a href="https://time.com/6340656/spotify-wrapped-guide-2023/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340656/spotify-wrapped-guide-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Launched in 2016, it has become a viral success, influencing other platforms like Apple Music and various industries to create similar fe...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thesource.com  
-   Link: <a href="https://thesource.com/2025/07/18/bad-bunny-un-verano-sin-ti-20-billion-streams/" target="_blank" rel="noopener noreferrer nofollow">https://thesource.com/2025/07/18/bad-bunny-un-verano-sin-ti-20-billion-streams/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SourceBad Bunny Makes History as Un Verano Sin Ti Surpasses...18 Jul 2025  Released in 2022, the album has consistently shattered r...</p></details>
+   Link:<a href="https://thesource.com/2025/07/18/bad-bunny-un-verano-sin-ti-20-billion-streams/" target="_blank" rel="noopener noreferrer nofollow">https://thesource.com/2025/07/18/bad-bunny-un-verano-sin-ti-20-billion-streams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SourceBad Bunny Makes History as Un Verano Sin Ti Surpasses...18 Jul 2025  Released in 2022, the album has consistently shattered r...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/complex/posts/un-verano-sin-ti-by-bad-bunny-is-the-most-streamed-album-in-spotify-history-to-c/1473201784446207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/complex/posts/un-verano-sin-ti-by-bad-bunny-is-the-most-streamed-album-in-spotify-history-to-c/1473201784446207/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Un Verano Sin Ti&#x27; by Bad Bunny is the most-streamed...Bad Bunny&#x27;s album, Un Verano Sin Ti, has officially become the first album in Spo...</p></details>
+   Link:<a href="https://www.facebook.com/complex/posts/un-verano-sin-ti-by-bad-bunny-is-the-most-streamed-album-in-spotify-history-to-c/1473201784446207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/complex/posts/un-verano-sin-ti-by-bad-bunny-is-the-most-streamed-album-in-spotify-history-to-c/1473201784446207/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Un Verano Sin Ti&#x27; by Bad Bunny is the most-streamed...Bad Bunny&#x27;s album, Un Verano Sin Ti, has officially become the first album in Spo...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/bad" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/bad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary3 days ago  informal for badly (= very much): He needs the money real bad. My arm hurts so bad.R...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/bad" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/bad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary3 days ago  informal for badly (= very much): He needs the money real bad. My arm hurts so bad.R...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: kworb.net  
    Title: Bad Bunny  
-   Link: <a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_songs.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_songs.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Top SongsA website that collects and analyzes music data from around the world. All of the charts, sales and streams, constantly...</p></details>
+   Link:<a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_songs.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_songs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Top SongsA website that collects and analyzes music data from around the world. All of the charts, sales and streams, constantly...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: kworb.net  
    Title: Bad Bunny  
-   Link: <a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Chart HistoryA website that collects and analyzes music data from around the world. All of the charts, sales and streams, constan...</p></details>
+   Link:<a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Chart HistoryA website that collects and analyzes music data from around the world. All of the charts, sales and streams, constan...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kworb.net  
    Title: Spotify Top Albums  
-   Link: <a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad BunnyBad Bunny - Spotify Top Albums | Current charts | YouTube stats. Last updated: 2026/05/26. Album Title, Streams, Daily. Un Veran...</p></details>
+   Link:<a href="https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html" target="_blank" rel="noopener noreferrer nofollow">https://kworb.net/spotify/artist/4q3ewBCX7sLwd24euuV69X_albums.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad BunnyBad Bunny - Spotify Top Albums | Current charts | YouTube stats. Last updated: 2026/05/26. Album Title, Streams, Daily. Un Veran...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: chartmasters.org  
-   Link: <a href="https://chartmasters.org/artist/?id=4q3ewBCX7sLwd24euuV69X" target="_blank" rel="noopener noreferrer nofollow">https://chartmasters.org/artist/?id=4q3ewBCX7sLwd24euuV69X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad BunnyWith 12,485,963,351 streams on Spotify, YHLQMDLG ranks #3 among the most streamed albums of 2020. With 8,197,390,349 streams on...</p></details>
+   Link:<a href="https://chartmasters.org/artist/?id=4q3ewBCX7sLwd24euuV69X" target="_blank" rel="noopener noreferrer nofollow">https://chartmasters.org/artist/?id=4q3ewBCX7sLwd24euuV69X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad BunnyWith 12,485,963,351 streams on Spotify, YHLQMDLG ranks #3 among the most streamed albums of 2020. With 8,197,390,349 streams on...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: music.apple.com  
-   Link: <a href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/album/bad/559334659</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</p></details>
+   Link:<a href="https://music.apple.com/us/album/bad/559334659" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/album/bad/559334659</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Album by Michael JacksonMichael Jackson  1987; 1. Bad  4:07; 2. The Way You Make Me Feel  4:58; 3. Speed Demon  4:02; 4. Liberian...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: michaeljackson.com  
-   Link: <a href="https://www.michaeljackson.com/albums/bad/" target="_blank" rel="noopener noreferrer nofollow">https://www.michaeljackson.com/albums/bad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>album cover. Aug 1987. Bad. Track List. BUY / STREAM / DOWNLOAD. 1 Bad 0:00. 2 The Way You Make Me Feel 0:00. 3 Speed Demon 0:00.Read...</p></details>
+   Link:<a href="https://www.michaeljackson.com/albums/bad/" target="_blank" rel="noopener noreferrer nofollow">https://www.michaeljackson.com/albums/bad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>album cover. Aug 1987. Bad. Track List. BUY / STREAM / DOWNLOAD. 1 Bad 0:00. 2 The Way You Make Me Feel 0:00. 3 Speed Demon 0:00.Read...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/402623928_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/402623928_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200In 2020, Bad Bunny released El ltimo Tour del Mundo, the first Spanish-languag...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/402623928_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/402623928_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200In 2020, Bad Bunny released El ltimo Tour del Mundo, the first Spanish-languag...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/bad" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/bad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAD Definition &amp; Meaning1 of 3 adjective. bad. worse wrs; worst wrst. 1. a.: below standard: poor. b.: not favorable. a bad impr...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/bad" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/bad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAD Definition &amp; Meaning1 of 3 adjective. bad. worse wrs; worst wrst. 1. a.: below standard: poor. b.: not favorable. a bad impr...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cadenaser.com  
-   Link: <a href="https://cadenaser.com/nacional/2025/07/19/bad-bunny-vuelve-a-hacer-historia-tras-batir-un-nuevo-record-un-verano-sin-ti-ya-supera-las-20000-millones-de-escuchas-en-spotify-cadena-ser/" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/nacional/2025/07/19/bad-bunny-vuelve-a-hacer-historia-tras-batir-un-nuevo-record-un-verano-sin-ti-ya-supera-las-20000-millones-de-escuchas-en-spotify-cadena-ser/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desde su lanzamiento el 6 de mayo de 2022, el disco ha batido mltiples rcords, siendo nmero uno en escuchas en la historia de la plata...</p></details>
+   Link:<a href="https://cadenaser.com/nacional/2025/07/19/bad-bunny-vuelve-a-hacer-historia-tras-batir-un-nuevo-record-un-verano-sin-ti-ya-supera-las-20000-millones-de-escuchas-en-spotify-cadena-ser/" target="_blank" rel="noopener noreferrer nofollow">https://cadenaser.com/nacional/2025/07/19/bad-bunny-vuelve-a-hacer-historia-tras-batir-un-nuevo-record-un-verano-sin-ti-ya-supera-las-20000-millones-de-escuchas-en-spotify-cadena-ser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Desde su lanzamiento el 6 de mayo de 2022, el disco ha batido mltiples rcords, siendo nmero uno en escuchas en la historia de la plata...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: huffingtonpost.es  
-   Link: <a href="https://www.huffingtonpost.es/life/cultura/de-no-entiendo-dice-artista-generacional-dia-bad-bunny-gano-padres-cunaosbr-f202605.html" target="_blank" rel="noopener noreferrer nofollow">https://www.huffingtonpost.es/life/cultura/de-no-entiendo-dice-artista-generacional-dia-bad-bunny-gano-padres-cunaosbr-f202605.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destaca cmo Benito Martnez Ocasio, con su estilo autntico y sin renunciar a sus races, logr convertir el reggaetn, frecuentemente m...</p></details>
+   Link:<a href="https://www.huffingtonpost.es/life/cultura/de-no-entiendo-dice-artista-generacional-dia-bad-bunny-gano-padres-cunaosbr-f202605.html" target="_blank" rel="noopener noreferrer nofollow">https://www.huffingtonpost.es/life/cultura/de-no-entiendo-dice-artista-generacional-dia-bad-bunny-gano-padres-cunaosbr-f202605.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Destaca cmo Benito Martnez Ocasio, con su estilo autntico y sin renunciar a sus races, logr convertir el reggaetn, frecuentemente m...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/402493412_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/402493412_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200Mar 19, 2026  In 2020, Bad Bunny released El ltimo Tour del Mundo, the first...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/402493412_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/402493412_The_First_Spanish-Language_Album_to_Reach_Number_One_El_Ultimo_Tour_del_Mundo_Bad_Bunny_and_the_Billboard_200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El ltimo Tour del Mundo, Bad Bunny, and the Billboard 200Mar 19, 2026  In 2020, Bad Bunny released El ltimo Tour del Mundo, the first...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nbcuniversalnewsgroup.com  
-   Link: <a href="https://nbcuniversalnewsgroup.com/telemundo/2026/02/06/media-alert-bad-bunny-speaks-with-telemundo-ahead-of-historic-super-bowl-halftime-show/" target="_blank" rel="noopener noreferrer nofollow">https://nbcuniversalnewsgroup.com/telemundo/2026/02/06/media-alert-bad-bunny-speaks-with-telemundo-ahead-of-historic-super-bowl-halftime-show/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Alert: Bad Bunny Speaks With Telemundo Ahead of...Feb 6, 2026  The conversation will highlight the significance of the primarily...</p></details>
+   Link:<a href="https://nbcuniversalnewsgroup.com/telemundo/2026/02/06/media-alert-bad-bunny-speaks-with-telemundo-ahead-of-historic-super-bowl-halftime-show/" target="_blank" rel="noopener noreferrer nofollow">https://nbcuniversalnewsgroup.com/telemundo/2026/02/06/media-alert-bad-bunny-speaks-with-telemundo-ahead-of-historic-super-bowl-halftime-show/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Alert: Bad Bunny Speaks With Telemundo Ahead of...Feb 6, 2026  The conversation will highlight the significance of the primarily...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: preply.com  
    Title: bad bunny s halftime show turned dance parties into spanish lessons  
-   Link: <a href="https://preply.com/en/blog/bad-bunny-s-halftime-show-turned-dance-parties-into-spanish-lessons/" target="_blank" rel="noopener noreferrer nofollow">https://preply.com/en/blog/bad-bunny-s-halftime-show-turned-dance-parties-into-spanish-lessons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny&#x27;s halftime show turned dance parties into...Feb 10, 2026  New Preply research explores how Bad Bunny&#x27;s Super Bowl halftime sh...</p></details>
+   Link:<a href="https://preply.com/en/blog/bad-bunny-s-halftime-show-turned-dance-parties-into-spanish-lessons/" target="_blank" rel="noopener noreferrer nofollow">https://preply.com/en/blog/bad-bunny-s-halftime-show-turned-dance-parties-into-spanish-lessons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny&#x27;s halftime show turned dance parties into...Feb 10, 2026  New Preply research explores how Bad Bunny&#x27;s Super Bowl halftime sh...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: bad bunny most streamed artist on spotify for second year running  
-   Link: <a href="https://www.theguardian.com/music/2021/dec/01/bad-bunny-most-streamed-artist-on-spotify-for-second-year-running" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2021/dec/01/bad-bunny-most-streamed-artist-on-spotify-for-second-year-running</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny most-streamed artist on Spotify for second year...1 Dec 2021  For a second year in a row, the most-streamed artist on Spotify...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2021/dec/01/bad-bunny-most-streamed-artist-on-spotify-for-second-year-running" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2021/dec/01/bad-bunny-most-streamed-artist-on-spotify-for-second-year-running</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny most-streamed artist on Spotify for second year...1 Dec 2021  For a second year in a row, the most-streamed artist on Spotify...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wglt.org  
-   Link: <a href="https://www.wglt.org/2023-07-11/bad-bunnys-album-un-verano-sin-ti-is-now-the-most-streamed-ever-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.wglt.org/2023-07-11/bad-bunnys-album-un-verano-sin-ti-is-now-the-most-streamed-ever-on-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny&#x27;s album &#x27;Un Verano Sin Ti&#x27; is now the most-...Jul 11, 2023  Bad Bunny&#x27;s album &quot;Un Verano Sin Ti&quot; is now the most streamed eve...</p></details>
+   Link:<a href="https://www.wglt.org/2023-07-11/bad-bunnys-album-un-verano-sin-ti-is-now-the-most-streamed-ever-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.wglt.org/2023-07-11/bad-bunnys-album-un-verano-sin-ti-is-now-the-most-streamed-ever-on-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Bunny&#x27;s album &#x27;Un Verano Sin Ti&#x27; is now the most-...Jul 11, 2023  Bad Bunny&#x27;s album &quot;Un Verano Sin Ti&quot; is now the most streamed eve...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SPIN/posts/on-december-5-2025-spotifys-wrapped-statistics-showed-that-bad-bunny-was-the-mos/1338330874993422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SPIN/posts/on-december-5-2025-spotifys-wrapped-statistics-showed-that-bad-bunny-was-the-mos/1338330874993422/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2025, Spotify&#x27;s Wrapped statistics showed that Bad Bunny was the most-streamed artist of the year with 19.8 billion streams...</p></details>
+   Link:<a href="https://www.facebook.com/SPIN/posts/on-december-5-2025-spotifys-wrapped-statistics-showed-that-bad-bunny-was-the-mos/1338330874993422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SPIN/posts/on-december-5-2025-spotifys-wrapped-statistics-showed-that-bad-bunny-was-the-mos/1338330874993422/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2025, Spotify&#x27;s Wrapped statistics showed that Bad Bunny was the most-streamed artist of the year with 19.8 billion streams...</p></details>
    Published: December 5, 2025

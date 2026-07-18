@@ -274,232 +274,232 @@ image: /assets/images/music_3a01be_silence_in_music_822765_performance_silence_b
 
 ## Introduction
 
-In live and ensemble performance, [silence]({{ 'silence/' | relative_url }}) isn’t merely an absence of sound — it is an expressive component of the music that must be consciously shaped and communicated by performers. [Physical]({{ 'physical/' | relative_url }}) gestures that mark silence serve both **functional** and **expressive** roles: they ensure that intentional pauses are heard as part of a cohesive musical expression rather than accidental gaps, and they help co‑performers coordinate timing in the absence of sound. Research in performance science and musical communication reveals that musicians use breath, body motion and visual signalling to signal rests, pauses and entries after silence, underscoring how deeply silence is woven into the performative fabric of music-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
+In live and ensemble performance, [silence]({{ 'silence/' | relative_url }}) isn’t merely an absence of sound — it is an expressive component of the music that must be consciously shaped and communicated by performers. [Physical]({{ 'physical/' | relative_url }}) gestures that mark silence serve both **functional** and **expressive** roles: they ensure that intentional pauses are heard as part of a cohesive musical expression rather than accidental gaps, and they help co‑performers coordinate timing in the absence of sound. Research in performance science and musical communication reveals that musicians use breath, body motion and visual signalling to signal rests, pauses and entries after silence, underscoring how deeply silence is woven into the performative fabric of music-making.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-dark.svg" | relative_url }}" alt="Performance Gestures illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Breathing and Instrument Preparation
 
-Performers’ bodies naturally anticipate moments of silence through preparatory gestures such as breathing, bow lifts and instrument management. In notation, a **breath mark** (often shaped like a comma) instructs a wind player or vocalist to inhale or take a momentary pause, and it cues string and keyboard players to create a brief stillness that shapes phrasing without disrupting tempo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breath_mark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breath mark</span><span class="citation-popover-snippet">Breath mark</span></span></span>
+Performers’ bodies naturally anticipate moments of silence through preparatory gestures such as breathing, bow lifts and instrument management. In notation, a **breath mark** (often shaped like a comma) instructs a wind player or vocalist to inhale or take a momentary pause, and it cues string and keyboard players to create a brief stillness that shapes phrasing without disrupting tempo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breath_mark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breath mark</span><span class="citation-popover-snippet">Breath mark</span></span></span>
 
 For wind and voice, breathing is intrinsically tied to phrasing: performers take breaths not only for physiological necessity, but as **expressive indicators** of closure and anticipation before and after silent spaces. Even pianists and string players will often use a visible preparatory breath or a subtle gesture before entering or re‑entering after a rest, signalling to ensemble partners that a silent passage has concluded and a new musical segment is imminent. These gestures align the physical readiness of the performer with auditory expectation, anchoring silent moments in shared bodily [rhythm]({{ 'rhythm/' | relative_url }}) as much as in sound.
 
-Similarly, a **bow lift** or repositioning by string players during rests is more than technical housekeeping; it visually demarcates silence as intentional. Though the breath mark in notation does not specifically command a bow lift, performers increasingly integrate such preparatory movements into expressive practice so that silence appears purposeful rather than accidental. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Similarly, a **bow lift** or repositioning by string players during rests is more than technical housekeeping; it visually demarcates silence as intentional. Though the breath mark in notation does not specifically command a bow lift, performers increasingly integrate such preparatory movements into expressive practice so that silence appears purposeful rather than accidental.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Visual Cues for Ensemble Coordination
 
-Physical gestures are vital in ensemble settings to ensure shared interpretation of silence. When music includes long rests, fermatas (unspecified pauses), or general pauses for the entire ensemble, co‑performers must coordinate re‑entry precisely. Musicians thus exchange visual cues — head nods, eye contact, subtle body shifts — that act as non‑verbal communication channels during silence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
+Physical gestures are vital in ensemble settings to ensure shared interpretation of silence. When music includes long rests, fermatas (unspecified pauses), or general pauses for the entire ensemble, co‑performers must coordinate re‑entry precisely. Musicians thus exchange visual cues — head nods, eye contact, subtle body shifts — that act as non‑verbal communication channels during silence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
 
-Empirical research using motion tracking in chamber duos has shown that visual **cueing‑in gestures** — such as rhythmic head movements or other bodily motion patterns — encode temporal information. Features such as acceleration peaks and gesture periodicity are interpreted by ensemble partners to anticipate beat position and tempo when no sound is present. Leaders in duet performance use these gestures to communicate timing before initiating sound, helping partners synchronise even after extended silent bars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
+Empirical research using motion tracking in chamber duos has shown that visual **cueing‑in gestures** — such as rhythmic head movements or other bodily motion patterns — encode temporal information. Features such as acceleration peaks and gesture periodicity are interpreted by ensemble partners to anticipate beat position and tempo when no sound is present. Leaders in duet performance use these gestures to communicate timing before initiating sound, helping partners synchronise even after extended silent bars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
 
-When regular auditory links are missing — for instance, after a long fermata or general pause — the visual channel becomes especially salient. Pianists have been shown to rely more heavily on visual cues when structural characteristics make acoustic timing ambiguous, indicating that performers consciously attend to one another’s visible movements to resolve silent intervals and prepare joint re‑entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
+When regular auditory links are missing — for instance, after a long fermata or general pause — the visual channel becomes especially salient. Pianists have been shown to rely more heavily on visual cues when structural characteristics make acoustic timing ambiguous, indicating that performers consciously attend to one another’s visible movements to resolve silent intervals and prepare joint re‑entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-2-dark.svg" | relative_url }}" alt="Performance Gestures illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timing and Expressive Pauses
 
-Beyond coordination, physical gestures around silence carry expressive meaning. In many performance traditions, a **fermatas’** extended silence is shaped by the individual choices of the performer, and bodily cues before and during these pauses help communicate expressive intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
+Beyond coordination, physical gestures around silence carry expressive meaning. In many performance traditions, a **fermatas’** extended silence is shaped by the individual choices of the performer, and bodily cues before and during these pauses help communicate expressive intent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">March 1, 2015...</span><span class="citation-popover-meta">Published: March 1, 2015</span></span></span>
 
-In expressive duo and ensemble contexts, performers adapt their body motions — extending gestures that flow into silence or arresting motion during silences — to signal phrasing and narrative arcs in the music. Visual [attention]({{ 'attention/' | relative_url }}) between performers, often maintained through gaze as well as body movement, confirms mutual anticipation of silent endings and incoming material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2201.13297" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Beyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</span><span class="citation-popover-meta">Published: January 31, 2022</span></span></span> These coordinated gestures do more than mark time; they knit silence into the performative narrative and allow expressive shaping in partnership with co‑performers.
+In expressive duo and ensemble contexts, performers adapt their body motions — extending gestures that flow into silence or arresting motion during silences — to signal phrasing and narrative arcs in the music. Visual [attention]({{ 'attention/' | relative_url }}) between performers, often maintained through gaze as well as body movement, confirms mutual anticipation of silent endings and incoming material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2201.13297" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Beyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</span><span class="citation-popover-meta">Published: January 31, 2022</span></span></span> These coordinated gestures do more than mark time; they knit silence into the performative narrative and allow expressive shaping in partnership with co‑performers.
 
 ## Practical Implications in Performance
 
-For performers, mastering gestures that mark silence is part of developing sensitive ensemble interaction. Visible signals such as clear inhalations, eye contact prior to cueing, and consistent body motion patterns contribute to [shared timing]({{ 'shared-timing/' | relative_url }}), especially when regular pulse cues are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breath_mark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breath mark</span><span class="citation-popover-snippet">Breath mark</span></span></span>
+For performers, mastering gestures that mark silence is part of developing sensitive ensemble interaction. Visible signals such as clear inhalations, eye contact prior to cueing, and consistent body motion patterns contribute to [shared timing]({{ 'shared-timing/' | relative_url }}), especially when regular pulse cues are absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breath_mark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breath mark</span><span class="citation-popover-snippet">Breath mark</span></span></span>
 
-In orchestral and choral contexts, conductors take responsibility for signalling entries after silence, often using preparatory gestures and visual engagement — even subtle inhalations or gaze — to forecast the exact moment of sound. A conductor’s gestures thus bridge silent measures and reinforce synchronisation, showing that marking silence is a collaborative act that combines individual bodily preparation with group coordination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+In orchestral and choral contexts, conductors take responsibility for signalling entries after silence, often using preparatory gestures and visual engagement — even subtle inhalations or gaze — to forecast the exact moment of sound. A conductor’s gestures thus bridge silent measures and reinforce synchronisation, showing that marking silence is a collaborative act that combines individual bodily preparation with group coordination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-3-dark.svg" | relative_url }}" alt="Performance Gestures illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
-Performers’ physical gestures that mark musical silence are mechanisms of musical communication, shaping how silence is perceived, coordinated and integrated into expressive performance. Through breath, preparatory movement, visual cueing and shared attention, musicians embed silence in the fabric of performance, ensuring it functionally aligns with ensemble timing and artistically enhances musical expression. These embodied gestures remind us that [silence in music]({{ 'silence/' | relative_url }}) is not passive absence but a communicative event actively crafted and shared by performers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
+Performers’ physical gestures that mark musical silence are mechanisms of musical communication, shaping how silence is perceived, coordinated and integrated into expressive performance. Through breath, preparatory movement, visual cueing and shared attention, musicians embed silence in the fabric of performance, ensuring it functionally aligns with ensemble timing and artistically enhances musical expression. These embodied gestures remind us that [silence in music]({{ 'silence/' | relative_url }}) is not passive absence but a communicative event actively crafted and shared by performers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Performers Use Gesture to Shape Silence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Performers Use Gesture to Shape Silence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Musicophilia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k9BiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Musicophilia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Musicophilia">Musicophilia</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Provides context for how performers and listeners engage with musical communication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how performers and listeners engage with musical communication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Musicophilia+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+musician%27s+way+Gerald+Klickstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The musician&#x27;s way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8469680-M.jpg" alt="Cover for The musician&#x27;s way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+musician%27s+way+Gerald+Klickstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The musician&#x27;s way">The musician&#x27;s way</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Klickstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+musician%27s+way+Gerald+Klickstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The musician&#x27;s way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8469680-M.jpg" alt="Cover for The musician&#x27;s way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+musician%27s+way+Gerald+Klickstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The musician&#x27;s way">The musician&#x27;s way</a>
+</h4>
+<p class="fr-book-author">By Gerald Klickstein</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Health and hygiene, Musicians, Music, Performance, Practicing (Music).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+musician%27s+way+Gerald+Klickstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Health and hygiene, Musicians, Music, Performance, Practicing (Music).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+musician%27s+way+Gerald+Klickstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Effortless+Mastery+Kenny+Werner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effortless Mastery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/795100-M.jpg" alt="Cover for Effortless Mastery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Effortless+Mastery+Kenny+Werner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effortless Mastery">Effortless Mastery</a>
-        </h4>
-        <p class="fr-book-author">By Kenny Werner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Effortless+Mastery+Kenny+Werner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effortless Mastery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/795100-M.jpg" alt="Cover for Effortless Mastery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Effortless+Mastery+Kenny+Werner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effortless Mastery">Effortless Mastery</a>
+</h4>
+<p class="fr-book-author">By Kenny Werner</p>
         
-        <p class="fr-book-desc">First published 1996. Subjects: Performance, Self-actualization (Psychology), Psychological aspects, Music, Self-help techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Effortless+Mastery+Kenny+Werner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1996. Subjects: Performance, Self-actualization (Psychology), Psychological aspects, Music, Self-help techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Effortless+Mastery+Kenny+Werner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Inner+Game+of+Music+Barry+Green+W+Timothy+Gallwey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Inner Game of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8565432-M.jpg" alt="Cover for The Inner Game of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Inner+Game+of+Music+Barry+Green+W+Timothy+Gallwey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Inner Game of Music">The Inner Game of Music</a>
-        </h4>
-        <p class="fr-book-author">By Barry Green W Timothy Gallwey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Inner+Game+of+Music+Barry+Green+W+Timothy+Gallwey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Inner Game of Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8565432-M.jpg" alt="Cover for The Inner Game of Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Inner+Game+of+Music+Barry+Green+W+Timothy+Gallwey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Inner Game of Music">The Inner Game of Music</a>
+</h4>
+<p class="fr-book-author">By Barry Green W Timothy Gallwey</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Music, performance, Music, Performance, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Inner+Game+of+Music+Barry+Green+W+Timothy+Gallwey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Music, performance, Music, Performance, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Inner+Game+of+Music+Barry+Green+W+Timothy+Gallwey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+musician%27s+way&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The musician&#x27;s way</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effortless+Mastery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effortless Mastery</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Musicophilia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Musicophilia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+musician%27s+way&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The musician&#x27;s way</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Effortless+Mastery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effortless Mastery</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance"><img src="https://i.ebayimg.com/images/g/9XgAAeSw8Cdo90bl/s-l225.jpg" alt="Listing image for ​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance"><img src="https://i.ebayimg.com/images/g/9XgAAeSw8Cdo90bl/s-l225.jpg" alt="Listing image for ​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">​15.35in Length ​Music Conductor Baton​ Music Conducting &amp; Performance</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search<span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK"><img src="https://i.ebayimg.com/images/g/ex8AAOSw14RdLxs2/s-l225.jpg" alt="Listing image for Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK"><img src="https://i.ebayimg.com/images/g/ex8AAOSw14RdLxs2/s-l225.jpg" alt="Listing image for Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">Music Baton Professional Orchestra Conductor Baton Concert Conducting Stick UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search<span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902."><img src="https://i.ebayimg.com/images/g/j8AAAeSwamJp-a4I/s-l225.jpg" alt="Listing image for STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902."><img src="https://i.ebayimg.com/images/g/j8AAAeSwamJp-a4I/s-l225.jpg" alt="Listing image for STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">STERLING SILVER MOUNTED CONDUCTOR&#x27;S BATON - Birmingham, 1902.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search<span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand"><img src="https://i.ebayimg.com/images/g/x4kAAOSwBZJnNZNA/s-l225.jpg" alt="Listing image for Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search <span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand"><img src="https://i.ebayimg.com/images/g/x4kAAOSwBZJnNZNA/s-l225.jpg" alt="Listing image for Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">Concert Conducting Band Director Stick Music Conductor Baton Rhythm Music Wand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for conductor baton">Search<span data-ebay-domain-label>eBay.co.uk</span>: conductor baton</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=conductor+baton&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-performers-use-gesture-to-shape-silence-conductor-baton&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="conductor baton" data-ebay-reference="how-performers-use-gesture-to-shape-silence-conductor-baton" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,89 +705,89 @@ Performers’ physical gestures that mark musical silence are mechanisms of musi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5718341/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beating time: How ensemble musicians&#x27; cueing gestures...by L Bishop · 2017 · Cited by 80 — In the present study, we focus on the visu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Breath mark  
-   Link: <a href="https://en.wikipedia.org/wiki/Breath_mark" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breath_mark</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Breath_mark" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breath_mark</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2015...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4526249/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2015...</p></details>
    Published: March 1, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2020...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7812619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2020...</p></details>
    Published: July 30, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2201.13297" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.13297</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2201.13297" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.13297</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond synchronization: Body gestures and gaze direction in duo performanceJanuary 31, 2022...</p></details>
    Published: January 31, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Conducting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Conducting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Conducting</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bodily movement and facial actions in expressive musical...29 Jun 2015 — In two studies this paper explores the expressive components of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274482414_Bodily_movement_and_facial_actions_in_expressive_musical_performance_by_solo_and_duo_instrumentalists_Two_distinctive_case_studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bodily movement and facial actions in expressive musical...29 Jun 2015 — In two studies this paper explores the expressive components of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mtosmt.org  
-   Link: <a href="https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 15.5: Berry, The Importance of Bodily GestureTHE IMPORTANCE OF BODILY GESTURE IN SOFIA GUBAIDULINA’S MUSIC FOR LOW STRINGS MICHAEL BE...</p></details>
+   Link:<a href="https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.berry.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 15.5: Berry, The Importance of Bodily GestureTHE IMPORTANCE OF BODILY GESTURE IN SOFIA GUBAIDULINA’S MUSIC FOR LOW STRINGS MICHAEL BE...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/scan/article/16/1-2/31/5878975" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/scan/article/16/1-2/31/5878975</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of silence: an EEG study of how musicians time pauses in individual and joint music performance | Social Cognitive and Affective Neurosci...</p></details>
+   Link:<a href="https://academic.oup.com/scan/article/16/1-2/31/5878975" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/scan/article/16/1-2/31/5878975</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of silence: an EEG study of how musicians time pauses in individual and joint music performance | Social Cognitive and Affective Neurosci...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs</a>  
+   Link:<a href="https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270819472_Nonverbal_behaviours_in_popular_music_performance_A_case_study_of_The_Corrs</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: musicsymbols.me  
    Title: It represents a full measure of silence in most time signatures, partic  
-   Link: <a href="https://musicsymbols.me/rest/" target="_blank" rel="noopener noreferrer nofollow">https://musicsymbols.me/rest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Rest Symbols and Their Meanings in Sheet MusicTYPES OF REST SYMBOLS WHOLE REST The whole rest looks like a small, solid rectangle h...</p></details>
+   Link:<a href="https://musicsymbols.me/rest/" target="_blank" rel="noopener noreferrer nofollow">https://musicsymbols.me/rest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Rest Symbols and Their Meanings in Sheet MusicTYPES OF REST SYMBOLS WHOLE REST The whole rest looks like a small, solid rectangle h...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchcatalogue.net  
-   Link: <a href="https://www.researchcatalogue.net/view/1712958/2928941" target="_blank" rel="noopener noreferrer nofollow">https://www.researchcatalogue.net/view/1712958/2928941</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rs which may include icons, gestures, flags, text, signs, pictograms, architecture, audience behavior, ri...</p></details>
+   Link:<a href="https://www.researchcatalogue.net/view/1712958/2928941" target="_blank" rel="noopener noreferrer nofollow">https://www.researchcatalogue.net/view/1712958/2928941</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rs which may include icons, gestures, flags, text, signs, pictograms, architecture, audience behavior, ri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research.ceu.edu  
-   Link: <a href="https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in" target="_blank" rel="noopener noreferrer nofollow">https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sound of silence: An EEG study of how musicians time pauses in individual and joint music performance - CEU Research Pure PortalJanuary 1...</p></details>
+   Link:<a href="https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in" target="_blank" rel="noopener noreferrer nofollow">https://research.ceu.edu/en/publications/the-sound-of-silence-an-eeg-study-of-how-musicians-time-pauses-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sound of silence: An EEG study of how musicians time pauses in individual and joint music performance - CEU Research Pure PortalJanuary 1...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hull-repository.worktribe.com  
    Title: supporting gestures breathing in piano performance  
-   Link: <a href="https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance" target="_blank" rel="noopener noreferrer nofollow">https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Existing research provides valuable insight into the importance of breathing for music performers and its function in supporting instrume...</p></details>
+   Link:<a href="https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance" target="_blank" rel="noopener noreferrer nofollow">https://hull-repository.worktribe.com/output/1318221/supporting-gestures-breathing-in-piano-performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Existing research provides valuable insight into the importance of breathing for music performers and its function in supporting instrume...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ctions, control dynamics, and coordinate the ensemble&#x27;s entrances and timing...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEEjXgHzWNg/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctions, control dynamics, and coordinate the ensemble&#x27;s entrances and timing...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mtosmt.org  
    Title: MT O 18.1: Schutz, Looking Beyond the Score  
-   Link: <a href="https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 18.1: Schutz, Looking Beyond the ScoreApril 1, 2012 — LOOKING BEYOND THE SCORE: THE MUSICAL ROLE OF PERCUSSIONISTS’ ANCILLARY GESTURE...</p></details>
+   Link:<a href="https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html" target="_blank" rel="noopener noreferrer nofollow">https://mtosmt.org/issues/mto.12.18.1/mto.12.18.1.schutz_manning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTO 18.1: Schutz, Looking Beyond the ScoreApril 1, 2012 — LOOKING BEYOND THE SCORE: THE MUSICAL ROLE OF PERCUSSIONISTS’ ANCILLARY GESTURE...</p></details>
    Published: April 1, 2012

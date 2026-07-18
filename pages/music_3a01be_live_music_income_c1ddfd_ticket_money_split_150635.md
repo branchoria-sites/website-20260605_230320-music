@@ -268,16 +268,16 @@ image: /assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_1
 
 ## Introduction
 
-A concert ticket looks like a single purchase, but the money behind it is divided among many participants before an artist sees any profit. Every show operates as a temporary business that exists for only a few hours yet requires months of planning, contracts, staffing and financial risk. Promoters, venues, ticketing companies, security teams, production crews, transport providers and [rights]({{ 'rights/' | relative_url }}) organisations all take part in the economics of a live event. As a result, the headline ticket revenue often bears little resemblance to what eventually reaches the performer. Understanding that chain helps explain why sold-out shows do not automatically make artists wealthy and why live music remains a complex financial ecosystem rather than a simple exchange between fans and performers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span>
+A concert ticket looks like a single purchase, but the money behind it is divided among many participants before an artist sees any profit. Every show operates as a temporary business that exists for only a few hours yet requires months of planning, contracts, staffing and financial risk. Promoters, venues, ticketing companies, security teams, production crews, transport providers and [rights]({{ 'rights/' | relative_url }}) organisations all take part in the economics of a live event. As a result, the headline ticket revenue often bears little resemblance to what eventually reaches the performer. Understanding that chain helps explain why sold-out shows do not automatically make artists wealthy and why live music remains a complex financial ecosystem rather than a simple exchange between fans and performers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-1-dark.svg" | relative_url }}" alt="Ticket Split illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Live Show as a Temporary Business
 
 When a ticket is sold, it does not instantly become [artist income]({{ 'artist-income/' | relative_url }}). Instead, it enters a pool of gross revenue that must fund the entire event.
 
-A promoter typically takes on much of the commercial risk. They may guarantee an artist a minimum payment, rent the venue, fund advertising, hire production suppliers and cover staffing costs. If ticket sales disappoint, the promoter may lose money; if demand exceeds expectations, both promoter and artist may benefit depending on the deal structure. Industry booking agreements often allow promoters to recover defined costs before additional ticket revenue is shared with artists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tseentertainment.com">[TSE Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tseentertainment.com</span><span class="citation-popover-snippet">TSE EntertainmentWhat Event Promoters Need to Know About Artist Deal...Use a threshold deal when you need to protect a defined level of...</span></span></span>
+A promoter typically takes on much of the commercial risk. They may guarantee an artist a minimum payment, rent the venue, fund advertising, hire production suppliers and cover staffing costs. If ticket sales disappoint, the promoter may lose money; if demand exceeds expectations, both promoter and artist may benefit depending on the deal structure. Industry booking agreements often allow promoters to recover defined costs before additional ticket revenue is shared with artists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tseentertainment.com">[TSE Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tseentertainment.com</span><span class="citation-popover-snippet">TSE EntertainmentWhat Event Promoters Need to Know About Artist Deal...Use a threshold deal when you need to protect a defined level of...</span></span></span>
 
-The venue is another major participant. Whether it receives a rental fee, a percentage of ticket sales, or a combination of both, the building itself has operating costs that must be covered. These include maintenance, utilities, staffing, cleaning, accessibility services and event management. Some venues also require promoters to pay separately for security and operational staff. <span class="citation-chip-wrap"><a class="citation-chip" href="https://michelleswing.com/2026/03/13/the-hidden-costs-of-hosting-live-shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michelleswing.com">[Michelle Swing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michelleswing.com</span><span class="citation-popover-snippet">Michelle SwingThe Hidden Costs of Hosting Live Shows - Michelle Swing13 Mar 2026 — Most venues charge some combination of: Rental fees; T...</span></span></span>
+The venue is another major participant. Whether it receives a rental fee, a percentage of ticket sales, or a combination of both, the building itself has operating costs that must be covered. These include maintenance, utilities, staffing, cleaning, accessibility services and event management. Some venues also require promoters to pay separately for security and operational staff.<span class="citation-chip-wrap"><a class="citation-chip" href="https://michelleswing.com/2026/03/13/the-hidden-costs-of-hosting-live-shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michelleswing.com">[Michelle Swing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michelleswing.com</span><span class="citation-popover-snippet">Michelle SwingThe Hidden Costs of Hosting Live Shows - Michelle Swing13 Mar 2026 — Most venues charge some combination of: Rental fees; T...</span></span></span>
 
 This means that the first question in live music accounting is not "How much did the artist make?" but rather "What did the event cost to stage?"
 
@@ -287,22 +287,22 @@ This means that the first question in live music accounting is not "How much did
 
 Fans often focus on booking fees because they are visible at checkout. Yet ticketing charges are only one component of the overall split.
 
-Ticketing companies provide payment processing, fraud prevention, customer support, digital ticket delivery and [access]({{ 'access/' | relative_url }})-control technology. Ticket sellers generally do not determine the face value of tickets; event organisers, promoters, venues and artist representatives typically set pricing. Ticketing fees may be shared between ticketing providers and venues, while some venue facility charges go directly to the venue rather than the ticketing company. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[Ticketmaster Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[Ticketmaster Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span>
+Ticketing companies provide payment processing, fraud prevention, customer support, digital ticket delivery and [access]({{ 'access/' | relative_url }})-control technology. Ticket sellers generally do not determine the face value of tickets; event organisers, promoters, venues and artist representatives typically set pricing. Ticketing fees may be shared between ticketing providers and venues, while some venue facility charges go directly to the venue rather than the ticketing company.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[Ticketmaster Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[Ticketmaster Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span>
 
 In practice, a ticket may contain several layers:
 
-* Face-value ticket price. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.com/hc/en-us/articles/9663528775313-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.com">[help.ticketmaster.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.com</span><span class="citation-popover-title">9663528775313 How are ticket prices and fees determined</span><span class="citation-popover-snippet">The face value of a ticket—the base price before fees—is determined by the Event Organizer. They consider various factors such as...Read...</span></span></span>
-* Service or booking fee. * Venue facility fee or levy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[help.ticketmaster.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span> * Order processing fee. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Sneaky&#x27; fees add up to 25% to UK music ticket prices, says</span><span class="citation-popover-snippet">March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
+* Face-value ticket price.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.com/hc/en-us/articles/9663528775313-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.com">[help.ticketmaster.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.com</span><span class="citation-popover-title">9663528775313 How are ticket prices and fees determined</span><span class="citation-popover-snippet">The face value of a ticket—the base price before fees—is determined by the Event Organizer. They consider various factors such as...Read...</span></span></span>
+* Service or booking fee. * Venue facility fee or levy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[help.ticketmaster.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span> * Order processing fee.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Sneaky&#x27; fees add up to 25% to UK music ticket prices, says</span><span class="citation-popover-snippet">March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
 * Applicable taxes.
 
-The exact balance varies by country, venue and promoter agreement. Research into UK ticketing fees found examples where service, facility and processing charges added significantly to the advertised ticket price. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Sneaky&#x27; fees add up to 25% to UK music ticket prices, says</span><span class="citation-popover-snippet">March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
+The exact balance varies by country, venue and promoter agreement. Research into UK ticketing fees found examples where service, facility and processing charges added significantly to the advertised ticket price.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Sneaky&#x27; fees add up to 25% to UK music ticket prices, says</span><span class="citation-popover-snippet">March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-2-dark.svg" | relative_url }}" alt="Ticket Split illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Production Consumes More Revenue Than Many Fans Realise
 
 Large tours are expensive businesses. Modern [concerts]({{ 'concerts/' | relative_url }}) require [sound systems]({{ 'sound-systems/' | relative_url }}), lighting rigs, video screens, stage construction, trucking, buses, fuel, accommodation, insurance and specialised crews.
 
-Industry analyses show that venue rental alone can reach substantial sums for arena-scale events, while production spending has risen alongside audience expectations for increasingly elaborate shows. Promoters and artists must also pay local crews, stagehands, riggers, electricians and security personnel before calculating any profit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span>
+Industry analyses show that venue rental alone can reach substantial sums for arena-scale events, while production spending has risen alongside audience expectations for increasingly elaborate shows. Promoters and artists must also pay local crews, stagehands, riggers, electricians and security personnel before calculating any profit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span>
 
 Even after the venue and promoter are paid, artists frequently face their own internal expenses:
 
@@ -318,220 +318,220 @@ Even after the venue and promoter are paid, artists frequently face their own in
 
 </div>
 
-These costs come from the artist's share rather than disappearing elsewhere in the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span>
+These costs come from the artist's share rather than disappearing elsewhere in the system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-3-dark.svg" | relative_url }}" alt="Ticket Split illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Royalties and Regulatory Costs
 
 Ticket income can also support payments beyond the people physically present at the venue.
 
-Performance-rights organisations collect royalties for the public performance of songs. In the UK, organisations such as PRS for Music receive a percentage of event revenues to compensate songwriters and publishers. Similar systems exist internationally. Taxes, licensing requirements and insurance costs create additional deductions from gross ticket revenue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Sneaky&#x27; fees add up to 25% to UK music ticket prices, says</span><span class="citation-popover-snippet">March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
+Performance-rights organisations collect royalties for the public performance of songs. In the UK, organisations such as PRS for Music receive a percentage of event revenues to compensate songwriters and publishers. Similar systems exist internationally. Taxes, licensing requirements and insurance costs create additional deductions from gross ticket revenue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Sneaky&#x27; fees add up to 25% to UK music ticket prices, says</span><span class="citation-popover-snippet">March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</span><span class="citation-popover-meta">Published: March 19, 2024</span></span></span>
 
 ## Why Gross Sales Can Mislead Fans and Artists
 
 A common misconception is that a sold-out show means the artist has earned the full value of every ticket sold. In reality, gross revenue and artist profit are very different figures.
 
-Consider a simplified example. A venue sells £100,000 worth of tickets. Before the artist receives anything, deductions may include venue costs, ticketing fees, production expenses, marketing, staffing, royalties, taxes and promoter recovery of agreed expenses. Only after those obligations are met can the remaining amount be allocated according to the artist's contract. Depending on the arrangement, the performer may receive a guarantee, a percentage of net revenue, or a combination of both. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tseentertainment.com">[TSE Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tseentertainment.com</span><span class="citation-popover-snippet">TSE EntertainmentWhat Event Promoters Need to Know About Artist Deal...Use a threshold deal when you need to protect a defined level of...</span></span></span>
+Consider a simplified example. A venue sells £100,000 worth of tickets. Before the artist receives anything, deductions may include venue costs, ticketing fees, production expenses, marketing, staffing, royalties, taxes and promoter recovery of agreed expenses. Only after those obligations are met can the remaining amount be allocated according to the artist's contract. Depending on the arrangement, the performer may receive a guarantee, a percentage of net revenue, or a combination of both.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tseentertainment.com">[TSE Entertainment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tseentertainment.com</span><span class="citation-popover-snippet">TSE EntertainmentWhat Event Promoters Need to Know About Artist Deal...Use a threshold deal when you need to protect a defined level of...</span></span></span>
 
-This distinction explains why industry debates often focus on "gross" versus "net" figures. A headline announcing millions in ticket sales describes money entering the event, not money retained by the artist. Analysts and managers therefore pay close [attention]({{ 'attention/' | relative_url }}) to margins rather than ticket revenue alone. Even successful tours can produce surprisingly modest profits once expenses are settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/randynicholsny_have-you-ever-wondered-how-much-of-the-ticket-activity-7266903577917329408-6FPj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Randy Nichols&#x27; PostEasy to miss that the artist takes 40% of gross revenues in this model. Venues, ticketing agents, promoters, a...</span></span></span>
+This distinction explains why industry debates often focus on "gross" versus "net" figures. A headline announcing millions in ticket sales describes money entering the event, not money retained by the artist. Analysts and managers therefore pay close [attention]({{ 'attention/' | relative_url }}) to margins rather than ticket revenue alone. Even successful tours can produce surprisingly modest profits once expenses are settled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/randynicholsny_have-you-ever-wondered-how-much-of-the-ticket-activity-7266903577917329408-6FPj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Randy Nichols&#x27; PostEasy to miss that the artist takes 40% of gross revenues in this model. Venues, ticketing agents, promoters, a...</span></span></span>
 
-The issue becomes more visible during periods of rising costs. Recent reporting has highlighted growing production budgets, inflationary pressures and higher operating expenses across the live sector. As these costs increase, a larger share of ticket revenue is consumed before performers receive their final settlement. Pollstar News <span class="citation-chip-wrap"><a class="citation-chip" href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-snippet">For example, while Oasis tickets at Wembley in 2009 cost £44, similar tickets in 2025 are priced at £151. Taylor Swift&#x27;s UK tour has an a...</span></span></span>
+The issue becomes more visible during periods of rising costs. Recent reporting has highlighted growing production budgets, inflationary pressures and higher operating expenses across the live sector. As these costs increase, a larger share of ticket revenue is consumed before performers receive their final settlement. Pollstar News<span class="citation-chip-wrap"><a class="citation-chip" href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-snippet">For example, while Oasis tickets at Wembley in 2009 cost £44, similar tickets in 2025 are priced at £151. Taylor Swift&#x27;s UK tour has an a...</span></span></span>
 
 ## The Key Takeaway Behind the Ticket Split
 
 The money from a concert ticket supports far more than the artist on stage. It funds a temporary enterprise involving promoters, venues, ticketing systems, production suppliers, crews, rights organisations and many specialised workers. Only after those participants are paid and costs are recovered does artist profit emerge.
 
-That complexity helps explain both the economic importance of live music and the persistent misunderstanding surrounding ticket prices. A sold-out concert may generate impressive gross revenue, but the path from ticket purchase to artist income is long, layered and shared across an entire live-event economy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[Ticketmaster Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span>
+That complexity helps explain both the economic importance of live music and the persistent misunderstanding surrounding ticket prices. A sold-out concert may generate impressive gross revenue, but the path from ticket purchase to artist income is long, layered and shared across an entire live-event economy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prism.fm">[Prism.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prism.fm</span><span class="citation-popover-snippet">Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.ticketmaster.ie">[Ticketmaster Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.ticketmaster.ie</span><span class="citation-popover-snippet">Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Your Ticket Money Really Goes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Your Ticket Money Really Goes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains where ticket revenue goes and how deals are structured.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains where ticket revenue goes and how deals are structured.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Steve Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eWd2EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Music Business">The Future of the Music Business</a>
+</h4>
+<p class="fr-book-author">By Steve Gordon</p>
         
-        <p class="fr-book-desc">Covers contracts, costs and revenue sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers contracts, costs and revenue sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business+by+Steve+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor"><img src="https://i.ebayimg.com/images/g/d-sAAeSwcIBp8HIp/s-l225.jpg" alt="Listing image for Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Poster Retro Sci-Fi 1970s Alien Spaceship Wall Art Mid-Century Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster"><img src="https://i.ebayimg.com/images/g/VgkAAOSwAqlnR5iQ/s-l225.jpg" alt="Listing image for Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO FLOWERS Wall Art, Retro Sci-Fi Botanical Decor, Alien Nature Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-your-ticket-money-really-goes-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="where-your-ticket-money-really-goes-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ That complexity helps explain both the economic importance of live music and the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ That complexity helps explain both the economic importance of live music and the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ That complexity helps explain both the economic importance of live music and the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ That complexity helps explain both the economic importance of live music and the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ That complexity helps explain both the economic importance of live music and the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,213 +737,213 @@ That complexity helps explain both the economic importance of live music and the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: prism.fm  
-   Link: <a href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow">https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</p></details>
+   Link:<a href="https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/" target="_blank" rel="noopener noreferrer nofollow">https://prism.fm/blog/insights/concert-cost-breakdown-where-promoters-are-spending/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Cost Breakdown: Where Promoters Are SpendingArtists typically net only $8 profit from a $100 ticket after covering all touring ex...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: help.ticketmaster.ie  
-   Link: <a href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</p></details>
+   Link:<a href="https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.ie/hc/en-ie/articles/360012133593-How-are-ticket-prices-and-fees-determined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ticketmaster does not keep this fee. It goes directly to the venue to help pay...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: business.ticketmaster.com  
    Title: the truth about ticket prices in canada  
-   Link: <a href="https://business.ticketmaster.com/the-truth-about-ticket-prices-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://business.ticketmaster.com/the-truth-about-ticket-prices-in-canada/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ticketmaster BusinessThe truth about ticket prices in canadaMar 4, 2024 — Ticketmaster does not set service charges, venues do, and most...</p></details>
+   Link:<a href="https://business.ticketmaster.com/the-truth-about-ticket-prices-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://business.ticketmaster.com/the-truth-about-ticket-prices-in-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ticketmaster BusinessThe truth about ticket prices in canadaMar 4, 2024 — Ticketmaster does not set service charges, venues do, and most...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/randynicholsny_have-you-ever-wondered-how-much-of-the-ticket-activity-7266903577917329408-6FPj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/randynicholsny_have-you-ever-wondered-how-much-of-the-ticket-activity-7266903577917329408-6FPj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Randy Nichols&#x27; PostEasy to miss that the artist takes 40% of gross revenues in this model. Venues, ticketing agents, promoters, a...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/randynicholsny_have-you-ever-wondered-how-much-of-the-ticket-activity-7266903577917329408-6FPj" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/randynicholsny_have-you-ever-wondered-how-much-of-the-ticket-activity-7266903577917329408-6FPj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Randy Nichols&#x27; PostEasy to miss that the artist takes 40% of gross revenues in this model. Venues, ticketing agents, promoters, a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.pollstar.com  
    Title: you know it aint easy the mixed bag of independent live businesses  
-   Link: <a href="https://news.pollstar.com/2025/12/15/you-know-it-aint-easy-the-mixed-bag-of-independent-live-businesses/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/15/you-know-it-aint-easy-the-mixed-bag-of-independent-live-businesses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsYou Know It Ain&#x27;t Easy: The Mixed Bag Of Independent...Dec 15, 2025 — Expenses, according to the report, have steadily clim...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/12/15/you-know-it-aint-easy-the-mixed-bag-of-independent-live-businesses/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/15/you-know-it-aint-easy-the-mixed-bag-of-independent-live-businesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pollstar NewsYou Know It Ain&#x27;t Easy: The Mixed Bag Of Independent...Dec 15, 2025 — Expenses, according to the report, have steadily clim...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.pollstar.com  
    Title: Also, the average number  
-   Link: <a href="https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Year End Business Analysis—A Return To...23 Dec 2025 — The average gross at stadium shows jumped to $7.11 million per concert this...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Year End Business Analysis—A Return To...23 Dec 2025 — The average gross at stadium shows jumped to $7.11 million per concert this...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pollstar.com  
-   Link: <a href="https://www.pollstar.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For over 40 years, Pollstar has provided the most up-to-date, relevant, and useful data available for the global concert industry...</p></details>
+   Link:<a href="https://www.pollstar.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For over 40 years, Pollstar has provided the most up-to-date, relevant, and useful data available for the global concert industry...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: static.pollstar.com  
    Title: The Wrap Special Reporti  
-   Link: <a href="https://static.pollstar.com/wp-content/uploads/2025/10/PollstarTheWrapSpecialReporti.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.pollstar.com/wp-content/uploads/2025/10/PollstarTheWrapSpecialReporti.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025In terms of gross Hard Rock Live Hollywood far outpaces any other club venue with $51.6 million haul. Clubs. RANK. TICKETS. CLUB. LOC...</p></details>
+   Link:<a href="https://static.pollstar.com/wp-content/uploads/2025/10/PollstarTheWrapSpecialReporti.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.pollstar.com/wp-content/uploads/2025/10/PollstarTheWrapSpecialReporti.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025In terms of gross Hard Rock Live Hollywood far outpaces any other club venue with $51.6 million haul. Clubs. RANK. TICKETS. CLUB. LOC...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.pollstar.com  
-   Link: <a href="https://news.pollstar.com/2026/04/30/why-concert-ticket-prices-wont-drop-if-live-nation-and-ticketmaster-are-split-up/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2026/04/30/why-concert-ticket-prices-wont-drop-if-live-nation-and-ticketmaster-are-split-up/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Ticket Prices Won&#x27;t Drop If [Live Nation](&amp;#123;&amp;#123; &#x27;live-nation/&#x27; | relative_url &amp;#125;&amp;#125;) and...Apr 30, 2026 — Why Concert Ticket Prices Won&#x27;t Drop If Live Nation and Ticketmaste...</p></details>
+   Link:<a href="https://news.pollstar.com/2026/04/30/why-concert-ticket-prices-wont-drop-if-live-nation-and-ticketmaster-are-split-up/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2026/04/30/why-concert-ticket-prices-wont-drop-if-live-nation-and-ticketmaster-are-split-up/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Ticket Prices Won&#x27;t Drop If [Live Nation](&amp;#123;&amp;#123; &#x27;live-nation/&#x27; | relative_url &amp;#125;&amp;#125;) and...Apr 30, 2026 — Why Concert Ticket Prices Won&#x27;t Drop If Live Nation and Ticketmaste...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.pollstar.com  
    Title: a helluva year end talking top tours small venues  
-   Link: <a href="https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helluva Year End: Talking Top Tours &amp; Small Venues14 Dec 2025 — The total gross of the Top 100 Tours worldwide is $8.9 billion and 67 mil...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/12/14/a-helluva-year-end-talking-top-tours-small-venues/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helluva Year End: Talking Top Tours &amp; Small Venues14 Dec 2025 — The total gross of the Top 100 Tours worldwide is $8.9 billion and 67 mil...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pollstar.com  
-   Link: <a href="https://www.pollstar.com/data" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DataGross. 77.5%. Percentage Sold. Learn more. Global Live Boxoffice. Global Live... Use the Venue Availability Tool to find open venues...</p></details>
+   Link:<a href="https://www.pollstar.com/data" target="_blank" rel="noopener noreferrer nofollow">https://www.pollstar.com/data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DataGross. 77.5%. Percentage Sold. Learn more. Global Live Boxoffice. Global Live... Use the Venue Availability Tool to find open venues...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pages.pollstar.com  
    Title: box office reporting policy  
-   Link: <a href="https://pages.pollstar.com/box-office-reporting-policy" target="_blank" rel="noopener noreferrer nofollow">https://pages.pollstar.com/box-office-reporting-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office Reporting PolicyGross should be the total monies received from ticket sales. Do not include taxes, outlet, or venue fees in total...</p></details>
+   Link:<a href="https://pages.pollstar.com/box-office-reporting-policy" target="_blank" rel="noopener noreferrer nofollow">https://pages.pollstar.com/box-office-reporting-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office Reporting PolicyGross should be the total monies received from ticket sales. Do not include taxes, outlet, or venue fees in total...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pollstar.com  
-   Link: <a href="https://pollstar.com/charts" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/charts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChartsThe Global Concert Pulse ranks artists by reported average boxoffice gross over last three months.... Worldwide ticket sales chart...</p></details>
+   Link:<a href="https://pollstar.com/charts" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.com/charts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChartsThe Global Concert Pulse ranks artists by reported average boxoffice gross over last three months.... Worldwide ticket sales chart...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.pollstar.com  
    Title: q1 analysis data points to another mixed year following post pandemic golden age  
-   Link: <a href="https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comQ1 Analysis: Attendance Up, Ticket Prices and Grosses...18 Mar 2025 — Likewise, the average gross per show also reflects a y...</p></details>
+   Link:<a href="https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/" target="_blank" rel="noopener noreferrer nofollow">https://news.pollstar.com/2025/03/18/q1-analysis-data-points-to-another-mixed-year-following-post-pandemic-golden-age/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pollstar.comQ1 Analysis: Attendance Up, Ticket Prices and Grosses...18 Mar 2025 — Likewise, the average gross per show also reflects a y...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: help.ticketmaster.com  
    Title: 9663528775313 How are ticket prices and fees determined  
-   Link: <a href="https://help.ticketmaster.com/hc/en-us/articles/9663528775313-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.com/hc/en-us/articles/9663528775313-How-are-ticket-prices-and-fees-determined</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The face value of a ticket—the base price before fees—is determined by the Event Organizer. They consider various factors such as...Read...</p></details>
+   Link:<a href="https://help.ticketmaster.com/hc/en-us/articles/9663528775313-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.com/hc/en-us/articles/9663528775313-How-are-ticket-prices-and-fees-determined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The face value of a ticket—the base price before fees—is determined by the Event Organizer. They consider various factors such as...Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blog.ticketmaster.com  
    Title: the truth about ticket prices  
-   Link: <a href="https://blog.ticketmaster.com/the-truth-about-ticket-prices/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ticketmaster.com/the-truth-about-ticket-prices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth About Ticket PricesFeb 29, 2024 — In fact, the venue normally gets around two-thirds of the service charge and in many cases a faci...</p></details>
+   Link:<a href="https://blog.ticketmaster.com/the-truth-about-ticket-prices/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ticketmaster.com/the-truth-about-ticket-prices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truth About Ticket PricesFeb 29, 2024 — In fact, the venue normally gets around two-thirds of the service charge and in many cases a faci...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pollstar.live  
-   Link: <a href="https://pollstar.live/" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.live/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>! 2026Pollstar Live! is the world&#x27;s largest gathering of live entertainment professionals and the flagship event for Pollstar magazine...</p></details>
+   Link:<a href="https://pollstar.live/" target="_blank" rel="noopener noreferrer nofollow">https://pollstar.live/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>! 2026Pollstar Live! is the world&#x27;s largest gathering of live entertainment professionals and the flagship event for Pollstar magazine...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ticket-profit-financial-anatomy-concert-shows-abhishek-tiwari-0t9vf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ticket-profit-financial-anatomy-concert-shows-abhishek-tiwari-0t9vf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ticket to Profit: The Financial Anatomy of Concert ShowsThe total expenses incurred in organizing a concert can account for 65-75% of the...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ticket-profit-financial-anatomy-concert-shows-abhishek-tiwari-0t9vf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ticket-profit-financial-anatomy-concert-shows-abhishek-tiwari-0t9vf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ticket to Profit: The Financial Anatomy of Concert ShowsThe total expenses incurred in organizing a concert can account for 65-75% of the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/anupam-palit-3127515_live-nation-illegally-monopolized-concerts-activity-7450264971726331904-nIN2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/anupam-palit-3127515_live-nation-illegally-monopolized-concerts-activity-7450264971726331904-nIN2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ticketmaster fees charged to artists not just ticket buyersTicketmaster was found to overcharge customers for tickets in the USA. Live Na...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/anupam-palit-3127515_live-nation-illegally-monopolized-concerts-activity-7450264971726331904-nIN2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/anupam-palit-3127515_live-nation-illegally-monopolized-concerts-activity-7450264971726331904-nIN2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ticketmaster fees charged to artists not just ticket buyersTicketmaster was found to overcharge customers for tickets in the USA. Live Na...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: help.ticketmaster.co.uk  
-   Link: <a href="https://help.ticketmaster.co.uk/hc/en-us/articles/360006434654-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.co.uk/hc/en-us/articles/360006434654-How-are-ticket-prices-and-fees-determined</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clients also decide when to share prices. For popular sales, we&#x27;ll display price ranges from the moment you join the queue.Read more...</p></details>
+   Link:<a href="https://help.ticketmaster.co.uk/hc/en-us/articles/360006434654-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.co.uk/hc/en-us/articles/360006434654-How-are-ticket-prices-and-fees-determined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clients also decide when to share prices. For popular sales, we&#x27;ll display price ranges from the moment you join the queue.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tseentertainment.com  
-   Link: <a href="https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/" target="_blank" rel="noopener noreferrer nofollow">https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/</a>  
+   Link:<a href="https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/" target="_blank" rel="noopener noreferrer nofollow">https://tseentertainment.com/what-event-promoters-need-to-know-about-artist-deal-structures-when-booking-entertainment/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: michelleswing.com  
-   Link: <a href="https://michelleswing.com/2026/03/13/the-hidden-costs-of-hosting-live-shows/" target="_blank" rel="noopener noreferrer nofollow">https://michelleswing.com/2026/03/13/the-hidden-costs-of-hosting-live-shows/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michelle SwingThe Hidden Costs of Hosting Live Shows - Michelle Swing13 Mar 2026 — Most venues charge some combination of: Rental fees; T...</p></details>
+   Link:<a href="https://michelleswing.com/2026/03/13/the-hidden-costs-of-hosting-live-shows/" target="_blank" rel="noopener noreferrer nofollow">https://michelleswing.com/2026/03/13/the-hidden-costs-of-hosting-live-shows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michelle SwingThe Hidden Costs of Hosting Live Shows - Michelle Swing13 Mar 2026 — Most venues charge some combination of: Rental fees; T...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: The Guardian'Sneaky' fees add up to 25% to UK music ticket prices, says  
-   Link: <a href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</p></details>
+   Link:<a href="https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/2024/mar/19/fees-uk-music-ticket-prices-which-ticketing-sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2024 — 18 Mar 2024 — Ticketmaster charged a £6.10 service charge, a £1.75 facility charge and a £2.75 order processing fee, whi...</p></details>
    Published: March 19, 2024  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theweek.com  
-   Link: <a href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/[culture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, while Oasis tickets at Wembley in 2009 cost £44, similar tickets in 2025 are priced at £151. Taylor Swift&#x27;s UK tour has an a...</p></details>
+   Link:<a href="https://theweek.com/[culture" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/[culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, while Oasis tickets at Wembley in 2009 cost £44, similar tickets in 2025 are priced at £151. Taylor Swift&#x27;s UK tour has an a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: where does concert ticket money go  
-   Link: <a href="https://www.theguardian.com/music/2017/jan/30/where-does-concert-ticket-money-go" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2017/jan/30/where-does-concert-ticket-money-go</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWhere concert ticket money goes: who&#x27;s getting rich off live...30 Jan 2017 — The rate will depend on the venue size, but Asc...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2017/jan/30/where-does-concert-ticket-money-go" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2017/jan/30/where-does-concert-ticket-money-go</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWhere concert ticket money goes: who&#x27;s getting rich off live...30 Jan 2017 — The rate will depend on the venue size, but Asc...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pollstar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pollstar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PollstarPollstar is a trade publication for the concert and live music industry. [1] The publication was purchased by Oak View Group...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pollstar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pollstar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PollstarPollstar is a trade publication for the concert and live music industry. [1] The publication was purchased by Oak View Group...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ticketmaster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ticketmaster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TicketmasterTicketmaster&#x27;s clients include venues, artists and promoters. Clients control their events and set ticket prices, and Tick...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ticketmaster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ticketmaster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TicketmasterTicketmaster&#x27;s clients include venues, artists and promoters. Clients control their events and set ticket prices, and Tick...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/pollstar/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pollstar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles CAPollstar, Los Angeles. 25819 likes · 20 talking about this · 300 were here. Pollstar - The Voice of Live Entertainment http...</p></details>
+   Link:<a href="https://www.facebook.com/pollstar/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pollstar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles CAPollstar, Los Angeles. 25819 likes · 20 talking about this · 300 were here. Pollstar - The Voice of Live Entertainment http...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1335258/000133525821000009/R19.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1335258/000133525821000009/R19.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Months EndedTicket fee revenue is generated from convenience and order processing fees, or service charges, charged at the time a tick...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1335258/000133525821000009/R19.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1335258/000133525821000009/R19.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Months EndedTicket fee revenue is generated from convenience and order processing fees, or service charges, charged at the time a tick...</p></details>
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: personal.utdallas.edu  
-   Link: <a href="https://personal.utdallas.edu/~liebowit/concert_revenues.htm" target="_blank" rel="noopener noreferrer nofollow">https://personal.utdallas.edu/~liebowit/concert_revenues.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the real money is in the touring whereas sound...According to Passman&#x27;s All You Need to know about the Music Business, artists tend to g...</p></details>
+   Link:<a href="https://personal.utdallas.edu/~liebowit/concert_revenues.htm" target="_blank" rel="noopener noreferrer nofollow">https://personal.utdallas.edu/~liebowit/concert_revenues.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the real money is in the touring whereas sound...According to Passman&#x27;s All You Need to know about the Music Business, artists tend to g...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/ticket-prices-expensive-cheap-beyonce-taylor-swift-ticketmaster-stubhub-seatgeek-2025-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/ticket-prices-expensive-cheap-beyonce-taylor-swift-ticketmaster-stubhub-seatgeek-2025-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2024, the average price for top tour tickets was $135.92, a steep increase from $96.17 in 2019 and $25.81 in 1996. The rise is driven...</p></details>
+   Link:<a href="https://www.businessinsider.com/ticket-prices-expensive-cheap-beyonce-taylor-swift-ticketmaster-stubhub-seatgeek" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/ticket-prices-expensive-cheap-beyonce-taylor-swift-ticketmaster-stubhub-seatgeek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2024, the average price for top tour tickets was $135.92, a steep increase from $96.17 in 2019 and $25.81 in 1996. The rise is driven...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/JeffArcuri/comments/1ba2rgr/how_ticketmaster_actually_works/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JeffArcuri/comments/1ba2rgr/how_ticketmaster_actually_works/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Ticketmaster actually works.: r/JeffArcuriTicket prices are set by promoters and artist representatives / booking agents / etc. Not...</p></details>
+   Link:<a href="https://www.reddit.com/r/JeffArcuri/comments/1ba2rgr/how_ticketmaster_actually_works/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JeffArcuri/comments/1ba2rgr/how_ticketmaster_actually_works/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Ticketmaster actually works.: r/JeffArcuriTicket prices are set by promoters and artist representatives / booking agents / etc. Not...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: help.ticketmaster.com.mx  
-   Link: <a href="https://help.ticketmaster.com.mx/hc/en-us/articles/6485875988497-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.com.mx/hc/en-us/articles/6485875988497-How-are-ticket-prices-and-fees-determined</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are ticket prices and fees determined?Depending on the volume sold by venues, promoters and sports teams, Ticketmaster may share part of...</p></details>
+   Link:<a href="https://help.ticketmaster.com.mx/hc/en-us/articles/6485875988497-How-are-ticket-prices-and-fees-determined" target="_blank" rel="noopener noreferrer nofollow">https://help.ticketmaster.com.mx/hc/en-us/articles/6485875988497-How-are-ticket-prices-and-fees-determined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are ticket prices and fees determined?Depending on the volume sold by venues, promoters and sports teams, Ticketmaster may share part of...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ajournalofmusicalthings.com  
-   Link: <a href="https://www.ajournalofmusicalthings.com/this-is-the-best-explanation-of-concert-ticket-prices-ive-ever-read/" target="_blank" rel="noopener noreferrer nofollow">https://www.ajournalofmusicalthings.com/this-is-the-best-explanation-of-concert-ticket-prices-ive-ever-read/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The promoters do NOT set prices. Things like service charges and facility fees and NOT “junk fees.”Read more...</p></details>
+   Link:<a href="https://www.ajournalofmusicalthings.com/this-is-the-best-explanation-of-concert-ticket-prices-ive-ever-read/" target="_blank" rel="noopener noreferrer nofollow">https://www.ajournalofmusicalthings.com/this-is-the-best-explanation-of-concert-ticket-prices-ive-ever-read/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The promoters do NOT set prices. Things like service charges and facility fees and NOT “junk fees.”Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Music/comments/1h5mvs6/trade_group_artists_make_8_in_profit_from_a_100/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1h5mvs6/trade_group_artists_make_8_in_profit_from_a_100/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artists Make $8 in Profit From a $100 Concert Ticket: r/MusicThe profit an artist takes home jumps from 8 to 10% of the (lower) ticket p...</p></details>
+   Link:<a href="https://www.reddit.com/r/Music/comments/1h5mvs6/trade_group_artists_make_8_in_profit_from_a_100/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Music/comments/1h5mvs6/trade_group_artists_make_8_in_profit_from_a_100/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artists Make $8 in Profit From a $100 Concert Ticket: r/MusicThe profit an artist takes home jumps from 8 to 10% of the (lower) ticket p...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ticketmaster.co.uk  
    Title: Tickets for concerts, theatre, football, family days out  
-   Link: <a href="https://www.ticketmaster.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ticketmaster.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official...Ticketmaster: All your entertainment needs under one virtual roof with tickets for theatre, concerts, sport, family events, c...</p></details>
+   Link:<a href="https://www.ticketmaster.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ticketmaster.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official...Ticketmaster: All your entertainment needs under one virtual roof with tickets for theatre, concerts, sport, family events, c...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
    Title: (PDF) The Revenue Gains from Multi-Tier Ticket Pricing  
-   Link: <a href="https://www.researchgate.net/publication/262084917_The_Revenue_Gains_from_Multi-Tier_Ticket_Pricing_Evidence_from_Pop_Music_Concerts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262084917_The_Revenue_Gains_from_Multi-Tier_Ticket_Pricing_Evidence_from_Pop_Music_Concerts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gross. ticket sales over a recent 36-month period (approxi-. mately 2007–2009) for this artist were about $13.5m. Presuming that the perc...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/262084917_The_Revenue_Gains_from_Multi-Tier_Ticket_Pricing_Evidence_from_Pop_Music_Concerts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262084917_The_Revenue_Gains_from_Multi-Tier_Ticket_Pricing_Evidence_from_Pop_Music_Concerts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gross. ticket sales over a recent 36-month period (approxi-. mately 2007–2009) for this artist were about $13.5m. Presuming that the perc...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: crowell.com  
-   Link: <a href="https://www.crowell.com/en/insights/client-alerts/after-the-verdict-navigating-the-live-nationticketmaster-antitrust-fallout" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/after-the-verdict-navigating-the-live-nationticketmaster-antitrust-fallout</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted by Live Nation as open venues, with up to 50% of tickets distributable by...</p></details>
+   Link:<a href="https://www.crowell.com/en/insights/client-alerts/after-the-verdict-navigating-the-live-nationticketmaster-antitrust-fallout" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/after-the-verdict-navigating-the-live-nationticketmaster-antitrust-fallout</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ted by Live Nation as open venues, with up to 50% of tickets distributable by...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: 443socialclub.com  
    Title: economics of live music in small venue revisited  
-   Link: <a href="https://443socialclub.com/economics-of-live-music-in-small-venue-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://443socialclub.com/economics-of-live-music-in-small-venue-revisited/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of Live Music in a Small Venue: Revisited16 Sept 2019 — A $250 solo or duo requires the sale about $370 worth of drinks (as...</p></details>
+   Link:<a href="https://443socialclub.com/economics-of-live-music-in-small-venue-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://443socialclub.com/economics-of-live-music-in-small-venue-revisited/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of Live Music in a Small Venue: Revisited16 Sept 2019 — A $250 solo or duo requires the sale about $370 worth of drinks (as...</p></details>

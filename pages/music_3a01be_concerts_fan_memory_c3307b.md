@@ -504,13 +504,13 @@ image: /assets/images/music_3a01be_concerts_fan_memory_c3307b-overview-social.jp
 Concerts create fan memory because they make music happen as a risky, shared event rather than a clean repeat of a [recording]({{ 'recording/' | relative_url }}). A song on a stream can be replayed thousands of times; a concert gives the same song a date, a seat, a crowd, a weather system, a journey, a costume, a scream, a mistake, a [surprise]({{ 'surprise/' | relative_url }}) and a story. That is why fans often remember not only what was played, but who they went with, what the room felt like, what the artist changed, what the audience did together, and what could never happen in quite the same way again.
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-overview.webp" | relative_url }}" alt="Overview image for Concerts" loading="eager" decoding="sync" fetchpriority="high">
-The best evidence points to three overlapping forces: bodily presence, social synchrony and the status of the live moment as unrepeatable. Studies of concert audiences have found synchrony in movement and physiology, while recent work on live music and “collective effervescence” links shared concert intensity with meaning, enjoyment and happiness that can last beyond the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</span></span></span>
+The best evidence points to three overlapping forces: bodily presence, social synchrony and the status of the live moment as unrepeatable. Studies of concert audiences have found synchrony in movement and physiology, while recent work on live music and “collective effervescence” links shared concert intensity with meaning, enjoyment and happiness that can last beyond the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</span></span></span>
 
 ## Presence, risk and performance
 
 A concert begins before the first note because the audience knows that something could go differently. The singer may change a lyric, lose their voice, speak directly to the crowd, bring out a guest, extend a solo, restart a song, react to a sign or miss a cue. That uncertainty is not a flaw in live music; it is part of its value. Fans are not only consuming songs. They are watching people attempt them in real time.
 
-Research comparing live and mediated performance supports what many concertgoers already feel: [physical]({{ 'physical/' | relative_url }}) co-presence changes emotional engagement. A 2025 study comparing a live performance with the same performance shown as a recording in the same theatre found stronger subjective and physiological emotional responses in the live condition, suggesting that performer-audience interaction matters even when the musical material is controlled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span> University of Zurich reporting on related neuroscience research similarly emphasised that live music can trigger stronger emotional responses than streamed music because performers and listeners respond to one another in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uzh.ch">[UZH News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uzh.ch</span><span class="citation-popover-title">News Live Musik</span><span class="citation-popover-snippet">UZH NewsLive Musik - UZH News - Universität Zürich27 Feb 2024 — A study carried out at the University of Zurich has found that live perfo...</span></span></span>
+Research comparing live and mediated performance supports what many concertgoers already feel: [physical]({{ 'physical/' | relative_url }}) co-presence changes emotional engagement. A 2025 study comparing a live performance with the same performance shown as a recording in the same theatre found stronger subjective and physiological emotional responses in the live condition, suggesting that performer-audience interaction matters even when the musical material is controlled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span> University of Zurich reporting on related neuroscience research similarly emphasised that live music can trigger stronger emotional responses than streamed music because performers and listeners respond to one another in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uzh.ch">[UZH News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uzh.ch</span><span class="citation-popover-title">News Live Musik</span><span class="citation-popover-snippet">UZH NewsLive Musik - UZH News - Universität Zürich27 Feb 2024 — A study carried out at the University of Zurich has found that live perfo...</span></span></span>
 
 That live risk gives [memory]({{ 'memory/' | relative_url }}) a sharper edge. A studio recording is designed to become stable: the same chorus, the same vocal take, the same mix. A concert version may be technically less perfect but more narratively powerful because it contains visible effort. Fans remember the breath before a difficult note, the grin after a mistake, the pause when the crowd sings back louder than expected. These are not detachable extras around the song; they are the cues that tell the brain and the fan community, “I was there for that version.”
 
@@ -520,28 +520,28 @@ This is also why concert memory often privileges moments that would look small o
 
 Music can feel intensely private through headphones, but concerts make fandom visible. The room shows a listener that their attachment is not solitary. Thousands of people know the same bridge, anticipate the same beat drop, cry at the same lyric or laugh at the same in-joke. That visibility helps convert personal feeling into shared memory.
 
-A major recent study of live music and collective effervescence examined four studies with 789 participants and found that the feeling of sacredness and connection in a crowd was strongly related to enjoyment, meaning during the event and happiness a week later. The researchers also found that collective effervescence helped explain why factors such as a bond with the artist, immersion in [lyrics]({{ 'lyrics/' | relative_url }}) and attending with friends could lead to positive lasting outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
+A major recent study of live music and collective effervescence examined four studies with 789 participants and found that the feeling of sacredness and connection in a crowd was strongly related to enjoyment, meaning during the event and happiness a week later. The researchers also found that collective effervescence helped explain why factors such as a bond with the artist, immersion in [lyrics]({{ 'lyrics/' | relative_url }}) and attending with friends could lead to positive lasting outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</span><span class="citation-popover-meta">Published: August 1, 2025</span></span></span>
 
 This matters because fan memory is not just a record of sound. It is a record of belonging. The audience member remembers the concert partly as proof that a private relationship with songs was shared by other bodies in the same space. In popular music especially, this can be as important as musicianship. A crowd singing a chorus badly but together may produce a stronger fan memory than a flawless performance received in silence.
 
-The same mechanism appears in more bodily research. A Scientific Reports study of live classical concerts found evidence of audience synchrony in heart rate, respiration rate, skin conductance response and movement. The point is not that every person becomes identical, but that live audiences can become temporarily coordinated through [attention]({{ 'attention/' | relative_url }}), emotion and bodily response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> For fan memory, that synchrony becomes a feeling: the sense that the room moved, shouted, held its breath or erupted as one.
+The same mechanism appears in more bodily research. A Scientific Reports study of live classical concerts found evidence of audience synchrony in heart rate, respiration rate, skin conductance response and movement. The point is not that every person becomes identical, but that live audiences can become temporarily coordinated through [attention]({{ 'attention/' | relative_url }}), emotion and bodily response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> For fan memory, that synchrony becomes a feeling: the sense that the room moved, shouted, held its breath or erupted as one.
 
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-dark.svg" | relative_url }}" alt="Concerts illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fandom is performed, not just felt
 
 Concerts also create memory because they let fans perform fandom in front of one another. Clothes, chants, handmade objects, queue rituals, signs, light sticks, dance challenges and call-and-response moments turn spectators into participants. They make fandom legible.
 
-Taylor Swift’s Eras Tour offers a clear recent example. Friendship bracelets became a fan-made concert ritual, usually made from beads and spelling out lyrics, song titles or inside jokes, then swapped between strangers before and during shows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What&#x27;s behind the Taylor Swift friendship bracelets trend?</span><span class="citation-popover-snippet">The Guardian What&#x27;s behind the Taylor Swift friendship bracelets trend?</span></span></span> The practice matters because it turns a ticketed event into a network of small exchanges. A fan may remember not only the acoustic surprise song, but the bracelet traded with someone in a queue, the outfit planned for months, or the moment a stranger recognised a lyric acronym.
+Taylor Swift’s Eras Tour offers a clear recent example. Friendship bracelets became a fan-made concert ritual, usually made from beads and spelling out lyrics, song titles or inside jokes, then swapped between strangers before and during shows.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian What&#x27;s behind the Taylor Swift friendship bracelets trend?</span><span class="citation-popover-snippet">The Guardian What&#x27;s behind the Taylor Swift friendship bracelets trend?</span></span></span> The practice matters because it turns a ticketed event into a network of small exchanges. A fan may remember not only the acoustic surprise song, but the bracelet traded with someone in a queue, the outfit planned for months, or the moment a stranger recognised a lyric acronym.
 
-Beyoncé’s Renaissance World Tour created a different kind of shared memory through visual and behavioural assignments. In 2023, she asked fans attending the final stretch of the tour to wear silver, turning arenas into a “human disco ball” effect around the performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The tour also generated the “mute challenge”, in which audiences attempted to go silent at a particular lyric in “Energy”; the success or failure of a city’s crowd became part of the tour’s online afterlife. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themarysue.com">[The Mary Sue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themarysue.com</span><span class="citation-popover-title">The Mary Sue I Swear To Everything if You Interrupt the Mute Challenge</span><span class="citation-popover-snippet">The Mary Sue I Swear To Everything if You Interrupt the Mute Challenge</span></span></span>
+Beyoncé’s Renaissance World Tour created a different kind of shared memory through visual and behavioural assignments. In 2023, she asked fans attending the final stretch of the tour to wear silver, turning arenas into a “human disco ball” effect around the performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The tour also generated the “mute challenge”, in which audiences attempted to go silent at a particular lyric in “Energy”; the success or failure of a city’s crowd became part of the tour’s online afterlife.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themarysue.com">[The Mary Sue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themarysue.com</span><span class="citation-popover-title">The Mary Sue I Swear To Everything if You Interrupt the Mute Challenge</span><span class="citation-popover-snippet">The Mary Sue I Swear To Everything if You Interrupt the Mute Challenge</span></span></span>
 
 These rituals show why concerts are not simply music delivery systems. They are spaces where fans practise a culture. A recording can carry the artist’s work, but the concert carries evidence of the fan community’s imagination: what it wears, repeats, jokes about, polices, celebrates and remembers.
 
 ## The setlist is only the skeleton
 
-Setlists are important because they give fans a record of what happened. Sites such as setlist.fm, which describes itself as a setlist wiki and hosts millions of concert setlists, show how strongly fans want to document live music after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.setlist.fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: setlist.fm">[Setlist.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">setlist.fm</span><span class="citation-popover-snippet">Open source on setlist.fm.</span></span></span> A setlist lets a fan say, “This was the night we got that deep cut,” or “This was the first time they played the new song.”
+Setlists are important because they give fans a record of what happened. Sites such as setlist.fm, which describes itself as a setlist wiki and hosts millions of concert setlists, show how strongly fans want to document live music after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.setlist.fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: setlist.fm">[Setlist.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">setlist.fm</span><span class="citation-popover-snippet">Open source on setlist.fm.</span></span></span> A setlist lets a fan say, “This was the night we got that deep cut,” or “This was the first time they played the new song.”
 
-But a setlist is also incomplete. It captures sequence, not atmosphere. It can tell us that a song was played, but not whether the crowd screamed over the opening line, whether the artist cried, whether the sound failed, whether the performance felt tense, loose, reverent or chaotic. One criticism of setlist culture is that it can reduce a concert to a checklist of songs, encouraging fans to pre-judge the experience by its parts rather than by the live event as a whole. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aestheticsforbirds.com">[Aesthetics for Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aestheticsforbirds.com</span><span class="citation-popover-title">Aesthetics for Birds What&#x27;s Wrong with Setlist.fm?</span><span class="citation-popover-snippet">Aesthetics for Birds What&#x27;s Wrong with Setlist.fm?</span></span></span>
+But a setlist is also incomplete. It captures sequence, not atmosphere. It can tell us that a song was played, but not whether the crowd screamed over the opening line, whether the artist cried, whether the sound failed, whether the performance felt tense, loose, reverent or chaotic. One criticism of setlist culture is that it can reduce a concert to a checklist of songs, encouraging fans to pre-judge the experience by its parts rather than by the live event as a whole.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aestheticsforbirds.com">[Aesthetics for Birds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aestheticsforbirds.com</span><span class="citation-popover-title">Aesthetics for Birds What&#x27;s Wrong with Setlist.fm?</span><span class="citation-popover-snippet">Aesthetics for Birds What&#x27;s Wrong with Setlist.fm?</span></span></span>
 
 Fan memory therefore works on two levels at once. The setlist provides a public archive, while the remembered experience supplies private and communal meaning. A fan may use the archive to verify the night, but the memory lives in details that are hard to database: the friend who cried during the encore, the stranger who lifted someone onto their shoulders, the moment the singer let the audience finish the chorus.
 
@@ -552,7 +552,7 @@ This is why two fans at the same concert can carry away different “main” mem
 
 Concert videos are valuable, but they rarely replace the memory of being there. A phone clip can preserve the image and sound of a moment, yet it cannot fully reproduce the pressure of the crowd, the anticipation before the song begins, the scale of the room, the bass in the body or the awareness that the event is unfolding without a rewind button.
 
-Research on livestreamed and recorded concert viewing helps explain this gap. A 2024 study on social presence in live and recorded concert viewing found that the live component can contribute to social connection and enjoyment, with livestreams expected to heighten social presence compared with recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-title">The role of social presence in live and recorded concert viewing</span><span class="citation-popover-snippet">The role of social presence in live and recorded concert viewing</span></span></span> Digital [access]({{ 'access/' | relative_url }}) can widen participation, especially for fans who cannot attend, but it changes the kind of memory being formed. The remote viewer may share the event in real time, but the venue attendee also shares air, delay, discomfort, proximity and crowd behaviour.
+Research on livestreamed and recorded concert viewing helps explain this gap. A 2024 study on social presence in live and recorded concert viewing found that the live component can contribute to social connection and enjoyment, with livestreams expected to heighten social presence compared with recordings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-title">The role of social presence in live and recorded concert viewing</span><span class="citation-popover-snippet">The role of social presence in live and recorded concert viewing</span></span></span> Digital [access]({{ 'access/' | relative_url }}) can widen participation, especially for fans who cannot attend, but it changes the kind of memory being formed. The remote viewer may share the event in real time, but the venue attendee also shares air, delay, discomfort, proximity and crowd behaviour.
 
 The imperfection of memory is part of the point. Fans often remember a concert as a blend of fact, feeling and later retelling. Online clips, photos, reviews and fan posts then feed back into the memory, confirming some details and reshaping others. A concert becomes not only what happened, but what the fan community later agrees was the defining moment.
 
@@ -562,7 +562,7 @@ This is especially visible when a tour develops city-by-city lore. One city gets
 
 A concert continues after the lights come up. Fans compare videos, post outfits, debate the setlist, identify guests, trade photos, rewatch clips and fold the event into their personal timeline. The memory becomes a social object: something to tell, display, revisit and use as evidence of belonging.
 
-Industry research should be read critically because promoters have commercial reasons to celebrate live music, but it still reflects a real cultural pattern. Live Nation’s global fandom report, based on 40,000 people across 15 markets, describes fans travelling, planning and building social calendars around live music experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://livingforlive.livenationforbrands.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingforlive.livenationforbrands.com">[livingforlive.livenationforbrands.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingforlive.livenationforbrands.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> MIDiA’s work on post-pandemic live music similarly found fandom to be a major driver of ticket purchasing, even amid inflation and pricing pressures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">return to live post pandemic music fans</span><span class="citation-popover-snippet">return to live post pandemic music fans</span></span></span>
+Industry research should be read critically because promoters have commercial reasons to celebrate live music, but it still reflects a real cultural pattern. Live Nation’s global fandom report, based on 40,000 people across 15 markets, describes fans travelling, planning and building social calendars around live music experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://livingforlive.livenationforbrands.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingforlive.livenationforbrands.com">[livingforlive.livenationforbrands.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingforlive.livenationforbrands.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> MIDiA’s work on post-pandemic live music similarly found fandom to be a major driver of ticket purchasing, even amid inflation and pricing pressures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">return to live post pandemic music fans</span><span class="citation-popover-snippet">return to live post pandemic music fans</span></span></span>
 
 The emotional afterlife is not always uncomplicated. High ticket prices, dynamic pricing, inaccessible venues, crowd crush fears, poor sound, phone obstruction and exclusion from sold-out events can all become part of fan memory too. A concert can create belonging, but it can also mark who could afford entry, who felt safe, who was close enough to see, and who experienced the show mostly through other people’s screens.
 
@@ -571,194 +571,194 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
 <img src="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-dark.svg" | relative_url }}" alt="Concerts illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_concerts_fan_memory_c3307b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Concerts Feel Bigger Than Songs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Concerts Feel Bigger Than Songs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Includes substantial discussion of live performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes substantial discussion of live performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains emotional and memory effects of music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains emotional and memory effects of music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
-        </h4>
-        <p class="fr-book-author">By Kelefa Sanneh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Major Labels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ztsrEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Major Labels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Major Labels">Major Labels</a>
+</h4>
+<p class="fr-book-author">By Kelefa Sanneh</p>
         
-        <p class="fr-book-desc">Explores the communities built around music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the communities built around music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Major+Labels+by+Kelefa+Sanneh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fever+Pitch+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fever Pitch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1011069-M.jpg" alt="Cover for Fever Pitch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fever+Pitch+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fever Pitch">Fever Pitch</a>
-        </h4>
-        <p class="fr-book-author">By Nick Hornby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fever+Pitch+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fever Pitch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1011069-M.jpg" alt="Cover for Fever Pitch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fever+Pitch+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fever Pitch">Fever Pitch</a>
+</h4>
+<p class="fr-book-author">By Nick Hornby</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Soccer, English Authors, Sports &amp; Recreations, Nonfiction, Arsenal Football Club.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fever+Pitch+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Soccer, English Authors, Sports &amp; Recreations, Nonfiction, Arsenal Football Club.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fever+Pitch+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Major+Labels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Major Labels</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/9ff3ef9dd6d37e8c2f95.jpg' | relative_url }}" alt="Listing image for PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Home Studio Sign Music Room Custom Gift Recording Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/e788406a1a281f4f7286.jpg' | relative_url }}" alt="Listing image for PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED Music Room Sign Studio Gift Father Home Decor Musician Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/719f94d725f5b542b59b.jpg' | relative_url }}" alt="Listing image for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/719f94d725f5b542b59b.jpg' | relative_url }}" alt="Listing image for PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">PERSONALISED MUSIC STUDIO Custom Sign Vintage style Music Decor Metal Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)"><img src="{{ '/assets/images/marketplace-covers/889abd5bec3a2f4abafd.jpg' | relative_url }}" alt="Listing image for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)"><img src="{{ '/assets/images/marketplace-covers/889abd5bec3a2f4abafd.jpg' | relative_url }}" alt="Listing image for 1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">1x Vinyl Records Music Metal Plaque Sign Gift House Novelty (mt282)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: music studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music studio sign" data-ebay-reference="concerts-why-concerts-feel-bigger-than-songs-music-music-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -964,151 +964,151 @@ Even so, the durability of concert memory is hard to explain if concerts are tre
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41960-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-41960-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-41960-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audience synchronies in live concerts illustrate the...by W Tschacher · 2023 · Cited by 67 — Clear evidence was found of physiolog...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394325511_Watching_live_performances_enhances_subjective_and_physiological_emotional_responses_compared_to_viewing_the_same_performance_on_screen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watching live performances enhances subjective and...August 1, 2025 — 2 Aug 2025 — This study provides evidence that live pe...</p></details>
    Published: August 1, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.uzh.ch  
    Title: News Live Musik  
-   Link: <a href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow">https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UZH NewsLive Musik - UZH News - Universität Zürich27 Feb 2024 — A study carried out at the University of Zurich has found that live perfo...</p></details>
+   Link:<a href="https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html" target="_blank" rel="noopener noreferrer nofollow">https://www.news.uzh.ch/en/articles/media/2024/Livemusik.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UZH NewsLive Musik - UZH News - Universität Zürich27 Feb 2024 — A study carried out at the University of Zurich has found that live perfo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Let the Music Play: Live Music Fosters Collective  
-   Link: <a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
+   Link:<a href="https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385011758_Let_the_Music_Play_Live_Music_Fosters_Collective_Effervescence_and_Leads_to_Lasting_Positive_Outcomes</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/</a>  
+   Link:<a href="https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/music/beyonce-tells-fans-wear-silver-renaissance-tour-outfits/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: setlist.fm  
-   Link: <a href="https://www.setlist.fm/" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/</a>  
+   Link:<a href="https://www.setlist.fm/" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: livingforlive.livenationforbrands.com  
-   Link: <a href="https://livingforlive.livenationforbrands.com/" target="_blank" rel="noopener noreferrer nofollow">https://livingforlive.livenationforbrands.com/</a>  
+   Link:<a href="https://livingforlive.livenationforbrands.com/" target="_blank" rel="noopener noreferrer nofollow">https://livingforlive.livenationforbrands.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 339489760 Sharing Music Social and Communal Aspects of Concert Going  
-   Link: <a href="https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going</a>  
+   Link:<a href="https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339489760_Sharing_Music_Social_and_Communal_Aspects_of_Concert-Going</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development</a>  
+   Link:<a href="https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349321504_Frequent_music_festival_attendance_festival_fandom_and_career_development</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon</a>  
+   Link:<a href="https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361720036_Development_of_the_Social_Experience_of_a_Concert_Scales_SECS_The_Social_Experience_of_a_Live_Western_Art_Music_Concert_Influences_People%27s_Overall_Enjoyment_of_an_Event_but_not_Their_Emotional_Respon</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet</a>  
+   Link:<a href="https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283742325_Live_concerts_and_fan_identity_in_the_age_of_the_Internet</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience</a>  
+   Link:<a href="https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263198430_Patterns_of_listening_through_social_media_Online_fan_engagement_with_the_live_music_experience</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships</a>  
+   Link:<a href="https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384867875_Look_What_You_Made_Me_Do_-Unveiling_the_impact_of_Taylor_Swift%27s_Eras_Tour_on_Parasocial_Relationships</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience</a>  
+   Link:<a href="https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374476218_Audience_synchronies_in_live_concerts_illustrate_the_embodiment_of_music_experience</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being</a>  
+   Link:<a href="https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379067778_The_role_of_social_presence_in_live_and_recorded_concert_viewing_Effects_on_enjoyment_and_emotional_well-being</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: setlist.fm  
    Title: Fan Concert Setlists Get Fan setlists  
-   Link: <a href="https://www.setlist.fm/setlists/fan-4be29f0a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/fan-4be29f0a.html</a>  
+   Link:<a href="https://www.setlist.fm/setlists/fan-4be29f0a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlists/fan-4be29f0a.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: itsbetterlive.livenationforbrands.com  
    Title: study the state of fandom  
-   Link: <a href="https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/" target="_blank" rel="noopener noreferrer nofollow">https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/</a>  
+   Link:<a href="https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/" target="_blank" rel="noopener noreferrer nofollow">https://itsbetterlive.livenationforbrands.com/study-the-state-of-fandom/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-38194-3</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-026-38194-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-38194-3</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: The Guardian What's behind the Taylor Swift friendship bracelets trend?  
-   Link: <a href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained</a>  
+   Link:<a href="https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2024/feb/07/taylor-swift-eras-tour-australia-friendship-bracelets-inspiration-beads-explained</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: themarysue.com  
    Title: The Mary Sue I Swear To Everything if You Interrupt the Mute Challenge  
-   Link: <a href="https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/" target="_blank" rel="noopener noreferrer nofollow">https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/</a>  
+   Link:<a href="https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/" target="_blank" rel="noopener noreferrer nofollow">https://www.themarysue.com/i-swear-to-everything-if-you-interrupt-the-mute-challenge-at-the-renaissance-movie/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aestheticsforbirds.com  
    Title: Aesthetics for Birds What's Wrong with Setlist.fm?  
-   Link: <a href="https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/" target="_blank" rel="noopener noreferrer nofollow">https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/</a>  
+   Link:<a href="https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/" target="_blank" rel="noopener noreferrer nofollow">https://aestheticsforbirds.com/2023/10/19/whats-wrong-with-setlist-fm/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pure.uva.nl  
    Title: The role of social presence in live and recorded concert viewing  
-   Link: <a href="https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf</a>  
+   Link:<a href="https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/181217286/The_role_of_social_presence_in_live_and_recorded_concert_viewing.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: midiaresearch.com  
    Title: return to live post pandemic music fans  
-   Link: <a href="https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans</a>  
+   Link:<a href="https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/reports/return-to-live-post-pandemic-music-fans</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39417534/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39417534/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Fosters Collective Effervescence and Leads to...by N Koefler · 2026 · Cited by 18 — This work examined the power of liv...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39417534/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39417534/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live Music Fosters Collective Effervescence and Leads to...by N Koefler · 2026 · Cited by 18 — This work examined the power of liv...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: harpersbazaar.com.au  
-   Link: <a href="https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/" target="_blank" rel="noopener noreferrer nofollow">https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/</a>  
+   Link:<a href="https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/" target="_blank" rel="noopener noreferrer nofollow">https://harpersbazaar.com.au/taylor-swift-eras-tour-chants-rituals/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/</a>  
+   Link:<a href="https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBCBayArea/posts/mute-challenge-a-viral-moment-from-beyonc%C3%A9s-renaissance-world-tour-has-made-its-/700970762065249/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/</a>  
+   Link:<a href="https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/popheads/comments/15z70z1/beyonc%C3%A9_asks_fans_to_wear_silver_for_the/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/</a>  
+   Link:<a href="https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TaylorSwift/comments/124sofc/concert_traditions/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: openresearch.newcastle.edu.au  
-   Link: <a href="https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272</a>  
+   Link:<a href="https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.newcastle.edu.au/articles/thesis/Concert_attendee_behaviour_the_influence_of_motivations_fan_identification_and_product_involvement/28959272</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts</a>  
+   Link:<a href="https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40dimmakriss/stereo-nova-fan-engagement-analytics-google-trends-and-spotify-[charts</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: danielle-moss.com  
-   Link: <a href="https://www.danielle-moss.com/friendship-bracelets/" target="_blank" rel="noopener noreferrer nofollow">https://www.danielle-moss.com/friendship-bracelets/</a>  
+   Link:<a href="https://www.danielle-moss.com/friendship-bracelets/" target="_blank" rel="noopener noreferrer nofollow">https://www.danielle-moss.com/friendship-bracelets/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Let-the-Music-Play%3A-Live-Music-Fosters-Collective-Koefler-Naidu/5d149fbdac5cc62a36944c5c4c39419c68472d73</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/</a>
+   Link:<a href="https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1jcwbz5/live_music_experiences_create_lasting_happiness/</a>

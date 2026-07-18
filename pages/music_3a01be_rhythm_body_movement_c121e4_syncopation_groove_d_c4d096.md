@@ -268,10 +268,10 @@ image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groov
 
 ## Introduction
 
-Syncopation makes grooves feel danceable because it creates a controlled conflict between what listeners expect and what they actually hear. Instead of placing every important accent on the strongest beats, syncopated rhythms shift emphasis onto weaker beats, off-beats, or unexpected moments. The result is a musical push-and-pull: the pulse remains clear enough to follow, but the [rhythm]({{ 'rhythm/' | relative_url }}) constantly teases that pulse by leaning against it. Research on groove consistently finds that people are most likely to experience pleasure and an urge to move when rhythms balance predictability with [surprise]({{ 'surprise/' | relative_url }}) rather than being either completely regular or highly chaotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Syncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</span></span></span>
+Syncopation makes grooves feel danceable because it creates a controlled conflict between what listeners expect and what they actually hear. Instead of placing every important accent on the strongest beats, syncopated rhythms shift emphasis onto weaker beats, off-beats, or unexpected moments. The result is a musical push-and-pull: the pulse remains clear enough to follow, but the [rhythm]({{ 'rhythm/' | relative_url }}) constantly teases that pulse by leaning against it. Research on groove consistently finds that people are most likely to experience pleasure and an urge to move when rhythms balance predictability with [surprise]({{ 'surprise/' | relative_url }}) rather than being either completely regular or highly chaotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Syncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1-dark.svg" | relative_url }}" alt="Syncopation illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader question of how rhythm moves bodies, syncopation is one of the most effective mechanisms because it turns listening into an active process. The body is not merely following a beat; it is continually predicting where the beat is and enjoying the experience of finding it again after each rhythmic detour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
+Within the broader question of how rhythm moves bodies, syncopation is one of the most effective mechanisms because it turns listening into an active process. The body is not merely following a beat; it is continually predicting where the beat is and enjoying the experience of finding it again after each rhythmic detour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
 ## What Syncopation Does to Expectation
 
@@ -279,17 +279,17 @@ A straightforward rhythm confirms expectations. If strong sounds consistently oc
 
 For example, in a simple four-beat pattern, listeners often feel beats one, two, three and four as the rhythmic framework. A syncopated rhythm may emphasise the “and” between beats or delay an expected accent until slightly later. The underlying pulse remains present, but the surface rhythm seems to tug against it.
 
-This matters because human rhythm perception relies heavily on prediction. Research in music cognition and neuroscience shows that listeners continuously generate internal models of timing and beat structure. Even during passive listening, motor-related brain systems become involved in anticipating future beats. Syncopation creates small prediction errors that force those timing systems to stay engaged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
+This matters because human rhythm perception relies heavily on prediction. Research in music cognition and neuroscience shows that listeners continuously generate internal models of timing and beat structure. Even during passive listening, motor-related brain systems become involved in anticipating future beats. Syncopation creates small prediction errors that force those timing systems to stay engaged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
-The key point is that syncopation does not erase the beat. If it did, dancing would become difficult. Instead, it creates a temporary mismatch between the beat listeners feel and the accents they hear. That mismatch generates tension, [attention]({{ 'attention/' | relative_url }}) and anticipation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
+The key point is that syncopation does not erase the beat. If it did, dancing would become difficult. Instead, it creates a temporary mismatch between the beat listeners feel and the accents they hear. That mismatch generates tension, [attention]({{ 'attention/' | relative_url }}) and anticipation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
 ## Why the Body Enjoys the Challenge
 
 The danceability of syncopation comes from a balance rather than an extreme. A completely predictable rhythm offers stability but little excitement. A highly unpredictable rhythm can become difficult to follow. Groove emerges in the middle ground.
 
-One influential study asked participants to listen to funk-inspired drum patterns with varying degrees of syncopation and rate both their pleasure and their desire to move. The results formed an inverted-U pattern: rhythms with a medium level of syncopation produced the strongest responses. Too little syncopation was less engaging, while too much reduced the desire to move because the pulse became harder to track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">in drum patterns as a function of both rhythmic...by O Senn · 2018 · Cited by 122 — This exploratory study investigates the groove effec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Active Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</span></span></span>
+One influential study asked participants to listen to funk-inspired drum patterns with varying degrees of syncopation and rate both their pleasure and their desire to move. The results formed an inverted-U pattern: rhythms with a medium level of syncopation produced the strongest responses. Too little syncopation was less engaging, while too much reduced the desire to move because the pulse became harder to track.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">in drum patterns as a function of both rhythmic...by O Senn · 2018 · Cited by 122 — This exploratory study investigates the groove effec...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Active Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</span></span></span>
 
-This finding has been replicated and expanded in later groove research. Reviews of the field describe groove as emerging from a fine-tuned interaction between predictability and surprise. Repetition provides the listener with a stable temporal framework, while syncopation introduces enough uncertainty to make participation rewarding. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Direct In practical terms, syncopation encourages movement because moving helps listeners maintain and reinforce their sense of the beat. Tapping a foot, nodding the head or dancing effectively becomes part of the process of resolving rhythmic tension. Rather than being a response that occurs after perception, movement helps support perception itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — Here we report results from a web-base...</span></span></span>
+This finding has been replicated and expanded in later groove research. Reviews of the field describe groove as emerging from a fine-tuned interaction between predictability and surprise. Repetition provides the listener with a stable temporal framework, while syncopation introduces enough uncertainty to make participation rewarding. Frontiers<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Direct In practical terms, syncopation encourages movement because moving helps listeners maintain and reinforce their sense of the beat. Tapping a foot, nodding the head or dancing effectively becomes part of the process of resolving rhythmic tension. Rather than being a response that occurs after perception, movement helps support perception itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — Here we report results from a web-base...</span></span></span>
 
 ## The Pleasure of Finding the Pulse Again
 
@@ -306,7 +306,7 @@ The listener establishes a pulse:
 
 </div>
 
-Researchers studying groove increasingly interpret this process through predictive timing models. According to these accounts, the brain enjoys situations where expectations are challenged but not destroyed. Syncopation supplies exactly that condition. It introduces enough uncertainty to be interesting while preserving enough structure for the listener to remain oriented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
+Researchers studying groove increasingly interpret this process through predictive timing models. According to these accounts, the brain enjoys situations where expectations are challenged but not destroyed. Syncopation supplies exactly that condition. It introduces enough uncertainty to be interesting while preserving enough structure for the listener to remain oriented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
 This helps explain why [dance music]({{ 'dance-music/' | relative_url }}) often feels energetic even when tempos are moderate. The sensation of forward motion does not come solely from speed. It comes from rhythmic events continually pulling attention away from the expected beat and then allowing the listener to reconnect with it.
 
@@ -317,7 +317,7 @@ This helps explain why [dance music]({{ 'dance-music/' | relative_url }}) often 
 
 Funk is often cited as a classic example of syncopation-driven groove. Drum parts, bass lines and guitar figures frequently avoid simply reinforcing the strongest beats. Instead, they place accents around them, creating a sense that the rhythm is constantly bouncing, stretching and rebounding.
 
-Many funk grooves place significant emphasis on sixteenth-note subdivisions between the main beats. The listener never loses track of the pulse, but the most interesting events often occur just beside it. This rhythmic strategy is so central to the style that discussions of funk routinely identify syncopation as one of its defining characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalproductionmusic.com">[Universal Production Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalproductionmusic.com</span><span class="citation-popover-title">Universal Production Music What makes music funky</span><span class="citation-popover-snippet">Syncopation is making the beats that are normally weak, dominant in a piece of music. That means you don...Read more...</span></span></span>
+Many funk grooves place significant emphasis on sixteenth-note subdivisions between the main beats. The listener never loses track of the pulse, but the most interesting events often occur just beside it. This rhythmic strategy is so central to the style that discussions of funk routinely identify syncopation as one of its defining characteristics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalproductionmusic.com">[Universal Production Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalproductionmusic.com</span><span class="citation-popover-title">Universal Production Music What makes music funky</span><span class="citation-popover-snippet">Syncopation is making the beats that are normally weak, dominant in a piece of music. That means you don...Read more...</span></span></span>
 
 ### Disco: Stability Below, Syncopation Above
 
@@ -331,7 +331,7 @@ The result is a groove that feels both secure and lively. Dancers can rely on th
 
 Hip-hop frequently uses syncopation through kick-drum placement, sampled breakbeats and vocal flow. Rappers often place syllables ahead of, behind or across expected beat locations, while producers build grooves from drum patterns rich in off-beat emphasis.
 
-Ghost notes, swung subdivisions and syncopated kick drums create a feeling that the groove is constantly shifting weight without ever losing its centre. This is one reason hip-hop can feel physically compelling even at relatively [slow tempos]({{ 'slow-tempo/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://beatstorapon.com/blog/why-does-music-make-you-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatstorapon.com">[Beats To Rap On]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatstorapon.com</span><span class="citation-popover-title">Beats To Rap On Why Does Music Make You Dance?</span><span class="citation-popover-snippet">The Science of Beats...3 days ago — 4 days ago — The Hip-Hop / Funk Breakbeat. The hip-hop and funk drum pattern relies heavily on dyna...</span></span></span>
+Ghost notes, swung subdivisions and syncopated kick drums create a feeling that the groove is constantly shifting weight without ever losing its centre. This is one reason hip-hop can feel physically compelling even at relatively [slow tempos]({{ 'slow-tempo/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://beatstorapon.com/blog/why-does-music-make-you-dance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatstorapon.com">[Beats To Rap On]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatstorapon.com</span><span class="citation-popover-title">Beats To Rap On Why Does Music Make You Dance?</span><span class="citation-popover-snippet">The Science of Beats...3 days ago — 4 days ago — The Hip-Hop / Funk Breakbeat. The hip-hop and funk drum pattern relies heavily on dyna...</span></span></span>
 
 ### Electronic Dance Music: Tension Around a Fixed Grid
 
@@ -343,204 +343,204 @@ The strongest dance grooves frequently rely not on abandoning the grid but on st
 
 It might seem logical that more rhythmic surprise would create more excitement. Research suggests otherwise.
 
-When syncopation becomes excessive, listeners can struggle to infer the underlying beat. Once the pulse becomes uncertain, movement becomes harder because dancers no longer have a reliable temporal reference. The same rhythmic complexity that creates excitement can eventually undermine groove. PLOS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Daily This is why highly danceable music usually preserves some strong indicators of pulse even when surface rhythms are complex. A kick drum, bass pattern, handclap or recurring accent often functions as an anchor. Syncopation works best when it has something stable to push against.
+When syncopation becomes excessive, listeners can struggle to infer the underlying beat. Once the pulse becomes uncertain, movement becomes harder because dancers no longer have a reliable temporal reference. The same rhythmic complexity that creates excitement can eventually undermine groove. PLOS<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</span></span></span> Daily This is why highly danceable music usually preserves some strong indicators of pulse even when surface rhythms are complex. A kick drum, bass pattern, handclap or recurring accent often functions as an anchor. Syncopation works best when it has something stable to push against.
 
 <img src="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-3-dark.svg" | relative_url }}" alt="Syncopation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Syncopation as a Movement Engine
 
 The power of syncopation lies in its ability to transform a beat from a static framework into an active experience. Off-beat accents, delayed attacks and rhythmic surprises encourage listeners to predict, adjust and physically engage with the pulse. The body becomes involved because maintaining the beat is no longer automatic; it becomes a rewarding task.
 
-Groove is therefore not created by regularity alone. It emerges when a steady pulse is challenged just enough to keep attention, anticipation and movement alive. Syncopation provides that challenge, making the beat feel less like a clock and more like an invitation to dance. PLOS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
+Groove is therefore not created by regularity alone. It emerges when a steady pulse is challenged just enough to keep attention, anticipation and movement alive. Syncopation provides that challenge, making the beat feel less like a clock and more like an invitation to dance. PLOS<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Off Beat Rhythms Make People Move. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Off Beat Rhythms Make People Move. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explains why rhythmic patterns affect movement and pleasure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why rhythmic patterns affect movement and pleasure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Touches on groove, performance and audience response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Touches on groove, performance and audience response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
-        </h4>
-        <p class="fr-book-author">By David Huron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sweet Anticipation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2342560-M.jpg" alt="Cover for Sweet Anticipation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sweet Anticipation">Sweet Anticipation</a>
+</h4>
+<p class="fr-book-author">By David Huron</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Expectation (Psychology), Music, Psychological aspects of Music, Psychological aspects, Musikpsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sweet+Anticipation+David+Huron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
-        </h4>
-        <p class="fr-book-author">By John Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Love Music on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Love Music">Why You Love Music</a>
+</h4>
+<p class="fr-book-author">By John Powell</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Music appreciation, Music, psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+You+Love+Music+John+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sweet+Anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sweet Anticipation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sweet+Anticipation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sweet Anticipation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Betty Davis Funk Art Poster Music Soul James Brown Bootsy Collins"><img src="{{ '/assets/images/marketplace-covers/eb8c272386f0ceb1defb.jpg' | relative_url }}" alt="Listing image for Betty Davis Funk Art Poster Music Soul James Brown Bootsy Collins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Betty Davis Funk Art Poster Music Soul James Brown Bootsy Collins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Betty Davis Funk Art Poster Music Soul James Brown Bootsy Collins"><img src="{{ '/assets/images/marketplace-covers/eb8c272386f0ceb1defb.jpg' | relative_url }}" alt="Listing image for Betty Davis Funk Art Poster Music Soul James Brown Bootsy Collins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Betty Davis Funk Art Poster Music Soul James Brown Bootsy Collins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Curtis Mayfield Art Poster Music Soul Funk Otis Redding James Brown"><img src="{{ '/assets/images/marketplace-covers/2808e5d82e612dff7584.jpg' | relative_url }}" alt="Listing image for Curtis Mayfield Art Poster Music Soul Funk Otis Redding James Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Curtis Mayfield Art Poster Music Soul Funk Otis Redding James Brown</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Curtis Mayfield Art Poster Music Soul Funk Otis Redding James Brown"><img src="{{ '/assets/images/marketplace-covers/2808e5d82e612dff7584.jpg' | relative_url }}" alt="Listing image for Curtis Mayfield Art Poster Music Soul Funk Otis Redding James Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Curtis Mayfield Art Poster Music Soul Funk Otis Redding James Brown</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funk and Soul Music Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/906efd84a0bf09952d7b.jpg' | relative_url }}" alt="Listing image for Funk and Soul Music Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Funk and Soul Music Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funk and Soul Music Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/906efd84a0bf09952d7b.jpg' | relative_url }}" alt="Listing image for Funk and Soul Music Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Funk and Soul Music Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funkster - Funk Music Inspired Desi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f3c7faa2927283f9e756.jpg' | relative_url }}" alt="Listing image for Funkster - Funk Music Inspired Desi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Funkster - Funk Music Inspired Desi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funkster - Funk Music Inspired Desi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f3c7faa2927283f9e756.jpg' | relative_url }}" alt="Listing image for Funkster - Funk Music Inspired Desi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Funkster - Funk Music Inspired Desi Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for funk music poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: funk music poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=funk+music+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="funk music poster -book -books" data-ebay-reference="syncopation-why-off-beat-rhythms-make-people-move-music-funk-music-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Groove is therefore not created by regularity alone. It emerges when a steady pu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Groove is therefore not created by regularity alone. It emerges when a steady pu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Groove is therefore not created by regularity alone. It emerges when a steady pu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Groove is therefore not created by regularity alone. It emerges when a steady pu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Groove is therefore not created by regularity alone. It emerges when a steady pu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,121 +746,121 @@ Groove is therefore not created by regularity alone. It emerges when a steady pu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Syncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0094446</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Syncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — In this study, we investigated the relati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Active Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12287993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Active Inference in Music Perception: Motor Engagement to...by K Ishida · 2025 · Cited by 3 — The urge to move (groove) induced by sy...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — Here we report results from a web-base...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3989225/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSyncopation, Body-Movement and Pleasure in Groove Musicby MAG Witek · 2014 · Cited by 598 — Here we report results from a web-base...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0149763423004918" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0149763423004918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of psychological and neuroscientific research on...by T Etani · 2024 · Cited by 63 — This article reviews research on groove as...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0149763423004918" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0149763423004918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of psychological and neuroscientific research on...by T Etani · 2024 · Cited by 63 — This article reviews research on groove as...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedaily.com  
-   Link: <a href="https://www.sciencedaily.com/releases/2014/04/140416172235.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2014/04/140416172235.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In funk music, rhythmic complexity influences dancing desireApr 17, 2014 — The authors posit that the relationship between body movement...</p></details>
+   Link:<a href="https://www.sciencedaily.com/releases/2014/04/140416172235.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2014/04/140416172235.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In funk music, rhythmic complexity influences dancing desireApr 17, 2014 — The authors posit that the relationship between body movement...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in drum patterns as a function of both rhythmic...by O Senn · 2018 · Cited by 122 — This exploratory study investigates the groove effec...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0199604</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in drum patterns as a function of both rhythmic...by O Senn · 2018 · Cited by 122 — This exploratory study investigates the groove effec...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pleasurable urge to move to music is unchanged in...by ID Romkey · 2025 · Cited by 14 — In cognitive science, the sensation of “groove”...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0312030</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pleasurable urge to move to music is unchanged in...by ID Romkey · 2025 · Cited by 14 — In cognitive science, the sensation of “groove”...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.906190/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe sweet spot between predictability and surpriseby J Stupacher · 2022 · Cited by 69 — We argue that groove, when defined as th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMotor and Predictive Processes in Auditory Beat and...by S Proksch · 2020 · Cited by 76 — In this article, we review recent adv...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.578546/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMotor and Predictive Processes in Auditory Beat and...by S Proksch · 2020 · Cited by 76 — In this article, we review recent adv...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adi2525</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.adi2525" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adi2525</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neural dynamics of predictive timing and motor...Mar 6, 2024 — These results extend seminal studies on the quadratic relationship...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: universalproductionmusic.com  
    Title: Universal Production Music What makes music funky  
-   Link: <a href="https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky" target="_blank" rel="noopener noreferrer nofollow">https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Syncopation is making the beats that are normally weak, dominant in a piece of music. That means you don...Read more...</p></details>
+   Link:<a href="https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky" target="_blank" rel="noopener noreferrer nofollow">https://www.universalproductionmusic.com/en-pl/news/what-makes-music-funky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Syncopation is making the beats that are normally weak, dominant in a piece of music. That means you don...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: beatstorapon.com  
    Title: Beats To Rap On Why Does Music Make You Dance?  
-   Link: <a href="https://beatstorapon.com/blog/why-does-music-make-you-dance/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/why-does-music-make-you-dance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Beats...3 days ago — 4 days ago — The Hip-Hop / Funk Breakbeat. The hip-hop and funk drum pattern relies heavily on dyna...</p></details>
+   Link:<a href="https://beatstorapon.com/blog/why-does-music-make-you-dance/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/why-does-music-make-you-dance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Beats...3 days ago — 4 days ago — The Hip-Hop / Funk Breakbeat. The hip-hop and funk drum pattern relies heavily on dyna...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: venicebeachdrumcircle.wordpress.com  
    Title: the science of groove  
-   Link: <a href="https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/" target="_blank" rel="noopener noreferrer nofollow">https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Groove - Venice Beach Drum CircleOct 4, 2025 — Neuroscience is uncovering how rhythm, prediction, and pleasure intertwine to c...</p></details>
+   Link:<a href="https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/" target="_blank" rel="noopener noreferrer nofollow">https://venicebeachdrumcircle.wordpress.com/2025/10/04/the-science-of-groove/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Groove - Venice Beach Drum CircleOct 4, 2025 — Neuroscience is uncovering how rhythm, prediction, and pleasure intertwine to c...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: neuroscience.gsu.edu  
-   Link: <a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This work reviews the growing body of interdisciplinary research on music cognition, using biomechanical, kinesiological, clinical, psych...</p></details>
+   Link:<a href="https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://neuroscience.gsu.edu/files/2025/10/An-integrated-review-of-music-cognition-and-rhythmic-stimuli-in-sensorimotor-neurocognition-and-neurorehabilitation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This work reviews the growing body of interdisciplinary research on music cognition, using biomechanical, kinesiological, clinical, psych...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rhyme May Define, but the Groove Makes You Move... Syncopation characterises many genres associated with groove, e.g. funk [11], elec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275676327_Hip-Hop_Drumming_The_Rhyme_May_Define_but_the_Groove_Makes_You_Move</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rhyme May Define, but the Groove Makes You Move... Syncopation characterises many genres associated with groove, e.g. funk [11], elec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This region integrates auditory and motor systems, prompting people to move to the beat. The research led by Benjamin Morillon highlights...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/scientists-discover-little-grey-cells-dance-boogie-france-john-travolta-555kfpqr7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This region integrates auditory and motor systems, prompting people to move to the beat. The research led by Benjamin Morillon highlights...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/</a>  
+   Link:<a href="https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/edmproduction/comments/23933a/plos_one_syncopation_bodymovement_and_pleasure_in/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCmusical groove in brain, body, and social interactions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Stupacher · 2022 · Cited by 74 — In dance, music making, and music listening, groove research can help us to better understand th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9396343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Stupacher · 2022 · Cited by 74 — In dance, music making, and music listening, groove research can help us to better understand th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mdlbeast.com  
    Title: the science of groove why some beats just make you move  
-   Link: <a href="https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move" target="_blank" rel="noopener noreferrer nofollow">https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Groove: Why Some Beats Just Make You...17 Jul 2025 — Discover the science behind groove how rhythm, syncopation, and bass...</p></details>
+   Link:<a href="https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move" target="_blank" rel="noopener noreferrer nofollow">https://mdlbeast.com/xp-feed/music-industry/the-science-of-groove-why-some-beats-just-make-you-move</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Groove: Why Some Beats Just Make You...17 Jul 2025 — Discover the science behind groove how rhythm, syncopation, and bass...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: research.birmingham.ac.uk  
    Title: syncopation body movement and pleasure in groove music  
-   Link: <a href="https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>birmingham.ac.ukSyncopation, body-movement and pleasure in groove musicby M Witek · 2014 · Cited by 597 — Here we report results from a w...</p></details>
+   Link:<a href="https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music" target="_blank" rel="noopener noreferrer nofollow">https://research.birmingham.ac.uk/en/publications/syncopation-body-movement-and-pleasure-in-groove-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>birmingham.ac.ukSyncopation, body-movement and pleasure in groove musicby M Witek · 2014 · Cited by 597 — Here we report results from a w...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: direct.mit.edu  
    Title: Musical groove listening does not enhance primary  
-   Link: <a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>groove listening does not enhance primary motor...by SR O’Connell · 2026 — This type of model proposes that groove results from a modera...</p></details>
+   Link:<a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1185/135702/Musical-groove-listening-does-not-enhance-primary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>groove listening does not enhance primary motor...by SR O’Connell · 2026 — This type of model proposes that groove results from a modera...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: online.ucpress.edu  
    Title: A Critical Cross cultural Study of Sensorimotor  
-   Link: <a href="https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Cross-cultural Study of Sensorimotor and Groove...Here we report on two studies in which sensorimotor and groove responses to s...</p></details>
+   Link:<a href="https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/mp/article/37/4/278/106226/A-Critical-Cross-cultural-Study-of-Sensorimotor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Cross-cultural Study of Sensorimotor and Groove...Here we report on two studies in which sensorimotor and groove responses to s...</p></details>

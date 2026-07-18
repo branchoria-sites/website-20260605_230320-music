@@ -274,26 +274,26 @@ image: /assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fa
 
 ## Introduction
 
-Recommendation algorithms can widen music taste, but they do not do so automatically. Their core purpose is usually to help listeners navigate overwhelming abundance by predicting what they are likely to enjoy next. In a [catalogue]({{ 'catalogue/' | relative_url }}) containing tens or hundreds of millions of tracks, that function is genuinely useful. Many listeners discover artists, genres and scenes they would never have found through manual searching alone. Yet the same systems often rely on signals such as previous listening behaviour, engagement rates and existing popularity. As a result, they can expand taste in some directions while narrowing it in others. The central fairness question is not whether algorithms can recommend unfamiliar music, but whether they can do so without systematically favouring music that already attracts [attention]({{ 'attention/' | relative_url }}). Research suggests that achieving both satisfaction and fair exposure remains one of the hardest design problems in music recommendation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span>
+Recommendation algorithms can widen music taste, but they do not do so automatically. Their core purpose is usually to help listeners navigate overwhelming abundance by predicting what they are likely to enjoy next. In a [catalogue]({{ 'catalogue/' | relative_url }}) containing tens or hundreds of millions of tracks, that function is genuinely useful. Many listeners discover artists, genres and scenes they would never have found through manual searching alone. Yet the same systems often rely on signals such as previous listening behaviour, engagement rates and existing popularity. As a result, they can expand taste in some directions while narrowing it in others. The central fairness question is not whether algorithms can recommend unfamiliar music, but whether they can do so without systematically favouring music that already attracts [attention]({{ 'attention/' | relative_url }}). Research suggests that achieving both satisfaction and fair exposure remains one of the hardest design problems in music recommendation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1-dark.svg" | relative_url }}" alt="Algorithms illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Recommendations Help Listeners Navigate Abundance
 
-Music recommendation systems emerged because modern catalogues are too large for human navigation alone. Most systems combine signals from a listener's own history with patterns observed across millions of other users. If people with similar listening habits enjoy a particular artist or track, the system may recommend it. Content-based approaches also analyse musical characteristics, allowing recommendations that sound similar even when listeners have never encountered the artist before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recommender system</span><span class="citation-popover-snippet">Recommender system</span></span></span>
+Music recommendation systems emerged because modern catalogues are too large for human navigation alone. Most systems combine signals from a listener's own history with patterns observed across millions of other users. If people with similar listening habits enjoy a particular artist or track, the system may recommend it. Content-based approaches also analyse musical characteristics, allowing recommendations that sound similar even when listeners have never encountered the artist before.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recommender system</span><span class="citation-popover-snippet">Recommender system</span></span></span>
 
-In principle, this creates opportunities for discovery. A listener who enjoys one jazz pianist might be introduced to contemporary players from another country. Someone interested in indie rock could encounter adjacent genres such as dream pop or post-punk. Recommendation systems can lower the cost of exploration by reducing the effort required to search vast catalogues manually. Fairness researchers note that recommendation systems can benefit multiple stakeholders simultaneously: listeners gain [access]({{ 'access/' | relative_url }}) to relevant music, while artists gain potential exposure beyond their existing audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</span></span></span>
+In principle, this creates opportunities for discovery. A listener who enjoys one jazz pianist might be introduced to contemporary players from another country. Someone interested in indie rock could encounter adjacent genres such as dream pop or post-punk. Recommendation systems can lower the cost of exploration by reducing the effort required to search vast catalogues manually. Fairness researchers note that recommendation systems can benefit multiple stakeholders simultaneously: listeners gain [access]({{ 'access/' | relative_url }}) to relevant music, while artists gain potential exposure beyond their existing audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</span></span></span>
 
-Importantly, diversity is not merely a cultural ideal. Research conducted at Spotify found that listeners with broader consumption patterns tend to exhibit stronger long-term engagement with the platform. This suggests that helping users explore beyond narrow habits may improve both user experience and platform outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
+Importantly, diversity is not merely a cultural ideal. Research conducted at Spotify found that listeners with broader consumption patterns tend to exhibit stronger long-term engagement with the platform. This suggests that helping users explore beyond narrow habits may improve both user experience and platform outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
 ## Why Popularity Bias Matters for the Long Tail
 
 The difficulty is that recommendation systems often learn from attention signals that are already unevenly distributed. Popular songs generate more plays, saves, shares and behavioural data. Because algorithms are trained on such signals, they frequently conclude that already-popular music is the safest recommendation.
 
-Researchers describe this pattern as popularity bias. Studies in music recommendation repeatedly find that popular artists and tracks receive disproportionate recommendation exposure, while less-known music is underrepresented. This can create a feedback loop: music that gains attention becomes easier for algorithms to recommend, which generates more attention, which further strengthens its recommendation signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Researchers describe this pattern as popularity bias. Studies in music recommendation repeatedly find that popular artists and tracks receive disproportionate recommendation exposure, while less-known music is underrepresented. This can create a feedback loop: music that gains attention becomes easier for algorithms to recommend, which generates more attention, which further strengthens its recommendation signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-This matters because streaming catalogues contain enormous long tails of niche and emerging music. Availability alone does not guarantee visibility. If recommendation engines primarily reinforce existing popularity, they may preserve the appearance of infinite choice while directing listening toward a relatively small portion of the catalogue. Research on recommender systems more broadly warns that popularity bias can produce cumulative reinforcement effects over time, concentrating attention instead of distributing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 191 — In this paper, we discuss the...</span></span></span>
+This matters because streaming catalogues contain enormous long tails of niche and emerging music. Availability alone does not guarantee visibility. If recommendation engines primarily reinforce existing popularity, they may preserve the appearance of infinite choice while directing listening toward a relatively small portion of the catalogue. Research on recommender systems more broadly warns that popularity bias can produce cumulative reinforcement effects over time, concentrating attention instead of distributing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 191 — In this paper, we discuss the...</span></span></span>
 
-The fairness issue affects listeners as well as artists. One study of music recommendation found that users whose tastes diverged from mainstream preferences tended to receive poorer recommendations than users whose tastes aligned with already-popular music. In other words, the same bias that disadvantages niche artists can also disadvantage listeners seeking less conventional music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The fairness issue affects listeners as well as artists. One study of music recommendation found that users whose tastes diverged from mainstream preferences tended to receive poorer recommendations than users whose tastes aligned with already-popular music. In other words, the same bias that disadvantages niche artists can also disadvantage listeners seeking less conventional music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FYvYsKoBZCc" title="BIAS, FAIRNESS, AND MORE IN RECOMMENDER SYSTEMS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FYvYsKoBZCc" target="_blank" rel="noopener noreferrer">BIAS, FAIRNESS, AND MORE IN RECOMMENDER SYSTEMS</a></p><p class="youtube-embed-meta">Channel: USC Information Sciences Institute &middot; Views: 682 &middot; Uploaded: December 2020 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FYvYsKoBZCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FYvYsKoBZCc">Open on YouTube</a></p></div></div></div>
 
@@ -301,11 +301,11 @@ The fairness issue affects listeners as well as artists. One study of music reco
 
 A common assumption is that recommendation systems naturally increase diversity because they expose users to more music. The evidence is more complicated.
 
-Spotify researchers studying large-scale listening behaviour found that algorithmically driven listening was associated with reduced diversity of consumption, even though diverse listening itself correlated with positive user outcomes. The finding does not mean algorithms always narrow taste, but it demonstrates that recommendation-driven listening can become concentrated around familiar patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
+Spotify researchers studying large-scale listening behaviour found that algorithmically driven listening was associated with reduced diversity of consumption, even though diverse listening itself correlated with positive user outcomes. The finding does not mean algorithms always narrow taste, but it demonstrates that recommendation-driven listening can become concentrated around familiar patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-title">algorithmic effects on the diversity of consumption on spotify</span><span class="citation-popover-snippet">Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</span></span></span>
 
 This happens because recommendation systems are usually optimised around prediction accuracy and engagement. If a listener repeatedly plays a particular style, recommending similar tracks often produces reliable results. The algorithm learns what is safe rather than what is surprising. Over time, listeners may encounter a stream of music that varies within a comfort zone but rarely challenges it.
 
-Critics of streaming [culture]({{ 'culture/' | relative_url }}) argue that this dynamic can create a subtle form of cultural narrowing. The issue is not censorship or exclusion; rather, the path of least resistance tends to lead toward music that resembles what listeners already know. The resulting experience can feel highly personalised while still limiting the range of exploration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</span></span></span>
+Critics of streaming [culture]({{ 'culture/' | relative_url }}) argue that this dynamic can create a subtle form of cultural narrowing. The issue is not censorship or exclusion; rather, the path of least resistance tends to lead toward music that resembles what listeners already know. The resulting experience can feel highly personalised while still limiting the range of exploration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-2-dark.svg" | relative_url }}" alt="Algorithms illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Trade-Off Between Satisfaction, Diversity, and Fairness
@@ -320,11 +320,11 @@ The central challenge is that recommendation systems must balance competing goal
 
 </div>
 
-These goals often conflict. Recommending only familiar favourites may maximise short-term engagement but reduce diversity. Recommending too much unfamiliar music may increase diversity while lowering immediate satisfaction. Promoting underexposed artists may improve fairness but can reduce predictive accuracy if the system has less behavioural data about them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span>
+These goals often conflict. Recommending only familiar favourites may maximise short-term engagement but reduce diversity. Recommending too much unfamiliar music may increase diversity while lowering immediate satisfaction. Promoting underexposed artists may improve fairness but can reduce predictive accuracy if the system has less behavioural data about them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span>
 
-Research consistently finds that the most accurate recommendation models are often among the most popularity-biased. This creates a practical dilemma for platforms whose business models depend heavily on user engagement metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research consistently finds that the most accurate recommendation models are often among the most popularity-biased. This creates a practical dilemma for platforms whose business models depend heavily on user engagement metrics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Fairness researchers increasingly argue that recommendation quality should not be judged solely by accuracy. Diversity, serendipity, artist exposure and user control are now treated as legitimate design objectives alongside engagement metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span>
+Fairness researchers increasingly argue that recommendation quality should not be judged solely by accuracy. Diversity, serendipity, artist exposure and user control are now treated as legitimate design objectives alongside engagement metrics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9U3965uAezM" title="Data privacy and fairness in recommender systems by Martin Tegner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9U3965uAezM" target="_blank" rel="noopener noreferrer">Data privacy and fairness in recommender systems by Martin Tegner</a></p><p class="youtube-embed-meta">Channel: GAIA &middot; Views: 227 &middot; Uploaded: March 2021 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9U3965uAezM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9U3965uAezM">Open on YouTube</a></p></div></div></div>
 
@@ -338,208 +338,208 @@ Several approaches have emerged:
 * Limiting the dominance of popularity signals in ranking models.
 * Providing listeners with controls that let them choose how exploratory recommendations should be.
 * Measuring success using fairness and diversity metrics rather than engagement alone.
-* Considering artist exposure as a design goal alongside listener satisfaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</span></span></span>
+* Considering artist exposure as a design goal alongside listener satisfaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[Music Information Retrieval Transactions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</span></span></span>
 
-Recent experimental work suggests that giving users direct control over factors such as popularity, genre diversity and artist representation can improve perceived fairness and user satisfaction simultaneously. Rather than forcing a single definition of fairness, such systems allow listeners to decide how adventurous or balanced they want recommendations to be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uu.nl">[Utrecht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uu.nl</span><span class="citation-popover-snippet">Utrecht UniversityUser-Driven Fairness in Music Recommendations: Effects...by SN Khan · 2025 — This study investigates how user-driven c...</span></span></span>
+Recent experimental work suggests that giving users direct control over factors such as popularity, genre diversity and artist representation can improve perceived fairness and user satisfaction simultaneously. Rather than forcing a single definition of fairness, such systems allow listeners to decide how adventurous or balanced they want recommendations to be.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uu.nl">[Utrecht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uu.nl</span><span class="citation-popover-snippet">Utrecht UniversityUser-Driven Fairness in Music Recommendations: Effects...by SN Khan · 2025 — This study investigates how user-driven c...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-3-dark.svg" | relative_url }}" alt="Algorithms illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fairness Is a Design Choice, Not a Technical Guarantee
 
 Recommendation algorithms are capable of broadening musical horizons. They can connect listeners with obscure artists, revive forgotten catalogues and expose audiences to scenes that would otherwise remain invisible. Yet the same systems can also reinforce existing attention patterns because popularity itself is a powerful source of data.
 
-The key lesson is that discovery does not emerge automatically from abundance. Whether recommendation systems widen music taste fairly depends on the objectives they optimise for. If success is measured only by immediate engagement, popularity bias is difficult to avoid. If diversity, artist exposure and listener exploration are treated as explicit goals, algorithms can become tools for cultural discovery rather than merely engines of attention concentration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[3PMC 3Music Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span> Retrieval Transactions](#endnote-15 "Snippet: Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv")
+The key lesson is that discovery does not emerge automatically from abundance. Whether recommendation systems widen music taste fairly depends on the objectives they optimise for. If success is measured only by immediate engagement, popularity bias is difficult to avoid. If diversity, artist exposure and listener exploration are treated as explicit goals, algorithms can become tools for cultural discovery rather than merely engines of attention concentration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transactions.ismir.net">[3PMC 3Music Information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transactions.ismir.net</span><span class="citation-popover-snippet">Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</span></span></span> Retrieval Transactions](#endnote-15 "Snippet: Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv")
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ZdYkzd5nrA" title="Perception of Fairness in Group Music Recommender Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ZdYkzd5nrA" target="_blank" rel="noopener noreferrer">Perception of Fairness in Group Music Recommender Systems</a></p><p class="youtube-embed-meta">Channel: ACM SIGCHI &middot; Views: 157 &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ZdYkzd5nrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ZdYkzd5nrA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Music Algorithms Broaden Taste?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Music Algorithms Broaden Taste?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Provides an accessible framework for understanding fairness concerns in recommendation systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides an accessible framework for understanding fairness concerns in recommendation systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6774645-M.jpg" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
-        </h4>
-        <p class="fr-book-author">By Eli Pariser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filter Bubble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6774645-M.jpg" alt="Cover for The Filter Bubble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filter Bubble">The Filter Bubble</a>
+</h4>
+<p class="fr-book-author">By Eli Pariser</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: World Wide Web, Invisible Web, Information organization, Social aspects, Subject access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: World Wide Web, Invisible Web, Information organization, Social aspects, Subject access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Filter+Bubble+Eli+Pariser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12856940-M.jpg" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
-        </h4>
-        <p class="fr-book-author">By Safiya Umoja Noble</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12856940-M.jpg" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
+</h4>
+<p class="fr-book-author">By Safiya Umoja Noble</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Google, Sociological aspects, Search engines, Discrimination, COMPUTERS / Web.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Google, Sociological aspects, Search engines, Discrimination, COMPUTERS / Web.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses recommendation systems, playlists, and platform incentives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses recommendation systems, playlists, and platform incentives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filter+Bubble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filter Bubble</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vermeer Girl Music Poster - Retro Dutch Genre Wall Art - 16x12/20x16/24x18/36x24"><img src="{{ '/assets/images/marketplace-covers/dc59b947395ff0c13b8f.jpg' | relative_url }}" alt="Listing image for Vermeer Girl Music Poster - Retro Dutch Genre Wall Art - 16x12/20x16/24x18/36x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vermeer Girl Music Poster - Retro Dutch Genre Wall Art - 16x12/20x16/24x18/36x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vermeer Girl Music Poster - Retro Dutch Genre Wall Art - 16x12/20x16/24x18/36x24"><img src="{{ '/assets/images/marketplace-covers/dc59b947395ff0c13b8f.jpg' | relative_url }}" alt="Listing image for Vermeer Girl Music Poster - Retro Dutch Genre Wall Art - 16x12/20x16/24x18/36x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vermeer Girl Music Poster - Retro Dutch Genre Wall Art - 16x12/20x16/24x18/36x24</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ska Records Picture Oldchool Music Genre Poster Jamaica Photo Vinyl Picture"><img src="{{ '/assets/images/marketplace-covers/d5d7b3e8baa8d3333763.jpg' | relative_url }}" alt="Listing image for Ska Records Picture Oldchool Music Genre Poster Jamaica Photo Vinyl Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ska Records Picture Oldchool Music Genre Poster Jamaica Photo Vinyl Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ska Records Picture Oldchool Music Genre Poster Jamaica Photo Vinyl Picture"><img src="{{ '/assets/images/marketplace-covers/d5d7b3e8baa8d3333763.jpg' | relative_url }}" alt="Listing image for Ska Records Picture Oldchool Music Genre Poster Jamaica Photo Vinyl Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ska Records Picture Oldchool Music Genre Poster Jamaica Photo Vinyl Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ska Man - Two Tone Genre British Music Poster Punk Rock Black White Picture"><img src="{{ '/assets/images/marketplace-covers/ce925e6432b4f9e61382.jpg' | relative_url }}" alt="Listing image for Ska Man - Two Tone Genre British Music Poster Punk Rock Black White Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ska Man - Two Tone Genre British Music Poster Punk Rock Black White Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ska Man - Two Tone Genre British Music Poster Punk Rock Black White Picture"><img src="{{ '/assets/images/marketplace-covers/ce925e6432b4f9e61382.jpg' | relative_url }}" alt="Listing image for Ska Man - Two Tone Genre British Music Poster Punk Rock Black White Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ska Man - Two Tone Genre British Music Poster Punk Rock Black White Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GENRE CIDE COMPILATION cd/record Music Store Promo Poster ALICE IN CHAINS GRUNGE"><img src="{{ '/assets/images/marketplace-covers/878eacc5f3a7b1093c6a.jpg' | relative_url }}" alt="Listing image for GENRE CIDE COMPILATION cd/record Music Store Promo Poster ALICE IN CHAINS GRUNGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">GENRE CIDE COMPILATION cd/record Music Store Promo Poster ALICE IN CHAINS GRUNGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GENRE CIDE COMPILATION cd/record Music Store Promo Poster ALICE IN CHAINS GRUNGE"><img src="{{ '/assets/images/marketplace-covers/878eacc5f3a7b1093c6a.jpg' | relative_url }}" alt="Listing image for GENRE CIDE COMPILATION cd/record Music Store Promo Poster ALICE IN CHAINS GRUNGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">GENRE CIDE COMPILATION cd/record Music Store Promo Poster ALICE IN CHAINS GRUNGE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music genre poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: music genre poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+genre+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music genre poster -book -books" data-ebay-reference="algorithms-e34b11-do-music-algorithms-broaden-taste-music-music-genre-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ The key lesson is that discovery does not emerge automatically from abundance. W
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ The key lesson is that discovery does not emerge automatically from abundance. W
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ The key lesson is that discovery does not emerge automatically from abundance. W
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ The key lesson is that discovery does not emerge automatically from abundance. W
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ The key lesson is that discovery does not emerge automatically from abundance. W
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,150 +745,150 @@ The key lesson is that discovery does not emerge automatically from abundance. W
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9353048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness in Music Recommender Systems: A Stakeholder...by K Dinnissen · 2022 · Cited by 54 — This mini review, therefore, outlines cu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Recommender system  
-   Link: <a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recommender_system</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recommender_system</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 56 — The impact of streaming platforms on musical pro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: <a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</p></details>
+   Link:<a href="https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify3 Dec 2020 — In this work, we analyze our users through the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being underrepr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.04696</a>  
+   Link:<a href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.04696</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Unfair Exposure of Artists in Music Recommendation  
-   Link: <a href="https://arxiv.org/abs/2003.11634" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.11634</a>  
+   Link:<a href="https://arxiv.org/abs/2003.11634" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.11634</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11257-024-09406-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 191 — In this paper, we discuss the...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11257-024-09406-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 191 — In this paper, we discuss the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv A Survey on Popularity Bias in Recommender Systems  
-   Link: <a href="https://arxiv.org/abs/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01118</a>  
+   Link:<a href="https://arxiv.org/abs/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01118</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.09517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.09517</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Popularity Bias in Music Recommendation Models and Commercial Steaming ServicesAugust 19, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2208.09517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.09517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Popularity Bias in Music Recommendation Models and Commercial Steaming ServicesAugust 19, 2022...</p></details>
    Published: August 19, 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1912.04696</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being un...Rea...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1912.04696</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being un...Rea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2504.04752v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.04752v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Popularity Bias Amplification in...7 Apr 2025 — This work summarizes our research on investigating the amplification of po...</p></details>
+   Link:<a href="https://arxiv.org/html/2504.04752v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2504.04752v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Popularity Bias Amplification in...7 Apr 2025 — This work summarizes our research on investigating the amplification of po...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2308.14601" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2308.14601</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating Popularity Bias For Music Discoveryby R Salganik · 2023 · Cited by 3 — To mitigate this issue we propose a domain-aware, indiv...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2308.14601" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2308.14601</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating Popularity Bias For Music Discoveryby R Salganik · 2023 · Cited by 3 — To mitigate this issue we propose a domain-aware, indiv...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2308.01118</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender systems help people find relevant content in a personalized way. One main promise of such systems is that they are.Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2308.01118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender systems help people find relevant content in a personalized way. One main promise of such systems is that they are.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: transactions.ismir.net  
-   Link: <a href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow">https://transactions.ismir.net/articles/10.5334/tismir.106</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</p></details>
+   Link:<a href="https://transactions.ismir.net/articles/10.5334/tismir.106" target="_blank" rel="noopener noreferrer nofollow">https://transactions.ismir.net/articles/10.5334/tismir.106</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Information Retrieval TransactionsDiversity by Design in Music Recommender Systemsby L Porcaro · 2021 · Cited by 33 — In this overv...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.atspotify.com  
    Title: algorithmic effects on the diversity of consumption on spotify  
-   Link: <a href="https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify1 Apr 2020 — However, we also find that algorithmically-dri...</p></details>
+   Link:<a href="https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications/algorithmic-effects-on-the-diversity-of-consumption-on-spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchAlgorithmic Effects on the Diversity of Consumption on Spotify1 Apr 2020 — However, we also find that algorithmically-dri...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research-portal.uu.nl  
-   Link: <a href="https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityUser-Driven Fairness in Music Recommendations: Effects...by SN Khan · 2025 — This study investigates how user-driven c...</p></details>
+   Link:<a href="https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/user-driven-fairness-in-music-recommendations-effects-on-experien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityUser-Driven Fairness in Music Recommendations: Effects...by SN Khan · 2025 — This study investigates how user-driven c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research.atspotify.com  
-   Link: <a href="https://research.atspotify.com/publications?category=evaluation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications?category=evaluation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchThe Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. David Holtz, Benjamin Carterette, Pra...</p></details>
+   Link:<a href="https://research.atspotify.com/publications?category=evaluation" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/publications?category=evaluation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify ResearchThe Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. David Holtz, Benjamin Carterette, Pra...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendation15 Apr 2020 — Research has shown that recommender systems are typically biased t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340573520_The_Unfairness_of_Popularity_Bias_in_Music_Recommendation_A_Reproducibility_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendation15 Apr 2020 — Research has shown that recommender systems are typically biased t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hcai.at  
-   Link: <a href="https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/" target="_blank" rel="noopener noreferrer nofollow">https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Item Popularity Bias of Music Recommender SystemsWe focus on music recommendation and conduct experiments on the recently relea...</p></details>
+   Link:<a href="https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/" target="_blank" rel="noopener noreferrer nofollow">https://hcai.at/publications/2021_RecSysLBR_PopBiasGender/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Item Popularity Bias of Music Recommender SystemsWe focus on music recommendation and conduct experiments on the recently relea...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularity Bias in Recommendation EnginesPopularity bias refers to a recommender system&#x27;s tendency to over-recommend items that are alrea...</p></details>
+   Link:<a href="https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popularity Bias in Recommendation EnginesPopularity bias refers to a recommender system&#x27;s tendency to over-recommend items that are alrea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blogs.biomedcentral.com  
-   Link: <a href="https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy for Fans of Beyond-Mainstream Music13 Apr 2021 — However, it is a widely-known problem that recommender systems are prone to pop...</p></details>
+   Link:<a href="https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy for Fans of Beyond-Mainstream Music13 Apr 2021 — However, it is a widely-known problem that recommender systems are prone to pop...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Bypassing the Popularity Bias: Repurposing Models...17 Sept 2024 — We propose a novel approach of repurposing existing components...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384680227_Bypassing_the_Popularity_Bias_Repurposing_Models_for_Better_Long-Tail_Recommendation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Bypassing the Popularity Bias: Repurposing Models...17 Sept 2024 — We propose a novel approach of repurposing existing components...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness and Transparency in Music Recommender SystemsFairMatch: A Graph-based Approach for Improving Aggregate Diversity in Recommender...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384754871_Fairness_and_Transparency_in_Music_Recommender_Systems_Improvements_for_Artists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fairness and Transparency in Music Recommender SystemsFairMatch: A Graph-based Approach for Improving Aggregate Diversity in Recommender...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 388827947 Effects of algorithmic curation in users' music taste on Spotify  
-   Link: <a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of algorithmic curation in users&#x27; music taste on Spotify8 May 2026 — A comprehensive review of the literature reveals that the pr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388827947_Effects_of_algorithmic_curation_in_users%27_music_taste_on_Spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of algorithmic curation in users&#x27; music taste on Spotify8 May 2026 — A comprehensive review of the literature reveals that the pr...</p></details>
    Published: May 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 341126150 Algorithmic Effects on the Diversity of Consumption on Spotify  
-   Link: <a href="https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Effects on the Diversity of Consumption on Spotify28 Feb 2026 — [3] found that following Spotify&#x27;s recommendations reduced th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341126150_Algorithmic_Effects_on_the_Diversity_of_Consumption_on_Spotify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Effects on the Diversity of Consumption on Spotify28 Feb 2026 — [3] found that following Spotify&#x27;s recommendations reduced th...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fairmuse.eu  
-   Link: <a href="https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of being unfair because they sustain or amplify biases and imbalances against some categories of...Read more...</p></details>
+   Link:<a href="https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fairmuse.eu/wp-content/uploads/2023/12/Tuning-In-A-Comprehensive-Analysis-of-Music-Recommender-Systems-Playlists-and-Algorithmic-Fairness.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of being unfair because they sustain or amplify biases and imbalances against some categories of...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: The Diversity of Music Recommender Systems Similarly, Anderson et al  
-   Link: <a href="https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[3] found that following Spotify&#x27;s recommendations reduced the diversity of the users&#x27; listening lists (see also [8]) and that users...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359434519_The_Diversity_of_Music_Recommender_Systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[3] found that following Spotify&#x27;s recommendations reduced the diversity of the users&#x27; listening lists (see also [8]) and that users...</p></details>

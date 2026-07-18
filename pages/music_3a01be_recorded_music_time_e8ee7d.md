@@ -506,11 +506,11 @@ Recorded music changed music by loosening it from the single time and place of p
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-overview.webp" | relative_url }}" alt="Overview image for Recording" loading="eager" decoding="sync" fetchpriority="high">
 ## From Event to Repeatable Object
 
-The earliest sound recording machines were startling because they made sound appear to survive its own disappearance. Edison’s 1877 phonograph was not the first attempt to trace sound, but it was the first generally reliable machine that could both record and play it back; even in 1878, Edison predicted that the phonograph would be “liberally devoted to music”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine How the Phonograph Changed Music Forever</span><span class="citation-popover-snippet">Smithsonian Magazine How the Phonograph Changed Music Forever</span></span></span> The practical result was a new kind of musical object. A performance no longer had to vanish when the singer stopped singing. It could be fixed, sold, replayed and compared.
+The earliest sound recording machines were startling because they made sound appear to survive its own disappearance. Edison’s 1877 phonograph was not the first attempt to trace sound, but it was the first generally reliable machine that could both record and play it back; even in 1878, Edison predicted that the phonograph would be “liberally devoted to music”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine How the Phonograph Changed Music Forever</span><span class="citation-popover-snippet">Smithsonian Magazine How the Phonograph Changed Music Forever</span></span></span> The practical result was a new kind of musical object. A performance no longer had to vanish when the singer stopped singing. It could be fixed, sold, replayed and compared.
 
 This changed time in a basic way. Live performance is irreversible: a wrong note, a held breath, a tempo choice or an unusually moving phrase passes once. A recording made those moments returnable. That returnability created new habits: listening again for detail, memorising a particular rendition, learning from a distant performer, and treating a specific take as definitive. It also made music collectible. The record, cylinder, tape, disc or file could sit on a shelf, in an archive, in a radio library or on a device, waiting to be reactivated.
 
-The change was not instant. The Library of Congress notes that early wax-cylinder phonographs were first aimed at uses such as dictation, but when that market disappointed, Edison’s company began selling pre-recorded popular music for use in offices, homes and coin-operated machines in public venues; by the early 1890s, a rudimentary recording industry had begun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Gramophone &#124; Articles and Essays &#124; Emile Berliner and the Birth of the Recording Industry &#124; Digital Collections &#124; Library of Congress...</span></span></span> In other words, recorded music emerged not only from invention, but from a discovery about listeners: people would pay to hear a performance without the performer being present.
+The change was not instant. The Library of Congress notes that early wax-cylinder phonographs were first aimed at uses such as dictation, but when that market disappointed, Edison’s company began selling pre-recorded popular music for use in offices, homes and coin-operated machines in public venues; by the early 1890s, a rudimentary recording industry had begun.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Gramophone &#124; Articles and Essays &#124; Emile Berliner and the Birth of the Recording Industry &#124; Digital Collections &#124; Library of Congress...</span></span></span> In other words, recorded music emerged not only from invention, but from a discovery about listeners: people would pay to hear a performance without the performer being present.
 
 The record also made comparison easier. A listener could hear the same aria, ballad or dance tune repeatedly, then judge other performances against it. Over time, this encouraged the idea that a recording could be the version of a song rather than merely a trace of one event. That distinction matters because it shifted [attention]({{ 'attention/' | relative_url }}) from music as an activity to music as a reproducible artefact.
 
@@ -519,9 +519,9 @@ The record also made comparison easier. A listener could hear the same aria, bal
 
 Recording first detached music from the original performance space; radio and portable devices then changed where playback could happen. The early phonograph and gramophone moved music into homes, shops, arcades and salons. Radio widened the effect by making distant performances and recordings part of shared domestic time. Later, the cassette player, the Walkman, the CD player, the MP3 player and the smartphone made listening mobile and increasingly private.
 
-This created a new geography of music. A singer recorded in one city could be heard in another country; a dance style could travel before its performers toured; a folk song, opera excerpt, jazz solo or pop chorus could circulate among people who would never meet. The Cambridge account of early recorded sound describes the period between Edison’s phonograph and the First World War as a transformation from isolated “talking machines” into the “music machines” of the twentieth century, shaped by inventors, entrepreneurs, performers and listeners together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentFrom Talking Machines to Music Machines: The Early Years of Recorded Sound and Playback in Picture...</span></span></span> University Press & Assessment The phrase matters because it shows that playback was not merely a device feature. It became a social practice.
+This created a new geography of music. A singer recorded in one city could be heard in another country; a dance style could travel before its performers toured; a folk song, opera excerpt, jazz solo or pop chorus could circulate among people who would never meet. The Cambridge account of early recorded sound describes the period between Edison’s phonograph and the First World War as a transformation from isolated “talking machines” into the “music machines” of the twentieth century, shaped by inventors, entrepreneurs, performers and listeners together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentFrom Talking Machines to Music Machines: The Early Years of Recorded Sound and Playback in Picture...</span></span></span> University Press & Assessment The phrase matters because it shows that playback was not merely a device feature. It became a social practice.
 
-Portable listening intensified that transformation. The boombox made recorded music public in streets and parks; headphones then made it personal. The Sony Walkman, released in 1979, became an emblem of this shift because it put cassette playback into a small, mobile format; Business Insider’s retrospective notes that it launched at US$150 and that Sony ultimately sold more than 400 million Walkman units. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/history-listening-to-music-recorded-walkman-2019-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Business InsiderWalkman Turns 40 Today: How Listening to Music Changed Over the Years - Business Insider...</span></span></span> The musical consequence was subtle but profound: listeners could carry a chosen sound-world through a city, train journey, bedroom, workplace or exercise routine. Place no longer dictated the music available there.
+Portable listening intensified that transformation. The boombox made recorded music public in streets and parks; headphones then made it personal. The Sony Walkman, released in 1979, became an emblem of this shift because it put cassette playback into a small, mobile format; Business Insider’s retrospective notes that it launched at US$150 and that Sony ultimately sold more than 400 million Walkman units.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/history-listening-to-music-recorded-walkman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Business InsiderWalkman Turns 40 Today: How Listening to Music Changed Over the Years - Business Insider...</span></span></span> The musical consequence was subtle but profound: listeners could carry a chosen sound-world through a city, train journey, bedroom, workplace or exercise routine. Place no longer dictated the music available there.
 
 Radio changed place in a different way. It synchronised listeners. A record lets many people hear the same performance at different times; a broadcast lets many people hear a performance, programme or hit record at the same time while remaining physically apart. Together, recording and broadcasting created modern musical mass [culture]({{ 'culture/' | relative_url }}): not one crowd in one hall, but dispersed audiences linked by the same sound.
 
@@ -531,9 +531,9 @@ Radio changed place in a different way. It synchronised listeners. A record lets
 
 Recording did not simply preserve memory; it reorganised it. Before recording, musical memory depended heavily on bodies, communities, notation, oral transmission and repeated live use. After recording, memory could attach to a particular sonic object: the crackle of a disc, the exact vocal phrasing of a singer, the room sound of a studio, the sequencing of an album, or the private circumstances in which a listener replayed it.
 
-This made recorded music unusually intimate. A recording can feel like a time machine because it brings a past performance into the present. The British Library’s Save Our Sounds programme was built around precisely this value: historic recordings can bring “events, sounds and voices from our past” into the present, but many [formats]({{ 'formats/' | relative_url }}) risk being lost through decay or obsolete playback equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagefund.org.uk">[The National Lottery Heritage Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagefund.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That archival urgency shows a paradox at the heart of recorded music. Recording promises preservation, yet each medium has its own fragility: wax cylinders wear down, shellac breaks, tape degrades, discs scratch, files corrupt and playback machines vanish.
+This made recorded music unusually intimate. A recording can feel like a time machine because it brings a past performance into the present. The British Library’s Save Our Sounds programme was built around precisely this value: historic recordings can bring “events, sounds and voices from our past” into the present, but many [formats]({{ 'formats/' | relative_url }}) risk being lost through decay or obsolete playback equipment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritagefund.org.uk">[The National Lottery Heritage Fund]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritagefund.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That archival urgency shows a paradox at the heart of recorded music. Recording promises preservation, yet each medium has its own fragility: wax cylinders wear down, shellac breaks, tape degrades, discs scratch, files corrupt and playback machines vanish.
 
-Archives reveal how much recorded music has changed historical imagination. The Library of Congress says it holds about 3.5 million sound recordings, including music, spoken word and radio broadcasts, across more than 110 years of sound-recording history and many formats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Major Audio Collections at the Library of Congress &#124; Tools &amp; Resources &#124; National Recording Preservation Plan &#124; Programs &#124; Library of Con...</span></span></span> Such collections allow listeners to hear voices, styles, accents and performance practices that would otherwise be known only through written description. They also expose gaps: not everything was recorded, not everything was preserved, and not every community had equal control over how its music was captured, labelled or circulated.
+Archives reveal how much recorded music has changed historical imagination. The Library of Congress says it holds about 3.5 million sound recordings, including music, spoken word and radio broadcasts, across more than 110 years of sound-recording history and many formats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Major Audio Collections at the Library of Congress &#124; Tools &amp; Resources &#124; National Recording Preservation Plan &#124; Programs &#124; Library of Con...</span></span></span> Such collections allow listeners to hear voices, styles, accents and performance practices that would otherwise be known only through written description. They also expose gaps: not everything was recorded, not everything was preserved, and not every community had equal control over how its music was captured, labelled or circulated.
 
 Memory through recording is therefore powerful but selective. Playback can make the past vivid, but it can also over-represent what companies, collectors, broadcasters or scholars chose to record. A surviving disc can become the “sound” of an era partly because other sounds were never fixed, or were fixed and then lost.
 
@@ -542,7 +542,7 @@ Memory through recording is therefore powerful but selective. Playback can make 
 
 Recording changed fame because it allowed performers to become familiar to listeners who had never seen them. In a live-only culture, reputation travelled through touring, sheet music, reviews, personal testimony and local performance networks. With records, a voice or instrumental style could circulate directly. Listeners could know the grain of a singer’s voice, the timing of a comedian, the attack of a pianist or the tone of a trumpet player without sharing a room with them.
 
-This altered what audiences valued. In the age of sheet music, a song could be popular because many people bought the notation and performed it themselves. As records became central, the identity of the performer and the specific recorded rendition grew more important. Daniela Furini’s study of recording and popular music argues that, during the 1920s and 1930s, recorded music gradually became a primary object of consumption, shifting emphasis away from the song as a general work and towards specific recordings marked by a performer’s voice or instrumental character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sibetrans.com">[sibetrans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sibetrans.com</span><span class="citation-popover-snippet">TRANS - Revista Transcultural de Música - Transcultural Music Review...</span></span></span>
+This altered what audiences valued. In the age of sheet music, a song could be popular because many people bought the notation and performed it themselves. As records became central, the identity of the performer and the specific recorded rendition grew more important. Daniela Furini’s study of recording and popular music argues that, during the 1920s and 1930s, recorded music gradually became a primary object of consumption, shifting emphasis away from the song as a general work and towards specific recordings marked by a performer’s voice or instrumental character.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sibetrans.com">[sibetrans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sibetrans.com</span><span class="citation-popover-snippet">TRANS - Revista Transcultural de Música - Transcultural Music Review...</span></span></span>
 
 The result was a new kind of stardom. Recording made singers, bands and instrumentalists repeatably present. It also made small details marketable: a vocal catch, a guitar tone, a drum sound, a studio effect, a producer’s signature texture. Fame no longer depended only on being impressive in a particular venue. It depended on making a sound that could survive repetition and still feel compelling.
 
@@ -554,11 +554,11 @@ This did not remove the importance of live performance. Instead, it changed the 
 
 The gain is obvious: recorded music multiplies access. It lets a listener hear a singer from another country, a musician from another century, a rare local tradition, a studio experiment or a private demo. It supports study, pleasure, fandom, preservation and global circulation. It also allows repetition, which deepens attention. A complex [rhythm]({{ 'rhythm/' | relative_url }}), lyric, [harmony]({{ 'harmony/' | relative_url }}) or production detail may only become clear after repeated listening.
 
-But something is lost when music is removed from its original time and place. A recording cannot fully reproduce the social setting of a performance: the room, the bodies, the acoustics, the risk, the audience response, the ceremony, the dancing, the weather, the fatigue, the local knowledge. Early recording also compressed and distorted sound. Acoustic recording before microphones had limited frequency and dynamic range, so musicians often had to adapt their placement, balance and style to the machine rather than simply “capture” a natural performance. Furini notes that early recording often created the illusion of live performance through deliberate recording strategies rather than offering a transparent copy of an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sibetrans.com">[sibetrans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sibetrans.com</span><span class="citation-popover-snippet">TRANS - Revista Transcultural de Música - Transcultural Music Review...</span></span></span>
+But something is lost when music is removed from its original time and place. A recording cannot fully reproduce the social setting of a performance: the room, the bodies, the acoustics, the risk, the audience response, the ceremony, the dancing, the weather, the fatigue, the local knowledge. Early recording also compressed and distorted sound. Acoustic recording before microphones had limited frequency and dynamic range, so musicians often had to adapt their placement, balance and style to the machine rather than simply “capture” a natural performance. Furini notes that early recording often created the illusion of live performance through deliberate recording strategies rather than offering a transparent copy of an event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sibetrans.com">[sibetrans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sibetrans.com</span><span class="citation-popover-snippet">TRANS - Revista Transcultural de Música - Transcultural Music Review...</span></span></span>
 
 Playback can also standardise taste. When one recording becomes famous, it can crowd out other local versions, improvisations or traditions of variation. The repeated object becomes a benchmark. That can be artistically productive, giving musicians a shared reference point, but it can also narrow the imagination of what a song might be.
 
-At the same time, recording opened creative possibilities that live performance alone could not offer. Tape and later digital tools made sound not only reproducible but alterable: sounds could be cut, layered, reversed, slowed, sped up, looped and transformed. One account of technology’s impact on musical experience notes that tape allowed composers to manipulate not only sound quality but also timespan, including compressing long works or stretching brief sounds into extended textures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.org">[www.music.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.org</span><span class="citation-popover-title">www.music.org The Impact of Technology on the Musical Experience</span><span class="citation-popover-snippet">www.music.org The Impact of Technology on the Musical Experience</span></span></span> In that sense, recording did not merely preserve music. It became a musical instrument.
+At the same time, recording opened creative possibilities that live performance alone could not offer. Tape and later digital tools made sound not only reproducible but alterable: sounds could be cut, layered, reversed, slowed, sped up, looped and transformed. One account of technology’s impact on musical experience notes that tape allowed composers to manipulate not only sound quality but also timespan, including compressing long works or stretching brief sounds into extended textures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.org">[www.music.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.org</span><span class="citation-popover-title">www.music.org The Impact of Technology on the Musical Experience</span><span class="citation-popover-snippet">www.music.org The Impact of Technology on the Musical Experience</span></span></span> In that sense, recording did not merely preserve music. It became a musical instrument.
 
 <img src="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-3-dark.svg" | relative_url }}" alt="Recording illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recorded_music_time_e8ee7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Recording Became a Place of Its Own
@@ -572,194 +572,194 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JwyD-4rFomA" title="Technology That Changed Recording History (Part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JwyD-4rFomA" target="_blank" rel="noopener noreferrer">Technology That Changed Recording History (Part 1)</a></p><p class="youtube-embed-meta">Channel: Audio University &middot; Views: 64.1K &middot; Uploaded: April 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JwyD-4rFomA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JwyD-4rFomA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Recording Changed What Music Is. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Recording Changed What Music Is. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Explains how recording and distribution changed music consumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how recording and distribution changed music consumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Includes discussion of recording, technology and listening environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of recording, technology and listening environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is Your Brain On Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uEzWSV84e_0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This Is Your Brain On Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is Your Brain On Music">This Is Your Brain On Music</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">Explores how repeated listening changes musical experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how repeated listening changes musical experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music+by+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Perfecting Sound Forever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6297164-M.jpg" alt="Cover for Perfecting Sound Forever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Perfecting Sound Forever">Perfecting Sound Forever</a>
-        </h4>
-        <p class="fr-book-author">By Greg Milner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Perfecting Sound Forever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6297164-M.jpg" alt="Cover for Perfecting Sound Forever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Perfecting Sound Forever">Perfecting Sound Forever</a>
+</h4>
+<p class="fr-book-author">By Greg Milner</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Sound, History, Musical perception, Psychological aspects, Recording and reproducing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Sound, History, Musical perception, Psychological aspects, Recording and reproducing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+Your+Brain+On+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is Your Brain On Music</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media"><img src="{{ '/assets/images/marketplace-covers/c25f7c6e735c91c6b38d.jpg' | relative_url }}" alt="Listing image for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media"><img src="{{ '/assets/images/marketplace-covers/c25f7c6e735c91c6b38d.jpg' | relative_url }}" alt="Listing image for Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Box On Air Studio Sign | DJ Recording Lighting | Cast Live Social Media</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts"><img src="{{ '/assets/images/marketplace-covers/1dc6adef073d0d5b9e31.jpg' | relative_url }}" alt="Listing image for ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">ON AIR LED Lightbox Sign Lamp Studio Recording Light for Streaming Podcasts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio"><img src="{{ '/assets/images/marketplace-covers/2c630d04252a78a272e9.jpg' | relative_url }}" alt="Listing image for Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Slight Damage - Light Box Recording Studio In Use | LED Sign | Retro Studio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box"><img src="{{ '/assets/images/marketplace-covers/935bd0b3d8b2da2cf937.jpg' | relative_url }}" alt="Listing image for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box"><img src="{{ '/assets/images/marketplace-covers/935bd0b3d8b2da2cf937.jpg' | relative_url }}" alt="Listing image for Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">Light Up Recording Studio In Use Sign - DJ Lighting Ambient Retro Wall Light Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recording studio sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: recording studio sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recording+studio+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recording-how-recording-changed-what-music-is-music-recording-studio-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recording studio sign" data-ebay-reference="recording-how-recording-changed-what-music-is-music-recording-studio-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -775,7 +775,7 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -795,7 +795,7 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -827,7 +827,7 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -879,7 +879,7 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -924,7 +924,7 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -965,116 +965,116 @@ That tension is not a flaw. It is the modern condition of music. Live performanc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: loc.gov  
    Title: The Library of Congress  
-   Link: <a href="https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gramophone | Articles and Essays | Emile Berliner and the Birth of the Recording Industry | Digital Collections | Library of Congress...</p></details>
+   Link:<a href="https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/emile-berliner/articles-and-essays/gramophone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gramophone | Articles and Essays | Emile Berliner and the Birth of the Recording Industry | Digital Collections | Library of Congress...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentFrom Talking Machines to Music Machines: The Early Years of Recorded Sound and Playback in Picture...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-the-gilded-age-and-progressive-era/article/from-talking-machines-to-music-machines-the-early-years-of-recorded-sound-and-playback-in-pictures-and-audio/985C2153A42C386B7231CA53A05074D6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentFrom Talking Machines to Music Machines: The Early Years of Recorded Sound and Playback in Picture...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: loc.gov  
    Title: The Library of Congress  
-   Link: <a href="https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Audio Collections at the Library of Congress | Tools &amp; Resources | National Recording Preservation Plan | Programs | Library of Con...</p></details>
+   Link:<a href="https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-recording-preservation-plan/tools-and-resources/major-audio-collections-at-library-of-congress/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Audio Collections at the Library of Congress | Tools &amp; Resources | National Recording Preservation Plan | Programs | Library of Con...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sibetrans.com  
-   Link: <a href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow">https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS - Revista Transcultural de Música - Transcultural Music Review...</p></details>
+   Link:<a href="https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music" target="_blank" rel="noopener noreferrer nofollow">https://www.sibetrans.com/trans/articulo/11/from-recording-performances-to-performing-recordings-recording-technology-and-shifting-ideologies-of-authorship-in-popular-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS - Revista Transcultural de Música - Transcultural Music Review...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: music.org  
    Title: www.music.org The Impact of Technology on the Musical Experience  
-   Link: <a href="https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html" target="_blank" rel="noopener noreferrer nofollow">https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html</a>  
+   Link:<a href="https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html" target="_blank" rel="noopener noreferrer nofollow">https://www.music.org/cms-reports/celebrating-the-40th-anniversary-of-the-museum-of-modern-art-tape-music-concert/the-impact-of-technology-on-the-musical-experience.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.cambridge.org  
    Title: 9780521863094 frontmatter  
-   Link: <a href="https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf</a>  
+   Link:<a href="https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805218/63094/frontmatter/9780521863094_frontmatter.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723</a>  
+   Link:<a href="https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40driftingcanvas/how-the-phonograph-shaped-our-world-cd0c9c2b3723</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine How the Phonograph Changed Music Forever  
-   Link: <a href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/</a>  
+   Link:<a href="https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/history-listening-to-music-recorded-walkman-2019-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/history-listening-to-music-recorded-walkman-2019-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderWalkman Turns 40 Today: How Listening to Music Changed Over the Years - Business Insider...</p></details>
+   Link:<a href="https://www.businessinsider.com/history-listening-to-music-recorded-walkman" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/history-listening-to-music-recorded-walkman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderWalkman Turns 40 Today: How Listening to Music Changed Over the Years - Business Insider...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: heritagefund.org.uk  
-   Link: <a href="https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost</a>  
+   Link:<a href="https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagefund.org.uk/news/british-library-pledge-save-nations-sounds-secures-ps95m-hlf-boost</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: British Library  
-   Link: <a href="https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/resources-by-archive-type/arts-archives/case-studies/british-library/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w4fMVk_30Z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w4fMVk_30Z0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=w4fMVk_30Z0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w4fMVk_30Z0</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=o1bljsbKP-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o1bljsbKP-U</a>  
+   Link:<a href="https://www.youtube.com/watch?v=o1bljsbKP-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o1bljsbKP-U</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Walkman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walkman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walkman</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: electronicsound.co.uk  
    Title: save our sounds  
-   Link: <a href="https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/</a>  
+   Link:<a href="https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsound.co.uk/features/long-reads/save-our-sounds/</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thereeltoreelrambler.com  
-   Link: <a href="https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/" target="_blank" rel="noopener noreferrer nofollow">https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/</a>  
+   Link:<a href="https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/" target="_blank" rel="noopener noreferrer nofollow">https://thereeltoreelrambler.com/reel-to-reel-tape-a-beginners-guide/a-brief-history-of-music-recording-where-tape-fits-in/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTAvzc1k8az/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTAvzc1k8az/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DTAvzc1k8az/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTAvzc1k8az/?hl=en</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/</a>  
+   Link:<a href="https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFPnewsenglish/posts/british-sound-artist-stuart-fowkes-has-launched-an-online-project-to-save-disapp/5785468204824468/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ief.hr  
-   Link: <a href="https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf</a>  
+   Link:<a href="https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ief.hr/wp-content/uploads/2022/01/Ceribasic-Music-as-recording-music-in-culture-i-study-of-early-rec-industry-in-ethnomusicology-Take-on-EBP-IRASM-21.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: liverpoolmuseums.org.uk  
-   Link: <a href="https://www.liverpoolmuseums.org.uk/early-recording-technologies" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpoolmuseums.org.uk/early-recording-technologies</a>  
+   Link:<a href="https://www.liverpoolmuseums.org.uk/early-recording-technologies" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpoolmuseums.org.uk/early-recording-technologies</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: smithsonianeducation.org  
-   Link: <a href="https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf</a>  
+   Link:<a href="https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smithsonianeducation.org/educators/lesson_plans/radio/ATZ_HelloAmerica_Fall1986.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUL3GdUgbrv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUL3GdUgbrv/</a>  
+   Link:<a href="https://www.instagram.com/p/DUL3GdUgbrv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUL3GdUgbrv/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: volofun.com  
-   Link: <a href="https://volofun.com/history-of-music-machines/" target="_blank" rel="noopener noreferrer nofollow">https://volofun.com/history-of-music-machines/</a>  
+   Link:<a href="https://volofun.com/history-of-music-machines/" target="_blank" rel="noopener noreferrer nofollow">https://volofun.com/history-of-music-machines/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: classicalbumsundays.com  
-   Link: <a href="https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/" target="_blank" rel="noopener noreferrer nofollow">https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/</a>  
+   Link:<a href="https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/" target="_blank" rel="noopener noreferrer nofollow">https://classicalbumsundays.com/how-has-the-recording-studio-affected-the-ways-in-which-music-is-created/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/</a>
+   Link:<a href="https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunsetblvdrecords/posts/it-happened-on-this-daythe-single-most-important-factor-in-the-history-of-music-/1086034300204383/</a>

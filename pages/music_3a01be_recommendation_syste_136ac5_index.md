@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-recommendation-syste/
 description: Focused pages that expand on Algorithms.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_recommendation_syste_136ac5
 parent_title: Algorithms
@@ -16,7 +16,7 @@ parent_permalink: /algorithms/
 
 # Explore Topics in Algorithms
 
-The following pages expand on the main **[Algorithms]({{ '/algorithms/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Algorithms]({{ '/algorithms/' | relative_url }})** page and cover its key branches in.
 
 - [Autoplay]({{ '/autoplay/' | relative_url }})
 - [Cold Start]({{ '/cold-start/' | relative_url }})

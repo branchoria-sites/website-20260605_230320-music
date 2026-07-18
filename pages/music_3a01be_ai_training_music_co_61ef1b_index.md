@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-ai-training-music-co/
 description: Focused pages that expand on AI Training.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: music_3a01be_ai_training_music_co_61ef1b
 parent_title: AI Training
@@ -16,7 +16,7 @@ parent_permalink: /ai-training/
 
 # Explore Topics in AI Training
 
-The following pages expand on the main **[AI Training]({{ '/ai-training/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[AI Training]({{ '/ai-training/' | relative_url }})** page and cover its key branches in.
 
 - [Licensing]({{ '/licensing/' | relative_url }})
 - [Voice Imitation]({{ '/voice-imitation/' | relative_url }})

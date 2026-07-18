@@ -274,33 +274,33 @@ image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim
 
 ## Introduction
 
-When a songwriter misses a live-performance reporting deadline, the problem is often not that the music was never played. The problem is that the evidence arrived too late. At many small venues, royalties depend on performers, writers or their representatives submitting setlists within a defined claim window. Once that window closes, the performance may no longer be eligible for payment, even if the venue was properly licensed and the songs were genuinely performed. For [grassroots]({{ 'grassroots/' | relative_url }}) artists who play dozens of pubs, clubs and small-ticket shows each year, these missed claims can quietly remove a meaningful stream of income from their [catalogue]({{ 'catalogue/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span>
+When a songwriter misses a live-performance reporting deadline, the problem is often not that the music was never played. The problem is that the evidence arrived too late. At many small venues, royalties depend on performers, writers or their representatives submitting setlists within a defined claim window. Once that window closes, the performance may no longer be eligible for payment, even if the venue was properly licensed and the songs were genuinely performed. For [grassroots]({{ 'grassroots/' | relative_url }}) artists who play dozens of pubs, clubs and small-ticket shows each year, these missed claims can quietly remove a meaningful stream of income from their [catalogue]({{ 'catalogue/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e-Illustration-1-dark.svg" | relative_url }}" alt="Claim Deadlines illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the least visible reasons missing setlists matter. The royalty system may collect money from licensed live music activity, but without timely performance data, small-venue performances can become difficult or impossible to allocate to the correct writers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
+This is one of the least visible reasons missing setlists matter. The royalty system may collect money from licensed live music activity, but without timely performance data, small-venue performances can become difficult or impossible to allocate to the correct writers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
 
 ## Why Claim Windows Matter for Live Royalties
 
 Collecting societies do not generally keep live-performance claims open indefinitely. They operate distribution schedules, verification processes and allocation rules that require performance information to arrive within specified time limits.
 
-In the UK, PRS for Music requires claims for performances at small venues under its Gigs and Clubs scheme to be submitted within 12 months. Larger concert categories often have longer reporting periods, but grassroots shows frequently fall under the shorter timetable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
+In the UK, PRS for Music requires claims for performances at small venues under its Gigs and Clubs scheme to be submitted within 12 months. Larger concert categories often have longer reporting periods, but grassroots shows frequently fall under the shorter timetable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
 
-Other societies use different deadlines but follow the same principle. BMI Live in the United States notes that performances are generally eligible for submission for only a limited period after the event, typically up to nine months. ASCAP's OnStage programme likewise ties eligibility to defined reporting periods and distribution cycles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">BMI LivePlease also note the submission timelines; performances are generally eligible for submission up to 9 months after the date of th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP OnStageASCAP OnStage Deadlines. The deadline for submitting ASCAP OnStage performances is ongoing, starting from the top of the pre...</span></span></span>
+Other societies use different deadlines but follow the same principle. BMI Live in the United States notes that performances are generally eligible for submission for only a limited period after the event, typically up to nine months. ASCAP's OnStage programme likewise ties eligibility to defined reporting periods and distribution cycles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">BMI LivePlease also note the submission timelines; performances are generally eligible for submission up to 9 months after the date of th...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascap.com">[ASCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascap.com</span><span class="citation-popover-snippet">ASCAP OnStageASCAP OnStage Deadlines. The deadline for submitting ASCAP OnStage performances is ongoing, starting from the top of the pre...</span></span></span>
 
-The practical consequence is straightforward: a songwriter who remembers a gig two years later may discover that the performance can no longer be claimed. Even when the venue paid [licensing]({{ 'licensing/' | relative_url }}) fees and the songs were performed exactly as required, the reporting opportunity may have expired. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
+The practical consequence is straightforward: a songwriter who remembers a gig two years later may discover that the performance can no longer be claimed. Even when the venue paid [licensing]({{ 'licensing/' | relative_url }}) fees and the songs were performed exactly as required, the reporting opportunity may have expired.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
 
 ## How Small Venues Create Deadline Risk
 
 Small venues generate a particular kind of administrative risk because they often rely on artist reporting rather than comprehensive event documentation.
 
-A major arena concert leaves a substantial paper trail: ticketing records, promoter data, production schedules and publicity materials. A Wednesday-night performance in a pub, community venue or small club may leave far less documentation. If performers do not retain a setlist, note the date correctly or remember the venue details, reconstructing the claim months later becomes difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span>
+A major arena concert leaves a substantial paper trail: ticketing records, promoter data, production schedules and publicity materials. A Wednesday-night performance in a pub, community venue or small club may leave far less documentation. If performers do not retain a setlist, note the date correctly or remember the venue details, reconstructing the claim months later becomes difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span>
 
 Several factors make deadline failures common:
 
-* **Low awareness among emerging artists.** Many writers do not realise live performances can generate [royalties]({{ 'royalties/' | relative_url }}) at all until long after a tour has ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-snippet">Ari&#x27;s TakeIf You Perform Live, You Could Be Missing Out On Lots of...13 Dec 2018 — You&#x27;re not going to hurt your favorite local venue by...</span></span></span>
+* **Low awareness among emerging artists.** Many writers do not realise live performances can generate [royalties]({{ 'royalties/' | relative_url }}) at all until long after a tour has ended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aristake.com">[Ari&#x27;s Take]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aristake.com</span><span class="citation-popover-snippet">Ari&#x27;s TakeIf You Perform Live, You Could Be Missing Out On Lots of...13 Dec 2018 — You&#x27;re not going to hurt your favorite local venue by...</span></span></span>
 * **Informal gig administration.** Grassroots shows often involve handwritten setlists, last-minute substitutions and limited record-keeping.
 * **Tour fatigue.** Musicians playing multiple dates may postpone reporting until the end of a run, increasing the chance that some shows are forgotten.
-* **Assumptions that someone else will report.** Writers may assume a publisher, manager, venue or promoter has already handled the claim when no such report has been filed. PRS itself has highlighted this misconception in member guidance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DMciKhxoixj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">PRS for Music on Instagram: &quot;Are you making the most out of your...July 23, 2025 — MYTH: My publisher will handle my live perfo...</span><span class="citation-popover-meta">Published: July 23, 2025</span></span></span>
+* **Assumptions that someone else will report.** Writers may assume a publisher, manager, venue or promoter has already handled the claim when no such report has been filed. PRS itself has highlighted this misconception in member guidance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DMciKhxoixj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">PRS for Music on Instagram: &quot;Are you making the most out of your...July 23, 2025 — MYTH: My publisher will handle my live perfo...</span><span class="citation-popover-meta">Published: July 23, 2025</span></span></span>
 
 The result is not usually a dramatic dispute. Instead, income simply fails to appear because the performance never enters the royalty distribution process in time.
 
@@ -308,9 +308,9 @@ The result is not usually a dramatic dispute. Instead, income simply fails to ap
 
 The answer depends on the collecting society's rules, but the general pattern is that late claims become increasingly difficult to process and may eventually be excluded altogether.
 
-BMI explicitly states that it does not provide adjustments for missed BMI Live performance periods once distributions have already been completed. In practical terms, a songwriter who misses the eligible reporting window may lose the opportunity to receive payment for that performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/international/entry/bmi_live_user_guide_for_societies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">Frequently Asked Questions (FAQ) by Sister Societies Yes</span><span class="citation-popover-snippet">All live concert claims must be submitted through the BMI Live online application. We will not be accepting claims outside of BMI Live wi...</span></span></span>
+BMI explicitly states that it does not provide adjustments for missed BMI Live performance periods once distributions have already been completed. In practical terms, a songwriter who misses the eligible reporting window may lose the opportunity to receive payment for that performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/international/entry/bmi_live_user_guide_for_societies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-title">Frequently Asked Questions (FAQ) by Sister Societies Yes</span><span class="citation-popover-snippet">All live concert claims must be submitted through the BMI Live online application. We will not be accepting claims outside of BMI Live wi...</span></span></span>
 
-In systems that distribute royalties according to submitted performance data, an unreported show creates a gap. The venue's licensing payments may still have been collected, but the specific songs and writers connected to that event cannot be matched accurately. Depending on the society's allocation policies, money linked to unidentifiable performances may eventually be redistributed through broader distribution methods rather than paid directly to the writers whose songs were actually played. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
+In systems that distribute royalties according to submitted performance data, an unreported show creates a gap. The venue's licensing payments may still have been collected, but the specific songs and writers connected to that event cannot be matched accurately. Depending on the society's allocation policies, money linked to unidentifiable performances may eventually be redistributed through broader distribution methods rather than paid directly to the writers whose songs were actually played.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</span></span></span>
 
 For songwriters working at grassroots level, this creates an asymmetry. The smallest performances often generate the smallest individual payments, but they are also the performances most likely to be forgotten. Missing twenty small claims can have a larger cumulative effect than missing one higher-profile show.
 
@@ -319,11 +319,11 @@ For songwriters working at grassroots level, this creates an asymmetry. The smal
 
 Consider a songwriter who completes a twenty-date pub and club tour in spring.
 
-The performances take place at licensed venues and include mostly original songs. The artist intends to submit the setlists after the tour finishes, but the files remain on a laptop, venue names become fuzzy and some dates are difficult to verify. Months pass. By the time the artist remembers, several claims are approaching or have already passed the reporting deadline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
+The performances take place at licensed venues and include mostly original songs. The artist intends to submit the setlists after the tour finishes, but the files remain on a laptop, venue names become fuzzy and some dates are difficult to verify. Months pass. By the time the artist remembers, several claims are approaching or have already passed the reporting deadline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
 
 Nothing about the performances themselves was invalid. The failure occurs at the reporting stage. Because the live-performance system depends on timely evidence, the missing paperwork becomes more important than the fact that the songs were actually played.
 
-This is why organisations such as PRS, BMI and ASCAP repeatedly encourage writers to submit performances promptly rather than waiting until the end of a year or tour cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">BMI LivePlease also note the submission timelines; performances are generally eligible for submission up to 9 months after the date of th...</span></span></span>
+This is why organisations such as PRS, BMI and ASCAP repeatedly encourage writers to submit performances promptly rather than waiting until the end of a year or tour cycle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmi.com">[BMI.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmi.com</span><span class="citation-popover-snippet">BMI LivePlease also note the submission timelines; performances are generally eligible for submission up to 9 months after the date of th...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e-Illustration-3-dark.svg" | relative_url }}" alt="Claim Deadlines illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Records Writers Need After a Show
@@ -344,7 +344,7 @@ Immediately after a performance, writers should retain:
 
 </div>
 
-Many societies allow online submission and provide tools for reusing previous setlists, making regular reporting easier than reconstructing months of performances from [memory]({{ 'memory/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
+Many societies allow online submission and provide tools for reusing previous setlists, making regular reporting easier than reconstructing months of performances from [memory]({{ 'memory/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
 
 For touring artists, the most effective practice is often to submit performances throughout the tour rather than waiting for its conclusion. The administrative burden is smaller, and the risk of crossing a claim deadline is greatly reduced.
 
@@ -354,199 +354,199 @@ For touring artists, the most effective practice is often to submit performances
 
 Established writers often have managers, publishers, administrators or royalty teams helping them track performance income. Independent songwriters are more likely to handle claims personally, making them more vulnerable to missed reporting windows.
 
-This helps explain why unreported live performances are frequently discussed as a grassroots issue rather than an arena-level one. A major concert is difficult to forget; a small local show played six months ago is not. Yet the principle is the same in both cases: live royalties depend on proving what was performed and doing so before the relevant claim window closes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
+This helps explain why unreported live performances are frequently discussed as a grassroots issue rather than an arena-level one. A major concert is difficult to forget; a small local show played six months ago is not. Yet the principle is the same in both cases: live royalties depend on proving what was performed and doing so before the relevant claim window closes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prsformusic.com">[PRS for Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prsformusic.com</span><span class="citation-popover-title">PRS for Music Reporting live performances</span><span class="citation-popover-snippet">PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">Tariff LP (Popular</span><span class="citation-popover-snippet">Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</span><span class="citation-popover-meta">Published: December 8, 2023</span></span></span>
 
-For songwriters, a missed deadline is therefore not merely an administrative mistake. It is one of the most direct ways that a genuine public performance can disappear from the royalty system and leave earned income unclaimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.prsformusic.com">[help.prsformusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.prsformusic.com</span><span class="citation-popover-snippet">How do I report a live performance to you?For performances in small UK venues, such as pubs or non-music-specific venues, you must submit...</span></span></span>
+For songwriters, a missed deadline is therefore not merely an administrative mistake. It is one of the most direct ways that a genuine public performance can disappear from the royalty system and leave earned income unclaimed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.prsformusic.com">[help.prsformusic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.prsformusic.com</span><span class="citation-popover-snippet">How do I report a live performance to you?For performances in small UK venues, such as pubs or non-music-specific venues, you must submit...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happens When Gig Claims Arrive Too Late?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happens When Gig Claims Arrive Too Late?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Provides context on rights administration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on rights administration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The plain and simple guide to music publishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1331461-M.jpg" alt="Cover for The plain and simple guide to music publishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The plain and simple guide to music publishing">The plain and simple guide to music publishing</a>
-        </h4>
-        <p class="fr-book-author">By Randall D. Wixen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The plain and simple guide to music publishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1331461-M.jpg" alt="Cover for The plain and simple guide to music publishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The plain and simple guide to music publishing">The plain and simple guide to music publishing</a>
+</h4>
+<p class="fr-book-author">By Randall D. Wixen</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Copyright, Economic aspects of Music, Music publishing, Music, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Copyright, Economic aspects of Music, Music publishing, Music, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+plain+and+simple+guide+to+music+publishing+Randall+D.+Wixen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+plain+and+simple+to+music+publishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The plain and simple to music publishing books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+plain+and+simple+to+music+publishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The plain and simple to music publishing books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangular UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: triangular UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangular+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangular UFO wall art poster" data-ebay-reference="what-happens-when-gig-claims-arrive-too-late-triangular-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ For songwriters, a missed deadline is therefore not merely an administrative mis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ For songwriters, a missed deadline is therefore not merely an administrative mis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ For songwriters, a missed deadline is therefore not merely an administrative mis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ For songwriters, a missed deadline is therefore not merely an administrative mis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ For songwriters, a missed deadline is therefore not merely an administrative mis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,151 +752,151 @@ For songwriters, a missed deadline is therefore not merely an administrative mis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: prsformusic.com  
    Title: PRS for Music Reporting live performances  
-   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/report-live-performances" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for MusicReporting live performances - PRS for MusicHow you can report performances in the UK, abroad and on tour so you can get paid...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: help.prsformusic.com  
-   Link: <a href="https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I report a live performance to you?For performances in small UK venues, such as pubs or non-music-specific venues, you must submit...</p></details>
+   Link:<a href="https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you" target="_blank" rel="noopener noreferrer nofollow">https://help.prsformusic.com/s/article/how-do-i-report-a-performance-to-you</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do I report a live performance to you?For performances in small UK venues, such as pubs or non-music-specific venues, you must submit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bmi.com  
-   Link: <a href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/special/bmi_live</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMI LivePlease also note the submission timelines; performances are generally eligible for submission up to 9 months after the date of th...</p></details>
+   Link:<a href="https://www.bmi.com/special/bmi_live" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/special/bmi_live</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMI LivePlease also note the submission timelines; performances are generally eligible for submission up to 9 months after the date of th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStageASCAP OnStage Deadlines. The deadline for submitting ASCAP OnStage performances is ongoing, starting from the top of the pre...</p></details>
+   Link:<a href="https://www.ascap.com/music-creators/ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/music-creators/ascap-onstage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStageASCAP OnStage Deadlines. The deadline for submitting ASCAP OnStage performances is ongoing, starting from the top of the pre...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maximize Your Membership with ASCAP OnStageThe deadline for submitting OnStage performances is ongoing, starting from the top of the prev...</p></details>
+   Link:<a href="https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-events/articles/2015/03/maximize-your-membership-ascap-onstage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maximize Your Membership with ASCAP OnStageThe deadline for submitting OnStage performances is ongoing, starting from the top of the prev...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMciKhxoixj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMciKhxoixj/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music on Instagram: &quot;Are you making the most out of your...July 23, 2025 — MYTH: My publisher will handle my live perfo...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMciKhxoixj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMciKhxoixj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRS for Music on Instagram: &quot;Are you making the most out of your...July 23, 2025 — MYTH: My publisher will handle my live perfo...</p></details>
    Published: July 23, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bmi.com  
    Title: Frequently Asked Questions (FAQ) by Sister Societies Yes  
-   Link: <a href="https://www.bmi.com/international/entry/bmi_live_user_guide_for_societies" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/international/entry/bmi_live_user_guide_for_societies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All live concert claims must be submitted through the BMI Live online application. We will not be accepting claims outside of BMI Live wi...</p></details>
+   Link:<a href="https://www.bmi.com/international/entry/bmi_live_user_guide_for_societies" target="_blank" rel="noopener noreferrer nofollow">https://www.bmi.com/international/entry/bmi_live_user_guide_for_societies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All live concert claims must be submitted through the BMI Live online application. We will not be accepting claims outside of BMI Live wi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
    Title: ✓ Some artists get  
-   Link: <a href="https://www.instagram.com/reel/DU_u-oEEyEN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU_u-oEEyEN/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even “free” shows can pay you Venues already pay for music...Log into your PRO (ASCAP/BMI), submit the venue, city, date, and setlist —...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DU_u-oEEyEN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU_u-oEEyEN/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even “free” shows can pay you Venues already pay for music...Log into your PRO (ASCAP/BMI), submit the venue, city, date, and setlist —...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
+   Link:<a href="https://www.ascap.com/help" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/news-and-events/calendar/event-details.aspx?eventid=4162803a-b2c2-4851-b13d-e083997f6068" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-and-events/calendar/event-details.aspx?eventid=4162803a-b2c2-4851-b13d-e083997f6068</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStage Deadline: January - March 2016 ShowsThe June 30th, 2016 deadline is for the submission of all live performance claims from...</p></details>
+   Link:<a href="https://www.ascap.com/news-and-events/calendar/event-details.aspx?eventid=4162803a-b2c2-4851-b13d-e083997f6068" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/news-and-events/calendar/event-details.aspx?eventid=4162803a-b2c2-4851-b13d-e083997f6068</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASCAP OnStage Deadline: January - March 2016 ShowsThe June 30th, 2016 deadline is for the submission of all live performance claims from...</p></details>
    Published: March 2016  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ascap.com  
-   Link: <a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentOnly an ASCAP writer member can submit an OnStage claim, and you must have direct deposit set up for your royalties...</p></details>
+   Link:<a href="https://www.ascap.com/help/royalties-and-payment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascap.com/help/royalties-and-payment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalties and PaymentOnly an ASCAP writer member can submit an OnStage claim, and you must have direct deposit set up for your royalties...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prsformusic.com  
-   Link: <a href="https://www.prsformusic.com/royalties/report-live-performances/performances-overseas" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances/performances-overseas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Performances overseasRoyalties for international performances usually arrive between 9 and 24 months after the claim is submitted, depend...</p></details>
+   Link:<a href="https://www.prsformusic.com/royalties/report-live-performances/performances-overseas" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/royalties/report-live-performances/performances-overseas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Performances overseasRoyalties for international performances usually arrive between 9 and 24 months after the claim is submitted, depend...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
+   Link:<a href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although PRS collects a share of ticket sales for royalty distribution, performances without identifiable setlists result in unallocated...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: musiciansunion.org.uk  
    Title: Tariff LP (Popular  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</p></details>
+   Link:<a href="https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/gigs-and-live-performances/how-to-report-live-performances-to-prs-for-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musicians&#x27; UnionHow to Report Live Performances to PRS for MusicDecember 8, 2023 — Live performances as part of this scheme need to be re...</p></details>
    Published: December 8, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aristake.com  
-   Link: <a href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/live-performance-royalties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ari&#x27;s TakeIf You Perform Live, You Could Be Missing Out On Lots of...13 Dec 2018 — You&#x27;re not going to hurt your favorite local venue by...</p></details>
+   Link:<a href="https://aristake.com/live-performance-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/live-performance-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ari&#x27;s TakeIf You Perform Live, You Could Be Missing Out On Lots of...13 Dec 2018 — You&#x27;re not going to hurt your favorite local venue by...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ascapfoundation.org  
-   Link: <a href="https://www.ascapfoundation.org/help/royalties-and-payment/payment/monetaryawards?presentation=foundation" target="_blank" rel="noopener noreferrer nofollow">https://www.ascapfoundation.org/help/royalties-and-payment/payment/monetaryawards?presentation=foundation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OnStage, Plus Awards, Live PerformancesWhile ASCAP concert music composers may apply for Plus Awards and submit programs via the Performa...</p></details>
+   Link:<a href="https://www.ascapfoundation.org/help/royalties-and-payment/payment/monetaryawards?presentation=foundation" target="_blank" rel="noopener noreferrer nofollow">https://www.ascapfoundation.org/help/royalties-and-payment/payment/monetaryawards?presentation=foundation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OnStage, Plus Awards, Live PerformancesWhile ASCAP concert music composers may apply for Plus Awards and submit programs via the Performa...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The songs don&#x27;t need to be recorded or released yet and it pays roughly $1-$2+ per original song...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicbusiness/comments/1d66ogc/submit_your_setlists_from_live_shows_to_get/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The songs don&#x27;t need to be recorded or released yet and it pays roughly $1-$2+ per original song...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: 3. Finally, based on the submitted setlist, the PROs will then pay  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our CEO Andrea Czapary Martin reflecting on Live royalties and the...May 11, 2026 — Musicians have 6 months in which to upload the setli...</p></details>
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/our-ceo-andrea-czapary-martin-reflecting-on-live-royalties-and-the-importance-of/1504353401060344/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our CEO Andrea Czapary Martin reflecting on Live royalties and the...May 11, 2026 — Musicians have 6 months in which to upload the setli...</p></details>
    Published: May 11, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: Does anyone know anything about dealing with PRS for live music  
-   Link: <a href="https://www.facebook.com/groups/ttgigs/posts/2736459873200979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ttgigs/posts/2736459873200979/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2024 — The problem with PRS is that venues with a PRS licence are meant to submit live performances to the PRS so that arti...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ttgigs/posts/2736459873200979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ttgigs/posts/2736459873200979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 30, 2024 — The problem with PRS is that venues with a PRS licence are meant to submit live performances to the PRS so that arti...</p></details>
    Published: September 30, 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/azopenmicandjams/posts/8013915485314998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/azopenmicandjams/posts/8013915485314998/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to deal with BMI licensing fees for live music in AZ?Hi, I recently cohosted the first Open Mic at a local cafe in a very small, rura...</p></details>
+   Link:<a href="https://www.facebook.com/groups/azopenmicandjams/posts/8013915485314998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/azopenmicandjams/posts/8013915485314998/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to deal with BMI licensing fees for live music in AZ?Hi, I recently cohosted the first Open Mic at a local cafe in a very small, rura...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: Question about reporting live performances: r/musicindustry  
-   Link: <a href="https://www.reddit.com/r/musicindustry/comments/bzzaym/question_about_reporting_live_performances/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/bzzaym/question_about_reporting_live_performances/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 13, 2019 — As a performer, you are not required to report anything to the PROs - that&#x27;s the responsibility of the venue, which...</p></details>
+   Link:<a href="https://www.reddit.com/r/musicindustry/comments/bzzaym/question_about_reporting_live_performances/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/musicindustry/comments/bzzaym/question_about_reporting_live_performances/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 13, 2019 — As a performer, you are not required to report anything to the PROs - that&#x27;s the responsibility of the venue, which...</p></details>
    Published: June 13, 2019  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blog.songtrust.com  
    Title: how to collect live performance royalties  
-   Link: <a href="https://blog.songtrust.com/how-to-collect-live-performance-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-to-collect-live-performance-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Publishing](&amp;#123;&amp;#123; &#x27;publishing/&#x27; | relative_url &amp;#125;&amp;#125;) Tips | Collect Live Performances Royalties1 Mar 2015 — To sign up for BMI Live, songwriters should log into its landing page o...</p></details>
+   Link:<a href="https://blog.songtrust.com/how-to-collect-live-performance-royalties" target="_blank" rel="noopener noreferrer nofollow">https://blog.songtrust.com/how-to-collect-live-performance-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Publishing](&amp;#123;&amp;#123; &#x27;publishing/&#x27; | relative_url &amp;#125;&amp;#125;) Tips | Collect Live Performances Royalties1 Mar 2015 — To sign up for BMI Live, songwriters should log into its landing page o...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: How to Claim Your PRS for Music Royalties  
-   Link: <a href="https://www.youtube.com/watch?v=LZ3ZqrU-00Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZ3ZqrU-00Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 8, 2025 — Subscribe to Sam Horton Music ▻ [https://rb.gy/d4zn0x](https://rb.gy/d4zn0x) Join Soundcraft Academy ▻ [https://shorturl.at/Uj5YA](https://shorturl.at/Uj5YA) Download...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LZ3ZqrU-00Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZ3ZqrU-00Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 8, 2025 — Subscribe to Sam Horton Music ▻ [https://rb.gy/d4zn0x](https://rb.gy/d4zn0x) Join Soundcraft Academy ▻ [https://shorturl.at/Uj5YA](https://shorturl.at/Uj5YA) Download...</p></details>
    Published: March 8, 2025  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q5EAbABwWRw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q5EAbABwWRw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ou perform live? Whenever you perform your music at a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q5EAbABwWRw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q5EAbABwWRw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ou perform live? Whenever you perform your music at a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Performance [Rights](&#123;&#123; 'rights/' | relative_url &#125;&#125;) Organizations and Live Music Royalties  
-   Link: <a href="https://www.youtube.com/watch?v=vV9V0j7sX8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV9V0j7sX8c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Royalty Distribution and Deadlines...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vV9V0j7sX8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV9V0j7sX8c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Royalty Distribution and Deadlines...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: How to Report Live Performances to PRS for Music  
-   Link: <a href="https://www.youtube.com/watch?v=Fj2a-6G_948" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj2a-6G_948</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties and Live Performance Reporting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fj2a-6G_948" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fj2a-6G_948</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music Royalties and Live Performance Reporting...</p></details>

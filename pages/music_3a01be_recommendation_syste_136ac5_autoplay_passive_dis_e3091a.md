@@ -268,25 +268,25 @@ image: /assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_
 
 ## Introduction
 
-Autoplay answers a deceptively simple question: who chooses the next song when the one you selected ends? On modern streaming platforms, the answer is often not the listener. Once an album, playlist or individual track finishes, autoplay systems generate a continuing queue of “similar” music, turning a deliberate choice into an extended recommendation session. Spotify, for example, describes Autoplay as a feature that automatically plays similar songs after a listening session ends so that the music does not stop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Autoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</span></span></span>
+Autoplay answers a deceptively simple question: who chooses the next song when the one you selected ends? On modern streaming platforms, the answer is often not the listener. Once an album, playlist or individual track finishes, autoplay systems generate a continuing queue of “similar” music, turning a deliberate choice into an extended recommendation session. Spotify, for example, describes Autoplay as a feature that automatically plays similar songs after a listening session ends so that the music does not stop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.spotify.com</span><span class="citation-popover-snippet">Autoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1-dark.svg" | relative_url }}" alt="Autoplay illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because a large share of music discovery no longer comes from active searching. Instead, it happens while listeners are doing something else: commuting, working, exercising or relaxing. In those moments, autoplay becomes a powerful discovery mechanism. It determines which artists receive an extra chance to be heard, which songs gain repeated exposure, and how much influence streaming platforms have over the path a listening session takes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[Dynamoi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">how does spotify autoplay choose songs</span><span class="citation-popover-snippet">Spotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</span></span></span>
+This matters because a large share of music discovery no longer comes from active searching. Instead, it happens while listeners are doing something else: commuting, working, exercising or relaxing. In those moments, autoplay becomes a powerful discovery mechanism. It determines which artists receive an extra chance to be heard, which songs gain repeated exposure, and how much influence streaming platforms have over the path a listening session takes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dynamoi.com">[Dynamoi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dynamoi.com</span><span class="citation-popover-title">how does spotify autoplay choose songs</span><span class="citation-popover-snippet">Spotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</span></span></span>
 
 ## How autoplay changes the listening session
 
 Autoplay changes discovery by extending a listener’s journey beyond their original intention. A person may actively choose one song, album or playlist, but the platform often chooses everything that follows.
 
-Spotify states that when an album, playlist or selection of songs ends, Autoplay automatically serves similar tracks. The recommendation process draws on listening behaviour and taste signals, while third-party analyses of Spotify’s system describe combinations of collaborative filtering and audio similarity measures such as tempo, energy and mood characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Note that if you have Repeat toggled on, it will override...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</span></span></span>
+Spotify states that when an album, playlist or selection of songs ends, Autoplay automatically serves similar tracks. The recommendation process draws on listening behaviour and taste signals, while third-party analyses of Spotify’s system describe combinations of collaborative filtering and audio similarity measures such as tempo, energy and mood characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Note that if you have Repeat toggled on, it will override...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Understanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</span></span></span>
 
 The result is a shift from active discovery to passive discovery:
 
 * **Active discovery** occurs when listeners search, browse or intentionally select music.
 * **Passive discovery** occurs when recommendations arrive automatically and are consumed with little or no intervention.
 
-This distinction matters because each autoplay decision creates a branching path. A listener who starts with a familiar track may end up hearing artists they have never searched for, not because they sought them out, but because the recommendation system judged them relevant to the session. Research on music streaming behaviour shows that algorithmic recommendation features play a significant role in how users encounter new music and navigate enormous catalogues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesis.eur.nl">[Erasmus University Thesis Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesis.eur.nl</span><span class="citation-popover-title">Stanisljevic D</span><span class="citation-popover-snippet">Spotify on music discovery among...Read more...</span></span></span>
+This distinction matters because each autoplay decision creates a branching path. A listener who starts with a familiar track may end up hearing artists they have never searched for, not because they sought them out, but because the recommendation system judged them relevant to the session. Research on music streaming behaviour shows that algorithmic recommendation features play a significant role in how users encounter new music and navigate enormous catalogues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesis.eur.nl">[Erasmus University Thesis Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesis.eur.nl</span><span class="citation-popover-title">Stanisljevic D</span><span class="citation-popover-snippet">Spotify on music discovery among...Read more...</span></span></span>
 
-Autoplay also benefits from timing. It appears precisely when a listener reaches a decision point. Rather than presenting [silence]({{ 'silence/' | relative_url }}) and requiring a new choice, the platform fills the gap with recommendations. Evidence from research on autoplay in digital media suggests that automatic continuation features can extend sessions and reduce the likelihood that users stop consuming content when one item ends. Although that research focuses on video streaming, the underlying behavioural principle is highly relevant to continuous music listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span></span></span>
+Autoplay also benefits from timing. It appears precisely when a listener reaches a decision point. Rather than presenting [silence]({{ 'silence/' | relative_url }}) and requiring a new choice, the platform fills the gap with recommendations. Evidence from research on autoplay in digital media suggests that automatic continuation features can extend sessions and reduce the likelihood that users stop consuming content when one item ends. Although that research focuses on video streaming, the underlying behavioural principle is highly relevant to continuous music listening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cpFXmuts4aE" title="How to Stop Spotify Playing Suggested Songs - Turn Off Autoplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cpFXmuts4aE" target="_blank" rel="noopener noreferrer">How to Stop Spotify Playing Suggested Songs - Turn Off Autoplay</a></p><p class="youtube-embed-meta">Channel: Gauging Gadgets &middot; Views: 277.2K &middot; Uploaded: December 2021 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cpFXmuts4aE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cpFXmuts4aE">Open on YouTube</a></p></div></div></div>
 
@@ -294,21 +294,21 @@ Autoplay also benefits from timing. It appears precisely when a listener reaches
 
 Autoplay increases platform influence because it moves recommendation decisions into the [background]({{ 'background/' | relative_url }}) of the listening experience.
 
-When users actively search for music, they exercise direct control over discovery. When autoplay takes over, the platform becomes an intermediary deciding which candidates deserve the next opportunity for exposure. The listener still retains ultimate control—they can skip, save or stop listening—but the initial selection is no longer theirs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Safety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</span></span></span>
+When users actively search for music, they exercise direct control over discovery. When autoplay takes over, the platform becomes an intermediary deciding which candidates deserve the next opportunity for exposure. The listener still retains ultimate control—they can skip, save or stop listening—but the initial selection is no longer theirs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spotify.com</span><span class="citation-popover-title">understanding recommendations</span><span class="citation-popover-snippet">Safety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</span></span></span>
 
 This creates several governance questions.
 
 ### What objectives are autoplay systems optimising?
 
-Streaming companies generally present recommendation systems as tools for listener satisfaction and relevance. Spotify explains that user actions such as listening, skipping, searching and saving help shape a personal taste profile that informs future recommendations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">I have Autoplay enabled, it just starts playing songs from my playlist and a few new...Read more...</span></span></span>
+Streaming companies generally present recommendation systems as tools for listener satisfaction and relevance. Spotify explains that user actions such as listening, skipping, searching and saving help shape a personal taste profile that informs future recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">I have Autoplay enabled, it just starts playing songs from my playlist and a few new...Read more...</span></span></span>
 
-However, recommendation systems do not optimise for a single goal. Platforms must balance user enjoyment, retention, engagement and commercial considerations. Spotify has publicly acknowledged that commercial factors can sometimes influence recommendations and notes that signals from its Discovery Mode programme may be incorporated into personalised listening sessions, including recommendation surfaces such as Radio and Autoplay. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Playlists are created specifically so that only certain songs are played. It...Read more...</span></span></span>
+However, recommendation systems do not optimise for a single goal. Platforms must balance user enjoyment, retention, engagement and commercial considerations. Spotify has publicly acknowledged that commercial factors can sometimes influence recommendations and notes that signals from its Discovery Mode programme may be incorporated into personalised listening sessions, including recommendation surfaces such as Radio and Autoplay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">Playlists are created specifically so that only certain songs are played. It...Read more...</span></span></span>
 
 For listeners, this means autoplay is not merely a neutral continuation tool. It is a ranking system that decides which tracks receive scarce [attention]({{ 'attention/' | relative_url }}) at moments when users are least likely to intervene.
 
 ### Why does repeated exposure matter?
 
-Autoplay is especially influential because music rewards repetition. Research on music consumption has documented the importance of the “mere exposure effect”, in which repeated encounters with a song can increase a listener’s interest before eventually reaching a saturation point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span></span></span>
+Autoplay is especially influential because music rewards repetition. Research on music consumption has documented the importance of the “mere exposure effect”, in which repeated encounters with a song can increase a listener’s interest before eventually reaching a saturation point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span><span class="citation-popover-snippet">arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms</span></span></span>
 
 An autoplay recommendation therefore has value beyond a single stream. If a track repeatedly appears in algorithmically generated queues, it gains multiple chances to become familiar. Familiarity can lead to saves, playlist additions and future voluntary listening. In practical terms, autoplay does not just introduce music; it can help establish it.
 
@@ -317,9 +317,9 @@ An autoplay recommendation therefore has value beyond a single stream. If a trac
 
 The answer is contested.
 
-Supporters argue that autoplay exposes listeners to artists they would never have searched for and reduces the friction of discovery. Platform studies and industry analyses often highlight recommendation features as tools that help users navigate overwhelming [catalogue]({{ 'catalogue/' | relative_url }}) sizes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Supporters argue that autoplay exposes listeners to artists they would never have searched for and reduces the friction of discovery. Platform studies and industry analyses often highlight recommendation features as tools that help users navigate overwhelming [catalogue]({{ 'catalogue/' | relative_url }}) sizes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Critics argue that passive discovery can increase dependence on algorithms and encourage repetitive recommendation patterns. MIDiA Research has noted that growing reliance on passive recommendation may strengthen user dependence on algorithmic selection while not necessarily translating into broader [artist discovery]({{ 'artist-discovery/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">music discovery is not dead just evolving the industry needs to evolve with it</span><span class="citation-popover-snippet">MIDiA ResearchMusic discovery is not dead, just evolving – the industry...9 May 2025 — While the shift towards passive discovery may hel...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Critics argue that passive discovery can increase dependence on algorithms and encourage repetitive recommendation patterns. MIDiA Research has noted that growing reliance on passive recommendation may strengthen user dependence on algorithmic selection while not necessarily translating into broader [artist discovery]({{ 'artist-discovery/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: midiaresearch.com">[MIDiA Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">midiaresearch.com</span><span class="citation-popover-title">music discovery is not dead just evolving the industry needs to evolve with it</span><span class="citation-popover-snippet">MIDiA ResearchMusic discovery is not dead, just evolving – the industry...9 May 2025 — While the shift towards passive discovery may hel...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The tension is central to understanding autoplay. It can expand exposure beyond a listener's existing habits, yet it can also concentrate attention on whatever the ranking system decides is safest or most engaging.
 
@@ -328,7 +328,7 @@ The tension is central to understanding autoplay. It can expand exposure beyond 
 
 For artists, autoplay is attractive because it sits at a crucial point in the listening funnel: after a listener has already committed to listening to something.
 
-Unlike a search result, which requires deliberate interest, an autoplay recommendation reaches users during an ongoing session. This can create opportunities for emerging artists who fit a listener’s established tastes. Industry discussions increasingly treat radio-style recommendation surfaces and autoplay queues as important sources of algorithmic discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-tomorrow.com">[music-tomorrow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-tomorrow.com</span><span class="citation-popover-title">How the Discover Weekly Algorithm Works (And Why Your</span><span class="citation-popover-snippet">February 12, 2026 — 11 Feb 2026 — Algorithmic recommendation systems have become the dominant mode of music discovery — and a central pil...</span><span class="citation-popover-meta">Published: February 12, 2026</span></span></span>
+Unlike a search result, which requires deliberate interest, an autoplay recommendation reaches users during an ongoing session. This can create opportunities for emerging artists who fit a listener’s established tastes. Industry discussions increasingly treat radio-style recommendation surfaces and autoplay queues as important sources of algorithmic discovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music-tomorrow.com">[music-tomorrow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music-tomorrow.com</span><span class="citation-popover-title">How the Discover Weekly Algorithm Works (And Why Your</span><span class="citation-popover-snippet">February 12, 2026 — 11 Feb 2026 — Algorithmic recommendation systems have become the dominant mode of music discovery — and a central pil...</span><span class="citation-popover-meta">Published: February 12, 2026</span></span></span>
 
 The incentive structure is significant.
 
@@ -340,11 +340,11 @@ Recommendation systems often evaluate signals such as:
 * Playlist additions.
 * Subsequent listening behaviour.
 
-Artists therefore have strong incentives to create tracks that perform well when inserted into recommendation streams. Songs that are quickly skipped may struggle to gain further algorithmic support, while tracks that keep listeners engaged may receive additional exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatstorapon.com">[Beats To Rap On]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatstorapon.com</span><span class="citation-popover-snippet">Beats To Rap OnSpotify&#x27;s Music Recommendation Algorithm: The Complete...March 1, 2025 — 1 Mar 2025 — Spotify&#x27;s algorithm pays close atte...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
+Artists therefore have strong incentives to create tracks that perform well when inserted into recommendation streams. Songs that are quickly skipped may struggle to gain further algorithmic support, while tracks that keep listeners engaged may receive additional exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatstorapon.com">[Beats To Rap On]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatstorapon.com</span><span class="citation-popover-snippet">Beats To Rap OnSpotify&#x27;s Music Recommendation Algorithm: The Complete...March 1, 2025 — 1 Mar 2025 — Spotify&#x27;s algorithm pays close atte...</span><span class="citation-popover-meta">Published: March 1, 2025</span></span></span>
 
 This can encourage strategic behaviour. Instead of focusing solely on attracting fans through active search or editorial coverage, artists increasingly pay attention to how their music behaves inside recommendation environments.
 
-At the same time, autoplay introduces concerns about fairness and transparency. Spotify's Discovery Mode programme has attracted debate because participating tracks can receive an additional recommendation signal in personalised listening environments, while participating artists accept reduced royalty rates on eligible streams. Critics argue that such arrangements raise questions about whether recommendation visibility is being indirectly influenced by financial trade-offs. Spotify <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">3 things to know about Spotify&#x27;s controversial new &#x27;pay for...4 Nov 2020 — Spotify revealed that it would soon be testing a controversia...</span></span></span>
+At the same time, autoplay introduces concerns about fairness and transparency. Spotify's Discovery Mode programme has attracted debate because participating tracks can receive an additional recommendation signal in personalised listening environments, while participating artists accept reduced royalty rates on eligible streams. Critics argue that such arrangements raise questions about whether recommendation visibility is being indirectly influenced by financial trade-offs. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">3 things to know about Spotify&#x27;s controversial new &#x27;pay for...4 Nov 2020 — Spotify revealed that it would soon be testing a controversia...</span></span></span>
 
 For independent artists, the challenge is that autoplay exposure can be highly valuable but remains largely governed by ranking systems that are not fully visible to the public.
 
@@ -354,201 +354,201 @@ For independent artists, the challenge is that autoplay exposure can be highly v
 
 The practical answer is that listeners and platforms share the decision, but not equally at every moment.
 
-The listener makes the first choice: selecting a song, artist, playlist or album. Once that selection ends, autoplay systems often determine the next opportunity for discovery. The listener can still skip, save, replay or stop listening, but the platform has already shaped the menu of possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">songs still playing after turning Autopl...14 Jun 2023 — Spotify&#x27;s free tier sometimes overrides Autoplay settings to encourage discovery...</span></span></span>
+The listener makes the first choice: selecting a song, artist, playlist or album. Once that selection ends, autoplay systems often determine the next opportunity for discovery. The listener can still skip, save, replay or stop listening, but the platform has already shaped the menu of possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.spotify.com</span><span class="citation-popover-snippet">songs still playing after turning Autopl...14 Jun 2023 — Spotify&#x27;s free tier sometimes overrides Autoplay settings to encourage discovery...</span></span></span>
 
 That makes autoplay one of the most influential forms of recommendation in music streaming. It operates during moments of low friction, affects what listeners hear when they are not actively searching, and can provide artists with the repeated exposure that turns unfamiliar music into familiar favourites. The governance question is not whether autoplay discovers music—it clearly does—but how transparently and fairly platforms decide what comes next.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4yc8iNnbQAM" title="How to Turn Off Autoplay in Spotify Mobile App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer">How to Turn Off Autoplay in Spotify Mobile App</a></p><p class="youtube-embed-meta">Channel: Max Dalton &middot; Views: 10.5K &middot; Uploaded: January 2026 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4yc8iNnbQAM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who chooses the next song?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who chooses the next song?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Surveillance Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7ZEDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Surveillance Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Surveillance Capitalism">The Age of Surveillance Capitalism</a>
-        </h4>
-        <p class="fr-book-author">By Shoshana Zuboff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Surveillance Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7ZEDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Surveillance Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Surveillance Capitalism">The Age of Surveillance Capitalism</a>
+</h4>
+<p class="fr-book-author">By Shoshana Zuboff</p>
         
-        <p class="fr-book-desc">Addresses how platforms shape behavior through prediction systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how platforms shape behavior through prediction systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
+</h4>
+<p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
         
-        <p class="fr-book-desc">Introduces algorithmic decision-making concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces algorithmic decision-making concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Provides context for opaque automated systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for opaque automated systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computing Taste on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computing Taste">Computing Taste</a>
-        </h4>
-        <p class="fr-book-author">By Nick Seaver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computing Taste on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computing Taste">Computing Taste</a>
+</h4>
+<p class="fr-book-author">By Nick Seaver</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computing+Taste+Nick+Seaver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Surveillance Capitalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Surveillance Capitalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top"><img src="{{ '/assets/images/marketplace-covers/6829b3ccc916e3ea2078.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top"><img src="{{ '/assets/images/marketplace-covers/6829b3ccc916e3ea2078.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top"><img src="{{ '/assets/images/marketplace-covers/6829b3ccc916e3ea2078.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top"><img src="{{ '/assets/images/marketplace-covers/6829b3ccc916e3ea2078.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens Cotton T-Shirt Tee Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens Light Cotton T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c16a828efb058901691c.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens Light Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens Light Cotton T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens Light Cotton T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c16a828efb058901691c.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens Light Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens Light Cotton T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/a916b0f582ecaa285652.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens T-Shirt 100% Cotton</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music I am Your Grandfather DJ Stream Vinyl Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/a916b0f582ecaa285652.jpg' | relative_url }}" alt="Listing image for Music I am Your Grandfather DJ Stream Vinyl Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Music I am Your Grandfather DJ Stream Vinyl Mens T-Shirt 100% Cotton</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for music streaming t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: music streaming t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=music+streaming+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="music streaming t shirt" data-ebay-reference="autoplay-who-chooses-the-next-song-music-music-streaming-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ That makes autoplay one of the most influential forms of recommendation in music
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ That makes autoplay one of the most influential forms of recommendation in music
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ That makes autoplay one of the most influential forms of recommendation in music
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ That makes autoplay one of the most influential forms of recommendation in music
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ That makes autoplay one of the most influential forms of recommendation in music
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,233 +754,233 @@ That makes autoplay one of the most influential forms of recommendation in music
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: support.spotify.com  
-   Link: <a href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/uk/article/autoplay/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</p></details>
+   Link:<a href="https://support.spotify.com/uk/article/autoplay/" target="_blank" rel="noopener noreferrer nofollow">https://support.spotify.com/uk/article/autoplay/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autoplay tracksAutoplay tracks. When you reach the end of an album, playlist, or selection of songs, Spotify automatically plays s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Note that if you have Repeat toggled on, it will override...Read more...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/I-want-suggested-music-to-play-at-the-end-of-an-album-Playlist/td-p/6184159</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Note that if you have Repeat toggled on, it will override...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dynamoi.com  
    Title: how does spotify autoplay choose songs  
-   Link: <a href="https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</p></details>
+   Link:<a href="https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs" target="_blank" rel="noopener noreferrer nofollow">https://dynamoi.com/learn/spotify-algorithm/how-does-spotify-autoplay-choose-songs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Autoplay Algorithm [2026]28 Apr 2026 — Spotify Autoplay queues tracks using audio analysis and collaborative filtering. Ov...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</p></details>
+   Link:<a href="https://www.spotify.com/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding recommendations on Spotify12 Mar 2026 — As you engage with Spotify, actions such as searching, listening, skipping...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Tracing Affordance and Item Adoption on Music Streaming Platforms  
-   Link: <a href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.03538</a>  
+   Link:<a href="https://arxiv.org/abs/2109.03538" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.03538</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.16040</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Experimental Study Of Netflix Use and the Effects of Autoplay on Watching BehaviorsDecember 20, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.16040</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Experimental Study Of Netflix Use and the Effects of Autoplay on Watching BehaviorsDecember 20, 2024...</p></details>
    Published: December 20, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spotify.com  
    Title: understanding recommendations  
-   Link: <a href="https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</p></details>
+   Link:<a href="https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and Privacy Centre12 Mar 2026 — Spotify prioritises listener satisfaction when recommending content. In some cases, commerc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.16226</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2210.16226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.16226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery Dynamics: Leveraging Repeated Exposure for User and Music CharacterizationOctober 28, 2022...</p></details>
    Published: October 28, 2022  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: music-tomorrow.com  
    Title: How the [Discover Weekly](&#123;&#123; 'discover-weekly/' | relative_url &#125;&#125;) Algorithm Works (And Why Your  
-   Link: <a href="https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2026 — 11 Feb 2026 — Algorithmic recommendation systems have become the dominant mode of music discovery — and a central pil...</p></details>
+   Link:<a href="https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://music-tomorrow.com/blog/how-to-get-on-discover-weekly-spotify-algorithm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2026 — 11 Feb 2026 — Algorithmic recommendation systems have become the dominant mode of music discovery — and a central pil...</p></details>
    Published: February 12, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I have Autoplay enabled, it just starts playing songs from my playlist and a few new...Read more...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Your-Library/Recommend-Songs-don-t-start-playing-after-the-playlist-is/td-p/5789077</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I have Autoplay enabled, it just starts playing songs from my playlist and a few new...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists are created specifically so that only certain songs are played. It...Read more...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Turn-off-autoplay-recommended-songs-on-playlists/td-p/5836719</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Playlists are created specifically so that only certain songs are played. It...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>songs still playing after turning Autopl...14 Jun 2023 — Spotify&#x27;s free tier sometimes overrides Autoplay settings to encourage discovery...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Accounts/Suggested-songs-still-playing-after-turning-Autoplay-off-and/td-p/5595959</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>songs still playing after turning Autopl...14 Jun 2023 — Spotify&#x27;s free tier sometimes overrides Autoplay settings to encourage discovery...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Click on your profile picture at the top right corner and select Settings. Scroll down to...Read more...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/quot-Autoplay-quot-option-missing-from-quot-Settings-quot-page/td-p/5759057</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click on your profile picture at the top right corner and select Settings. Scroll down to...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Well its not doing that it automatically go&#x27;s back to the first...Read more...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/Not-auto-playing-similar-songs-when-music-ends/td-p/4936261</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Well its not doing that it automatically go&#x27;s back to the first...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When you reach the end of an album, playlist, or selection of tracks, Spotify will automatically play similar songs so...Read more...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/How-can-I-get-back-autoplay-from-search-results/td-p/4909635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When you reach the end of an album, playlist, or selection of tracks, Spotify will automatically play similar songs so...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autoplay25 Dec 2024 — Select Settings and privacy. 4. Under Playback, scroll down to &#x27;Autoplay similar content&#x27; and switch it on (green)...</p></details>
+   Link:<a href="https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/FAQs/Disable-Autoplay/ta-p/1590474</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autoplay25 Dec 2024 — Select Settings and privacy. 4. Under Playback, scroll down to &#x27;Autoplay similar content&#x27; and switch it on (green)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify isn&#x27;t playing suggested songs like it used to7 Feb 2024 — The feature that allows the app to play recommended content when you re...</p></details>
+   Link:<a href="https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/iOS-iPhone-iPad/My-Spotify-isn-t-playing-suggested-songs-like-it-used-to/td-p/5871153</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify isn&#x27;t playing suggested songs like it used to7 Feb 2024 — The feature that allows the app to play recommended content when you re...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to disable autoplay after album ends?2 Mar 2022 — You can go to Settings &gt; Autoplay on the desktop app, and there you&#x27;ll see the setting...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Desktop-Windows/How-to-disable-autoplay-after-album-ends/td-p/5349547</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to disable autoplay after album ends?2 Mar 2022 — You can go to Settings &gt; Autoplay on the desktop app, and there you&#x27;ll see the setting...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to stop recommended for you playing&quot;Playing recommended songs for you&quot; is caused by the Autoplay feature: when an album/playlist/podcast...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Android/How-to-stop-recommended-for-you-playing/td-p/6088425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to stop recommended for you playing&quot;Playing recommended songs for you&quot; is caused by the Autoplay feature: when an album/playlist/podcast...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stops after a track endsIn the meantime, we recommend turning off both automatic quality and Data Saver in the app settings, and to chang...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Ongoing-Issues/Playback-stops-after-a-track-ends/idi-p/7393415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stops after a track endsIn the meantime, we recommend turning off both automatic quality and Data Saver in the app settings, and to chang...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: community.spotify.com  
-   Link: <a href="https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do I keep Spotify from playing songs NOT on my...You can disable Autoplay on your desktop app by navigating to Settings and toggling the...</p></details>
+   Link:<a href="https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181" target="_blank" rel="noopener noreferrer nofollow">https://community.spotify.com/t5/Content-Questions/How-do-I-keep-Spotify-from-playing-songs-NOT-on-my-playlists-I/td-p/4949181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do I keep Spotify from playing songs NOT on my...You can disable Autoplay on your desktop app by navigating to Settings and toggling the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: music-tomorrow.com  
-   Link: <a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
+   Link:<a href="https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-complete-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Spotify&#x27;s Recommendation System: A Complete...1 Sept 2025 — Discover how Spotify&#x27;s recommendation algorithms work...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Do You Choose the Music… or Does the Algorithm Choose for You?  
-   Link: <a href="http://www.youtube.com/watch?v=g2JdT_x0oQw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g2JdT_x0oQw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Autoplay recommendation system &quot;passive listening&quot; discovery You Didn&#x27;t Choose That Song MindVerse: FBPN...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=g2JdT_x0oQw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g2JdT_x0oQw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Autoplay recommendation system &quot;passive listening&quot; discovery You Didn&#x27;t Choose That Song MindVerse: FBPN...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: midiaresearch.com  
    Title: music discovery is not dead just evolving the industry needs to evolve with it  
-   Link: <a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchMusic discovery is not dead, just evolving – the industry...9 May 2025 — While the shift towards passive discovery may hel...</p></details>
+   Link:<a href="https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it" target="_blank" rel="noopener noreferrer nofollow">https://www.midiaresearch.com/blog/music-discovery-is-not-dead-just-evolving-the-industry-needs-to-evolve-with-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIDiA ResearchMusic discovery is not dead, just evolving – the industry...9 May 2025 — While the shift towards passive discovery may hel...</p></details>
    Published: May 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thesis.eur.nl  
    Title: Stanisljevic D  
-   Link: <a href="https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify on music discovery among...Read more...</p></details>
+   Link:<a href="https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/55511/Stanisljevic-D..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify on music discovery among...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: research.atspotify.com  
-   Link: <a href="https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery</a>  
+   Link:<a href="https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery" target="_blank" rel="noopener noreferrer nofollow">https://research.atspotify.com/2018/07/understanding-and-evaluating-user-satisfaction-with-music-discovery</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: beatstorapon.com  
-   Link: <a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beats To Rap OnSpotify&#x27;s Music Recommendation Algorithm: The Complete...March 1, 2025 — 1 Mar 2025 — Spotify&#x27;s algorithm pays close atte...</p></details>
+   Link:<a href="https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://beatstorapon.com/blog/ultimate-guide-to-spotify-music-algorithm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beats To Rap OnSpotify&#x27;s Music Recommendation Algorithm: The Complete...March 1, 2025 — 1 Mar 2025 — Spotify&#x27;s algorithm pays close atte...</p></details>
    Published: March 1, 2025  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 things to know about Spotify&#x27;s controversial new &#x27;pay for...4 Nov 2020 — Spotify revealed that it would soon be testing a controversia...</p></details>
+   Link:<a href="https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/3-things-to-know-about-spotifys-controversial-new-pay-for-influence-tool-discovery-mode/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 things to know about Spotify&#x27;s controversial new &#x27;pay for...4 Nov 2020 — Spotify revealed that it would soon be testing a controversia...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: digital.hec.ca  
-   Link: <a href="https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/" target="_blank" rel="noopener noreferrer nofollow">https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Algorithm Shapes Global Music Discovery...9 Nov 2025 — Spotify&#x27;s recommendation system helps its users discover new songs, but...</p></details>
+   Link:<a href="https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/" target="_blank" rel="noopener noreferrer nofollow">https://digital.hec.ca/en/blog/how-spotifys-algorithm-shapes-global-music-discovery-and-cultural-diversity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify&#x27;s Algorithm Shapes Global Music Discovery...9 Nov 2025 — Spotify&#x27;s recommendation system helps its users discover new songs, but...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: chartlex.com  
    Title: spotify discovery mode explained indie artists  
-   Link: <a href="https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Discovery Mode Explained for Artists (2026)3 Apr 2026 — Spotify Discovery Mode is a promotional tool that allows artists to flag...</p></details>
+   Link:<a href="https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU" target="_blank" rel="noopener noreferrer nofollow">https://www.chartlex.com/blog/streaming/spotify-discovery-mode-explained-indie-artists?srsltid=AfmBOopFpsC3CbNrF83fZoS6QTtySO6wnSIG5YLSB2tQXTmzwpanBAmU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify Discovery Mode Explained for Artists (2026)3 Apr 2026 — Spotify Discovery Mode is a promotional tool that allows artists to flag...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: en.community.sonos.com  
    Title: enable spotify autoplay after album ends 6852082  
-   Link: <a href="https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082" target="_blank" rel="noopener noreferrer nofollow">https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify autoplay after album ends4 Dec 2020 — Spotify Autoplay feature is not available in Sonos, when your album or playlist ends, the p...</p></details>
+   Link:<a href="https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082" target="_blank" rel="noopener noreferrer nofollow">https://en.community.sonos.com/controllers-and-music-services-228995/enable-spotify-autoplay-after-album-ends-6852082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify autoplay after album ends4 Dec 2020 — Spotify Autoplay feature is not available in Sonos, when your album or playlist ends, the p...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: freeyourmusic.com  
    Title: how do spotify personalized playlists work  
-   Link: <a href="https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work" target="_blank" rel="noopener noreferrer nofollow">https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify uses a combination of audio analysis, user feedback (likes, skips, saves), machine learning...Read more...</p></details>
+   Link:<a href="https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work" target="_blank" rel="noopener noreferrer nofollow">https://freeyourmusic.com/blog/how-do-spotify-personalized-playlists-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify uses a combination of audio analysis, user feedback (likes, skips, saves), machine learning...Read more...</p></details>
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of Music in Digital Media: From Viral Videos...2 Jun 2025 — It highlights the role of user-generated content, influencer c...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392315473_The_Evolution_of_Music_in_Digital_Media_From_Viral_Videos_to_Streaming_Platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of Music in Digital Media: From Viral Videos...2 Jun 2025 — It highlights the role of user-generated content, influencer c...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: many people assume that the use of algorithmic media streaming and distribution  
-   Link: <a href="https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many people assume that the use of algorithmic media...Many people assume that the use of algorithmic media streaming and distribution p...</p></details>
+   Link:<a href="https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lev.manovich/posts/many-people-assume-that-the-use-of-algorithmic-media-streaming-and-distribution-/10165944381712316/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many people assume that the use of algorithmic media...Many people assume that the use of algorithmic media streaming and distribution p...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yc8iNnbQAM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4yc8iNnbQAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4yc8iNnbQAM</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nrgmr.com  
    Title: understanding the audio content discovery paradox  
-   Link: <a href="https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jul 2024 — Many consumers report that they place great value on the self-directed process of active discovery, researching new artists...</p></details>
+   Link:<a href="https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrgmr.com/our-thinking/technology/understanding-the-audio-content-discovery-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jul 2024 — Many consumers report that they place great value on the self-directed process of active discovery, researching new artists...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s today than helping you discover your next favorite artist.Read more...</p></details>
+   Link:<a href="https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nimbalkaryashraj53/i-tracked-spotify-for-14-days-heres-why-you-can-t-discover-new-music-cde69cad9cf8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s today than helping you discover your next favorite artist.Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: The Guardian Pay to get playlisted?  
-   Link: <a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The accusations against Spotify&#x27;s Discovery ModeSpotify introduced Discovery Mode in 2020, a program where artists accept lower royalty r...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/feb/19/spotify-discovery-mode-payola-playlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The accusations against Spotify&#x27;s Discovery ModeSpotify introduced Discovery Mode in 2020, a program where artists accept lower royalty r...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: How to Stop Spotify Playing Suggested Songs  
-   Link: <a href="https://www.youtube.com/watch?v=cpFXmuts4aE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cpFXmuts4aE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turn Off...In this tutorial I show you how to stop Spotify from automatically playing random similar songs at the end of a playlist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cpFXmuts4aE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cpFXmuts4aE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turn Off...In this tutorial I show you how to stop Spotify from automatically playing random similar songs at the end of a playlist...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Algorithms in Your Ears: Looking Into the making of your music feeds  
-   Link: <a href="http://www.youtube.com/watch?v=3ZO44newDuo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3ZO44newDuo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do You Choose the Music… or Does the Algorithm Choose for You?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=3ZO44newDuo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3ZO44newDuo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do You Choose the Music… or Does the Algorithm Choose for You?...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by ML Barata · 2021 · Cited by 175 — This study aims to understand the factors that influence music consumption through streaming plat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8379453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by ML Barata · 2021 · Cited by 175 — This study aims to understand the factors that influence music consumption through streaming plat...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: How the Spotify algorithm is DESTROYING the music industry  
-   Link: <a href="http://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cW9hwyxwK6k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithms in Your Ears: Looking Into the making of your music feeds...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=cW9hwyxwK6k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cW9hwyxwK6k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Algorithms in Your Ears: Looking Into the making of your music feeds...</p></details>

@@ -501,16 +501,16 @@ image: /assets/images/music_3a01be_creator_pay_fairness_524c4c-overview-social.j
 
 ## Introduction
 
-The fight over creator pay is not simply a complaint that music streaming pays “too little [per stream]({{ 'per-stream/' | relative_url }})”. It is a deeper argument about how a growing music economy shares risk, leverage and information. Recorded music revenues have continued to rise: IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, with total streaming revenues above US$22 billion and paid subscription streaming accounting for more than half of recorded music income. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> Yet many performers, songwriters, producers and session musicians still experience streaming income as small, delayed or hard to trace.
+The fight over creator pay is not simply a complaint that music streaming pays “too little [per stream]({{ 'per-stream/' | relative_url }})”. It is a deeper argument about how a growing music economy shares risk, leverage and information. Recorded music revenues have continued to rise: IFPI reported that global recorded music revenue reached US$31.7 billion in 2025, with total streaming revenues above US$22 billion and paid subscription streaming accounting for more than half of recorded music income.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span> Yet many performers, songwriters, producers and session musicians still experience streaming income as small, delayed or hard to trace.
 
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c-overview.webp" | relative_url }}" alt="Overview image for Creator Pay" loading="eager" decoding="sync" fetchpriority="high">
 That tension is why creator pay remains the big music fight. The industry can be expanding in aggregate while individual creators struggle because money does not move straight from listener to artist. It passes through platforms, labels, distributors, publishers, collecting societies, managers, recoupment accounts and contracts written in very different eras. The central question is not whether streaming has created value. It has. The harder question is who has enough bargaining power to capture that value, and who is left trying to audit a system they cannot fully see.
 
 ## Why growth does not automatically feel like fairness
 
-Music industry growth is usually reported at the top of the system: total revenue, subscription growth, export value, or the number of artists crossing particular royalty thresholds. Those figures matter because they show that music is not a dying market. Spotify, for example, says it paid more than US$11 billion to the music industry in 2025, and describes its annual royalty data as part of a transparency effort about how streaming money flows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">2025 music industry payouts whats next for artists</span><span class="citation-popover-snippet">From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span> IFPI’s 2026 global report similarly presents streaming as the main engine of recorded music growth, with paid subscriptions continuing to expand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span>
+Music industry growth is usually reported at the top of the system: total revenue, subscription growth, export value, or the number of artists crossing particular royalty thresholds. Those figures matter because they show that music is not a dying market. Spotify, for example, says it paid more than US$11 billion to the music industry in 2025, and describes its annual royalty data as part of a transparency effort about how streaming money flows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-title">2025 music industry payouts whats next for artists</span><span class="citation-popover-snippet">From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span> IFPI’s 2026 global report similarly presents streaming as the main engine of recorded music growth, with paid subscriptions continuing to expand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">GMR2025 SOTI</span><span class="citation-popover-snippet">GMR2025 SOTI</span></span></span>
 
-The creator-pay dispute begins when those aggregate numbers meet individual lived experience. A platform may pay billions to [rights]({{ 'rights/' | relative_url }}) holders, but a musician does not receive “Spotify’s payout” directly. Spotify’s own [royalties]({{ 'royalties/' | relative_url }}) guide says it pays artists’ and songwriters’ selected rightsholders, who then pay creators according to their individual agreements; it also stresses that major streaming services do not pay a fixed rate per stream. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> For a signed artist, that next step may involve a label contract, recoupable advances, producer deductions, distribution fees, management commission and tax. For a songwriter, it may involve publishers, collecting societies, mechanical-rights administrators and delayed matching of data to works.
+The creator-pay dispute begins when those aggregate numbers meet individual lived experience. A platform may pay billions to [rights]({{ 'rights/' | relative_url }}) holders, but a musician does not receive “Spotify’s payout” directly. Spotify’s own [royalties]({{ 'royalties/' | relative_url }}) guide says it pays artists’ and songwriters’ selected rightsholders, who then pay creators according to their individual agreements; it also stresses that major streaming services do not pay a fixed rate per stream.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> For a signed artist, that next step may involve a label contract, recoupable advances, producer deductions, distribution fees, management commission and tax. For a songwriter, it may involve publishers, collecting societies, mechanical-rights administrators and delayed matching of data to works.
 
 This is why headline growth can feel emotionally disconnected from a creator’s bank account. The market may be healthier than it was during the piracy crisis, but the person who wrote, performed or produced a track may still see irregular micro-payments, unclear statements or no meaningful income at all. The dispute is therefore about distribution, not only about market size.
 
@@ -518,7 +518,7 @@ This is why headline growth can feel emotionally disconnected from a creator’s
 
 A listener hears a track as one piece of music, but the industry treats that track as several rights and several business relationships. There is the sound [recording]({{ 'recording/' | relative_url }}), often called the master, and the underlying composition, meaning the song as written. Those rights can be owned, licensed and administered by different parties. Streaming income is therefore split before it reaches the people the listener imagines they are supporting.
 
-The most important practical consequence is that “artist pay” is not one channel. A featured recording artist may be paid by a label or distributor. A songwriter may be paid through a publisher and collecting society. A producer may receive points on the master, a fee, or both. Session musicians may depend on separate arrangements and collective payments. The Musicians’ Union says it is campaigning for fairer streaming royalties, including a fair portion of revenue for session and non-featured performers, and reports that at least 92% of musicians say less than 5% of their earnings comes from online streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">music streaming royalties</span><span class="citation-popover-snippet">music streaming royalties</span></span></span>
+The most important practical consequence is that “artist pay” is not one channel. A featured recording artist may be paid by a label or distributor. A songwriter may be paid through a publisher and collecting society. A producer may receive points on the master, a fee, or both. Session musicians may depend on separate arrangements and collective payments. The Musicians’ Union says it is campaigning for fairer streaming royalties, including a fair portion of revenue for session and non-featured performers, and reports that at least 92% of musicians say less than 5% of their earnings comes from online streaming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">music streaming royalties</span><span class="citation-popover-snippet">music streaming royalties</span></span></span>
 
 The problem is not simply that intermediaries exist. Labels, publishers, distributors and societies can provide capital, marketing, administration, [licensing]({{ 'licensing/' | relative_url }}) expertise and royalty collection. The fight is about whether their share, control and information advantage still match the value they provide in a streaming-led market. A label that funded recording, promotion and tour support may argue that it took real risk and should share in upside. A creator may answer that old royalty rates, long recoupment terms or opaque deductions make little sense when the marginal cost of distributing another stream is not the same as manufacturing and shipping [physical]({{ 'physical/' | relative_url }}) records.
 
@@ -527,21 +527,21 @@ That is why creator-pay debates often become contract debates. A new independent
 <img src="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c-Illustration-1-dark.svg" | relative_url }}" alt="Creator Pay illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_creator_pay_fairness_524c4c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Streaming changed access faster than it changed leverage
 
-Streaming gave many creators global reach without the old gatekeeping of physical retail. That is real progress. A track can travel across countries, scenes and languages with little upfront distribution cost. Spotify’s Loud & Clear materials point to growth in royalties for independent artists and labels, and the Associated Press reported that Spotify’s 2023 royalty payouts included US$4.5 billion to independent artists and labels, half of the total that year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8ddab5a6e03f65233b0f9ed80eb99e0c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Streaming gave many creators global reach without the old gatekeeping of physical retail. That is real progress. A track can travel across countries, scenes and languages with little upfront distribution cost. Spotify’s Loud & Clear materials point to growth in royalties for independent artists and labels, and the Associated Press reported that Spotify’s 2023 royalty payouts included US$4.5 billion to independent artists and labels, half of the total that year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8ddab5a6e03f65233b0f9ed80eb99e0c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-But access is not the same as bargaining power. A creator can upload music more easily than ever while still competing inside an attention market dominated by playlists, recommendation systems, short-form video trends, catalogue hits and superstar releases. The UK Competition and Markets Authority recognised that many artists struggle to earn significant income from streaming, even though it concluded in 2022 that competition problems between labels and streaming services were not the main cause and did not make a market investigation reference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Music and streaming market study</span><span class="citation-popover-snippet">Music and streaming market study</span></span></span>
+But access is not the same as bargaining power. A creator can upload music more easily than ever while still competing inside an attention market dominated by playlists, recommendation systems, short-form video trends, catalogue hits and superstar releases. The UK Competition and Markets Authority recognised that many artists struggle to earn significant income from streaming, even though it concluded in 2022 that competition problems between labels and streaming services were not the main cause and did not make a market investigation reference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Music and streaming market study</span><span class="citation-popover-snippet">Music and streaming market study</span></span></span>
 
 That distinction matters. If the problem were simply platform monopoly, the remedy would be clearer: regulate the platform, split it up, or force a different rate. But the CMA’s conclusion pushed the UK debate towards creator contracts, copyright rules, transparency, metadata and bargaining standards. In other words, the pay fight moved from “is streaming growing?” to “under what terms do creators participate in that growth?”
 
-The 1,000-stream rule introduced by Spotify from early 2024 sharpened this divide. Spotify framed the change as a way to reduce tiny payments, fraud and manipulation by requiring tracks to reach at least 1,000 streams in the previous 12 months before generating recorded royalties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> For the platform and larger rights holders, that is an efficiency argument. For some emerging, niche or experimental creators, it feels like a symbolic line: below a certain level of attention, their work remains available but no longer counts financially in the same way.
+The 1,000-stream rule introduced by Spotify from early 2024 sharpened this divide. Spotify framed the change as a way to reduce tiny payments, fraud and manipulation by requiring tracks to reach at least 1,000 streams in the previous 12 months before generating recorded royalties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> For the platform and larger rights holders, that is an efficiency argument. For some emerging, niche or experimental creators, it feels like a symbolic line: below a certain level of attention, their work remains available but no longer counts financially in the same way.
 
 ## Old contracts are colliding with a new market
 
 One reason creator pay remains unresolved is that the streaming economy sits on top of older contract logic. Many record deals were built around physical manufacturing, radio promotion, retail distribution and recoupment of expensive recording costs. Streaming did not wipe those contracts clean. Instead, it added a new revenue source into agreements that may not have been designed for it.
 
-The UK Parliament’s Digital, [Culture]({{ 'culture/' | relative_url }}), Media and Sport Committee called in 2021 for a “complete reset” of music streaming, arguing that reform was needed to address the position of songwriters, performers and composers as well as wider structural problems in the recorded music industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The strength of that language is important: it treated low creator income not as a temporary misunderstanding, but as a structural issue in how rights and revenue are organised.
+The UK Parliament’s Digital, [Culture]({{ 'culture/' | relative_url }}), Media and Sport Committee called in 2021 for a “complete reset” of music streaming, arguing that reform was needed to address the position of songwriters, performers and composers as well as wider structural problems in the recorded music industry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The strength of that language is important: it treated low creator income not as a temporary misunderstanding, but as a structural issue in how rights and revenue are organised.
 
-Since then, UK policy work has focused on voluntary codes, metadata, transparency and remuneration. The UK government’s streaming work page tracks ongoing action following the DCMS inquiry, and in July 2025 the government announced label-led principles intended to improve income outcomes for UK music creators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The government&#x27;s work on music streaming</span><span class="citation-popover-snippet">The government&#x27;s work on music streaming</span></span></span> Those principles included commitments by the UK divisions of Universal Music Group, Sony Music Entertainment and Warner Music Group, estimated by government to deliver tens of millions of pounds in new investment to support creators by 2030. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Creator Remuneration From Music Streaming Label Led Principles</span><span class="citation-popover-snippet">Creator Remuneration From Music Streaming Label Led Principles</span></span></span>
+Since then, UK policy work has focused on voluntary codes, metadata, transparency and remuneration. The UK government’s streaming work page tracks ongoing action following the DCMS inquiry, and in July 2025 the government announced label-led principles intended to improve income outcomes for UK music creators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The government&#x27;s work on music streaming</span><span class="citation-popover-snippet">The government&#x27;s work on music streaming</span></span></span> Those principles included commitments by the UK divisions of Universal Music Group, Sony Music Entertainment and Warner Music Group, estimated by government to deliver tens of millions of pounds in new investment to support creators by 2030.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Creator Remuneration From Music Streaming Label Led Principles</span><span class="citation-popover-snippet">Creator Remuneration From Music Streaming Label Led Principles</span></span></span>
 
 The existence of these measures shows how persistent the issue has become. If streaming growth alone solved creator pay, there would be little need for working groups, voluntary codes or parliamentary pressure. The continuing debate suggests that market expansion and creator confidence are not moving at the same speed.
 
@@ -551,7 +551,7 @@ The existence of these measures shows how persistent the issue has become. If st
 
 The public often talks about “artists” as if everyone involved in a song is paid through the same pipe. Songwriters show why that is misleading. A performer’s recording royalties and a songwriter’s publishing royalties are calculated and administered through different systems. Even when a song becomes popular, the songwriter’s income may be fragmented across performance rights, mechanical rights, publisher shares, international societies and data-matching processes.
 
-In the United States, the Copyright Royalty Board process has become one of the clearest examples of how songwriter pay is fought through regulation as much as through the marketplace. The National Academy of Recording Arts and Sciences reported that a settlement for the 2023–2027 period would raise the headline songwriter mechanical royalty rate for streaming to 15.35% by 2027. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/songwriter-mechanical-royalty-rates-proposed-settlement-five-years-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-title">songwriter mechanical royalty rates proposed settlement five years what to know</span><span class="citation-popover-snippet">songwriter mechanical royalty rates proposed settlement five years what to know</span></span></span> Music Business Worldwide noted that the same settlement, known as Phonorecords IV, was being phased in over the five-year period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/nmpa-accuses-spotify-of-attacking-songwriters-as-it-changes-how-it-pays-mechanical-royalties-in-the-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">Music Business Worldwide NMPA accuses Spotify of &#x27;attacking songwriters&#x27; as</span><span class="citation-popover-snippet">Music Business Worldwide NMPA accuses Spotify of &#x27;attacking songwriters&#x27; as</span></span></span>
+In the United States, the Copyright Royalty Board process has become one of the clearest examples of how songwriter pay is fought through regulation as much as through the marketplace. The National Academy of Recording Arts and Sciences reported that a settlement for the 2023–2027 period would raise the headline songwriter mechanical royalty rate for streaming to 15.35% by 2027.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammy.com/news/songwriter-mechanical-royalty-rates-proposed-settlement-five-years-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-title">songwriter mechanical royalty rates proposed settlement five years what to know</span><span class="citation-popover-snippet">songwriter mechanical royalty rates proposed settlement five years what to know</span></span></span> Music Business Worldwide noted that the same settlement, known as Phonorecords IV, was being phased in over the five-year period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/nmpa-accuses-spotify-of-attacking-songwriters-as-it-changes-how-it-pays-mechanical-royalties-in-the-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-title">Music Business Worldwide NMPA accuses Spotify of &#x27;attacking songwriters&#x27; as</span><span class="citation-popover-snippet">Music Business Worldwide NMPA accuses Spotify of &#x27;attacking songwriters&#x27; as</span></span></span>
 
 That kind of rate proceeding is technical, but the underlying issue is simple: songwriters often believe the composition is undervalued compared with the recording and the platform. Streaming services and rights holders, meanwhile, argue over what share of revenue is economically sustainable. The fight becomes a negotiation over percentages, but also over cultural value: what is the song worth if the platform, recording, marketing and algorithm all help turn it into income?
 
@@ -561,7 +561,7 @@ For mainstream readers, the key point is that a stream does not create one clean
 
 Transparency sounds less dramatic than pay, but in music it is part of pay. A creator cannot judge whether they are being treated fairly if they cannot understand how royalties were calculated, what deductions were made, which territories were included, which tracks were matched, or when a payment should arrive.
 
-The UK Voluntary Code of Good Practice on Transparency in Music Streaming, which took effect in July 2024, was designed to improve clarity around streaming terms for creators. The Ivors Academy described it as a step towards clearer and fairer terms for songwriters and composers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Legal commentary on the code highlighted practical requirements such as clearer drafting of remuneration provisions, information on recoupable costs, royalty-statement frequency and how royalty information is shared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">a step towards fairness the uk voluntary code of good practice on transparency i</span><span class="citation-popover-snippet">a step towards fairness the uk voluntary code of good practice on transparency i</span></span></span>
+The UK Voluntary Code of Good Practice on Transparency in Music Streaming, which took effect in July 2024, was designed to improve clarity around streaming terms for creators. The Ivors Academy described it as a step towards clearer and fairer terms for songwriters and composers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ivorsacademy.com">[The Ivors Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ivorsacademy.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Legal commentary on the code highlighted practical requirements such as clearer drafting of remuneration provisions, information on recoupable costs, royalty-statement frequency and how royalty information is shared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediawrites.twobirds.com">[Passle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediawrites.twobirds.com</span><span class="citation-popover-title">a step towards fairness the uk voluntary code of good practice on transparency i</span><span class="citation-popover-snippet">a step towards fairness the uk voluntary code of good practice on transparency i</span></span></span>
 
 The reason this matters is that creator distrust often grows in the gaps between systems. A performer may see a large public claim about industry payouts but receive a small statement months later. A songwriter may know a track is being streamed but not know whether the composition data has been matched properly. A session player may not know whether a particular use triggers a payment at all. A producer may depend on contract language that is hard to audit without specialist help.
 
@@ -574,7 +574,7 @@ One reason the creator-pay fight is hard to settle is that each side defines ris
 
 Those forms of risk are not interchangeable. A company can spread risk across a catalogue. A creator often lives it personally. That is why aggregate growth does not settle the moral question. The issue is not whether labels, platforms or publishers should be paid. It is whether creators carry too much personal uncertainty while having too little leverage over the terms that decide their income.
 
-The UK Music 2025 picture captures this tension at national scale: the sector can contribute record economic value while still facing pressure around artist development, [grassroots]({{ 'grassroots/' | relative_url }}) infrastructure and creator sustainability. The Musicians’ Union summary of the report says the UK music industry contributed a record £8 billion to the economy, while also highlighting challenges for artists, grassroots venues and the wider sector. <span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">music streaming royalties</span><span class="citation-popover-snippet">music streaming royalties</span></span></span>
+The UK Music 2025 picture captures this tension at national scale: the sector can contribute record economic value while still facing pressure around artist development, [grassroots]({{ 'grassroots/' | relative_url }}) infrastructure and creator sustainability. The Musicians’ Union summary of the report says the UK music industry contributed a record £8 billion to the economy, while also highlighting challenges for artists, grassroots venues and the wider sector.<span class="citation-chip-wrap"><a class="citation-chip" href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musiciansunion.org.uk">[Musicians&#x27; Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musiciansunion.org.uk</span><span class="citation-popover-title">music streaming royalties</span><span class="citation-popover-snippet">music streaming royalties</span></span></span>
 
 That is the paradox at the heart of the page. A successful music economy is not automatically a secure creator economy. Growth may keep the system alive, but fairness depends on where risk lands and who has the power to renegotiate.
 
@@ -584,13 +584,13 @@ That is the paradox at the heart of the page. A successful music economy is not 
 
 Several proposed fixes recur in creator-pay debates, but none is frictionless.
 
-A higher platform payout sounds straightforward, but platforms argue that they already pay a large share of revenue to rights holders and must balance subscription prices, free tiers, licensing costs and profitability. Spotify says it pays roughly two-thirds of revenue to recording and publishing rightsholders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> Raising the total rights-holder share could help creators only if the extra money actually flows through to them.
+A higher platform payout sounds straightforward, but platforms argue that they already pay a large share of revenue to rights holders and must balance subscription prices, free tiers, licensing costs and profitability. Spotify says it pays roughly two-thirds of revenue to recording and publishing rightsholders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-snippet">Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</span></span></span> Raising the total rights-holder share could help creators only if the extra money actually flows through to them.
 
 A different distribution model, such as user-centric royalties, may feel fairer because a subscriber’s fee would be linked more directly to what that person listens to. But changing the model would create winners and losers across genres, listening habits, catalogue types and territories. It would not automatically fix bad contracts, poor metadata or weak bargaining power.
 
-Equitable remuneration, often discussed in UK and European debates, would create a separate performer payment right for streaming, potentially routed through collecting societies. Supporters see it as a way to get money to performers who are poorly served by old contracts. Critics, including some independent-label groups, warn that it could disrupt investment and reduce the money available for labels to develop artists. IMPALA, representing independent music companies in Europe, has argued for fair contemporary digital royalties while opposing so-called equitable remuneration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impalamusic.org/artist-revenue-and-equitable-remuneration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impalamusic.org">[impalamusic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impalamusic.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Equitable remuneration, often discussed in UK and European debates, would create a separate performer payment right for streaming, potentially routed through collecting societies. Supporters see it as a way to get money to performers who are poorly served by old contracts. Critics, including some independent-label groups, warn that it could disrupt investment and reduce the money available for labels to develop artists. IMPALA, representing independent music companies in Europe, has argued for fair contemporary digital royalties while opposing so-called equitable remuneration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impalamusic.org/artist-revenue-and-equitable-remuneration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impalamusic.org">[impalamusic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impalamusic.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Voluntary codes and label-led principles are less disruptive than legislation, but they depend on adoption, monitoring and creator trust. The UK government has presented the 2025 label-led measures as progress, while parliamentary debate has also raised questions about whether voluntary measures will fairly benefit legacy performers, session musicians and artists outside major-label systems if implementation falls short. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">new label led measures to boost income for uk music creators</span><span class="citation-popover-snippet">new label led measures to boost income for uk music creators</span></span></span>
+Voluntary codes and label-led principles are less disruptive than legislation, but they depend on adoption, monitoring and creator trust. The UK government has presented the 2025 label-led measures as progress, while parliamentary debate has also raised questions about whether voluntary measures will fairly benefit legacy performers, session musicians and artists outside major-label systems if implementation falls short.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">new label led measures to boost income for uk music creators</span><span class="citation-popover-snippet">new label led measures to boost income for uk music creators</span></span></span>
 
 The common thread is that every fix must pass through the same knot: streaming money is collected centrally but distributed through private contracts and rights systems. Reforming one layer does not automatically repair the others.
 
@@ -604,194 +604,194 @@ It would also need to recognise that “creator” is not one job. A self-releas
 The creator-pay fight remains the big music fight because it asks the industry to define success more precisely. If success means only rising revenue, streaming has a strong case. If success means a broad base of creators being able to build sustainable careers from the music people listen to, the case is still contested. The uncomfortable truth is that both things can be true at once: music can be growing, and many of the people who make it can still feel that the deal is unfair.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why A Growing Industry Can Still Feel Unfair. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why A Growing Industry Can Still Feel Unfair. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Directly addresses royalties, contracts and revenue flows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses royalties, contracts and revenue flows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rockonomics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=11JrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rockonomics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rockonomics">Rockonomics</a>
-        </h4>
-        <p class="fr-book-author">By Alan Krueger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rockonomics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=11JrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rockonomics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rockonomics">Rockonomics</a>
+</h4>
+<p class="fr-book-author">By Alan Krueger</p>
         
-        <p class="fr-book-desc">Explains why industry growth and creator income diverge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why industry growth and creator income diverge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rockonomics+by+Alan+Krueger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Witt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Got Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BuTqCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Got Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Got Free">How Music Got Free</a>
+</h4>
+<p class="fr-book-author">By Stephen Witt</p>
         
-        <p class="fr-book-desc">Shows how digital disruption reshaped music economics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how digital disruption reshaped music economics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Got+Free+by+Stephen+Witt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine">Mood Machine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Examines streaming incentives and value distribution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines streaming incentives and value distribution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rockonomics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rockonomics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rockonomics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rockonomics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Got+Free&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Got Free</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/KsQAAeSw7ztp1~Tw/s-l225.jpg" alt="Listing image for Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Leave My House Alone - Retro UFO Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/CukAAeSw-jZp1~b0/s-l225.jpg" alt="Listing image for UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Extraterrestrial Space Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/WGoAAOSwjEdkvGZv/s-l225.jpg" alt="Listing image for TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">TRIPPY ALIEN UFO POSTER FOREST PSYCHEDELIC WALL ART PRINT SIZE A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="why-a-growing-industry-can-still-feel-unfair-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -807,7 +807,7 @@ The creator-pay fight remains the big music fight because it asks the industry t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -827,7 +827,7 @@ The creator-pay fight remains the big music fight because it asks the industry t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -859,7 +859,7 @@ The creator-pay fight remains the big music fight because it asks the industry t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -911,7 +911,7 @@ The creator-pay fight remains the big music fight because it asks the industry t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -956,7 +956,7 @@ The creator-pay fight remains the big music fight because it asks the industry t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -997,187 +997,187 @@ The creator-pay fight remains the big music fight because it asks the industry t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</p></details>
+   Link:<a href="https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GLOBAL MUSIC REPORT 2026: GLOBAL RECORDED...March 18, 2026 — 18 Mar 2026 — Total streaming revenues surpassed US$22 billion and acco...</p></details>
    Published: March 18, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsroom.spotify.com  
    Title: 2025 music industry payouts whats next for artists  
-   Link: <a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</p></details>
+   Link:<a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — I&#x27;m proud to share that, last year alone...</p></details>
    Published: January 28, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: artists.spotify.com  
-   Link: <a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</p></details>
+   Link:<a href="https://artists.spotify.com/en/royalties-guide" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/en/royalties-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotify for ArtistsRoyalties GuideSpotify pays royalties to artists&#x27; and songwriters&#x27; selected rightsholders, who then pay artists and so...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Music and streaming market study  
-   Link: <a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
+   Link:<a href="https://www.gov.uk/cma-cases/music-and-streaming-market-study" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/music-and-streaming-market-study</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: artists.spotify.com  
    Title: modernizing our royalty system  
-   Link: <a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
+   Link:<a href="https://artists.spotify.com/blog/modernizing-our-royalty-system" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/modernizing-our-royalty-system</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/</a>  
+   Link:<a href="https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/work/646/economics-of-music-streaming/news/156593/mps-call-for-a-complete-reset-of-music-streaming-to-fairly-reward-performers-and-creators/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: The government's work on music streaming  
-   Link: <a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
+   Link:<a href="https://www.gov.uk/guidance/the-governments-work-on-music-streaming" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-governments-work-on-music-streaming</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: new label led measures to boost income for uk music creators  
-   Link: <a href="https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators</a>  
+   Link:<a href="https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/new-label-led-measures-to-boost-income-for-uk-music-creators</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hansard.parliament.uk  
    Title: Creator Remuneration From Music Streaming Label Led Principles  
-   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/25072227000013/CreatorRemunerationFromMusicStreamingLabel-LedPrinciples</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: grammy.com  
    Title: songwriter mechanical royalty rates proposed settlement five years what to know  
-   Link: <a href="https://www.grammy.com/news/songwriter-mechanical-royalty-rates-proposed-settlement-five-years-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/songwriter-mechanical-royalty-rates-proposed-settlement-five-years-what-to-know/</a>  
+   Link:<a href="https://www.grammy.com/news/songwriter-mechanical-royalty-rates-proposed-settlement-five-years-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/songwriter-mechanical-royalty-rates-proposed-settlement-five-years-what-to-know/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: impalamusic.org  
-   Link: <a href="https://impalamusic.org/artist-revenue-and-equitable-remuneration/" target="_blank" rel="noopener noreferrer nofollow">https://impalamusic.org/artist-revenue-and-equitable-remuneration/</a>  
+   Link:<a href="https://impalamusic.org/artist-revenue-and-equitable-remuneration/" target="_blank" rel="noopener noreferrer nofollow">https://impalamusic.org/artist-revenue-and-equitable-remuneration/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Music Streaming: Label-led Principles  
-   Link: <a href="https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2025-07-22/debates/2AE64895-4624-4D42-ABD9-AEB41E257170/MusicStreamingLabel-LedPrinciples</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2026/03/GMR2026_SOTI.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/62541ab48fa8f54a89b54bc7/Musician_s_Union.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62541ab48fa8f54a89b54bc7/Musician_s_Union.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/62541ab48fa8f54a89b54bc7/Musician_s_Union.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/62541ab48fa8f54a89b54bc7/Musician_s_Union.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
    Title: publishing.service.gov.uk Music and streaming  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6384f43ee90e077898ccb48e/Music_and_streaming_final_report.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
    Title: music creators earnings report  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/614c760fd3bf7f719095b5ad/music-creators-earnings-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/614c760fd3bf7f719095b5ad/music-creators-earnings-report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/614c760fd3bf7f719095b5ad/music-creators-earnings-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/614c760fd3bf7f719095b5ad/music-creators-earnings-report.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/publications/33512/documents/182096/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/33512/documents/182096/default/</a>  
+   Link:<a href="https://committees.parliament.uk/publications/33512/documents/182096/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/33512/documents/182096/default/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/147767/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/147767/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/147767/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/147767/pdf/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: musiciansunion.org.uk  
    Title: music streaming royalties  
-   Link: <a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
+   Link:<a href="https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/working-performing/recording-and-broadcasting/musician-royalties/music-streaming-royalties</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/8ddab5a6e03f65233b0f9ed80eb99e0c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8ddab5a6e03f65233b0f9ed80eb99e0c</a>  
+   Link:<a href="https://apnews.com/article/8ddab5a6e03f65233b0f9ed80eb99e0c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8ddab5a6e03f65233b0f9ed80eb99e0c</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: musicbusinessworldwide.com  
    Title: Music Business Worldwide NMPA accuses Spotify of 'attacking songwriters' as  
-   Link: <a href="https://www.musicbusinessworldwide.com/nmpa-accuses-spotify-of-attacking-songwriters-as-it-changes-how-it-pays-mechanical-royalties-in-the-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/nmpa-accuses-spotify-of-attacking-songwriters-as-it-changes-how-it-pays-mechanical-royalties-in-the-us/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/nmpa-accuses-spotify-of-attacking-songwriters-as-it-changes-how-it-pays-mechanical-royalties-in-the-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/nmpa-accuses-spotify-of-attacking-songwriters-as-it-changes-how-it-pays-mechanical-royalties-in-the-us/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ivorsacademy.com  
-   Link: <a href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/</a>  
+   Link:<a href="https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/" target="_blank" rel="noopener noreferrer nofollow">https://ivorsacademy.com/news/what-the-uks-code-on-transparency-in-music-streaming-means-for-songwriters-and-composers/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mediawrites.twobirds.com  
    Title: a step towards fairness the uk voluntary code of good practice on transparency i  
-   Link: <a href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i</a>  
+   Link:<a href="https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102jax4/a-step-towards-fairness-the-uk-voluntary-code-of-good-practice-on-transparency-i</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy</a>  
+   Link:<a href="https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/this-is-music-2025-report-reveals-uk-music-industry-contributed-record-%C2%A38-billion-to-economy</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVvk02mDuKR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvk02mDuKR/</a>  
+   Link:<a href="https://www.instagram.com/p/DVvk02mDuKR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVvk02mDuKR/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
+   Link:<a href="https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/awesomeitv/posts/spotifys-latest-loud-clear-2026-report-is-a-game-changer-for-the-music-world-in-/1398741722293452/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
+   Link:<a href="https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: musiciansunion.org.uk  
-   Link: <a href="https://musiciansunion.org.uk/news/further-success-for-fix-streaming-campaign-as-ipo-announces-new-metadata-code-and-remuneration-worki" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/further-success-for-fix-streaming-campaign-as-ipo-announces-new-metadata-code-and-remuneration-worki</a>  
+   Link:<a href="https://musiciansunion.org.uk/news/further-success-for-fix-streaming-campaign-as-ipo-announces-new-metadata-code-and-remuneration-worki" target="_blank" rel="noopener noreferrer nofollow">https://musiciansunion.org.uk/news/further-success-for-fix-streaming-campaign-as-ipo-announces-new-metadata-code-and-remuneration-worki</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: unchainedmusic.io  
    Title: spotify loud clear a comprehensive overview of the music streaming economy  
-   Link: <a href="https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy" target="_blank" rel="noopener noreferrer nofollow">https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy</a>  
+   Link:<a href="https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy" target="_blank" rel="noopener noreferrer nofollow">https://www.unchainedmusic.io/blog-posts/spotify-loud-clear-a-comprehensive-overview-of-the-music-streaming-economy</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: loudandclear.byspotify.com  
-   Link: <a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</p></details>
+   Link:<a href="https://loudandclear.byspotify.com/" target="_blank" rel="noopener noreferrer nofollow">https://loudandclear.byspotify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loud and ClearSpotify Loud &amp; ClearThis site shares data behind Spotify&#x27;s royalty payments and explains how money flows through the global...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Why Musicians Struggle to Make a Living from Streaming  
-   Link: <a href="https://www.youtube.com/watch?v=kY0q15gSgKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY0q15gSgKk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide expert analysis and context on why the current music streaming economic model remains a point of contention for crea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kY0q15gSgKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY0q15gSgKk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide expert analysis and context on why the current music streaming economic model remains a point of contention for crea...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: crb.gov  
-   Link: <a href="https://www.crb.gov/rate/" target="_blank" rel="noopener noreferrer nofollow">https://www.crb.gov/rate/</a>  
+   Link:<a href="https://www.crb.gov/rate/" target="_blank" rel="noopener noreferrer nofollow">https://www.crb.gov/rate/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
+   Link:<a href="https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354995982_Music_Creators%27_Earnings_in_the_Digital_Era</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWQ5mfDlDER/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWQ5mfDlDER/</a>  
+   Link:<a href="https://www.instagram.com/p/DWQ5mfDlDER/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWQ5mfDlDER/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: mpaonline.org.uk  
-   Link: <a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
+   Link:<a href="https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/" target="_blank" rel="noopener noreferrer nofollow">https://mpaonline.org.uk/what-we-do/policy-outreach/economics-of-streaming/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3</a>  
+   Link:<a href="https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dimastreaming_global-music-report-2026-global-recorded-activity-7440770290479038464-4Dg3</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/iqmgmnt/posts/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964410944563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iqmgmnt/posts/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964410944563/</a>  
+   Link:<a href="https://www.facebook.com/iqmgmnt/posts/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964410944563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iqmgmnt/posts/we-spent-yesterday-afternoon-reading-ifpi-global-music-report-2026-published-on-/1411964410944563/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: feu-journal.eu  
-   Link: <a href="https://feu-journal.eu/issues/issue-4/music-streaming-how-to-make-it-sustainable-for-music-creators/" target="_blank" rel="noopener noreferrer nofollow">https://feu-journal.eu/issues/issue-4/music-streaming-how-to-make-it-sustainable-for-music-creators/</a>  
+   Link:<a href="https://feu-journal.eu/issues/issue-4/music-streaming-how-to-make-it-sustainable-for-music-creators/" target="_blank" rel="noopener noreferrer nofollow">https://feu-journal.eu/issues/issue-4/music-streaming-how-to-make-it-sustainable-for-music-creators/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>
+   Link:<a href="https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PRSforMusic/posts/more-music-more-creators-more-paid-%EF%B8%8F-107-billion-paid-%EF%B8%8F-over-86000-prs-members-p/1495330898629261/</a>

@@ -273,223 +273,223 @@ Chorus lines — the repeated phrases in a song’s chorus — often become the 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-1-dark.svg" | relative_url }}" alt="Chorus Lines illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Repetition Makes Lyrics Memorable
 
-At the heart of why chorus lines stick is repetition. Songs that repeat key phrases — especially in the chorus — are processed more easily by the brain and become more memorable because repetition strengthens neural encoding and creates familiarity. Research shows that *repeated lyrical sequences increase “processing fluency”*, meaning our brains find them easier to recognise and recall, and this fluency makes them more enjoyable and more likely to be remembered and shared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1057740814001260" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The power of repetition: repetitive lyrics in a song increase processing fluency and drive market success - ScienceDirect...</span></span></span>
+At the heart of why chorus lines stick is repetition. Songs that repeat key phrases — especially in the chorus — are processed more easily by the brain and become more memorable because repetition strengthens neural encoding and creates familiarity. Research shows that *repeated lyrical sequences increase “processing fluency”*, meaning our brains find them easier to recognise and recall, and this fluency makes them more enjoyable and more likely to be remembered and shared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1057740814001260" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The power of repetition: repetitive lyrics in a song increase processing fluency and drive market success - ScienceDirect...</span></span></span>
 
-Psychologically, repetition functions like a built‑in memory scaffold. When a phrase recurs across a song, it embeds itself in multiple memory systems — from verbal memory of the words themselves to melodic and rhythmic patterns that cue recall. This is partly why many listeners find the chorus line stays in their heads long after the song ends: it engages both auditory working memory and the emotional centres of the brain, leaving a stronger imprint than less repeated text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://getlines.app/blog/science-of-memory-why-songs-stick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getlines.app">[Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getlines.app</span><span class="citation-popover-title">Lines The Science of Musical Memory: Why Songs Stick</span><span class="citation-popover-snippet">LinesThe Science of Musical Memory: Why Songs Stick - Lines BlogFebruary 20, 2026...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+Psychologically, repetition functions like a built‑in memory scaffold. When a phrase recurs across a song, it embeds itself in multiple memory systems — from verbal memory of the words themselves to melodic and rhythmic patterns that cue recall. This is partly why many listeners find the chorus line stays in their heads long after the song ends: it engages both auditory working memory and the emotional centres of the brain, leaving a stronger imprint than less repeated text.<span class="citation-chip-wrap"><a class="citation-chip" href="https://getlines.app/blog/science-of-memory-why-songs-stick" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: getlines.app">[Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">getlines.app</span><span class="citation-popover-title">Lines The Science of Musical Memory: Why Songs Stick</span><span class="citation-popover-snippet">LinesThe Science of Musical Memory: Why Songs Stick - Lines BlogFebruary 20, 2026...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
 
-Repetition also parallels other cultural practices that use repeated elements (such as [ritual]({{ 'ritual/' | relative_url }}) chants) to convey emotional significance. In those contexts, as in music, repeated patterns signal intentionality and invite shared participation — making them communal rather than purely personal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3616255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRepetition and Emotive Communication in Music Versus Speech</span><span class="citation-popover-snippet">April 4, 2013...</span><span class="citation-popover-meta">Published: April 4, 2013</span></span></span>
+Repetition also parallels other cultural practices that use repeated elements (such as [ritual]({{ 'ritual/' | relative_url }}) chants) to convey emotional significance. In those contexts, as in music, repeated patterns signal intentionality and invite shared participation — making them communal rather than purely personal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3616255/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRepetition and Emotive Communication in Music Versus Speech</span><span class="citation-popover-snippet">April 4, 2013...</span><span class="citation-popover-meta">Published: April 4, 2013</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-2-dark.svg" | relative_url }}" alt="Chorus Lines illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Short Phrases Travel Beyond Songs
 
-Chorus lines typically use *simple, concise language* that distils the essence of a song’s emotion. Songwriting guides and analyses of pop [choruses]({{ 'choruses/' | relative_url }}) emphasise this point: a chorus that includes a short, easily repeated phrase — often the song title — helps listeners latch onto the main idea and recall it outside the context of full verses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.taxi.com/music-business-faq/songwriting/songstructure/chorusconstruction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taxi.com">[taxi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taxi.com</span><span class="citation-popover-title">Chorus Construction</span><span class="citation-popover-snippet">Chorus Construction</span></span></span>
+Chorus lines typically use *simple, concise language* that distils the essence of a song’s emotion. Songwriting guides and analyses of pop [choruses]({{ 'choruses/' | relative_url }}) emphasise this point: a chorus that includes a short, easily repeated phrase — often the song title — helps listeners latch onto the main idea and recall it outside the context of full verses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.taxi.com/music-business-faq/songwriting/songstructure/chorusconstruction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taxi.com">[taxi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taxi.com</span><span class="citation-popover-title">Chorus Construction</span><span class="citation-popover-snippet">Chorus Construction</span></span></span>
 
-The “hook” — the memorable lyric or [melody]({{ 'melody/' | relative_url }}) in the chorus — capitalises on cognitive preferences for patterns that are simple enough to predict but emotionally rich enough to feel meaningful. When a chorus line captures a universal feeling (hope, heartbreak, empowerment), it becomes a ready‑made expression for listeners to *reuse in their own lives* — in texts, socials, or shared experiences — almost like an emotional shorthand for what they feel but can’t easily put into their own words. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zmescience.com/feature-post/culture/art/what-makes-a-song-catchy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zmescience.com">[ZME Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zmescience.com</span><span class="citation-popover-title">ZME Science What makes a song &#x27;catchy</span><span class="citation-popover-snippet">ZME ScienceWhat makes a song &#x27;catchy&#x27; - science explainsOctober 3, 2011...</span><span class="citation-popover-meta">Published: October 3, 2011</span></span></span>
+The “hook” — the memorable lyric or [melody]({{ 'melody/' | relative_url }}) in the chorus — capitalises on cognitive preferences for patterns that are simple enough to predict but emotionally rich enough to feel meaningful. When a chorus line captures a universal feeling (hope, heartbreak, empowerment), it becomes a ready‑made expression for listeners to *reuse in their own lives* — in texts, socials, or shared experiences — almost like an emotional shorthand for what they feel but can’t easily put into their own words.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zmescience.com/feature-post/culture/art/what-makes-a-song-catchy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zmescience.com">[ZME Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zmescience.com</span><span class="citation-popover-title">ZME Science What makes a song &#x27;catchy</span><span class="citation-popover-snippet">ZME ScienceWhat makes a song &#x27;catchy&#x27; - science explainsOctober 3, 2011...</span><span class="citation-popover-meta">Published: October 3, 2011</span></span></span>
 
-Additionally, research on “catchiness” shows that qualities like repetition, simplicity and predictability make a line hard to forget. Choruses that balance repetition with just enough novelty trigger both familiarity and [attention]({{ 'attention/' | relative_url }}), which helps short lines spread through culture beyond the song itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Catchiness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Additionally, research on “catchiness” shows that qualities like repetition, simplicity and predictability make a line hard to forget. Choruses that balance repetition with just enough novelty trigger both familiarity and [attention]({{ 'attention/' | relative_url }}), which helps short lines spread through culture beyond the song itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Catchiness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-3-dark.svg" | relative_url }}" alt="Chorus Lines illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Crowds, Captions, and Everyday Reuse
 
-Once a chorus line is encoded and easily recalled, it becomes a *shared linguistic tool*. In communal settings — concerts, sports arenas, gatherings — these lines are often the parts that people sing together, reinforcing a sense of collective feeling. A repeated chorus like “We will, we will rock you” isn’t just catchy; it becomes a *shared emotional signal* that unites listeners in a moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psu.edu/news/research/story/probing-question-what-makes-song-catchy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psu.edu</span><span class="citation-popover-title">Penn State Probing Question: What makes a song catchy? &#124; Penn State University</span><span class="citation-popover-snippet">Penn StateProbing Question: What makes a song catchy? &#124; Penn State UniversityJune 5, 2006...</span><span class="citation-popover-meta">Published: June 5, 2006</span></span></span>
+Once a chorus line is encoded and easily recalled, it becomes a *shared linguistic tool*. In communal settings — concerts, sports arenas, gatherings — these lines are often the parts that people sing together, reinforcing a sense of collective feeling. A repeated chorus like “We will, we will rock you” isn’t just catchy; it becomes a *shared emotional signal* that unites listeners in a moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psu.edu/news/research/story/probing-question-what-makes-song-catchy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psu.edu</span><span class="citation-popover-title">Penn State Probing Question: What makes a song catchy? &#124; Penn State University</span><span class="citation-popover-snippet">Penn StateProbing Question: What makes a song catchy? &#124; Penn State UniversityJune 5, 2006...</span><span class="citation-popover-meta">Published: June 5, 2006</span></span></span>
 
-In everyday life, these lines take on an additional social dimension: they are reused in contexts far removed from the original song. On social media, chorus lines are quoted in captions or memes to express mood; in conversation, they serve as shorthand for complex feelings. Because these snippets are both emotionally resonant and cognitively easy to recall, they function as *micro‑expressions of shared experience*, allowing people to communicate feeling with minimal effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://toxigon.com/why-do-we-love-repeat-choruses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toxigon.com">[Toxigon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toxigon.com</span><span class="citation-popover-title">Why Do We Love Repeat Choruses?</span><span class="citation-popover-snippet">Why Do We Love Repeat Choruses? - ToxigonFebruary 22, 2025...</span><span class="citation-popover-meta">Published: February 22, 2025</span></span></span>
+In everyday life, these lines take on an additional social dimension: they are reused in contexts far removed from the original song. On social media, chorus lines are quoted in captions or memes to express mood; in conversation, they serve as shorthand for complex feelings. Because these snippets are both emotionally resonant and cognitively easy to recall, they function as *micro‑expressions of shared experience*, allowing people to communicate feeling with minimal effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://toxigon.com/why-do-we-love-repeat-choruses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toxigon.com">[Toxigon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toxigon.com</span><span class="citation-popover-title">Why Do We Love Repeat Choruses?</span><span class="citation-popover-snippet">Why Do We Love Repeat Choruses? - ToxigonFebruary 22, 2025...</span><span class="citation-popover-meta">Published: February 22, 2025</span></span></span>
 
-This reuse extends the life of a chorus line well beyond the song, turning it into a kind of *cultural language* that carries emotional meaning across contexts. The process transforms a private listening experience into a shared emotional code that many people recognise and use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Catchiness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This reuse extends the life of a chorus line well beyond the song, turning it into a kind of *cultural language* that carries emotional meaning across contexts. The process transforms a private listening experience into a shared emotional code that many people recognise and use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Catchiness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why the Chorus Line Becomes Emotional Shorthand
 
-In sum, chorus lines become shared emotional shorthand because they combine cognitive ease with emotional resonance and cultural transmission. Repetition strengthens memory and fluency; simplicity makes lines easily recalled; emotional focus makes them meaningful; and social use — in crowds, media, and everyday speech — spreads them beyond the song into communal language. These mechanisms turn short chorus phrases into concise, emotionally loaded units that help people share, recall, and communicate feelings in a way that feels both personal and universal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1057740814001260" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The power of repetition: repetitive lyrics in a song increase processing fluency and drive market success - ScienceDirect...</span></span></span>
+In sum, chorus lines become shared emotional shorthand because they combine cognitive ease with emotional resonance and cultural transmission. Repetition strengthens memory and fluency; simplicity makes lines easily recalled; emotional focus makes them meaningful; and social use — in crowds, media, and everyday speech — spreads them beyond the song into communal language. These mechanisms turn short chorus phrases into concise, emotionally loaded units that help people share, recall, and communicate feelings in a way that feels both personal and universal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1057740814001260" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The power of repetition: repetitive lyrics in a song increase processing fluency and drive market success - ScienceDirect...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Choruses Turn Feelings Into Catchphrases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Choruses Turn Feelings Into Catchphrases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
-        </h4>
-        <p class="fr-book-author">By John Seabrook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x1KNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Song Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song Machine">The Song Machine</a>
+</h4>
+<p class="fr-book-author">By John Seabrook</p>
         
-        <p class="fr-book-desc">Examines how hooks and choruses are engineered for recall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how hooks and choruses are engineered for recall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+Machine+by+John+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
         
-        <p class="fr-book-desc">Provides context for why repeated musical ideas spread socially.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why repeated musical ideas spread socially.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+by+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
-        </h4>
-        <p class="fr-book-author">By Pat Pattison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
+</h4>
+<p class="fr-book-author">By Pat Pattison</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songwriters on songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164829-M.jpg" alt="Cover for Songwriters on songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songwriters on songwriting">Songwriters on songwriting</a>
-        </h4>
-        <p class="fr-book-author">By Paul Zollo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Songwriters on songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/164829-M.jpg" alt="Cover for Songwriters on songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Songwriters on songwriting">Songwriters on songwriting</a>
+</h4>
+<p class="fr-book-author">By Paul Zollo</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Composers, Popular music, Interviews, History and criticism, Lyricists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Composers, Popular music, Interviews, History and criticism, Lyricists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Songwriters+on+songwriting+Paul+Zollo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA"><img src="{{ '/assets/images/marketplace-covers/394258bb2d3f732cd213.jpg' | relative_url }}" alt="Listing image for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA"><img src="{{ '/assets/images/marketplace-covers/394258bb2d3f732cd213.jpg' | relative_url }}" alt="Listing image for Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Song Lyric OF YOUR CHOICE Custom Music Poster Print - Sizes A4 A3 - GIFT IDEA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster"><img src="{{ '/assets/images/marketplace-covers/23b010174a2517ad53bc.jpg' | relative_url }}" alt="Listing image for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster"><img src="{{ '/assets/images/marketplace-covers/23b010174a2517ad53bc.jpg' | relative_url }}" alt="Listing image for Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Quote Print Custom Song Lyric Wall Art Typography Colourful Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Song Lyric Gift"><img src="{{ '/assets/images/marketplace-covers/b82760f01aae5ff5c096.jpg' | relative_url }}" alt="Listing image for Personalised Song Lyric Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Song Lyric Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Song Lyric Gift"><img src="{{ '/assets/images/marketplace-covers/b82760f01aae5ff5c096.jpg' | relative_url }}" alt="Listing image for Personalised Song Lyric Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Song Lyric Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Song Lyric Print - A4 or A3 size - Framed or Paper only"><img src="{{ '/assets/images/marketplace-covers/347d74aa2df487408226.jpg' | relative_url }}" alt="Listing image for Personalised Song Lyric Print - A4 or A3 size - Framed or Paper only" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Song Lyric Print - A4 or A3 size - Framed or Paper only</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Song Lyric Print - A4 or A3 size - Framed or Paper only"><img src="{{ '/assets/images/marketplace-covers/347d74aa2df487408226.jpg' | relative_url }}" alt="Listing image for Personalised Song Lyric Print - A4 or A3 size - Framed or Paper only" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Personalised Song Lyric Print - A4 or A3 size - Framed or Paper only</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for song lyric poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: song lyric poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=song+lyric+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="song lyric poster -book -books" data-ebay-reference="chorus-lines-why-choruses-turn-feelings-into-catchphrases-music-song-lyric-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -505,7 +505,7 @@ In sum, chorus lines become shared emotional shorthand because they combine cogn
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -525,7 +525,7 @@ In sum, chorus lines become shared emotional shorthand because they combine cogn
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -557,7 +557,7 @@ In sum, chorus lines become shared emotional shorthand because they combine cogn
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -609,7 +609,7 @@ In sum, chorus lines become shared emotional shorthand because they combine cogn
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -654,7 +654,7 @@ In sum, chorus lines become shared emotional shorthand because they combine cogn
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -695,129 +695,129 @@ In sum, chorus lines become shared emotional shorthand because they combine cogn
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1057740814001260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1057740814001260</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The power of repetition: repetitive [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) in a song increase processing fluency and drive market success - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1057740814001260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1057740814001260</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The power of repetition: repetitive [lyrics](&amp;#123;&amp;#123; &#x27;lyrics/&#x27; | relative_url &amp;#125;&amp;#125;) in a song increase processing fluency and drive market success - ScienceDirect...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRepetition and Emotive Communication in Music Versus Speech  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3616255/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3616255/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2013...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3616255/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3616255/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2013...</p></details>
    Published: April 4, 2013  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: taxi.com  
    Title: Chorus Construction  
-   Link: <a href="https://www.taxi.com/music-business-faq/songwriting/songstructure/chorusconstruction/" target="_blank" rel="noopener noreferrer nofollow">https://www.taxi.com/music-business-faq/songwriting/songstructure/chorusconstruction/</a>  
+   Link:<a href="https://www.taxi.com/music-business-faq/songwriting/songstructure/chorusconstruction/" target="_blank" rel="noopener noreferrer nofollow">https://www.taxi.com/music-business-faq/songwriting/songstructure/chorusconstruction/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Catchiness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Catchiness</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Catchiness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Catchiness</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: toxigon.com  
    Title: Why Do We Love Repeat Choruses?  
-   Link: <a href="https://toxigon.com/why-do-we-love-repeat-choruses" target="_blank" rel="noopener noreferrer nofollow">https://toxigon.com/why-do-we-love-repeat-choruses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do We Love Repeat Choruses? - ToxigonFebruary 22, 2025...</p></details>
+   Link:<a href="https://toxigon.com/why-do-we-love-repeat-choruses" target="_blank" rel="noopener noreferrer nofollow">https://toxigon.com/why-do-we-love-repeat-choruses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do We Love Repeat Choruses? - ToxigonFebruary 22, 2025...</p></details>
    Published: February 22, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Science of Why We Remember Song Lyrics  
-   Link: <a href="https://www.youtube.com/watch?v=yW_g32x6RkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW_g32x6RkQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes A Song Catchy?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yW_g32x6RkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yW_g32x6RkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes A Song Catchy?...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: What Makes A Song Catchy?  
-   Link: <a href="https://www.youtube.com/watch?v=1u6d26b0sS8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1u6d26b0sS8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Repetition in Music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1u6d26b0sS8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1u6d26b0sS8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Repetition in Music...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: getlines.app  
    Title: Lines The Science of Musical Memory: Why Songs Stick  
-   Link: <a href="https://getlines.app/blog/science-of-memory-why-songs-stick" target="_blank" rel="noopener noreferrer nofollow">https://getlines.app/blog/science-of-memory-why-songs-stick</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinesThe Science of Musical Memory: Why Songs Stick - Lines BlogFebruary 20, 2026...</p></details>
+   Link:<a href="https://getlines.app/blog/science-of-memory-why-songs-stick" target="_blank" rel="noopener noreferrer nofollow">https://getlines.app/blog/science-of-memory-why-songs-stick</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LinesThe Science of Musical Memory: Why Songs Stick - Lines BlogFebruary 20, 2026...</p></details>
    Published: February 20, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: zmescience.com  
    Title: ZME Science What makes a song 'catchy'  
-   Link: <a href="https://www.zmescience.com/feature-post/culture/art/what-makes-a-song-catchy/" target="_blank" rel="noopener noreferrer nofollow">https://www.zmescience.com/feature-post/culture/art/what-makes-a-song-catchy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZME ScienceWhat makes a song &#x27;catchy&#x27; - science explainsOctober 3, 2011...</p></details>
+   Link:<a href="https://www.zmescience.com/feature-post/culture/art/what-makes-a-song-catchy/" target="_blank" rel="noopener noreferrer nofollow">https://www.zmescience.com/feature-post/culture/art/what-makes-a-song-catchy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ZME ScienceWhat makes a song &#x27;catchy&#x27; - science explainsOctober 3, 2011...</p></details>
    Published: October 3, 2011  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psu.edu  
    Title: Penn State Probing Question: What makes a song catchy? | Penn State University  
-   Link: <a href="https://www.psu.edu/news/research/story/probing-question-what-makes-song-catchy" target="_blank" rel="noopener noreferrer nofollow">https://www.psu.edu/news/research/story/probing-question-what-makes-song-catchy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn StateProbing Question: What makes a song catchy? | Penn State UniversityJune 5, 2006...</p></details>
+   Link:<a href="https://www.psu.edu/news/research/story/probing-question-what-makes-song-catchy" target="_blank" rel="noopener noreferrer nofollow">https://www.psu.edu/news/research/story/probing-question-what-makes-song-catchy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Penn StateProbing Question: What makes a song catchy? | Penn State UniversityJune 5, 2006...</p></details>
    Published: June 5, 2006  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: illustratemagazine.com  
-   Link: <a href="https://illustratemagazine.com/the-psychology-of-lyrics-why-certain-phrases-stick-with-us/" target="_blank" rel="noopener noreferrer nofollow">https://illustratemagazine.com/the-psychology-of-lyrics-why-certain-phrases-stick-with-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2025 — THE PSYCHOLOGY OF LYRICS: WHY CERTAIN PHRASES STICK WITH US by admin August 29, 2025 August 29, 2025 Image: The Psychol...</p></details>
+   Link:<a href="https://illustratemagazine.com/the-psychology-of-lyrics-why-certain-phrases-stick-with-us/" target="_blank" rel="noopener noreferrer nofollow">https://illustratemagazine.com/the-psychology-of-lyrics-why-certain-phrases-stick-with-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 29, 2025 — THE PSYCHOLOGY OF LYRICS: WHY CERTAIN PHRASES STICK WITH US by admin August 29, 2025 August 29, 2025 Image: The Psychol...</p></details>
    Published: August 29, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers | Repetition and Emotive Communication in Music Versus Speech  
-   Link: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00167/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 04 April 2013 Sec. Emotion Science Volume 4 - 2013 | [https://doi.org/10.3389/fpsyg.2013.00167](https://doi.org/10.3389/fpsyg.2013.00167) Published in Frontiers in Psychol...</p></details>
+   Link:<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00167/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychol., 04 April 2013 Sec. Emotion Science Volume 4 - 2013 | [https://doi.org/10.3389/fpsyg.2013.00167](https://doi.org/10.3389/fpsyg.2013.00167) Published in Frontiers in Psychol...</p></details>
    Published: April 2013  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
    Title: Frontiers | Repetition and Emotive Communication in Music Versus Speech  
-   Link: <a href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpsyg.2013.00167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpsyg.2013.00167/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2013 — REPETITION AND EMOTIVE COMMUNICATION IN MUSIC VERSUS SPEECH Image: Elizabeth Hellmuth Margulis* Elizabeth Hellmuth Margul...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpsyg.2013.00167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpsyg.2013.00167/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2013 — REPETITION AND EMOTIVE COMMUNICATION IN MUSIC VERSUS SPEECH Image: Elizabeth Hellmuth Margulis* Elizabeth Hellmuth Margul...</p></details>
    Published: April 4, 2013  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: popculturemadness.com  
-   Link: <a href="https://popculturemadness.com/repetitive-words-singers-us/" target="_blank" rel="noopener noreferrer nofollow">https://popculturemadness.com/repetitive-words-singers-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A repeated phrase gives listeners something to grab quickly, especially in a chorus. It helps a song feel fa...</p></details>
+   Link:<a href="https://popculturemadness.com/repetitive-words-singers-us/" target="_blank" rel="noopener noreferrer nofollow">https://popculturemadness.com/repetitive-words-singers-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A repeated phrase gives listeners something to grab quickly, especially in a chorus. It helps a song feel fa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shop.bottegadelsarto.com  
    Title: song chorus structure analysis that changes how you listen 989810  
-   Link: <a href="https://shop.bottegadelsarto.com/opinion/song-chorus-structure-analysis-that-changes-how-you-listen-989810" target="_blank" rel="noopener noreferrer nofollow">https://shop.bottegadelsarto.com/opinion/song-chorus-structure-analysis-that-changes-how-you-listen-989810</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chorus Structure Analysis That Changes How You ListenMay 21, 2026 — WHY REPETITION WORKS IN CHORUSES The psychology of repetition explain...</p></details>
+   Link:<a href="https://shop.bottegadelsarto.com/opinion/song-chorus-structure-analysis-that-changes-how-you-listen-989810" target="_blank" rel="noopener noreferrer nofollow">https://shop.bottegadelsarto.com/opinion/song-chorus-structure-analysis-that-changes-how-you-listen-989810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chorus Structure Analysis That Changes How You ListenMay 21, 2026 — WHY REPETITION WORKS IN CHORUSES The psychology of repetition explain...</p></details>
    Published: May 21, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unsw.edu.au  
    Title: ear resistible why there are some songs we simply can t get out  
-   Link: <a href="https://www.unsw.edu.au/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ear-resistible: why there are some songs we simply can&#x27;t get out of our headApril 5, 2023 — EAR-RESISTIBLE: WHY THERE ARE SOME SONGS WE S...</p></details>
+   Link:<a href="https://www.unsw.edu.au/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/news/2023/04/ear-resistible--why-there-are-some-songs-we-simply-can-t-get-out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ear-resistible: why there are some songs we simply can&#x27;t get out of our headApril 5, 2023 — EAR-RESISTIBLE: WHY THERE ARE SOME SONGS WE S...</p></details>
    Published: April 5, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nonsprecare.it  
    Title: Why do we always remember the same chorus of a song?  
-   Link: <a href="https://www.nonsprecare.it/en/because-we-always-remember-the-same-song-refrain" target="_blank" rel="noopener noreferrer nofollow">https://www.nonsprecare.it/en/because-we-always-remember-the-same-song-refrain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A mechanism that involves certain areas of the brain. Amplified by repeated listening to the radio and social media. di Editorial Team |...</p></details>
+   Link:<a href="https://www.nonsprecare.it/en/because-we-always-remember-the-same-song-refrain" target="_blank" rel="noopener noreferrer nofollow">https://www.nonsprecare.it/en/because-we-always-remember-the-same-song-refrain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A mechanism that involves certain areas of the brain. Amplified by repeated listening to the radio and social media. di Editorial Team |...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: toriamason.band  
    Title: It's the part that listeners remember, sing alo  
-   Link: <a href="https://toriamason.band/catchy-by-design-the-science-of-repetition-in-choruses/" target="_blank" rel="noopener noreferrer nofollow">https://toriamason.band/catchy-by-design-the-science-of-repetition-in-choruses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catchy by Design: The Science of Repetition in Choruses – Toria Mason and Burning FireCATCHY BY DESIGN: THE SCIENCE OF REPETITION IN CHOR...</p></details>
+   Link:<a href="https://toriamason.band/catchy-by-design-the-science-of-repetition-in-choruses/" target="_blank" rel="noopener noreferrer nofollow">https://toriamason.band/catchy-by-design-the-science-of-repetition-in-choruses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catchy by Design: The Science of Repetition in Choruses – Toria Mason and Burning FireCATCHY BY DESIGN: THE SCIENCE OF REPETITION IN CHOR...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc.net.au  
    Title: Why do some songs get stuck in your head?  
-   Link: <a href="https://www.abc.net.au/news/science/2023-05-28/why-some-music-[hooks" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2023-05-28/why-some-music-[hooks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychology behind catchy musical hooks - ABC NewsMay 28, 2023 — ScienceWhy do some songs get stuck in your head? The psychology behin...</p></details>
+   Link:<a href="https://www.abc.net.au/news/science/2023-05-28/why-some-music-[hooks" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2023-05-28/why-some-music-[hooks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychology behind catchy musical hooks - ABC NewsMay 28, 2023 — ScienceWhy do some songs get stuck in your head? The psychology behin...</p></details>
    Published: May 28, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806124/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7806124/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a time series analysis of lyrical complexity in six decades of American popular music - PMCJanuary 13, 2021 — INTRODUCTION Music is a hum...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806124/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7806124/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a time series analysis of lyrical complexity in six decades of American popular music - PMCJanuary 13, 2021 — INTRODUCTION Music is a hum...</p></details>
    Published: January 13, 2021

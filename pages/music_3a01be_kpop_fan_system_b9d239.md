@@ -501,25 +501,25 @@ image: /assets/images/music_3a01be_kpop_fan_system_b9d239-overview-social.jpg
 
 ## Introduction
 
-K-pop turns music into a fan system by treating a song as only one part of a larger, coordinated design: choreography, video, styling, collectable albums, livestreams, fan clubs, private-message apps, merchandise, voting campaigns and social media activity all reinforce one another. The result is not just a pop act with listeners, but a participatory ecosystem in which fans buy, translate, stream, organise, collect, promote and argue over the work. That is why K-pop often behaves differently from ordinary pop in the music economy. A release can be a [recording]({{ 'recording/' | relative_url }}), a visual concept, a performance challenge, a collectable object and a community event at the same time. The model has helped Korean acts dominate physical album sales, build unusually organised global fandoms and make direct-to-[fan platforms]({{ 'fan-platforms/' | relative_url }}) central to the business. It has also created pressures: overwork for artists, high spending expectations for fans, environmental criticism around albums and dependence on a highly mobilised core audience. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/beyond-music-rights-how-kpop-fandoms-rally-around-intellectual-property-73531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">beyond music rights how kpop fandoms rally around intellectual property 73531</span><span class="citation-popover-snippet">beyond music rights how kpop fandoms rally around intellectual property 73531</span></span></span>
+K-pop turns music into a fan system by treating a song as only one part of a larger, coordinated design: choreography, video, styling, collectable albums, livestreams, fan clubs, private-message apps, merchandise, voting campaigns and social media activity all reinforce one another. The result is not just a pop act with listeners, but a participatory ecosystem in which fans buy, translate, stream, organise, collect, promote and argue over the work. That is why K-pop often behaves differently from ordinary pop in the music economy. A release can be a [recording]({{ 'recording/' | relative_url }}), a visual concept, a performance challenge, a collectable object and a community event at the same time. The model has helped Korean acts dominate physical album sales, build unusually organised global fandoms and make direct-to-[fan platforms]({{ 'fan-platforms/' | relative_url }}) central to the business. It has also created pressures: overwork for artists, high spending expectations for fans, environmental criticism around albums and dependence on a highly mobilised core audience. MDPI<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wipo.int/en/web/wipo-magazine/articles/beyond-music-rights-how-kpop-fandoms-rally-around-intellectual-property-73531" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wipo.int">[WIPO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wipo.int</span><span class="citation-popover-title">beyond music rights how kpop fandoms rally around intellectual property 73531</span><span class="citation-popover-snippet">beyond music rights how kpop fandoms rally around intellectual property 73531</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239-overview.webp" | relative_url }}" alt="Overview image for K Pop" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the song is only the starting point
 
 In much of pop, the song is the main product and everything else is promotion. K-pop reverses that hierarchy more often than it admits. The song still matters, but it is designed to travel through a network of visible, repeatable and ownable forms. A chorus becomes a dance point. A music video becomes a concept reveal. A stage outfit becomes an era-defining image. An album becomes a box of collectables. A livestream becomes a feeling of [access]({{ 'access/' | relative_url }}). A fan platform becomes a place where [attention]({{ 'attention/' | relative_url }}) can be measured, monetised and retained.
 
-Research on K-pop’s production system stresses that entertainment companies do not simply release finished recordings into the market; they build integrated production, training and promotion systems around performers, content and fan interaction. That helps explain why K-pop is often described less as a genre in the narrow musical sense and more as an industrial format: pop songs arranged around performance, visual identity, media circulation and organised fandom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2071-1050/14/17/11101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+Research on K-pop’s production system stresses that entertainment companies do not simply release finished recordings into the market; they build integrated production, training and promotion systems around performers, content and fan interaction. That helps explain why K-pop is often described less as a genre in the narrow musical sense and more as an industrial format: pop songs arranged around performance, visual identity, media circulation and organised fandom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2071-1050/14/17/11101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 The most important implementation choice is coordination. A comeback is usually not a single release date but a sequence: logo motion, concept photos, track list, teaser clips, music video, showcase, dance practice, broadcast stages, fan calls, album versions, behind-the-scenes content and platform posts. Each piece gives fans something to decode, share or purchase. The music becomes the centre of gravity, but the fan system is built from all the objects and rituals orbiting it.
 
-This makes K-pop unusually legible online. A viewer who does not speak Korean can still understand a synchronised dance break, a colour-coded concept, a striking video set or a short performance clip. That visual and choreographic portability is one reason K-pop could spread through global video platforms before it had the same level of radio or mainstream media access in many countries. Early research on European audiences found that online music videos were a primary mode of consumption for fans with little access to live events, showing how internet distribution helped performance-heavy Korean pop travel beyond its domestic infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3034928/1/Um%20et%20al.%202014_K-pop%20on%20the%20Global%20Platform%28ENG%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[Livrepository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-title">Um et al. 2014 K pop on the Global Platform(ENG</span><span class="citation-popover-snippet">Um et al. 2014 K pop on the Global Platform(ENG</span></span></span>
+This makes K-pop unusually legible online. A viewer who does not speak Korean can still understand a synchronised dance break, a colour-coded concept, a striking video set or a short performance clip. That visual and choreographic portability is one reason K-pop could spread through global video platforms before it had the same level of radio or mainstream media access in many countries. Early research on European audiences found that online music videos were a primary mode of consumption for fans with little access to live events, showing how internet distribution helped performance-heavy Korean pop travel beyond its domestic infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3034928/1/Um%20et%20al.%202014_K-pop%20on%20the%20Global%20Platform%28ENG%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[Livrepository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-title">Um et al. 2014 K pop on the Global Platform(ENG</span><span class="citation-popover-snippet">Um et al. 2014 K pop on the Global Platform(ENG</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239-Illustration-1-dark.svg" | relative_url }}" alt="K Pop illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Songs, performance and visual identity work as one product
 
 K-pop’s fan system begins with the way acts are packaged for recognition. A group is rarely presented as only a set of voices. It has a name, logo, colour palette, member roles, choreography, styling language, fandom name, light stick, album design and recurring visual universe. These elements help fans identify the act instantly and give them objects and symbols through which to display belonging.
 
-Choreography is especially important because it turns listening into participation. Many K-pop songs are built around memorable dance points that can be clipped, covered and repeated. Academic work on K-pop choreography notes the importance of highly synchronised group dance and memorable gestures in shifting attention from the band-as-musicians model towards the idol group as a performance unit. That shift matters because it gives fans more than a track to replay: it gives them a routine to learn, a stage to compare, and a visual signature to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Choreography is especially important because it turns listening into participation. Many K-pop songs are built around memorable dance points that can be clipped, covered and repeated. Academic work on K-pop choreography notes the importance of highly synchronised group dance and memorable gestures in shifting attention from the band-as-musicians model towards the idol group as a performance unit. That shift matters because it gives fans more than a track to replay: it gives them a routine to learn, a stage to compare, and a visual signature to circulate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Music videos intensify this effect. They are not just advertisements for songs; they are often the most complete statement of a group’s concept. A video may introduce a fictional world, a fashion direction, a colour scheme or a symbolic object that then reappears in stage performances and album packaging. The same release can therefore be consumed at different levels: casually as a song, visually as a video, socially as a set of clips, and deeply as a collection of references for fans to interpret.
 
@@ -531,7 +531,7 @@ This is why K-pop is so compatible with the language of “eras”. A new releas
 
 K-pop fandom is often intense because it gives fans tasks. They stream songs, buy albums, vote in award polls, translate posts, subtitle clips, organise birthday projects, manage fan accounts, coordinate chart goals, trade [photocards]({{ 'photocards/' | relative_url }}) and explain group lore to newcomers. These activities are not accidental side effects. They are encouraged by an industry structure that recognises fans as central participants in visibility and revenue.
 
-Scholars have described K-pop fandom as part of a “fan-centred” idol production system, in which popularity depends on the continuing work of fans as much as on conventional promotion. Weverse research describes fan platforms as part of a move to domesticate and manage fandom inside company-controlled spaces, while work on fan participation highlights the shift from passive consumption towards organised digital practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Scholars have described K-pop fandom as part of a “fan-centred” idol production system, in which popularity depends on the continuing work of fans as much as on conventional promotion. Weverse research describes fan platforms as part of a move to domesticate and manage fandom inside company-controlled spaces, while work on fan participation highlights the shift from passive consumption towards organised digital practices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The system is powerful because it converts emotional attachment into repeatable action. A casual listener may play a song. A committed fan may learn the release schedule, buy multiple album versions, stream during chart windows, join a fan platform, vote in competitions and help other fans navigate the group’s content. At scale, this turns fandom into an informal promotional network that can outperform traditional marketing in speed, persistence and global reach.
 
@@ -541,9 +541,9 @@ It also changes what “supporting an artist” means. In many fandom spaces, su
 
 K-pop’s [physical]({{ 'physical/' | relative_url }}) album culture shows the fan system at its clearest. In the streaming era, most listeners do not need a CD to hear music, yet K-pop albums remain commercially important because they are designed as collectable packages. They often include photobooks, posters, stickers, postcards, random photocards and multiple versions. The CD is only one component; the album is also a fan object, a lottery, a display item and sometimes an entry route to fan events.
 
-This is why K-pop can appear disproportionately strong in physical sales compared with streaming. IFPI reported that Seventeen’s *FML* was the world’s top album in 2023, with five of the top ten albums by South Korean acts, while later reporting that Taylor Swift led the 2024 global album charts and that K-pop acts such as ENHYPEN and Seventeen remained among the biggest-selling global artists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/lifestyle/seventeens-album-fml-tops-ifpi-global-chart-k-pop-dominates-2024-02-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Seventeen&#x27;s album &quot;FML&quot; tops IFPI global chart as K-pop dominates</span><span class="citation-popover-snippet">Seventeen&#x27;s album &quot;FML&quot; tops IFPI global chart as K-pop dominates</span></span></span>
+This is why K-pop can appear disproportionately strong in physical sales compared with streaming. IFPI reported that Seventeen’s *FML* was the world’s top album in 2023, with five of the top ten albums by South Korean acts, while later reporting that Taylor Swift led the 2024 global album charts and that K-pop acts such as ENHYPEN and Seventeen remained among the biggest-selling global artists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/lifestyle/seventeens-album-fml-tops-ifpi-global-chart-k-pop-dominates-2024-02-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Seventeen&#x27;s album &quot;FML&quot; tops IFPI global chart as K-pop dominates</span><span class="citation-popover-snippet">Seventeen&#x27;s album &quot;FML&quot; tops IFPI global chart as K-pop dominates</span></span></span>
 
-The collectable logic also explains repeated purchases. A fan may buy more than one copy to obtain different covers, member-specific photocards or more chances in a fan call or signing lottery. Recent research on K-pop CD purchases in the United States found that fans often buy albums to acquire, collect and trade photocards, support favourite artists and decorate personal spaces, with not all buyers primarily using the CD for listening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span></span></span>
+The collectable logic also explains repeated purchases. A fan may buy more than one copy to obtain different covers, member-specific photocards or more chances in a fan call or signing lottery. Recent research on K-pop CD purchases in the United States found that fans often buy albums to acquire, collect and trade photocards, support favourite artists and decorate personal spaces, with not all buyers primarily using the CD for listening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span><span class="citation-popover-snippet">Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc</span></span></span>
 
 This is not unique to K-pop; Western pop has also embraced variants, deluxe editions and direct-to-fan sales. The difference is that K-pop normalised a more elaborate version of the practice earlier and tied it to a dense fan infrastructure. The album is not simply a format competing with streaming. It is a membership signal, a trading card system, a chart tool and a physical extension of the group’s visual world.
 
@@ -552,11 +552,11 @@ This is not unique to K-pop; Western pop has also embraced variants, deluxe edit
 
 The next layer of the system is platform control. K-pop companies and related technology firms have built dedicated fan platforms that combine communication, membership, commerce, livestreaming and translation. Instead of relying only on open social media, they increasingly direct fans into proprietary spaces where engagement can be counted and monetised.
 
-Weverse is the clearest example. Launched by HYBE in 2019, it lets artists post, livestream and sell merchandise, and Reuters reported in 2024 that it had more than 10 million monthly active users on average in the third quarter of 2023, with around nine in ten users outside South Korea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/lifestyle/taylor-swift-wins-recording-artist-year-crown-fifth-time-2025-02-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> By 2025, Weverse’s own fandom trend report framed the service as a global superfan hub with expanded e-commerce and regional growth, while industry reporting said the platform reached 12 million monthly active users in 2025. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.weverse.co/news/?bmode=view&amp;idx=165565023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.weverse.co">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.weverse.co</span><span class="citation-popover-title">ISSUES GLOBAL FANDOM TREND REPORT</span><span class="citation-popover-snippet">ISSUES GLOBAL FANDOM TREND REPORT</span></span></span>
+Weverse is the clearest example. Launched by HYBE in 2019, it lets artists post, livestream and sell merchandise, and Reuters reported in 2024 that it had more than 10 million monthly active users on average in the third quarter of 2023, with around nine in ten users outside South Korea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/lifestyle/taylor-swift-wins-recording-artist-year-crown-fifth-time-2025-02-18/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> By 2025, Weverse’s own fandom trend report framed the service as a global superfan hub with expanded e-commerce and regional growth, while industry reporting said the platform reached 12 million monthly active users in 2025.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.weverse.co/news/?bmode=view&amp;idx=165565023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.weverse.co">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.weverse.co</span><span class="citation-popover-title">ISSUES GLOBAL FANDOM TREND REPORT</span><span class="citation-popover-snippet">ISSUES GLOBAL FANDOM TREND REPORT</span></span></span>
 
-DearU’s Bubble shows a more intimate version of the same model. The company describes Bubble as a private messaging service for artists and fans, while academic research on the platform notes that by 2024 it had about 2 million fan subscribers and around 600 idols or artists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dearu.com/en/pages/business_bubble.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dearu.com">[Dearu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dearu.com</span><span class="citation-popover-snippet">Open source on dearu.com.</span></span></span> The appeal is obvious: fans feel closer to the artist, and companies gain recurring subscription revenue and behavioural data.
+DearU’s Bubble shows a more intimate version of the same model. The company describes Bubble as a private messaging service for artists and fans, while academic research on the platform notes that by 2024 it had about 2 million fan subscribers and around 600 idols or artists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dearu.com/en/pages/business_bubble.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dearu.com">[Dearu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dearu.com</span><span class="citation-popover-snippet">Open source on dearu.com.</span></span></span> The appeal is obvious: fans feel closer to the artist, and companies gain recurring subscription revenue and behavioural data.
 
-These platforms reshape fandom because they place music, communication and shopping in the same funnel. A fan can watch a livestream, read translated posts, buy an album, join a membership and receive artist messages without leaving the ecosystem. For companies, this reduces dependence on third-party platforms and makes the most committed fans easier to reach. For fans, it can feel convenient and intimate. For critics, it raises questions about data, paid access, emotional labour and the commercialisation of closeness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+These platforms reshape fandom because they place music, communication and shopping in the same funnel. A fan can watch a livestream, read translated posts, buy an album, join a membership and receive artist messages without leaving the ecosystem. For companies, this reduces dependence on third-party platforms and makes the most committed fans easier to reach. For fans, it can feel convenient and intimate. For critics, it raises questions about data, paid access, emotional labour and the commercialisation of closeness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LTry_VnyKgE" title="Album Sales Are No Longer Impressive and This Is Why (Photocards, Fancalls, &amp; Dumpsters)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LTry_VnyKgE" target="_blank" rel="noopener noreferrer">Album Sales Are No Longer Impressive and This Is Why (Photocards, Fancalls, &amp; Dumpsters)</a></p><p class="youtube-embed-meta">Channel: Midnight Theories &middot; Views: 12.6K &middot; Uploaded: June 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LTry_VnyKgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LTry_VnyKgE">Open on YouTube</a></p></div></div></div>
 
@@ -564,22 +564,22 @@ These platforms reshape fandom because they place music, communication and shopp
 
 K-pop’s global growth is often explained as a matter of polished songs and attractive performers, but the fan system is just as important. International fans need translation, shipping, time-zone-aware content, online events, global tour routes, multilingual subtitles and platform interfaces that make Korean entertainment legible abroad. Companies have learned to build for that audience directly.
 
-Weverse’s machine translation, international user base and global artist expansion are part of this infrastructure. Reuters described the app as offering translation in 15 languages and reported that Ariana Grande’s move onto the platform reflected HYBE’s ambition to make Weverse a broader global superfan app rather than only a K-pop service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">What is Weverse, &#x27;super app&#x27; joined by Ariana Grande?</span><span class="citation-popover-snippet">What is Weverse, &#x27;super app&#x27; joined by Ariana Grande?</span></span></span>
+Weverse’s machine translation, international user base and global artist expansion are part of this infrastructure. Reuters described the app as offering translation in 15 languages and reported that Ariana Grande’s move onto the platform reflected HYBE’s ambition to make Weverse a broader global superfan app rather than only a K-pop service.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">What is Weverse, &#x27;super app&#x27; joined by Ariana Grande?</span><span class="citation-popover-snippet">What is Weverse, &#x27;super app&#x27; joined by Ariana Grande?</span></span></span>
 
 The model also lets fans outside South Korea participate without being physically present. They can buy imported albums, join online fan calls, attend livestreamed concerts, vote in global polls, organise local cup-sleeve events, trade photocards by post and coordinate streaming campaigns across countries. This turns distance into another design problem for the system to solve.
 
-That said, globalisation introduces tension. Some critics argue that as K-pop companies chase international audiences, they risk flattening the qualities that made the music culturally specific, while recent industry coverage has raised questions about slowing growth, artist disputes and whether fan-driven support can remain sustainable at the same intensity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/mar/27/can-k-pop-overcome-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;It&#x27;s ended up being nothing to no one&#x27;: can K-pop overcome crisis?</span><span class="citation-popover-snippet">The Guardian&#x27;It&#x27;s ended up being nothing to no one&#x27;: can K-pop overcome crisis?</span></span></span> The fan system can take K-pop far beyond Korea, but it also puts pressure on companies to satisfy many markets at once.
+That said, globalisation introduces tension. Some critics argue that as K-pop companies chase international audiences, they risk flattening the qualities that made the music culturally specific, while recent industry coverage has raised questions about slowing growth, artist disputes and whether fan-driven support can remain sustainable at the same intensity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/music/2025/mar/27/can-k-pop-overcome-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;It&#x27;s ended up being nothing to no one&#x27;: can K-pop overcome crisis?</span><span class="citation-popover-snippet">The Guardian&#x27;It&#x27;s ended up being nothing to no one&#x27;: can K-pop overcome crisis?</span></span></span> The fan system can take K-pop far beyond Korea, but it also puts pressure on companies to satisfy many markets at once.
 
 <img src="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239-Illustration-3-dark.svg" | relative_url }}" alt="K Pop illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_kpop_fan_system_b9d239-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The system creates real power, but also real strain
 
 K-pop’s fan machine works because it gives many parties what they want. Companies get diversified revenue from albums, concerts, merchandise, memberships, licensing and platforms. Artists get unusually committed audiences who can propel them onto global charts. Fans get community, identity, collectables, routines, inside jokes and the feeling of helping an artist succeed.
 
-HYBE’s business illustrates the revenue logic. Industry analysis of the company’s 2025 results reported record annual revenue, with artist direct-involvement businesses such as albums and concerts alongside large indirect lines such as merchandise, licensing, content and fan clubs. Another analysis of HYBE’s 2024 performance noted that recorded music was only part of the company’s revenue mix, with expanded [rights]({{ 'rights/' | relative_url }}) and non-recorded revenue helping offset weaker recorded-music results in some quarters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+HYBE’s business illustrates the revenue logic. Industry analysis of the company’s 2025 results reported record annual revenue, with artist direct-involvement businesses such as albums and concerts alongside large indirect lines such as merchandise, licensing, content and fan clubs. Another analysis of HYBE’s 2024 performance noted that recorded music was only part of the company’s revenue mix, with expanded [rights]({{ 'rights/' | relative_url }}) and non-recorded revenue helping offset weaker recorded-music results in some quarters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-But the same system can become extractive. Fans may feel pushed towards repeated purchases; artists may be expected to maintain constant communication; and companies may rely on scarcity, randomisation and emotional access to drive revenue. Research on Bubble frames artist-fan messaging as a form of relational labour, where performers are not only singing and dancing but also sustaining an ongoing sense of personal connection for subscribers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+But the same system can become extractive. Fans may feel pushed towards repeated purchases; artists may be expected to maintain constant communication; and companies may rely on scarcity, randomisation and emotional access to drive revenue. Research on Bubble frames artist-fan messaging as a form of relational labour, where performers are not only singing and dancing but also sustaining an ongoing sense of personal connection for subscribers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The physical album system has drawn particular criticism. Reuters reported in 2024 that K-pop’s heavy CD output had become a target for environmental campaigners because many fans buy albums for collectable inclusions rather than the discs themselves; the same report noted that album sales had nearly tripled even though only a small share of South Koreans used physical albums to listen to music. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">K-pop&#x27;s profligate CD output draws fire as South Korea hosts plastic waste talks</span><span class="citation-popover-snippet">K-pop&#x27;s profligate CD output draws fire as South Korea hosts plastic waste talks</span></span></span> Environmental groups and fan activists have argued that random photocards, fan-event lotteries and multiple versions encourage wasteful bulk buying, even when companies introduce “digital” or “smart” album alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5291937" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The physical album system has drawn particular criticism. Reuters reported in 2024 that K-pop’s heavy CD output had become a target for environmental campaigners because many fans buy albums for collectable inclusions rather than the discs themselves; the same report noted that album sales had nearly tripled even though only a small share of South Koreans used physical albums to listen to music.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">K-pop&#x27;s profligate CD output draws fire as South Korea hosts plastic waste talks</span><span class="citation-popover-snippet">K-pop&#x27;s profligate CD output draws fire as South Korea hosts plastic waste talks</span></span></span> Environmental groups and fan activists have argued that random photocards, fan-event lotteries and multiple versions encourage wasteful bulk buying, even when companies introduce “digital” or “smart” album alternatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5291937" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most honest reading is not that K-pop fandom is simply manipulated, nor that all fan labour is freely chosen joy. It is both. Fans are active, creative and socially powerful; they also operate inside commercial structures designed to capture that devotion. The tension is the system.
 
@@ -596,194 +596,194 @@ The risk for the wider industry is copying the surface without understanding the
 Its deeper lesson is that music now competes not only as sound, but as an environment. K-pop built one of the clearest examples of that environment: emotionally intense, visually rich, commercially sophisticated, globally networked and sometimes exhausting. It turns songs into systems by making fandom part of the product, part of the promotion and part of the meaning of the music itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How K Pop Built A Global Fan Machine. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How K Pop Built A Global Fan Machine. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool+by+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Birth of Korean Cool on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VFGAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Birth of Korean Cool" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool+by+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Birth of Korean Cool">The Birth of Korean Cool</a>
-        </h4>
-        <p class="fr-book-author">By Euny Hong</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool+by+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Birth of Korean Cool on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VFGAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Birth of Korean Cool" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool+by+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Birth of Korean Cool">The Birth of Korean Cool</a>
+</h4>
+<p class="fr-book-author">By Euny Hong</p>
         
-        <p class="fr-book-desc">Explains the wider context behind K-pop&#x27;s global expansion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool+by+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the wider context behind K-pop&#x27;s global expansion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool+by+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
-        </h4>
-        <p class="fr-book-author">By Suk-Young Kim</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
+</h4>
+<p class="fr-book-author">By Suk-Young Kim</p>
         
-        <p class="fr-book-desc">Directly covers idols, fans, performance and multimedia fandom systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers idols, fans, performance and multimedia fandom systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Live+by+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
-        </h4>
-        <p class="fr-book-author">By John Lie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
+</h4>
+<p class="fr-book-author">By John Lie</p>
         
-        <p class="fr-book-desc">Analyzes the industry structures behind fandom and commercial success.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes the industry structures behind fandom and commercial success.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop+by+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+Fandom+by+Areum+Jeong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Fandom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n0CfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop Fandom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop+Fandom+by+Areum+Jeong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Fandom">K-Pop Fandom</a>
-        </h4>
-        <p class="fr-book-author">By Areum Jeong</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+Fandom+by+Areum+Jeong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Fandom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n0CfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop Fandom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop+Fandom+by+Areum+Jeong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Fandom">K-Pop Fandom</a>
+</h4>
+<p class="fr-book-author">By Areum Jeong</p>
         
-        <p class="fr-book-desc">Focuses specifically on K-pop fans and fan labour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop+Fandom+by+Areum+Jeong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses specifically on K-pop fans and fan labour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop+Fandom+by+Areum+Jeong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco"><img src="https://i.ebayimg.com/images/g/leUAAeSw5nxpt9VJ/s-l225.jpg" alt="Listing image for Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Alien Art Print, Sci-Fi UFO Poster, Mid-Century Modern Space Wall Art Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p~oAAeSwkuFp2SJ0/s-l225.jpg" alt="Listing image for Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien | Get In Loser | UFO Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+alien+wall+art+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster alien wall art -book -books" data-ebay-reference="how-k-pop-built-a-global-fan-machine-ufo-poster-alien-wall-art-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -799,7 +799,7 @@ Its deeper lesson is that music now competes not only as sound, but as an enviro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -819,7 +819,7 @@ Its deeper lesson is that music now competes not only as sound, but as an enviro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -851,7 +851,7 @@ Its deeper lesson is that music now competes not only as sound, but as an enviro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -903,7 +903,7 @@ Its deeper lesson is that music now competes not only as sound, but as an enviro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -948,7 +948,7 @@ Its deeper lesson is that music now competes not only as sound, but as an enviro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -989,221 +989,221 @@ Its deeper lesson is that music now competes not only as sound, but as an enviro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/14/17/11101" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/17/11101</a>  
+   Link:<a href="https://www.mdpi.com/2071-1050/14/17/11101" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/17/11101</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wipo.int  
    Title: beyond music rights how kpop fandoms rally around intellectual property 73531  
-   Link: <a href="https://www.wipo.int/en/web/wipo-magazine/articles/beyond-music-rights-how-kpop-fandoms-rally-around-intellectual-property-73531" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/beyond-music-rights-how-kpop-fandoms-rally-around-intellectual-property-73531</a>  
+   Link:<a href="https://www.wipo.int/en/web/wipo-magazine/articles/beyond-music-rights-how-kpop-fandoms-rally-around-intellectual-property-73531" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/en/web/wipo-magazine/articles/beyond-music-rights-how-kpop-fandoms-rally-around-intellectual-property-73531</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Seventeen's album "FML" tops IFPI global chart as K-pop dominates  
-   Link: <a href="https://www.reuters.com/lifestyle/seventeens-album-fml-tops-ifpi-global-chart-k-pop-dominates-2024-02-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/lifestyle/seventeens-album-fml-tops-ifpi-global-chart-k-pop-dominates-2024-02-27/</a>  
+   Link:<a href="https://www.reuters.com/lifestyle/seventeens-album-fml-tops-ifpi-global-chart-k-pop-dominates-2024-02-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/lifestyle/seventeens-album-fml-tops-ifpi-global-chart-k-pop-dominates-2024-02-27/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/lifestyle/taylor-swift-wins-recording-artist-year-crown-fifth-time-2025-02-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/lifestyle/taylor-swift-wins-recording-artist-year-crown-fifth-time-2025-02-18/</a>  
+   Link:<a href="https://www.reuters.com/lifestyle/taylor-swift-wins-recording-artist-year-crown-fifth-time-2025-02-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/lifestyle/taylor-swift-wins-recording-artist-year-crown-fifth-time-2025-02-18/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate The Appeal, Popularity, and Uses of K-pop Compact Disc  
-   Link: <a href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States</a>  
+   Link:<a href="https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399936886_Photocards_and_Collections_The_Appeal_Popularity_and_Uses_of_K-pop_Compact_Disc_Purchases_in_the_United_States</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: What is Weverse, 'super app' joined by Ariana Grande?  
-   Link: <a href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/</a>  
+   Link:<a href="https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/what-is-weverse-super-app-joined-by-ariana-grande-2024-06-14/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.weverse.co  
    Title: ISSUES GLOBAL FANDOM TREND REPORT  
-   Link: <a href="https://en.weverse.co/news/?bmode=view&amp;idx=165565023" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/news/?bmode=view&amp;idx=165565023</a>  
+   Link:<a href="https://en.weverse.co/news/?bmode=view&amp;idx=165565023" target="_blank" rel="noopener noreferrer nofollow">https://en.weverse.co/news/?bmode=view&amp;idx=165565023</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dearu.com  
-   Link: <a href="https://www.dearu.com/en/pages/business_bubble.php" target="_blank" rel="noopener noreferrer nofollow">https://www.dearu.com/en/pages/business_bubble.php</a>  
+   Link:<a href="https://www.dearu.com/en/pages/business_bubble.php" target="_blank" rel="noopener noreferrer nofollow">https://www.dearu.com/en/pages/business_bubble.php</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: K-pop's profligate CD output draws fire as South Korea hosts plastic waste talks  
-   Link: <a href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/</a>  
+   Link:<a href="https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/k-pops-profligate-cd-output-draws-fire-south-korea-hosts-plastic-waste-talks-2024-11-21/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5291937" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5291937</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5291937" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5291937</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371263272_The_Research_on_the_Influence_of_KPOP_Korean_Popular_Music_Culture_on_Fans" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371263272_The_Research_on_the_Influence_of_KPOP_Korean_Popular_Music_Culture_on_Fans</a>  
+   Link:<a href="https://www.researchgate.net/publication/371263272_The_Research_on_the_Influence_of_KPOP_Korean_Popular_Music_Culture_on_Fans" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371263272_The_Research_on_the_Influence_of_KPOP_Korean_Popular_Music_Culture_on_Fans</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community</a>  
+   Link:<a href="https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390505325_Platform_Fandom_Weverse_and_the_Technological_Domestication_of_Fan_Community</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter</a>  
+   Link:<a href="https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376992450_Utilization_Of_New_Media_As_Digital_Fandom_Among_Korean_Pop_K-POP_Fan_Groups_On_The_Social_Media_Platform_Twitter</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390830166_The_Labor_Process_of_Relational_Labor_The_Case_of_the_K-Pop_Fan_Platform_Bubble" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390830166_The_Labor_Process_of_Relational_Labor_The_Case_of_the_K-Pop_Fan_Platform_Bubble</a>  
+   Link:<a href="https://www.researchgate.net/publication/390830166_The_Labor_Process_of_Relational_Labor_The_Case_of_the_K-Pop_Fan_Platform_Bubble" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390830166_The_Labor_Process_of_Relational_Labor_The_Case_of_the_K-Pop_Fan_Platform_Bubble</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/356869424_phenomenon_of_fandom_consumption_in_k-pop_commodity_through_the_army_community_Bangtan_Sonyeondan_fandom" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356869424_phenomenon_of_fandom_consumption_in_k-pop_commodity_through_the_army_community_Bangtan_Sonyeondan_fandom</a>  
+   Link:<a href="https://www.researchgate.net/publication/356869424_phenomenon_of_fandom_consumption_in_k-pop_commodity_through_the_army_community_Bangtan_Sonyeondan_fandom" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356869424_phenomenon_of_fandom_consumption_in_k-pop_commodity_through_the_army_community_Bangtan_Sonyeondan_fandom</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 363388133 K Pop's Global Success and Its Innovative Production System  
-   Link: <a href="https://www.researchgate.net/publication/363388133_K-Pop%27s_Global_Success_and_Its_Innovative_Production_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363388133_K-Pop%27s_Global_Success_and_Its_Innovative_Production_System</a>  
+   Link:<a href="https://www.researchgate.net/publication/363388133_K-Pop%27s_Global_Success_and_Its_Innovative_Production_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363388133_K-Pop%27s_Global_Success_and_Its_Innovative_Production_System</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/378928643_Creativity_and_Innovation_in_the_K-pop_System_and_a_Possible_Link_with_Pansori" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378928643_Creativity_and_Innovation_in_the_K-pop_System_and_a_Possible_Link_with_Pansori</a>  
+   Link:<a href="https://www.researchgate.net/publication/378928643_Creativity_and_Innovation_in_the_K-pop_System_and_a_Possible_Link_with_Pansori" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378928643_Creativity_and_Innovation_in_the_K-pop_System_and_a_Possible_Link_with_Pansori</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ifpi.org  
    Title: GMR2025 SOTI  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2024/03/GMR2025_SOTI.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ifpi.org  
    Title: Global Music Report 2023 State of the Industry  
-   Link: <a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
+   Link:<a href="https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/wp-content/uploads/2020/03/Global_Music_Report_2023_State_of_the_Industry.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/</a>  
+   Link:<a href="https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ifpi.org  
    Title: taylor swift seventeen and morgan wallen top ifpi global album charts  
-   Link: <a href="https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/</a>  
+   Link:<a href="https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: honoraryreporters.korea.net  
-   Link: <a href="https://honoraryreporters.korea.net/board/detail.do?articlecate=1&amp;board_no=23100&amp;pageidx=1&amp;searchtp=all&amp;searchtxt=Mathilde&amp;tpln=1" target="_blank" rel="noopener noreferrer nofollow">https://honoraryreporters.korea.net/board/detail.do?articlecate=1&amp;board_no=23100&amp;pageidx=1&amp;searchtp=all&amp;searchtxt=Mathilde&amp;tpln=1</a>  
+   Link:<a href="https://honoraryreporters.korea.net/board/detail.do?articlecate=1&amp;board_no=23100&amp;pageidx=1&amp;searchtp=all&amp;searchtxt=Mathilde&amp;tpln=1" target="_blank" rel="noopener noreferrer nofollow">https://honoraryreporters.korea.net/board/detail.do?articlecate=1&amp;board_no=23100&amp;pageidx=1&amp;searchtp=all&amp;searchtxt=Mathilde&amp;tpln=1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mdpi.com  
    Title: 2076 328X  
-   Link: <a href="https://www.mdpi.com/2076-328X/14/12/1136" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-328X/14/12/1136</a>  
+   Link:<a href="https://www.mdpi.com/2076-328X/14/12/1136" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-328X/14/12/1136</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dearu.com  
-   Link: <a href="https://www.dearu.com/en/pages/about_overview.php" target="_blank" rel="noopener noreferrer nofollow">https://www.dearu.com/en/pages/about_overview.php</a>  
+   Link:<a href="https://www.dearu.com/en/pages/about_overview.php" target="_blank" rel="noopener noreferrer nofollow">https://www.dearu.com/en/pages/about_overview.php</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ifpi.gr  
    Title: charts el  
-   Link: <a href="https://www.ifpi.gr/charts_el.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.gr/charts_el.html</a>  
+   Link:<a href="https://www.ifpi.gr/charts_el.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.gr/charts_el.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051251326689</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20563051251326689" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051251326689</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: livrepository.liverpool.ac.uk  
    Title: Um et al. 2014 K pop on the Global Platform(ENG)  
-   Link: <a href="https://livrepository.liverpool.ac.uk/3034928/1/Um%20et%20al.%202014_K-pop%20on%20the%20Global%20Platform%28ENG%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://livrepository.liverpool.ac.uk/3034928/1/Um%20et%20al.%202014_K-pop%20on%20the%20Global%20Platform%28ENG%29.pdf</a>  
+   Link:<a href="https://livrepository.liverpool.ac.uk/3034928/1/Um%20et%20al.%202014_K-pop%20on%20the%20Global%20Platform%28ENG%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://livrepository.liverpool.ac.uk/3034928/1/Um%20et%20al.%202014_K-pop%20on%20the%20Global%20Platform%28ENG%29.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2059436420974935" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2059436420974935</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2059436420974935" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2059436420974935</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-says-weverse-hit-12m-monthly-users-last-year-and-that-its-turning-casual-fans-into-superfans/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505</a>  
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03007766.2025.2492505</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: The Guardian'It's ended up being nothing to no one': can K-pop overcome crisis?  
-   Link: <a href="https://www.theguardian.com/music/2025/mar/27/can-k-pop-overcome-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/27/can-k-pop-overcome-crisis</a>  
+   Link:<a href="https://www.theguardian.com/music/2025/mar/27/can-k-pop-overcome-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2025/mar/27/can-k-pop-overcome-crisis</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/hybe-posts-record-annual-revenues-of-1-86bn-for-2025-as-k-pop-firms-concert-revenues-hit-all-time-high-but-operating-profit-plunged-73/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-posts-record-annual-revenues-of-1-86bn-for-2025-as-k-pop-firms-concert-revenues-hit-all-time-high-but-operating-profit-plunged-73/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/hybe-posts-record-annual-revenues-of-1-86bn-for-2025-as-k-pop-firms-concert-revenues-hit-all-time-high-but-operating-profit-plunged-73/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybe-posts-record-annual-revenues-of-1-86bn-for-2025-as-k-pop-firms-concert-revenues-hit-all-time-high-but-operating-profit-plunged-73/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/sm-entertainment-buys-additional-11-4-stake-in-bubble-superfan-app-operator-dearu-in-92m-deal/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/sm-entertainment-buys-additional-11-4-stake-in-bubble-superfan-app-operator-dearu-in-92m-deal/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/sm-entertainment-buys-additional-11-4-stake-in-bubble-superfan-app-operator-dearu-in-92m-deal/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/sm-entertainment-buys-additional-11-4-stake-in-bubble-superfan-app-operator-dearu-in-92m-deal/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: musicbusinessworldwide.com  
    Title: hybes revenue slides 2 in q3 amid olympics impact internal challenges  
-   Link: <a href="https://www.musicbusinessworldwide.com/hybes-revenue-slides-2-in-q3-amid-olympics-impact-internal-challenges/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybes-revenue-slides-2-in-q3-amid-olympics-impact-internal-challenges/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/hybes-revenue-slides-2-in-q3-amid-olympics-impact-internal-challenges/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/hybes-revenue-slides-2-in-q3-amid-olympics-impact-internal-challenges/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: musicbusinessworldwide.com  
-   Link: <a href="https://www.musicbusinessworldwide.com/k-pop-in-crisis-around-93m-albums-were-sold-in-south-korea-in-2024-23m-fewer-than-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/k-pop-in-crisis-around-93m-albums-were-sold-in-south-korea-in-2024-23m-fewer-than-in-2023/</a>  
+   Link:<a href="https://www.musicbusinessworldwide.com/k-pop-in-crisis-around-93m-albums-were-sold-in-south-korea-in-2024-23m-fewer-than-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicbusinessworldwide.com/k-pop-in-crisis-around-93m-albums-were-sold-in-south-korea-in-2024-23m-fewer-than-in-2023/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
    Title: weverse hybes global superfan platform released the 2024 weverse fandom trend re  
-   Link: <a href="https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/</a>  
+   Link:<a href="https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ManilaBulletinEntertainment/posts/weverse-hybes-global-superfan-platform-released-the-2024-weverse-fandom-trend-re/1103722398217895/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Dear U  
-   Link: <a href="https://en.wikipedia.org/wiki/Dear_U" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dear_U</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dear_U" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dear_U</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dear-u.co  
    Title: 20240819153322 25a35e7d36a96863f1f1196b73856171  
-   Link: <a href="https://www.dear-u.co/data/file/ir_etc/20240819153322_25a35e7d36a96863f1f1196b73856171.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dear-u.co/data/file/ir_etc/20240819153322_25a35e7d36a96863f1f1196b73856171.pdf</a>  
+   Link:<a href="https://www.dear-u.co/data/file/ir_etc/20240819153322_25a35e7d36a96863f1f1196b73856171.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dear-u.co/data/file/ir_etc/20240819153322_25a35e7d36a96863f1f1196b73856171.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: thatfangirllife.com  
    Title: weverse reaches 12 million monthly users according to new fandom report  
-   Link: <a href="https://thatfangirllife.com/2026/02/weverse-reaches-12-million-monthly-users-according-to-new-fandom-report/" target="_blank" rel="noopener noreferrer nofollow">https://thatfangirllife.com/2026/02/weverse-reaches-12-million-monthly-users-according-to-new-fandom-report/</a>  
+   Link:<a href="https://thatfangirllife.com/2026/02/weverse-reaches-12-million-monthly-users-according-to-new-fandom-report/" target="_blank" rel="noopener noreferrer nofollow">https://thatfangirllife.com/2026/02/weverse-reaches-12-million-monthly-users-according-to-new-fandom-report/</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Inside the K-Pop Fan Participation Economy  
-   Link: <a href="https://www.youtube.com/watch?v=d_kS3q7M02A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_kS3q7M02A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore how the K-Pop industry transforms music into a participatory fan ecosystem through structured content, organized fan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_kS3q7M02A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_kS3q7M02A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore how the K-Pop industry transforms music into a participatory fan ecosystem through structured content, organized fan...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/10271948/Kpop_Fans_Internet_and_Influence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10271948/Kpop_Fans_Internet_and_Influence</a>  
+   Link:<a href="https://www.academia.edu/10271948/Kpop_Fans_Internet_and_Influence" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10271948/Kpop_Fans_Internet_and_Influence</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DM0xjZnhfWD/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM0xjZnhfWD/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DM0xjZnhfWD/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DM0xjZnhfWD/?hl=en-gb</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vmladvertising/posts/across-all-markets-we-grew-483-in-follower-growth-which-k-pop-has-a-large-part-t/1290354576472733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmladvertising/posts/across-all-markets-we-grew-483-in-follower-growth-which-k-pop-has-a-large-part-t/1290354576472733/</a>  
+   Link:<a href="https://www.facebook.com/vmladvertising/posts/across-all-markets-we-grew-483-in-follower-growth-which-k-pop-has-a-large-part-t/1290354576472733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmladvertising/posts/across-all-markets-we-grew-483-in-follower-growth-which-k-pop-has-a-large-part-t/1290354576472733/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a</a>  
+   Link:<a href="https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40byoonmee/behind-the-numbers-how-k-pop-album-sales-are-fueling-environmental-harm-327ce26acd1a</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thekoreatimes/posts/for-years-k-pop-fans-have-shown-their-dedication-by-buying-physical-albums-in-bu/1269997705305992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thekoreatimes/posts/for-years-k-pop-fans-have-shown-their-dedication-by-buying-physical-albums-in-bu/1269997705305992/</a>  
+   Link:<a href="https://www.facebook.com/thekoreatimes/posts/for-years-k-pop-fans-have-shown-their-dedication-by-buying-physical-albums-in-bu/1269997705305992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thekoreatimes/posts/for-years-k-pop-fans-have-shown-their-dedication-by-buying-physical-albums-in-bu/1269997705305992/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: financialreports.eu  
-   Link: <a href="https://financialreports.eu/companies/hybe-co-ltd/" target="_blank" rel="noopener noreferrer nofollow">https://financialreports.eu/companies/hybe-co-ltd/</a>  
+   Link:<a href="https://financialreports.eu/companies/hybe-co-ltd/" target="_blank" rel="noopener noreferrer nofollow">https://financialreports.eu/companies/hybe-co-ltd/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ezioauditorette/emotional-equity-how-k-pop-fan-communities-became-recurring-revenue-engines-e7ee9aba2258" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ezioauditorette/emotional-equity-how-k-pop-fan-communities-became-recurring-revenue-engines-e7ee9aba2258</a>  
+   Link:<a href="https://medium.com/%40ezioauditorette/emotional-equity-how-k-pop-fan-communities-became-recurring-revenue-engines-e7ee9aba2258" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ezioauditorette/emotional-equity-how-k-pop-fan-communities-became-recurring-revenue-engines-e7ee9aba2258</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYkYbTwn28e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYkYbTwn28e/</a>  
+   Link:<a href="https://www.instagram.com/p/DYkYbTwn28e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYkYbTwn28e/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: alphaspread.com  
-   Link: <a href="https://www.alphaspread.com/security/krx/352820/investor-relations" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaspread.com/security/krx/352820/investor-relations</a>
+   Link:<a href="https://www.alphaspread.com/security/krx/352820/investor-relations" target="_blank" rel="noopener noreferrer nofollow">https://www.alphaspread.com/security/krx/352820/investor-relations</a>

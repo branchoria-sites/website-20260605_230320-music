@@ -274,12 +274,12 @@ image: /assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechani
 
 ## Introduction
 
-Streaming appears simple to listeners: press play and a song starts. Behind that single action, however, lies a specialised mechanical [licensing]({{ 'licensing/' | relative_url }}) system that generates composition royalties for songwriters and publishers. Unlike performance royalties, which compensate the public use of a musical work, streaming mechanical royalties arise because an interactive stream involves reproducing and delivering a digital copy of the composition as part of the listening process. Modern licensing systems exist to connect billions of streams with the correct song [ownership]({{ 'ownership/' | relative_url }}) records and then distribute the resulting payments. Without those systems, streaming services would have to negotiate licences song by song, and many royalties would never reach the people who wrote the music. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
+Streaming appears simple to listeners: press play and a song starts. Behind that single action, however, lies a specialised mechanical [licensing]({{ 'licensing/' | relative_url }}) system that generates composition royalties for songwriters and publishers. Unlike performance royalties, which compensate the public use of a musical work, streaming mechanical royalties arise because an interactive stream involves reproducing and delivering a digital copy of the composition as part of the listening process. Modern licensing systems exist to connect billions of streams with the correct song [ownership]({{ 'ownership/' | relative_url }}) records and then distribute the resulting payments. Without those systems, streaming services would have to negotiate licences song by song, and many royalties would never reach the people who wrote the music.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-dark.svg" | relative_url }}" alt="Mechanical Royalties illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Streaming Creates Mechanical Royalties
 
-Mechanical [royalties]({{ 'royalties/' | relative_url }}) originated in the era of piano rolls, records and CDs, where a composition was mechanically reproduced onto a [physical]({{ 'physical/' | relative_url }}) format. Digital streaming transformed the technology but not the underlying legal principle. When a listener chooses a track on an interactive service such as Spotify or Apple Music, the service reproduces and delivers the musical work in digital form, creating a mechanical royalty obligation alongside other royalty streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
+Mechanical [royalties]({{ 'royalties/' | relative_url }}) originated in the era of piano rolls, records and CDs, where a composition was mechanically reproduced onto a [physical]({{ 'physical/' | relative_url }}) format. Digital streaming transformed the technology but not the underlying legal principle. When a listener chooses a track on an interactive service such as Spotify or Apple Music, the service reproduces and delivers the musical work in digital form, creating a mechanical royalty obligation alongside other royalty streams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
 
 This creates an unusual situation in which a single stream can generate multiple composition-side payments. A songwriter may receive:
 
@@ -287,21 +287,21 @@ This creates an unusual situation in which a single stream can generate multiple
 * A mechanical royalty for the reproduction and distribution of the composition within the stream.
 * Separate payments on the [recording]({{ 'recording/' | relative_url }}) side for owners of the master recording.
 
-The listener experiences one stream, but the [rights]({{ 'rights/' | relative_url }}) system treats it as several legally distinct uses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
+The listener experiences one stream, but the [rights]({{ 'rights/' | relative_url }}) system treats it as several legally distinct uses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artists.spotify.com">[Spotify for Artists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artists.spotify.com</span><span class="citation-popover-title">for Artists Collecting Mechanical Royalties Can Be Tricky</span><span class="citation-popover-snippet">The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</span></span></span>
 
-The growth of streaming exposed weaknesses in older licensing methods. Interactive services had to identify and license enormous catalogues containing tens of millions of songs. Errors in ownership records frequently led to unpaid or disputed royalties, creating pressure for a more centralised system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Major leap for streaming royalties</span><span class="citation-popover-snippet">Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+The growth of streaming exposed weaknesses in older licensing methods. Interactive services had to identify and license enormous catalogues containing tens of millions of songs. Errors in ownership records frequently led to unpaid or disputed royalties, creating pressure for a more centralised system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Major leap for streaming royalties</span><span class="citation-popover-snippet">Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 ## How Blanket Licensing Systems Operate
 
 ### From Song-by-Song Licensing to Blanket Licences
 
-One of the most significant governance changes in streaming royalties came through the United States' Music Modernization Act (MMA). Before the reform, digital services generally had to secure mechanical licences on a work-by-work basis under section 115 of US copyright law. The MMA replaced much of that process with a blanket licensing framework for eligible streaming and download services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office
+One of the most significant governance changes in streaming royalties came through the United States' Music Modernization Act (MMA). Before the reform, digital services generally had to secure mechanical licences on a work-by-work basis under section 115 of US copyright law. The MMA replaced much of that process with a blanket licensing framework for eligible streaming and download services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office
 
-Under this model, a qualifying streaming platform can obtain a single blanket licence covering a vast repertoire of musical works rather than pursuing millions of individual licences. The system was designed to reduce licensing failures while making royalty collection more reliable for songwriters and publishers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office
+Under this model, a qualifying streaming platform can obtain a single blanket licence covering a vast repertoire of musical works rather than pursuing millions of individual licences. The system was designed to reduce licensing failures while making royalty collection more reliable for songwriters and publishers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office
 
 ### The Role of the Mechanical Licensing Collective
 
-The centrepiece of the US system is the Mechanical Licensing Collective (MLC), a non-profit entity designated by the US Copyright Office to administer the blanket digital mechanical licence. The MLC collects royalties and usage reports from digital service providers, matches stream data to musical works, calculates royalties, and distributes payments to publishers, administrators and self-administered songwriters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span>
+The centrepiece of the US system is the Mechanical Licensing Collective (MLC), a non-profit entity designated by the US Copyright Office to administer the blanket digital mechanical licence. The MLC collects royalties and usage reports from digital service providers, matches stream data to musical works, calculates royalties, and distributes payments to publishers, administrators and self-administered songwriters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span>
 
 The workflow is broadly:
 
@@ -310,15 +310,15 @@ The workflow is broadly:
 2. The service submits monthly usage data and royalty payments.
 3. The licensing collective compares stream records against ownership databases.
 4. Matching algorithms identify the correct copyright owners.
-5. Royalties are distributed to the registered rightsholders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> This centralised approach addresses a problem that repeatedly troubled the streaming industry during its early growth: services often knew what had been streamed but lacked complete information about who owned the underlying compositions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Major leap for streaming royalties</span><span class="citation-popover-snippet">Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+5. Royalties are distributed to the registered rightsholders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> This centralised approach addresses a problem that repeatedly troubled the streaming industry during its early growth: services often knew what had been streamed but lacked complete information about who owned the underlying compositions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Major leap for streaming royalties</span><span class="citation-popover-snippet">Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 ## Ownership Data Is the Real Infrastructure
 
 The most important asset in a modern mechanical licensing system is not the licence itself but the ownership data behind it.
 
-Every stream reported by a digital service must be linked to a specific composition and its corresponding ownership shares. A song may have multiple writers, publishers, administrators and international rights organisations involved. The licensing system therefore depends on accurate metadata, including songwriter names, publisher information, ownership percentages and work registrations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> When ownership information is complete, matching is largely automated. When it is incomplete, conflicting or missing, royalties can become "unmatched". In that situation, the money may be collected but cannot immediately be assigned to a verified copyright owner. The licensing collective must then conduct additional matching efforts and claims processes before distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
+Every stream reported by a digital service must be linked to a specific composition and its corresponding ownership shares. A song may have multiple writers, publishers, administrators and international rights organisations involved. The licensing system therefore depends on accurate metadata, including songwriter names, publisher information, ownership percentages and work registrations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</span></span></span> When ownership information is complete, matching is largely automated. When it is incomplete, conflicting or missing, royalties can become "unmatched". In that situation, the money may be collected but cannot immediately be assigned to a verified copyright owner. The licensing collective must then conduct additional matching efforts and claims processes before distribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
 
-The governance challenge is therefore not merely collecting money from streaming services. It is maintaining a sufficiently accurate ownership database so that payments can be directed correctly at scale. Billions of monthly streams generate vast quantities of usage records, making metadata quality a central policy issue rather than a purely administrative detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">why transparency matters in music royalties</span><span class="citation-popover-snippet">Royalty ExchangeWhy Transparency Matters in Music Royalties5 Mar 2025 — Currently, outdated systems and missing data lead to billions in...</span></span></span>
+The governance challenge is therefore not merely collecting money from streaming services. It is maintaining a sufficiently accurate ownership database so that payments can be directed correctly at scale. Billions of monthly streams generate vast quantities of usage records, making metadata quality a central policy issue rather than a purely administrative detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royaltyexchange.com">[Royalty Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royaltyexchange.com</span><span class="citation-popover-title">why transparency matters in music royalties</span><span class="citation-popover-snippet">Royalty ExchangeWhy Transparency Matters in Music Royalties5 Mar 2025 — Currently, outdated systems and missing data lead to billions in...</span></span></span>
 
 <img src="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-dark.svg" | relative_url }}" alt="Mechanical Royalties illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ownership Data and Delayed Payments
@@ -333,211 +333,211 @@ Common causes include:
 * Conflicting ownership claims between publishers.
 * Incomplete songwriter information.
 * Ownership splits that differ across databases.
-* [Catalogue]({{ 'catalogue/' | relative_url }}) acquisitions that have not been fully updated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
+* [Catalogue]({{ 'catalogue/' | relative_url }}) acquisitions that have not been fully updated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
 
-In these cases, a streaming platform may have paid the required royalties, yet the money cannot be distributed until ownership is verified. The result is a pool of unmatched royalties awaiting [identification]({{ 'identification/' | relative_url }}) of the correct recipients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
+In these cases, a streaming platform may have paid the required royalties, yet the money cannot be distributed until ownership is verified. The result is a pool of unmatched royalties awaiting [identification]({{ 'identification/' | relative_url }}) of the correct recipients.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</span></span></span>
 
 ### The Problem of Unmatched Royalties
 
-The scale of unmatched royalties became highly visible during the implementation of the Music Modernization Act. Streaming services transferred hundreds of millions of dollars in historical unmatched royalties into the new system so that ownership claims could be resolved and payments distributed to the rightful copyright owners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
+The scale of unmatched royalties became highly visible during the implementation of the Music Modernization Act. Streaming services transferred hundreds of millions of dollars in historical unmatched royalties into the new system so that ownership claims could be resolved and payments distributed to the rightful copyright owners.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-snippet">This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</span></span></span>
 
-This issue illustrates a common misunderstanding about streaming economics. Missing royalties are not always the result of a platform refusing to pay. Often the money has been collected but remains stranded because ownership information is incomplete or inconsistent across databases. The governance challenge is therefore as much about information management as financial collection. The Library of Congress <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span>
+This issue illustrates a common misunderstanding about streaming economics. Missing royalties are not always the result of a platform refusing to pay. Often the money has been collected but remains stranded because ownership information is incomplete or inconsistent across databases. The governance challenge is therefore as much about information management as financial collection. The Library of Congress<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</span></span></span>
 
 ## Why Mechanical Licensing Remains a Policy Issue
 
-Although blanket licensing has simplified administration, debates continue over how streaming mechanical royalties are calculated, reported and distributed. Questions about royalty rates, service classifications, reporting obligations and revenue calculations still affect the size of the royalty pool available to songwriters. Recent disputes involving streaming platforms and the Mechanical Licensing Collective have demonstrated that licensing administration remains closely tied to broader policy and regulatory decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Spotify sued over millions in allegedly unpaid music royalties</span><span class="citation-popover-snippet">The lawsuit, filed in New York federal court, claims that Spotify underreported its revenue by nearly half to avoid paying millions of do...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
+Although blanket licensing has simplified administration, debates continue over how streaming mechanical royalties are calculated, reported and distributed. Questions about royalty rates, service classifications, reporting obligations and revenue calculations still affect the size of the royalty pool available to songwriters. Recent disputes involving streaming platforms and the Mechanical Licensing Collective have demonstrated that licensing administration remains closely tied to broader policy and regulatory decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Spotify sued over millions in allegedly unpaid music royalties</span><span class="citation-popover-snippet">The lawsuit, filed in New York federal court, claims that Spotify underreported its revenue by nearly half to avoid paying millions of do...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
 
-The key achievement of modern mechanical licensing systems is not that they eliminated complexity. Rather, they moved complexity into a structured governance framework built around blanket licences, centralised data collection and ownership matching. For songwriters, that infrastructure is what turns billions of anonymous streams into identifiable composition royalties that can ultimately be paid to the people who created the songs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span>
+The key achievement of modern mechanical licensing systems is not that they eliminated complexity. Rather, they moved complexity into a structured governance framework built around blanket licences, centralised data collection and ownership matching. For songwriters, that infrastructure is what turns billions of anonymous streams into identifiable composition royalties that can ultimately be paid to the people who created the songs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: copyright.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">copyright.gov</span><span class="citation-popover-snippet">licensing collective (MLC) to report and distribute royalties paid...</span></span></span>. Copyright Office<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themlc.com">[Mechanical Licensing Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themlc.com</span><span class="citation-popover-snippet">Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hidden Song Royalties Inside Streaming. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hidden Song Royalties Inside Streaming. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
-        </h4>
-        <p class="fr-book-author">By Donald S. Passman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open All You Need to Know About the Music Business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_SnJAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for All You Need to Know About the Music Business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="All You Need to Know About the Music Business">All You Need to Know About the Music Business</a>
+</h4>
+<p class="fr-book-author">By Donald S. Passman</p>
         
-        <p class="fr-book-desc">Explains mechanical and streaming royalty structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains mechanical and streaming royalty structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business+by+Donald+S.+Passman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
-        </h4>
-        <p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music Business Handbook and Career Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bUB_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Music Business Handbook and Career Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music Business Handbook and Career Guide">Music Business Handbook and Career Guide</a>
+</h4>
+<p class="fr-book-author">By David Baskerville, Tim Baskerville</p>
         
-        <p class="fr-book-desc">Provides wider context for digital music revenue systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for digital music revenue systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music+Business+Handbook+and+Career+Guide+by+David+Baskerville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
-        </h4>
-        <p class="fr-book-author">By Ari Herstand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to make it in the new music business on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14476751-M.jpg" alt="Cover for How to make it in the new music business" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to make it in the new music business">How to make it in the new music business</a>
+</h4>
+<p class="fr-book-author">By Ari Herstand</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Music trade, Popular music, Music, Vocational guidance, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business+Ari+Herstand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music, money, and success on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/18417-M.jpg" alt="Cover for Music, money, and success" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music, money, and success">Music, money, and success</a>
+</h4>
+<p class="fr-book-author">By Jeffrey Brabec, Todd Brabec et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Vocational guidance, Economic aspects of Music, Music, Music trade, Economic aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Music%2C+money%2C+and+success+Jeffrey+Brabec&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=All+You+Need+to+Know+About+the+Music+Business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">All You Need to Know About the Music Business</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+Business+and+Career+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music Business and Career books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+make+it+in+the+new+music+business&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to make it in the new music business</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Your Photo Spotify Music Any Song Lyric Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/99fc2193346634d3bde2.jpg' | relative_url }}" alt="Listing image for Black Your Photo Spotify Music Any Song Lyric Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">Black Your Photo Spotify Music Any Song Lyric Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Your Photo Spotify Music Any Song Lyric Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/99fc2193346634d3bde2.jpg' | relative_url }}" alt="Listing image for Black Your Photo Spotify Music Any Song Lyric Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">Black Your Photo Spotify Music Any Song Lyric Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Your Photo Spotify Music Any Song Lyric Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/57d56f56191c4ba6c5b3.jpg' | relative_url }}" alt="Listing image for White Your Photo Spotify Music Any Song Lyric Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Your Photo Spotify Music Any Song Lyric Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Your Photo Spotify Music Any Song Lyric Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/57d56f56191c4ba6c5b3.jpg' | relative_url }}" alt="Listing image for White Your Photo Spotify Music Any Song Lyric Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Your Photo Spotify Music Any Song Lyric Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d796fbadbb27a98e5d.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d796fbadbb27a98e5d.jpg' | relative_url }}" alt="Listing image for We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">We Will Rock You - Queen Spotify Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcb5d301da604a806cc8.jpg' | relative_url }}" alt="Listing image for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcb5d301da604a806cc8.jpg' | relative_url }}" alt="Listing image for inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">inner monologue pt 1 spotify Framed Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for spotify wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: spotify wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=spotify+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spotify wall art" data-ebay-reference="mechanical-royalties-the-hidden-song-royalties-inside-streaming-music-spotify-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ The key achievement of modern mechanical licensing systems is not that they elim
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ The key achievement of modern mechanical licensing systems is not that they elim
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ The key achievement of modern mechanical licensing systems is not that they elim
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ The key achievement of modern mechanical licensing systems is not that they elim
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ The key achievement of modern mechanical licensing systems is not that they elim
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,164 +743,164 @@ The key achievement of modern mechanical licensing systems is not that they elim
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: artists.spotify.com  
    Title: for Artists Collecting Mechanical Royalties Can Be Tricky  
-   Link: <a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</p></details>
+   Link:<a href="https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that" target="_blank" rel="noopener noreferrer nofollow">https://artists.spotify.com/blog/collecting-mechanical-royalties-can-be-tricky-the-mlc-is-here-to-fix-that</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC...21 Mar 2022 — The mechanical royalty has to do with the digital reproduction of the musical work embodied in the audio file, a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-designations/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/faq.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeFrequently Asked Questions on the Designation of...The MMA created a new blanket compulsory licensing system for the rep...</p></details>
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-designations/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-designations/faq.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeFrequently Asked Questions on the Designation of...The MMA created a new blanket compulsory licensing system for the rep...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: axios.com  
    Title: Major leap for streaming royalties  
-   Link: <a href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</p></details>
+   Link:<a href="https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/nashville/2022/02/23/streaming-royalties-music-licensing-collective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Established under the landmark 2018 Music Modernization Act, the MLC ensures accurate royalty payments from on-demand streaming platforms...</p></details>
    Published: February 23, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/faq.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeMusic Modernization: FAQ | U.S. Copyright OfficeTitle I – The Musical Works Modernization Act, which creates a blanket li...</p></details>
+   Link:<a href="https://www.copyright.gov/music-modernization/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/faq.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright OfficeMusic Modernization: FAQ | U.S. Copyright OfficeTitle I – The Musical Works Modernization Act, which creates a blanket li...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</p></details>
+   Link:<a href="https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ARIPO/what-you-should-know-about-the-mechanical-licensing-collective-the-mlc-9a92f5aec1c8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What You Should Know About the Mechanical Licensing...DSPs that secure the new blanket license must also pay the mechanical royalties du...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</p></details>
+   Link:<a href="https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/streaming-services-pay-dollar424-million-in-unmatched-royalties-to-mechanical-licensing-collective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This follows the directives of the Music Modernization Act (MMA), which requires the MLC to distribute unmatched royalties to rightful ri...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
    Title: Spotify sued over millions in allegedly unpaid music royalties  
-   Link: <a href="https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuit, filed in New York federal court, claims that Spotify underreported its revenue by nearly half to avoid paying millions of do...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/spotify-sued-over-millions-allegedly-unpaid-music-royalties-2024-05-17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The lawsuit, filed in New York federal court, claims that Spotify underreported its revenue by nearly half to avoid paying millions of do...</p></details>
    Published: May 17, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The royalty-gathering nonprofit Mechanical Licensing Collective (MLC) argued that Spotify misreported its revenue to avoid millions of do...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/spotify-defeats-us-licensing-groups-lawsuit-over-royalties-2025-01-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The royalty-gathering nonprofit Mechanical Licensing Collective (MLC) argued that Spotify misreported its revenue to avoid millions of do...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-royalty-statements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>licensing collective (MLC) to report and distribute royalties paid...</p></details>
+   Link:<a href="https://www.copyright.gov/rulemaking/mma-royalty-statements/" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/rulemaking/mma-royalty-statements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>licensing collective (MLC) to report and distribute royalties paid...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: copyright.gov  
-   Link: <a href="https://www.copyright.gov/music-modernization/related-rulemakings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/related-rulemakings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>istributions in a manner consistent with this understanding of the Exception and...Read more...</p></details>
+   Link:<a href="https://www.copyright.gov/music-modernization/related-rulemakings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.copyright.gov/music-modernization/related-rulemakings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>istributions in a manner consistent with this understanding of the Exception and...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/dsp-faqs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</p></details>
+   Link:<a href="https://www.themlc.com/dsp-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/dsp-faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveDSP FAQsWhat does the blanket license cover? The Blanket License covers the making of a digital phonorecor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/how-it-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveHow It WorksThe MLC administers blanket mechanical licenses for eligible streaming and download services i...</p></details>
+   Link:<a href="https://www.themlc.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveHow It WorksThe MLC administers blanket mechanical licenses for eligible streaming and download services i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: royaltyexchange.com  
    Title: why transparency matters in music royalties  
-   Link: <a href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeWhy Transparency Matters in Music Royalties5 Mar 2025 — Currently, outdated systems and missing data lead to billions in...</p></details>
+   Link:<a href="https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/why-transparency-matters-in-music-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royalty ExchangeWhy Transparency Matters in Music Royalties5 Mar 2025 — Currently, outdated systems and missing data lead to billions in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/governance" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/governance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveGovernance and BylawsIn July 2019, the U.S. Register of Copyrights designated The MLC to be the entity tha...</p></details>
+   Link:<a href="https://www.themlc.com/governance" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/governance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveGovernance and BylawsIn July 2019, the U.S. Register of Copyrights designated The MLC to be the entity tha...</p></details>
    Published: July 2019  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveMechanical Licensing Collective: HomeThe MLC distributes digital audio mechanical royalties to eligible se...</p></details>
+   Link:<a href="https://www.themlc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveMechanical Licensing Collective: HomeThe MLC distributes digital audio mechanical royalties to eligible se...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: themlc.com  
-   Link: <a href="https://www.themlc.com/digital-music-royalties-landscape" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/digital-music-royalties-landscape</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveThe Digital Music Royalties LandscapeThe MLC is the only organization in the United States authorized to a...</p></details>
+   Link:<a href="https://www.themlc.com/digital-music-royalties-landscape" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/digital-music-royalties-landscape</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing CollectiveThe Digital Music Royalties LandscapeThe MLC is the only organization in the United States authorized to a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</p></details>
+   Link:<a href="https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/copyright/2023/03/mechanical-unmatched-historical-what-are-the-differences-between-all-these-royalties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of Congress“Mechanical,” “Unmatched,” “Historical”: What Are the...13 Mar 2023 — The MLC is now working to identify the copy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</p></details>
+   Link:<a href="https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/the-accounting-behind-music-royalties-in-the-streaming-era-b4fe925f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Specialists like Chris Hull and Chris Fazzolari play crucial roles in auditing and ensuring accurate royalty payments to musicians and co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: royaltyexchange.com  
    Title: mechanical royalties  
-   Link: <a href="https://royaltyexchange.com/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/mechanical-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know24 Mar 2026 — Learn how mechanical royalties work, current rates, who pays and collects them, and how investor...</p></details>
+   Link:<a href="https://royaltyexchange.com/blog/mechanical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://royaltyexchange.com/blog/mechanical-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know24 Mar 2026 — Learn how mechanical royalties work, current rates, who pays and collects them, and how investor...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nket royalties, noting that it “has distributed monthly royalty payments for...Read more...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/06/03/2026-11117/periodic-review-of-the-designations-of-the-mechanical-licensing-collective-and-digital-licensee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nket royalties, noting that it “has distributed monthly royalty payments for...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: copyrightalliance.org  
    Title: mlc license availability date january 1 what this means  
-   Link: <a href="https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MLC License Availability Date: January 1Jan 19, 2021 — The MLC administers blanket mechanical licenses for musical compositions to eligib...</p></details>
+   Link:<a href="https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/" target="_blank" rel="noopener noreferrer nofollow">https://copyrightalliance.org/mlc-license-availability-date-january-1-what-this-means/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MLC License Availability Date: January 1Jan 19, 2021 — The MLC administers blanket mechanical licenses for musical compositions to eligib...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apraamcos.com.au  
    Title: important update mechanical licensing collective the mlc  
-   Link: <a href="https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing Collective (The MLC)1 Jan 2021 — The MLC will collect the royalties due under those licenses from the DSPs and pay s...</p></details>
+   Link:<a href="https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc" target="_blank" rel="noopener noreferrer nofollow">https://www.apraamcos.com.au/about-us/news-and-events/important-update-mechanical-licensing-collective-the-mlc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mechanical Licensing Collective (The MLC)1 Jan 2021 — The MLC will collect the royalties due under those licenses from the DSPs and pay s...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aristake.com  
    Title: songwriters claim mlc money  
-   Link: <a href="https://aristake.com/songwriters-claim-mlc-money/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/songwriters-claim-mlc-money/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC is Sitting On $423 Million, How Songwriters Can...5 May 2021 — It collects mechanical royalties from DSPs (streaming services) a...</p></details>
+   Link:<a href="https://aristake.com/songwriters-claim-mlc-money/" target="_blank" rel="noopener noreferrer nofollow">https://aristake.com/songwriters-claim-mlc-money/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MLC is Sitting On $423 Million, How Songwriters Can...5 May 2021 — It collects mechanical royalties from DSPs (streaming services) a...</p></details>
    Published: May 2021  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: luminatedata.com  
    Title: finance valuation  
-   Link: <a href="https://luminatedata.com/case-studies/finance-valuation/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/case-studies/finance-valuation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Unclaimed Streaming Activities for Major Financial...27 Oct 2025 — A royalty is a payment made to the rights holder of a cre...</p></details>
+   Link:<a href="https://luminatedata.com/case-studies/finance-valuation/" target="_blank" rel="noopener noreferrer nofollow">https://luminatedata.com/case-studies/finance-valuation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Unclaimed Streaming Activities for Major Financial...27 Oct 2025 — A royalty is a payment made to the rights holder of a cre...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MMA new Mechanical license collective for cover songs...The MLC now makes it easier for digital music service providers operating in the...</p></details>
+   Link:<a href="https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/COPYRIGHT/comments/kplwg0/mma_new_mechanical_license_collective_for_cover/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MMA new Mechanical license collective for cover songs...The MLC now makes it easier for digital music service providers operating in the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: songtrust.com  
-   Link: <a href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/the-mechanical-licensing-collective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>licenses, The MLC invoices DSPs and then distributes mechanical...</p></details>
+   Link:<a href="https://www.songtrust.com/the-mechanical-licensing-collective" target="_blank" rel="noopener noreferrer nofollow">https://www.songtrust.com/the-mechanical-licensing-collective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>licenses, The MLC invoices DSPs and then distributes mechanical...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: themlc.com  
    Title: historical royalties  
-   Link: <a href="https://www.themlc.com/historical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/historical-royalties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These historical unmatched royalties related to streaming activities that took place between 2007 and 2020, before the blanket license ad...</p></details>
+   Link:<a href="https://www.themlc.com/historical-royalties" target="_blank" rel="noopener noreferrer nofollow">https://www.themlc.com/historical-royalties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These historical unmatched royalties related to streaming activities that took place between 2007 and 2020, before the blanket license ad...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: support.tunecore.com  
    Title: 360052000051 What is the Mechanical Licensing Collective MLC  
-   Link: <a href="https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the Mechanical Licensing Collective &quot;MLC&quot;?The MLC will collect and pay mechanical royalties collected by eligible Digital Service Prov...</p></details>
+   Link:<a href="https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC" target="_blank" rel="noopener noreferrer nofollow">https://support.tunecore.com/hc/en-us/articles/360052000051-What-is-the-Mechanical-Licensing-Collective-MLC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the Mechanical Licensing Collective &quot;MLC&quot;?The MLC will collect and pay mechanical royalties collected by eligible Digital Service Prov...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wipo.int  
-   Link: <a href="https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on that can collect and distribute the...</p></details>
+   Link:<a href="https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_webinar_cr_2022_12/wipo_webinar_cr_2022_12_pres.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on that can collect and distribute the...</p></details>

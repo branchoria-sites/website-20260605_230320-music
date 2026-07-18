@@ -277,13 +277,13 @@ image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwr
 Writing for short-form platforms creates a genuine songwriting dilemma. A song may need a memorable 10–20 second section that works independently in a video clip, yet listeners who stream the entire track still expect momentum, development and emotional payoff. The challenge is not simply creating a viral moment; it is ensuring that the moment serves the song rather than replacing it.
 
 <img src="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-dark.svg" | relative_url }}" alt="Clip Tradeoffs illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most successful contemporary writers increasingly treat clips as entry points rather than destinations. A shareable fragment can attract [attention]({{ 'attention/' | relative_url }}), but the complete song still has to reward deeper listening. The difference between a durable hit and a disposable trend often lies in whether the viral section feels like a doorway into a larger musical experience or merely the only interesting part of the track. Berklee songwriting faculty have noted that writers are paying closer attention to small structural details that make songs immediately recognisable on platforms such as TikTok, while still needing complete compositions that hold together beyond a few seconds of playback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
+The most successful contemporary writers increasingly treat clips as entry points rather than destinations. A shareable fragment can attract [attention]({{ 'attention/' | relative_url }}), but the complete song still has to reward deeper listening. The difference between a durable hit and a disposable trend often lies in whether the viral section feels like a doorway into a larger musical experience or merely the only interesting part of the track. Berklee songwriting faculty have noted that writers are paying closer attention to small structural details that make songs immediately recognisable on platforms such as TikTok, while still needing complete compositions that hold together beyond a few seconds of playback.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
 
 ## When a Viral Snippet Hurts the Full Song
 
 The most obvious risk of clip-first writing is imbalance. A writer may spend enormous effort crafting one irresistible moment while neglecting everything around it.
 
-This problem becomes visible when audiences know a single section but disengage from the rest of the song. The experience surrounding Steve Lacy's "Bad Habit" became a widely discussed example. The song itself was a full commercial and critical success, but viral videos from [concerts]({{ 'concerts/' | relative_url }}) showed portions of audiences enthusiastically singing the famous hook while struggling with subsequent sections. Commentators and Lacy himself noted the unusual dynamic created when a fragment becomes more culturally familiar than the entire work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Inescapable Charm of Steve Lacy&#x27;s &quot;Bad Habit</span><span class="citation-popover-snippet">Nevertheless, it&#x27;s unclear why certain songs gain popularity on the platform. This often anarchic rise in popularity was seen with Steve...</span></span></span>
+This problem becomes visible when audiences know a single section but disengage from the rest of the song. The experience surrounding Steve Lacy's "Bad Habit" became a widely discussed example. The song itself was a full commercial and critical success, but viral videos from [concerts]({{ 'concerts/' | relative_url }}) showed portions of audiences enthusiastically singing the famous hook while struggling with subsequent sections. Commentators and Lacy himself noted the unusual dynamic created when a fragment becomes more culturally familiar than the entire work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Inescapable Charm of Steve Lacy&#x27;s &quot;Bad Habit</span><span class="citation-popover-snippet">Nevertheless, it&#x27;s unclear why certain songs gain popularity on the platform. This often anarchic rise in popularity was seen with Steve...</span></span></span>
 
 The lesson is not that viral clips are harmful. Rather, a viral clip can expose weaknesses that already exist. If listeners repeatedly return only to one passage, it raises the question of whether the surrounding sections provide enough additional value.
 
@@ -323,7 +323,7 @@ For example:
 
 In this model, the clip succeeds because it represents the song's strongest idea, but the complete track remains valuable because every section adds information unavailable in the clip alone.
 
-Berklee's discussion of TikTok-era songwriting highlights how identifiable structural moments can attract listeners. The key implementation challenge is ensuring those moments remain integrated into the wider composition rather than functioning as detached marketing assets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
+Berklee's discussion of TikTok-era songwriting highlights how identifiable structural moments can attract listeners. The key implementation challenge is ensuring those moments remain integrated into the wider composition rather than functioning as detached marketing assets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
 
 ### Development Creates Replays
 
@@ -361,7 +361,7 @@ A song might contain:
 
 This approach reduces pressure on any single section and encourages different audiences to discover the same song through different pathways.
 
-The success of many TikTok-driven songs demonstrates that [viral moments]({{ 'viral-moments/' | relative_url }}) are not always choruses. Bridges, second verses, spoken interjections and production breaks have all become entry points for discovery. Berklee's analysis similarly notes that distinctive structural devices can become recognisable hooks in their own right. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
+The success of many TikTok-driven songs demonstrates that [viral moments]({{ 'viral-moments/' | relative_url }}) are not always choruses. Bridges, second verses, spoken interjections and production breaks have all become entry points for discovery. Berklee's analysis similarly notes that distinctive structural devices can become recognisable hooks in their own right.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berklee.edu">[berklee.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berklee.edu</span><span class="citation-popover-title">tiktok is changing the dna of hit songs and artists are taking note</span><span class="citation-popover-snippet">TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cNBn5miA8EA" title="Full Songwriting Course: Becoming a Songwriter (+Free PDF Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cNBn5miA8EA" target="_blank" rel="noopener noreferrer">Full Songwriting Course: Becoming a Songwriter (+Free PDF Guide)</a></p><p class="youtube-embed-meta">Channel: Andrea Stolpe &middot; Views: 329.7K &middot; Uploaded: January 2025 &middot; Length: 2 hours 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cNBn5miA8EA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cNBn5miA8EA">Open on YouTube</a></p></div></div></div>
 
@@ -396,194 +396,194 @@ That distinction increasingly defines the difference between a moment that trend
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wo6CAG6VNO8" title="TikTok Broke Pop Songwriting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer">TikTok Broke Pop Songwriting</a></p><p class="youtube-embed-meta">Channel: Maya Wagner &middot; Views: 40.2K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wo6CAG6VNO8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Viral Snippet Hurts the Full Song. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Viral Snippet Hurts the Full Song. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hit Makers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M-gczwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hit Makers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hit Makers">Hit Makers</a>
-        </h4>
-        <p class="fr-book-author">By Derek Thompson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hit Makers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M-gczwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hit Makers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hit Makers">Hit Makers</a>
+</h4>
+<p class="fr-book-author">By Derek Thompson</p>
         
-        <p class="fr-book-desc">Useful for understanding why snippets spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why snippets spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hit+Makers+by+Derek+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Write+One+Song+Jeff+Tweedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Write One Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10488594-M.jpg" alt="Cover for How to Write One Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Write+One+Song+Jeff+Tweedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Write One Song">How to Write One Song</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Tweedy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Write+One+Song+Jeff+Tweedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Write One Song on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10488594-M.jpg" alt="Cover for How to Write One Song" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Write+One+Song+Jeff+Tweedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Write One Song">How to Write One Song</a>
+</h4>
+<p class="fr-book-author">By Jeff Tweedy</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: nyt:advice-how-to-and-miscellaneous=2020-11-01, New York Times bestseller, Popular music, writing and pub...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Write+One+Song+Jeff+Tweedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: nyt:advice-how-to-and-miscellaneous=2020-11-01, New York Times bestseller, Popular music, writing and pub...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Write+One+Song+Jeff+Tweedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
-        </h4>
-        <p class="fr-book-author">By Pat Pattison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Writing better lyrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/699095-M.jpg" alt="Cover for Writing better lyrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Writing better lyrics">Writing better lyrics</a>
+</h4>
+<p class="fr-book-author">By Pat Pattison</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Lyric writing (Popular music), Popular music, Writing and publishing, Popular music, writing and publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Writing+better+lyrics+Pat+Pattison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Songwriting+Scarlet+Keys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8829060-M.jpg" alt="Cover for The Craft of Songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Songwriting+Scarlet+Keys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Songwriting">The Craft of Songwriting</a>
-        </h4>
-        <p class="fr-book-author">By Scarlet Keys</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Songwriting+Scarlet+Keys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Songwriting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8829060-M.jpg" alt="Cover for The Craft of Songwriting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Songwriting+Scarlet+Keys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Songwriting">The Craft of Songwriting</a>
+</h4>
+<p class="fr-book-author">By Scarlet Keys</p>
         
-        <p class="fr-book-desc">First published 2018.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Songwriting+Scarlet+Keys&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Songwriting+Scarlet+Keys&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hit+Makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hit Makers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Write+One+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Write One Song</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hit+Makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hit Makers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Write+One+Song&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Write One Song</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Writing+better+lyrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Writing better lyrics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer"><img src="{{ '/assets/images/marketplace-covers/aafd49b6541a0d191524.jpg' | relative_url }}" alt="Listing image for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer"><img src="{{ '/assets/images/marketplace-covers/aafd49b6541a0d191524.jpg' | relative_url }}" alt="Listing image for Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lyricist Women&#x27;s Ladies T-Shirt Funny Gift Definition Songwriter Music Singer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL"><img src="{{ '/assets/images/marketplace-covers/dd41612c1da6de007428.jpg' | relative_url }}" alt="Listing image for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL"><img src="{{ '/assets/images/marketplace-covers/dd41612c1da6de007428.jpg' | relative_url }}" alt="Listing image for Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Victor Jara T-Shirt - Chile Folk Singer Songwriter, 60&#x27;s/70s, Activist, S-XXL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/c17eefb77a846028fdca.jpg' | relative_url }}" alt="Listing image for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/c17eefb77a846028fdca.jpg' | relative_url }}" alt="Listing image for New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Canserbero Hip Hop Venezuelan a Singer Songwriter MAN WOMAN T-Shirt S to 5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe"><img src="{{ '/assets/images/marketplace-covers/afef061b25e785cbeae6.jpg' | relative_url }}" alt="Listing image for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe"><img src="{{ '/assets/images/marketplace-covers/afef061b25e785cbeae6.jpg' | relative_url }}" alt="Listing image for Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Sad Pop Aesthetic T-Shirt | Modern Singer Songwriter Vibe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for songwriter t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: songwriter t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=songwriter+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="songwriter t shirt" data-ebay-reference="clip-tradeoffs-when-a-viral-snippet-hurts-the-full-song-music-songwriter-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ That distinction increasingly defines the difference between a moment that trend
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ That distinction increasingly defines the difference between a moment that trend
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ That distinction increasingly defines the difference between a moment that trend
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ That distinction increasingly defines the difference between a moment that trend
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ That distinction increasingly defines the difference between a moment that trend
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,76 +789,76 @@ That distinction increasingly defines the difference between a moment that trend
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: berklee.edu  
    Title: tiktok is changing the dna of hit songs and artists are taking note  
-   Link: <a href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</p></details>
+   Link:<a href="https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note" target="_blank" rel="noopener noreferrer nofollow">https://www.berklee.edu/berklee-now/news/tiktok-is-changing-the-dna-of-hit-songs-and-artists-are-taking-note</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Is Changing the DNA of Hit Songs, and Artists Are...24 Oct 2023 — Berklee songwriters explain how the smallest details of a song&#x27;...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: college.berklee.edu  
-   Link: <a href="https://college.berklee.edu/songwriting" target="_blank" rel="noopener noreferrer nofollow">https://college.berklee.edu/songwriting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DepartmentThe Songwriting Department offers a Bachelor of Music in songwriting. Students majoring in songwriting master [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), harmony...</p></details>
+   Link:<a href="https://college.berklee.edu/songwriting" target="_blank" rel="noopener noreferrer nofollow">https://college.berklee.edu/songwriting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DepartmentThe Songwriting Department offers a Bachelor of Music in songwriting. Students majoring in songwriting master [melody](&amp;#123;&amp;#123; &#x27;melody/&#x27; | relative_url &amp;#125;&amp;#125;), harmony...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newyorker.com  
    Title: The New Yorker The Inescapable Charm of Steve Lacy's "Bad Habit"  
-   Link: <a href="https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevertheless, it&#x27;s unclear why certain songs gain popularity on the platform. This often anarchic rise in popularity was seen with Steve...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/the-inescapable-charm-of-steve-lacys-bad-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nevertheless, it&#x27;s unclear why certain songs gain popularity on the platform. This often anarchic rise in popularity was seen with Steve...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: barbican.org.uk  
-   Link: <a href="https://www.barbican.org.uk/whats-on/2025/event/steve" target="_blank" rel="noopener noreferrer nofollow">https://www.barbican.org.uk/whats-on/2025/event/steve</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Oct 2025 — In the mid 1990s, head teacher Steve (Cillian Murphy) struggles to keep a reform boys&#x27; school afloat. The crumbling manor la...</p></details>
+   Link:<a href="https://www.barbican.org.uk/whats-on/2025/event/steve" target="_blank" rel="noopener noreferrer nofollow">https://www.barbican.org.uk/whats-on/2025/event/steve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Oct 2025 — In the mid 1990s, head teacher Steve (Cillian Murphy) struggles to keep a reform boys&#x27; school afloat. The crumbling manor la...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/</a>  
+   Link:<a href="https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SongScriptors/posts/10155848619906181/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is TikTok really re-shaping how artists are writing their...’ve been noticing more and more how TikTok is influencing the way songs are...</p></details>
+   Link:<a href="https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Songwriting/comments/1nifjyg/is_tiktok_really_reshaping_how_artists_are/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is TikTok really re-shaping how artists are writing their...’ve been noticing more and more how TikTok is influencing the way songs are...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/</a>  
+   Link:<a href="https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/musicradartech/posts/with-tiktok-and-streaming-services-being-blamed-for-dumbing-down-songwriting-we-/5791330470906296/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cNBn5miA8EA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cNBn5miA8EA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Songwriting Course: Becoming a Songwriter (+Free PDF...Becoming a Songwriter – free course on YouTube + a free companion guide! Sta...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cNBn5miA8EA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cNBn5miA8EA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full Songwriting Course: Becoming a Songwriter (+Free PDF...Becoming a Songwriter – free course on YouTube + a free companion guide! Sta...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wo6CAG6VNO8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Broke Pop SongwritingIn this *video essay* I break down how the rise of short-form video erased traditional song form, why the hoo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wo6CAG6VNO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wo6CAG6VNO8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TikTok Broke Pop SongwritingIn this *video essay* I break down how the rise of short-form video erased traditional song form, why the hoo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRFStrrjZXV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRFStrrjZXV/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d my students a challenge to write what I call a story hook song...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRFStrrjZXV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRFStrrjZXV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d my students a challenge to write what I call a story hook song...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: netflix.com  
    Title: steve trailer tim mielants interview  
-   Link: <a href="https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Steve&#x27;: Interview with Director Tim Mielants3 Oct 2025 — Over one intense day, the devoted head teacher of a last-chance reform school s...</p></details>
+   Link:<a href="https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/steve-trailer-tim-mielants-interview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Steve&#x27;: Interview with Director Tim Mielants3 Oct 2025 — Over one intense day, the devoted head teacher of a last-chance reform school s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: it.scribd.com  
    Title: Berklee Basic Melody Songwriting  
-   Link: <a href="https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting" target="_blank" rel="noopener noreferrer nofollow">https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The melody should be notated in a clear-cut but accurate fashion · 2. If a section of a song is repeated and some melodic rhythms and · 3...</p></details>
+   Link:<a href="https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting" target="_blank" rel="noopener noreferrer nofollow">https://it.scribd.com/doc/231048074/Berklee-Basic-Melody-Songwriting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The melody should be notated in a clear-cut but accurate fashion · 2. If a section of a song is repeated and some melodic rhythms and · 3...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DCTil7LLZ5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCTil7LLZ5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write a Song: Use Imagery and Small Moments | Part 1...How to Write a Song: Verses Carry the Story, Chorus Carries the Message |...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DCTil7LLZ5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCTil7LLZ5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write a Song: Use Imagery and Small Moments | Part 1...How to Write a Song: Verses Carry the Story, Chorus Carries the Message |...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UUrRgbrMa34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UUrRgbrMa34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scarlet Keys 15/24. 14K views · 5 years ago...more. Berklee...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UUrRgbrMa34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UUrRgbrMa34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scarlet Keys 15/24. 14K views · 5 years ago...more. Berklee...</p></details>
